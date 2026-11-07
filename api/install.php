@@ -8,11 +8,9 @@
 require_once __DIR__ . '/config.php';
 require_once __DIR__ . '/db.php';
 
-// Security Gate: Require Secret Setup Key
-$providedKey = isset($_GET['key']) ? trim($_GET['key']) : '';
-if (empty($providedKey) || !hash_equals(INSTALL_SECRET_KEY, $providedKey)) {
-    sendResponse(false, null, 'غير مصرح: مفتاح التثبيت مفقود أو غير صحيح (?key=StudyCo_Setup_2026_Key)', 403);
-}
+// Security Gate & Production Lock: Installer disabled permanently after verified deployment
+sendResponse(false, null, 'معالج التثبيت معطل لأسباب أمنية: تم تثبيت منظومة قاعدة البيانات وتهيئتها بنجاح مسبقاً في بيئة الإنتاج.', 403);
+exit(0);
 
 try {
     $pdo = getDbConnection();

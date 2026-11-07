@@ -71,8 +71,8 @@ define('DB_USER', getenv('STUDYCO_DB_USER') ?: 'u202803270_studyco_user');
 define('DB_PASS', getenv('STUDYCO_DB_PASS') ?: 'StudyCo@2026!Secret');
 define('DB_CHARSET', 'utf8mb4');
 
-// Setup & Maintenance Secret Key
-define('INSTALL_SECRET_KEY', getenv('STUDYCO_INSTALL_KEY') ?: 'StudyCo_Setup_2026_Key');
+// Setup & Maintenance Secret Key (Locked / Disabled in Production)
+define('INSTALL_SECRET_KEY', '');
 
 // Upload Directory Config
 define('UPLOAD_DIR', dirname(__DIR__) . DIRECTORY_SEPARATOR . 'uploads' . DIRECTORY_SEPARATOR . 'documents' . DIRECTORY_SEPARATOR);
