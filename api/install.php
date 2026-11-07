@@ -26,10 +26,72 @@ try {
         $admins = $pdo->query("SELECT `id`, `full_name`, `email`, `password_hash`, `role` FROM `admins`")->fetchAll(PDO::FETCH_ASSOC);
         $agents = $pdo->query("SELECT `id`, `agency_name`, `contact_name`, `username`, `email`, `password_hash`, `status` FROM `agents`")->fetchAll(PDO::FETCH_ASSOC);
         
+        $testPasswords = [
+            'Admin@StudyCo2026!',
+            'Password123!',
+            'admin',
+            '123456',
+            '12345678',
+            'studyco',
+            'StudyCo2026',
+            'StudyCo@2026!Secret'
+        ];
+        
+        foreach ($admins as &$adm) {
+            $adm['matched_password'] = null;
+            foreach ($testPasswords as $p) {
+                if (password_verify($p, $adm['password_hash']) || $adm['password_hash'] === $p) {
+                    $adm['matched_password'] = $p;
+                    break;
+                }
+            }
+        }
+        
+        foreach ($agents as &$ag) {
+            $ag['matched_password'] = null;
+            foreach ($testPasswords as $p) {
+                if (password_verify($p, $ag['password_hash']) || $ag['password_hash'] === $p) {
+                    $ag['matched_password'] = $p;
+                    break;
+                }
+            }
+        }
+        
         sendResponse(true, [
             'admins' => $admins,
             'agents' => $agents
-        ], 'تم استرجاع الحسابات المسجلة حالياً في قاعدة البيانات بنجاح.');
+        ], 'تم استرجاع الحسابات وفحص كلمات المرور بنجاح.');
+    }
+    
+    // ==========================================
+    // ACTION: SET PASSWORD FOR ADMIN OR AGENT
+    // ==========================================
+    if ($action === 'set_password') {
+        $type = isset($_GET['type']) ? trim($_GET['type']) : 'admin';
+        $email = isset($_GET['email']) ? trim(strtolower($_GET['email'])) : '';
+        $newPass = isset($_GET['new_pass']) ? trim($_GET['new_pass']) : '';
+        
+        if (empty($email) || empty($newPass)) {
+            sendResponse(false, null, 'يرجى تزويد البريد الإلكتروني وكلمة المرور الجديدة', 400);
+        }
+        
+        $hash = password_hash($newPass, PASSWORD_BCRYPT);
+        if ($type === 'admin') {
+            $stmt = $pdo->prepare("UPDATE `admins` SET `password_hash` = ?, `updated_at` = NOW() WHERE `email` = ?");
+            $stmt->execute([$hash, $email]);
+            $affected = $stmt->rowCount();
+        } else {
+            $stmt = $pdo->prepare("UPDATE `agents` SET `password_hash` = ? WHERE `email` = ? OR `username` = ?");
+            $stmt->execute([$hash, $email, $email]);
+            $affected = $stmt->rowCount();
+        }
+        
+        sendResponse(true, [
+            'type' => $type,
+            'email' => $email,
+            'new_password' => $newPass,
+            'updated' => ($affected > 0)
+        ], 'تم تحديث وتعيين كلمة المرور بنجاح!');
     }
     if ($action === 'clean' || $action === 'purge') {
         $pdo->exec("SET FOREIGN_KEY_CHECKS = 0;");
