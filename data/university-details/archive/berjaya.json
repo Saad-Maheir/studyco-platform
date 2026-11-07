@@ -1,0 +1,584 @@
+{
+    "id":  "berjaya",
+    "name":  "BERJAYA University College",
+    "arabicName":  "كلية بيرجايا الجامعية للضيافة وفنون الطهي",
+    "city":  "Kuala Lumpur",
+    "country":  "malaysia",
+    "logo":  "assets/photo/uni-berjaya.svg",
+    "image":  "assets/photo/campus_berjaya.webp",
+    "website":  "https://www.berjaya.edu.my/",
+    "ranking":  "Premier City Campus for Hospitality, Tourism \u0026 Culinary Arts in KL",
+    "established":  "2008",
+    "campusName":  "Berjaya Times Square City Campus, KL",
+    "studentCount":  "3,000+ (40+ Countries)",
+    "intakes":  "Jan, May, Sep",
+    "feeRangeMin":  16000,
+    "feeRangeMax":  42000,
+    "currency":  "MYR",
+    "description":  "BERJAYA University College is one of the leading recognized higher education institutions located in Kuala Lumpur. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+    "descriptionAr":  "تعتبر كلية بيرجايا الجامعية للضيافة وفنون الطهي واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Kuala Lumpur، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+    "about":  {
+                  "id":  "BERJAYA University College didirikan pada tahun 2008 oleh Berjaya Corporation, salah satu konglomerat bisnis dan perhotelan terbesar di Malaysia. Berlokasi strategis di dalam kompleks Berjaya Times Square di Segitiga Emas Kuala Lumpur, universitas ini diakui sebagai pusat keunggulan terdepan di Asia Tenggara dalam bidang Seni Kuliner (Culinary Arts), Manajemen Perhotelan, Pariwisata, dan Bisnis Ritel, dengan fasilitas dapur standar Michelin dan akses langsung ke jaringan hotel bintang 5 Berjaya di seluruh dunia.",
+                  "en":  "BERJAYA University College, founded in 2008 by Berjaya Corporation—one of Malaysia’s largest hospitality and retail conglomerates—is located within the iconic Berjaya Times Square in Kuala Lumpur’s Golden Triangle. It is widely hailed as Southeast Asia’s premier center of excellence in Culinary Arts, Hospitality Management, Tourism, and Retail Business, featuring Michelin-standard commercial kitchens and direct internship pathways across Berjaya’s luxury global hotel network.",
+                  "ar":  "تأسست كلية بيرجايا الجامعية (BERJAYA University College) عام 2008 من قبل مجموعة برجايا العملاقة (Berjaya Corporation)، إحدى كبرى تكتلات الضيافة والفنادق والتجزئة في ماليزيا. يقع حرمها داخل مجمع برجايا تايمز سكوير الأيقوني في المثلث الذهبي بقلب كوالالمبور، وتعتبر مركز التميز الأول في جنوب شرق آسيا لفنون الطهي العالمية، وإدارة الضيافة، والسياحة، مع مطابخ تجارية بمعايير ميشلان وتدريب مباشر في فنادق 5 نجوم حول العالم.",
+                  "zh":  "成功礼待大学（BERJAYA University College）创办于2008年，由马来西亚千亿级上市商业与酒店业超级巨头“成功集团”（Berjaya Corporation）全资创立。大学坐落于吉隆坡武吉免登黄金三角地标建筑——时代广场内部，是东南亚公认首屈一指的西餐烹饪艺术、星级酒店管理、国际旅游与高端零售管理学术中心，配备米其林标准厨房并直通集团全球五星级酒店带薪实训。",
+                  "ru":  "Университетский колледж BERJAYA, основанный в 2008 году конгломератом Berjaya Corporation, расположен в комплексе Berjaya Times Square в «Золотом треугольнике» Куала-Лумпура. Это ведущий в Юго-Восточной Азии центр кулинарного искусства, гостиничного дела, туризма и ритейла с профессиональными кухнями уровня Мишлен и стажировками в отелях 5 звезд.",
+                  "fr":  "Fondé en 2008 par Berjaya Corporation, le BERJAYA University College est situé au cœur du complexe Berjaya Times Square dans le Triangle d\u0027Or de Kuala Lumpur. C\u0027est le centre d\u0027excellence leader en Asie du Sud-Est pour les arts culinaires, la gestion hôtelière et le tourisme, avec des cuisines professionnelles aux normes Michelin et des stages dans des hôtels 5 étoiles.",
+                  "es":  "El BERJAYA University College, fundado en 2008 por Berjaya Corporation, se encuentra en el emblemático complejo Berjaya Times Square en el Triángulo de Oro de Kuala Lumpur. Es el centro de excelencia líder en el Sudeste Asiático en Artes Culinarias, Hostelería, Turismo y Negocios, con cocinas profesionales de estándar Michelin y prácticas en hoteles de 5 estrellas.",
+                  "ja":  "ベルジャヤ・ユニバーシティ・カレッジは、マレーシア最大の流通・ホテル財閥「ベルジャヤ・グループ」により2008年に設立されました。クアラルンプールのゴールデントライアングルに聳えるベルジャヤ・タイムズスクエア内に位置し、調理芸術、ホテル経営、観光学において東南アジア屈指の教育拠点で、ミシュラン基準の実習キッチンと直営5つ星ホテルでの実務研修が最大の魅力です。",
+                  "ko":  "버자야 유니버시티 칼리지(BERJAYA University College)는 2008년 말레이시아 최대 유통·호텔 대기업인 버자야 그룹(Berjaya Corporation)이 설립했습니다. 쿠알라룸푸르 골든 트라이앵글의 랜드마크인 버자야 타임스퀘어 내에 자리잡고 있으며, 미쉐린 표준 조리 실습실과 전 세계 5성급 호텔 체인 실무 인턴십을 바탕으로 조리예술, 호텔경영, 관광학 분야에서 동남아 최고 수준의 명성을 보유하고 있습니다."
+              },
+    "facilities":  [
+                       {
+                           "icon":  "hotel",
+                           "title":  {
+                                         "id":  "Suite Hotel Mewah Simulasi Bintang 5 Berjaya Times Square",
+                                         "en":  "Berjaya Times Square 5-Star Mock Luxury Hotel Suites",
+                                         "ar":  "أجنحة الفنادق الفاخرة التجريبية 5 نجوم في برجايا تايمز سكوير",
+                                         "ko":  "버자야 타임스퀘어 5성급 럭셔리 모의 호텔 스위트룸",
+                                         "ja":  "ベルジャヤ・タイムズスクエア 5つ星模擬ラグジュアリーホテル実習施設",
+                                         "zh":  "时代广场五星级奢华酒店标准高仿真客房与前厅礼宾实训中心",
+                                         "ru":  "5-звездочные учебные гостиничные номера люкс в Berjaya Times Square",
+                                         "fr":  "Suites hôtelières de luxe 5 étoiles d\u0027application à Berjaya Times Square",
+                                         "es":  "Suites de hotel de lujo de 5 estrellas de prácticas en Berjaya Times Square"
+                                     }
+                       },
+                       {
+                           "icon":  "‍",
+                           "title":  {
+                                         "id":  "Dapur Komersial Gastronomi Standar Michelin \u0026 Studio Patisserie Perancis",
+                                         "en":  "Michelin-Standard Commercial Culinary \u0026 French Patisserie Kitchens",
+                                         "ar":  "مطابخ الطهي التجاري بمعايير ميشلان ومختبرات الحلويات الفرنسية الراقية",
+                                         "ko":  "미쉐린 표준 상업용 조리 실습실 및 프랑스 정통 파티세리 베이커리 랩",
+                                         "ja":  "ミシュラン基準のプロ仕様調理実習キッチン＆フランス伝統パティスリー工房",
+                                         "zh":  "对标米其林标准的商用级烹饪实训后厨与法国传统高阶法式甜品工坊",
+                                         "ru":  "Профессиональные кулинарные кухни уровня Мишлен и французская кондитерская студия",
+                                         "fr":  "Cuisines professionnelles aux normes Michelin et ateliers de pâtisserie française",
+                                         "es":  "Cocinas profesionales de estándar Michelin y pastelería francesa"
+                                     }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Studio Sensorik Minuman Anggur, Oenologi \u0026 Bar Mixologi Mewah",
+                                         "en":  "Wine Oenology Sensory Suites \u0026 Modern Mixology Beverage Bars",
+                                         "ar":  "استوديوهات تذوق المشروبات الراقية وعلم الخمور وبارات الميكسولوجي الحديثة",
+                                         "ko":  "와인 감정 전문 에놀로지 센서리 룸 및 최신 바 믹솔로지 실습 바",
+                                         "ja":  "ワイン官能評価・エノロジー研究室＆最新ミクソロジー・バー実習室",
+                                         "zh":  "专业品酒与感官评测品鉴室及现代鸡尾酒调酒艺术实践吧台",
+                                         "ru":  "Дегустационные залы энологии и современные бары миксологии",
+                                         "fr":  "Salons de dégustation oenologique et bars de mixologie moderne",
+                                         "es":  "Salas de cata enológica y bares de coctelería y mixología moderna"
+                                     }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Kampus Kota Berjaya Times Square di Segitiga Emas Bukit Bintang",
+                                         "en":  "Berjaya Times Square City Campus in Bukit Bintang Golden Triangle",
+                                         "ar":  "حرم المدينة الأيقوني داخل برجايا تايمز سكوير في المثلث الذهبي بوكيت بينتانغ",
+                                         "ko":  "부킷 빈탕 골든 트라이앵글 버자야 타임스퀘어 도심형 캠퍼스",
+                                         "ja":  "ブキッ・ビンタンのゴールデントライアングルに位置するタイムズスクエア都市型校",
+                                         "zh":  "坐落于吉隆坡武吉免登“黄金三角”商业中心的时代广场都会大学校区",
+                                         "ru":  "Городской кампус в Berjaya Times Square в «Золотом треугольнике» Букит Бинтанг",
+                                         "fr":  "Campus urbain de Berjaya Times Square dans le Triangle d\u0027Or de Bukit Bintang",
+                                         "es":  "Campus urbano en Berjaya Times Square en el Triángulo de Oro de Bukit Bintang"
+                                     }
+                       }
+                   ],
+    "highlights":  [
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Didirikan oleh Konglomerat Ritel \u0026 Perhotelan Terbesar Berjaya Corporation",
+                                         "en":  "Founded by Hospitality \u0026 Retail Conglomerate Berjaya Corporation",
+                                         "ar":  "مؤسسة من قبل أضخم تكتل للضيافة والتجزئة في ماليزيا (Berjaya Corporation)",
+                                         "ko":  "말레이시아 최대 호텔 및 유통 재벌 버자야 그룹(Berjaya Corporation) 직영 대학",
+                                         "ja":  "マレーシア最大のホスピタリティ＆流通コングロマリット「ベルジャヤ」直営校",
+                                         "zh":  "由马来西亚家喻户晓的千亿级商业航母“成功集团”（Berjaya Corporation）全资创立",
+                                         "ru":  "Основан крупнейшим гостиничным и ритейл-конгломератом Berjaya Corporation",
+                                         "fr":  "Fondé par le grand conglomérat de l\u0027hôtellerie et du commerce Berjaya Corporation",
+                                         "es":  "Fundada por el principal conglomerado hotelero y comercial Berjaya Corporation"
+                                     },
+                           "desc":  {
+                                        "id":  "Memberikan mahasiswa akses eksklusif ke portofolio hotel bintang 5, resort, klub golf, dan bisnis ritel Berjaya di seluruh dunia.",
+                                        "en":  "Unlocking priority internships across Berjaya’s global portfolio of luxury 5-star hotels, resorts, and premier retail ventures.",
+                                        "ar":  "تمنح الطلاب فرص تدريب وتوظيف استثنائية في شبكة فنادق ومنتجعات ومشاريع برجايا الفاخرة حول العالم.",
+                                        "ko":  "버자야 그룹이 보유한 전 세계 특급 5성급 호텔, 리조트, 골프클럽 및 프랜차이즈 직영 인턴십 보장.",
+                                        "ja":  "世界各地に広がるベルジャヤ直営の5つ星ラグジュアリーホテル、リゾート、リテール事業での優先インターンシップ。",
+                                        "zh":  "学子独家尊享直通成功集团全球数十座五星级豪华度假村、顶级高尔夫俱乐部及高端商业实体的带薪实训机会。",
+                                        "ru":  "Эксклюзивные стажировки в сети 5-звездочных отелей, курортов и ритейла Berjaya по всему миру.",
+                                        "fr":  "Accès privilégié aux stages dans le portefeuille d\u0027hôtels 5 étoiles, resorts et commerces du groupe Berjaya.",
+                                        "es":  "Acceso exclusivo a prácticas en los hoteles de lujo de 5 estrellas, resorts y negocios de Berjaya en el mundo."
+                                    }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Pusat Keunggulan Gastronomi, Perhotelan \u0026 Seni Kuliner Terkemuka",
+                                         "en":  "Premier Centre of Excellence in Hospitality, Tourism \u0026 Culinary Arts",
+                                         "ar":  "مركز التميز الأكاديمي الرائد في فنون الطهي والضيافة الفندقية والسياحة الفاخرة",
+                                         "ko":  "호텔경영학, 국제 관광 및 프로페셔널 조리예술 분야 최고의 전문 명문대",
+                                         "ja":  "ホスピタリティ、観光、調理芸術分野における国内最高峰の中核教育拠点",
+                                         "zh":  "全马公认最专业、师资最雄厚的高端国际酒店管理与米其林级烹饪艺术摇篮",
+                                         "ru":  "Ведущий центр подготовки в сфере гостеприимства, туризма и кулинарного искусства",
+                                         "fr":  "Centre d\u0027excellence en hôtellerie, tourisme et arts culinaires de prestige",
+                                         "es":  "Centro de excelencia líder en hostelería, turismo y artes culinarias"
+                                     },
+                           "desc":  {
+                                        "id":  "Kurikulum dirancang oleh Master Chef dan eksekutif perhotelan internasional dengan reputasi kejuaraan dunia kuliner.",
+                                        "en":  "Curriculum designed directly by Master Chefs and veteran hoteliers with world-championship culinary accolades.",
+                                        "ar":  "مناهج تطبيقية يشرف عليها كبار الطهاة ومديرو الفنادق العالميون الحائزون على جوائز دولية.",
+                                        "ko":  "세계 요리 대회 챔피언 출신 마스터 셰프 및 베테랑 특급 호텔 경영진이 직접 설계한 교육과정.",
+                                        "ja":  "世界料理大会覇者のマスターシェフや歴戦の総支配人たちが直接開発した実践的カリキュラム。",
+                                        "zh":  "教学大纲由世界奥林匹克烹饪大赛金奖得主、星级行政总厨及跨国奢华酒店高管联合操刀打造。",
+                                        "ru":  "Программы разработаны шеф-поварами мирового класса и топ-менеджерами отелей.",
+                                        "fr":  "Programmes conçus par des maîtres cuisiniers et des professionnels de l\u0027hôtellerie primés mondialement.",
+                                        "es":  "Planes de estudio creados por maestros cocineros galardonados y directivos de cadenas hoteleras."
+                                    }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Kampus di Dalam Mall Berjaya Times Square: Jantung Bukit Bintang",
+                                         "en":  "City Campus Inside Berjaya Times Square: Heart of Bukit Bintang",
+                                         "ar":  "حرم داخل مول برجايا تايمز سكوير الأسطوري في قلب شارع العرب بوكيت بينتانغ",
+                                         "ko":  "버자야 타임스퀘어 쇼핑몰 내부 캠퍼스: 부킷 빈탕 한복판의 생생한 도심 라이프",
+                                         "ja":  "ベルジャヤ・タイムズスクエア商業施設内キャンパス：ブキッ・ビンタン中心部の活気",
+                                         "zh":  "坐落于时代广场巨型购物综合体内部：下楼即达吉隆坡最繁华的武吉免登商业圈",
+                                         "ru":  "Кампус внутри мегамолла Berjaya Times Square: самый центр Букит Бинтанг",
+                                         "fr":  "Campus au sein du centre commercial Berjaya Times Square, au cœur de Bukit Bintang",
+                                         "es":  "Campus en el centro comercial Berjaya Times Square, en pleno corazón de Bukit Bintang"
+                                     },
+                           "desc":  {
+                                        "id":  "Terhubung langsung dengan stasiun Monorail Imbi, dikelilingi ribuan toko, bioskop, kafe, dan pusat bisnis.",
+                                        "en":  "Directly linked to Imbi Monorail Station, surrounded by thousands of stores, entertainment, and business hubs.",
+                                        "ar":  "متصل مباشرة بمحطة مونوريل إيمبي، ومحاط بآلاف المتاجر والمقاهي وصالات السينما ومراكز الأعمال.",
+                                        "ko":  "임비(Imbi) 모노레일역과 직통 연결, 수천 개의 상점과 영화관 및 금융 비즈니스 중심지 인접.",
+                                        "ja":  "インビ（Imbi）モノレール駅直結、多数のショップ、映画館、カフェ、金融街に囲まれた抜群の環境。",
+                                        "zh":  "与Imbi单轨轻轨车站无缝接驳，紧邻数百家国际名牌专营店、巨幕影城及都会金融中枢。",
+                                        "ru":  "Прямой выход к станции монорельса Imbi, тысячи магазинов, развлечения и бизнес-центры.",
+                                        "fr":  "Relié directement à la station de monorail Imbi, entouré de boutiques, cinémas et pôles d\u0027affaires.",
+                                        "es":  "Conexión directa con la estación de monorraíl Imbi, comercios, ocio y centros de negocios."
+                                    }
+                       },
+                       {
+                           "icon":  "career",
+                           "title":  {
+                                         "id":  "Jaminan Magang Industri \u0026 Tingkat Keterserapan Kerja Mendekati 100%",
+                                         "en":  "Guaranteed Industry Internships \u0026 Near 100% Graduate Employability",
+                                         "ar":  "تدريب عملي مضمون في قطاعات الضيافة ومعدل توظيف يقترب من 100%",
+                                         "ko":  "100% 보장되는 대기업 인턴십 및 100%에 육박하는 졸업생 취업 성공률",
+                                         "ja":  "100％保証された企業インターンシップ＆ほぼ100％に達する就職内定率",
+                                         "zh":  "百分之百全员带薪顶岗实习保障与接近100%的毕业生高薪就业录用率",
+                                         "ru":  "Гарантированные производственные стажировки и почти 100% трудоустройство",
+                                         "fr":  "Stages en entreprise garantis et taux d\u0027employabilité proche de 100 %",
+                                         "es":  "Prácticas garantizadas en el sector y tasa de inserción laboral cercana al 100%"
+                                     },
+                           "desc":  {
+                                        "id":  "Setiap mahasiswa ditempatkan dalam magang profesional terbayar di industri perhotelan, ritel, dan korporasi.",
+                                        "en":  "Every student receives structured paid professional internships across luxury hospitality and retail brands.",
+                                        "ar":  "يتم تنسيق فترات تدريب مدفوعة الأجر لكل طالب في أشهر الفنادق العالمية والمؤسسات التجارية الراقية.",
+                                        "ko":  "모든 재학생이 특급 호텔 및 대형 리테일 브랜드에서 체계적인 유급 실무 인턴십 이수.",
+                                        "ja":  "全学生がラグジュアリーホテルや大手流通企業で有給の本格的インターンシップを経験。",
+                                        "zh":  "每位学子均被保荐进入知名五星级酒店或上市公司执行层进行结构化带薪管理轮岗培训。",
+                                        "ru":  "Каждый студент проходит оплачиваемые профессиональные стажировки в индустрии гостеприимства.",
+                                        "fr":  "Chaque étudiant bénéficie de stages professionnels rémunérés dans l\u0027hôtellerie de luxe et le commerce.",
+                                        "es":  "Todos los estudiantes realizan prácticas profesionales remuneradas en hostelería de lujo y grandes marcas."
+                                    }
+                       }
+                   ],
+    "residences":  [
+                       {
+                           "name":  {
+                                        "id":  "Kondominium Residensi Mahasiswa Berjaya Times Square Service Suites",
+                                        "en":  "Berjaya Times Square Service Suites Official Student Residences",
+                                        "ar":  "أجنحة برجايا تايمز سكوير الفندقية السكنية الفاخرة للطلاب (Service Suites)",
+                                        "ko":  "버자야 타임스퀘어 서비스드 스위트 공식 학생 레지던스",
+                                        "ja":  "ベルジャヤ・タイムズスクエア・サービススイート公式学生レジデンス",
+                                        "zh":  "时代广场服务式奢华学生公寓套房（Berjaya Times Square Suites）",
+                                        "ru":  "Студенческие апартаменты в Berjaya Times Square Service Suites",
+                                        "fr":  "Résidences étudiantes de prestige Berjaya Times Square Service Suites",
+                                        "es":  "Residencias para estudiantes Berjaya Times Square Service Suites"
+                                    },
+                           "distance":  {
+                                            "id":  "Terletak Langsung di Kompleks Berjaya Times Square (Lift 直达 / 1 Menit)",
+                                            "en":  "Located Within Berjaya Times Square Complex (Direct Lift Access / 1-Min)",
+                                            "ar":  "داخل مجمع برجايا تايمز سكوير مباشرة (عبر المصعد مباشرة / دقيقة واحدة)",
+                                            "ko":  "버자야 타임스퀘어 복합단지 내부 위치 (엘리베이터 직결 / 단 1분 거리)",
+                                            "ja":  "ベルジャヤ・タイムズスクエア複合施設内（専用エレベーター直結／徒歩1分）",
+                                            "zh":  "坐落于时代广场综合大厦内部，乘专属高速电梯1分钟直达大学教学楼区",
+                                            "ru":  "Внутри комплекса Berjaya Times Square (прямой лифт / 1 минута)",
+                                            "fr":  "Situé dans le complexe de Berjaya Times Square (accès direct par ascenseur / 1 min)",
+                                            "es":  "Ubicadas en el complejo Berjaya Times Square (acceso directo en ascensor / 1 min)"
+                                        },
+                           "priceRange":  "RM 600 - RM 1,300 / month",
+                           "amenities":  {
+                                             "id":  [
+                                                        "Keamanan 24 Jam dengan Kartu Akses Lift \u0026 Pengawasan CCTV",
+                                                        "Kolam Renang Rooftop Resort \u0026 Pusat Kebugaran Lengkap",
+                                                        "WiFi Berkecepatan Tinggi \u0026 Kamar AC Furnished Lengkap",
+                                                        "Akses Langsung ke Mall Times Square \u0026 Stasiun Monorail Imbi",
+                                                        "Dikelilingi Pusat Kuliner, Kafe \u0026 Restoran Halal"
+                                                    ],
+                                             "en":  [
+                                                        "24/7 Security with Dedicated Lift Keycards \u0026 CCTV",
+                                                        "Rooftop Resort Swimming Pool \u0026 Full Fitness Gymnasium",
+                                                        "High-Speed Internet \u0026 Fully Furnished Air-Conditioned Suites",
+                                                        "Direct Elevator Access to Times Square Mall \u0026 Imbi Monorail",
+                                                        "Surrounded by Hundreds of Dining Choices \u0026 Halal Eateries"
+                                                    ],
+                                             "ar":  [
+                                                        "أمن متواصل 24 ساعة مع بطاقات ذكية للمصاعد ومراقبة بالكاميرات",
+                                                        "حمام سباحة فاخر على السطح وصالة ألعاب رياضية كاملة",
+                                                        "إنترنت سريع وأجنحة مؤثثة ومكيفة بالكامل بأرقى طراز",
+                                                        "مصاعد مباشرة إلى مركز التسوق ومحطة مونوريل إيمبي",
+                                                        "محاطة بمئات المطاعم والمقاهي والأطعمة الحلال المتنوعة"
+                                                    ]
+                                         }
+                       }
+                   ],
+    "livingExpenses":  [
+                           {
+                               "itemKey":  "living_exp_food",
+                               "item":  {
+                                            "id":  "Makan \u0026 Kuliner Harian (Pusat Kota)",
+                                            "en":  "Food \u0026 Daily Dining (Downtown KL)",
+                                            "ar":  "الطعام والمأكولات اليومية (وسط كوالالمبور)"
+                                        },
+                               "cost":  "RM 650 - RM 1,000"
+                           },
+                           {
+                               "itemKey":  "living_exp_transport",
+                               "item":  {
+                                            "id":  "Transportasi \u0026 Monorail Imbi / MRT",
+                                            "en":  "Imbi Monorail \u0026 Local Public Transit",
+                                            "ar":  "المواصلات العامة ومونوريل إيمبي"
+                                        },
+                               "cost":  "RM 50 - RM 120"
+                           },
+                           {
+                               "itemKey":  "living_exp_utilities",
+                               "item":  {
+                                            "id":  "Utilitas, Listrik \u0026 Internet",
+                                            "en":  "Utilities, Electricity \u0026 WiFi",
+                                            "ar":  "الكهرباء والمياه والإنترنت"
+                                        },
+                               "cost":  "RM 80 - RM 160"
+                           },
+                           {
+                               "itemKey":  "living_exp_personal",
+                               "item":  {
+                                            "id":  "Kebutuhan Pribadi \u0026 Seragam Chef",
+                                            "en":  "Personal Expenses \u0026 Chef Uniforms",
+                                            "ar":  "المستلزمات الشخصية وأزياء الطهاة"
+                                        },
+                               "cost":  "RM 200 - RM 400"
+                           }
+                       ],
+    "videoUrl":  "https://www.youtube-nocookie.com/embed/Pw1TEcpNvHc",
+    "faqs":  [
+                 {
+                     "q":  {
+                               "id":  "Apa saja jurusan paling unggul di BERJAYA University College?",
+                               "en":  "What are the standout programmes at BERJAYA University College?",
+                               "ar":  "ما هي التخصصات الأكثر تميزاً وشهرة في كلية برجايا الجامعية؟",
+                               "ko":  "버자야 유니버시티 칼리지에서 가장 유명하고 대표적인 학과는 무엇인가요?",
+                               "ja":  "ベルジャヤ・ユニバーシティ・カレッジの看板専攻は何ですか？",
+                               "zh":  "在BERJAYA University College（成功礼待大学），哪些专业最具盛名与行业影响力？",
+                               "ru":  "Какие программы являются главными в BERJAYA University College?",
+                               "fr":  "Quelles sont les formations phares de BERJAYA University College ?",
+                               "es":  "¿Cuáles son las titulaciones más destacadas de BERJAYA University College?"
+                           },
+                     "a":  {
+                               "id":  "Seni Kuliner (Culinary Arts), Manajemen Perhotelan Internasional, Manajemen Pariwisata, Manajemen Acara (Events Management), serta Administrasi Bisnis dan Ritel.",
+                               "en":  "Culinary Arts, International Hospitality Management, Tourism Management, Events Management, and Business \u0026 Retail Management.",
+                               "ar":  "فنون الطهي (Culinary Arts)، وإدارة الضيافة الفندقية الدولية، وإدارة السياحة، وإدارة الفعاليات والمؤتمرات، وإدارة الأعمال وإدارة التجزئة.",
+                               "ko":  "프로페셔널 조리예술(Culinary Arts), 국제 호텔경영학, 관광경영학, 이벤트/MICE 기획 및 경영/유통관리 전공입니다.",
+                               "ja":  "調理芸術（Culinary Arts）、国際ホテルマネジメント、観光マネジメント、イベント・MICE企画、ビジネス＆リテール専攻です。",
+                               "zh":  "高级烹饪艺术（西餐与西点烘焙）、国际酒店管理、国际旅游管理、会展与盛事策划管理、以及工商管理与现代零售管理。",
+                               "ru":  "Кулинарное искусство, международный гостиничный менеджмент, туризм, event-менеджмент, бизнес и ритейл.",
+                               "fr":  "Arts culinaires, gestion hôtelière internationale, tourisme, événementiel, commerce et distribution.",
+                               "es":  "Artes Culinarias, Dirección Hotelera Internacional, Turismo, Gestión de Eventos, Negocios y Retail."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa biaya kuliah sarjana (Bachelor) di BERJAYA University College?",
+                               "en":  "What are the bachelor degree tuition fees at BERJAYA University College?",
+                               "ar":  "كم تبلغ تكاليف ورسوم دراسة البكالوريوس في كلية برجايا الجامعية؟",
+                               "ko":  "버자야 유니버시티 칼리지의 학사 과정 학비는 얼마인가요?",
+                               "ja":  "ベルジャヤ・ユニバーシティ・カレッジの学士課程の年間学費はどれくらいですか？",
+                               "zh":  "在成功礼待大学攻读本科学位的全套学费大约在什么价位区间？",
+                               "ru":  "Какова стоимость обучения на бакалавриате в BERJAYA University College?",
+                               "fr":  "Quels sont les frais de scolarité en licence à BERJAYA University College ?",
+                               "es":  "¿Cuáles son las tarifas de matrícula para un grado en BERJAYA University College?"
+                           },
+                     "a":  {
+                               "id":  "Program Bisnis dan Pariwisata sekitar $4.200 - $5.000 USD per tahun. Program Seni Kuliner dan Perhotelan (termasuk bahan praktik gourmet) sekitar $5.200 - $6.500 USD per tahun.",
+                               "en":  "Business \u0026 Tourism range from $4,200 to $5,000 USD/year. Culinary Arts \u0026 Hospitality (inclusive of gourmet lab ingredients) average $5,200 to $6,500 USD/year.",
+                               "ar":  "تتراوح برامج الأعمال والسياحة بين 4,200 إلى 5,000 دولار سنوياً. وفنون الطهي والضيافة (شاملة مكونات وأدوات التدريب الفاخرة) بين 5,200 إلى 6,500 دولار سنوياً.",
+                               "ko":  "경영 및 관광학은 연간 약 4,200~5,000 달러, 조리예술 및 호텔경영(고급 식자재 실습비 포함)은 연간 약 5,200~6,500 달러 선으로 가성비가 우수합니다.",
+                               "ja":  "ビジネス＆観光は年間約4,200〜5,000米ドル、調理芸術＆ホテル経営（高級実習食材費込み）は年間約5,200〜6,500米ドルです。",
+                               "zh":  "商科及旅游管理专业年均约4,200至5,000美元；烹饪艺术与星级酒店管理（含高端进口实操食材辅料费）年均约5,200至6,500美元。",
+                               "ru":  "Бизнес и туризм: 4 200–5 000 $ в год; кулинария и отельное дело (включая продукты): 5 200–6 500 $ в год.",
+                               "fr":  "Commerce et tourisme : 4 200 à 5 000 $ par an ; arts culinaires et hôtellerie (ingrédients inclus) : 5 200 à 6 500 $ par an.",
+                               "es":  "Empresa y Turismo: 4.200-5.000 $ al año; Artes Culinarias y Hostelería (incluyendo ingredientes gourmet): 5.200-6.500 $ al año."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Bagaimana akomodasi mahasiswa yang tersedia di sekitar Berjaya Times Square?",
+                               "en":  "What accommodation choices are available around Berjaya Times Square?",
+                               "ar":  "ما هي خيارات السكن المتاحة للطلاب حول مجمع برجايا تايمز سكوير؟",
+                               "ko":  "버자야 타임스퀘어 주변의 학생 기숙사 주거 옵션은 어떻게 되나요?",
+                               "ja":  "ベルジャヤ・タイムズスクエア周辺の学生向け住居事情は？",
+                               "zh":  "在吉隆坡时代广场校区周边，学生可选择哪些优质住宿公寓？",
+                               "ru":  "Какие варианты жилья доступны студентам вокруг Berjaya Times Square?",
+                               "fr":  "Quelles sont les options de logement disponibles autour de Berjaya Times Square ?",
+                               "es":  "¿Qué opciones de alojamiento para estudiantes existen cerca de Berjaya Times Square?"
+                           },
+                     "a":  {
+                               "id":  "Tersedia unit kondominium residensial modern di Times Square Service Suites dan apartemen di kawasan Bukit Bintang dengan biaya RM 600 - RM 1.200 per bulan, terhubung langsung atau jalan kaki 2 menit.",
+                               "en":  "Modern serviced residences at Times Square Suites and Bukit Bintang condos range from RM 600 to RM 1,200/month, directly integrated or within a 2-minute walk.",
+                               "ar":  "تتوفر شقق فندقية حديثة داخل أبراج تايمز سكوير نفسها وشقق سكنية في بوكيت بينتانغ بتكلفة 600 إلى 1,200 رينجيت شهرياً، متصلة مباشرة أو بدقيقتين مشياً.",
+                               "ko":  "타임스퀘어 서비스드 스위트 및 부킷 빈탕 인근 콘도미니엄이 월 RM 600~1,200 선으로 제공되며, 건물 내 직통 또는 도보 2분 거리에 위치.",
+                               "ja":  "タイムズスクエア・サービススイートや近隣コンドミニアムが月額RM 600〜1,200程度で利用でき、館内直結または徒歩2分以内です。",
+                               "zh":  "时代广场服务式公寓大厦内部及武吉免登周边高档公寓月租约600至1200马币，电梯直通或步行2分钟即达，生活繁华便利。",
+                               "ru":  "Апартаменты в комплексах Times Square Suites и Букит Бинтанг от 600 до 1200 ринггитов в месяц прямо в здании или в 2 минутах ходьбы.",
+                               "fr":  "Des résidences modernes à Times Square Suites et Bukit Bintang coûtent de 600 à 1 200 RM par mois, reliées ou à 2 minutes à pied.",
+                               "es":  "Apartamentos modernos en Times Square Suites y Bukit Bintang por 600 a 1.200 RM al mes, en el mismo edificio o a 2 minutos a pie."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa syarat skor IELTS untuk mendaftar di BERJAYA University College?",
+                               "en":  "What are the required IELTS scores for admission?",
+                               "ar":  "ما هي متطلبات درجة آيلتس (IELTS) للقبول في كلية برجايا الجامعية؟",
+                               "ko":  "버자야 유니버시티 칼리지 입학을 위한 IELTS 성적 기준은 어떻게 되나요?",
+                               "ja":  "ベルジャヤ・ユニバーシティ・カレッジ出願に必要なIELTSスコアは？",
+                               "zh":  "申请入读成功礼待大学需要具备怎样的雅思（IELTS）英语成绩？",
+                               "ru":  "Каков требуемый балл IELTS для поступления в BERJAYA University College?",
+                               "fr":  "Quel score d\u0027IELTS est demandé pour intégrer BERJAYA University College ?",
+                               "es":  "¿Cuáles son los requisitos de IELTS para ingresar en BERJAYA University College?"
+                           },
+                     "a":  {
+                               "id":  "Program sarjana mensyaratkan skor IELTS 5.0 hingga 5.5, dengan tes penempatan bahasa internal di kampus.",
+                               "en":  "Bachelor degree programmes require an IELTS score between 5.0 and 5.5, with on-campus English placement tests available.",
+                               "ar":  "تتطلب برامج البكالوريوس الحصول على درجة IELTS بين 5.0 إلى 5.5، مع توفر اختبار تحديد مستوى داخلي.",
+                               "ko":  "학사 학위 과정은 IELTS 5.0~5.5를 요구하며, 자체 영어 레벨 테스트를 통한 어학과정 입학도 가능합니다.",
+                               "ja":  "学部課程ではIELTS 5.0〜5.5が必要ですが、学内英語テストによる進学も可能です。",
+                               "zh":  "本科学位课程要求雅思5.0至5.5分即可直接入读；亦可参加校内英语测试直升专业课。",
+                               "ru":  "Для бакалавриата требуется IELTS 5.0–5.5; доступно внутреннее языковое тестирование.",
+                               "fr":  "Les programmes de licence exigent un score IELTS de 5.0 à 5.5 ; un test d\u0027anglais interne est proposé.",
+                               "es":  "Las licenciaturas exigen entre 5.0 y 5.5 de IELTS; se ofrece prueba interna de inglés."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Kapan bulan intake pendaftaran mahasiswa baru di BERJAYA University College?",
+                               "en":  "What are the main intake months at BERJAYA University College?",
+                               "ar":  "ما هي فصول ومواعيد بدء الدراسة في كلية برجايا الجامعية؟",
+                               "ko":  "버자야 유니버시티 칼리지의 공식 입학 시기는 언제인가요?",
+                               "ja":  "ベルジャヤ・ユニバーシティ・カレッジの主な入学期（インテイク）はいつですか？",
+                               "zh":  "成功礼待大学每年招收国际新生的主要开学月份有哪些？",
+                               "ru":  "В какие месяцы открыт набор в BERJAYA University College?",
+                               "fr":  "Quelles sont les sessions d\u0027admission principales à BERJAYA University College ?",
+                               "es":  "¿Cuáles son las convocatorias principales de admisión en BERJAYA University College?"
+                           },
+                     "a":  {
+                               "id":  "Intake utama untuk sarjana berlangsung pada bulan Januari, Mei, dan September setiap tahun.",
+                               "en":  "Primary undergraduate intakes occur in January, May, and September each academic year.",
+                               "ar":  "تبدأ الفصول الدراسية الرئيسية للبكالوريوس في أشهر يناير ومايو وسبتمبر من كل عام.",
+                               "ko":  "학부 과정의 주요 정규 입학은 매년 1월, 5월, 9월에 진행됩니다.",
+                               "ja":  "学部課程の主な入学期は毎年1月、5月、9月です。",
+                               "zh":  "本科学位课程每年的正规招生入学节点为1月、5月以及9月。",
+                               "ru":  "Основные наборы на программы бакалавриата проходят в январе, мае и сентябре каждого учебного года.",
+                               "fr":  "Les rentrées principales en licence se déroulent en janvier, mai et septembre.",
+                               "es":  "Las admisiones principales de grado tienen lugar en enero, mayo y septiembre."
+                           }
+                 }
+             ],
+    "articlesTab":  [
+                        {
+                            "readTime":  "5 min",
+                            "title":  {
+                                          "id":  "Panduan Seni Kuliner \u0026 Perhotelan di Berjaya: Belajar Langsung di Jantung Industri",
+                                          "en":  "Culinary Arts \u0026 Hospitality at Berjaya: Learning Directly Within the Industry",
+                                          "ar":  "فنون الطهي والضيافة في برجايا: التدريب الحقيقي في قلب أضخم قطاع فندقي",
+                                          "ko":  "버자야 조리예술 \u0026 호텔경영 가이드: 산업의 중심에서 직접 체득하는 특급 실무",
+                                          "ja":  "ベルジャヤ調理芸術＆ホテル経営ナビ：産業の最前線で学ぶ超実践型教育",
+                                          "zh":  "成功礼待大学烹饪艺术与酒店管理深度解析：置身商业航母实战一线的精英孵化殿堂",
+                                          "ru":  "Кулинарное искусство и отельное дело в Berjaya: обучение в сердце индустрии",
+                                          "fr":  "Arts culinaires et hôtellerie à Berjaya : se former au cœur même de l\u0027industrie",
+                                          "es":  "Artes Culinarias y Hostelería en Berjaya: aprende directamente dentro del sector"
+                                      },
+                            "summary":  {
+                                            "id":  "Eksplorasi dapur Michelin-standard, koneksi ke jaringan hotel Berjaya, dan magang berbayar di seluruh dunia.",
+                                            "en":  "Explore Michelin-standard kitchens, direct linkages to Berjaya Hotel group, and paid luxury internships globally.",
+                                            "ar":  "استكشف مطابخ التدريب الفاخرة، والاتصال المباشر بشبكة فنادق برجايا والتدريب المدفوع في فنادق العالم.",
+                                            "ko":  "미쉐린 표준 조리 실습실, 버자야 글로벌 호텔 체인 직속 채용 연계 및 전 세계 유급 인턴십 분석.",
+                                            "ja":  "ミシュラン基準の厨房設備、ベルジャヤ・ホテルグループとの直結パイプ、世界的な有給インターンシップを詳解。",
+                                            "zh":  "探访米其林标准顶级商用厨艺工坊、成功集团旗下奢华五星酒店直签通道与环球带薪顶岗管培体系。",
+                                            "ru":  "Кухни уровня Мишлен, прямая связь с отелями Berjaya и оплачиваемые стажировки по всему миру.",
+                                            "fr":  "Cuisines professionnelles aux normes Michelin, réseau hôtelier Berjaya et stages rémunérés dans le monde entier.",
+                                            "es":  "Cocinas de estándar Michelin, convenio con los hoteles de Berjaya y prácticas remuneradas internacionales."
+                                        }
+                        },
+                        {
+                            "readTime":  "4 min",
+                            "title":  {
+                                          "id":  "Kuliah di Berjaya Times Square: Kehidupan Mahasiswa di Jantung Bukit Bintang",
+                                          "en":  "Studying in Berjaya Times Square: Student Lifestyle in the Heart of Bukit Bintang",
+                                          "ar":  "الدراسة داخل برجايا تايمز سكوير: نمط حياة الطالب في قلب بوكيت بينتانغ الحيوي",
+                                          "ko":  "버자야 타임스퀘어 유학 라이프: 부킷 빈탕의 중심에서 누리는 활기찬 캠퍼스",
+                                          "ja":  "ベルジャヤ・タイムズスクエアでの留学生活：ブキッ・ビンタン中心部の刺激的な日常",
+                                          "zh":  "在吉隆坡时代广场内部求学：武吉免登CBD核心商圈留学生态实录",
+                                          "ru":  "Учеба в Berjaya Times Square: студенческий стиль жизни в центре Букит Бинтанг",
+                                          "fr":  "Étudier à Berjaya Times Square : la vie étudiante au cœur de Bukit Bintang",
+                                          "es":  "Estudiar en Berjaya Times Square: estilo de vida en el corazón de Bukit Bintang"
+                                      },
+                            "summary":  {
+                                            "id":  "Akses langsung ke stasiun monorail Imbi, hunian apartemen di dalam gedung, dan ragam kuliner metropolitan.",
+                                            "en":  "Direct connectivity to Imbi Monorail, living inside the Times Square complex, and vibrant metropolitan dining.",
+                                            "ar":  "الربط المباشر بمحطة مونوريل إيمبي، والسكن داخل المجمع نفسه وتنوع المطاعم العالمية.",
+                                            "ko":  "임비 모노레일역 직결, 타임스퀘어 복합단지 내부 주거의 편리함 및 대도시 글로벌 미식 문화.",
+                                            "ja":  "インビ・モノレール駅直結、タイムズスクエア複合施設内での生活の快適さ、多彩なグルメスポット。",
+                                            "zh":  "全天候电梯直达Imbi轻轨站、时代广场大厦综合住宅楼起居便利度与全城国际美食版图。",
+                                            "ru":  "Прямая связь со станцией монорельса Imbi, проживание в комплексе Times Square и гастрономия столицы.",
+                                            "fr":  "Accès direct au monorail Imbi, logement dans le complexe Times Square et gastronomie urbaine.",
+                                            "es":  "Conexión directa con el monorraíl Imbi, alojamiento en el complejo Times Square y gastronomía cosmopolita."
+                                        }
+                        },
+                        {
+                            "readTime":  "4 min",
+                            "title":  {
+                                          "id":  "Dari Kampus ke Industri Perhotelan Global: Membangun Karier Bersama Berjaya",
+                                          "en":  "From Campus to Global Hospitality Leadership: Building Careers with Berjaya",
+                                          "ar":  "من مقاعد الدراسة إلى قادة الضيافة العالمية: بناء مستقبلك المهني مع مجموعة برجايا",
+                                          "ko":  "강의실에서 글로벌 호스피탈리티 리더로: 버자야와 함께 쌓는 특급 커리어",
+                                          "ja":  "キャンパスから世界のホスピタリティリーダーへ：ベルジャヤと共に築くグローバルキャリア",
+                                          "zh":  "从大学课堂迈向国际酒店高管领袖：依托成功集团产业网络奠定高起点职业坦途",
+                                          "ru":  "От диплома к руководству отелями: построение международной карьеры с Berjaya",
+                                          "fr":  "Du campus au leadership hôtelier mondial : construire sa carrière avec Berjaya",
+                                          "es":  "Del campus al liderazgo hotelero internacional: forja tu carrera con Berjaya"
+                                      },
+                            "summary":  {
+                                            "id":  "Bagaimana mahasiswa Berjaya dipersiapkan untuk posisi manajerial di resor, maskapai, dan korporasi internasional.",
+                                            "en":  "How Berjaya graduates are groomed for fast-track management across premier resorts, airlines, and luxury groups.",
+                                            "ar":  "كيف يتم إعداد خريجي برجايا لتولي المناصب الإدارية في المنتجعات الفاخرة وشركات الطيران العالمية.",
+                                            "ko":  "특급 리조트, 항공사 및 글로벌 럭셔리 그룹의 매니저 직급으로 빠르게 성장하는 인재 육성 프로세스.",
+                                            "ja":  "一流リゾート、航空会社、ラグジュアリーグループの幹部候補として成長するキャリアパス。",
+                                            "zh":  "全方位揭秘成功礼待毕业生如何被定向遴选为顶级奢华度假村、国际知名航司及高端企业品牌管理储备干部。",
+                                            "ru":  "Как выпускники готовятся к руководящим позициям в курортах, авиакомпаниях и корпорациях.",
+                                            "fr":  "Comment les diplômés accèdent à des postes de direction dans les resorts, les compagnies aériennes et les groupes de luxe.",
+                                            "es":  "Cómo los graduados se preparan para puestos de gestión en resorts, aerolíneas y grupos de lujo."
+                                        }
+                        }
+                    ],
+    "summaryFeeTable":  [
+                            {
+                                "faculty":  {
+                                                "id":  "Seni Kuliner \u0026 Gastronomi Internasional (Chef)",
+                                                "en":  "Culinary Arts \u0026 International Gastronomy",
+                                                "ar":  "فنون الطهي والضيافة وفنون المعجنات الراقية",
+                                                "ko":  "프로페셔널 조리예술 및 글로벌 가스트로노미 학부",
+                                                "ja":  "調理芸術＆国際ガストロノミー学部（シェフ養成）",
+                                                "zh":  "国际烹饪艺术与高阶西餐西点烘焙学院",
+                                                "ru":  "Кулинарное искусство и международная гастрономия",
+                                                "fr":  "Arts culinaires et gastronomie internationale",
+                                                "es":  "Artes Culinarias y Gastronomía Internacional"
+                                            },
+                                "degree":  "Bachelor / Diploma (Accredited)",
+                                "duration":  "2.5 - 3 Years",
+                                "feeUSD":  "$14,500 - $17,500 Total",
+                                "ielts":  "5.0"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Manajemen Perhotelan Internasional (Berjaya Hotels)",
+                                                "en":  "International Hospitality Management",
+                                                "ar":  "إدارة الضيافة الفندقية الدولية (مجموعة فنادق برجايا)",
+                                                "ko":  "국제 호텔경영학부 (버자야 호텔 그룹 직속 실무)",
+                                                "ja":  "国際ホテルマネジメント学部（ベルジャヤ・ホテル直結）",
+                                                "zh":  "国际酒店管理学院（成功集团全球奢华酒店实训）",
+                                                "ru":  "Международный гостиничный менеджмент (Berjaya Hotels)",
+                                                "fr":  "Gestion hôtelière internationale (Groupe Berjaya)",
+                                                "es":  "Dirección Hotelera Internacional (Hoteles Berjaya)"
+                                            },
+                                "degree":  "Bachelor of Hospitality Management (Hons)",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$14,000 - $16,800 Total",
+                                "ielts":  "5.0"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Manajemen Pariwisata \u0026 Perjalanan Global",
+                                                "en":  "Tourism \u0026 Global Travel Management",
+                                                "ar":  "إدارة السياحة والرحلات الدولية الفاخرة",
+                                                "ko":  "관광 및 글로벌 여행 매니지먼트 학부",
+                                                "ja":  "観光＆グローバルトラベルマネジメント学部",
+                                                "zh":  "国际旅游管理与环球旅运规划学院",
+                                                "ru":  "Туризм и международный туристический менеджмент",
+                                                "fr":  "Tourisme et gestion des voyages internationaux",
+                                                "es":  "Turismo y Gestión de Viajes Internacionales"
+                                            },
+                                "degree":  "Bachelor of Tourism Management (Hons)",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$13,000 - $15,500 Total",
+                                "ielts":  "5.0"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Manajemen Acara, MICE \u0026 Festival Spektakuler",
+                                                "en":  "Events \u0026 Festival Management (MICE)",
+                                                "ar":  "إدارة الفعاليات والمؤتمرات والمهرجانات الكبرى (MICE)",
+                                                "ko":  "이벤트, 페스티벌 및 MICE 기획 관리 학부",
+                                                "ja":  "イベント・フェスティバル＆MICEマネジメント学部",
+                                                "zh":  "国际会展、盛事节庆与MICE会奖策划管理学院",
+                                                "ru":  "Управление мероприятиями, фестивалями и MICE",
+                                                "fr":  "Gestion d\u0027événements, de festivals et MICE",
+                                                "es":  "Gestión de Eventos, Festivales y MICE"
+                                            },
+                                "degree":  "Bachelor of Events Management (Hons)",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$13,500 - $16,000 Total",
+                                "ielts":  "5.0"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Bisnis Internasional, Pemasaran \u0026 Manajemen Ritel",
+                                                "en":  "Business Administration \u0026 Retail Management",
+                                                "ar":  "إدارة الأعمال والتسويق وإدارة التجزئة الحديثة",
+                                                "ko":  "경영학, 마케팅 및 리테일 유통관리 학부",
+                                                "ja":  "経営学・マーケティング＆リテール流通管理学部",
+                                                "zh":  "工商管理、现代数字营销与高端连锁零售管理学院",
+                                                "ru":  "Бизнес-администрирование, маркетинг и ритейл",
+                                                "fr":  "Administration des affaires, marketing et distribution",
+                                                "es":  "Administración de Empresas, Marketing y Retail"
+                                            },
+                                "degree":  "Bachelor of Business Administration",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$12,500 - $15,000 Total",
+                                "ielts":  "5.0"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Foundation in Commerce / Hospitality Studies",
+                                                "en":  "Foundation in Commerce / Hospitality",
+                                                "ar":  "السنة التمهيدية في التجارة أو دراسات الضيافة",
+                                                "ko":  "상경 / 호스피탈리티 대학 진학 파운데이션",
+                                                "ja":  "商業・ホスピタリティ大学進学ファウンデーション",
+                                                "zh":  "商学与礼待管理大学基础预科文凭课程",
+                                                "ru":  "Подготовительный курс (Foundation) по коммерции/гостеприимству",
+                                                "fr":  "Année préparatoire en commerce / hôtellerie",
+                                                "es":  "Fundamentos en Comercio / Hostelería"
+                                            },
+                                "degree":  "Pre-University / Foundation",
+                                "duration":  "1 Year",
+                                "feeUSD":  "$3,600 - $4,200 Total",
+                                "ielts":  "4.5"
+                            }
+                        ],
+    "directWatchUrl":  null
+}

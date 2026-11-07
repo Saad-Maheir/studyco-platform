@@ -1,0 +1,584 @@
+{
+  "id": "qiu",
+  "name": "Quest International University (QIU)",
+  "arabicName": "جامعة كويست الدولية (QIU)",
+  "city": "Ipoh, Perak",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-qiu.webp",
+  "image": "assets/photo/campus_qiu.webp",
+  "website": "https://qiu.edu.my/",
+  "ranking": "Premier University in Perak for Medicine, Pharmacy & Biotechnology",
+  "established": "2008",
+  "campusName": "QIU Green City Campus, Ipoh",
+  "studentCount": "4,000+ (35+ Countries)",
+  "intakes": "Jan, Apr, Jul, Oct",
+  "feeRangeMin": 15000,
+  "feeRangeMax": 65000,
+  "currency": "MYR",
+  "description": "Quest International University (QIU) is one of the leading recognized higher education institutions located in Ipoh, Perak. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة كويست الدولية (QIU) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Ipoh, Perak، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Quest International University (QIU) didirikan pada tahun 2011 di Ipoh, Perak, sebagai universitas swasta riset komprehensif yang didukung oleh QI Group. QIU terkenal atas pengajaran berstandar internasional yang dipimpin oleh akademisi berkaliber tinggi di bidang Kedokteran (MBBS terakreditasi MMC), Farmasi, Ilmu Komputer, dan Bisnis, menawarkan lingkungan belajar kondusif dengan biaya terjangkau di kota bersejarah Ipoh.",
+    "en": "Quest International University (QIU), established in 2011 in Ipoh, Perak, is a comprehensive research-led private university backed by the multinational QI Group. QIU is recognized for internationally benchmarked education led by top scholars in Medicine (MMC-accredited MBBS), Pharmacy, Computer Science, and Business, providing an enriching study environment at very affordable tuition in the scenic heritage city of Ipoh.",
+    "ar": "تأسست جامعة كويست الدولية (Quest International University - QIU) عام 2011 في إيبوه بولاية بيراك، وهي جامعة بحثية خاصة رائدة مدعومة من مجموعة QI الدولية. وتشتهر QIU بتعليمها عالي الجودة المعتمد دولياً في تخصصات الطب البشري (MBBS معتمد من المجلس الطبي الماليزي MMC)، والصيدلة، وعلوم الحاسوب، وإدارة الأعمال، في بيئة هادئة وتكاليف دراسية واقتصادية ممتازة.",
+    "zh": "培元国际大学（Quest International University，简称QIU）创立于2011年，坐落于风景如画的霹雳州首府怡保市（Ipoh），由跨国大型QI集团联合政府鼎力创办。大学以严谨治学的学术风气、雄厚的国际师资力量闻名，其内外全科医学（MBBS获MMC全额认证）、药剂学、计算机IT及商科课程广受国际学生好评，学费与生活开销极具亲民性价比。",
+    "ru": "Международный университет Quest (QIU), основанный в 2011 году в городе Ипох (Перак), является передовым частным исследовательским университетом, поддерживаемым QI Group. QIU известен международными стандартами преподавания в области медицины (MBBS, аккредитован MMC), фармации, IT и бизнеса, предлагая качественное образование по доступной цене.",
+    "fr": "Fondée en 2011 à Ipoh dans l'État de Perak, la Quest International University (QIU) est une université privée de recherche soutenue par le groupe QI. Elle est réputée pour ses formations d'excellence en médecine (MBBS agréé par le MMC), pharmacie, informatique et gestion, avec un coût de la vie très abordable dans la ville historique d'Ipoh.",
+    "es": "La Quest International University (QIU), fundada en 2011 en Ipoh (Perak), es una destacada universidad privada de investigación respaldada por el Grupo QI. QIU sobresale por su docencia de nivel internacional en Medicina (MBBS acreditado por MMC), Farmacia, Informática y Empresa, con un costo muy asequible en la histórica ciudad de Ipoh.",
+    "ja": "クエスト国際大学（QIU）は2011年にペラ州イポーに設立された、グローバルQIグループが支援する総合私立大学です。マレーシア医療評議会（MMC）認定の医学部（MBBS）、薬学部、コンピュータ科学、ビジネス学部において高い教育水準を誇り、美しい古都イポーの落ち着いた環境と良心的な費用で多くの留学生を受け入れています。",
+    "ko": "퀘스트 국제 대학교(QIU)는 2011년 페락주 이포에 설립된 종합 사립 연구중심 대학교로, 글로벌 QI 그룹의 든든한 투자를 바탕으로 운영됩니다. 말레이시아 의학위원회(MMC) 공식 인가 의예과(MBBS), 약학, 컴퓨터공학 및 경영학 분야에서 뛰어난 교육 수준을 인정받고 있으며, 아름다운 이포 시에서 매우 경제적인 학비로 유학할 수 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Simulasi Klinis & Bangsal Pelatihan Medis Rumah Sakit QIU",
+        "en": "QIU Medical Simulation Healthcare Centre & Hospital Wards",
+        "ar": "مركز المحاكاة الطبية والتدريب الإكلينيكي وأجنحة المستشفى في QIU",
+        "ko": "QIU 메디컬 시뮬레이션 헬스케어 센터 및 모의 병원 실습 병동",
+        "ja": "QIU医療シミュレーション・ヘルスケアセンター＆模擬病院病棟",
+        "zh": "QIU高仿真临床技能实训中心与现代教学医院标准化模拟病房",
+        "ru": "Медицинский симуляционный центр QIU и больничные палаты",
+        "fr": "Centre de simulation médicale et salles hospitalières d'application de QIU",
+        "es": "Centro de simulación médica y salas de hospital de prácticas de QIU"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Penelitian Farmasi & Formulasi Obat Modern",
+        "en": "Advanced Pharmaceutical Science & Drug Formulation Labs",
+        "ar": "مختبرات العلوم الصيدلانية وأبحاث تركيب الأدوية الحديثة",
+        "ko": "첨단 약학 연구 및 신약 제형 개발 전문 실험실",
+        "ja": "先端薬学研究＆新薬製剤開発専門ラボ",
+        "zh": "高水平药剂科学研发实验室与现代药物制剂工艺实训车间",
+        "ru": "Лаборатории фармацевтических наук и разработки лекарственных форм",
+        "fr": "Laboratoires de sciences pharmaceutiques et de formulation de médicaments",
+        "es": "Laboratorios de ciencias farmacéuticas y formulación de medicamentos"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Penelitian Bioteknologi Hijau & Pertanian Berkelanjutan",
+        "en": "Green Biotechnology & Sustainable Agriculture Research Hub",
+        "ar": "مركز أبحاث التقنية الحيوية الخضراء والزراعة العضوية المستدامة",
+        "ko": "그린 바이오테크놀로지 및 지속 가능한 농업 생명과학 연구소",
+        "ja": "グリーン・バイオテクノロジー＆持続可能農業研究ハブ",
+        "zh": "绿色生态生物技术研究中心与热带可持续现代农业创新科研基地",
+        "ru": "Центр «зеленой» биотехнологии и устойчивого сельского хозяйства",
+        "fr": "Pôle de recherche en biotechnologie verte et agriculture durable",
+        "es": "Centro de investigación en biotecnología verde y agricultura sostenible"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Rekayasa Robotika, IoT & Kecerdasan Buatan Terapan",
+        "en": "Robotics Engineering, IoT & Applied AI Computation Labs",
+        "ar": "مختبرات هندسة الروبوتات وإنترنت الأشياء والذكاء الاصطناعي التطبيقي",
+        "ko": "로봇 공학, 사물인터넷(IoT) 및 응용 인공지능 컴퓨팅 랩",
+        "ja": "ロボティクス工学・IoT＆応用AIコンピュータ実習施設",
+        "zh": "智能机器人工程、物联网软硬件系统与应用型人工智能研发实验室",
+        "ru": "Лаборатории робототехники, Интернета вещей и прикладного ИИ",
+        "fr": "Laboratoires de robotique, d'IoT et d'IA appliquée",
+        "es": "Laboratorios de robótica, IoT e inteligencia artificial aplicada"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🩺",
+      "title": {
+        "id": "Fakultas Kedokteran (MBBS) & Farmasi Terakreditasi Penuh di Ipoh, Perak",
+        "en": "Premier Accredited Medical (MBBS) & Pharmacy School in Ipoh, Perak",
+        "ar": "كلية الطب البشري (MBBS) والصيدلة المعتمدة بالكامل في مدينة إيبوه بولاية بيراك",
+        "ko": "페락주 이포에 위치한 최고 수준의 인가 의과대학(MBBS) 및 약학대학",
+        "ja": "ペラック州イポーに位置する完全認可の名門医学部（MBBS）＆薬学部",
+        "zh": "坐落于霹雳州首府怡保的知名高认可度全牌照医学院（MBBS）与药学院",
+        "ru": "Аккредитованный медицинский (MBBS) и фармацевтический факультет в Ипохе",
+        "fr": "Faculté de médecine (MBBS) et de pharmacie de premier plan à Ipoh, Perak",
+        "es": "Facultad de Medicina (MBBS) y Farmacia plenamente acreditada en Ipoh (Perak)"
+      },
+      "desc": {
+        "id": "Terakreditasi penuh oleh Dewan Medis Malaysia (MMC) dan terdaftar di World Directory of Medical Schools (WDOMS).",
+        "en": "Fully accredited by Malaysian Medical Council (MMC) and listed in World Directory of Medical Schools (WDOMS).",
+        "ar": "معتمدة بالكامل من المجلس الطبي الماليزي (MMC) ومدرجة في الدليل العالمي لكليات الطب (WDOMS).",
+        "ko": "말레이시아 의학위원회(MMC)의 완전 인가 및 세계 의대 명단(WDOMS)에 공식 등재.",
+        "ja": "マレーシア医学評議会（MMC）から認可を受け、世界医学部名簿（WDOMS）に登録済み。",
+        "zh": "获马来西亚医学理事会（MMC）最高认证，并列入世界医学院校名录（WDOMS），文凭畅行全球。",
+        "ru": "Полная аккредитация MMC и включение во Всемирный справочник медицинских школ (WDOMS).",
+        "fr": "Accrédité par le Conseil médical de Malaisie (MMC) et répertorié dans le répertoire WDOMS.",
+        "es": "Acreditada por el Consejo Médico de Malasia (MMC) y listada en el directorio mundial WDOMS."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Didirikan oleh QI Group Konglomerat Global Multinasional",
+        "en": "Backed by the Global Multinational Conglomerate QI Group",
+        "ar": "مدعومة ومؤسسة من قبل مجموعة QI Group العالمية متعددة الجنسيات",
+        "ko": "글로벌 다국적 대기업 QI 그룹이 설립 및 전폭 지원하는 혁신 대학",
+        "ja": "世界的多国籍コングロマリット「QIグループ」が設立・全面支援",
+        "zh": "由知名跨国企业巨头QI集团投资创办并提供强大全球产业资源支撑",
+        "ru": "Создан при поддержке международного многопрофильного конгломерата QI Group",
+        "fr": "Soutenue par le conglomérat multinational mondial QI Group",
+        "es": "Respaldada por el conglomerado multinacional global QI Group"
+      },
+      "desc": {
+        "id": "Memberikan mahasiswa akses langsung ke jaringan korporasi internasional di lebih dari 30 negara.",
+        "en": "Providing students with direct access to multinational corporate networks across over 30 countries.",
+        "ar": "تتيح للطلاب وصولاً مباشراً إلى شبكة شركات عالمية في أكثر من 30 دولة للتدريب والتوظيف.",
+        "ko": "전 세계 30개국 이상에 걸친 대기업 네트워크를 통해 독점적인 글로벌 인턴십 및 취업 기회 제공.",
+        "ja": "世界30カ国以上に広がる多国籍企業ネットワークを通じて、海外インターンシップや就職を強力に支援。",
+        "zh": "依托覆盖全球30多个国家和地区的跨国商业网络，为毕业生开辟直通海外的就业与发展快车道。",
+        "ru": "Прямой доступ к международным корпоративным сетям в более чем 30 странах.",
+        "fr": "Offre aux étudiants un accès direct aux réseaux d'entreprises dans plus de 30 pays.",
+        "es": "Acceso directo a redes corporativas internacionales en más de 30 países."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kehidupan Mahasiswa di Kota Ipoh: Ibu Kota Kuliner Paling Terjangkau",
+        "en": "Student Living in Ipoh: Malaysia’s Culinary Capital with Low Living Costs",
+        "ar": "الحياة في مدينة إيبوه الساحرة: عاصمة الطهي العالمية وأقل المدن تكلفة للمعيشة",
+        "ko": "이포(Ipoh) 유학 라이프: 말레이시아 최고의 미식 도시와 극도로 저렴한 물가",
+        "ja": "イポーでの留学ライフ：マレーシア随一の美食の街＆国内屈指の低生活費",
+        "zh": "留学胜地“怡保”：享誉国际的美食之都、山水如画与极低的生活居住开销",
+        "ru": "Студенческая жизнь в Ипохе: кулинарная столица Малайзии с низкими ценами",
+        "fr": "Vivre à Ipoh : capitale gastronomique de Malaisie et coût de la vie très bas",
+        "es": "Vida estudiantil en Ipoh: capital gastronómica de Malasia con bajísimo coste de vida"
+      },
+      "desc": {
+        "id": "Biaya hidup di Ipoh sangat ekonomis (hanya RM 700 - RM 1.000 per bulan), lingkungan tenang dan bebas macet.",
+        "en": "Living in Ipoh averages only RM 700 - RM 1,000/month, in a serene, scenic, traffic-free environment.",
+        "ar": "تكاليف المعيشة في إيبوه لا تتعدى 700 إلى 1,000 رينجيت شهرياً، في بيئة هادئة وخلابة وخالية من الازدحام.",
+        "ko": "이포의 월 생활비는 RM 700~1,000 선에 불과하며, 교통 체증 없는 쾌적하고 아름다운 주거 환경 자랑.",
+        "ja": "イポーの生活費は月額RM 700〜1,000程度と極めて安く、渋滞のない穏やかで風光明媚な街。",
+        "zh": "怡保每月平均综合生活成本仅需700至1000马币，山清水秀无拥堵，生活节奏舒适安逸。",
+        "ru": "Жизнь в Ипохе обходится всего в 700–1000 ринггитов в месяц в спокойном красивом городе.",
+        "fr": "Le coût de la vie à Ipoh est de seulement 700 à 1000 RM par mois, dans un cadre serein et fluide.",
+        "es": "El gasto mensual en Ipoh es de solo 700 a 1.000 RM al mes, en un ambiente tranquilo y sin atascos."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Fokus Riset Keberlanjutan Lingkungan & Bioteknologi Tropis",
+        "en": "Core Research in Environmental Sustainability & Tropical Biotech",
+        "ar": "التركيز على أبحاث الاستدامة البيئية والتقنية الحيوية الاستوائية التطبيقية",
+        "ko": "환경 지속 가능성 및 열대 생명공학 분야의 특화 연구 역량",
+        "ja": "環境サステナビリティ＆熱帯バイオテクノロジーに特化した先端研究",
+        "zh": "专注绿色生态环境可持续发展与热带生物技术特色科研战略",
+        "ru": "Исследования в области экологической устойчивости и тропических биотехнологий",
+        "fr": "Recherche de pointe sur la durabilité environnementale et la biotechnologie tropicale",
+        "es": "Investigación orientada a la sostenibilidad ambiental y biotecnología tropical"
+      },
+      "desc": {
+        "id": "Menghasilkan publikasi inovatif dalam bidang pangan berkelanjutan, konservasi flora fauna, dan energi terbarukan.",
+        "en": "Pioneering discoveries in sustainable food systems, biodiversity conservation, and clean technologies.",
+        "ar": "أبحاث وابتكارات رائدة في منظومات الغذاء المستدام، وحماية التنوع الحيوي والطاقة النظيفة.",
+        "ko": "지속 가능한 식량 시스템, 생물다양성 보전 및 친환경 재생 기술 분야 혁신적 연구 성과 창출.",
+        "ja": "持続可能な食料システム、生物多様性保全、クリーンエネルギー技術で革新的な成果を発表。",
+        "zh": "在绿色生态农业、特有物种保护及现代清洁能源技术领域持续输出高水平创新突破。",
+        "ru": "Инновационные открытия в сфере устойчивого питания, биоразнообразия и чистых технологий.",
+        "fr": "Découvertes majeures dans les systèmes alimentaires durables, la biodiversité et les énergies propres.",
+        "es": "Innovaciones en sistemas alimentarios sostenibles, biodiversidad y tecnologías limpias."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kondominium Residensi Mahasiswa The Horizon & D'Aman Ipoh",
+        "en": "The Horizon & D’Aman Official Student Residences Ipoh",
+        "ar": "مجمعات ذا هورايزون ودي أمان السكنية الفاخرة لطلاب QIU إيبوه",
+        "ko": "더 호라이즌 & 디아만 공식 학생 프리미엄 콘도미니엄 (이포)",
+        "ja": "ザ・ホライズン＆ディ・アマン 公式学生コンドミニアム（イポー）",
+        "zh": "The Horizon与D’Aman怡保大学城配套高品质学生公寓社区",
+        "ru": "Студенческие апартаменты The Horizon & D’Aman в Ипохе",
+        "fr": "Résidences étudiantes de qualité The Horizon & D'Aman Ipoh",
+        "es": "Residencias para estudiantes The Horizon & D'Aman Ipoh"
+      },
+      "distance": {
+        "id": "Hanya 2-4 Menit dengan Shuttle Bus Kampus Gratis / Jalan Kaki",
+        "en": "2 to 4 Minutes by Free Campus Shuttle / Short Walk",
+        "ar": "2 إلى 4 دقائق بحافلة الحرم المجانية أو سيراً على الأقدام",
+        "ko": "무료 캠퍼스 셔틀버스로 2~4분 / 도보 이동 가능",
+        "ja": "無料学内シャトルバスで2〜4分／徒歩圏内",
+        "zh": "搭乘校区免费通勤穿梭巴士仅需2至4分钟即可直达教学大楼",
+        "ru": "2–4 минуты на бесплатном шаттле или пешком",
+        "fr": "À 2-4 minutes en navette gratuite du campus ou à pied",
+        "es": "A 2-4 minutos en autobús lanzadera gratuito del campus o a pie"
+      },
+      "priceRange": "RM 350 - RM 750 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam dengan Kartu Akses Khusus & CCTV",
+          "Kolam Renang & Gym Kebugaran Modern",
+          "Kamar Full Furnished AC & WiFi Cepat",
+          "Dapur Bersama & Fasilitas Binatu Otomatis",
+          "Dekat Pusat Kuliner Khas Ipoh & Minimarket"
+        ],
+        "en": [
+          "24/7 Security Patrols & Keycard Entry System",
+          "Swimming Pool & Modern Fitness Gymnasium",
+          "Fully Furnished Air-Conditioned Rooms & High-Speed WiFi",
+          "Shared Kitchenettes & Automated In-House Laundry",
+          "Steps to Famous Ipoh Eateries & Convenience Malls"
+        ],
+        "ar": [
+          "حراسة أمنية 24/7 وبطاقات دخول ذكية ومراقبة بالكاميرات",
+          "حمام سباحة وصالة لياقة بدنية حديثة",
+          "غرف مؤثثة بالكامل ومكيفة مع إنترنت سريع",
+          "مطابخ مشتركة ومغاسل ملابس آلية ذاتية الخدمة",
+          "على بعد خطوات من أشهر مطاعم إيبوه التراثية والأسواق"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian (Sangat Terjangkau)",
+        "en": "Food & Daily Dining (Very Affordable)",
+        "ar": "الطعام والمأكولات اليومية (مناسب جداً)"
+      },
+      "cost": "RM 450 - RM 700"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus Shuttle Kampus Gratis",
+        "en": "Free Campus Shuttle & Local Transit",
+        "ar": "حافلات الحرم المجانية والمواصلات المحلية"
+      },
+      "cost": "RM 30 - RM 80"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 60 - RM 120"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Fotokopi Modul",
+        "en": "Personal Expenses & Course Packs",
+        "ar": "المستلزمات الشخصية والمذكرات الدراسية"
+      },
+      "cost": "RM 160 - RM 320"
+    }
+  ],
+  "videoUrl": "https://www.youtube-nocookie.com/embed/VTpQ17RLHG4",
+  "faqs": [
+    {
+      "q": {
+        "id": "Apakah program Kedokteran (MBBS) di QIU diakui untuk ujian lisensi internasional?",
+        "en": "Is the QIU MBBS programme recognized for international licensing exams?",
+        "ar": "هل برنامج الطب البشري (MBBS) في جامعة QIU معترف به للاختبارات الدولية لمزاولة المهنة؟",
+        "ko": "QIU의 의학사(MBBS) 학위는 해외 의사 면허 시험 응시 자격을 갖추나요?",
+        "ja": "QIUの医学部（MBBS）学位は国際的な医師免許試験を受験できますか？",
+        "zh": "QIU的内外全科医学士（MBBS）学位是否符合国际执业医师考试报名资质？",
+        "ru": "Признается ли программа MBBS в QIU для международных лицензионных экзаменов?",
+        "fr": "Le programme MBBS de QIU est-il reconnu pour les examens d'équivalence internationale ?",
+        "es": "¿Está el programa MBBS de QIU reconocido para exámenes internacionales de colegiación?"
+      },
+      "a": {
+        "id": "Ya, gelar MBBS QIU terdaftar di World Directory of Medical Schools (WDOMS) dan terakreditasi oleh MMC, memenuhi syarat bagi lulusan untuk mengambil USMLE (Amerika Serikat) dan PLAB (Inggris).",
+        "en": "Yes, the QIU MBBS is listed in WDOMS and accredited by the MMC, allowing graduates to take the USMLE (USA) and PLAB (UK).",
+        "ar": "نعم، مسجلة في الدليل العالمي لكليات الطب (WDOMS) ومعتمدة من المجلس الطبي الماليزي (MMC)، مما يتيح التقديم لامتحانات USMLE الأمريكية وPLAB البريطانية.",
+        "ko": "네, WDOMS에 공식 등재되어 있고 말레이시아 의학위원회의 인가를 받아 미국 USMLE 및 영국 PLAB 시험 응시가 가능합니다.",
+        "ja": "はい、WDOMSに登録されMMCの認可を受けており、米国USMLEや英国PLABを受験する資格を満たします。",
+        "zh": "是的，QIU医学士学位已正式载入WDOMS名录并获MMC认证，毕业生完全具备报考美国USMLE及英国PLAB执业医师准入的资格。",
+        "ru": "Да, диплом включен в WDOMS и аккредитован MMC, что позволяет сдавать USMLE и PLAB.",
+        "fr": "Oui, le diplôme figure dans le WDOMS et est accrédité par le MMC, permettant de passer l'USMLE et le PLAB.",
+        "es": "Sí, está listado en WDOMS y acreditado por el MMC, permitiendo presentarse al USMLE y al PLAB."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah sarjana (Bachelor) di Quest International University?",
+        "en": "What are the tuition fees for bachelor degrees at Quest International University?",
+        "ar": "كم تبلغ تكاليف ورسوم دراسة البكالوريوس في جامعة كويست الدولية QIU؟",
+        "ko": "QIU의 학사 학위 과정 평균 학비는 얼마인가요?",
+        "ja": "QIUの学士課程の年間学費はどれくらいですか？",
+        "zh": "在QIU国际大学攻读本科学位各专业的年度学杂费大致是多少？",
+        "ru": "Какова стоимость обучения на бакалавриате в QIU?",
+        "fr": "Quels sont les frais de scolarité en licence à QIU ?",
+        "es": "¿Cuáles son las tarifas de matrícula para un grado en QIU?"
+      },
+      "a": {
+        "id": "Program Bisnis dan IT berkisar antara $4.200 - $5.200 USD per tahun. Program Farmasi dan Bioteknologi sekitar $5.000 - $6.500 USD per tahun. Program Kedokteran (MBBS) sekitar $65.000 USD untuk keseluruhan 5 tahun.",
+        "en": "Business & IT range from $4,200 to $5,200 USD/year. Pharmacy & Biotech average $5,000 to $6,500 USD/year. Medicine (MBBS) is approx $65,000 USD total for 5 years.",
+        "ar": "تتراوح برامج الأعمال وتكنولوجيا المعلومات بين 4,200 إلى 5,200 دولار سنوياً. والصيدلة والتقنية الحيوية بين 5,000 إلى 6,500 دولار سنوياً. والطب البشري حوالي 65,000 دولار للسنوات الخمس كاملة.",
+        "ko": "경영 및 IT는 연간 약 4,200~5,200 달러, 약학 및 생명공학은 연간 약 5,000~6,500 달러, 의학(MBBS)은 5년간 총 약 65,000 달러 선으로 대단히 경제적입니다.",
+        "ja": "ビジネス＆ITは年間約4,200〜5,200米ドル、薬学＆バイオテクノロジーは年間約5,000〜6,500米ドル、医学部（MBBS）は5年間で総額約65,000米ドルです。",
+        "zh": "商科及IT专业年均约4,200至5,200美元；药剂学与生物技术年均约5,000至6,500美元；临床医学（MBBS）5年全程总学费仅约65,000美元，性价比极佳。",
+        "ru": "Бизнес и IT: 4 200–5 200 $ в год; фармация и биотехнологии: 5 000–6 500 $ в год; медицина (MBBS): около 65 000 $ за все 5 лет.",
+        "fr": "Commerce et IT : 4 200 à 5 200 $ par an ; pharmacie et biotechnologie : 5 000 à 6 500 $ par an ; médecine : 65 000 $ au total pour 5 ans.",
+        "es": "Empresa y TI: 4.200-5.200 $ al año; Farmacia y Biotecnología: 5.000-6.500 $ al año; Medicina: unos 65.000 $ en total por 5 años."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa rata-rata biaya hidup dan sewa akomodasi mahasiswa di Ipoh?",
+        "en": "What is the average cost of living and accommodation in Ipoh?",
+        "ar": "كم يبلغ متوسط تكلفة المعيشة وإيجار السكن للطلاب في مدينة إيبوه؟",
+        "ko": "이포에서의 학생 기숙사 렌트비와 월평균 생활비는 얼마인가요?",
+        "ja": "イポーでのアパート家賃と月々の生活費の相場は？",
+        "zh": "在怡保求学的学生平均每月租房与餐饮综合生活开销大约是多少？",
+        "ru": "Каковы средние расходы на жизнь и аренду жилья в Ипохе?",
+        "fr": "Quel est le coût moyen de la vie et du logement étudiant à Ipoh ?",
+        "es": "¿Cuál es el coste medio de vida y alojamiento para estudiantes en Ipoh?"
+      },
+      "a": {
+        "id": "Sangat hemat: Sewa kamar kondominium modern berkisar antara RM 350 - RM 700 per bulan, dan biaya makan serta kebutuhan harian sekitar RM 450 - RM 650 per bulan.",
+        "en": "Extremely economical: Modern condo rentals range from RM 350 to RM 700/month, and food/daily living averages RM 450 to RM 650/month.",
+        "ar": "اقتصادية للغاية: إيجار الغرف في الشقق الحديثة يتراوح بين 350 إلى 700 رينجيت شهرياً، ومصاريف الطعام والمستلزمات اليومية بين 450 إلى 650 رينجيت شهرياً.",
+        "ko": "월 RM 350~700 선의 저렴한 현대식 콘도 렌트와 월 RM 450~650 수준의 식비로 매우 경제적인 유학 가능.",
+        "ja": "最新コンドミニアムの部屋代が月額RM 350〜700程度、食費・日用品が月額RM 450〜650程度と極めて安価です。",
+        "zh": "极为实惠：高档现代公寓独立单间月租仅约350至700马币，日常餐饮饮食花销仅需450至650马币即可非常丰盛。",
+        "ru": "Аренда жилья — 350–700 ринггитов в месяц, питание и бытовые расходы — 450–650 ринггитов.",
+        "fr": "Très économique : loyer entre 350 et 700 RM par mois, nourriture et dépenses courantes entre 450 et 650 RM.",
+        "es": "Muy accesible: alquileres entre 350 y 700 RM al mes, y alimentación y gastos diarios entre 450 y 650 RM."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk pendaftaran di QIU?",
+        "en": "What are the required IELTS scores for admission to QIU?",
+        "ar": "ما هي متطلبات درجة اختبار IELTS للقبول في جامعة QIU؟",
+        "ko": "QIU 입학을 위한 IELTS 성적 기준은 어떻게 되나요?",
+        "ja": "QIU出願に必要なIELTSスコアの基準は？",
+        "zh": "申请入读QIU国际大学本科课程需要满足多少雅思（IELTS）成绩？",
+        "ru": "Каковы требования по IELTS для поступления в QIU?",
+        "fr": "Quelles sont les exigences d'IELTS pour être admis à QIU ?",
+        "es": "¿Cuáles son los requisitos de IELTS para ingresar en QIU?"
+      },
+      "a": {
+        "id": "Program sarjana umum memerlukan skor IELTS 5.0 - 5.5. Program Farmasi mensyaratkan IELTS 6.0, dan program Kedokteran (MBBS) memerlukan minimal IELTS 6.5.",
+        "en": "Standard degree programmes require IELTS 5.0 to 5.5. Pharmacy requires IELTS 6.0, and Medicine (MBBS) mandates IELTS 6.5 minimum.",
+        "ar": "تتطلب البرامج العامة درجة IELTS بين 5.0 إلى 5.5. بينما تتطلب الصيدلة 6.0، والطب البشري (MBBS) درجة لا تقل عن 6.5.",
+        "ko": "일반 학부 과정은 IELTS 5.0~5.5, 약학과는 6.0, 의과대학(MBBS)은 최소 6.5가 요구됩니다.",
+        "ja": "一般学部はIELTS 5.0〜5.5、薬学専攻は6.0、医学部（MBBS）は6.5以上が必要です。",
+        "zh": "常规专业要求雅思5.0至5.5分；药剂学要求雅思6.0分；临床医学（MBBS）要求最低雅思6.5分。",
+        "ru": "Для обычных программ требуется IELTS 5.0–5.5. Для фармации — 6.0, для медицины (MBBS) — от 6.5.",
+        "fr": "Les licences classiques demandent 5.0 à 5.5 à l'IELTS. La pharmacie exige 6.0 et la médecine au moins 6.5.",
+        "es": "Los grados generales exigen 5.0 a 5.5 de IELTS. Farmacia pide 6.0 y Medicina requiere al menos 6.5."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan bulan intake pendaftaran mahasiswa baru di QIU?",
+        "en": "What are the official intake months at QIU?",
+        "ar": "ما هي فصول وأشهر استقبال وتسجيل الطلاب الجدد في جامعة QIU؟",
+        "ko": "QIU의 정규 입학 시기는 몇 월인가요?",
+        "ja": "QIUの主要な入学期（インテイク）は何月ですか？",
+        "zh": "QIU大学每年的正规招生入学节点主要在哪些月份？",
+        "ru": "В какие месяцы проходит официальный прием студентов в QIU?",
+        "fr": "Quelles sont les sessions d'admission officielles à QIU ?",
+        "es": "¿Cuáles son las convocatorias oficiales de admisión en QIU?"
+      },
+      "a": {
+        "id": "Intake utama untuk sarjana dibuka pada bulan Maret, Juni, dan Oktober setiap tahun.",
+        "en": "Primary undergraduate intakes occur in March, June, and October each year.",
+        "ar": "تبدأ الفصول الدراسية الرئيسية للبكالوريوس في أشهر مارس ويونيو وأكتوبر من كل عام.",
+        "ko": "학부 과정의 주요 정규 입학은 매년 3월, 6월, 10월에 진행됩니다.",
+        "ja": "学部課程の主要な入学期は毎年3月、6月、10月です。",
+        "zh": "本科学位课程每年的正规开学批次为3月、6月以及10月。",
+        "ru": "Основные наборы на бакалавриат проходят в марте, июне и октябре каждого года.",
+        "fr": "Les rentrées principales en licence se déroulent en mars, juin et octobre.",
+        "es": "Las convocatorias principales de grado son en marzo, junio y octubre."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Kedokteran & Farmasi di QIU: Biaya Hemat, Akreditasi & Karier",
+        "en": "Complete Guide to Medicine & Pharmacy at QIU: High Value, Accredited & Career-Focused",
+        "ar": "الدليل الكامل لدراسة الطب والصيدلة في QIU: تكلفة اقتصادية، اعتمادات وفرص وظيفية",
+        "ko": "QIU 의과대학 및 약학대학 종합 가이드: 가성비 학비와 공인 의사/약사 진출 전략",
+        "ja": "QIU医学部＆薬学部完全ガイド：高コストパフォーマンス、公認資格、キャリア展開",
+        "zh": "QIU医学与药剂学深度全景指南：亲民可负担的优质学杂费标准与全牌照执业发展",
+        "ru": "Полный гид по медицине и фармации в QIU: доступная стоимость, аккредитация и карьера",
+        "fr": "Guide complet pour étudier la médecine et la pharmacie à QIU : accessible, agréé et axé sur l'emploi",
+        "es": "Guía completa de Medicina y Farmacia en QIU: accesible, acreditada y enfocada al empleo"
+      },
+      "summary": {
+        "id": "Analisis mendalam kurikulum MBBS, fasilitas rumah sakit pelatihan, penghematan biaya kuliah, dan ujian lisensi.",
+        "en": "Comprehensive analysis of the MBBS curriculum, hospital training networks, fee savings, and international licensing.",
+        "ar": "تحليل دقيق لمنهج الطب البشري، وشبكة المستشفيات التدريبية، والتوفير المالي وامتحانات مزاولة المهنة.",
+        "ko": "MBBS 교육과정, 협력 병원 임상 실습 체계, 학비 절감 효과 및 국제 의사 면허 취득 심층 분석.",
+        "ja": "MBBSカリキュラム、提携病院での臨床研修網、学費節約メリット、国際免許取得ルートを検証。",
+        "zh": "深入梳理内外全科医学士教学大纲、教学医院临床轮转网络、家庭留学开销节省测算及国际行医资格。",
+        "ru": "Подробный анализ программы MBBS, сети клинических баз, экономии средств и лицензирования.",
+        "fr": "Analyse du cursus MBBS, du réseau hospitalier de formation, des coûts modérés et de l'autorisation d'exercer.",
+        "es": "Análisis detallado del plan de estudios de MBBS, red de hospitales de prácticas y colegiación internacional."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Kuliah di Ipoh: Menikmati Kehidupan di Kota Heritage Paling Bersahabat",
+        "en": "Studying in Ipoh: Enjoying Life in Malaysia’s Friendliest Heritage City",
+        "ar": "الدراسة في إيبوه: استمتع بالحياة في أهدأ المدن التاريخية وأكثرها ترحيباً",
+        "ko": "이포 유학 백서: 가장 따뜻하고 친절한 유네스코 미식 도시에서의 생활",
+        "ja": "イポー留学ナビ：最も温かく親切な美食ヘリテージ都市での快適ライフ",
+        "zh": "求学历史名城怡保：在全马最淳朴友善的美食天堂畅享惬意留学岁月",
+        "ru": "Учеба в Ипохе: жизнь в самом дружелюбном историческом городе Малайзии",
+        "fr": "Étudier à Ipoh : profiter de la ville historique la plus accueillante de Malaisie",
+        "es": "Estudiar en Ipoh: disfruta de la vida en la ciudad histórica más acogedora de Malasia"
+      },
+      "summary": {
+        "id": "Kenyamanan hidup dengan anggaran RM 800/bulan, eksplorasi kuliner legendaris, dan akomodasi apartemen modern.",
+        "en": "Comfortable living on RM 800/month, legendary culinary discoveries, and modern apartment accommodation.",
+        "ar": "الراحة المعيشية بميزانية 800 رينجيت شهرياً، واستكشاف أشهى الأطباق التراثية والشقق السكنية الراقية.",
+        "ko": "월 RM 800으로 누리는 안락한 주거 환경, 전설적인 현지 미식 탐방 및 현대식 아파트 기숙사 정보.",
+        "ja": "月額RM 800のゆとりある生活、伝説的なローカルグルメ探訪、モダンなアパート情報。",
+        "zh": "月均800马币即可享受高舒适度独立起居、搜罗街头巷尾百年传承老字号美味及精装公寓租赁全览。",
+        "ru": "Комфортная жизнь на 800 ринггитов в месяц, легендарная гастрономия и современное жилье.",
+        "fr": "Confort de vie pour 800 RM par mois, gastronomie légendaire et appartements modernes.",
+        "es": "Vivir con comodidad por 800 RM al mes, descubrir la gastronomía legendaria y apartamentos modernos."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Dukungan Korporasi QI Group: Keunggulan Karier Global Mahasiswa QIU",
+        "en": "The QI Group Corporate Advantage: Launching Global Careers at QIU",
+        "ar": "ميزة دعم مجموعة QI Group العالمية: انطلاقة وظيفية دولية لطلاب جامعة QIU",
+        "ko": "글로벌 대기업 QI 그룹의 혜택: QIU 학생들의 독보적 글로벌 커리어 진출",
+        "ja": "グローバル企業QIグループの支援：QIU在学生の国際的キャリア展開力",
+        "zh": "全球跨国巨头QI集团赋能加持：QIU学子迈向跨国企业高薪事业的专属阶梯",
+        "ru": "Корпоративная поддержка QI Group: старт международной карьеры студентов QIU",
+        "fr": "L'avantage du groupe QI : propulser sa carrière à l'international depuis QIU",
+        "es": "La ventaja corporativa del Grupo QI: despega tu carrera internacional desde QIU"
+      },
+      "summary": {
+        "id": "Bagaimana keterlibatan konglomerat multinasional membuka peluang magang dan penempatan kerja di berbagai negara.",
+        "en": "How multinational corporate backing unlocks cross-border internships and executive graduate placements.",
+        "ar": "كيف يفتح دعم المجموعة المتعددة الجنسيات آفاق التدريب والتوظيف التنفيذي في العديد من الدول.",
+        "ko": "다국적 대기업의 직접 지원이 해외 인턴십과 글로벌 취업에 미치는 강력한 시너지 분석.",
+        "ja": "多国籍コングロマリットによる支援が、海外インターンシップやグローバル就職へもたらす強みを解説。",
+        "zh": "揭秘跨国企业财团直接办学如何赋能定向海外管培生招聘、跨国顶岗实习通道及高薪直签福利。",
+        "ru": "Как поддержка многопрофильной корпорации открывает возможности стажировок и работы за рубежом.",
+        "fr": "Comment l'appui d'un conglomérat multinational facilite les stages et recrutements à l'international.",
+        "es": "Cómo el respaldo de un conglomerado multinacional abre prácticas y empleos ejecutivos en el extranjero."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Kedokteran & Bedah (Bachelor of Medicine MBBS)",
+        "en": "Medicine & Surgery (MBBS)",
+        "ar": "الطب البشري والجراحة (MBBS معتمد من MMC)",
+        "ko": "의학 및 외과학사 (MBBS 말레이시아 의협 인가)",
+        "ja": "医学部・外科学士（MBBS）",
+        "zh": "内外全科医学士（MBBS，获MMC全面认证）",
+        "ru": "Лечебное дело и хирургия (MBBS)",
+        "fr": "Médecine et chirurgie (MBBS)",
+        "es": "Medicina y Cirugía (MBBS)"
+      },
+      "degree": "Bachelor Degree (MMC & WDOMS Listed)",
+      "duration": "5 Years",
+      "feeUSD": "$63,000 - $68,000 Total",
+      "ielts": "6.5"
+    },
+    {
+      "faculty": {
+        "id": "Farmasi (Bachelor of Pharmacy Hons)",
+        "en": "Pharmacy (BPharm Hons)",
+        "ar": "الصيدلة (بكالوريوس مع مرتبة الشرف)",
+        "ko": "약학 학사 (BPharm Hons)",
+        "ja": "薬学部・薬学士（栄誉学位）",
+        "zh": "药剂学荣誉学士学位（BPharm Hons）",
+        "ru": "Фармация (с отличием)",
+        "fr": "Pharmacie (avec mention)",
+        "es": "Farmacia (con honores)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "4 Years",
+      "feeUSD": "$23,000 - $26,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Bioteknologi Hijau & Ilmu Lingkungan Terapan",
+        "en": "Green Biotechnology & Environmental Science",
+        "ar": "التقنية الحيوية الخضراء والعلوم البيئية",
+        "ko": "그린 생명공학 및 환경과학부",
+        "ja": "グリーン・バイオテクノロジー＆環境科学部",
+        "zh": "绿色生物技术与应用环境科学学院",
+        "ru": "Зеленая биотехнология и экологические науки",
+        "fr": "Biotechnologie verte et sciences environnementales",
+        "es": "Biotecnología Verde y Ciencias Ambientales"
+      },
+      "degree": "Bachelor of Science (Hons)",
+      "duration": "3 Years",
+      "feeUSD": "$13,500 - $16,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Komputer, Rekayasa Perangkat Lunak & AI",
+        "en": "Computer Science & Software Engineering",
+        "ar": "علوم الحاسوب وهندسة البرمجيات والذكاء الاصطناعي",
+        "ko": "컴퓨터 과학 및 소프트웨어 공학부",
+        "ja": "コンピュータサイエンス＆ソフトウェア工学部",
+        "zh": "计算机科学与软件工程学院",
+        "ru": "Компьютерные науки и инженерия ПО",
+        "fr": "Informatique et génie logiciel",
+        "es": "Ciencias de la Computación y Software"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$12,500 - $15,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Administrasi Bisnis, Akuntansi & Keuangan",
+        "en": "Business Administration & Accounting",
+        "ar": "إدارة الأعمال والمحاسبة والمالية",
+        "ko": "경영학, 회계학 및 금융학부",
+        "ja": "経営学・会計学＆金融学部",
+        "zh": "商业管理、会计学与金融学院",
+        "ru": "Бизнес-администрирование и бухгалтерский учет",
+        "fr": "Administration des affaires et comptabilité",
+        "es": "Administración de Empresas y Contabilidad"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$11,500 - $14,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Science (Jalur Kedokteran & Sains)",
+        "en": "Foundation in Science (Medical Track)",
+        "ar": "السنة التمهيدية في العلوم (المسار الطبي والصحي)",
+        "ko": "이과 파운데이션 (의학/보건 진학 트랙)",
+        "ja": "理系ファウンデーション（医学・医療進学コース）",
+        "zh": "理科基础预科文凭课程（直通医学与健康专业）",
+        "ru": "Подготовительный курс (Foundation) по наукам (медицинский профиль)",
+        "fr": "Année préparatoire en sciences (filière médicale)",
+        "es": "Fundamentos en Ciencias (Vía Médica)"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$3,800 - $4,500 Total",
+      "ielts": "5.0"
+    }
+  ],
+  "directWatchUrl": null
+}

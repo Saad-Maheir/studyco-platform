@@ -1,0 +1,2506 @@
+{
+  "id": "heriotwatt",
+  "name": "Heriot-Watt University Malaysia",
+  "arabicName": "جامعة هيريوت وات البريطانية في ماليزيا",
+  "city": "Putrajaya",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-heriotwatt.svg",
+  "image": "assets/photo/campus_heriotwatt.webp",
+  "website": "https://www.hw.ac.uk/malaysia/",
+  "ranking": "Rank 256 QS World University Rankings 2025 (Top UK Lakeside Campus)",
+  "established": "2012",
+  "campusName": "Heriot-Watt Putrajaya Lake Campus",
+  "studentCount": "3,000+ (60+ Countries)",
+  "intakes": "Jan, Apr, Jul, Sep",
+  "feeRangeMin": 30000,
+  "feeRangeMax": 62100,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/k6tC0n1AOV8",
+  "description": "Heriot-Watt University Malaysia is one of the leading recognized higher education institutions located in Putrajaya. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة هيريوت وات البريطانية في ماليزيا واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Putrajaya، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Heriot-Watt University Malaysia didirikan pada tahun 2014 di tepi danau Putrajaya yang menakjubkan, sebagai kampus cabang internasional resmi dari Heriot-Watt University Edinburgh, Inggris (berdiri 1821, Rank 256 QS World). Terkenal atas Sains Aktuaria, Teknik Mesin, dan Bisnis.",
+    "en": "Heriot-Watt University Malaysia, established in 2014 along Putrajaya’s scenic lakeside, is the state-of-the-art international branch campus of Heriot-Watt Edinburgh, UK (Est. 1821 / Rank 256 QS World), famed for Actuarial Science, Mechanical Engineering, and Quantity Surveying.",
+    "ar": "تأسس فرع جامعة هيريوت-وات البريطانية في ماليزيا عام 2014 على ضفاف بحيرة بوتراجايا الخلابة، وهو الحرم الدولي الرسمي لجامعة هيريوت-وات بإدنبرة (تأسست 1821)، وتشتهر بالعلوم الإكتوارية، والهندسة الميكانيكية، وحساب الكميات.",
+    "zh": "英国赫瑞-瓦特大学马来西亚分校建于2014年，坐落于联邦行政中心布城（Putrajaya）壮丽的湖畔之滨，是英国百年名校赫瑞-瓦特大学（建校于1821年）的直属国际校区，精算科学与工程测量居全英顶尖水准。",
+    "ru": "Филиал Университета Хериот-Уатт в Малайзии (Путраджая) — современный кампус шотландского Heriot-Watt University (основан в 1821 г.), известный актуарными науками и инженерией.",
+    "fr": "Le campus de Heriot-Watt University Malaysia au bord du lac de Putrajaya est l'antenne officielle de l'université écossaise Heriot-Watt (fondée en 1821), réputée en actuariat et ingénierie.",
+    "es": "Heriot-Watt University Malaysia, junto al lago de Putrajaya, es la sede oficial de la británica Heriot-Watt (fundada en 1821), líder en Ciencias Actuariales e Ingeniería.",
+    "ja": "ヘリオット・ワット大学マレーシア校は行政都市プトラジャヤの美しい湖畔に位置し、英スコットランド名門本校（1821年創立）と完全同一の英国正規学位（保険数理学・工学）を授与。",
+    "ko": "헤리엇-와트 대학교 말레이시아 캠퍼스는 푸트라자야 호수변에 위치한 영국 스코틀랜드 명문 헤리엇-와트 대학교(1821년 설립)의 직속 캠퍼스로 보험계리학과 공학으로 저명합니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Tepi Danau Berkelanjutan Beratap Hijau Arsitektural di Putrajaya",
+        "en": "Eco-Friendly Green-Roof Lakeside Campus in Putrajaya",
+        "ar": "الحرم المعماري البيئي الذكي ذو السطح الأخضر على بحيرة بوتراجايا",
+        "ko": "푸트라자야 호수변 친환경 그린루프 랜드마크 첨단 캠퍼스",
+        "ja": "プトラジャヤ湖畔の屋上緑化・環境共生型最新キャンパス",
+        "zh": "坐落于布城优美湖畔的绿色建筑金奖屋顶生态智能化标志性校区",
+        "ru": "Экологичный кампус на берегу озера в Путраджае с зеленой крышей",
+        "fr": "Superbe campus écologique à toit végétalisé au bord du lac de Putrajaya",
+        "es": "Innovador campus ecológico junto al lago con tejado verde en Putrajaya"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Sains Aktuaria, Analitik Data & Finansial Canggih",
+        "en": "Advanced Actuarial Science & Data Analytics Trading Labs",
+        "ar": "مختبرات العلوم الإكتوارية وتحليلات البيانات والنمذجة المالية",
+        "ko": "보험계리학 및 금융 빅데이터 분석 첨단 전용 랩",
+        "ja": "アクチュアリー科学・金融ビッグデータアナリティクス専用実習室",
+        "zh": "全球顶尖精算科学与金融大数据量化分析专业实训实验室",
+        "ru": "Лаборатории актуарных наук, анализа данных и финансовых рынков",
+        "fr": "Laboratoires avancés de sciences actuarielles et d'analyse de données",
+        "es": "Laboratorios avanzados de ciencias actuariales y análisis de datos"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Suite Rekayasa Mesin, Sipil & Energi Terbarukan Modern",
+        "en": "Mechanical, Civil & Renewable Energy Engineering Suites",
+        "ar": "أجنحة الهندسة الميكانيكية والمدنية ومصادر الطاقة المتجددة",
+        "ko": "기계, 토목 및 신재생 그린 에너지 융합 공학 연구 센터",
+        "ja": "機械・土木・再生可能エネルギー統合エンジニアリング実習棟",
+        "zh": "机械工程、土木建筑与可再生绿色能源前沿工科实验套件",
+        "ru": "Инженерные комплексы механики, гражданского строительства и ВИЭ",
+        "fr": "Suites d'ingénierie mécanique, civile et d'énergies renouvelables",
+        "es": "Suites de ingeniería mecánica, civil y de energías renovables"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Learning Commons Tepi Danau & Pod Riset Kolaboratif 24/7",
+        "en": "Waterfront Learning Commons & Digital Research Pods",
+        "ar": "قاعات التعلم التفاعلي والبحوث الرقمية المطلة على البحيرة",
+        "ko": "호수 전망 러닝 커먼스 및 24시간 디지털 리서치 부스",
+        "ja": "ウォーターフロント自習ラウンジ＆デジタル研究スペース",
+        "zh": "一线湖景现代化数字化学习共享空间与协同创新科研舱",
+        "ru": "Цифровой центр с видом на озеро и капсулы для исследований",
+        "fr": "Espaces d'apprentissage numérique au bord de l'eau et pods de recherche",
+        "es": "Espacios de aprendizaje colaborativo junto al lago y módulos de investigación"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇬🇧",
+      "title": {
+        "id": "Gelar Resmi Universitas Kerajaan Inggris (Royal Charter Sejak 1821)",
+        "en": "Historic UK Royal Charter University (Founded 1821)",
+        "ar": "جامعة بريطانية عريقة بموجب ميثاق ملكي تأسست منذ عام 1821",
+        "ko": "1821년 설립된 유서 깊은 영국 왕립 헌장(Royal Charter) 명문 대학",
+        "ja": "1821年創立の歴史と伝統を誇る英国勅许（Royal Charter）名門大学",
+        "zh": "创立于1821年享誉两百年的英国皇家特许(Royal Charter)老牌名校",
+        "ru": "Старейший британский университет с королевской хартией (осн. в 1821)",
+        "fr": "Prestigieuse université britannique à charte royale fondée en 1821",
+        "es": "Prestigiosa universidad británica con carta real fundada en 1821"
+      },
+      "desc": {
+        "id": "Pendidikan kelas dunia dengan kurikulum identik dan ijazah langsung dari Edinburgh, Skotlandia.",
+        "en": "World-class British degrees awarded directly from Edinburgh, Scotland.",
+        "ar": "مؤهلات بريطانية رفيعة المستوى صادرة مباشرة من إدنبرة باسكتلندا ومعتمدة عالمياً.",
+        "ko": "스코틀랜드 에든버러 본교에서 직접 수여하는 100% 동일한 정규 영국 학위.",
+        "ja": "スコットランド・エディンバラ本校から直接授与される同等の英国学位記。",
+        "zh": "所有学术证书均由英国苏格兰爱丁堡本部直接颁发，含金量完全相同。",
+        "ru": "Британское образование высшей пробы с дипломом из Эдинбурга, Шотландия.",
+        "fr": "Diplômes britanniques d'élite décernés directement depuis Édimbourg.",
+        "es": "Títulos británicos de clase mundial otorgados directamente desde Edimburgo."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pemimpin Dunia dalam Sains Aktuaria & Rekayasa Teknik",
+        "en": "Global Leader in Actuarial Science, Quantity Surveying & Engineering",
+        "ar": "الرائدة عالمياً في العلوم الإكتوارية وحساب الكميات والهندسة",
+        "ko": "보험계리학, 건축적산(QS) 및 공학 분야의 세계적인 학문적 리더십",
+        "ja": "アクチュアリー科学・積算測量（QS）・工学分野の世界的リーダー",
+        "zh": "在精算学、工料测量(QS)以及多学科工程领域处于绝对世界领导地位",
+        "ru": "Мировой лидер в области актуарных наук, оценки стоимости и инженерии",
+        "fr": "Leader mondial en sciences actuarielles, métré et ingénierie",
+        "es": "Líder mundial en ciencias actuariales, aparejadores e ingeniería"
+      },
+      "desc": {
+        "id": "Terakreditasi penuh oleh Institute and Faculty of Actuaries (IFoA) UK dan RICS dengan pembebasan ujian profesi maksimal.",
+        "en": "Fully accredited by the UK Institute and Faculty of Actuaries (IFoA) and RICS.",
+        "ar": "معتمدة بالكامل من معهد الخبراء الإكتواريين البريطاني (IFoA) مع إعفاءات واسعة من الاختبارات المهنية.",
+        "ko": "영국 보험계리인협회(IFoA) 및 영국왕립감정평가사협회(RICS) 최대 시험 면제 혜택.",
+        "ja": "英国アクチュアリー会（IFoA）およびRICSから最大規模の科目免除認定を取得。",
+        "zh": "获英国精算师协会(IFoA)与英国皇家特许测量师学会(RICS)最高级别专业免考资格。",
+        "ru": "Аккредитация британских институтов IFoA и RICS с максимальными льготами.",
+        "fr": "Accrédité par l'IFoA et la RICS au Royaume-Uni avec exemptions maximales.",
+        "es": "Acreditado por el IFoA y la RICS de Reino Unido con máximas exenciones de exámenes."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Skema Transfer Global \"GoGlobal\" ke Kampus Edinburgh & Dubai",
+        "en": "Seamless \"GoGlobal\" Transfer to Edinburgh & Dubai Campuses",
+        "ar": "برنامج GoGlobal للانتقال السلس بين فروع إدنبرة ودبي وماليزيا",
+        "ko": "에든버러 및 두바이 캠퍼스를 잇는 유연한 \"GoGlobal\" 이동 제도",
+        "ja": "エディンバラ＆ドバイ校を自由に行き来できる「GoGlobal」制度",
+        "zh": "一站注册全球通行：\"GoGlobal\"多国校区自由流动转学（爱丁堡/迪拜）",
+        "ru": "Программа мобильности GoGlobal между кампусами в Эдинбурге и Дубае",
+        "fr": "Programme de mobilité GoGlobal fluide vers les campus d'Édimbourg et Dubaï",
+        "es": "Transferencia flexible GoGlobal a los campus de Edimburgo y Dubái"
+      },
+      "desc": {
+        "id": "Mahasiswa dapat dengan mudah bertukar kampus ke Skotlandia atau Uni Emirat Arab tanpa hambatan administratif.",
+        "en": "Seamlessly transfer between Scotland, Dubai, and Malaysia campuses at any academic year.",
+        "ar": "تمكن الطالب من قضاء فصول دراسية في اسكتلندا أو دبي والانتقال بحرية بين الفروع الدولية الثلاثة.",
+        "ko": "학업 중 스코틀랜드 본교나 두바이 캠퍼스로 자유롭게 이동하며 다국적 유학 경험 축적.",
+        "ja": "スコットランド本校やドバイ校へシームレスに移籍し、多国籍なキャリアを構築。",
+        "zh": "在读期间可自由申请前往英国苏格兰或阿联酋迪拜校区修读，畅享国际化学术旅途。",
+        "ru": "Легкий перевод между Шотландией, Дубаем и Малайзией в любой момент.",
+        "fr": "Transférez facilement vos études entre l'Écosse, Dubaï et la Malaisie.",
+        "es": "Transfiere fácilmente tus estudios entre Escocia, Dubái y Malasia en cualquier momento."
+      }
+    },
+    {
+      "icon": "⭐",
+      "title": {
+        "id": "Rating QS 5-Stars Sempurna untuk Pengajaran & Fasilitas",
+        "en": "Perfect QS 5-Stars Rated for Teaching & Global Facilities",
+        "ar": "تقييم ممتاز 5 نجوم في تصنيف QS لجودة التدريس والمرافق والتوظيف",
+        "ko": "교육 품질, 취업률 및 글로벌 시설 부문 QS 5스타 만점 획득",
+        "ja": "教育・設備・卒業生就職率の全指標でQS 5つ星最高評価を獲得",
+        "zh": "在教学水平、前沿硬件设施与毕业生全球就业力全项斩获QS五星满分",
+        "ru": "Высшая оценка 5 звезд QS за качество преподавания и инфраструктуру",
+        "fr": "5 étoiles parfaites au classement QS pour l'enseignement et les infrastructures",
+        "es": "Calificación perfecta de 5 estrellas QS en enseñanza e instalaciones de vanguardia"
+      },
+      "desc": {
+        "id": "Investasi besar pada teknologi pembelajaran menghasilkan lulusan dengan keterampilan industri siap pakai.",
+        "en": "Unmatched investment in educational technology producing industry-ready graduates.",
+        "ar": "استثمار ضخم في تقنيات التعليم يؤهل خريجين ذوي كفاءة مهنية عالية واستعداد كامل لسوق العمل.",
+        "ko": "최첨단 교육 인프라를 바탕으로 글로벌 기업이 즉시 투입 가능한 실무형 인재 양성.",
+        "ja": "最先端の学習環境により、卒業後すぐにグローバル市場で即戦力となる人材を輩出。",
+        "zh": "巨资投入智慧科技教学环境，培养具有绝对国际职场实战竞争力的行业英才。",
+        "ru": "Передовые технологии обучения для успешной карьеры в ведущих компаниях.",
+        "fr": "Un enseignement à la pointe de la technologie formant des professionnels prêts pour l'industrie.",
+        "es": "Inversión en tecnología educativa que forma graduados preparados para el mercado global."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Heriot-Watt University Malaysia Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة هيريوت وات البريطانية في ماليزيا",
+        "id": "Residensi Mahasiswa Resmi Heriot-Watt University Malaysia"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Heriot-Watt University Malaysia internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة هيريوت وات البريطانية في ماليزيا معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Heriot-Watt University Malaysia diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Heriot-Watt University Malaysia is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة هيريوت وات البريطانية في ماليزيا معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Heriot-Watt University Malaysia terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Heriot-Watt University Malaysia?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة هيريوت وات البريطانية في ماليزيا؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Heriot-Watt University Malaysia?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Heriot-Watt University Malaysia?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة هيريوت وات البريطانية في ماليزيا؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Heriot-Watt University Malaysia?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Heriot-Watt University Malaysia without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Masuk Jurusan Sains Aktuaria Terbaik Dunia di Heriot-Watt Malaysia",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Heriot-Watt University Malaysia",
+        "ar": "دليل القبول في تخصص العلوم الإكتوارية الرائد عالمياً بجامعة هيريوت وات",
+        "zh": "Heriot-Watt University Malaysia 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Heriot-Watt University Malaysia",
+        "fr": "Guide complet d'admission et visa étudiant pour Heriot-Watt University Malaysia",
+        "es": "Guía completa de admisión y visado de estudiante para Heriot-Watt University Malaysia",
+        "ja": "Heriot-Watt University Malaysia 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Heriot-Watt University Malaysia 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Akreditasi IFoA UK, pembebasan ujian profesi aktuaris, dan prospek karir bernilai tinggi.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "اعتمادات جمعية الخبراء الإكتواريين البريطانية، إعفاءات الاختبارات، ومستقبل الوظائف المالية.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Skema Mobilitas Antar-Kampus GoGlobal ke Edinburgh & Dubai",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Heriot-Watt University Malaysia",
+        "ar": "برنامج التنقل الطلابي GoGlobal بين فروع اسكتلندا ودبي وماليزيا",
+        "zh": "Heriot-Watt University Malaysia 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Heriot-Watt University Malaysia",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Heriot-Watt University Malaysia",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Heriot-Watt University Malaysia",
+        "ja": "Heriot-Watt University Malaysia 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Heriot-Watt University Malaysia 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Cara menjelajahi dunia dan kuliah di 3 negara berbeda dalam satu gelar sarjana resmi Inggris.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "كيفية دراسة شهادتك البريطانية والتنقل بين 3 دول مختلفة خلال سنوات دراستك الجامعية.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Kehidupan Mahasiswa di Pusat Pemerintahan Hijau Putrajaya",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Heriot-Watt University Malaysia",
+        "ar": "تكاليف المعيشة والحياة الطلابية في العاصمة الإدارية الخضراء بوتراجايا",
+        "zh": "Heriot-Watt University Malaysia 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Heriot-Watt University Malaysia",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Heriot-Watt University Malaysia",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Heriot-Watt University Malaysia",
+        "ja": "Heriot-Watt University Malaysia 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Heriot-Watt University Malaysia 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Rincian sewa apartemen tepi danau, transportasi, dan fasilitas hidup modern di Putrajaya.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "تفاصيل السكن على ضفاف البحيرة، شبكة النقل الحديثة، ومصروفات المعيشة الشهرية.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Putrajaya Waterfront Student Residences",
+        "nameAr": "مجمعات السكن الطلابي الفاخر على ضفاف بحيرة بوتراجايا",
+        "type": "Modern Serviced Apartments with Lake View",
+        "typeAr": "شقق فندقية عصرية مجهزة بالكامل بإطلالات مائية خلابة",
+        "priceRange": "RM 700 - RM 1,400 / month",
+        "priceRangeAr": "700 - 1,400 رينجيت / شهرياً",
+        "distance": "4 menit via Shuttle Bus Kampus",
+        "distanceAr": "4 دقائق عبر حافلة الحرم الجامعي المجانية",
+        "distanceEn": "4 mins via Free Campus Shuttle Bus",
+        "amenities": [
+          "Pemandangan Danau Putrajaya",
+          "Kolam Renang & Pusat Gym",
+          "Shuttle Bus Terjadwal ke Kampus",
+          "Perabot Lengkap & Dapur",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "إطلالات مباشرة على بحيرة بوتراجايا",
+          "مسبح وصالة لياقة بدنية",
+          "باص نقل ترددي منتظم للحرم",
+          "مفروشة بالكامل مع مطبخ",
+          "حراسة مشددة 24 ساعة"
+        ]
+      },
+      {
+        "name": "Shaftsbury Putrajaya Serviced Suites",
+        "nameAr": "أبراج شافتسبري بوتراجايا الفندقية المتصلة بالمول",
+        "type": "Luxury Lifestyle Serviced Condos",
+        "typeAr": "أبراج سكنية فندقية راقية متصلة بمركز تسوق ومطاعم",
+        "priceRange": "RM 800 - RM 1,600 / month",
+        "priceRangeAr": "800 - 1,600 رينجيت / شهرياً",
+        "distance": "6 menit via Shuttle / Transportasi Kampus",
+        "distanceAr": "6 دقائق عبر حافلات الجامعة / المواصلات",
+        "distanceEn": "6 mins via Campus Shuttle / Transit",
+        "amenities": [
+          "Terhubung Langsung Mall & Kafe",
+          "Infinity Pool & Sky Lounge",
+          "Minimarket & Restoran 24 Jam",
+          "Keamanan 3-Lapis 24 Jam",
+          "Dekat Rumah Sakit Putrajaya"
+        ],
+        "amenitiesAr": [
+          "متصل بمول تجاري ومقاهٍ راقية",
+          "مسبح إنفينيتي ولاونج ترفيهي",
+          "سوبرماركت ومطاعم متوفرة",
+          "أمن إلكتروني ثلاثي الطبقات",
+          "قريب من المراكز الطبية والخدمات"
+        ]
+      },
+      {
+        "name": "Dwiputra Residences Precinct 15 Putrajaya",
+        "nameAr": "مجمع دوي بوترا السكني الراقي بالحي 15",
+        "type": "Spacious Shared Student Condos",
+        "typeAr": "شقق سكنية واسعة ومريحة في أرقى أحياء بوتراجايا",
+        "priceRange": "RM 600 - RM 1,200 / month",
+        "priceRangeAr": "600 - 1,200 رينجيت / شهرياً",
+        "distance": "8 menit via Bus Kampus",
+        "distanceAr": "8 دقائق عبر باص الجامعة",
+        "distanceEn": "8 mins via Campus Bus Link",
+        "amenities": [
+          "Kolam Renang & Taman Hijau",
+          "Kafe & Restoran Halal",
+          "Kamar Berperabot Lengkap",
+          "Lingkungan Tenang & Nyaman",
+          "Keamanan 24 Jam"
+        ],
+        "amenitiesAr": [
+          "مسبح وحدائق خضراء",
+          "مطاعم وكافتيريا حلال",
+          "غرف مفروشة بالكامل",
+          "بيئة هادئة ومثالية للدراسة",
+          "حراسة وبوابات إلكترونية"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 650 - RM 1,350"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 600 - RM 900"
+      },
+      {
+        "item": "Transportasi Shuttle & Bus",
+        "itemAr": "المواصلات وحافلات التنقل",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 50 - RM 100"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 80 - RM 150"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 180 - RM 350"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,560 - RM 2,850"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية البريطانية في العلوم والرياضيات والتجارة",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 25,000 - RM 29,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Royal Charter UK)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس البريطاني (علوم إكتوارية، هندسة، مسح كميات، إدارة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 42,000 - RM 56,000"
+    },
+    {
+      "level": "Master Degree (S2 - Edinburgh Curriculum)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير البريطاني المعتمد (مالية إسلامية، طاقة، إدارة أعمال، ذكاء اصطناعي)",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 44,000 - RM 54,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه والبحوث العلمية الإكتوارية والهندسية المتقدمة",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 32,000 - RM 42,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=k6tC0n1AOV8",
+  "programs": [
+    {
+      "id": "heriotwatt-bsc-hons-computing-science",
+      "universityId": "heriotwatt",
+      "name": "BSc (Hons) Computing Science",
+      "nameAr": "برنامج في BSc (Hons) Computing Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46520
+        },
+        {
+          "year": 2,
+          "fee": 46520
+        },
+        {
+          "year": 3,
+          "fee": 46520
+        }
+      ],
+      "totalTuitionFee": 139560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-bsc-hons-statistical-data-science",
+      "universityId": "heriotwatt",
+      "name": "BSc (Hons) Statistical Data Science",
+      "nameAr": "برنامج في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49920,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49920
+        },
+        {
+          "year": 2,
+          "fee": 49920
+        },
+        {
+          "year": 3,
+          "fee": 49920
+        }
+      ],
+      "totalTuitionFee": 149760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-foundation-in-business",
+      "universityId": "heriotwatt",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30420,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30420
+        }
+      ],
+      "totalTuitionFee": 30420,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-ma-hons-accounting-and-business-finance",
+      "universityId": "heriotwatt",
+      "name": "MA (Hons) Accounting and Business Finance",
+      "nameAr": "برنامج في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-bba-hons-bachelor-of-business-administration",
+      "universityId": "heriotwatt",
+      "name": "BBA (Hons) Bachelor of Business Administration",
+      "nameAr": "بكالوريوس في BBA (Hons) Bachelor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-ma-hons-business-and-finance",
+      "universityId": "heriotwatt",
+      "name": "MA (Hons) Business and Finance",
+      "nameAr": "برنامج في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-ma-hons-international-business-management",
+      "universityId": "heriotwatt",
+      "name": "MA (Hons) International Business Management",
+      "nameAr": "برنامج في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-ma-hons-marketing",
+      "universityId": "heriotwatt",
+      "name": "MA (Hons) Marketing",
+      "nameAr": "برنامج في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-bsc-hons-quantity-surveying",
+      "universityId": "heriotwatt",
+      "name": "BSc (Hons) Quantity Surveying",
+      "nameAr": "برنامج في حساب الكميات وإدارة التشييد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-business-strategy-leadership-and-change",
+      "universityId": "heriotwatt",
+      "name": "MSc Business Strategy, Leadership and Change",
+      "nameAr": "برنامج في MSc Business Strategy, Leadership and Change",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-commercial-management-and-quantity-surveying",
+      "universityId": "heriotwatt",
+      "name": "MSc Commercial Management and Quantity Surveying",
+      "nameAr": "برنامج في حساب الكميات وإدارة التشييد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-construction-project-management",
+      "universityId": "heriotwatt",
+      "name": "MSc Construction Project Management",
+      "nameAr": "برنامج في MSc Construction Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-international-business-management-with-finance",
+      "universityId": "heriotwatt",
+      "name": "MSc International Business Management with Finance",
+      "nameAr": "برنامج في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-international-business-management-with-marketing",
+      "universityId": "heriotwatt",
+      "name": "MSc International Business Management with Marketing",
+      "nameAr": "برنامج في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-master-of-business-administration",
+      "universityId": "heriotwatt",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 62100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 62100
+        }
+      ],
+      "totalTuitionFee": 62100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-strategic-project-management",
+      "universityId": "heriotwatt",
+      "name": "MSc Strategic Project Management",
+      "nameAr": "برنامج في MSc Strategic Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-business-analytics",
+      "universityId": "heriotwatt",
+      "name": "MSc Business Analytics",
+      "nameAr": "برنامج في MSc Business Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 2.5,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-business-and-organisational-psychology",
+      "universityId": "heriotwatt",
+      "name": "MSc Business and Organisational Psychology",
+      "nameAr": "برنامج في علم النفس",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-commercial-management-and-quantity-surveying-1",
+      "universityId": "heriotwatt",
+      "name": "MSc Commercial Management and Quantity Surveying",
+      "nameAr": "برنامج في حساب الكميات وإدارة التشييد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-construction-project-management-1",
+      "universityId": "heriotwatt",
+      "name": "MSc Construction Project Management",
+      "nameAr": "برنامج في MSc Construction Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-financial-management",
+      "universityId": "heriotwatt",
+      "name": "MSc Financial Management",
+      "nameAr": "برنامج في MSc Financial Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-master-of-business-administration-1",
+      "universityId": "heriotwatt",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 62100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-mature-field-management",
+      "universityId": "heriotwatt",
+      "name": "MSc Mature Field Management",
+      "nameAr": "برنامج في MSc Mature Field Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-mba-with-a-specialism-in-business-analytics",
+      "universityId": "heriotwatt",
+      "name": "MBA with a Specialism in Business Analytics",
+      "nameAr": "برنامج في MBA with a Specialism in Business Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-mba-with-a-specialism-in-finance",
+      "universityId": "heriotwatt",
+      "name": "MBA with a Specialism in Finance",
+      "nameAr": "برنامج في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-mba-with-a-specialism-in-logistics-and-supply-chain-management",
+      "universityId": "heriotwatt",
+      "name": "MBA with a Specialism in Logistics and Supply Chain Management",
+      "nameAr": "برنامج في اللوجستيات وإدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-mba-with-a-specialism-in-strategy",
+      "universityId": "heriotwatt",
+      "name": "MBA with a Specialism in Strategy",
+      "nameAr": "برنامج في MBA with a Specialism in Strategy",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-real-estate",
+      "universityId": "heriotwatt",
+      "name": "MSc Real Estate",
+      "nameAr": "برنامج في MSc Real Estate",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-safety-and-risk-management",
+      "universityId": "heriotwatt",
+      "name": "MSc Safety and Risk Management",
+      "nameAr": "برنامج في MSc Safety and Risk Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-spatial-planning-and-real-estate-development",
+      "universityId": "heriotwatt",
+      "name": "MSc Spatial Planning and Real Estate Development",
+      "nameAr": "برنامج في MSc Spatial Planning and Real Estate Development",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-supply-chain-management-and-logistics",
+      "universityId": "heriotwatt",
+      "name": "MSc Supply Chain Management and Logistics",
+      "nameAr": "برنامج في إدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 2.5,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-phd-business-and-administration-research",
+      "universityId": "heriotwatt",
+      "name": "PhD Business and Administration Research",
+      "nameAr": "دكتوراه في PhD Business and Administration Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 38640,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38640
+        },
+        {
+          "year": 2,
+          "fee": 38640
+        },
+        {
+          "year": 3,
+          "fee": 38640
+        }
+      ],
+      "totalTuitionFee": 115920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-phd-statistics-research",
+      "universityId": "heriotwatt",
+      "name": "PhD Statistics Research",
+      "nameAr": "دكتوراه في PhD Statistics Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 38640,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38640
+        },
+        {
+          "year": 2,
+          "fee": 38640
+        },
+        {
+          "year": 3,
+          "fee": 38640
+        }
+      ],
+      "totalTuitionFee": 115920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-bsc-hons-actuarial-science",
+      "universityId": "heriotwatt",
+      "name": "BSc (Hons) Actuarial Science",
+      "nameAr": "برنامج في BSc (Hons) Actuarial Science",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49920,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49920
+        },
+        {
+          "year": 2,
+          "fee": 49920
+        },
+        {
+          "year": 3,
+          "fee": 49920
+        }
+      ],
+      "totalTuitionFee": 149760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-meng-chemical-engineering",
+      "universityId": "heriotwatt",
+      "name": "MEng Chemical Engineering",
+      "nameAr": "برنامج في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 54000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54000
+        },
+        {
+          "year": 2,
+          "fee": 54000
+        },
+        {
+          "year": 3,
+          "fee": 54000
+        },
+        {
+          "year": 4,
+          "fee": 54000
+        }
+      ],
+      "totalTuitionFee": 216000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-meng-civil-engineering",
+      "universityId": "heriotwatt",
+      "name": "MEng Civil Engineering",
+      "nameAr": "برنامج في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 54000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54000
+        },
+        {
+          "year": 2,
+          "fee": 54000
+        },
+        {
+          "year": 3,
+          "fee": 54000
+        },
+        {
+          "year": 4,
+          "fee": 54000
+        }
+      ],
+      "totalTuitionFee": 216000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-meng-electrical-and-electronic-engineering",
+      "universityId": "heriotwatt",
+      "name": "MEng Electrical and Electronic Engineering",
+      "nameAr": "برنامج في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 54000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54000
+        },
+        {
+          "year": 2,
+          "fee": 54000
+        },
+        {
+          "year": 3,
+          "fee": 54000
+        },
+        {
+          "year": 4,
+          "fee": 54000
+        }
+      ],
+      "totalTuitionFee": 216000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-meng-mechanical-engineering",
+      "universityId": "heriotwatt",
+      "name": "MEng Mechanical Engineering",
+      "nameAr": "برنامج في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 54000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54000
+        },
+        {
+          "year": 2,
+          "fee": 54000
+        },
+        {
+          "year": 3,
+          "fee": 54000
+        },
+        {
+          "year": 4,
+          "fee": 54000
+        }
+      ],
+      "totalTuitionFee": 216000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-advanced-mechanical-engineering",
+      "universityId": "heriotwatt",
+      "name": "MSc Advanced Mechanical Engineering",
+      "nameAr": "برنامج في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-petroleum-engineering",
+      "universityId": "heriotwatt",
+      "name": "MSc Petroleum Engineering",
+      "nameAr": "برنامج في MSc Petroleum Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-renewable-energy-engineering",
+      "universityId": "heriotwatt",
+      "name": "MSc Renewable Energy Engineering",
+      "nameAr": "برنامج في MSc Renewable Energy Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-advanced-structural-engineering",
+      "universityId": "heriotwatt",
+      "name": "MSc Advanced Structural Engineering",
+      "nameAr": "برنامج في MSc Advanced Structural Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-brewing-and-distilling",
+      "universityId": "heriotwatt",
+      "name": "MSc Brewing and Distilling",
+      "nameAr": "برنامج في MSc Brewing and Distilling",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-building-services-engineering",
+      "universityId": "heriotwatt",
+      "name": "MSc Building Services Engineering",
+      "nameAr": "برنامج في MSc Building Services Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-civil-engineering-and-construction-management",
+      "universityId": "heriotwatt",
+      "name": "MSc Civil Engineering and Construction Management",
+      "nameAr": "برنامج في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-energy",
+      "universityId": "heriotwatt",
+      "name": "MSc Energy",
+      "nameAr": "برنامج في MSc Energy",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-marine-renewable-energy",
+      "universityId": "heriotwatt",
+      "name": "MSc Marine Renewable Energy",
+      "nameAr": "برنامج في MSc Marine Renewable Energy",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-petroleum-engineering-1",
+      "universityId": "heriotwatt",
+      "name": "MSc Petroleum Engineering",
+      "nameAr": "برنامج في MSc Petroleum Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-renewable-and-sustainable-energy-transition",
+      "universityId": "heriotwatt",
+      "name": "MSc Renewable and Sustainable Energy Transition",
+      "nameAr": "برنامج في MSc Renewable and Sustainable Energy Transition",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-safety-risk-and-reliability-engineering",
+      "universityId": "heriotwatt",
+      "name": "MSc Safety, Risk and Reliability Engineering",
+      "nameAr": "برنامج في MSc Safety, Risk and Reliability Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-phd-building-research",
+      "universityId": "heriotwatt",
+      "name": "PhD Building  Research",
+      "nameAr": "دكتوراه في PhD Building Research",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 42840,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42840
+        },
+        {
+          "year": 2,
+          "fee": 42840
+        },
+        {
+          "year": 3,
+          "fee": 42840
+        }
+      ],
+      "totalTuitionFee": 128520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-phd-engineering-and-engineering-trades-research",
+      "universityId": "heriotwatt",
+      "name": "PhD Engineering and Engineering Trades Research",
+      "nameAr": "دكتوراه في PhD Engineering and Engineering Trades Research",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 42840,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42840
+        },
+        {
+          "year": 2,
+          "fee": 42840
+        },
+        {
+          "year": 3,
+          "fee": 42840
+        }
+      ],
+      "totalTuitionFee": 128520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-bsc-hons-psychology",
+      "universityId": "heriotwatt",
+      "name": "BSc (Hons) Psychology",
+      "nameAr": "برنامج في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-bsc-hons-psychology-with-management",
+      "universityId": "heriotwatt",
+      "name": "BSc (Hons) Psychology with Management",
+      "nameAr": "برنامج في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42848,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42848
+        },
+        {
+          "year": 2,
+          "fee": 42848
+        },
+        {
+          "year": 3,
+          "fee": 42848
+        }
+      ],
+      "totalTuitionFee": 128544,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-international-marine-science",
+      "universityId": "heriotwatt",
+      "name": "MSc International Marine Science",
+      "nameAr": "برنامج في MSc International Marine Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-msc-business-psychology",
+      "universityId": "heriotwatt",
+      "name": "MSc Business Psychology",
+      "nameAr": "برنامج في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53640
+        }
+      ],
+      "totalTuitionFee": 53640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-phd-social-and-behavioural-science-research",
+      "universityId": "heriotwatt",
+      "name": "PhD Social and Behavioural Science Research",
+      "nameAr": "دكتوراه في PhD Social and Behavioural Science Research",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 38460,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38460
+        },
+        {
+          "year": 2,
+          "fee": 38460
+        },
+        {
+          "year": 3,
+          "fee": 38460
+        }
+      ],
+      "totalTuitionFee": 115380,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "heriotwatt-foundation-in-science",
+      "universityId": "heriotwatt",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Science",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 33360,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33360
+        }
+      ],
+      "totalTuitionFee": 33360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 58,
+  "totalProgramsCount": 58
+}

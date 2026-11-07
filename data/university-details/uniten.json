@@ -1,0 +1,2216 @@
+{
+  "id": "uniten",
+  "slug": "universiti-tenaga-nasional-uniten",
+  "name": "Universiti Tenaga Nasional (UNITEN)",
+  "arabicName": "جامعة تيناجا الوطنية (UNITEN)",
+  "city": "Putrajaya, Selangor",
+  "cityKey": "city_putrajaya",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-uniten.webp",
+  "image": "assets/photo/campus_uniten.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/Mw3xgXI7iQ8",
+  "website": "https://www.uniten.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "Rank 751-760 QS World University Rankings 2025 (Top Engineering & Energy)",
+  "rankingBadgeKey": "uniten_rank_badge",
+  "established": "1976",
+  "campusName": "Putrajaya Lakeside Green Campus",
+  "studentCount": "8,000+ (40+ Countries)",
+  "intakes": "Jan, Mar, Jun, Sep, Nov",
+  "feeRangeMin": 8400,
+  "feeRangeMax": 37000,
+  "currency": "MYR",
+  "majors": [
+    "engineering",
+    "cs",
+    "business",
+    "accounting"
+  ],
+  "similarUniversities": [
+    "mmu",
+    "apu",
+    "taylors"
+  ],
+  "totalProgramsCount": 52,
+  "description": "Universiti Tenaga Nasional (UNITEN) is Malaysia's premier government-linked energy and engineering university owned by Tenaga Nasional Berhad (TNB), internationally accredited under the Washington Accord on an expansive 214-hectare green campus.",
+  "descriptionAr": "تُعد جامعة تيناجا الوطنية (UNITEN) الصرح الأكاديمي الحكومي الأول في ماليزيا المتخصص في مجالات الهندسة والطاقة والتكنولوجيا، وهي تابعة لشركة الكهرباء الوطنية الماليزية (TNB)، وجميع برامجها الهندسية معتمدة دولياً وفق اتفاقية واشنطن العالمية.",
+  "about": {
+    "id": "Universiti Tenaga Nasional (UNITEN) didirikan pada tahun 1976 dan dimiliki oleh Tenaga Nasional Berhad (TNB), perusahaan utilitas listrik terbesar di Malaysia. Kampus megah 500 hektar di Putrajaya ini merupakan pusat keunggulan teknik elektro, energi terbarukan, dan komputasi.",
+    "en": "Universiti Tenaga Nasional (UNITEN), established in 1976 and owned by Tenaga Nasional Berhad (TNB), Malaysia’s premier power utility corporation, spans a 500-acre Putrajaya campus dedicated to Electrical Engineering, Renewable Energy, and Smart Grid Innovation.",
+    "ar": "تأسست جامعة تيناجا الوطنية (UNITEN) عام 1976، وهي مملوكة لشركة الكهرباء الوطنية الماليزية (TNB). يمتد حرمها الضخم على مساحة 500 فدان في بوتراجايا، وتعتبر مركز التميز الأول للهندسة الكهربائية وهندسة الطاقة المتجددة.",
+    "zh": "马来西亚国家能源大学（UNITEN）由马来西亚最大电力能源上市集团（TNB）全资创办，总校占地500英亩坐落于布城，是国家级电气工程、可再生绿色能源与智能电网科研中枢。",
+    "ru": "Национальный энергетический университет (UNITEN), принадлежащий энергогиганту TNB, располагает кампусом в 500 акров в Путраджае и специализируется на электроэнергетике и возобновляемых источниках.",
+    "fr": "L'Universiti Tenaga Nasional (UNITEN), propriété du groupe national d'électricité TNB, s'étend sur 500 acres à Putrajaya et excelle en génie électrique et énergies renouvelables.",
+    "es": "La Universiti Tenaga Nasional (UNITEN), propiedad del gigante eléctrico TNB, cuenta con un campus de 500 acres en Putrajaya líder en ingeniería eléctrica y energías renovables.",
+    "ja": "テナガ・ナショナル大学（UNITEN）はマレーシア最大の電力会社TNB直営の工科大学であり、プトラジャヤの広大なキャンパスで電気工学および再生可能エネルギー研究を牽引。",
+    "ko": "국립전력대학교(UNITEN)는 말레이시아 최대 전력공사(TNB)가 소유한 에너지 특성화 명문 공대로, 푸트라자야의 500에이커 캠퍼스에서 전기전자 및 신재생에너지 인재를 양성합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Riset Smart Grid & Tegangan Tinggi",
+        "en": "High-Voltage & Smart Grid Energy Research Centre",
+        "ar": "مركز بحوث الجهد العالي والشبكات الكهربائية الذكية المتقدمة",
+        "ko": "스마트 그리드 및 초고전압 에너지 종합 연구 센터",
+        "ja": "スマートグリッド・超高電圧エネルギー総合研究センター",
+        "zh": "智能电网与高电压工程国家级能源研究中心",
+        "ru": "Центр исследований высоковольтных систем и Smart Grid",
+        "fr": "Centre de recherche sur les réseaux intelligents et haute tension",
+        "es": "Centro de Investigación en Alta Tensión y Redes Eléctricas Inteligentes"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kompleks Olahraga Olimpiade & Danau Kampus",
+        "en": "Olympic Sports Complex & Scenic Campus Lake",
+        "ar": "مجمع الألعاب الرياضية الأولمبي والبحيرة الطبيعية بالحرم",
+        "ko": "올림픽 규격 종합 스포츠 콤플렉스 및 호수 공원",
+        "ja": "オリンピック仕様総合スポーツ施設および学内景勝湖水エリア",
+        "zh": "奥林匹克标准综合体育场馆与校园景观生态湖",
+        "ru": "Олимпийский спортивный комплекс и живописное озеро кампуса",
+        "fr": "Complexe sportif olympique et lac paysager du campus",
+        "es": "Complejo deportivo olímpico y lago panorámico del campus"
+      }
+    },
+    {
+      "icon": "ai",
+      "title": {
+        "id": "Laboratorium Robotika & Otomasi Industri",
+        "en": "Robotics & Industrial Automation Engineering Labs",
+        "ar": "مختبرات هندسة الروبوتات والتحكم الآلي والأنظمة الصناعية",
+        "ko": "로봇 공학 및 산업 자동화 제어 엔지니어링 랩",
+        "ja": "ロボティクスおよび産業用オートメーション制御実験室",
+        "zh": "智能机器人与工业自动化控制工程实验室",
+        "ru": "Лаборатории робототехники и промышленной автоматизации",
+        "fr": "Laboratoires d'ingénierie robotique et d'automatisation industrielle",
+        "es": "Laboratorios de Robótica y Automatización Industrial"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Perpustakaan Digital Serba Lengkap & Teater Kuliah",
+        "en": "Comprehensive Digital Library & Multi-Tier Lecture Theatres",
+        "ar": "المكتبة الرقمية المركزية وقاعات المحاضرات الذكية المتدرجة",
+        "ko": "중앙 스마트 디지털 도서관 및 멀티미디어 대형 강의동",
+        "ja": "中央スマートデジタル図書館およびマルチメディア講堂群",
+        "zh": "现代化中央数字图书馆与多功能多层多媒体报告厅",
+        "ru": "Центральная цифровая библиотека и лекционные аудитории",
+        "fr": "Bibliothèque numérique moderne et amphithéâtres connectés",
+        "es": "Biblioteca digital central y auditorios escalonados de alta tecnología"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Universitas Teknik & Energi Terkemuka Milik TNB",
+        "en": "Premier Energy & Engineering University Owned by TNB",
+        "ar": "الصرح الأكاديمي الهندسي الرائد المملوك لشركة الكهرباء الوطنية TNB",
+        "ko": "말레이시아 최대 전력공사 TNB 직영 최고 권위 공과대학교",
+        "ja": "マレーシア国営電力最大手TNB直営の最高峰エネルギー工科大学",
+        "zh": "由马来西亚国家能源公司(TNB)全资创办的顶级工程与能源学府",
+        "ru": "Ведущий университет энергетики и инженерии, принадлежащий концерну TNB",
+        "fr": "Université d'élite en énergie et ingénierie détenue par Tenaga Nasional Berhad",
+        "es": "Universidad líder en ingeniería y energía propiedad de Tenaga Nasional Berhad"
+      },
+      "desc": {
+        "id": "Didukung penuh oleh industri energi nasional dengan akses langsung ke fasilitas pembangkit listrik dan jaringan kerja industri.",
+        "en": "Fully backed by the national energy conglomerate with direct industry training access to major power generation facilities.",
+        "ar": "مدعومة بالكامل من قطاع الطاقة الوطني مع تدريب عملي مباشر في كبرى محطات التوليد والمرافق الكهربائية.",
+        "ko": "국가 전력 인프라와 직접 연계된 최상위 산업 실무 훈련 및 인턴십 환경 제공.",
+        "ja": "国営エネルギー産業と緊密に連携し、主要発電プラントでの実践的インターンシップを提供。",
+        "zh": "依托国家能源集团强大的产业资源，提供直通国家重点电力设施的顶级实训平台。",
+        "ru": "Прямой доступ к стажировкам на ключевых энергетических объектах национального значения.",
+        "fr": "Soutien direct du conglomérat énergétique avec stages dans les plus grandes infrastructures.",
+        "es": "Respaldo integral del conglomerado energético con acceso a pasantías en grandes plantas de energía."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Akreditasi Global Washington Accord (BEM)",
+        "en": "Washington Accord International Engineering Accreditation",
+        "ar": "الاعتماد الهندسي الدولي الكامل لاتفاقية واشنطن (Washington Accord)",
+        "ko": "워싱턴 어코드(Washington Accord) 국제 공학 인증 획득",
+        "ja": "ワシントン協定（Washington Accord）国際エンジニアリング認定",
+        "zh": "获得华盛顿协议(Washington Accord)全球工程学历互认认证",
+        "ru": "Международная инженерная аккредитация Washington Accord",
+        "fr": "Accréditation internationale en ingénierie de l'Accord de Washington",
+        "es": "Acreditación internacional de ingeniería del Acuerdo de Washington"
+      },
+      "desc": {
+        "id": "Semua program teknik diakui di negara anggota seperti Amerika Serikat, Inggris, Australia, Kanada, dan Jepang.",
+        "en": "Engineering degrees recognized worldwide across signatory nations including the USA, UK, Australia, and Japan.",
+        "ar": "شهادات الهندسة معترف بها لممارسة المهنة في الدول الموقعة ومنها أمريكا وبريطانيا وأستراليا واليابان.",
+        "ko": "미국, 영국, 호주, 일본 등 전 세계 주요 선진국에서 엔지니어 자격이 그대로 인정됩니다.",
+        "ja": "米国、英国、豪州、日本をはじめとする加盟国全域でプロエンジニア資格として同等に通用。",
+        "zh": "工程专业文凭在全球所有签署国（包括美、英、澳、加、日等）均获工程学会同等执业资格互认。",
+        "ru": "Инженерные дипломы признаются во всех странах-участницах, включая США, Великобританию и Австралию.",
+        "fr": "Diplômes d'ingénieur reconnus aux États-Unis, au Royaume-Uni, en Australie et au Japon.",
+        "es": "Títulos de ingeniería reconocidos en todos los países signatarios, incluidos EE. UU., Reino Unido y Australia."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Hijau Megah 214 Hektar di Kawasan Putrajaya",
+        "en": "Sprawling 214-Hectare Lush Green Campus in Greater Putrajaya",
+        "ar": "حرم جامعي أخضر شاسع بمساحة 214 هكتاراً في بوتراجايا",
+        "ko": "푸트라자야 인근 214헥타르 규모의 친환경 대자연 캠퍼스",
+        "ja": "プトラジャヤ至近、緑豊かな214ヘクタールの広大な自然環境キャンパス",
+        "zh": "位于布城核心区占地达214公顷的现代化生态绿色校园",
+        "ru": "Просторный зеленый кампус площадью 214 гектаров в Путраджае",
+        "fr": "Vaste campus écologique et verdoyant de 214 hectares à Putrajaya",
+        "es": "Extenso campus verde de 214 hectáreas en la zona de Putrajaya"
+      },
+      "desc": {
+        "id": "Lingkungan studi bernuansa alam terbuka dengan danau tenang, jalur lari, dan fasilitas asrama komprehensif.",
+        "en": "Scenic open-air learning environment featuring serene lakes, nature trails, and extensive on-campus residential halls.",
+        "ar": "بيئة دراسية طبيعية مفتوحة تضم بحيرات هادئة ومسارات للمشي ومجمعات سكنية طلابية متكاملة.",
+        "ko": "평화로운 호수와 자연 산책로, 대규모 기숙사 단지가 어우러진 최적의 학업 환경.",
+        "ja": "静かな湖、緑地ランニングコース、充実した学生寮群を完備した快適な学修環境。",
+        "zh": "依山傍水，拥有静谧湖泊、环湖跑道以及设施齐备的大型学生生活社区。",
+        "ru": "Живописная природная среда с озерами, прогулочными дорожками и комфортными общежитиями.",
+        "fr": "Cadre d'apprentissage naturel avec lacs paisibles, pistes cyclables et résidences étudiantes.",
+        "es": "Entorno natural con lagos serenos, senderos y completos complejos residenciales."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Tingkat Keterserapan Kerja Lulusan Teknik Sangat Tinggi",
+        "en": "Exceptional 95%+ Graduate Employability in Power & Tech",
+        "ar": "معدل توظيف استثنائي يتجاوز 95% في قطاعات الطاقة والتكنولوجيا",
+        "ko": "에너지·전력·IT 산업 분야 95% 이상의 압도적 취업률",
+        "ja": "電力・エネルギー・IT業界における95%超の圧倒的就職実績",
+        "zh": "能源、电力与IT科技行业毕业生就业率高达95%以上",
+        "ru": "Выдающийся показатель трудоустройства выпускников (95%+) в энергосекторе",
+        "fr": "Taux d'employabilité remarquable de plus de 95% dans l'énergie et la tech",
+        "es": "Excepcional tasa de empleabilidad superior al 95% en energía y tecnología"
+      },
+      "desc": {
+        "id": "Lulusan UNITEN menjadi incaran utama perusahaan utilitas, multinasional minyak dan gas, serta korporasi teknologi.",
+        "en": "UNITEN graduates are prime targets for energy giants, international oil & gas firms, and global engineering enterprises.",
+        "ar": "يحظى خريجو UNITEN بأولوية التوظيف في كبرى شركات الطاقة العالمية وشركات البترول والغاز ومؤسسات التكنولوجيا.",
+        "ko": "국내외 주요 전력 공기업, 다국적 석유화학 기업 및 글로벌 IT 기업들로부터 최우선 채용 대상.",
+        "ja": "国内外の主要エネルギー企業、石油・天然ガス多国籍企業、先端エンジニアリング企業から高い需要。",
+        "zh": "深受国家电网、国际油气跨国巨头及全球顶尖工程企业的青睐与争相录用。",
+        "ru": "Выпускники востребованы в энергетических корпорациях и международных нефтегазовых компаниях.",
+        "fr": "Les diplômés sont très recherchés par les entreprises pétrolières, énergétiques et technologiques.",
+        "es": "Los egresados son altamente demandados por corporaciones energéticas y petroleras internacionales."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Universiti Tenaga Nasional (UNITEN) internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة تيناجا الوطنية (UNITEN) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Universiti Tenaga Nasional (UNITEN) diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Universiti Tenaga Nasional (UNITEN) is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة تيناجا الوطنية (UNITEN) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Universiti Tenaga Nasional (UNITEN) terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Universiti Tenaga Nasional (UNITEN)?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة تيناجا الوطنية (UNITEN)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Universiti Tenaga Nasional (UNITEN)?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Universiti Tenaga Nasional (UNITEN)?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة تيناجا الوطنية (UNITEN)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Universiti Tenaga Nasional (UNITEN)?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Universiti Tenaga Nasional (UNITEN) without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Panduan Jurusan Teknik UNITEN & Akreditasi Global Washington Accord",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Universiti Tenaga Nasional (UNITEN)",
+        "ar": "دليل تخصصات الهندسة في جامعة UNITEN ومميزات اعتماد واشنطن الدولي",
+        "zh": "Universiti Tenaga Nasional (UNITEN) 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Universiti Tenaga Nasional (UNITEN)",
+        "fr": "Guide complet d'admission et visa étudiant pour Universiti Tenaga Nasional (UNITEN)",
+        "es": "Guía completa de admisión y visado de estudiante para Universiti Tenaga Nasional (UNITEN)",
+        "ja": "Universiti Tenaga Nasional (UNITEN) 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Universiti Tenaga Nasional (UNITEN) 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Mengapa lulusan teknik UNITEN diakui secara internasional dan jalur karier di industri energi terbarukan.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شرح تفصيلي لأسباب الاعتراف الدولي بمهندسي جامعة UNITEN وفرص العمل في قطاعات الطاقة المتجددة.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Biaya Hidup & Pilihan Asrama Mahasiswa di Kawasan Putrajaya UNITEN",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Universiti Tenaga Nasional (UNITEN)",
+        "ar": "تكاليف المعيشة والسكن الطلابي داخل حرم جامعة UNITEN ببوتراجايا",
+        "zh": "Universiti Tenaga Nasional (UNITEN) 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Universiti Tenaga Nasional (UNITEN)",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Universiti Tenaga Nasional (UNITEN)",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Universiti Tenaga Nasional (UNITEN)",
+        "ja": "Universiti Tenaga Nasional (UNITEN) 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Universiti Tenaga Nasional (UNITEN) 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Rincian biaya sewa asrama dalam kampus (Amanah & Murni) serta estimasi makan dan transportasi bulanan.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل مصروفات السكن الجامعي الداخلي والخارجي ومعدل النفقات الشهرية في منطقة بوتراجايا.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Beasiswa BOLD & Potongan Biaya Kuliah Mahasiswa Baru di UNITEN",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Universiti Tenaga Nasional (UNITEN)",
+        "ar": "منح BOLD الدراسية وخصومات الرسوم للطلاب الدوليين في جامعة UNITEN",
+        "zh": "Universiti Tenaga Nasional (UNITEN) 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Universiti Tenaga Nasional (UNITEN)",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Universiti Tenaga Nasional (UNITEN)",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Universiti Tenaga Nasional (UNITEN)",
+        "ja": "Universiti Tenaga Nasional (UNITEN) 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Universiti Tenaga Nasional (UNITEN) 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Skema potongan biaya kuliah berdasarkan nilai rapor akademik dan prestasi sekolah.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "فرص الحصول على منح جزئية وتخفيضات في الرسوم الدراسية بناءً على الدرجات الأكاديمية المتميزة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Asrama Kampus UNITEN (Amanah & Murni)",
+        "nameAr": "السكن الجامعي الداخلي المتميز (مجمعات أمانة ومورني)",
+        "type": "Single & Twin On-Campus Rooms",
+        "typeAr": "غرف مفردة ومزدوجة آمنة داخل الحرم الجامعي",
+        "priceRange": "RM 450 - RM 900 / month",
+        "priceRangeAr": "450 - 900 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0-3 menit jalan kaki)",
+        "amenities": [
+          "Terletak di Dalam Lingkungan Kampus",
+          "Kafetaria Halal & Minimarket 24 Jam",
+          "Koneksi Wi-Fi Kampus Cepat",
+          "Akses Mudah ke Danau & Kompleks Olahraga",
+          "Keamanan Kampus TNB 24 Jam"
+        ],
+        "amenitiesAr": [
+          "داخل حرم الجامعة مباشرة وقريب من الكليات",
+          "مطاعم حلال وسوبرماركت 24 ساعة",
+          "إنترنت واي فاي جامعي سريع",
+          "قريب من البحيرة والمجمع الرياضي",
+          "حراسة وأمن خاص 24 ساعة"
+        ],
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0-3 دقائق مشياً)",
+        "distanceEn": "On-campus (0-3 mins walk)"
+      },
+      {
+        "name": "De Centrum City Residences",
+        "nameAr": "أبراج وشقق دي سنتروم الفندقية المجاورة",
+        "type": "Modern Serviced High-Rise Condominiums",
+        "typeAr": "أبراج سكنية فندقية حديثة متكاملة الخدمات",
+        "priceRange": "RM 650 - RM 1,300 / month",
+        "priceRangeAr": "650 - 1,300 رينجيت / شهرياً",
+        "distance": "3 menit jalan kaki dari gerbang kampus",
+        "amenities": [
+          "Berada tepat di sebelah gerbang kampus UNITEN",
+          "Mall De Centrum, Supermarket & Restoran",
+          "Kolam Renang Infinity & Gym",
+          "Keamanan Multi-Tier 24 Jam",
+          "Unit Dilengkapi Perabot Lengkap"
+        ],
+        "amenitiesAr": [
+          "ملاصقة لبوابة حرم جامعة UNITEN (3 دقائق مشياً)",
+          "مجمع دي سنتروم التجاري ومطاعم متنوعة",
+          "مسبح إنفينيتي وصالة ألعاب رياضية",
+          "أمن إلكتروني وبوابات ذكية 24 ساعة",
+          "شقق مفروشة بالكامل"
+        ],
+        "distanceAr": "3 دقائق سيراً على الأقدام من بوابة الحرم الجامعي",
+        "distanceEn": "3-minute walk from campus main gate"
+      },
+      {
+        "name": "Conezion Residences IOI Resort City",
+        "nameAr": "شقق كونيكسيون الفاخرة بمنتجع آي أو آي سيتي",
+        "type": "Luxury Condominium near IOI City Mall",
+        "typeAr": "شقق سكنية فاخرة بجوار مول آي أو آي سيتي الضخم",
+        "priceRange": "RM 800 - RM 1,500 / month",
+        "priceRangeAr": "800 - 1,500 رينجيت / شهرياً",
+        "distance": "7 menit berkendara (Koneksi Bus & Grab)",
+        "amenities": [
+          "Dekat IOI City Mall Terbesar di Malaysia",
+          "Fasilitas Gym & Kolam Renang Resor",
+          "Keamanan Terjaga 24 Jam",
+          "Kawasan Hunian Asri & Modern",
+          "Koneksi Transportasi Mudah"
+        ],
+        "amenitiesAr": [
+          "قريبة من مول IOI City الأكبر في ماليزيا",
+          "مسابح ونوادي رياضية بمواصفات المنتجعات",
+          "حراسة وأمن عالي المستوى 24 ساعة",
+          "منطقة سكنية راقية وهادئة",
+          "مواصلات سريعة ومريحة للحرم"
+        ],
+        "distanceAr": "7 دقائق بالسيارة (حافلات نقل وسيارات أجرة متوفرة)",
+        "distanceEn": "7-minute drive (Bus link & taxi available)"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 450 - RM 1,100",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 550 - RM 850",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi Lokal",
+        "itemAr": "المواصلات والتنقل",
+        "cost": "RM 60 - RM 120",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "cost": "RM 70 - RM 130",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "cost": "RM 180 - RM 350",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,310 - RM 2,550",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في الهندسة والحوسبة",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 16,000 - RM 19,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم الهندسي والتقني المعتمد",
+      "duration": "2 - 2.5 Years",
+      "avgFeePerYear": "RM 15,000 - RM 18,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Washington Accord)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس المعتمد دولياً (واشنطن أكورد)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 22,000 - RM 28,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في الطاقة المتجددة وإدارة الأعمال",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 20,000 - RM 26,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في علوم الطاقة والهندسة",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 18,000 - RM 24,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=Mw3xgXI7iQ8",
+  "programs": [
+    {
+      "id": "uniten-foundation-in-computer-science",
+      "universityId": "uniten",
+      "name": "Foundation in Computer Science",
+      "nameAr": "برنامج تمهيدي في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 19800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-foundation-in-information-technology",
+      "universityId": "uniten",
+      "name": "Foundation in Information Technology",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 19800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-computer-science",
+      "universityId": "uniten",
+      "name": "Diploma in Computer Science",
+      "nameAr": "دبلوم علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 16400,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16400
+        },
+        {
+          "year": 2,
+          "fee": 16400
+        }
+      ],
+      "totalTuitionFee": 32800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-computer-science-systems-and-networking-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Computer Science (Systems and Networking) (Hons)",
+      "nameAr": "بكالوريوس علوم الحاسب في Systems and Networking) (Hons",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-computer-science-software-engineering-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Computer Science (Software Engineering) (Hons)",
+      "nameAr": "بكالوريوس علوم الحاسب في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-computer-science-cyber-security-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Computer Science (Cyber Security) (Hons)",
+      "nameAr": "بكالوريوس علوم الحاسب في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-information-system-business-analytics-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Information System (Business Analytics) (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Information System (Business Analytics) (Hons",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-information-technology-graphics-multimedia-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Information Technology (Graphics & Multimedia) (Hons)",
+      "nameAr": "بكالوريوس تقنية المعلومات في Graphics & Multimedia) (Hons",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-in-information-technology-by-research",
+      "universityId": "uniten",
+      "name": "Master in Information Technology (By Research)",
+      "nameAr": "ماجستير تقنية المعلومات (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-information-technology-by-coursework-research",
+      "universityId": "uniten",
+      "name": "Master of Information Technology (By Coursework & Research)",
+      "nameAr": "ماجستير تقنية المعلومات في By Coursework & Research",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15550
+        },
+        {
+          "year": 2,
+          "fee": 15550
+        }
+      ],
+      "totalTuitionFee": 31100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-in-artificial-intelligence-by-coursework-project",
+      "universityId": "uniten",
+      "name": "Master in Artificial Intelligence (By Coursework & Project)",
+      "nameAr": "ماجستير في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 37000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37000
+        }
+      ],
+      "totalTuitionFee": 37000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-in-data-science-by-coursework-project",
+      "universityId": "uniten",
+      "name": "Master in Data Science (By Coursework & Project)",
+      "nameAr": "ماجستير في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 37000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37000
+        }
+      ],
+      "totalTuitionFee": 37000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-in-computer-science-artificial-intelligence-honours",
+      "universityId": "uniten",
+      "name": "Bachelor in Computer Science (Artificial Intelligence) (Honours)",
+      "nameAr": "بكالوريوس في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-foundation-in-accounting",
+      "universityId": "uniten",
+      "name": "Foundation in Accounting",
+      "nameAr": "برنامج تمهيدي في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 19800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-foundation-in-business-administration",
+      "universityId": "uniten",
+      "name": "Foundation in Business Administration",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال في Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 19800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-accountancy",
+      "universityId": "uniten",
+      "name": "Diploma in Accountancy",
+      "nameAr": "دبلوم في Accountancy",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 15900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15900
+        },
+        {
+          "year": 2,
+          "fee": 15900
+        }
+      ],
+      "totalTuitionFee": 31800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-business-studies",
+      "universityId": "uniten",
+      "name": "Diploma in Business Studies",
+      "nameAr": "دبلوم في Business Studies",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 14400,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14400
+        },
+        {
+          "year": 2,
+          "fee": 14400
+        }
+      ],
+      "totalTuitionFee": 28800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-financial-technology",
+      "universityId": "uniten",
+      "name": "Diploma in Financial Technology",
+      "nameAr": "دبلوم في Financial Technology",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 14450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14450
+        },
+        {
+          "year": 2,
+          "fee": 14450
+        }
+      ],
+      "totalTuitionFee": 28900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-digital-business",
+      "universityId": "uniten",
+      "name": "Diploma in Digital Business",
+      "nameAr": "دبلوم في Digital Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 14450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14450
+        },
+        {
+          "year": 2,
+          "fee": 14450
+        }
+      ],
+      "totalTuitionFee": 28900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-business-economics-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Business Economics (Hons)",
+      "nameAr": "بكالوريوس الأعمال في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24200
+        },
+        {
+          "year": 2,
+          "fee": 24200
+        },
+        {
+          "year": 3,
+          "fee": 24200
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-accounting-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Accounting (Hons)",
+      "nameAr": "بكالوريوس المحاسبة (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-finance-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Finance (Hons)",
+      "nameAr": "بكالوريوس المالية في Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24200
+        },
+        {
+          "year": 2,
+          "fee": 24200
+        },
+        {
+          "year": 3,
+          "fee": 24200
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-international-business-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of International Business (Hons)",
+      "nameAr": "بكالوريوس في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24200
+        },
+        {
+          "year": 2,
+          "fee": 24200
+        },
+        {
+          "year": 3,
+          "fee": 24200
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-business-administration-hons-in-marketing",
+      "universityId": "uniten",
+      "name": "Bachelor of Business Administration (Hons) in Marketing",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24200
+        },
+        {
+          "year": 2,
+          "fee": 24200
+        },
+        {
+          "year": 3,
+          "fee": 24200
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-business-administration-hons-in-human-resource-management",
+      "universityId": "uniten",
+      "name": "Bachelor of Business Administration (Hons) in Human Resource Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24200
+        },
+        {
+          "year": 2,
+          "fee": 24200
+        },
+        {
+          "year": 3,
+          "fee": 24200
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-business-administration-hons-in-entrepreneurship-and-venture-management",
+      "universityId": "uniten",
+      "name": "Bachelor of Business Administration (Hons) in Entrepreneurship and Venture Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Entrepreneurship and Venture Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24200
+        },
+        {
+          "year": 2,
+          "fee": 24200
+        },
+        {
+          "year": 3,
+          "fee": 24200
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-science-in-accounting-by-research",
+      "universityId": "uniten",
+      "name": "Master of Science in Accounting (By Research)",
+      "nameAr": "ماجستير العلوم في المحاسبة (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-science-in-finance-by-research",
+      "universityId": "uniten",
+      "name": "Master of Science in Finance (By Research)",
+      "nameAr": "ماجستير العلوم في المالية والتمويل (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-science-in-management-by-research",
+      "universityId": "uniten",
+      "name": "Master of Science in Management (By Research)",
+      "nameAr": "ماجستير العلوم في Management (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-doctor-of-philosophy-business-management",
+      "universityId": "uniten",
+      "name": "Doctor of Philosophy (Business Management)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 11400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11400
+        },
+        {
+          "year": 2,
+          "fee": 11400
+        },
+        {
+          "year": 3,
+          "fee": 11400
+        }
+      ],
+      "totalTuitionFee": 34200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-business-administration-by-coursework-project",
+      "universityId": "uniten",
+      "name": "Master of Business Administration (By Coursework & Project)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في By Coursework & Project",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18500
+        },
+        {
+          "year": 2,
+          "fee": 18500
+        }
+      ],
+      "totalTuitionFee": 37000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-energy-management-by-coursework-project",
+      "universityId": "uniten",
+      "name": "Master of Energy Management (By Coursework & Project)",
+      "nameAr": "ماجستير في Master of Energy Management (By Coursework & Project",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 25300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25300
+        },
+        {
+          "year": 2,
+          "fee": 25300
+        }
+      ],
+      "totalTuitionFee": 50600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-business-administration-online-degree-by-coursework-project",
+      "universityId": "uniten",
+      "name": "Master of Business Administration - Online Degree (by Coursework & Project)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين (by Coursework & Project",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 25000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-accounting",
+      "universityId": "uniten",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 15900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15900
+        },
+        {
+          "year": 2,
+          "fee": 15900
+        }
+      ],
+      "totalTuitionFee": 31800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-foundation-in-engineering",
+      "universityId": "uniten",
+      "name": "Foundation in Engineering",
+      "nameAr": "برنامج تمهيدي في الهندسة",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21800
+        }
+      ],
+      "totalTuitionFee": 21800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-mechanical-engineering",
+      "universityId": "uniten",
+      "name": "Diploma in Mechanical Engineering",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 15900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15900
+        },
+        {
+          "year": 2,
+          "fee": 15900
+        }
+      ],
+      "totalTuitionFee": 31800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-electrical-engineering",
+      "universityId": "uniten",
+      "name": "Diploma in Electrical Engineering",
+      "nameAr": "دبلوم في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 15900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15900
+        },
+        {
+          "year": 2,
+          "fee": 15900
+        }
+      ],
+      "totalTuitionFee": 31800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-electrical-and-electronics-engineering-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Electrical and Electronics Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26125
+        },
+        {
+          "year": 2,
+          "fee": 26125
+        },
+        {
+          "year": 3,
+          "fee": 26125
+        },
+        {
+          "year": 4,
+          "fee": 26125
+        }
+      ],
+      "totalTuitionFee": 104500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-electrical-power-engineering-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Electrical Power Engineering (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Electrical Power Engineering (Hons",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26125
+        },
+        {
+          "year": 2,
+          "fee": 26125
+        },
+        {
+          "year": 3,
+          "fee": 26125
+        },
+        {
+          "year": 4,
+          "fee": 26125
+        }
+      ],
+      "totalTuitionFee": 104500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-mechanical-engineering-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Mechanical Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26125
+        },
+        {
+          "year": 2,
+          "fee": 26125
+        },
+        {
+          "year": 3,
+          "fee": 26125
+        },
+        {
+          "year": 4,
+          "fee": 26125
+        }
+      ],
+      "totalTuitionFee": 104500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-civil-engineering-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Civil Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26125
+        },
+        {
+          "year": 2,
+          "fee": 26125
+        },
+        {
+          "year": 3,
+          "fee": 26125
+        },
+        {
+          "year": 4,
+          "fee": 26125
+        }
+      ],
+      "totalTuitionFee": 104500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-electrical-engineering-by-research",
+      "universityId": "uniten",
+      "name": "Master of Electrical Engineering (By Research)",
+      "nameAr": "ماجستير في الهندسة الكهربائية (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-mechanical-engineering-by-research",
+      "universityId": "uniten",
+      "name": "Master of Mechanical Engineering (By Research)",
+      "nameAr": "ماجستير في الهندسة الميكانيكية (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-civil-engineering-by-research",
+      "universityId": "uniten",
+      "name": "Master of Civil Engineering (By Research)",
+      "nameAr": "ماجستير في الهندسة المدنية (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-doctor-of-philosophy-engineering",
+      "universityId": "uniten",
+      "name": "Doctor of Philosophy (Engineering)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 12200,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12200
+        },
+        {
+          "year": 2,
+          "fee": 12200
+        },
+        {
+          "year": 3,
+          "fee": 12200
+        }
+      ],
+      "totalTuitionFee": 36600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-electrical-engineering-by-coursework-research",
+      "universityId": "uniten",
+      "name": "Master of Electrical Engineering (By Coursework & Research)",
+      "nameAr": "ماجستير في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15550
+        },
+        {
+          "year": 2,
+          "fee": 15550
+        }
+      ],
+      "totalTuitionFee": 31100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-structural-engineering-by-coursework-project",
+      "universityId": "uniten",
+      "name": "Master of Structural Engineering (By Coursework & Project)",
+      "nameAr": "ماجستير في Master of Structural Engineering (By Coursework & Project",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15150,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15150
+        },
+        {
+          "year": 2,
+          "fee": 15150
+        }
+      ],
+      "totalTuitionFee": 30300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-master-of-engineering-management-by-coursework-project",
+      "universityId": "uniten",
+      "name": "Master of Engineering Management (By Coursework & Project)",
+      "nameAr": "ماجستير الهندسة في Management (By Coursework & Project",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18500
+        },
+        {
+          "year": 2,
+          "fee": 18500
+        }
+      ],
+      "totalTuitionFee": 37000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-diploma-in-renewable-energy-technologies",
+      "universityId": "uniten",
+      "name": "Diploma in Renewable Energy Technologies",
+      "nameAr": "دبلوم في Renewable Energy Technologies",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 16560,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16560
+        },
+        {
+          "year": 2,
+          "fee": 16560
+        }
+      ],
+      "totalTuitionFee": 33120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-foundation-in-management",
+      "universityId": "uniten",
+      "name": "Foundation in Management",
+      "nameAr": "برنامج تمهيدي في Management",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 19800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-bachelor-of-economics-energy-hons",
+      "universityId": "uniten",
+      "name": "Bachelor of Economics (Energy) (Hons)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24200
+        },
+        {
+          "year": 2,
+          "fee": 24200
+        },
+        {
+          "year": 3,
+          "fee": 24200
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uniten-doctor-of-philosophy-in-information-and-communication-technology",
+      "universityId": "uniten",
+      "name": "Doctor of Philosophy in Information and Communication Technology",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Information and Communication Technology",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 11400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11400
+        },
+        {
+          "year": 2,
+          "fee": 11400
+        },
+        {
+          "year": 3,
+          "fee": 11400
+        }
+      ],
+      "totalTuitionFee": 34200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 52
+}

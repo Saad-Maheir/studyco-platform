@@ -1,0 +1,2168 @@
+{
+  "id": "utp",
+  "slug": "universiti-teknologi-petronas-utp",
+  "name": "Universiti Teknologi PETRONAS (UTP)",
+  "arabicName": "جامعة بتروناس التكنولوجية (UTP)",
+  "city": "Seri Iskandar, Perak",
+  "cityKey": "city_perak",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-utp.webp",
+  "image": "assets/photo/campus_utp.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/Ruy9E5sa7wM",
+  "website": "https://www.utp.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "Rank 269 QS World University Rankings 2025 (Global No. 1 in Petroleum Engineering)",
+  "rankingBadgeKey": "utp_rank_badge",
+  "established": "1997",
+  "campusName": "Seri Iskandar Eco-Lakeside Campus (1,000 Acres)",
+  "studentCount": "8,500+ (60+ Countries)",
+  "intakes": "Jan, May, Sep",
+  "feeRangeMin": 12000,
+  "feeRangeMax": 98800,
+  "currency": "MYR",
+  "majors": [
+    "petroleum",
+    "chemical",
+    "mechanical",
+    "electrical",
+    "cs",
+    "geoscience"
+  ],
+  "similarUniversities": [
+    "uniten",
+    "apu",
+    "monash"
+  ],
+  "totalProgramsCount": 52,
+  "description": "Universiti Teknologi PETRONAS (UTP) is ranked Rank 269 globally in QS 2025 and ranked No. 1 globally in Petroleum Engineering, wholly owned by Fortune 500 energy giant PETRONAS on a sprawling 1,000-acre eco-lakeside campus designed by Foster + Partners.",
+  "descriptionAr": "تُصنف جامعة بتروناس التكنولوجية (UTP) في المرتبة 269 عالمياً في QS 2025 والأولى عالمياً في هندسة البترول، وهي مملوكة بالكامل لعملاق الطاقة العالمي بتروناس (PETRONAS) على حرم بيئي شاسع يمتد على 1,000 فدان بتصميم المعماري العالمي فوستر وشركاه.",
+  "about": {
+    "id": "Universiti Teknologi PETRONAS (UTP) didirikan pada tahun 1997 di Seri Iskandar, Perak, dan dimiliki sepenuhnya oleh PETRONAS, raksasa minyak dan gas nasional Malaysia. Menempati peringkat Rank 269 di dunia dalam QS World University Rankings 2025, UTP masuk dalam jajaran 50 besar dunia untuk Teknik Perminyakan dan Teknik Kimia.",
+    "en": "Universiti Teknologi PETRONAS (UTP), founded in 1997 in Seri Iskandar, Perak, is wholly owned by PETRONAS, Malaysia’s national energy titan. Ranked Rank 269 globally in the QS World University Rankings 2025, UTP is recognized among the Top 50 worldwide for Petroleum and Chemical Engineering.",
+    "ar": "تأسست جامعة بتروناس التكنولوجية (UTP) عام 1997 في سيري إسكندر ببيراك، وهي مملوكة بالكامل لشركة النفط الوطنية بتروناس (PETRONAS). وتحتل المرتبة 269 عالمياً في تصنيف QS لعام 2025، وتصنف ضمن أفضل 50 جامعة في العالم لهندسة البترول والهندسة الكيميائية.",
+    "zh": "马来西亚国油科技大学（UTP）创办于1997年，位于霹雳州斯里依斯干达，由马来西亚国家石油公司（PETRONAS）全资创立。大学位列2025年QS世界大学排名全球第269位，其石油工程与化学工程常年稳居QS全球学科排名前50强。",
+    "ru": "Технологический университет ПЕТРОНАС (UTP) в Пераке, принадлежащий нефтегазовому гиганту PETRONAS, занимает 269-е место в мире по рейтингу QS 2025 и входит в топ-50 по нефтегазовому делу.",
+    "fr": "L'Universiti Teknologi PETRONAS (UTP), propriété du géant énergétique PETRONAS, est classée 269e mondiale au QS 2025 et figure dans le Top 50 mondial en génie pétrolier.",
+    "es": "La Universiti Teknologi PETRONAS (UTP), propiedad de PETRONAS, se sitúa en el puesto 269 mundial en QS 2025 y figura en el Top 50 mundial en Ingeniería de Petróleo.",
+    "ja": "ペトロナス工科大学（UTP）はマレーシア国営石油ペトロナス全額出資のトップ国立系大学で、QS世界大学ランキング2025で世界第269位、石油工学分野で世界トップ50にランクイン。",
+    "ko": "페트로나스 공과대학교(UTP)는 말레이시아 국영 에너지 기업 페트로나스가 1997년에 설립한 명문 공과대학으로 2025 QS 세계 269위, 석유공학 및 화학공학 세계 Top 50에 랭크되어 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Pengeboran Minyak & Simulasi Geosains Bawah Tanah",
+        "en": "Petroleum Drilling & Subsurface Geo-Science Center",
+        "ar": "مركز محاكاة حفر آبار البترول والعلوم الجيولوجية تحت السطحية",
+        "ko": "석유 시추 및 지하 지구물리 탐사 시뮬레이션 센터",
+        "ja": "石油掘削および地下地球科学シミュレーションセンター",
+        "zh": "国家级石油钻井实训模拟中心与地下地球物理勘探研究院",
+        "ru": "Центр моделирования бурения нефтяных скважин и подповерхностных геолого-геофизических исследований",
+        "fr": "Centre de simulation de forage pétrolier et de géosciences du sous-sol",
+        "es": "Centro de Simulación de Perforación Petrolera y Geociencias del Subsuelo"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kompleks Kanopi Tenaga Surya Karya Foster + Partners",
+        "en": "Iconic Foster + Partners Solar Canopy Architectural Complex",
+        "ar": "مجمع المظلات الشمسية المعماري الأيقوني من تصميم فوستر وشركاه",
+        "ko": "포스터 앤 파트너스(Foster + Partners) 설계 태양광 캐노피 건축 콤플렉스",
+        "ja": "フォスター・アンド・パートナーズ設計の象徴的ソーラーキャノピー建築群",
+        "zh": "由世界著名建筑大师福斯特事务所(Foster + Partners)倾力设计的标志性太阳能遮阳天幕建筑群",
+        "ru": "Архитектурный комплекс солнечных навесов от бюро Foster + Partners",
+        "fr": "Complexe architectural emblématique à canopée solaire conçu par Foster + Partners",
+        "es": "Complejo Arquitectónico Emblemático con Marquesina Solar de Foster + Partners"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Superkomputer Kinerja Tinggi & Laboratorium Transisi Energi",
+        "en": "High-Performance Supercomputing & Carbon Capture Labs",
+        "ar": "مختبرات الحوسبة الفائقة وأبحاث احتجاز الكربون والتحول للطاقة الخضراء",
+        "ko": "초고성능 슈퍼컴퓨팅 및 탄소 포집·에너지 전환 연구소",
+        "ja": "ハイパフォーマンス・スーパーコンピューティングおよび炭素回収・新エネルギー研究棟",
+        "zh": "高性能超级计算中心与碳捕集、利用与封存(CCUS)新能源前沿实验室",
+        "ru": "Суперкомпьютерный центр высокой производительности и лаборатории улавливания углерода",
+        "fr": "Supercalculateur haute performance et laboratoires de captage du carbone",
+        "es": "Supercomputación de Alto Rendimiento y Laboratorios de Captura de Carbono"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kawasan Konservasi Danau & Kompleks Olahraga 1.000 Hektar",
+        "en": "1,000-Acre Eco-Lakeside Reserve & Sports Arena",
+        "ar": "المحمية البيئية الطبيعية والبحيرة ومجمع الألعاب الرياضية على مساحة 1000 فدان",
+        "ko": "1,000에이커 규모의 친환경 호수 생태 공원 및 대형 스포츠 아레나",
+        "ja": "1,000エーカーの広大な自然保護湖水区および全天候型大型スポーツアリーナ",
+        "zh": "占地1,000英亩的生态景观湖泊自然保护区与大型全功能体育竞技馆",
+        "ru": "Эко-заповедник с озером и спортивная арена на территории в 1000 акров",
+        "fr": "Réserve naturelle éco-lacustre de 1 000 acres et arène sportive",
+        "es": "Reserva Ecológica con Lago de 1,000 Acres y Arena Deportiva"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "award",
+      "title": {
+        "id": "Peringkat No. 1 Dunia untuk Teknik Perminyakan (QS Subject)",
+        "en": "Global No. 1 in Petroleum Engineering (QS World Rankings)",
+        "ar": "المرتبة الأولى على مستوى العالم في هندسة البترول (تصنيف QS)",
+        "ko": "석유공학 분야 전 세계 1위 석권 (QS 학과별 세계 랭킹)",
+        "ja": "石油・鉱物工学分野で世界第1位を獲得（QS分野別世界ランキング）",
+        "zh": "石油工程专业高居QS世界大学学科排名全球第1位（世界之巅）",
+        "ru": "№1 в мире по нефтегазовой инженерии (QS World Subject Rankings)",
+        "fr": "Numéro 1 mondial en génie pétrolier (classement mondial QS par matière)",
+        "es": "Número 1 del mundo en Ingeniería de Petróleos (Ranking Mundial QS por Materias)"
+      },
+      "desc": {
+        "id": "Diakui secara mutlak sebagai institusi pendidikan teknik perminyakan terbaik di muka bumi.",
+        "en": "Recognized as the premier petroleum engineering university on the planet.",
+        "ar": "معترف بها عالمياً كأقوى وأفضل جامعة في علوم وهندسة النفط والغاز على وجه الأرض.",
+        "ko": "지구상에서 가장 뛰어난 석유 및 에너지 공학 전문 고등교육기관으로 공인.",
+        "ja": "世界中のエネルギー産業界から地球上で最高の石油工学教育拠点として認知。",
+        "zh": "被全球能源工业界公认为世界上最卓越的石油与天然气工程领军学府。",
+        "ru": "Признан ведущим университетом нефтегазовой инженерии на планете.",
+        "fr": "Reconnue comme la première université de génie pétrolier de la planète.",
+        "es": "Reconocida como la institución de ingeniería petrolera más prestigiosa del planeta."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Peringkat Rank 269 Dunia QS 2025 (Top Universitas Riset)",
+        "en": "Rank 269 QS World University Rankings 2025 (Top Global Research Uni)",
+        "ar": "المرتبة 269 عالمياً في تصنيف QS 2025 كجامعة بحثية كبرى",
+        "ko": "2025 QS 세계 대학 랭킹 269위 (세계 최상위권 명문 연구중심대)",
+        "ja": "2025年QS世界大学ランキング第269位（世界トップクラスの研究大学）",
+        "zh": "2025年QS世界大学排名第269位（位列全球卓越顶尖研究型大学）",
+        "ru": "№269 в мировом рейтинге QS 2025 (ведущий исследовательский университет)",
+        "fr": "269e mondial au classement QS 2025 (université de recherche de premier plan)",
+        "es": "Puesto 269 en el QS World University Rankings 2025 (Universidad de Investigación Élite)"
+      },
+      "desc": {
+        "id": "Memiliki reputasi riset luar biasa dengan dana penelitian miliaran ringgit langsung dari industri energi dunia.",
+        "en": "Unrivaled research output backed by multi-billion-ringgit industry funding.",
+        "ar": "تتمتع بأعلى ميزانيات بحثية بتمويل مباشر بمليارات الرينجيت من كبرى شركات الطاقة العالمية.",
+        "ko": "글로벌 에너지 업계의 수조 원대 연구 기금 지원으로 독보적인 연구 성과 창출.",
+        "ja": "世界のエネルギー企業から巨額の研究資金が投入され、卓越した研究業績を創出。",
+        "zh": "依托全球能源巨头数以亿计的研发资金注资，产出领先世界的颠覆性科研成果。",
+        "ru": "Выдающиеся научные результаты, подкрепленные многомиллиардным отраслевым финансированием.",
+        "fr": "Production de recherche exceptionnelle soutenue par des milliards de ringgits de l'industrie.",
+        "es": "Producción científica sin igual respaldada por inversiones multimillonarias de la industria."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Dimiliki Penuh oleh Konglomerat Energi Fortune 500 (PETRONAS)",
+        "en": "Wholly Owned by Fortune 500 Energy Giant (PETRONAS)",
+        "ar": "مملوكة بالكامل لعملاق النفط والطاقة العالمي بتروناس (PETRONAS)",
+        "ko": "포춘 500대 글로벌 다국적 에너지 기업 페트로나스(PETRONAS) 직영",
+        "ja": "フォーチュン500選出の国営エネルギー最大手ペトロナス（PETRONAS）全額出資",
+        "zh": "由《财富》世界500强跨国能源超级巨头马石油(PETRONAS)全资控股",
+        "ru": "Полностью принадлежит энергетическому гиганту из Fortune 500 — PETRONAS",
+        "fr": "Entièrement détenue par le géant de l'énergie Fortune 500 PETRONAS",
+        "es": "Propiedad exclusiva del gigante energético Fortune 500 (PETRONAS)"
+      },
+      "desc": {
+        "id": "Jaminan magang industri 7 bulan penuh di proyek offshore dan instalasi energi global PETRONAS.",
+        "en": "Guaranteed 7-month structured industrial internship across PETRONAS global installations.",
+        "ar": "تدريب عملي ميداني إلزامي لمدة 7 أشهر كاملة في منصات ومنشآت بتروناس العالمية.",
+        "ko": "페트로나스의 국내외 해양 플랜트 및 글로벌 에너지 시설에서 7개월간 장기 인턴십 보장.",
+        "ja": "ペトロナスの国内外海洋プラントや最前線エネルギー基地での7ヶ月間完全実習を確約。",
+        "zh": "提供长达7个月深入马石油全球近海钻井平台与重点能源基础设施的实战带薪实习保障。",
+        "ru": "Гарантированная 7-месячная производственная стажировка на объектах PETRONAS по всему миру.",
+        "fr": "Stage industriel garanti de 7 mois sur les installations mondiales de PETRONAS.",
+        "es": "Pasantía industrial garantizada de 7 meses en instalaciones globales de PETRONAS."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Akreditasi Penuh Washington Accord & Prospek Karier Global",
+        "en": "Full Washington Accord Accreditation & Global Career Pathways",
+        "ar": "اعتماد اتفاقية واشنطن العالمية الكامل وآفاق وظيفية عالمية",
+        "ko": "워싱턴 어코드(Washington Accord) 완전 인증 및 전 세계 취업 경로",
+        "ja": "ワシントン協定完全認定およびグローバルキャリア直結の就職力",
+        "zh": "华盛顿协议(Washington Accord)全面权威认证与通达全球的职业黄金赛道",
+        "ru": "Полная международная аккредитация Washington Accord и глобальные карьерные пути",
+        "fr": "Accréditation complète de l'Accord de Washington et débouchés internationaux",
+        "es": "Acreditación completa del Acuerdo de Washington y salidas profesionales globales"
+      },
+      "desc": {
+        "id": "Lulusan teknik langsung memenuhi syarat untuk berpraktik sebagai insinyur profesional di seluruh dunia.",
+        "en": "Graduates are immediately qualified to practice as chartered engineers worldwide.",
+        "ar": "يتأهل الخريج مباشرة لممارسة مهنة الهندسة ونيل رخصة المهندس المحترف في كافة الدول.",
+        "ko": "졸업 즉시 미국, 영국, 호주 등 선진국 전역에서 전문 엔지니어로 등록 및 활동 가능.",
+        "ja": "卒業と同時に欧米各国のプロエンジニア資格取得要件を満たし、国際舞台で即戦力として活躍。",
+        "zh": "毕业生直接具备在英、美、澳等20余个发达国家申请注册特许专业工程师的国际法定资格。",
+        "ru": "Выпускники имеют квалификацию для работы дипломированными инженерами по всему миру.",
+        "fr": "Les diplômés sont directement qualifiés pour exercer comme ingénieurs agréés à l'international.",
+        "es": "Los graduados están calificados para ejercer como ingenieros colegiados en todo el mundo."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Universiti Teknologi PETRONAS (UTP) internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة بتروناس التكنولوجية (UTP) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Universiti Teknologi PETRONAS (UTP) diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Universiti Teknologi PETRONAS (UTP) is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة بتروناس التكنولوجية (UTP) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Universiti Teknologi PETRONAS (UTP) terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Universiti Teknologi PETRONAS (UTP)?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة بتروناس التكنولوجية (UTP)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Universiti Teknologi PETRONAS (UTP)?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Universiti Teknologi PETRONAS (UTP)?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة بتروناس التكنولوجية (UTP)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Universiti Teknologi PETRONAS (UTP)?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Universiti Teknologi PETRONAS (UTP) without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Mengapa Jurusan Teknik Perminyakan UTP Peringkat No. 1 di Dunia",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Universiti Teknologi PETRONAS (UTP)",
+        "ar": "لماذا تصنف كلية هندسة البترول في جامعة UTP بالمرتبة الأولى عالمياً",
+        "zh": "Universiti Teknologi PETRONAS (UTP) 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Universiti Teknologi PETRONAS (UTP)",
+        "fr": "Guide complet d'admission et visa étudiant pour Universiti Teknologi PETRONAS (UTP)",
+        "es": "Guía completa de admisión y visado de estudiante para Universiti Teknologi PETRONAS (UTP)",
+        "ja": "Universiti Teknologi PETRONAS (UTP) 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Universiti Teknologi PETRONAS (UTP) 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Analisis keunggulan kurikulum UTP, fasilitas simulator pengeboran, dan peluang karier di industri minyak & gas global.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شرح لأسباب تفوق جامعة بتروناس عالمياً والتجهيزات الفريدة وفرص العمل في كبرى شركات النفط والغاز.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Kehidupan Kampus Asri 1.000 Hektar di Seri Iskandar Perak",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Universiti Teknologi PETRONAS (UTP)",
+        "ar": "تكاليف المعيشة وتفاصيل الحياة داخل الحرم البيئي لجامعة UTP في بيراك",
+        "zh": "Universiti Teknologi PETRONAS (UTP) 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Universiti Teknologi PETRONAS (UTP)",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Universiti Teknologi PETRONAS (UTP)",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Universiti Teknologi PETRONAS (UTP)",
+        "ja": "Universiti Teknologi PETRONAS (UTP) 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Universiti Teknologi PETRONAS (UTP) 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Rincian biaya sewa asrama Student Village, fasilitas olahraga olimpiade, dan suasana belajar yang tenang.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل نفقات السكن في قرية الطلاب والبحيرات الطبيعية والمصروفات الشهرية الاقتصادية في بيراك.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Peluang Beasiswa Internasional UTP & Potongan Uang Kuliah",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Universiti Teknologi PETRONAS (UTP)",
+        "ar": "فرص المنح الدراسية الدولية وخصومات الرسوم في جامعة بتروناس UTP",
+        "zh": "Universiti Teknologi PETRONAS (UTP) 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Universiti Teknologi PETRONAS (UTP)",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Universiti Teknologi PETRONAS (UTP)",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Universiti Teknologi PETRONAS (UTP)",
+        "ja": "Universiti Teknologi PETRONAS (UTP) 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Universiti Teknologi PETRONAS (UTP) 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Kriteria nilai rapor untuk mendapatkan potongan biaya kuliah bagi mahasiswa teknik berprestasi.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "معايير التقديم على المنح والتخفيضات الدراسية المتاحة للطلاب الدوليين المتفوقين.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "UTP On-Campus Student Village",
+        "nameAr": "قرية السكن الطلابي الجامعي الداخلي بحرم UTP",
+        "type": "Single & Twin On-Campus Rooms",
+        "typeAr": "غرف فردية ومزدوجة آمنة وسط الطبيعة والبحيرات بالحرم",
+        "priceRange": "RM 350 - RM 750 / month",
+        "priceRangeAr": "350 - 750 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0-5 menit jalan kaki)",
+        "amenities": [
+          "Wi-Fi Cepat",
+          "Kafetaria Halal 24 Jam",
+          "Dekat Danau & Kompleks Olahraga",
+          "Laundry Mandiri",
+          "Keamanan 24 Jam"
+        ],
+        "amenitiesAr": [
+          "إنترنت سريع",
+          "مطاعم حلال 24 ساعة",
+          "قريب من البحيرة والملاعب",
+          "مغاسل ملابس ذاتية",
+          "أمن 24 ساعة"
+        ],
+        "distanceAr": "داخل قرية الطلاب بالحرم الجامعي الشاسع (0 دقيقة)",
+        "distanceEn": "On-campus Student Village (0 min walk)"
+      },
+      {
+        "name": "Bandar Universiti Seri Iskandar Condos",
+        "nameAr": "شقق ومجمعات باندار السكنية المجاورة للحرم",
+        "type": "Serviced Apartments outside Campus",
+        "typeAr": "شقق سكنية عصرية مجهزة بالقرب من بوابات الحرم",
+        "priceRange": "RM 450 - RM 900 / month",
+        "priceRangeAr": "450 - 900 رينجيت / شهرياً",
+        "distance": "4 menit dari gerbang kampus",
+        "amenities": [
+          "Perabot Lengkap",
+          "Dekat Mall Lotus & Restoran",
+          "Akses Mudah Grab & Bus",
+          "Minimarket 24 Jam",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "مفروشة بالكامل",
+          "قريب من مجمع لوتس التجاري والمطاعم",
+          "مواصلات سريعة",
+          "سوبرماركت 24 ساعة",
+          "أمن 24/7"
+        ],
+        "distanceAr": "5 دقائق بالسيارة / الحافلة المجانية من الحرم",
+        "distanceEn": "5 mins drive / Free campus shuttle"
+      },
+      {
+        "name": "D'Majestic Eco Residences Seri Iskandar",
+        "nameAr": "أجنحة دي ماجستيك الفندقية الفاخرة بسيري إسكندر",
+        "type": "Modern Townhouse & Suites",
+        "typeAr": "منازل وأجنحة حديثة فاخرة متكاملة الخدمات",
+        "priceRange": "RM 600 - RM 1,100 / month",
+        "priceRangeAr": "600 - 1,100 رينجيت / شهرياً",
+        "distance": "6 menit dari kampus",
+        "amenities": [
+          "Desain Modern & Asri",
+          "Gym & Taman Olahraga",
+          "Kawasan Tenang",
+          "Perabotan Baru",
+          "Keamanan Terjaga 24 Jam"
+        ],
+        "amenitiesAr": [
+          "تصميم عصري",
+          "صالة لياقة وحدائق",
+          "بيئة هادئة ومريحة",
+          "أثاث حديث",
+          "حراسة 24 ساعة"
+        ],
+        "distanceAr": "7 دقائق بالسيارة من الحرم الجامعي",
+        "distanceEn": "7 mins drive to campus"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 350 - RM 850",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 450 - RM 750",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi Lokal",
+        "itemAr": "المواصلات والتنقل",
+        "cost": "RM 40 - RM 80",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "cost": "RM 50 - RM 100",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "cost": "RM 140 - RM 280",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,030 - RM 2,060",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في الهندسة والعلوم التطبيقية",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 18,000 - RM 21,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Top 1 Petroleum)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس المعتمد عالمياً (هندسة بترول، كيميائية، ميكانيكية، حوسبة)",
+      "duration": "4 Years",
+      "durationYears": 4,
+      "avgFeePerYear": "RM 26,000 - RM 36,000"
+    },
+    {
+      "level": "Master Degree (S2 - Research & Coursework)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في علوم الأرض البترولية والسلامة وإدارة الأصول",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 25,000 - RM 35,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في بحوث الطاقة والتحول الرقمي والهندسة",
+      "duration": "3 - 4 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 22,000 - RM 30,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=Ruy9E5sa7wM",
+  "programs": [
+    {
+      "id": "utp-bachelor-information-systems",
+      "universityId": "utp",
+      "name": "Bachelor Information Systems",
+      "nameAr": "بكالوريوس في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 30925,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30925
+        },
+        {
+          "year": 2,
+          "fee": 30925
+        },
+        {
+          "year": 3,
+          "fee": 30925
+        }
+      ],
+      "totalTuitionFee": 92775,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-information-technology",
+      "universityId": "utp",
+      "name": "Bachelor Information Technology",
+      "nameAr": "بكالوريوس في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 30925,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30925
+        },
+        {
+          "year": 2,
+          "fee": 30925
+        },
+        {
+          "year": 3,
+          "fee": 30925
+        }
+      ],
+      "totalTuitionFee": 92775,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-of-computer-science-hons",
+      "universityId": "utp",
+      "name": "Bachelor of Computer Science (Hons)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 30925,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30925
+        },
+        {
+          "year": 2,
+          "fee": 30925
+        },
+        {
+          "year": 3,
+          "fee": 30925
+        }
+      ],
+      "totalTuitionFee": 92775,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-data-science-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Data Science - Online Degree",
+      "nameAr": "برنامج في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 29450,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29450
+        }
+      ],
+      "totalTuitionFee": 29450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-applied-computing",
+      "universityId": "utp",
+      "name": "MSc in Applied Computing",
+      "nameAr": "برنامج في MSc in Applied Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 35950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35950
+        }
+      ],
+      "totalTuitionFee": 35950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-applied-computing-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Applied Computing - Online Degree",
+      "nameAr": "برنامج في MSc in Applied Computing أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1.8,
+      "annualFee": 29450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29450
+        }
+      ],
+      "totalTuitionFee": 29450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-information-technology",
+      "universityId": "utp",
+      "name": "PhD in Information Technology",
+      "nameAr": "دكتوراه في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-information-systems",
+      "universityId": "utp",
+      "name": "PhD in Information Systems",
+      "nameAr": "دكتوراه في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-business-management",
+      "universityId": "utp",
+      "name": "Bachelor Business Management",
+      "nameAr": "بكالوريوس في Bachelor Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 27500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-foundation-in-technology-and-business-management",
+      "universityId": "utp",
+      "name": "Foundation in Technology and Business Management",
+      "nameAr": "برنامج تمهيدي في Technology and Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-master-of-business-administration-in-energy-management",
+      "universityId": "utp",
+      "name": "Master of Business Administration in Energy Management",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Energy Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.8,
+      "annualFee": 20950,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20950
+        }
+      ],
+      "totalTuitionFee": 20950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-master-of-business-administration-in-energy-management-online-degree",
+      "universityId": "utp",
+      "name": "Master of Business Administration in Energy Management - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Energy Management أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.8,
+      "annualFee": 16450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16450
+        }
+      ],
+      "totalTuitionFee": 16450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-asset-management-maintenance",
+      "universityId": "utp",
+      "name": "MSc in Asset Management & Maintenance",
+      "nameAr": "برنامج في MSc in Asset Management & Maintenance",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37400
+        }
+      ],
+      "totalTuitionFee": 37400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-asset-management-maintenance-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Asset Management & Maintenance - Online Degree",
+      "nameAr": "برنامج في MSc in Asset Management & Maintenance أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 29600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29600
+        }
+      ],
+      "totalTuitionFee": 29600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-management",
+      "universityId": "utp",
+      "name": "PhD in Management",
+      "nameAr": "دكتوراه في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-of-chemical-engineering",
+      "universityId": "utp",
+      "name": "Bachelor of Chemical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41250,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41250
+        },
+        {
+          "year": 2,
+          "fee": 41250
+        },
+        {
+          "year": 3,
+          "fee": 41250
+        },
+        {
+          "year": 4,
+          "fee": 41250
+        }
+      ],
+      "totalTuitionFee": 165000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-civil-engineering",
+      "universityId": "utp",
+      "name": "Bachelor Civil Engineering",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 39125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39125
+        },
+        {
+          "year": 2,
+          "fee": 39125
+        },
+        {
+          "year": 3,
+          "fee": 39125
+        },
+        {
+          "year": 4,
+          "fee": 39125
+        }
+      ],
+      "totalTuitionFee": 156500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-of-computer-engineering-with-honours",
+      "universityId": "utp",
+      "name": "Bachelor of Computer Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Computer Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 39125,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39125
+        },
+        {
+          "year": 2,
+          "fee": 39125
+        },
+        {
+          "year": 3,
+          "fee": 39125
+        },
+        {
+          "year": 4,
+          "fee": 39125
+        }
+      ],
+      "totalTuitionFee": 156500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-of-electrical-and-electronics-engineering-with-honours",
+      "universityId": "utp",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41250,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41250
+        },
+        {
+          "year": 2,
+          "fee": 41250
+        },
+        {
+          "year": 3,
+          "fee": 41250
+        },
+        {
+          "year": 4,
+          "fee": 41250
+        }
+      ],
+      "totalTuitionFee": 165000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-materials-engineering-hons",
+      "universityId": "utp",
+      "name": "Bachelor Materials Engineering (Hons)",
+      "nameAr": "بكالوريوس في Bachelor Materials Engineering (Hons",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28875,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28875
+        },
+        {
+          "year": 2,
+          "fee": 28875
+        },
+        {
+          "year": 3,
+          "fee": 28875
+        },
+        {
+          "year": 4,
+          "fee": 28875
+        }
+      ],
+      "totalTuitionFee": 115500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-mechanical-engineering",
+      "universityId": "utp",
+      "name": "Bachelor Mechanical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41250,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41250
+        },
+        {
+          "year": 2,
+          "fee": 41250
+        },
+        {
+          "year": 3,
+          "fee": 41250
+        },
+        {
+          "year": 4,
+          "fee": 41250
+        }
+      ],
+      "totalTuitionFee": 165000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-petroleum-engineering",
+      "universityId": "utp",
+      "name": "Bachelor Petroleum Engineering",
+      "nameAr": "بكالوريوس في Bachelor Petroleum Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41250,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41250
+        },
+        {
+          "year": 2,
+          "fee": 41250
+        },
+        {
+          "year": 3,
+          "fee": 41250
+        },
+        {
+          "year": 4,
+          "fee": 41250
+        }
+      ],
+      "totalTuitionFee": 165000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-foundation-in-engineering-and-science",
+      "universityId": "utp",
+      "name": "Foundation in Engineering and Science",
+      "nameAr": "برنامج تمهيدي في الهندسة في and Science",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-of-integrated-engineering-with-honours",
+      "universityId": "utp",
+      "name": "Bachelor of Integrated Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Integrated Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 60000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60000
+        },
+        {
+          "year": 2,
+          "fee": 60000
+        },
+        {
+          "year": 3,
+          "fee": 60000
+        },
+        {
+          "year": 4,
+          "fee": 60000
+        }
+      ],
+      "totalTuitionFee": 240000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-electronic-system-engineering",
+      "universityId": "utp",
+      "name": "MSc in Electronic System Engineering",
+      "nameAr": "برنامج في MSc in Electronic System Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1.6,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-electronic-system-engineering-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Electronic System Engineering - Online Degree",
+      "nameAr": "ماجستير العلوم في هندسة النظم الإلكترونية أونلاين",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1.6,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-offshore-engineering",
+      "universityId": "utp",
+      "name": "MSc in Offshore Engineering",
+      "nameAr": "برنامج في MSc in Offshore Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37400
+        }
+      ],
+      "totalTuitionFee": 37400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-offshore-engineering-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Offshore Engineering - Online Degree",
+      "nameAr": "برنامج في MSc in Offshore Engineering أونلاين",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 29600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29600
+        }
+      ],
+      "totalTuitionFee": 29600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-process-safety",
+      "universityId": "utp",
+      "name": "MSc in Process Safety",
+      "nameAr": "برنامج في MSc in Process Safety",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37400
+        }
+      ],
+      "totalTuitionFee": 37400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-process-safety-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Process Safety - Online Degree",
+      "nameAr": "ماجستير العلوم في سلامة العمليات الصناعية أونلاين",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 29600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29600
+        }
+      ],
+      "totalTuitionFee": 29600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-corrosion-engineering",
+      "universityId": "utp",
+      "name": "MSc in Corrosion Engineering",
+      "nameAr": "برنامج في MSc in Corrosion Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37400
+        }
+      ],
+      "totalTuitionFee": 37400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-corrosion-engineering-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Corrosion Engineering - Online Degree",
+      "nameAr": "برنامج في MSc in Corrosion Engineering أونلاين",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 28800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28800
+        }
+      ],
+      "totalTuitionFee": 28800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-drilling-engineering",
+      "universityId": "utp",
+      "name": "MSc in Drilling Engineering",
+      "nameAr": "برنامج في MSc in Drilling Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 98800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 98800
+        }
+      ],
+      "totalTuitionFee": 98800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-drilling-engineering-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Drilling Engineering - Online Degree",
+      "nameAr": "ماجستير العلوم في هندسة الحفر أونلاين",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 98500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 98500
+        }
+      ],
+      "totalTuitionFee": 98500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-industrial-environmental-engineering",
+      "universityId": "utp",
+      "name": "MSc in Industrial Environmental Engineering",
+      "nameAr": "برنامج في MSc in Industrial Environmental Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37400
+        }
+      ],
+      "totalTuitionFee": 37400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-industrial-environmental-engineering-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Industrial Environmental Engineering - Online Degree",
+      "nameAr": "برنامج في MSc in Industrial Environmental Engineering أونلاين",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 28800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28800
+        }
+      ],
+      "totalTuitionFee": 28800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-petroleum-engineering",
+      "universityId": "utp",
+      "name": "MSc in Petroleum Engineering",
+      "nameAr": "برنامج في MSc in Petroleum Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37100
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-petroleum-engineering-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Petroleum Engineering - Online Degree",
+      "nameAr": "برنامج في MSc in Petroleum Engineering أونلاين",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 28800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28800
+        }
+      ],
+      "totalTuitionFee": 28800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-chemical-engineering",
+      "universityId": "utp",
+      "name": "PhD in Chemical Engineering",
+      "nameAr": "دكتوراه في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-petroleum-engineering",
+      "universityId": "utp",
+      "name": "PhD in Petroleum Engineering",
+      "nameAr": "دكتوراه في Petroleum Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-petroleum-geoscience",
+      "universityId": "utp",
+      "name": "PhD in Petroleum Geoscience",
+      "nameAr": "دكتوراه في Petroleum Geoscience",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-civil-engineering",
+      "universityId": "utp",
+      "name": "PhD in Civil Engineering",
+      "nameAr": "دكتوراه في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-mechanical-engineering",
+      "universityId": "utp",
+      "name": "PhD in Mechanical Engineering",
+      "nameAr": "دكتوراه في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-electrical-electronic-engineering",
+      "universityId": "utp",
+      "name": "PhD in Electrical & Electronic Engineering",
+      "nameAr": "دكتوراه في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-of-science-hons-in-applied-chemistry",
+      "universityId": "utp",
+      "name": "Bachelor of Science (Hons) in Applied Chemistry",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Applied Chemistry",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 30925,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30925
+        },
+        {
+          "year": 2,
+          "fee": 30925
+        },
+        {
+          "year": 3,
+          "fee": 30925
+        }
+      ],
+      "totalTuitionFee": 92775,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-bachelor-of-science-hons-in-petroleum-geoscience",
+      "universityId": "utp",
+      "name": "Bachelor of Science (Hons) in Petroleum Geoscience",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Petroleum Geoscience",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 35675,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35675
+        },
+        {
+          "year": 2,
+          "fee": 35675
+        },
+        {
+          "year": 3,
+          "fee": 35675
+        }
+      ],
+      "totalTuitionFee": 107025,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-social-science-humanities",
+      "universityId": "utp",
+      "name": "PhD in Social Science & Humanities",
+      "nameAr": "دكتوراه في Social Science & Humanities",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-process-integration",
+      "universityId": "utp",
+      "name": "MSc in Process Integration",
+      "nameAr": "برنامج في MSc in Process Integration",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37400
+        }
+      ],
+      "totalTuitionFee": 37400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-process-integration-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Process Integration - Online Degree",
+      "nameAr": "برنامج في MSc in Process Integration أونلاين",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 29600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29600
+        }
+      ],
+      "totalTuitionFee": 29600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-petroleum-geoscience",
+      "universityId": "utp",
+      "name": "MSc in Petroleum Geoscience",
+      "nameAr": "برنامج في MSc in Petroleum Geoscience",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37400
+        }
+      ],
+      "totalTuitionFee": 37400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-msc-in-petroleum-geoscience-online-degree",
+      "universityId": "utp",
+      "name": "MSc in Petroleum Geoscience - Online Degree",
+      "nameAr": "برنامج في MSc in Petroleum Geoscience أونلاين",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 29600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29600
+        }
+      ],
+      "totalTuitionFee": 29600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utp-phd-in-applied-science",
+      "universityId": "utp",
+      "name": "PhD in Applied Science",
+      "nameAr": "دكتوراه في Applied Science",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 52
+}

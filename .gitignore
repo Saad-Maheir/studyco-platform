@@ -1,0 +1,29 @@
+# System & Secrets
+.env*
+.vercel
+.claude/
+
+# Archives & Large Compressed Files
+*.zip
+*.rar
+*.7z
+
+# Internal Design, Documentation & Working Folders
+تصميم/
+_internal_docs/
+scratch/
+*.docx
+*.pdf
+*.log
+
+# Scripts & Shell Files
+*.bat
+*.ps1
+
+# Planning, Audits & Master Roadmaps
+StudyCo_Development_Plan*
+AUDIT_REPORT*
+DEVELOPMENT_PLAN*
+PROJECT_BRIEF*
+UNIVERSITIES_MASTER_ROADMAP*
+data/*.backup*

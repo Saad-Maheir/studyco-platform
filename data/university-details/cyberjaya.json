@@ -1,0 +1,2238 @@
+{
+  "id": "cyberjaya",
+  "slug": "university-of-cyberjaya",
+  "name": "University of Cyberjaya",
+  "arabicName": "جامعة سايبرجايا (University of Cyberjaya)",
+  "city": "Cyberjaya, Selangor",
+  "cityKey": "city_cyberjaya",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-cyberjaya.webp",
+  "image": "assets/photo/campus_cyberjaya.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/XcZIdOWLu6s",
+  "website": "https://cyberjaya.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "5-Star SETARA Rated (Top Healthcare & Medical Institution)",
+  "rankingBadgeKey": "cyberjaya_rank_badge",
+  "established": "2005",
+  "campusName": "Cyberjaya Technology & Medical Campus",
+  "studentCount": "7,000+ (40+ Countries)",
+  "intakes": "Jan, Apr, Jul, Oct",
+  "feeRangeMin": 8571,
+  "feeRangeMax": 81000,
+  "currency": "MYR",
+  "majors": [
+    "health",
+    "pharmacy",
+    "medicine",
+    "business",
+    "cs",
+    "psychology"
+  ],
+  "similarUniversities": [
+    "mahsa",
+    "taylors",
+    "apu"
+  ],
+  "totalProgramsCount": 52,
+  "description": "University of Cyberjaya (UoC) is Malaysia's premier medical and healthcare university rated 5-Stars by SETARA, renowned for its MBBS, Pharmacy, Physiotherapy, and Psychology degrees in the Silicon Valley of Malaysia.",
+  "descriptionAr": "تُعد جامعة سايبرجايا (UoC) الصرح الطبي والصحي الأول في ماليزيا والحاصل على تصنيف 5 نجوم من SETARA، وتشتهر ببرامج الطب البشري (MBBS)، الصيدلة، العلاج الطبيعي، وعلم النفس في وادي السيليكون الماليزي.",
+  "about": {
+    "id": "University of Cyberjaya (UoC) didirikan pada tahun 2005 di Cyberjaya. Memegang predikat bintang 5 dalam SETARA, UoC sangat tersohor atas keunggulan akademiknya dalam Kedokteran (MBBS), Farmasi, Fisioterapi, Psikologi, dan Ilmu Kesehatan Terpadu.",
+    "en": "University of Cyberjaya (UoC), established in 2005 in Cyberjaya, is a SETARA 5-Star rated healthcare institution renowned for Medicine (MBBS), Pharmacy, Physiotherapy, Psychology, and Integrated Biomedical Sciences.",
+    "ar": "تأسست جامعة سايبرجايا (UoC) عام 2005 في مدينة التكنولوجيا سايبرجايا، وتصنف بـ 5 نجوم في تصنيف SETARA، وتعد رائدة في تدريس الطب البشري (MBBS)، والصيدلة، والعلاج الطبيعي، وعلم النفس، والعلوم الطبية الحيوية.",
+    "zh": "赛城大学（University of Cyberjaya，简称UoC）创办于2005年，位于赛城，荣获国家高等教育SETARA五星级评级，以临床医学内外全科（MBBS）、药剂学、物理治疗学及心理学闻名遐迩。",
+    "ru": "Университет Киберджаи (UoC) имеет рейтинг SETARA 5 звезд и признан лидером в области медицины (MBBS), фармации, физиотерапии и психологии.",
+    "fr": "L'University of Cyberjaya (UoC), notée 5 étoiles SETARA, est un pôle de santé de référence pour la médecine (MBBS), la pharmacie, la kinésithérapie et la psychologie.",
+    "es": "La Universidad de Cyberjaya (UoC), calificada con 5 estrellas SETARA, destaca en Medicina (MBBS), Farmacia, Fisioterapia y Psicología.",
+    "ja": "サイバージャヤ大学（UoC）は国家評価SETARA 5ツ星を獲得した医療健康科学の名門校であり、医学（MBBS）、薬学、理学療法、心理学に特化しています。",
+    "ko": "사이버자야 대학교(UoC)는 말레이시아 고등교육평가 SETARA 5스타를 획득한 의학·보건 특성화 대학으로 의예과(MBBS), 약학, 물리치료학, 심리학에서 높은 권위를 자랑합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Bangsal Simulasi Rumah Sakit & Ruang Gawat Darurat",
+        "en": "Simulated Hospital Wards & Emergency Care Suites",
+        "ar": "أجنحة محاكاة المستشفيات وأقسام الطوارئ والعناية المركزة",
+        "ko": "시뮬레이션 병동 및 응급 의료 훈련 스위트",
+        "ja": "模擬病棟および救急救命シミュレーション室",
+        "zh": "全真全科模拟医院病房与急诊急救实训中心",
+        "ru": "Симуляционные больничные палаты и блок неотложной помощи",
+        "fr": "Salles d'hôpital simulées et soins d'urgence",
+        "es": "Salas de Hospital Simulado y Cuidados de Emergencia"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Farmasi & Penelitian Formulasi Obat",
+        "en": "Advanced Pharmacy & Drug Formulation Labs",
+        "ar": "مختبرات الصيدلة المتقدمة وتركيب وتصنيع الأدوية",
+        "ko": "첨단 약학 및 의약품 제형 연구 실험실",
+        "ja": "最先端薬学および創薬製剤研究実験室",
+        "zh": "高精尖药学制剂与新药研发综合实验室",
+        "ru": "Лаборатории фармацевтики и разработки лекарственных форм",
+        "fr": "Laboratoires de pharmacie et de formulation de médicaments",
+        "es": "Laboratorios Avanzados de Farmacia y Formulación Farmacéutica"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Klinik Praktik Fisioterapi & Psikologi Kampus",
+        "en": "On-Campus Physiotherapy & Psychology Clinics",
+        "ar": "عيادات العلاج الطبيعي والتأهيل وعلم النفس المباشرة بالحرم",
+        "ko": "교내 물리치료 및 심리 상담 전문 클리닉",
+        "ja": "学内理学療法・リハビリおよび心理カウンセリングクリニック",
+        "zh": "校内物理治疗康复中心与应用心理学实践门诊",
+        "ru": "Университетские клиники физиотерапии и психологии",
+        "fr": "Cliniques de physiothérapie et de psychologie sur le campus",
+        "es": "Clínicas de Fisioterapia y Psicología en el Campus"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Laboratorium Diseksi Anatomi Manusia Berteknologi Tinggi",
+        "en": "High-Tech Human Anatomy Dissection Suites",
+        "ar": "أجنحة التشريح البشري المتقدمة المزودة بالشاشات الذكية ثلاثية الأبعاد",
+        "ko": "최첨단 인체 해부학 실습 및 3D 시각화 스위트",
+        "ja": "最新3D技術導入の人体解剖学実習室",
+        "zh": "配备先进3D数字化互动系统的人体解剖学精细实训室",
+        "ru": "Высокотехнологичные залы анатомической диссекции с 3D-визуализацией",
+        "fr": "Suites de dissection anatomique humaine haute technologie",
+        "es": "Salas de Disección de Anatomía Humana de Alta Tecnología"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🩺",
+      "title": {
+        "id": "Pusat Pendidikan Kedokteran & Kesehatan Terkemuka (SETARA 5-Stars)",
+        "en": "Top-Tier Medical & Healthcare University (SETARA 5-Stars)",
+        "ar": "الصرح الطبي والصحي الرائد في ماليزيا (تصنيف 5 نجوم من SETARA)",
+        "ko": "말레이시아 최고 수준의 의학·보건 특성화 대학교 (5스타)",
+        "ja": "マレーシア屈指の医科・医療系総合大学（SETARA 5スター最高評価）",
+        "zh": "马来西亚顶尖医学与健康科学专门学府（SETARA五星级卓越评级）",
+        "ru": "Ведущий медицинский университет Малайзии (5 звезд SETARA)",
+        "fr": "Université médicale d'élite en Malaisie (5 étoiles SETARA)",
+        "es": "Universidad médica líder en Malasia (5 estrellas SETARA)"
+      },
+      "desc": {
+        "id": "Memiliki akreditasi penuh dari Malaysian Medical Council (MMC) dan Pharmacy Board Malaysia dengan standar global.",
+        "en": "Fully recognized by the Malaysian Medical Council (MMC) and Pharmacy Board Malaysia.",
+        "ar": "معتمدة بالكامل من المجلس الطبي الماليزي (MMC) ومجلس الصيدلة وتتمتع باعتراف دولي واسع.",
+        "ko": "말레이시아 의학위원회(MMC) 및 약학위원회의 엄격한 국제 기준 완전 공인.",
+        "ja": "マレーシア医師会（MMC）および薬学評議会から完全認可を取得。",
+        "zh": "医学与药学专业获得马来西亚医学理事会(MMC)与药学理事会官方权威认证。",
+        "ru": "Полная аккредитация Медицинского и Фармацевтического советов Малайзии.",
+        "fr": "Accréditation complète du Conseil Médical et de la Pharmacie de Malaisie.",
+        "es": "Reconocimiento total por el Consejo Médico y la Junta de Farmacia de Malasia."
+      }
+    },
+    {
+      "icon": "global",
+      "title": {
+        "id": "Lokasi Strategis di Pusat Lembah Silikon Cyberjaya",
+        "en": "Prime Location in Malaysia's Silicon Valley (Cyberjaya)",
+        "ar": "موقع استراتيجي حيوي في قلب وادي السيليكون الماليزي (سايبرجايا)",
+        "ko": "말레이시아 실리콘밸리 사이버자야의 중심에 위치한 스마트 캠퍼스",
+        "ja": "マレーシアのシリコンバレー・サイバージャヤ中枢に位置する立地環境",
+        "zh": "坐落于马来西亚硅谷核心区，尽享智慧数码都会的创新环境",
+        "ru": "Расположение в Кремниевой долине Малайзии (Киберджая)",
+        "fr": "Emplacement idéal au cœur de la Silicon Valley malaisienne (Cyberjaya)",
+        "es": "Ubicación estratégica en el Silicon Valley de Malasia (Cyberjaya)"
+      },
+      "desc": {
+        "id": "Dikelilingi lebih dari 500 perusahaan multinasional dan pusat riset teknologi tinggi dengan akses transportasi mudah.",
+        "en": "Surrounded by over 500 multinational corporations, tech giants, and modern living amenities.",
+        "ar": "محاطة بأكثر من 500 شركة عالمية متقدمة ومراكز أبحاث حديثة وشبكة مواصلات سريعة.",
+        "ko": "500개 이상의 글로벌 다국적 기업 및 첨단 연구 센터가 밀집된 최적의 인프라.",
+        "ja": "500社を超える多国籍テック企業や最先端リサーチセンターが集積する理想的環境。",
+        "zh": "周边汇聚500余家跨国科技巨头与尖端研发机构，创新氛围浓厚。",
+        "ru": "Окружение из 500+ транснациональных компаний и исследовательских центров.",
+        "fr": "Entourée de plus de 500 multinationales et centres de recherche.",
+        "es": "Rodeada de más de 500 corporaciones multinacionales y centros de investigación."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Rotasi Klinis Nyata di Rumah Sakit Pemerintah Terakreditasi",
+        "en": "Real Clinical Hospital Rotations across Accredited Centers",
+        "ar": "تدريب سريري مباشر في كبرى المستشفيات والمراكز الطبية المعتمدة",
+        "ko": "국가 공인 대형 종합병원에서의 풍부한 실전 임상 실습",
+        "ja": "認定公立総合病院での実践的かつ充実した臨床ローテーション",
+        "zh": "在多所国家权威公立综合医院进行全方位临床轮转实训",
+        "ru": "Практические клинические ротации в ведущих аккредитованных больницах",
+        "fr": "Rotations cliniques pratiques dans les grands hôpitaux accrédités",
+        "es": "Rotaciones clínicas reales en hospitales universitarios acreditados"
+      },
+      "desc": {
+        "id": "Mahasiswa kedokteran dan farmasi menjalani praktik langsung bersama dokter spesialis berpengalaman sejak tahun awal.",
+        "en": "Medical and pharmacy students gain direct hands-on clinical exposure under specialist mentorship.",
+        "ar": "يخوض طلاب الطب والصيدلة تدريباً عملياً مباشراً تحت إشراف نخبة من الأطباء الاستشاريين.",
+        "ko": "의대생 및 약대생이 전문의의 지도 아래 조기 임상 실습을 체계적으로 이수.",
+        "ja": "医学部生・薬学部生が第一線の専門医の指導のもとで直接患者診療を経験。",
+        "zh": "医学生与药学生在资深医学专家的带教指导下，深入参与临床诊疗实操。",
+        "ru": "Студенты получают практический опыт работы с пациентами под руководством ведущих врачей.",
+        "fr": "Les étudiants bénéficient d'une formation clinique directe sous la tutelle de spécialistes.",
+        "es": "Los estudiantes adquieren experiencia clínica directa bajo la guía de especialistas."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Biaya Kuliah Kedokteran & Kesehatan Sangat Kompetitif",
+        "en": "Highly Competitive Tuition for International Healthcare Degrees",
+        "ar": "رسوم دراسية منافسة جداً لبرامج الطب والعلوم الصحية الدولية",
+        "ko": "국제 의학·보건 계열 학위 중 가장 합리적이고 경제적인 학비",
+        "ja": "国際水準の医科・医療系学位を極めてリーズナブルな学費で提供",
+        "zh": "以高性价比学费提供国际公认的医学、药学与健康科学正规学位",
+        "ru": "Очень доступные цены на международное медицинское образование",
+        "fr": "Frais de scolarité très compétitifs pour des diplômes de santé reconnus",
+        "es": "Matrículas muy competitivas para carreras de medicina y ciencias de la salud"
+      },
+      "desc": {
+        "id": "Menawarkan penghematan biaya signifikan dibandingkan studi kedokteran di Inggris atau Australia dengan kurikulum setara.",
+        "en": "Massive savings compared to medical schools in the UK or Australia with fully equivalent curricula.",
+        "ar": "توفير هائل في التكاليف مقارنة بكليات الطب في بريطانيا أو أستراليا مع التزام كامل بالمناهج الدولية.",
+        "ko": "영국이나 호주 의대 대비 압도적인 비용 절감 효과와 동등한 교육 품질 보장.",
+        "ja": "英国や豪州の医学部と比較して大幅な費用削減を実現しながら同等のカリキュラムを履修。",
+        "zh": "与英国或澳洲医学院相比大幅削减开支，同时保持严格的国际水准医学培养大纲。",
+        "ru": "Значительная экономия по сравнению с медицинскими вузами Великобритании или Австралии.",
+        "fr": "Économies substantielles par rapport aux études médicales au Royaume-Uni ou en Australie.",
+        "es": "Gran ahorro en comparación con facultades de medicina en el Reino Unido o Australia."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from University of Cyberjaya internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة سايبرجايا (University of Cyberjaya) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari University of Cyberjaya diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, University of Cyberjaya is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة سايبرجايا (University of Cyberjaya) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, University of Cyberjaya terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to University of Cyberjaya?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة سايبرجايا (University of Cyberjaya)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke University of Cyberjaya?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from University of Cyberjaya?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة سايبرجايا (University of Cyberjaya)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke University of Cyberjaya?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to University of Cyberjaya without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Masuk Jurusan Kedokteran (MBBS) & Farmasi di UoC",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for University of Cyberjaya",
+        "ar": "دليل القبول في كليات الطب البشري والصيدلة في جامعة سايبرجايا",
+        "zh": "University of Cyberjaya 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в University of Cyberjaya",
+        "fr": "Guide complet d'admission et visa étudiant pour University of Cyberjaya",
+        "es": "Guía completa de admisión y visado de estudiante para University of Cyberjaya",
+        "ja": "University of Cyberjaya 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "University of Cyberjaya 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Persyaratan nilai sains, wawancara medis, dan alur pendaftaran visa pelajar internasional.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شروط الدرجات العلمية والمقابلة الشخصية وإجراءات استخراج تأشيرة الطالب الدراسية.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup Mahasiswa di Kota Cerdas Cyberjaya",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around University of Cyberjaya",
+        "ar": "تكاليف المعيشة وتفاصيل السكن الطلابي في مدينة سايبرجايا الذكية",
+        "zh": "University of Cyberjaya 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле University of Cyberjaya",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de University of Cyberjaya",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en University of Cyberjaya",
+        "ja": "University of Cyberjaya 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "University of Cyberjaya 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Estimasi sewa apartemen The Arc, pengeluaran makan, dan transportasi ramah lingkungan di Cyberjaya.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل مصروفات السكن في مجمعات سايبرجايا والمطاعم ووسائل التنقل الحديثة.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Beasiswa Prestasi Akademik Mahasiswa Internasional di UoC",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at University of Cyberjaya",
+        "ar": "المنح الدراسية وخصومات التفوق للطلاب الدوليين في جامعة سايبرجايا",
+        "zh": "University of Cyberjaya 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в University of Cyberjaya",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à University of Cyberjaya",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en University of Cyberjaya",
+        "ja": "University of Cyberjaya 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "University of Cyberjaya 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Peluang potongan biaya kuliah berdasarkan nilai rapor dan portofolio prestasi sains.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "فرص الحصول على خصومات دراسية بناءً على المعدلات المتميزة في الثانوية العامة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Cyberjaya Student Village",
+        "nameAr": "قرية السكن الطلابي المعتمد بسايبرجايا",
+        "type": "On-Campus & Close Walk Studio Rooms",
+        "typeAr": "غرف فندقية واستوديوهات مجهزة وقريبة من الحرم",
+        "priceRange": "RM 550 - RM 1,100 / month",
+        "priceRangeAr": "550 - 1,100 رينجيت / شهرياً",
+        "distance": "3 menit jalan kaki ke kampus",
+        "amenities": [
+          "Wi-Fi Cepat",
+          "Keamanan 24 Jam",
+          "Kantin Halal",
+          "Mesin Cuci",
+          "AC Penuh"
+        ],
+        "amenitiesAr": [
+          "إنترنت سريع",
+          "أمن 24 ساعة",
+          "مطاعم حلال",
+          "غسالات ملابس",
+          "تكييف كامل"
+        ],
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)"
+      },
+      {
+        "name": "The Arc Condominium Cyberjaya",
+        "nameAr": "مجمع أبراج ذا آرك الفندقي بسايبرجايا",
+        "type": "Modern Serviced High-Rise Suites",
+        "typeAr": "أبراج سكنية طلابية حديثة متكاملة الخدمات",
+        "priceRange": "RM 650 - RM 1,300 / month",
+        "priceRangeAr": "650 - 1,300 رينجيت / شهرياً",
+        "distance": "5 menit jalan kaki dari kampus",
+        "amenities": [
+          "Kolam Renang",
+          "Pusat Kebugaran Gym",
+          "Minimarket 24 Jam",
+          "Keamanan Multi-Tier",
+          "Dekat Restoran"
+        ],
+        "amenitiesAr": [
+          "مسبح",
+          "صالة لياقة بدنية",
+          "سوبرماركت 24 ساعة",
+          "أمن متعدد المستويات",
+          "مطاعم متنوعة"
+        ],
+        "distanceAr": "5 دقائق سيراً على الأقدام إلى الحرم الجامعي",
+        "distanceEn": "5-minute walk to campus"
+      },
+      {
+        "name": "Eclipse Residences Cyberjaya",
+        "nameAr": "شقق إكليبس الفاخرة بسايبرجايا",
+        "type": "Luxury Serviced Apartment",
+        "typeAr": "شقق فندقية عصرية راقية للطلاب",
+        "priceRange": "RM 800 - RM 1,500 / month",
+        "priceRangeAr": "800 - 1,500 رينجيت / شهرياً",
+        "distance": "7 menit dari kampus (Shuttle & Grab)",
+        "amenities": [
+          "Infinity Pool Lantai Atas",
+          "Sky Gym & Sauna",
+          "Perabotan Mewah",
+          "Akses Mudah LRT/MRT",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "مسبح إنفينيتي معلق",
+          "نادي لياقة وساونا",
+          "مفروشة بالكامل",
+          "قريبة من محطة المترو",
+          "حراسة 24/7"
+        ],
+        "distanceAr": "7 دقائق من الحرم الجامعي (باص نقل وسيارات أجرة)",
+        "distanceEn": "7 mins from campus (Shuttle & Grab link)"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 550 - RM 1,200",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 550 - RM 850",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi Lokal",
+        "itemAr": "المواصلات والتنقل",
+        "cost": "RM 70 - RM 130",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "cost": "RM 70 - RM 140",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "cost": "RM 180 - RM 350",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,420 - RM 2,670",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في العلوم والآداب",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 14,000 - RM 17,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم الطبي والتقني (صيدلة، تمريض، حوسبة)",
+      "duration": "2.5 - 3 Years",
+      "avgFeePerYear": "RM 12,000 - RM 16,000"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس (صيدلة، علاج طبيعي، علم نفس، إدارة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 22,000 - RM 32,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في العلوم الطبية وإدارة الأعمال والصحة العامة",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 24,000 - RM 32,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في العلوم الصيدلانية والطبية المتقدمة",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 20,000 - RM 28,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=XcZIdOWLu6s",
+  "programs": [
+    {
+      "id": "cyberjaya-diploma-in-information-technology-it",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Information Technology (IT)",
+      "nameAr": "دبلوم تقنية المعلومات في IT",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.3,
+      "annualFee": 9810,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9810
+        },
+        {
+          "year": 2,
+          "fee": 9810
+        }
+      ],
+      "totalTuitionFee": 19620,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-in-information-technology-hons-it",
+      "universityId": "cyberjaya",
+      "name": "Bachelor in Information Technology (Hons) (IT)",
+      "nameAr": "بكالوريوس في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19067,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19067
+        },
+        {
+          "year": 2,
+          "fee": 19067
+        },
+        {
+          "year": 3,
+          "fee": 19067
+        }
+      ],
+      "totalTuitionFee": 57201,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-business-administration",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Business Administration",
+      "nameAr": "دبلوم إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 9555,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9555
+        },
+        {
+          "year": 2,
+          "fee": 9555
+        }
+      ],
+      "totalTuitionFee": 19110,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-accounting",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 8571,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8571
+        },
+        {
+          "year": 2,
+          "fee": 8571
+        }
+      ],
+      "totalTuitionFee": 17142,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-in-business-administration-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor in Business Administration (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Business Administration (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 16167,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16167
+        },
+        {
+          "year": 2,
+          "fee": 16167
+        },
+        {
+          "year": 3,
+          "fee": 16167
+        }
+      ],
+      "totalTuitionFee": 48501,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-in-international-business-management-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor in International Business Management (Hons)",
+      "nameAr": "بكالوريوس في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15733,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15733
+        },
+        {
+          "year": 2,
+          "fee": 15733
+        },
+        {
+          "year": 3,
+          "fee": 15733
+        }
+      ],
+      "totalTuitionFee": 47199,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-in-islamic-finance",
+      "universityId": "cyberjaya",
+      "name": "Master in Islamic Finance",
+      "nameAr": "ماجستير في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 19500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19500
+        }
+      ],
+      "totalTuitionFee": 19500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-business-data-science",
+      "universityId": "cyberjaya",
+      "name": "Master of Business Data Science",
+      "nameAr": "ماجستير في علم البيانات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 21500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21500
+        }
+      ],
+      "totalTuitionFee": 21500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-doctor-of-business-administration",
+      "universityId": "cyberjaya",
+      "name": "Doctor of Business Administration",
+      "nameAr": "دكتوراه في Doctor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 11667,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11667
+        },
+        {
+          "year": 2,
+          "fee": 11667
+        },
+        {
+          "year": 3,
+          "fee": 11667
+        }
+      ],
+      "totalTuitionFee": 35001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-business-administration-online-degree",
+      "universityId": "cyberjaya",
+      "name": "Master of Business Administration – Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 11000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-doctor-of-philosophy-phd-management",
+      "universityId": "cyberjaya",
+      "name": "Doctor of Philosophy (PhD) Management",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jun, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-science-in-occupational-safety-and-health-osh-management",
+      "universityId": "cyberjaya",
+      "name": "Master of Science in Occupational Safety and Health (OSH) Management",
+      "nameAr": "ماجستير العلوم في Occupational Safety and Health (OSH) Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.9,
+      "annualFee": 19500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19500
+        }
+      ],
+      "totalTuitionFee": 19500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-in-accounting-and-finance-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor in Accounting and Finance (Hons)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 18168,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18168
+        },
+        {
+          "year": 2,
+          "fee": 18168
+        },
+        {
+          "year": 3,
+          "fee": 18168
+        }
+      ],
+      "totalTuitionFee": 54504,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-business-administration-mba",
+      "universityId": "cyberjaya",
+      "name": "Master of Business Administration (MBA)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في MBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-biomedical-engineering-technology-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Biomedical Engineering Technology (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Biomedical Engineering Technology (Hons",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17500
+        },
+        {
+          "year": 2,
+          "fee": 17500
+        },
+        {
+          "year": 3,
+          "fee": 17500
+        },
+        {
+          "year": 4,
+          "fee": 17500
+        }
+      ],
+      "totalTuitionFee": 70000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-foundation-in-allied-science",
+      "universityId": "cyberjaya",
+      "name": "Foundation in Allied Science",
+      "nameAr": "برنامج تمهيدي في Allied Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 16300,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16300
+        }
+      ],
+      "totalTuitionFee": 16300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-foundation-in-science-medicine-pharmacy",
+      "universityId": "cyberjaya",
+      "name": "Foundation in Science (Medicine/Pharmacy)",
+      "nameAr": "برنامج تمهيدي في العلوم في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 16300,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16300
+        }
+      ],
+      "totalTuitionFee": 16300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-medical-and-health-science",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Medical and Health Science",
+      "nameAr": "دبلوم في Medical and Health Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 16666,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "May, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16666
+        },
+        {
+          "year": 2,
+          "fee": 16666
+        },
+        {
+          "year": 3,
+          "fee": 16666
+        }
+      ],
+      "totalTuitionFee": 49998,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-cosmetics",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Cosmetics",
+      "nameAr": "دبلوم في Cosmetics",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 17571,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17571
+        },
+        {
+          "year": 2,
+          "fee": 17571
+        }
+      ],
+      "totalTuitionFee": 35142,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-occupational-safety-and-health",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Occupational Safety and Health",
+      "nameAr": "دبلوم في Occupational Safety and Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 18216,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18216
+        },
+        {
+          "year": 2,
+          "fee": 18216
+        }
+      ],
+      "totalTuitionFee": 36432,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-nursing",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 12900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12900
+        },
+        {
+          "year": 2,
+          "fee": 12900
+        },
+        {
+          "year": 3,
+          "fee": 12900
+        }
+      ],
+      "totalTuitionFee": 38700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-dietetics-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Dietetics (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Dietetics (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 22325,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22325
+        },
+        {
+          "year": 2,
+          "fee": 22325
+        },
+        {
+          "year": 3,
+          "fee": 22325
+        },
+        {
+          "year": 4,
+          "fee": 22325
+        }
+      ],
+      "totalTuitionFee": 89300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-homeopathic-medical-science-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Homeopathic Medical Science (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Homeopathic Medical Science (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 14000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14000
+        },
+        {
+          "year": 2,
+          "fee": 14000
+        },
+        {
+          "year": 3,
+          "fee": 14000
+        },
+        {
+          "year": 4,
+          "fee": 14000
+        },
+        {
+          "year": 5,
+          "fee": 14000
+        }
+      ],
+      "totalTuitionFee": 70000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-doctor-of-philosophy-phd",
+      "universityId": "cyberjaya",
+      "name": "Doctor of Philosophy (PhD)",
+      "nameAr": "دكتوراه الفلسفة (PhD)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 8668,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jun, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8668
+        },
+        {
+          "year": 2,
+          "fee": 8668
+        },
+        {
+          "year": 3,
+          "fee": 8668
+        }
+      ],
+      "totalTuitionFee": 26004,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-doctor-of-pharmacy",
+      "universityId": "cyberjaya",
+      "name": "Doctor of Pharmacy",
+      "nameAr": "دكتوراه في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-pharmaceutical-sciences",
+      "universityId": "cyberjaya",
+      "name": "Master of Pharmaceutical Sciences",
+      "nameAr": "ماجستير في Master of Pharmaceutical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jun, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-doctor-of-philosophy-phd-in-medical-science",
+      "universityId": "cyberjaya",
+      "name": "Doctor of Philosophy (PhD) in Medical Science",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Medical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jun, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-clinical-pharmacy",
+      "universityId": "cyberjaya",
+      "name": "Master of Clinical Pharmacy",
+      "nameAr": "ماجستير في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-doctor-of-philosophy-phd-pharmaceutical-sciences",
+      "universityId": "cyberjaya",
+      "name": "Doctor of Philosophy (PhD) Pharmaceutical Sciences",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Pharmaceutical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13334,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jun, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13334
+        },
+        {
+          "year": 2,
+          "fee": 13334
+        },
+        {
+          "year": 3,
+          "fee": 13334
+        }
+      ],
+      "totalTuitionFee": 40002,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-medical-science-mms-by-research",
+      "universityId": "cyberjaya",
+      "name": "Master of Medical Science (MMS)(By Research)",
+      "nameAr": "ماجستير في Master of Medical Science (MMS (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9350,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jun, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9350
+        },
+        {
+          "year": 2,
+          "fee": 9350
+        }
+      ],
+      "totalTuitionFee": 18700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-in-occupational-safety-and-health-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor in Occupational Safety And Health (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Occupational Safety And Health (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22400
+        },
+        {
+          "year": 2,
+          "fee": 22400
+        },
+        {
+          "year": 3,
+          "fee": 22400
+        }
+      ],
+      "totalTuitionFee": 67200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-pharmacy-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Pharmacy (Hons)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28575,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28575
+        },
+        {
+          "year": 2,
+          "fee": 28575
+        },
+        {
+          "year": 3,
+          "fee": 28575
+        },
+        {
+          "year": 4,
+          "fee": 28575
+        }
+      ],
+      "totalTuitionFee": 114300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-medicine-bachelor-of-surgery-mbbs",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+      "nameAr": "بكالوريوس في Bachelor of Medicine & Bachelor of Surgery (MBBS",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 81000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 81000
+        },
+        {
+          "year": 2,
+          "fee": 81000
+        },
+        {
+          "year": 3,
+          "fee": 81000
+        },
+        {
+          "year": 4,
+          "fee": 81000
+        },
+        {
+          "year": 5,
+          "fee": 81000
+        }
+      ],
+      "totalTuitionFee": 405000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-msc-in-public-health-global-health",
+      "universityId": "cyberjaya",
+      "name": "MSc in Public Health (Global Health)",
+      "nameAr": "برنامج في MSc in Public Health (Global Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 38000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38000
+        }
+      ],
+      "totalTuitionFee": 38000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-nursing-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Nursing (Hons)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16075,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16075
+        },
+        {
+          "year": 2,
+          "fee": 16075
+        },
+        {
+          "year": 3,
+          "fee": 16075
+        },
+        {
+          "year": 4,
+          "fee": 16075
+        }
+      ],
+      "totalTuitionFee": 64300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-science-in-public-health-global-health-mph",
+      "universityId": "cyberjaya",
+      "name": "Master of Science in Public Health (Global Health)(MPH)",
+      "nameAr": "ماجستير العلوم في Public Health (Global Health)(MPH",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 38000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38000
+        }
+      ],
+      "totalTuitionFee": 38000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-in-science-msc",
+      "universityId": "cyberjaya",
+      "name": "Master in Science (MSc)",
+      "nameAr": "ماجستير في Master in Science (MSc",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 13100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jun, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13100
+        },
+        {
+          "year": 2,
+          "fee": 13100
+        }
+      ],
+      "totalTuitionFee": 26200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-psychology",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Psychology",
+      "nameAr": "دبلوم في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 15375,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15375
+        },
+        {
+          "year": 2,
+          "fee": 15375
+        }
+      ],
+      "totalTuitionFee": 30750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-psychology-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Psychology (Hons)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19067,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19067
+        },
+        {
+          "year": 2,
+          "fee": 19067
+        },
+        {
+          "year": 3,
+          "fee": 19067
+        }
+      ],
+      "totalTuitionFee": 57201,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-clinical-psychology",
+      "universityId": "cyberjaya",
+      "name": "Master of Clinical Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30000
+        },
+        {
+          "year": 2,
+          "fee": 30000
+        }
+      ],
+      "totalTuitionFee": 60000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-in-physiotherapy-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor in Physiotherapy (Hons)",
+      "nameAr": "بكالوريوس في العلاج الطبيعي",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21075,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21075
+        },
+        {
+          "year": 2,
+          "fee": 21075
+        },
+        {
+          "year": 3,
+          "fee": 21075
+        },
+        {
+          "year": 4,
+          "fee": 21075
+        }
+      ],
+      "totalTuitionFee": 84300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-master-of-physiotherapy",
+      "universityId": "cyberjaya",
+      "name": "Master of Physiotherapy",
+      "nameAr": "ماجستير في العلاج الطبيعي",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 1.6,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-education-hons-in-early-childhood-education",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Education (Hons) in Early Childhood Education",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        },
+        {
+          "year": 3,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 60000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-early-childhood-education",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 16416,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16416
+        },
+        {
+          "year": 2,
+          "fee": 16416
+        }
+      ],
+      "totalTuitionFee": 32832,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-education-hons-in-teaching-english-as-a-second-language",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Education (Hons) in Teaching English as a Second Language",
+      "nameAr": "بكالوريوس في Bachelor of Education (Hons) in Teaching English as a Second Language",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        },
+        {
+          "year": 3,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-foundation-in-arts",
+      "universityId": "cyberjaya",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 15000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-digital-creative-content",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Digital Creative Content",
+      "nameAr": "دبلوم في Digital Creative Content",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 11271,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11271
+        },
+        {
+          "year": 2,
+          "fee": 11271
+        }
+      ],
+      "totalTuitionFee": 22542,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-3d-animation",
+      "universityId": "cyberjaya",
+      "name": "Diploma in 3D Animation",
+      "nameAr": "دبلوم في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 11271,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11271
+        },
+        {
+          "year": 2,
+          "fee": 11271
+        }
+      ],
+      "totalTuitionFee": 22542,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-diploma-in-graphic-design",
+      "universityId": "cyberjaya",
+      "name": "Diploma in Graphic Design",
+      "nameAr": "دبلوم في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 11271,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11271
+        },
+        {
+          "year": 2,
+          "fee": 11271
+        }
+      ],
+      "totalTuitionFee": 22542,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-art-hons-in-graphic-design-advertising",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Art (Hons) in Graphic Design (Advertising)",
+      "nameAr": "بكالوريوس في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20001,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20001
+        },
+        {
+          "year": 2,
+          "fee": 20001
+        },
+        {
+          "year": 3,
+          "fee": 20001
+        }
+      ],
+      "totalTuitionFee": 60003,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-in-creative-multimedia-hons",
+      "universityId": "cyberjaya",
+      "name": "Bachelor in Creative Multimedia (Hons)",
+      "nameAr": "بكالوريوس في الوسائط المتعددة الإبداعية",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20001,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20001
+        },
+        {
+          "year": 2,
+          "fee": 20001
+        },
+        {
+          "year": 3,
+          "fee": 20001
+        }
+      ],
+      "totalTuitionFee": 60003,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "cyberjaya-bachelor-of-multimedia-hons-in-3d-animation",
+      "universityId": "cyberjaya",
+      "name": "Bachelor of Multimedia (Hons) in 3D Animation",
+      "nameAr": "بكالوريوس في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20001,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20001
+        },
+        {
+          "year": 2,
+          "fee": 20001
+        },
+        {
+          "year": 3,
+          "fee": 20001
+        }
+      ],
+      "totalTuitionFee": 60003,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 52
+}

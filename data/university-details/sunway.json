@@ -1,0 +1,4610 @@
+{
+  "id": "sunway",
+  "slug": "sunway-university-malaysia",
+  "name": "Sunway University",
+  "arabicName": "جامعة صنواي (Sunway University)",
+  "city": "Sunway City, Selangor",
+  "cityKey": "city_sunway",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-sunway.webp",
+  "image": "assets/photo/campus_sunway.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/5M1YrapDqIo",
+  "website": "https://university.sunway.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "Rank 580 QS World University Rankings 2025 (QS 5-Stars Rated)",
+  "rankingBadgeKey": "sunway_rank_badge",
+  "established": "2004",
+  "campusName": "Sunway City Integrated Resort Campus",
+  "studentCount": "15,000+ (70+ Countries)",
+  "intakes": "Jan, Mar, Apr, Aug, Sep",
+  "feeRangeMin": 9000,
+  "feeRangeMax": 89170,
+  "currency": "MYR",
+  "majors": [
+    "business",
+    "cs",
+    "engineering",
+    "hospitality",
+    "health",
+    "arts"
+  ],
+  "similarUniversities": [
+    "taylors",
+    "monash",
+    "apu"
+  ],
+  "totalProgramsCount": 123,
+  "description": "Sunway University is a top-ranked Malaysian private institution rated QS 5-Stars, famous for its prestigious Lancaster University UK dual degrees, Le Cordon Bleu Paris culinary certifications, and seamless canopy-walk integration within Sunway City resort.",
+  "descriptionAr": "تُعد جامعة صنواي واحدة من أرقى الجامعات الخاصة في ماليزيا والحاصلة على تصنيف 5 نجوم من QS، وتشتهر بشراكتها مع جامعة لانكستر البريطانية لمنح شهادات ثنائية، وشراكة معهد لو كوردون بلو باريس العالمي، وموقعها المتكامل في مدينة صنواي الترفيهية.",
+  "about": {
+    "id": "Sunway University didirikan di bawah naungan Jeffrey Cheah Foundation di kota mandiri terpadu Sunway City, Kuala Lumpur. Bertengger di jajaran 500 besar universitas dunia dalam QS World Rankings, Sunway bermitra secara strategis dengan Lancaster University (Inggris) dan Le Cordon Bleu (Prancis).",
+    "en": "Sunway University, established under the Jeffrey Cheah Foundation in the integrated smart eco-city of Sunway City, is ranked among the Top 500 universities globally in the QS World University Rankings, partnered with Lancaster University (UK) and Le Cordon Bleu (France).",
+    "ar": "تأسست جامعة صنواي (Sunway University) تحت مظلة مؤسسة جيفري تشياه في مدينة صنواي الذكية بكوالالمبور، ومصنفة ضمن أفضل 500 جامعة في العالم في تصنيف QS، وترتبط بشراكات مع جامعة لانكستر البريطانية ومعهد لو كوردون بلو الفرنسي.",
+    "zh": "双威大学（Sunway University）由著名谢富年基金会创立，坐落于全马唯一的智慧生态名城——双威城，长年稳居QS世界大学排名前500强，与英国名校兰卡斯特大学及法国蓝带国际学院深度开设双学士学位课程。",
+    "ru": "Университет Санвей (Sunway University) в Санвей-Сити входит в топ-500 лучших вузов мира рейтинга QS и сотрудничает с Lancaster University (Великобритания) и Le Cordon Bleu (Франция).",
+    "fr": "Sunway University à Sunway City fait partie des 500 meilleures universités mondiales du classement QS, en partenariat d'élite avec Lancaster University (Royaume-Uni) et Le Cordon Bleu.",
+    "es": "Sunway University en Sunway City se sitúa en el Top 500 mundial de QS, asociada estratégicamente con Lancaster University (Reino Unido) y Le Cordon Bleu (Francia).",
+    "ja": "サンウェイ大学はスマート都市サンウェイ・シティに位置し、QS世界大学ランキングでトップ500にランクイン。英名門ランカスター大学や仏ル・コルドン・ブルーとの提携学位を展開。",
+    "ko": "선웨이 대학교(Sunway University)는 친환경 스마트 도시 선웨이 시티에 위치한 QS 세계 500위권 명문 사립대학으로, 영국 랭커스터 대학교 및 프랑스 르 꼬르동 블루와의 복수학위 과정을 자랑합니다."
+  },
+  "facilities": [
+    {
+      "icon": "‍️",
+      "title": {
+        "id": "Canopy Walkway Kampus Terintegrasi & Safe City",
+        "en": "Sunway Safe City Elevated Canopy Walkway",
+        "ar": "ممشى الحرم الجامعي المعلق والمكيف المتصل بالمدينة",
+        "ko": "선웨이 안전 도시 연계 에어컨 캐노피 보행로",
+        "ja": "サンウェイ・セーフシティ直結エアコン完備キャノピー遊歩道",
+        "zh": "双威智能安全城市全冷气高架遮阳步行天桥",
+        "ru": "Крытая пешеходная галерея с кондиционированием Sunway Canopy Walk",
+        "fr": "Passerelle surélevée couverte et climatisée Sunway Canopy Walk",
+        "es": "Pasarela elevada cubierta con aire acondicionado Sunway Canopy Walk"
+      }
+    },
+    {
+      "icon": "culinary",
+      "title": {
+        "id": "Dapur & Restoran Praktik Standar Le Cordon Bleu Paris",
+        "en": "Le Cordon Bleu Paris Commercial Culinary Suites",
+        "ar": "أجنحة ومطابخ التدريب الفندقي والطهي المعتمدة من لو كوردون بلو باريس",
+        "ko": "르 꼬르동 블루 파리 공인 상업용 조리 실습 스위트",
+        "ja": "ル・コルドン・ブルー・パリ公認プロ仕様調理・製菓実習スイート",
+        "zh": "法国蓝带国际学院(Le Cordon Bleu)标准专业烹饪与烘焙实训厨房",
+        "ru": "Кулинарные лаборатории мирового класса Le Cordon Bleu Paris",
+        "fr": "Suites culinaires professionnelles certifiées Le Cordon Bleu Paris",
+        "es": "Suites culinarias profesionales certificadas por Le Cordon Bleu París"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Institut Riset Jeffrey Cheah Bermitra Harvard & Cambridge",
+        "en": "Jeffrey Cheah Research Institute (Harvard & Cambridge)",
+        "ar": "معهد جيفري تشياه للبحوث المتقدمة بالشراكة مع هارفارد وكامبريدج",
+        "ko": "하버드·캠브리지 파트너십 제프리 치아 연구소",
+        "ja": "ハーバード・ケンブリッジ大学連携ジェフリー・チア研究所",
+        "zh": "与哈佛大学及剑桥大学合作的谢富年杰出学术研究所",
+        "ru": "Исследовательский институт Джеффри Чиа в партнерстве с Гарвардом и Кембриджем",
+        "fr": "Institut de recherche Jeffrey Cheah en partenariat avec Harvard et Cambridge",
+        "es": "Instituto de Investigación Jeffrey Cheah en colaboración con Harvard y Cambridge"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Perpustakaan Digital Multi-Lantai Modern 24/7",
+        "en": "Tun Hussein Onn 24/7 High-Tech Smart Library",
+        "ar": "مكتبة تون حسين أون الذكية المتكاملة على مدار الساعة",
+        "ko": "24시간 상시 개방 툰 후세인 온 스마트 디지털 도서관",
+        "ja": "24時間利用可能なトゥン・フセイン・オン最新スマート図書館",
+        "zh": "敦胡先翁24小时全天候开放多层智慧数字化图书馆",
+        "ru": "Круглосуточная цифровая библиотека Tun Hussein Onn",
+        "fr": "Bibliothèque connectée haute technologie 24h/24 Tun Hussein Onn",
+        "es": "Biblioteca inteligente de alta tecnología 24/7 Tun Hussein Onn"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Gelar Ganda Resmi Inggris dengan Lancaster University",
+        "en": "UK Dual Degree Award with Lancaster University",
+        "ar": "شهادة بريطانية مزدوجة معتمدة من جامعة لانكستر (Lancaster University)",
+        "ko": "영국 랭커스터 대학교 공식 복수학위 수여",
+        "ja": "英国名門ランカスター大学との正規デュアルディグリー",
+        "zh": "英国名校兰卡斯特大学官方双学位联合认证",
+        "ru": "Официальный двойной диплом Великобритании с университетом Ланкастера",
+        "fr": "Double diplôme britannique officiel avec l'Université de Lancaster",
+        "es": "Doble titulación oficial del Reino Unido con Lancaster University"
+      },
+      "desc": {
+        "id": "Lulusan menerima dua ijazah resmi sekaligus dari Sunway University Malaysia dan Lancaster University UK (Top 10 di Inggris).",
+        "en": "Graduates receive two independent degree scrolls: one from Sunway and one from top-tier Lancaster University UK.",
+        "ar": "يحصل الطالب عند التخرج على شهادتين أصليتين: شهادة من جامعة صنواي وأخرى من جامعة لانكستر البريطانية المرموقة.",
+        "ko": "졸업 시 말레이시아 선웨이 대학교와 영국 10위권 랭커스터 대학교 학위를 동시에 수여받습니다.",
+        "ja": "マレーシアのサンウェイ大学と英国トップ10名門ランカスター大学の2つの学位を同時に取得。",
+        "zh": "毕业生可同时获得双威大学与英国排名前十的兰卡斯特大学颁发的两张独立学位文凭。",
+        "ru": "Выпускники получают два диплома: от Sunway и от престижного университета Ланкастера (Топ-10 в Великобритании).",
+        "fr": "Les étudiants obtiennent deux diplômes officiels : un de Sunway et un de l'Université de Lancaster (Royaume-Uni).",
+        "es": "Los graduados reciben dos títulos oficiales: uno de Sunway y otro de la prestigiosa Lancaster University (Reino Unido)."
+      }
+    },
+    {
+      "icon": "⭐",
+      "title": {
+        "id": "Kemitraan Eksklusif Perhotelan Le Cordon Bleu Paris",
+        "en": "Exclusive Hospitality Partnership with Le Cordon Bleu Paris",
+        "ar": "شراكة الضيافة الحصرية مع معهد لو كوردون بلو باريس العريق",
+        "ko": "르 꼬르동 블루 파리 독점 호스피탈리티 파트너십",
+        "ja": "ル・コルドン・ブルー・パリとの独占ホスピタリティ提携",
+        "zh": "与巴黎蓝带国际厨艺餐旅学院独家战略合作",
+        "ru": "Эксклюзивное партнерство в сфере гостеприимства с Le Cordon Bleu Paris",
+        "fr": "Partenariat exclusif d'hôtellerie avec Le Cordon Bleu Paris",
+        "es": "Alianza exclusiva de hotelería con Le Cordon Bleu París"
+      },
+      "desc": {
+        "id": "Pendidikan kuliner dan manajemen perhotelan bertaraf dunia dengan sertifikasi internasional langsung dari Paris.",
+        "en": "World-class culinary and hotel management education with prestigious international certificates straight from Paris.",
+        "ar": "تعليم عالمي في إدارة الفنادق والطهي الفاخر يمنح خريجيه شهادات معتمدة مباشرة من العاصمة الفرنسية باريس.",
+        "ko": "파리 본원의 엄격한 기준을 통과한 세계 최고 수준의 조리 및 호텔 경영 교육 제공.",
+        "ja": "パリ直伝の権威ある認定証が付与される世界最高水準のホテル・料理芸術教育。",
+        "zh": "提供世界顶级的烹饪艺术与酒店管理课程，颁发法国巴黎总部认证的国际权威证书。",
+        "ru": "Обучение кулинарному искусству и гостиничному бизнесу по высочайшим стандартам Парижа.",
+        "fr": "Formation de renommée mondiale en gestion hôtelière avec certification officielle émise depuis Paris.",
+        "es": "Formación de primer nivel en gestión hotelera y gastronomía con certificación oficial desde París."
+      }
+    },
+    {
+      "icon": "award",
+      "title": {
+        "id": "Peringkat Rank 580 Dunia QS & Rating 5-Stars",
+        "en": "Rank 580 QS World University Rankings (QS 5-Stars Rated)",
+        "ar": "المرتبة 580 عالمياً في تصنيف QS وتقييم 5 نجوم كاملة",
+        "ko": "QS 세계 대학 랭킹 580위 및 5스타 최우수 등급",
+        "ja": "QS世界大学ランキング第580位＆最高評価5スター獲得",
+        "zh": "QS世界大学排名第580位，荣获QS五星级最高评级",
+        "ru": "№580 в мировом рейтинге QS и высший рейтинг 5 звезд",
+        "fr": "580e mondial au classement QS et notation d'excellence 5 étoiles",
+        "es": "Puesto 580 en el QS World University Rankings y calificación 5 estrellas"
+      },
+      "desc": {
+        "id": "Meraih skor sempurna 5-bintang untuk pengajaran, prospek kerja lulusan, fasilitas kampus, dan tanggung jawab sosial.",
+        "en": "Achieved maximum 5-star ratings in teaching, graduate employability, campus facilities, and social inclusion.",
+        "ar": "حازت الجامعة على التقييم الكامل 5 نجوم في جودة التدريس، توظيف الخريجين، المرافق المتطورة، والمسؤولية المجتمعية.",
+        "ko": "교육 수준, 졸업생 취업률, 캠퍼스 시설 및 사회적 기여도 전 부문에서 별 5개 만점 획득.",
+        "ja": "教育の質、就職率、設備環境、社会貢献度の各分野で最高評価の5つ星を獲得。",
+        "zh": "在教学质量、毕业生就业力、校园设施及社会责任等方面均荣获满分五星评级。",
+        "ru": "Высшие оценки за качество преподавания, трудоустройство выпускников и оснащенность кампуса.",
+        "fr": "Score parfait de 5 étoiles pour l'enseignement, l'employabilité et les infrastructures.",
+        "es": "Calificación perfecta de 5 estrellas en enseñanza, empleabilidad de egresados e infraestructura."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Ekosistem Kota Mandiri Terintegrasi Sunway City",
+        "en": "Fully Integrated Smart Sunway City Resort Ecosystem",
+        "ar": "مدينة صنواي الذكية المتكاملة والبيئة الترفيهية الحيوية",
+        "ko": "선웨이 시티 완벽 통합 스마트 리조트형 캠퍼스",
+        "ja": "商業・医療・レジャーが完全融合したサンウェイ・スマートシティ",
+        "zh": "集商业、医疗、休闲与教育于一体的双威智能生态城",
+        "ru": "Интегрированная курортная экосистема Sunway City",
+        "fr": "Écosystème urbain intégré et durable de Sunway City",
+        "es": "Ecosistema urbano integrado e inteligente de Sunway City"
+      },
+      "desc": {
+        "id": "Dikelilingi pusat perbelanjaan Sunway Pyramid, Sunway Lagoon, rumah sakit modern, dan transportasi publik BRT listrik.",
+        "en": "Surrounded by Sunway Pyramid Mall, Sunway Lagoon, modern hospitals, and zero-emission electric BRT transit.",
+        "ar": "محاطة بمول صنواي بيراميد الشهير، حديقة صنواي لاجون المائية، مستشفى تخصصي، وحافلات BRT الكهربائية السريعة.",
+        "ko": "선웨이 피라미드 몰, 선웨이 라군 테마파크, 대형 종합병원 및 친환경 전기 BRT 노선 인접.",
+        "ja": "サンウェイ・ピラミッドモール、テーマパーク、総合病院、エコ電動BRTバスに直結。",
+        "zh": "毗邻双威金字塔购物广场、双威水上乐园、现代化医疗中心及全电动BRT快速公交系统。",
+        "ru": "В шаговой доступности ТРЦ Sunway Pyramid, парк Sunway Lagoon и скоростной электротранспорт BRT.",
+        "fr": "Accès direct au centre commercial Sunway Pyramid, au parc d'attractions et au bus électrique BRT.",
+        "es": "Rodeada por el centro comercial Sunway Pyramid, el parque temático Sunway Lagoon y el BRT eléctrico."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Sunway University internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة صنواي (Sunway University) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Sunway University diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Sunway University is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة صنواي (Sunway University) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Sunway University terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Sunway University?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة صنواي (Sunway University)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Sunway University?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Sunway University?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة صنواي (Sunway University)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Sunway University?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Sunway University without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Panduan Masuk Sunway University & Skema Gelar Ganda Lancaster UK",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Sunway University",
+        "ar": "دليل القبول في جامعة صنواي وتفاصيل الشهادة المزدوجة مع جامعة لانكستر البريطانية",
+        "zh": "Sunway University 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Sunway University",
+        "fr": "Guide complet d'admission et visa étudiant pour Sunway University",
+        "es": "Guía completa de admisión y visado de estudiante para Sunway University",
+        "ja": "Sunway University 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Sunway University 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Persyaratan berkas akademik, sertifikat bahasa Inggris, dan alur permohonan visa pelajar internasional.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شرح تفصيلي لشروط التسجيل، اختبارات اللغة الإنجليزية، وخطوات استخراج تأشيرة الطالب الدراسية.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Biaya Hidup & Fasilitas Komunitas Mahasiswa di Sunway City",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Sunway University",
+        "ar": "تكاليف المعيشة وتفاصيل الحياة الطلابية في مدينة صنواي الذكية",
+        "zh": "Sunway University 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Sunway University",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Sunway University",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Sunway University",
+        "ja": "Sunway University 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Sunway University 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Rincian biaya makan, sewa kamar asrama SMR, transportasi BRT, dan akses gaya hidup di Sunway Pyramid.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل مصروفات السكن الجامعي والمطاعم ووسائل المواصلات الكهربائية السريعة والتسوق في مدينة صنواي.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Peluang Beasiswa Jeffrey Cheah Foundation Hingga 50% di Sunway",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Sunway University",
+        "ar": "فرص المنح الدراسية من مؤسسة جيفري تشياه لتخفيض الرسوم في جامعة صنواي",
+        "zh": "Sunway University 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Sunway University",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Sunway University",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Sunway University",
+        "ja": "Sunway University 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Sunway University 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Kriteria nilai rapor untuk mendapatkan potongan uang kuliah bagi mahasiswa internasional tahun 2026.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "معايير التقديم على المنح الدراسية الجزئية بناءً على معدل الثانوية العامة والتميز الأكاديمي.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Sunway-Monash Residence (SMR)",
+        "nameAr": "سكن صنواي-موناش الطلابي الفاخر (SMR)",
+        "type": "Premium Ensuite & Twin Studio Rooms",
+        "typeAr": "غرف فندقية فردية ومزدوجة بحمام خاص وتكييف كامل",
+        "priceRange": "RM 950 - RM 1,800 / month",
+        "priceRangeAr": "950 - 1,800 رينجيت / شهرياً",
+        "distance": "5 menit jalan kaki (Jalur Kanopi Ber-AC)",
+        "amenities": [
+          "Jalur Kanopi Ber-AC ke Kampus",
+          "Kolam Renang Ukuran Olimpiade",
+          "Gym & Lapangan Basket/Futsal",
+          "Wi-Fi Berkecepatan Tinggi",
+          "Keamanan 24 Jam & Akses Kartu"
+        ],
+        "amenitiesAr": [
+          "ممشى مكيف ومظلل يربط بالحرم مباشرة",
+          "مسبح بمواصفات أولمبية",
+          "صالة رياضية وملاعب كرة سلة وقدم",
+          "إنترنت فائق السرعة",
+          "حراسة أمنية وبوابات إلكترونية 24 ساعة"
+        ],
+        "distanceAr": "5 دقائق سيراً على الأقدام (عبر ممشى الكانوبي المكيف والمظلل)",
+        "distanceEn": "5-minute walk (Air-Conditioned Canopy Walkway)"
+      },
+      {
+        "name": "Sun-U Residence",
+        "nameAr": "سكن صن-يو الجامعي الداخلي",
+        "type": "Standard & Ensuite Shared Flats",
+        "typeAr": "شقق طلابية مشتركة مع خيارات غرف فردية ومزدوجة",
+        "priceRange": "RM 750 - RM 1,400 / month",
+        "priceRangeAr": "750 - 1,400 رينجيت / شهرياً",
+        "distance": "Tepat di samping kampus (1 menit)",
+        "amenities": [
+          "Berdampingan langsung dengan kampus",
+          "Kafetaria & Food Court Halal",
+          "Lounge Belajar Komunal",
+          "Fasilitas Laundry Mandiri",
+          "Sistem Kartu Akses Aman"
+        ],
+        "amenitiesAr": [
+          "ملاصق لمباني الكليات مباشرة (دقيقة واحدة)",
+          "كافتيريا ومطاعم حلال متنوعة",
+          "قاعات استذكار ومطالعة مشتركة",
+          "مغاسل ملابس ذاتية متطورة",
+          "أنظمة أمان وبطاقات ذكية"
+        ],
+        "distanceAr": "ملاصق لمباني الحرم الجامعي مباشرة (دقيقة واحدة)",
+        "distanceEn": "Directly adjacent to campus (1 minute)"
+      },
+      {
+        "name": "Sun-U Apartment & Surrounding Condos",
+        "nameAr": "شقق صن-يو والأبراج السكنية المجاورة",
+        "type": "Fully Furnished Serviced Apartment",
+        "typeAr": "شقق فندقية مجهزة بالكامل مع خدمات ترفيهية",
+        "priceRange": "RM 600 - RM 1,100 / month",
+        "priceRangeAr": "600 - 1,100 رينجيت / شهرياً",
+        "distance": "7 menit jalan kaki dari kampus",
+        "amenities": [
+          "Dekat Sunway Pyramid & Toko 24 Jam",
+          "Perabotan Lengkap & Dapur",
+          "Kolam Renang & Jogging Track",
+          "Stasiun Bus BRT Sunway",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "قريب من مول صنواي ومتاجر 24 ساعة",
+          "مفروشة بالكامل ومطبخ متكامل",
+          "مسبح ومضمار للمشي والرياضة",
+          "ملاصقة لمحطة حافلات BRT السريعة",
+          "حراسة وأمن على مدار الساعة"
+        ],
+        "distanceAr": "7 دقائق سيراً على الأقدام إلى الحرم الجامعي",
+        "distanceEn": "7-minute walk to campus"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 800 - RM 1,600",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 700 - RM 1,000",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi & BRT Listrik",
+        "itemAr": "المواصلات وحافلات BRT الكهربائية",
+        "cost": "RM 80 - RM 150",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الخدمات والإنترنت",
+        "cost": "RM 90 - RM 160",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والترفيه",
+        "cost": "RM 250 - RM 500",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,920 - RM 3,410",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية / التمهيدي",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 24,000 - RM 30,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم الفني والتطبيقي",
+      "duration": "2 - 2.5 Years",
+      "avgFeePerYear": "RM 20,000 - RM 26,000"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس (الدرجة الجامعية الأولى)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 32,000 - RM 48,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير والدراسات العليا",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 35,000 - RM 45,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه والبحوث المتقدمة",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 22,000 - RM 30,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=5M1YrapDqIo",
+  "programs": [
+    {
+      "id": "sunway-bachelor-of-science-honours-in-computer-science",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Computer Science",
+      "nameAr": "بكالوريوس العلوم في Honours) in Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37665,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37665
+        },
+        {
+          "year": 2,
+          "fee": 37665
+        },
+        {
+          "year": 3,
+          "fee": 37665
+        }
+      ],
+      "totalTuitionFee": 112995,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-information-systems-honours-data-analytics",
+      "universityId": "sunway",
+      "name": "Bachelor of Information Systems (Honours) (Data Analytics)",
+      "nameAr": "بكالوريوس نظم المعلومات في Honours) (Data Analytics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37665,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37665
+        },
+        {
+          "year": 2,
+          "fee": 37665
+        },
+        {
+          "year": 3,
+          "fee": 37665
+        }
+      ],
+      "totalTuitionFee": 112995,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-information-technology",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Information Technology",
+      "nameAr": "بكالوريوس العلوم في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37665,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37665
+        },
+        {
+          "year": 2,
+          "fee": 37665
+        },
+        {
+          "year": 3,
+          "fee": 37665
+        }
+      ],
+      "totalTuitionFee": 112995,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bsc-hons-information-technology-computer-networking-and-security",
+      "universityId": "sunway",
+      "name": "BSc (Hons) Information Technology (Computer Networking and Security)",
+      "nameAr": "برنامج في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37665,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37665
+        },
+        {
+          "year": 2,
+          "fee": 37665
+        },
+        {
+          "year": 3,
+          "fee": 37665
+        }
+      ],
+      "totalTuitionFee": 112995,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-computing",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy (Computing)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-science-in-computer-science-by-research",
+      "universityId": "sunway",
+      "name": "Master of Science in Computer Science (by Research)",
+      "nameAr": "ماجستير العلوم في Computer Science (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-data-science-online-degree",
+      "universityId": "sunway",
+      "name": "Master of Data Science - Online Degree",
+      "nameAr": "ماجستير في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-science-in-information-systems",
+      "universityId": "sunway",
+      "name": "Master of Science in Information Systems",
+      "nameAr": "ماجستير العلوم في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-information-technology-dit",
+      "universityId": "sunway",
+      "name": "Diploma in Information Technology (DIT)",
+      "nameAr": "دبلوم تقنية المعلومات في DIT",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 28520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28520
+        },
+        {
+          "year": 2,
+          "fee": 28520
+        }
+      ],
+      "totalTuitionFee": 57040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-computer-science-dcsi",
+      "universityId": "sunway",
+      "name": "Diploma in Computer Science (DCSI)",
+      "nameAr": "دبلوم علوم الحاسب في DCSI",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 26660,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26660
+        },
+        {
+          "year": 2,
+          "fee": 26660
+        }
+      ],
+      "totalTuitionFee": 53320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honors-computer-science-artificial-intelligence",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honors) Computer Science (Artificial Intelligence)",
+      "nameAr": "بكالوريوس العلوم في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 25840,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25840
+        },
+        {
+          "year": 2,
+          "fee": 25840
+        },
+        {
+          "year": 3,
+          "fee": 25840
+        },
+        {
+          "year": 4,
+          "fee": 25840
+        }
+      ],
+      "totalTuitionFee": 103360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-statistical-data-modelling",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Statistical Data Modelling",
+      "nameAr": "بكالوريوس العلوم في Honours) in Statistical Data Modelling",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35400
+        },
+        {
+          "year": 2,
+          "fee": 35400
+        },
+        {
+          "year": 3,
+          "fee": 35400
+        }
+      ],
+      "totalTuitionFee": 106200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-artificial-intelligence",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Artificial Intelligence",
+      "nameAr": "بكالوريوس العلوم في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 40470,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40470
+        },
+        {
+          "year": 2,
+          "fee": 40470
+        },
+        {
+          "year": 3,
+          "fee": 40470
+        }
+      ],
+      "totalTuitionFee": 121410,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-in-advanced-computing",
+      "universityId": "sunway",
+      "name": "Master in Advanced Computing",
+      "nameAr": "ماجستير في Master in Advanced Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 44600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44600
+        }
+      ],
+      "totalTuitionFee": 44600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-in-artificial-intelligence",
+      "universityId": "sunway",
+      "name": "Master in Artificial Intelligence",
+      "nameAr": "ماجستير في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 44600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44600
+        }
+      ],
+      "totalTuitionFee": 44600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-science-in-actuarial-analytics",
+      "universityId": "sunway",
+      "name": "Master of Science in Actuarial Analytics",
+      "nameAr": "ماجستير العلوم في Actuarial Analytics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 44500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44500
+        }
+      ],
+      "totalTuitionFee": 44500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-conventions-and-events-management",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Conventions and Events Management",
+      "nameAr": "بكالوريوس العلوم في Honours) in Conventions and Events Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34155,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34155
+        },
+        {
+          "year": 2,
+          "fee": 34155
+        },
+        {
+          "year": 3,
+          "fee": 34155
+        }
+      ],
+      "totalTuitionFee": 102465,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-hons-in-culinary-management",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Hons) in Culinary Management",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Culinary Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34935,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34935
+        },
+        {
+          "year": 2,
+          "fee": 34935
+        },
+        {
+          "year": 3,
+          "fee": 34935
+        }
+      ],
+      "totalTuitionFee": 104805,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-international-hospitality-management",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in International Hospitality Management",
+      "nameAr": "بكالوريوس العلوم في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37535,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37535
+        },
+        {
+          "year": 2,
+          "fee": 37535
+        },
+        {
+          "year": 3,
+          "fee": 37535
+        }
+      ],
+      "totalTuitionFee": 112605,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-hons-in-accounting-and-finance",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Hons) in Accounting and Finance",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37080,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37080
+        },
+        {
+          "year": 2,
+          "fee": 37080
+        },
+        {
+          "year": 3,
+          "fee": 37080
+        }
+      ],
+      "totalTuitionFee": 111240,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-entrepreneurship",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) Entrepreneurship",
+      "nameAr": "بكالوريوس الآداب في Honours) Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37860,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37860
+        },
+        {
+          "year": 2,
+          "fee": 37860
+        },
+        {
+          "year": 3,
+          "fee": 37860
+        }
+      ],
+      "totalTuitionFee": 113580,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-business-analytics-hons",
+      "universityId": "sunway",
+      "name": "Bachelor of Business Analytics (Hons)",
+      "nameAr": "بكالوريوس الأعمال في Analytics (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34100
+        },
+        {
+          "year": 2,
+          "fee": 34100
+        },
+        {
+          "year": 3,
+          "fee": 34100
+        }
+      ],
+      "totalTuitionFee": 102300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-hons-in-finance",
+      "universityId": "sunway",
+      "name": "Bachelor (Hons) in Finance",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32220,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32220
+        },
+        {
+          "year": 2,
+          "fee": 32220
+        },
+        {
+          "year": 3,
+          "fee": 32220
+        }
+      ],
+      "totalTuitionFee": 96660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-global-supply-chain-management",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) Global Supply Chain Management",
+      "nameAr": "بكالوريوس العلوم في إدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34100
+        },
+        {
+          "year": 2,
+          "fee": 34100
+        },
+        {
+          "year": 3,
+          "fee": 34100
+        }
+      ],
+      "totalTuitionFee": 102300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-international-business",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in International Business",
+      "nameAr": "بكالوريوس العلوم في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34100
+        },
+        {
+          "year": 2,
+          "fee": 34100
+        },
+        {
+          "year": 3,
+          "fee": 34100
+        }
+      ],
+      "totalTuitionFee": 102300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-business-management",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Business Management",
+      "nameAr": "بكالوريوس العلوم في Honours) in Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34100
+        },
+        {
+          "year": 2,
+          "fee": 34100
+        },
+        {
+          "year": 3,
+          "fee": 34100
+        }
+      ],
+      "totalTuitionFee": 102300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-financial-analysis",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) Financial Analysis",
+      "nameAr": "بكالوريوس العلوم في Honours) Financial Analysis",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32220,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32220
+        },
+        {
+          "year": 2,
+          "fee": 32220
+        },
+        {
+          "year": 3,
+          "fee": 32220
+        }
+      ],
+      "totalTuitionFee": 96660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-marketing",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) Marketing",
+      "nameAr": "بكالوريوس العلوم في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34100
+        },
+        {
+          "year": 2,
+          "fee": 34100
+        },
+        {
+          "year": 3,
+          "fee": 34100
+        }
+      ],
+      "totalTuitionFee": 102300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-business-studies",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Business Studies",
+      "nameAr": "بكالوريوس العلوم في Honours) in Business Studies",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37860,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37860
+        },
+        {
+          "year": 2,
+          "fee": 37860
+        },
+        {
+          "year": 3,
+          "fee": 37860
+        }
+      ],
+      "totalTuitionFee": 113580,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-financial-economics",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) Financial Economics",
+      "nameAr": "بكالوريوس العلوم في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32220,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32220
+        },
+        {
+          "year": 2,
+          "fee": 32220
+        },
+        {
+          "year": 3,
+          "fee": 32220
+        }
+      ],
+      "totalTuitionFee": 96660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-business",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy (Business)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-business-administration",
+      "universityId": "sunway",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 22500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22500
+        },
+        {
+          "year": 2,
+          "fee": 22500
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-business-analytics-msba",
+      "universityId": "sunway",
+      "name": "Master of Business Analytics (MsBA)",
+      "nameAr": "ماجستير في Master of Business Analytics (MsBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-marketing",
+      "universityId": "sunway",
+      "name": "Master of Marketing",
+      "nameAr": "ماجستير في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 55200,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 55200
+        }
+      ],
+      "totalTuitionFee": 55200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-marketing-online-degree",
+      "universityId": "sunway",
+      "name": "Master of Marketing - Online Degree",
+      "nameAr": "ماجستير في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-philosophy-business-administration",
+      "universityId": "sunway",
+      "name": "Master of Philosophy (Business Administration)",
+      "nameAr": "ماجستير في Master of Philosophy (Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-in-hospitality-and-tourism",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy in Hospitality and Tourism",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Hospitality and Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-in-international-hospitality-management",
+      "universityId": "sunway",
+      "name": "Master in International  Hospitality Management",
+      "nameAr": "ماجستير في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-business-administration-dba",
+      "universityId": "sunway",
+      "name": "Diploma in Business Administration (DBA)",
+      "nameAr": "دبلوم إدارة الأعمال في DBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 26550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26550
+        },
+        {
+          "year": 2,
+          "fee": 26550
+        }
+      ],
+      "totalTuitionFee": 53100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-accounting-dacc",
+      "universityId": "sunway",
+      "name": "Diploma in Accounting (DACC)",
+      "nameAr": "دبلوم المحاسبة في DACC",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23940,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23940
+        },
+        {
+          "year": 2,
+          "fee": 23940
+        }
+      ],
+      "totalTuitionFee": 47880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-finance-dfin",
+      "universityId": "sunway",
+      "name": "Diploma in Finance (DFIN)",
+      "nameAr": "دبلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23940,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23940
+        },
+        {
+          "year": 2,
+          "fee": 23940
+        }
+      ],
+      "totalTuitionFee": 47880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-events-management",
+      "universityId": "sunway",
+      "name": "Diploma in Events Management",
+      "nameAr": "دبلوم في Events Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 26040,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26040
+        },
+        {
+          "year": 2,
+          "fee": 26040
+        }
+      ],
+      "totalTuitionFee": 52080,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-hotel-management",
+      "universityId": "sunway",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 25580,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25580
+        },
+        {
+          "year": 2,
+          "fee": 25580
+        }
+      ],
+      "totalTuitionFee": 51160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-certificate-in-business-studies",
+      "universityId": "sunway",
+      "name": "Certificate in Business Studies",
+      "nameAr": "برنامج في Certificate in Business Studies",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "certificate",
+      "duration": 1.5,
+      "annualFee": 12210,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12210
+        }
+      ],
+      "totalTuitionFee": 12210,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-international-preparatory-programme-ipp-business-and-communication",
+      "universityId": "sunway",
+      "name": "International Preparatory Programme (IPP) Business and Communication",
+      "nameAr": "برنامج في International Preparatory Programme (IPP) Business and Communication",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 0.6,
+      "annualFee": 9000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9000
+        }
+      ],
+      "totalTuitionFee": 9000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-victoria-university-bachelor-of-business",
+      "universityId": "sunway",
+      "name": "Victoria University Bachelor Of Business",
+      "nameAr": "بكالوريوس في Victoria University Bachelor Of Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30400
+        },
+        {
+          "year": 2,
+          "fee": 30400
+        },
+        {
+          "year": 3,
+          "fee": 30400
+        }
+      ],
+      "totalTuitionFee": 91200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honors-global-management",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honors) Global Management",
+      "nameAr": "بكالوريوس الآداب في Honors) Global Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21835,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21835
+        },
+        {
+          "year": 2,
+          "fee": 21835
+        },
+        {
+          "year": 3,
+          "fee": 21835
+        },
+        {
+          "year": 4,
+          "fee": 21835
+        }
+      ],
+      "totalTuitionFee": 87340,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-digital-entrepreneurship",
+      "universityId": "sunway",
+      "name": "Diploma in Digital Entrepreneurship",
+      "nameAr": "دبلوم في Digital Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 24150,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24150
+        },
+        {
+          "year": 2,
+          "fee": 24150
+        }
+      ],
+      "totalTuitionFee": 48300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-software-engineering-hons",
+      "universityId": "sunway",
+      "name": "Bachelor of  Software Engineering (Hons)",
+      "nameAr": "بكالوريوس في هندسة البرمجيات",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37665,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37665
+        },
+        {
+          "year": 2,
+          "fee": 37665
+        },
+        {
+          "year": 3,
+          "fee": 37665
+        }
+      ],
+      "totalTuitionFee": 112995,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-chemical-engineering-with-honours",
+      "universityId": "sunway",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 39540,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39540
+        },
+        {
+          "year": 2,
+          "fee": 39540
+        },
+        {
+          "year": 3,
+          "fee": 39540
+        },
+        {
+          "year": 4,
+          "fee": 39540
+        }
+      ],
+      "totalTuitionFee": 158160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-electronic-and-electrical-engineering-with-honours",
+      "universityId": "sunway",
+      "name": "Bachelor of Electronic and Electrical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 33150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33150
+        },
+        {
+          "year": 2,
+          "fee": 33150
+        },
+        {
+          "year": 3,
+          "fee": 33150
+        },
+        {
+          "year": 4,
+          "fee": 33150
+        }
+      ],
+      "totalTuitionFee": 132600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-phd-in-sustainable-development-by-research",
+      "universityId": "sunway",
+      "name": "PhD in Sustainable Development (By Research)",
+      "nameAr": "دكتوراه في Sustainable Development (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-in-sustainable-development-management",
+      "universityId": "sunway",
+      "name": "Master in Sustainable Development Management",
+      "nameAr": "ماجستير في Master in Sustainable Development Management",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 54600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54600
+        }
+      ],
+      "totalTuitionFee": 54600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-in-sustainability-science-and-technology",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy in Sustainability Science and Technology",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Sustainability Science and Technology",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-sunway-foundation-programme-foundation-in-science-and-technology-fist",
+      "universityId": "sunway",
+      "name": "Sunway Foundation Programme - Foundation in Science and Technology (FIST)",
+      "nameAr": "برنامج تمهيدي في Sunway Foundation Programme - Foundation in Science and Technology (FIST",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22800
+        }
+      ],
+      "totalTuitionFee": 22800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "sunway",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 40605,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40605
+        },
+        {
+          "year": 2,
+          "fee": 40605
+        },
+        {
+          "year": 3,
+          "fee": 40605
+        },
+        {
+          "year": 4,
+          "fee": 40605
+        }
+      ],
+      "totalTuitionFee": 162420,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-civil-engineering-with-honours",
+      "universityId": "sunway",
+      "name": "Bachelor of Civil  Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Civil Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 35280,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35280
+        },
+        {
+          "year": 2,
+          "fee": 35280
+        },
+        {
+          "year": 3,
+          "fee": 35280
+        },
+        {
+          "year": 4,
+          "fee": 35280
+        }
+      ],
+      "totalTuitionFee": 141120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-mechatronic-engineering-robotics-with-honours",
+      "universityId": "sunway",
+      "name": "Bachelor of Mechatronic Engineering (Robotics) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Mechatronic Engineering (Robotics) with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 36345,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36345
+        },
+        {
+          "year": 2,
+          "fee": 36345
+        },
+        {
+          "year": 3,
+          "fee": 36345
+        },
+        {
+          "year": 4,
+          "fee": 36345
+        }
+      ],
+      "totalTuitionFee": 145380,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-american-degree-transfer-programme-science-engineering",
+      "universityId": "sunway",
+      "name": "AMERICAN DEGREE TRANSFER PROGRAMME (SCIENCE/ENGINEERING)",
+      "nameAr": "برنامج في AMERICAN DEGREE TRANSFER PROGRAMME (SCIENCE/ENGINEERING",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 25500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25500
+        },
+        {
+          "year": 2,
+          "fee": 25500
+        }
+      ],
+      "totalTuitionFee": 51000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-international-preparatory-programme-ipp-computer-science-engineering-natural-sciences",
+      "universityId": "sunway",
+      "name": "International Preparatory Programme (IPP) ( Computer Science / Engineering / Natural Sciences )",
+      "nameAr": "برنامج في International Preparatory Programme (IPP) ( Computer Science / Engineering / Natural Sciences",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 0.6,
+      "annualFee": 9900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9900
+        }
+      ],
+      "totalTuitionFee": 9900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-in-architecture",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) in Architecture",
+      "nameAr": "بكالوريوس الآداب في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30430,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30430
+        },
+        {
+          "year": 2,
+          "fee": 30430
+        },
+        {
+          "year": 3,
+          "fee": 30430
+        }
+      ],
+      "totalTuitionFee": 91290,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-phd-in-medical-science",
+      "universityId": "sunway",
+      "name": "PhD in Medical Science",
+      "nameAr": "دكتوراه في Medical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 29580,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29580
+        },
+        {
+          "year": 2,
+          "fee": 29580
+        },
+        {
+          "year": 3,
+          "fee": 29580
+        }
+      ],
+      "totalTuitionFee": 88740,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-applied-behaviour-analysis",
+      "universityId": "sunway",
+      "name": "Master of Applied Behaviour Analysis",
+      "nameAr": "ماجستير في Master of Applied Behaviour Analysis",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 36300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36300
+        },
+        {
+          "year": 2,
+          "fee": 36300
+        }
+      ],
+      "totalTuitionFee": 72600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-in-medical-science",
+      "universityId": "sunway",
+      "name": "Master in Medical Science",
+      "nameAr": "ماجستير في Master in Medical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 21450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21450
+        },
+        {
+          "year": 2,
+          "fee": 21450
+        }
+      ],
+      "totalTuitionFee": 42900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-postgraduate-diploma-in-primary-care-for-elderly",
+      "universityId": "sunway",
+      "name": "Postgraduate Diploma In  Primary Care For Elderly",
+      "nameAr": "دبلوم في Postgraduate Diploma In Primary Care For Elderly",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-post-basic-certificate-in-intensive-care-nursing",
+      "universityId": "sunway",
+      "name": "Post Basic Certificate in Intensive Care Nursing",
+      "nameAr": "برنامج في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 0.5,
+      "annualFee": 12375,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12375
+        }
+      ],
+      "totalTuitionFee": 12375,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-post-basic-certificate-in-perioperative-nursing",
+      "universityId": "sunway",
+      "name": "Post Basic Certificate in  Perioperative Nursing",
+      "nameAr": "برنامج في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 0.6,
+      "annualFee": 12375,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12375
+        }
+      ],
+      "totalTuitionFee": 12375,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-nursing",
+      "universityId": "sunway",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 12975,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12975
+        },
+        {
+          "year": 2,
+          "fee": 12975
+        },
+        {
+          "year": 3,
+          "fee": 12975
+        }
+      ],
+      "totalTuitionFee": 38925,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-medicine-md",
+      "universityId": "sunway",
+      "name": "Doctor of Medicine (MD)",
+      "nameAr": "دكتوراه في Doctor of Medicine (MD",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 5,
+      "annualFee": 89170,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 89170
+        },
+        {
+          "year": 2,
+          "fee": 89170
+        },
+        {
+          "year": 3,
+          "fee": 89170
+        },
+        {
+          "year": 4,
+          "fee": 89170
+        },
+        {
+          "year": 5,
+          "fee": 89170
+        }
+      ],
+      "totalTuitionFee": 445850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-masters-of-counselling-clinical-mental-health",
+      "universityId": "sunway",
+      "name": "Masters of Counselling (Clinical Mental Health)",
+      "nameAr": "ماجستير في Masters of Counselling (Clinical Mental Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 40170,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40170
+        },
+        {
+          "year": 2,
+          "fee": 40170
+        }
+      ],
+      "totalTuitionFee": 80340,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-nursing-honours",
+      "universityId": "sunway",
+      "name": "Bachelor of Nursing (Honours)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18240,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18240
+        },
+        {
+          "year": 2,
+          "fee": 18240
+        },
+        {
+          "year": 3,
+          "fee": 18240
+        },
+        {
+          "year": 4,
+          "fee": 18240
+        }
+      ],
+      "totalTuitionFee": 72960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-counselling",
+      "universityId": "sunway",
+      "name": "Master of Counselling",
+      "nameAr": "ماجستير في Master of Counselling",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 36465,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36465
+        },
+        {
+          "year": 2,
+          "fee": 36465
+        }
+      ],
+      "totalTuitionFee": 72930,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-psychology",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Psychology",
+      "nameAr": "بكالوريوس العلوم في علم النفس",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 33880,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33880
+        },
+        {
+          "year": 2,
+          "fee": 33880
+        },
+        {
+          "year": 3,
+          "fee": 33880
+        }
+      ],
+      "totalTuitionFee": 101640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-in-mathematical-sciences",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy in Mathematical Sciences",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Mathematical Sciences",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-science-in-applied-mathematics",
+      "universityId": "sunway",
+      "name": "Master of Science in Applied Mathematics",
+      "nameAr": "ماجستير العلوم في Applied Mathematics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-science-in-mathematical-sciences-by-research",
+      "universityId": "sunway",
+      "name": "Master of Science in Mathematical Sciences (by research)",
+      "nameAr": "ماجستير العلوم في Mathematical Sciences (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-in-biology",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy in Biology",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Biology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 24900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24900
+        },
+        {
+          "year": 2,
+          "fee": 24900
+        },
+        {
+          "year": 3,
+          "fee": 24900
+        }
+      ],
+      "totalTuitionFee": 74700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-msc-in-life-sciences",
+      "universityId": "sunway",
+      "name": "MSc in Life Sciences",
+      "nameAr": "برنامج في MSc in Life Sciences",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-in-public-policy",
+      "universityId": "sunway",
+      "name": "Master in Public Policy",
+      "nameAr": "ماجستير في Master in Public Policy",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 47440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47440
+        }
+      ],
+      "totalTuitionFee": 47440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-in-psychology",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy in Psychology",
+      "nameAr": "دكتوراه الفلسفة (PhD) في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-msc-in-psychology",
+      "universityId": "sunway",
+      "name": "MSc in Psychology",
+      "nameAr": "برنامج في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-human-resource-management",
+      "universityId": "sunway",
+      "name": "Master of Human Resource Management",
+      "nameAr": "ماجستير في إدارة الموارد البشرية",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 1.3,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-postgraduate-certificate-in-higher-education-practice",
+      "universityId": "sunway",
+      "name": "Postgraduate Certificate in Higher Education Practice",
+      "nameAr": "برنامج في Postgraduate Certificate in Higher Education Practice",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "certificate",
+      "duration": 1.3,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-education",
+      "universityId": "sunway",
+      "name": "Doctor of Education",
+      "nameAr": "دكتوراه في Doctor of Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16260,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16260
+        },
+        {
+          "year": 2,
+          "fee": 16260
+        },
+        {
+          "year": 3,
+          "fee": 16260
+        }
+      ],
+      "totalTuitionFee": 48780,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-education-by-research",
+      "universityId": "sunway",
+      "name": "Master of Education by Research",
+      "nameAr": "ماجستير في Master of Education by Research",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-education-taught-course",
+      "universityId": "sunway",
+      "name": "Master of Education (Taught course)",
+      "nameAr": "ماجستير في Master of Education (Taught course",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 38000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38000
+        }
+      ],
+      "totalTuitionFee": 38000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-doctor-of-philosophy-in-education",
+      "universityId": "sunway",
+      "name": "Doctor of Philosophy in Education",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-contemporary-music-audio-technology",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours)  Contemporary Music (Audio Technology)",
+      "nameAr": "بكالوريوس الآداب في Honours) Contemporary Music (Audio Technology",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35910,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35910
+        },
+        {
+          "year": 2,
+          "fee": 35910
+        },
+        {
+          "year": 3,
+          "fee": 35910
+        }
+      ],
+      "totalTuitionFee": 107730,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-digital-film-production",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) Digital Film Production",
+      "nameAr": "بكالوريوس الآداب في Honours) Digital Film Production",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35130,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35130
+        },
+        {
+          "year": 2,
+          "fee": 35130
+        },
+        {
+          "year": 3,
+          "fee": 35130
+        }
+      ],
+      "totalTuitionFee": 105390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-in-interior-architecture",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) in Interior Architecture",
+      "nameAr": "بكالوريوس الآداب في الهندسة المعمارية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 30150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30150
+        },
+        {
+          "year": 2,
+          "fee": 30150
+        },
+        {
+          "year": 3,
+          "fee": 30150
+        }
+      ],
+      "totalTuitionFee": 90450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-music-performance",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) Music Performance",
+      "nameAr": "بكالوريوس الآداب في Honours) Music Performance",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 38580,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38580
+        },
+        {
+          "year": 2,
+          "fee": 38580
+        },
+        {
+          "year": 3,
+          "fee": 38580
+        }
+      ],
+      "totalTuitionFee": 115740,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-phd-in-creative-arts-and-media",
+      "universityId": "sunway",
+      "name": "PhD in Creative Arts and Media",
+      "nameAr": "دكتوراه في Creative Arts and Media",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16600
+        },
+        {
+          "year": 2,
+          "fee": 16600
+        },
+        {
+          "year": 3,
+          "fee": 16600
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-arts-in-creative-arts-and-media",
+      "universityId": "sunway",
+      "name": "Master of Arts in Creative Arts and Media",
+      "nameAr": "ماجستير في Master of Arts in Creative Arts and Media",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-master-of-arts-in-visual-communication-and-media-studies",
+      "universityId": "sunway",
+      "name": "Master of Arts in Visual Communication and Media Studies",
+      "nameAr": "ماجستير في Master of Arts in Visual Communication and Media Studies",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 44400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44400
+        }
+      ],
+      "totalTuitionFee": 44400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-sunway-foundation-programme-foundation-in-arts-fia",
+      "universityId": "sunway",
+      "name": "Sunway Foundation Programme - Foundation in Arts (FIA)",
+      "nameAr": "برنامج تمهيدي في Sunway Foundation Programme - Foundation in Arts (FIA",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21600,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21600
+        }
+      ],
+      "totalTuitionFee": 21600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-fashion-design-technology-dfdt",
+      "universityId": "sunway",
+      "name": "Diploma in Fashion Design Technology (DFDT)",
+      "nameAr": "دبلوم في Fashion Design Technology (DFDT",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 34100,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34100
+        },
+        {
+          "year": 2,
+          "fee": 34100
+        }
+      ],
+      "totalTuitionFee": 68200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-interior-design",
+      "universityId": "sunway",
+      "name": "Diploma in Interior Design",
+      "nameAr": "دبلوم في التصميم الداخلي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 25800,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25800
+        },
+        {
+          "year": 2,
+          "fee": 25800
+        }
+      ],
+      "totalTuitionFee": 51600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-performing-arts",
+      "universityId": "sunway",
+      "name": "Diploma in Performing Arts",
+      "nameAr": "دبلوم في Performing Arts",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 28430,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28430
+        },
+        {
+          "year": 2,
+          "fee": 28430
+        }
+      ],
+      "totalTuitionFee": 56860,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-culinary-arts",
+      "universityId": "sunway",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 28340,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28340
+        },
+        {
+          "year": 2,
+          "fee": 28340
+        }
+      ],
+      "totalTuitionFee": 56680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-in-theatre-production",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) in Theatre Production",
+      "nameAr": "بكالوريوس الآداب في Honours) in Theatre Production",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35130,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35130
+        },
+        {
+          "year": 2,
+          "fee": 35130
+        },
+        {
+          "year": 3,
+          "fee": 35130
+        }
+      ],
+      "totalTuitionFee": 105390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-in-psychology-honors",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts in Psychology (Honors)",
+      "nameAr": "بكالوريوس الآداب في علم النفس",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27550,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27550
+        },
+        {
+          "year": 2,
+          "fee": 27550
+        },
+        {
+          "year": 3,
+          "fee": 27550
+        },
+        {
+          "year": 4,
+          "fee": 27550
+        }
+      ],
+      "totalTuitionFee": 110200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-in-digital-communication-advertising-with-honors",
+      "universityId": "sunway",
+      "name": "Bachelor in Digital Communication Advertising With Honors",
+      "nameAr": "بكالوريوس في Bachelor in Digital Communication Advertising With Honors",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 25840,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25840
+        },
+        {
+          "year": 2,
+          "fee": 25840
+        },
+        {
+          "year": 3,
+          "fee": 25840
+        },
+        {
+          "year": 4,
+          "fee": 25840
+        }
+      ],
+      "totalTuitionFee": 103360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-american-degree-transfer-programme-arts",
+      "universityId": "sunway",
+      "name": "AMERICAN DEGREE TRANSFER PROGRAMME (ARTS)",
+      "nameAr": "برنامج في AMERICAN DEGREE TRANSFER PROGRAMME (ARTS",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 25500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25500
+        },
+        {
+          "year": 2,
+          "fee": 25500
+        }
+      ],
+      "totalTuitionFee": 51000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-fashion-media",
+      "universityId": "sunway",
+      "name": "Diploma in Fashion Media",
+      "nameAr": "دبلوم في Fashion Media",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 35250,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35250
+        },
+        {
+          "year": 2,
+          "fee": 35250
+        }
+      ],
+      "totalTuitionFee": 70500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-in-digital-media-design-with-honors",
+      "universityId": "sunway",
+      "name": "Bachelor in Digital Media Design with Honors",
+      "nameAr": "بكالوريوس في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26745,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26745
+        },
+        {
+          "year": 2,
+          "fee": 26745
+        },
+        {
+          "year": 3,
+          "fee": 26745
+        },
+        {
+          "year": 4,
+          "fee": 26745
+        }
+      ],
+      "totalTuitionFee": 106980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-in-advertising-and-branding",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) in Advertising and Branding",
+      "nameAr": "بكالوريوس الآداب في Honours) in Advertising and Branding",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 36300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36300
+        },
+        {
+          "year": 2,
+          "fee": 36300
+        },
+        {
+          "year": 3,
+          "fee": 36300
+        }
+      ],
+      "totalTuitionFee": 108900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-hons-in-communication",
+      "universityId": "sunway",
+      "name": "Bachelor (Hons) in Communication",
+      "nameAr": "بكالوريوس في Bachelor (Hons) in Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 36300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36300
+        },
+        {
+          "year": 2,
+          "fee": 36300
+        },
+        {
+          "year": 3,
+          "fee": 36300
+        }
+      ],
+      "totalTuitionFee": 108900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-arts-honours-design-communication",
+      "universityId": "sunway",
+      "name": "Bachelor of Arts (Honours) Design Communication",
+      "nameAr": "بكالوريوس الآداب في Honours) Design Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42600
+        },
+        {
+          "year": 2,
+          "fee": 42600
+        },
+        {
+          "year": 3,
+          "fee": 42600
+        }
+      ],
+      "totalTuitionFee": 127800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-communication-dcom",
+      "universityId": "sunway",
+      "name": "Diploma in Communication (DCOM)",
+      "nameAr": "دبلوم في Communication (DCOM",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 26775,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26775
+        },
+        {
+          "year": 2,
+          "fee": 26775
+        }
+      ],
+      "totalTuitionFee": 53550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-interactive-new-media-dinm",
+      "universityId": "sunway",
+      "name": "Diploma in Interactive New Media (DINM)",
+      "nameAr": "دبلوم في Interactive New Media (DINM",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 26775,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26775
+        },
+        {
+          "year": 2,
+          "fee": 26775
+        }
+      ],
+      "totalTuitionFee": 53550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-digital-creative-content-ddcc",
+      "universityId": "sunway",
+      "name": "Diploma in Digital Creative Content (DDCC)",
+      "nameAr": "دبلوم في Digital Creative Content (DDCC",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 29155,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29155
+        },
+        {
+          "year": 2,
+          "fee": 29155
+        }
+      ],
+      "totalTuitionFee": 58310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-diploma-in-graphic-multimedia-design",
+      "universityId": "sunway",
+      "name": "Diploma in Graphic & Multimedia Design",
+      "nameAr": "دبلوم في Graphic & Multimedia Design",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 24600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24600
+        },
+        {
+          "year": 2,
+          "fee": 24600
+        }
+      ],
+      "totalTuitionFee": 49200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-certificate-in-digital-creative-content",
+      "universityId": "sunway",
+      "name": "Certificate in Digital Creative Content",
+      "nameAr": "برنامج في Certificate in Digital Creative Content",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "certificate",
+      "duration": 1.5,
+      "annualFee": 14200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14200
+        }
+      ],
+      "totalTuitionFee": 14200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-hons-in-actuarial-studies",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Hons) in Actuarial Studies",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Actuarial Studies",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35400
+        },
+        {
+          "year": 2,
+          "fee": 35400
+        },
+        {
+          "year": 3,
+          "fee": 35400
+        }
+      ],
+      "totalTuitionFee": 106200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-in-industrial-statistics",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) in Industrial Statistics",
+      "nameAr": "بكالوريوس العلوم في Honours) in Industrial Statistics",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31000
+        },
+        {
+          "year": 2,
+          "fee": 31000
+        },
+        {
+          "year": 3,
+          "fee": 31000
+        }
+      ],
+      "totalTuitionFee": 93000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-of-science-honours-biomedicine",
+      "universityId": "sunway",
+      "name": "Bachelor of Science (Honours) Biomedicine",
+      "nameAr": "بكالوريوس العلوم في Honours) Biomedicine",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 41620,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41620
+        },
+        {
+          "year": 2,
+          "fee": 41620
+        },
+        {
+          "year": 3,
+          "fee": 41620
+        }
+      ],
+      "totalTuitionFee": 124860,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-bachelor-hons-medical-biotechnology",
+      "universityId": "sunway",
+      "name": "Bachelor (Hons) Medical Biotechnology",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35520,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35520
+        },
+        {
+          "year": 2,
+          "fee": 35520
+        },
+        {
+          "year": 3,
+          "fee": 35520
+        }
+      ],
+      "totalTuitionFee": 106560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-cambridge-gce-advanced-level-a-level",
+      "universityId": "sunway",
+      "name": "Cambridge Gce Advanced-Level (A-Level)",
+      "nameAr": "برنامج في Cambridge Gce Advanced-Level (A-Level",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 1.6,
+      "annualFee": 31950,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31950
+        }
+      ],
+      "totalTuitionFee": 31950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-australian-matriculation-programme-ausmat",
+      "universityId": "sunway",
+      "name": "Australian Matriculation Programme (AUSMAT)",
+      "nameAr": "برنامج في Australian Matriculation Programme (AUSMAT",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 39513,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39513
+        }
+      ],
+      "totalTuitionFee": 39513,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-canadian-international-matriculation-programme-cimp",
+      "universityId": "sunway",
+      "name": "Canadian International Matriculation Programme (CIMP)",
+      "nameAr": "برنامج في Canadian International Matriculation Programme (CIMP",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 34800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34800
+        }
+      ],
+      "totalTuitionFee": 34800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-monash-university-foundation-year-mufy",
+      "universityId": "sunway",
+      "name": "Monash University Foundation Year (MUFY)",
+      "nameAr": "برنامج تمهيدي في Monash University Foundation Year (MUFY",
+      "field": "business",
+      "category": "Other",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 27600,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27600
+        }
+      ],
+      "totalTuitionFee": 27600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-association-of-chartered-certified-accountants-acca",
+      "universityId": "sunway",
+      "name": "Association of Chartered Certified Accountants (ACCA)",
+      "nameAr": "برنامج في Association of Chartered Certified Accountants (ACCA",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 16870,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16870
+        },
+        {
+          "year": 2,
+          "fee": 16870
+        }
+      ],
+      "totalTuitionFee": 33740,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "sunway-acca-foundation-in-accountancy-acca-fia",
+      "universityId": "sunway",
+      "name": "ACCA Foundation In Accountancy (ACCA FIA)",
+      "nameAr": "برنامج تمهيدي في ACCA Foundation In Accountancy (ACCA FIA",
+      "field": "business",
+      "category": "Other",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 43740,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43740
+        }
+      ],
+      "totalTuitionFee": 43740,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 123
+}

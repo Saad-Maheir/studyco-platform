@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="id">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="assets/js/lang-init.js?v=88.0"></script>
+<title data-i18n="ss_page_title">خدمات الطلاب وما بعد الوصول — StudyCo | رعاية واستقبال وسكن جامعي</title>
+<meta content="خدمات متكاملة للطلاب المبتعثين: استقبال المطار، حجز السكن الطلابي، فتح الحساب البنكي، الشريحة، والإرشاد في أستراليا، ماليزيا، بريطانيا، كندا." name="description" data-i18n-attr="content:ss_meta_desc"/>
+<meta content="خدمات الطلاب وما بعد الوصول — StudyCo" property="og:title"/>
+<meta content="خدمات متكاملة للطلاب المبتعثين: استقبال المطار، حجز السكن الطلابي، فتح الحساب البنكي، الشريحة، والإرشاد." property="og:description"/>
+<meta content="id" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<link href="assets/photo/favicon.png" rel="icon" type="image/png"/>
+<meta name="robots" content="index, follow"/>
+<!-- Local Web Fonts -->
+<link href="assets/css/fonts.css?v=88.0" rel="stylesheet"/>
+<!-- Main Stylesheet -->
+<link href="assets/css/main.css?v=88.0" rel="stylesheet"/>
+<!-- Student Services & Post-Arrival Care Stylesheet -->
+<link href="assets/css/student-services.css?v=88.0" rel="stylesheet"/>
+</head>
+<body data-meta-key="student-services">
+<header class="site-header" id="site-header">
+<div class="container header-container">
+<!-- Mobile Hamburger Button -->
+<button aria-controls="mobile-nav-drawer" aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger-btn" id="hamburger-btn">
+ <span class="hamburger-bar"></span>
+ <span class="hamburger-bar"></span>
+ <span class="hamburger-bar"></span>
+</button>
+
+<a aria-label="StudyCo Education Services" class="brand-logo" href="index.html" id="header-logo-link">
+ <img alt="StudyCo Education Services" height="48" id="header-logo-img" src="assets/photo/logo.webp" width="160"/>
+</a>
+
+<nav class="main-nav" id="main-nav">
+<ul class="nav-menu" id="nav-menu">
+ <li class="nav-item">
+ <a class="nav-link" href="index.html#hero" id="nav-home-link">
+ <span data-i18n="nav_home">Beranda</span>
+ </a>
+ </li>
+ <li class="nav-item">
+ <a class="nav-link" href="universities.html" id="nav-study-link">
+ <span data-i18n="nav_study_abroad">Studi Luar Negeri</span>
+ <svg class="dropdown-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+ </a>
+ <div class="dropdown-menu mega-menu">
+ <div class="mega-menu-col">
+ <div class="mega-menu-heading">
+ <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><line x1="2" x2="22" y1="12" y2="12"></line><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path></svg>
+ <span data-i18n="nav_menu_col_destinations">Negara Tujuan Studi</span>
+ </div>
+ <a class="mega-menu-dest-link" href="universities.html?country=malaysia">
+ <span class="dest-left">
+ <img src="assets/photo/flag-malaysia.svg" alt="Malaysia" class="dest-flag" width="20" height="14">
+ <span data-i18n="dest_malaysia">Malaysia</span>
+ </span>
+ <span class="dest-badge">42</span>
+ </a>
+ <a class="mega-menu-dest-link" href="universities.html?country=australia">
+ <span class="dest-left">
+ <img src="assets/photo/flag-australia.svg" alt="Australia" class="dest-flag" width="20" height="14">
+ <span data-i18n="dest_australia">Australia</span>
+ </span>
+ <span class="dest-badge">40</span>
+ </a>
+ <a class="mega-menu-dest-link" href="universities.html?country=uk">
+ <span class="dest-left">
+ <img src="assets/photo/flag-uk.svg" alt="United Kingdom" class="dest-flag" width="20" height="14">
+ <span data-i18n="dest_uk">United Kingdom</span>
+ </span>
+ <span class="dest-badge">40</span>
+ </a>
+ <a class="mega-menu-dest-link" href="universities.html?country=canada">
+ <span class="dest-left">
+ <img src="assets/photo/flag-canada.svg" alt="Canada" class="dest-flag" width="20" height="14">
+ <span data-i18n="dest_canada">Canada</span>
+ </span>
+ <span class="dest-badge">40</span>
+ </a>
+ <a class="mega-menu-dest-link" href="universities.html?country=newzealand">
+ <span class="dest-left">
+ <img src="assets/photo/flag-newzealand.svg" alt="New Zealand" class="dest-flag" width="20" height="14">
+ <span data-i18n="dest_newzealand">New Zealand</span>
+ </span>
+ <span class="dest-badge">8</span>
+ </a>
+ <a class="mega-menu-dest-link" href="universities.html?country=singapore">
+ <span class="dest-left">
+ <img src="assets/photo/flag-singapore.svg" alt="Singapore" class="dest-flag" width="20" height="14">
+ <span data-i18n="dest_singapore">Singapura</span>
+ </span>
+ <span class="dest-badge">20</span>
+ </a>
+ <a class="mega-menu-dest-all" href="destinations.html">
+ <span data-i18n="nav_destinations_all">Jelajahi Semua Negara Tujuan →</span>
+ </a>
+ </div>
+ <div class="mega-menu-col">
+ <div class="mega-menu-heading">
+ <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+ <span data-i18n="nav_menu_col_explore">Eksplorasi &amp; Alat Bantu</span>
+ </div>
+ <a class="mega-menu-card" href="search.html">
+ <span class="mega-menu-card-title">
+ <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+ <span data-i18n="nav_search_programs">Mesin Pencari Program</span>
+ </span>
+ <span class="mega-menu-card-sub" data-i18n="nav_search_programs_sub">Cari lebih dari 1.900 jurusan &amp; biaya kuliah resmi</span>
+ </a>
+ <a class="mega-menu-tool-link" href="universities.html">
+ <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 21h18M3 7v14M21 7v14M6 7V4a1 1 0 011-1h10a1 1 0 011 1v3M9 11v6M15 11v6"></path></svg>
+ <span data-i18n="nav_all_universities">Direktori Universitas Mitra (190)</span>
+ </a>
+ <a class="mega-menu-tool-link" href="compare.html">
+ <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"></path></svg>
+ <span data-i18n="nav_compare">Bandingkan Universitas</span>
+ </a>
+ <a class="mega-menu-tool-link" href="language-centers.html">
+ <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><path d="M2 12h20M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"></path></svg>
+ <span data-i18n="lc_page_title">Pusat Bahasa &amp; Persiapan IELTS</span>
+ </a>
+ <a class="mega-menu-tool-link" data-wa-general="" href="#" style="color: #25D366; font-weight: 700;">
+ <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984a9.964 9.964 0 001.333 4.993L2 22l5.233-1.237a9.96 9.96 0 004.779 1.217h.004c5.505 0 9.988-4.478 9.989-9.984 0-2.669-1.038-5.176-2.925-7.062A9.925 9.925 0 0012.012 2z"></path></svg>
+ <span data-i18n="btn_free_consultation">Konsultasi Gratis via WhatsApp</span>
+ </a>
+ </div>
+ </div>
+ </li>
+ <li class="nav-item">
+ <a class="nav-link" href="language-centers.html" id="nav-english-link">
+ <span data-i18n="nav_english">Kursus Bahasa</span>
+ <svg class="dropdown-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+ </a>
+ <ul class="dropdown-menu">
+ <li><a class="dropdown-link" data-i18n="nav_english_sub1" href="language-centers.html">Pusat Bahasa &amp; IELTS</a></li>
+ </ul>
+ </li>
+ <li class="nav-item">
+ <a class="nav-link" href="online-degrees.html" id="nav-online-link">
+ <span data-i18n="nav_online_degrees">Gelar Online</span>
+ <svg class="dropdown-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+ </a>
+ <ul class="dropdown-menu">
+ <li><a class="dropdown-link" data-i18n="nav_online_degrees_sub1" href="online-degrees.html?level=bachelor">Program Sarjana Online</a></li>
+ <li><a class="dropdown-link" data-i18n="nav_online_degrees_sub2" href="online-degrees.html?level=master">Program Magister (MBA)</a></li>
+ </ul>
+ </li>
+ <li class="nav-item">
+<a class="nav-link" href="student-services.html" id="nav-services-link">
+<span data-i18n="nav_student_services">Layanan</span>
+<svg class="dropdown-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+</a>
+<ul class="dropdown-menu">
+<li><a class="dropdown-link" href="student-services.html" style="font-weight:800; color:#f5b000;" data-i18n="ss_nav_all_hub">بوابة وباقات خدمات الطلاب (الرئيسية)</a></li>
+<li><a class="dropdown-link" href="student-services.html#packages-section" style="font-weight:700;" data-i18n="ss_nav_packages_tier">باقات الوصول الشاملة (3 باقات مخصصة)</a></li>
+<li><a class="dropdown-link" href="service-airport-pickup.html" data-i18n="ss_service_1_nav">استقبال المطار والاستقرار</a></li>
+<li><a class="dropdown-link" href="service-accommodation.html" data-i18n="ss_service_2_nav">السكن الطلابي المعتمد</a></li>
+<li><a class="dropdown-link" href="service-essential-activations.html" data-i18n="ss_service_3_nav">التفعيلات (بنك وشريحة ومواصلات)</a></li>
+<li><a class="dropdown-link" href="service-orientation.html" data-i18n="ss_service_5_nav">برنامج التوجيه وجولة المدينة</a></li>
+<li><a class="dropdown-link" href="service-job-placement.html" data-i18n="ss_service_6_nav">التوجيه الوظيفي وفرص العمل</a></li>
+<li><a class="dropdown-link" href="service-family-support.html" data-i18n="ss_service_7_nav">مرافقة العائلة والوصاية الطلابية</a></li>
+</ul>
+</li>
+ <li class="nav-item">
+ <a class="nav-link" href="index.html#footer" id="nav-about-link">
+ <span data-i18n="nav_about">Tentang Kami</span>
+ <svg class="dropdown-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+ </a>
+ <ul class="dropdown-menu">
+ <li><a class="dropdown-link" data-i18n="nav_about_sub1" href="index.html#footer">Profil StudyCo</a></li>
+ <li><a class="dropdown-link" data-i18n="nav_about_sub2" href="index.html#footer">Tim &amp; Konsultan</a></li>
+<li><a class="dropdown-link" data-i18n="nav_agent_portal" href="agent-portal.html" style="font-weight:700; color:#f5b000;">بوابة الوكلاء المعتمدين</a></li>
+ </ul>
+ </li>
+</ul>
+</nav>
+
+<div class="header-actions">
+ <div class="lang-selector" id="header-lang-selector">
+ <button aria-controls="lang-menu" aria-expanded="false" aria-haspopup="true" aria-label="Language selector" class="lang-btn" id="header-lang-btn">
+ <svg aria-hidden="true" class="globe-icon" fill="none" stroke="currentColor" stroke-width="2" viewbox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><line x1="2" x2="22" y1="12" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+ <span class="lang-btn-text" data-i18n="lang_label">Bahasa</span>
+ <svg aria-hidden="true" class="dropdown-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+ </button>
+ <ul aria-labelledby="header-lang-btn" class="lang-menu" id="lang-menu" role="menu">
+ <li class="lang-item" role="none"><button data-lang="id" role="menuitem"><span class="lang-name">Indonesia</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="en" role="menuitem"><span class="lang-name">English</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="ar" role="menuitem"><span class="lang-name">العربية</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="ko" role="menuitem"><span class="lang-name">한국어</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="ja" role="menuitem"><span class="lang-name">日本語</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="zh" role="menuitem"><span class="lang-name">中文 (简体)</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="ru" role="menuitem"><span class="lang-name">Русский</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="fr" role="menuitem"><span class="lang-name">Français</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ <li class="lang-item" role="none"><button data-lang="es" role="menuitem"><span class="lang-name">Español</span><svg aria-hidden="true" class="check-icon" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></button></li>
+ </ul>
+ </div>
+ <a class="btn-whatsapp-header" data-wa-general="" href="#" id="btn-header-wa"><span class="btn-wa-text" data-i18n="btn_free_consultation">Konsultasi</span><svg class="wa-icon" viewBox="0 0 24 24"><path d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984a9.964 9.964 0 001.333 4.993L2 22l5.233-1.237a9.96 9.96 0 004.779 1.217h.004c5.505 0 9.988-4.478 9.989-9.984 0-2.669-1.038-5.176-2.925-7.062A9.925 9.925 0 0012.012 2z"></path></svg></a>
+</div>
+</div>
+</header>
+
+<!-- Mobile Navigation Drawer -->
+<!-- Mobile Navigation Drawer & Backdrop -->
+<div class="mobile-nav-backdrop" id="mobile-nav-backdrop"></div>
+<aside aria-label="Mobile Navigation" class="mobile-nav-drawer" id="mobile-nav-drawer">
+  <div class="mobile-drawer-header">
+    <a class="mobile-drawer-brand" href="index.html">
+      <img alt="StudyCo Logo" height="32" src="assets/photo/logo.webp" width="110" decoding="async" />
+    </a>
+    <button aria-label="Close menu" class="mobile-drawer-close" id="mobile-drawer-close">
+      <svg fill="none" height="22" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" width="22"><line x1="18" x2="6" y1="6" y2="18"></line><line x1="6" x2="18" y1="6" y2="18"></line></svg>
+    </button>
+  </div>
+  <div class="mobile-drawer-body">
+    <ul class="mobile-nav-list">
+      <!-- 1. الرئيسية / Home -->
+      <li class="mobile-nav-item">
+        <a class="mobile-nav-link" href="index.html">
+          <span data-i18n="nav_home">Beranda</span>
+        </a>
+      </li>
+
+      <!-- 2. الدراسة في الخارج / Study Abroad (Accordion) -->
+      <li class="mobile-nav-item has-accordion">
+        <button aria-expanded="false" class="mobile-accordion-toggle">
+          <span data-i18n="nav_study_abroad">Studi Luar Negeri</span>
+          <svg class="accordion-arrow" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <ul class="mobile-sub-menu">
+          <li style="font-size:0.75rem; font-weight:800; color:var(--color-primary); padding:0.4rem 2rem; margin-top:0.4rem;" data-i18n="nav_menu_col_destinations">Negara Tujuan Studi</li>
+          <li><a class="mobile-sub-link" href="universities.html?country=malaysia"><span data-i18n="dest_malaysia">Malaysia</span></a></li>
+          <li><a class="mobile-sub-link" href="universities.html?country=australia"><span data-i18n="dest_australia">Australia</span></a></li>
+          <li><a class="mobile-sub-link" href="universities.html?country=uk"><span data-i18n="dest_uk">United Kingdom</span></a></li>
+          <li><a class="mobile-sub-link" href="universities.html?country=canada"><span data-i18n="dest_canada">Canada</span></a></li>
+          <li><a class="mobile-sub-link" href="universities.html?country=newzealand"><span data-i18n="dest_newzealand">New Zealand</span></a></li>
+          <li><a class="mobile-sub-link" href="universities.html?country=singapore"><span data-i18n="dest_singapore">Singapura</span></a></li>
+          <li><a class="mobile-sub-link" href="destinations.html" style="font-weight:700; color:var(--color-primary);" data-i18n="nav_destinations_all">Jelajahi Semua Negara Tujuan →</a></li>
+
+          <li style="font-size:0.75rem; font-weight:800; color:var(--color-primary); padding:0.4rem 2rem; margin-top:0.6rem; border-top:1px dashed #e2e8f0;" data-i18n="nav_menu_col_tools">Eksplorasi & Program</li>
+          <li><a class="mobile-sub-link" href="search.html" data-i18n="nav_search_programs">Mesin Pencari Program</a></li>
+          <li><a class="mobile-sub-link" href="universities.html" data-i18n="nav_all_universities">Direktori Universitas Mitra (190)</a></li>
+          <li><a class="mobile-sub-link" href="compare.html" data-i18n="nav_compare">Bandingkan Universitas</a></li>
+        </ul>
+      </li>
+
+      <!-- 3. تعلم اللغة الإنجليزية / English Courses -->
+      <li class="mobile-nav-item">
+        <a class="mobile-nav-link" href="language-centers.html">
+          <span data-i18n="nav_english">Kursus Bahasa</span>
+        </a>
+      </li>
+
+      <!-- 4. الدرجات الجامعية أونلاين / Online Degrees -->
+      <li class="mobile-nav-item">
+        <a class="mobile-nav-link" href="online-degrees.html">
+          <span data-i18n="nav_online_degrees">Gelar Online</span>
+        </a>
+      </li>
+
+      <!-- 5. خدمات الطلاب / Student Services (Accordion) -->
+      <li class="mobile-nav-item has-accordion">
+        <button aria-expanded="false" class="mobile-accordion-toggle">
+          <span data-i18n="nav_student_services">Layanan</span>
+          <svg class="accordion-arrow" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <ul class="mobile-sub-menu">
+          <li><a class="mobile-sub-link" href="student-services.html" style="font-weight:800; color:var(--color-primary);" data-i18n="ss_nav_all_hub">بوابة وباقات خدمات الطلاب (الرئيسية)</a></li>
+          <li><a class="mobile-sub-link" href="student-services.html#packages-section" style="font-weight:700; color:var(--color-black);" data-i18n="ss_nav_packages_tier">باقات الوصول الشاملة (3 باقات مخصصة)</a></li>
+          <li style="font-size:0.75rem; font-weight:800; color:var(--color-primary); padding:0.4rem 2rem; margin-top:0.4rem;" data-i18n="ss_nav_services_header">خدمات ما بعد الوصول الـ 6 المعتمدة:</li>
+          <li><a class="mobile-sub-link" href="service-airport-pickup.html" data-i18n="ss_service_1_nav">استقبال وتوصيل المطار</a></li>
+          <li><a class="mobile-sub-link" href="service-accommodation.html" data-i18n="ss_service_2_nav">تأمين السكن الطلابي المعتمد</a></li>
+          <li><a class="mobile-sub-link" href="service-essential-activations.html" data-i18n="ss_service_3_nav">التفعيلات الأساسية (شريحة وبنك)</a></li>
+          <li><a class="mobile-sub-link" href="service-orientation.html" data-i18n="ss_service_5_nav">برنامج التوجيه وجولة المدينة</a></li>
+          <li><a class="mobile-sub-link" href="service-job-placement.html" data-i18n="ss_service_6_nav">المساعدة في فرص العمل والتدريب</a></li>
+          <li><a class="mobile-sub-link" href="service-family-support.html" data-i18n="ss_service_7_nav">دعم ومرافقة العائلات والوصاية</a></li>
+        </ul>
+      </li>
+
+      <!-- 6. عن المنصة / About Us (Accordion) -->
+      <li class="mobile-nav-item has-accordion">
+        <button aria-expanded="false" class="mobile-accordion-toggle">
+          <span data-i18n="nav_about">Tentang Kami</span>
+          <svg class="accordion-arrow" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </button>
+        <ul class="mobile-sub-menu">
+          <li><a class="mobile-sub-link" data-i18n="nav_about_sub1" href="index.html#footer">Profil StudyCo</a></li>
+          <li><a class="mobile-sub-link" data-i18n="nav_about_sub2" href="index.html#footer">Tim &amp; Konsultan</a></li>
+<li><a class="mobile-sub-link" data-i18n="nav_agent_portal" href="agent-portal.html" style="font-weight:700; color:#f5b000;">بوابة الوكلاء المعتمدين</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="mobile-drawer-footer">
+    <a class="btn-mobile-wa" data-wa-general="" href="#">
+      <svg class="wa-icon" height="20" viewBox="0 0 24 24" width="20"><path d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984a9.964 9.964 0 001.333 4.993L2 22l5.233-1.237a9.96 9.96 0 004.779 1.217h.004c5.505 0 9.988-4.478 9.989-9.984 0-2.669-1.038-5.176-2.925-7.062A9.925 9.925 0 0012.012 2z"></path></svg>
+      <span data-i18n="btn_free_consultation">Konsultasi Gratis</span>
+    </a>
+  </div>
+</aside>
+
+<main>
+ <!-- Hero Section -->
+ <section class="ss-hero" id="ss-hero">
+ <div class="container ss-hero-container">
+ <div class="ss-hero-text">
+          <h1 class="ss-hero-title" data-i18n="ss_hero_title">
+ نرافقك من باب الطائرة وحتى <span>أول يوم في جامعتك</span>
+ </h1>
+ <p class="ss-hero-sub" data-i18n="ss_hero_sub">
+ خدمات متكاملة لاستقبال المطار، تأمين السكن الطلابي المعتمد، فتح الحساب البنكي، وشريحة الاتصال المحلية لتنعم ببداية دراسية آمنة ومريحة في 6 دول معتمدة.
+ </p>
+ <div class="ss-hero-actions">
+ <a class="btn-ss-primary" href="#booking-form-section">
+ <span data-i18n="ss_btn_book_now">احجز باقتك الآن عبر واتساب</span>
+ <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984a9.964 9.964 0 001.333 4.993L2 22l5.233-1.237a9.96 9.96 0 004.779 1.217h.004c5.505 0 9.988-4.478 9.989-9.984 0-2.669-1.038-5.176-2.925-7.062A9.925 9.925 0 0012.012 2z"/></svg>
+ </a>
+ <a class="btn-ss-secondary" href="#services-section">
+ <span data-i18n="ss_btn_explore_services">استكشف الخدمات الـ 6</span>
+ <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+ </a>
+ </div>
+ </div>
+
+ <div class="ss-hero-visual">
+ <div class="ss-visual-card">
+ <!-- Illustrative Banner Image Requested by Client -->
+ <div class="ss-visual-img-box">
+ <img src="assets/photo/services/airport_pickup.jpg" alt="Student Arrival Support" class="ss-visual-hero-img" loading="eager" decoding="async">
+ <span class="ss-visual-floating-badge" data-i18n="ss_visual_badge"> رعاية متكاملة 360°</span>
+ </div>
+
+ <h4 style="color:#0f172a; font-weight:800; margin-bottom:1rem; font-size:1.15rem; display:flex; align-items:center; gap:8px;">
+ <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#f5b000" stroke-width="2.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+ <span data-i18n="ss_visual_title">خدمات ما بعد الوصول الأساسية:</span>
+ </h4>
+
+ <ul class="ss-visual-list">
+ <li class="ss-visual-item">
+ <div class="ss-visual-icon">
+ <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+ </div>
+ <div>
+ <h5 data-i18n="ss_visual_item1_title">استقبال المطار الفردي</h5>
+ <p data-i18n="ss_visual_item1_desc">مندوب رسمي باللوحة وتوصيل مباشر للسكن بسيارة خاصة</p>
+ </div>
+ </li>
+ <li class="ss-visual-item">
+ <div class="ss-visual-icon">
+ <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+ </div>
+ <div>
+ <h5 data-i18n="ss_visual_item2_title">السكن الطلابي المعتمد</h5>
+ <p data-i18n="ss_visual_item2_desc">عقود إيجار رسمية، جولات فيديو 360°، وحماية ودائع التأمين</p>
+ </div>
+ </li>
+ <li class="ss-visual-item">
+ <div class="ss-visual-icon">
+ <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>
+ </div>
+ <div>
+ <h5 data-i18n="ss_visual_item3_title">التفعيلات البنكية وشريحة 5G</h5>
+ <p data-i18n="ss_visual_item3_desc">إنهاء الحساب البنكي والاتصالات وبطاقة المواصلات في 48 ساعة</p>
+ </div>
+ </li>
+ <li class="ss-visual-item">
+ <div class="ss-visual-icon">
+ <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+ </div>
+ <div>
+ <h5 data-i18n="ss_visual_item4_title">جولة المدينة والجامعة 24/7</h5>
+ <p data-i18n="ss_visual_item4_desc">تدريب على المواصلات والمطاعم الحلال وخط طوارئ دائم</p>
+ </div>
+ </li>
+ </ul>
+ </div>
+ </div>
+ </div>
+ </section>
+
+ <!-- Stats Section -->
+ <section class="ss-stats-section" id="ss-stats-section">
+ <div class="container">
+ <div class="ss-stats-grid" id="ss-stats-grid">
+ <!-- Rendered dynamically -->
+ </div>
+ </div>
+ </section>
+
+ <!-- Core Services Section -->
+ <section class="ss-services-section" id="services-section">
+ <div class="container">
+ <div class="ss-section-header">
+ <span class="ss-sec-badge" data-i18n="ss_services_badge">خدماتنا الست الكبرى للطلاب</span>
+ <h2 class="ss-sec-title" data-i18n="ss_services_heading">خدماتنا الست الكبرى للطلاب</h2>
+ <p class="ss-sec-desc" data-i18n="ss_services_subheading">حلول عملية معتمدة تضمن استقرارك وراحتك منذ اللحظة الأولى لوصولك</p>
+ </div>
+
+ <div class="ss-services-grid" id="ss-services-grid">
+ <!-- Rendered dynamically -->
+ </div>
+ </div>
+ </section>
+
+ <!-- Interactive Timeline Section -->
+ <section class="ss-timeline-section" id="timeline-section">
+ <div class="container">
+ <div class="ss-section-header">
+ <span class="ss-sec-badge" data-i18n="ss_timeline_heading">خريطة رحلة الطالب</span>
+ <h2 class="ss-sec-title" data-i18n="ss_timeline_heading">خريطة رحلة الطالب: خطوتك نحو الاستقرار</h2>
+ <p class="ss-sec-desc" data-i18n="ss_timeline_subheading">من صدور التأشيرة وحتى مقاعد الدراسة الجامعية بكل ثقة</p>
+ </div>
+
+ <div class="ss-timeline-steps" id="ss-timeline-steps">
+ <!-- Rendered dynamically -->
+ </div>
+ </div>
+ </section>
+
+ <!-- Packages Section -->
+ <section class="ss-packages-section" id="packages-section">
+ <div class="container">
+ <div class="ss-section-header">
+ <span class="ss-sec-badge" data-i18n="ss_packages_heading">باقات خدمات الوصول</span>
+ <h2 class="ss-sec-title" data-i18n="ss_packages_heading">باقات خدمات الوصول المصممة خصيصاً لك</h2>
+ <p class="ss-sec-desc" data-i18n="ss_packages_subheading">اختر الباقة المناسبة لاحتياجاتك واستفد من أسعار تفضيلية وخدمة شاملة</p>
+ </div>
+
+ <div class="ss-packages-grid" id="ss-packages-grid">
+ <!-- Rendered dynamically -->
+ </div>
+ </div>
+ </section>
+
+ <!-- Booking Form Section -->
+ <section class="ss-form-section" id="booking-form-section">
+ <div class="container">
+ <div class="ss-section-header">
+ <span class="ss-sec-badge" data-i18n="ss_form_heading">حجز واستشارة سريعة</span>
+ <h2 class="ss-sec-title" data-i18n="ss_form_heading">طلب حجز واستشارة خدمة الوصول والسكن</h2>
+ <p class="ss-sec-desc" data-i18n="ss_form_subheading">املأ بيانات رحلتك وسيتم فتح محادثة فورية منسقة مع مستشارك عبر واتساب</p>
+ </div>
+
+ <div class="ss-form-card">
+ <form id="ss-booking-form">
+ <div class="ss-form-grid">
+ <div class="ss-form-group">
+ <label for="ss-input-name" data-i18n="ss_form_name_label">الاسم الكامل للطالب</label>
+ <input type="text" id="ss-input-name" class="ss-form-control" placeholder="مثال: أحمد محمد علي" data-i18n-placeholder="ss_form_name_placeholder" required>
+ </div>
+
+ <div class="ss-form-group">
+ <label for="ss-input-phone" data-i18n="ss_form_phone_label">رقم الجوال مع مفتاح الدولة</label>
+ <input type="tel" id="ss-input-phone" class="ss-form-control" placeholder="+966 50 123 4567" data-i18n-placeholder="ss_form_phone_placeholder" required>
+ </div>
+
+ <div class="ss-form-group">
+ <label for="ss-input-country" data-i18n="ss_form_country_label">دولة الدراسة المقصودة</label>
+ <select id="ss-input-country" class="ss-form-control" required>
+ <option value="ماليزيا (Malaysia)">ماليزيا (Malaysia)</option>
+ <option value="أستراليا (Australia)">أستراليا (Australia)</option>
+ <option value="المملكة المتحدة (UK)">المملكة المتحدة (UK)</option>
+ <option value="كندا (Canada)">كندا (Canada)</option>
+ <option value="سنغافورة (Singapore)">سنغافورة (Singapore)</option>
+ <option value="نيوزيلندا (New Zealand)">نيوزيلندا (New Zealand)</option>
+ </select>
+ </div>
+
+ <div class="ss-form-group">
+ <label for="ss-input-date" data-i18n="ss_form_date_label">تاريخ الوصول المتوقع</label>
+ <input type="date" id="ss-input-date" class="ss-form-control">
+ </div>
+
+ <div class="ss-form-group full-width">
+ <label for="ss-input-service" data-i18n="ss_form_service_label">الخدمة أو الباقة المطلوبة</label>
+ <select id="ss-input-service" class="ss-form-control" required>
+ <option value="باقة السكن والاستقرار (Comfort Housing & Arrival)">باقة السكن والاستقرار (Comfort Housing & Arrival) </option>
+ <option value="باقة الوصول الأساسية (Essential Arrival Package)">باقة الوصول الأساسية (Essential Arrival Package)</option>
+ <option value="باقة الرعاية الشاملة VIP (All-Inclusive VIP Mentorship)">باقة الرعاية الشاملة VIP (All-Inclusive VIP Mentorship) </option>
+ <option value="استقبال المطار والتوصيل فقط">استقبال المطار والتوصيل فقط (Airport Pickup Only)</option>
+ <option value="تأمين وحجز السكن الطلابي فقط">تأمين وحجز السكن الطلابي فقط (Housing Placement Only)</option>
+ <option value="استشارة مخصصة عامة">استشارة مخصصة عامة (Custom Inquiry)</option>
+ </select>
+ </div>
+
+ <div class="ss-form-group full-width">
+ <label for="ss-input-notes" data-i18n="ss_form_notes_label">ملاحظات إضافية أو اسم الجامعة ورقم الرحلة</label>
+ <textarea id="ss-input-notes" class="ss-form-control" rows="3" placeholder="اكتب اسم الجامعة أو التخصص أو أي طلبات خاصة..." data-i18n-placeholder="ss_form_notes_placeholder"></textarea>
+ </div>
+ </div>
+
+ <button type="submit" class="btn-submit-booking">
+ <span data-i18n="ss_form_submit">إرسال الطلب والتواصل عبر واتساب </span>
+ <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984a9.964 9.964 0 001.333 4.993L2 22l5.233-1.237a9.96 9.96 0 004.779 1.217h.004c5.505 0 9.988-4.478 9.989-9.984 0-2.669-1.038-5.176-2.925-7.062A9.925 9.925 0 0012.012 2z"/></svg>
+ </button>
+ </form>
+ </div>
+ </div>
+ </section>
+
+ <!-- FAQ Section -->
+ <section class="ss-faq-section" id="faq-section">
+ <div class="container">
+ <div class="ss-section-header">
+ <span class="ss-sec-badge" data-i18n="ss_faq_heading">الأسئلة الشائعة</span>
+ <h2 class="ss-sec-title" data-i18n="ss_faq_heading">الأسئلة الشائعة حول خدمات الاستقبال والسكن</h2>
+ <p class="ss-sec-desc" data-i18n="ss_faq_subheading">إجابات شافية على أهم تساؤلات الطلاب وأولياء الأمور قبل السفر</p>
+ </div>
+
+ <div class="ss-faqs-accordion" id="ss-faqs-accordion">
+ <!-- Rendered dynamically -->
+ </div>
+ </div>
+ </section>
+
+ <!-- Final CTA Section -->
+ <section class="ss-cta-section">
+ <div class="container">
+ <div class="ss-cta-box">
+ <span class="ss-badge-pill" data-i18n="ss_cta_badge">فريقنا بانتظارك في المطار</span>
+ <h2 class="ss-cta-title" data-i18n="ss_cta_title">جاهز لبدء رحلتك الدراسية بأمان وراحة بال؟</h2>
+ <p class="ss-cta-desc" data-i18n="ss_cta_desc">تواصل مع مستشار الوصول في StudyCo لترتيب استقبالك وحجز سكنك في دقائق معدودة.</p>
+ <a class="btn-ss-primary" data-wa-general="" href="#">
+ <span data-i18n="btn_free_consultation">تواصل معنا عبر واتساب الآن</span>
+ <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984a9.964 9.964 0 001.333 4.993L2 22l5.233-1.237a9.96 9.96 0 004.779 1.217h.004c5.505 0 9.988-4.478 9.989-9.984 0-2.669-1.038-5.176-2.925-7.062A9.925 9.925 0 0012.012 2z"/></svg>
+ </a>
+ </div>
+ </div>
+ </section>
+</main>
+
+<!-- Footer -->
+<footer class="site-footer" id="footer">
+<div class="container">
+<div class="footer-grid-container">
+ <!-- Col 1: Brand & Social -->
+ <div class="footer-col footer-brand-col">
+ <a href="index.html" class="footer-logo-link" aria-label="StudyCo Education Services">
+ <img src="assets/photo/logo-dark.webp" alt="StudyCo Logo" width="180" height="52" style="height:44px; width:auto; display:block;" decoding="async" loading="lazy">
+ </a>
+ <p class="footer-brand-desc" data-i18n="footer_desc">
+ StudyCo adalah layanan pendidikan internasional terpercaya yang menghubungkan pelajar ke universitas terbaik di Malaysia, Australia, Inggris, Kanada, Selandia Baru, dan Singapura.
+ </p>
+ <div class="footer-social-row">
+ <a href="https://www.instagram.com/studyco.id?igsh=MTllN2oxeHl1YmIx&igsi=MTllN2oxeHl1YmIx&utm_source=qr" target="_blank" rel="noopener noreferrer" class="footer-social-btn" aria-label="Instagram" title="Instagram @studyco.id">
+ <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M7.0301.084c-1.2768.0602-2.1487.264-2.911.5634-.7888.3075-1.4575.72-2.1228 1.3877-.6652.6677-1.075 1.3368-1.3802 2.127-.2954.7638-.4956 1.6365-.552 2.914-.0564 1.2775-.0689 1.6882-.0626 4.947.0062 3.2586.0206 3.6671.0825 4.9473.061 1.2765.264 2.1482.5635 2.9107.308.7889.72 1.4573 1.388 2.1228.6679.6655 1.3365 1.0743 2.1285 1.38.7632.295 1.6361.4961 2.9134.552 1.2773.056 1.6884.069 4.9462.0627 3.2578-.0062 3.668-.0207 4.9478-.0814 1.28-.0607 2.147-.2652 2.9098-.5633.7889-.3086 1.4578-.72 2.1228-1.3881.665-.6682 1.0745-1.3378 1.3795-2.1284.2957-.7632.4966-1.636.552-2.9124.056-1.2809.0692-1.6898.063-4.948-.0063-3.2583-.021-3.6668-.0817-4.9465-.0607-1.2797-.264-2.1487-.5633-2.9117-.3084-.7889-.72-1.4568-1.3876-2.1228C21.2982 1.33 20.628.9208 19.8378.6165 19.074.321 18.2017.1197 16.9244.0645 15.6471.0093 15.236-.005 11.977.0014 8.718.0076 8.31.0215 7.0301.0844m.1402 21.6932c-1.17-.0509-1.8053-.2453-2.2287-.408-.5606-.216-.96-.4771-1.3819-.895-.422-.4178-.6811-.8186-.9-1.378-.1644-.4234-.3624-1.058-.4171-2.228-.0595-1.2645-.072-1.6442-.079-4.848-.007-3.2037.0053-3.583.0607-4.848.05-1.169.2456-1.805.408-2.2282.216-.5613.4762-.96.895-1.3816.4188-.4217.8184-.6814 1.3783-.9003.423-.1651 1.0575-.3614 2.227-.4171 1.2655-.06 1.6447-.072 4.848-.079 3.2033-.007 3.5835.005 4.8495.0608 1.169.0508 1.8053.2445 2.228.408.5608.216.96.4754 1.3816.895.4217.4194.6816.8176.9005 1.3787.1653.4217.3617 1.056.4169 2.2263.0602 1.2655.0739 1.645.0796 4.848.0058 3.203-.0055 3.5834-.061 4.848-.051 1.17-.245 1.8055-.408 2.2294-.216.5604-.4763.96-.8954 1.3814-.419.4215-.8181.6811-1.3783.9-.4224.1649-1.0577.3617-2.2262.4174-1.2656.0595-1.6448.072-4.8493.079-3.2045.007-3.5825-.006-4.848-.0608M16.953 5.5864A1.44 1.44 0 1 0 18.39 4.144a1.44 1.44 0 0 0-1.437 1.4424M5.8385 12.012c.0067 3.4032 2.7706 6.1557 6.173 6.1493 3.4026-.0065 6.157-2.7701 6.1506-6.1733-.0065-3.4032-2.771-6.1565-6.174-6.1498-3.403.0067-6.156 2.771-6.1496 6.1738M8 12.0077a4 4 0 1 1 4.008 3.9921A3.9996 3.9996 0 0 1 8 12.0077"/></svg>
+ </a>
+ <a href="https://www.facebook.com/share/1ByT4TSRj3/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" class="footer-social-btn" aria-label="Facebook" title="Facebook StudyCo">
+ <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+ </a>
+ <a href="https://www.tiktok.com/@studyco.id?_r=1&_t=ZS-98w7jcS2jmG" target="_blank" rel="noopener noreferrer" class="footer-social-btn" aria-label="TikTok" title="TikTok @studyco.id">
+ <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 1 1-5.2-1.74 2.89 2.89 0 0 1 2.31-2.83V7.59a6.34 6.34 0 1 0 6.34 6.34V9.32a8.28 8.28 0 0 0 4.77 1.52V7.4a4.85 4.85 0 0 1-1-.71z"/></svg>
+ </a>
+ </div>
+ </div>
+
+ <!-- Col 2: Study Destinations (6 Approved Countries) -->
+ <div class="footer-col">
+ <h4 class="footer-col-title" data-i18n="footer_col_destinations_title">Negara Tujuan Studi</h4>
+ <ul class="footer-links-list">
+ <li class="footer-link-item"><a href="universities.html?country=malaysia"><span></span> <span data-i18n="dest_malaysia">Malaysia</span> (42)</a></li>
+ <li class="footer-link-item"><a href="universities.html?country=australia"><span></span> <span data-i18n="dest_australia">Australia</span> (40)</a></li>
+ <li class="footer-link-item"><a href="universities.html?country=uk"><span></span> <span data-i18n="dest_uk">United Kingdom</span> (40)</a></li>
+ <li class="footer-link-item"><a href="universities.html?country=canada"><span></span> <span data-i18n="dest_canada">Canada</span> (40)</a></li>
+ <li class="footer-link-item"><a href="universities.html?country=newzealand"><span></span> <span data-i18n="dest_newzealand">New Zealand</span> (8)</a></li>
+ <li class="footer-link-item"><a href="universities.html?country=singapore"><span></span> <span data-i18n="dest_singapore">Singapura</span> (20)</a></li>
+ <li class="footer-link-item"><a href="destinations.html" class="footer-link-highlight" data-i18n="nav_destinations_all">Jelajahi Semua Negara Tujuan →</a></li>
+              </ul>
+ </div>
+
+ <!-- Col 3: Programs & Academic Tools -->
+ <div class="footer-col">
+ <h4 class="footer-col-title" data-i18n="footer_col_programs_title">Program & Alat Akademik</h4>
+ <ul class="footer-links-list">
+ <li class="footer-link-item"><a href="search.html" class="footer-link-highlight" data-i18n="nav_search_programs">Mesin Pencari Program Studi</a></li>
+ <li class="footer-link-item"><a href="universities.html" data-i18n="nav_all_universities">Direktori Universitas Mitra (190)</a></li>
+ <li class="footer-link-item"><a href="language-centers.html" data-i18n="footer_link_scholarships">معاهد اللغة والآيلتس</a></li>
+ <li class="footer-link-item"><a href="compare.html" data-i18n="nav_compare">Bandingkan Universitas</a></li>
+ <li class="footer-link-item"><a href="language-centers.html" data-i18n="lc_page_title">Pusat Bahasa Inggris & IELTS</a></li>
+ <li class="footer-link-item"><a href="online-degrees.html" data-i18n="nav_online_degrees">Gelar Akademik Online</a></li>
+       <li class="footer-link-item"><a href="agent-portal.html" class="footer-link-highlight" data-i18n="nav_agent_portal" style="color:#f5b000; font-weight:700;">بوابة الوكلاء المعتمدين</a></li>
+</ul>
+ </div>
+
+ <!-- Col 4: Official Contact & WhatsApp -->
+ <div class="footer-col">
+ <h4 class="footer-col-title" data-i18n="footer_col_contact_title">Layanan Pendaftaran & Kontak</h4>
+ <p class="footer-brand-desc" style="margin: 0; font-size: 0.85rem;" data-i18n="footer_contact_sub">
+ Tim ahli kami siap melayani Anda 24/7 untuk pendaftaran kuliah dan visa tanpa biaya konsultasi.
+ </p>
+ <ul class="footer-contact-list">
+ <li class="footer-contact-item">
+ <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+ <div>
+ <span style="display:block; font-size:0.75rem; color:#f5b000; font-weight:700;" data-i18n="footer_phone_label">WhatsApp Konsultasi Resmi</span>
+ <a href="https://wa.me/6281252223732" data-wa-general="" id="footer-wa-link" class="ltr-phone" dir="ltr" style="color:#ffffff; font-weight:700; direction:ltr !important; unicode-bidi:bidi-override !important; display:inline-block;"><bdi dir="ltr" class="ltr-phone" style="direction:ltr !important; unicode-bidi:bidi-override !important; display:inline-block;">+62 812-5222-3732</bdi></a>
+ </div>
+ </li>
+ <li class="footer-contact-item">
+ <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+ <div>
+ <span style="display:block; font-size:0.75rem; color:#f5b000; font-weight:700;" data-i18n="footer_email_label">Email Resmi</span>
+ <a href="mailto:info@studyco.id" style="color:#ffffff;">info@studyco.id</a>
+ </div>
+ </li>
+ <li class="footer-contact-item">
+ <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+ <span style="color:#c9d1d9;" data-i18n="footer_address_label">Kantor Pusat: Jl. Radin Inten II No. 18, Duren Sawit, Jakarta Timur 13430, Indonesia</span>
+ </li>
+ </ul>
+ </div>
+</div>
+
+<!-- Bottom Bar -->
+<div class="footer-bottom-bar">
+ <p>© 2026 StudyCo Education Services. <span data-i18n="footer_rights">Hak Cipta Dilindungi.</span></p>
+ <div class="footer-legal-links">
+ <a data-i18n="footer_privacy" href="index.html#footer">Kebijakan Privasi</a>
+ <a data-i18n="footer_terms" href="index.html#footer">Syarat &amp; Ketentuan</a>
+ </div>
+</div>
+</div>
+</footer>
+
+<!-- Main App Script -->
+<script src="assets/js/main.js?v=88.0" type="module"></script>
+<!-- Student Services Manager -->
+<script src="assets/js/student-services.js?v=88.0" type="module"></script>
+</body>
+</html>

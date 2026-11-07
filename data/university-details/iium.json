@@ -1,0 +1,6872 @@
+{
+  "id": "iium",
+  "slug": "iium",
+  "name": "International Islamic University Malaysia (IIUM)",
+  "arabicName": "الجامعة الإسلامية العالمية ماليزيا (IIUM)",
+  "city": "Gombak, Selangor",
+  "cityKey": "city_gombak",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-iium.svg",
+  "image": "assets/photo/campus_iium.jpg",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/ZWqNbeMFF8g",
+  "directWatchUrl": "https://www.youtube.com/watch?v=ZWqNbeMFF8g",
+  "website": "https://www.iium.edu.my/",
+  "offerLetterType": "Direct Official University Offer",
+  "ranking": "Rank 661-670 QS World University Rankings 2025",
+  "rankingBadgeKey": "iium_rank_badge",
+  "established": "1983",
+  "campusName": "Gombak Main Campus (Garden of Knowledge & Virtue)",
+  "studentCount": "30,000+ (from 117+ countries)",
+  "intakes": "Feb, Sep, Nov",
+  "feeRangeMin": 6720,
+  "feeRangeMax": 70000,
+  "currency": "MYR",
+  "majors": [
+    "islamic",
+    "engineering",
+    "law",
+    "business",
+    "cs",
+    "health",
+    "arts",
+    "architecture",
+    "education"
+  ],
+  "similarUniversities": [
+    "um",
+    "ukm",
+    "usm",
+    "upm"
+  ],
+  "totalProgramsCount": 182,
+  "description": "International Islamic University Malaysia (IIUM) is a premier public university established in 1983, sponsored by eight OIC member governments. IIUM uniquely integrates Islamic values with modern scientific education, boasting a vibrant multicultural student body representing over 117 countries.",
+  "descriptionAr": "الجامعة الإسلامية العالمية في ماليزيا (IIUM) صرح جامعي حكومي دولي رائد تأسس عام 1983 برعاية 8 دول إسلامية، وتجمع بتميز فريد بين القيم والأخلاق الإسلامية والعلوم والتقنيات الحديثة، وتضم مجتمعاً طلابياً عالمياً من أكثر من 117 دولة.",
+  "about": {
+    "ar": "تأسست الجامعة الإسلامية العالمية في ماليزيا (IIUM) عام 1983 برعاية الحكومة الماليزية ومنظمة التعاون الإسلامي (OIC) وثماني دول أعضاء. تشتهر الجامعة بحرمها الرئيسي الخلاب في جومباك المعروف بـ 'حديقة العلم والفضيلة' والمصمم على الطراز المعماري الإسلامي الحديث. تقدم IIUM برامج أكاديمية متميزة في الهندسة، القانون والشريعة، تكنولوجيا المعلومات، العلوم الطبية، وإدارة الأعمال باللغة الإنجليزية، مما يجعلها وجهة أولى للطلاب الدوليين من أكثر من 117 دولة حول العالم.",
+    "en": "Established in 1983, the International Islamic University Malaysia (IIUM) is an internationally renowned public university co-founded by the Malaysian Government and the Organization of Islamic Cooperation (OIC). Spread across a picturesque campus in Gombak, Selangor known as the 'Garden of Knowledge and Virtue', IIUM seamlessly integrates ethical and Islamic principles with modern scientific, engineering, medical, and legal disciplines. Fully taught in English, IIUM hosts over 30,000 students from more than 117 countries worldwide.",
+    "id": "Didirikan pada tahun 1983, International Islamic University Malaysia (IIUM) adalah universitas negeri terkemuka yang didirikan bersama oleh Pemerintah Malaysia dan Organisasi Kerja Sama Islam (OKI). Berlokasi di kampus Gombak yang asri ('Garden of Knowledge and Virtue'), IIUM memadukan nilai-nilai etika Islam dengan sains modern, teknik, kedokteran, dan hukum dengan bahasa pengantar bahasa Inggris penuh.",
+    "zh": "马来西亚国际伊斯兰大学（IIUM）成立于1983年，是由马来西亚政府及伊斯兰合作组织（OIC）多国政府联合创办的著名公立综合性大学。主校区坐落于雪兰莪鹅唛，以现代伊斯兰建筑与郁郁葱葱的自然生态融为一体而闻名，被称为“知识与美德的花园”。学校全英文授课，在工程、法律、商科及信息技术等领域享有盛誉，拥有来自117个国家的国际学生。",
+    "ru": "Международный исламский университет Малайзии (IIUM), основанный в 1983 году, является ведущим государственным исследовательским университетом. Расположенный в живописном кампусе Гомбак ('Сад знаний и добродетели'), IIUM гармонично сочетает высокие этические ценности с современным преподаванием инженерных наук, права, медицины и IT на английском языке.",
+    "fr": "Fondée en 1983, l'Université islamique internationale de Malaisie (IIUM) est une institution publique de premier plan parrainée par le gouvernement malaisien et l'OCI. Situé sur un campus verdoyant à Gombak, l'IIUM intègre des principes éthiques avec l'excellence scientifique moderne, attirant des étudiants de plus de 117 pays avec un enseignement 100% en anglais.",
+    "es": "Establecida en 1983, la Universidad Islámica Internacional de Malasia (IIUM) es una prestigiosa universidad pública que fusiona valores éticos con la vanguardia científica y tecnológica. Con su impresionante campus en Gombak y enseñanza íntegramente en inglés, acoge a más de 30,000 estudiantes de 117 naciones.",
+    "ja": "1983年に設立されたマレーシア国際イスラム大学（IIUM）は、マレーシア政府とOIC加盟国が共同設立した名門国立大学です。緑豊かなゴンバク・キャンパスを有し、全講義が英語で行われ、工学、法学、IT、医学など幅広い分野で117カ国以上の国際学生が学んでいます。",
+    "ko": "1983년에 설립된 말레이시아 국제 이슬람 대학교(IIUM)는 말레이시아 정부와 이슬람협력기구(OIC)가 공동 설립한 세계적인 명문 국립 종합대학교입니다. 곰박 캠퍼스의 아름다운 환경 속에서 공학, 법학, IT, 경영학 등 모든 과정을 100% 영어로 제공하며 117개국 이상의 다국적 학생이 재학 중입니다."
+  },
+  "facilities": [
+    {
+      "icon": "🕌",
+      "title": {
+        "en": "Sultan Haji Ahmad Shah Mosque (Campus Center)",
+        "ar": "مسجد السلطان حاجي أحمد شاه (قلب الحرم الجامعي)",
+        "id": "Masjid Sultan Haji Ahmad Shah (Pusat Kampus)",
+        "zh": "苏丹哈吉艾哈迈德沙阿大清真寺（校园核心）",
+        "ru": "Мечеть Султана Хаджи Ахмад Шаха",
+        "fr": "Mosquée Sultan Haji Ahmad Shah",
+        "es": "Mezquita Sultán Haji Ahmad Shah",
+        "ja": "スルタン・ハジ・アフマド・シャー・モスク",
+        "ko": "술탄 하지 아흐마드 샤 모스크"
+      }
+    },
+    {
+      "icon": "📚",
+      "title": {
+        "en": "Dar al-Hikmah Central Library (Over 2 Million Volumes)",
+        "ar": "مكتبة دار الحكمة المركزية (أكثر من مليوني كتاب ومورد)",
+        "id": "Perpustakaan Pusat Dar al-Hikmah",
+        "zh": "达尔希克玛中央图书馆（馆藏逾两百万册）",
+        "ru": "Центральная библиотека Дар аль-Хикма",
+        "fr": "Bibliothèque centrale Dar al-Hikmah",
+        "es": "Biblioteca Central Dar al-Hikmah",
+        "ja": "ダール・アル・ヒクマ中央図書館",
+        "ko": "다르 알 히크마 중앙 도서관"
+      }
+    },
+    {
+      "icon": "🧪",
+      "title": {
+        "en": "Advanced Engineering & Biotechnology Research Complexes",
+        "ar": "مجمعات أبحاث الهندسة المتقدمة والتقنيات الحيوية",
+        "id": "Kompleks Riset Teknik Canggih & Bioteknologi",
+        "zh": "先进工程与生物科技科研实验中心",
+        "ru": "Комплекс передовых инженерных исследований",
+        "fr": "Complexes de recherche en ingénierie avancée",
+        "es": "Complejos de investigación en ingeniería avanzada",
+        "ja": "最先端工学＆バイオテクノロジー研究複合施設",
+        "ko": "첨단 공학 및 생명공학 연구 복합단지"
+      }
+    },
+    {
+      "icon": "🏟️",
+      "title": {
+        "en": "Olympic Sports Stadium, Swimming Pools & Adventure Park",
+        "ar": "استاد رياضي أولمبي، مسابح أولمبية ومجمع الأنشطة الرياضية",
+        "id": "Stadion Olahraga Olimpiade & Kolam Renang",
+        "zh": "奥林匹克规格体育场、游泳馆及户外拓展中心",
+        "ru": "Олимпийский стадион и спортивные комплексы",
+        "fr": "Stade olympique et complexes sportifs",
+        "es": "Estadio deportivo olímpico y piscinas",
+        "ja": "オリンピック規格スタジアム＆プール複合施設",
+        "ko": "올림픽 규격 종합 경기장 및 수영장"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🌍",
+      "title": {
+        "en": "Premier International Public University in Malaysia",
+        "ar": "الجامعة الحكومية الدولية الأولى في ماليزيا",
+        "id": "Universitas Negeri Internasional Utama di Malaysia",
+        "zh": "马来西亚顶尖公立国际化综合大学",
+        "ru": "Ведущий международный государственный университет",
+        "fr": "Université publique internationale majeure en Malaisie",
+        "es": "Universidad pública internacional líder en Malasia",
+        "ja": "マレーシアを代表する国際公立総合大学",
+        "ko": "말레이시아 최고의 국제 국립 종합대학교"
+      },
+      "desc": {
+        "en": "Unique global charter with instruction 100% in English, recognized across the Commonwealth, Arab World, and USA.",
+        "ar": "ميثاق دولي فريد ودراسة باللغة الإنجليزية بالكامل، مع اعتماد واسع في دول الكومنولث، العالم العربي والولايات المتحدة.",
+        "id": "Piagam internasional unik dengan pengantar bahasa Inggris penuh diakui di Persemakmuran dan negara-negara Arab.",
+        "zh": "独特的国际化办学模式，全英语授课，学位获英联邦、阿拉伯世界及欧美全面认证。",
+        "ru": "Международный статус, 100% обучение на английском языке, признание дипломов по всему миру.",
+        "fr": "Statut international, cours 100% en anglais, diplômes reconnus mondialement.",
+        "es": "Estatus internacional, docencia 100% en inglés y reconocimiento global de títulos.",
+        "ja": "完全英語教育、英連邦および世界各国で高く認知される国際的学位。",
+        "ko": "100% 영어 수업과 영연방 및 전 세계에서 공식 인정받는 국제적 학위."
+      }
+    },
+    {
+      "icon": "🏆",
+      "title": {
+        "en": "Ahmad Ibrahim Kulliyyah of Laws (AIKOL) & Top Ranked Shariah",
+        "ar": "كلية أحمد إبراهيم للقانون (AIKOL) وصدارة كليات الشريعة",
+        "id": "Fakultas Hukum Ahmad Ibrahim (AIKOL) Kelas Dunia",
+        "zh": "著名的艾哈迈德易卜拉欣法学院（AIKOL）与伊斯兰研究",
+        "ru": "Юридический факультет Ахмада Ибрагима (AIKOL)",
+        "fr": "Faculté de droit Ahmad Ibrahim (AIKOL)",
+        "es": "Facultad de Derecho Ahmad Ibrahim (AIKOL)",
+        "ja": "世界屈指のアフマド・イブラヒム法学部（AIKOL）",
+        "ko": "세계적인 명성의 아흐마드 이브라힘 법과대학(AIKOL)"
+      },
+      "desc": {
+        "en": "Consistently ranked among the top law and theology institutions in Asia with world championship debating teams.",
+        "ar": "تعد من أعرق كليات القانون والشريعة في آسيا وتحصد فرقها بطولات المناظرات العالمية سنوياً.",
+        "id": "Secara konsisten menduduki peringkat teratas fakultas hukum di Asia dan juara debat dunia.",
+        "zh": "在亚洲法学与伊斯兰金融领域居顶尖地位，辩论队屡获世界辩论锦标赛冠军。",
+        "ru": "Признанный лидер в области права и теологии в Азии с победами на всемирных дебатах.",
+        "fr": "Classée parmi les meilleures facultés de droit d'Asie et championne du monde de débat.",
+        "es": "Líder asiático en derecho y finanzas éticas con galardones mundiales de debate.",
+        "ja": "アジア有数の法学教育機関であり、世界学生ディベート選手権でも優勝歴多数。",
+        "ko": "아시아 최고 수준의 법학 교육을 제공하며 세계 대학생 토론 대회 우승 경력을 보유합니다."
+      }
+    },
+    {
+      "icon": "💼",
+      "title": {
+        "en": "Global Leader in Islamic Banking & Finance",
+        "ar": "الريادة العالمية في الصيرفة والتمويل الإسلامي",
+        "id": "Pemimpin Global Perbankan & Keuangan Syariah",
+        "zh": "全球伊斯兰银行与金融管理领域的权威领航者",
+        "ru": "Мировой лидер в области исламского банкинга и финансов",
+        "fr": "Leader mondial en banque et finance islamique",
+        "es": "Líder global en finanzas y banca islámica",
+        "ja": "イスラム金融・銀行学における世界的リーダー",
+        "ko": "이슬람 금융 및 은행학 분야 세계적인 연구 리더"
+      },
+      "desc": {
+        "en": "IIUM Institute of Islamic Banking and Finance (IIiBF) produces top financial consultants for worldwide central banks.",
+        "ar": "معهد IIUM للصيرفة الإسلامية يخرج كبار الخبراء الماليين العاملين في البنوك المركزية والمؤسسات الدولية.",
+        "id": "Institut Perbankan dan Keuangan Syariah IIUM mencetak konsultan terkemuka untuk bank sentral dunia.",
+        "zh": "IIUM伊斯兰银行与金融研究所（IIiBF）为全球央行与金融跨国机构输送大批精英高管。",
+        "ru": "Институт IIiBF готовит ведущих финансовых экспертов для центральных банков мира.",
+        "fr": "L'Institut IIiBF forme des experts pour les banques centrales et multinationales.",
+        "es": "El instituto IIiBF forma a consultores financieros para bancos centrales de todo el mundo.",
+        "ja": "IIUMイスラム金融研究所（IIiBF）は世界各国の中央銀行や国際金融機関に人材を輩出。",
+        "ko": "IIiBF 연구소는 각국 중앙은행 및 글로벌 금융기관의 최고 전문가들을 양성합니다."
+      }
+    },
+    {
+      "icon": "🌱",
+      "title": {
+        "en": "UN Regional Centre of Expertise (RCE) on Education for Sustainable Development",
+        "ar": "مركز خبرة معتمد من الأمم المتحدة للتنمية المستدامة",
+        "id": "Pusat Keahlian Regional PBB (RCE) untuk Pembangunan Berkelanjutan",
+        "zh": "联合国可持续发展教育区域专业中心（RCE）",
+        "ru": "Региональный экспертный центр ООН (RCE) по устойчивому развитию",
+        "fr": "Centre régional d'expertise de l'ONU pour le développement durable",
+        "es": "Centro Regional de Expertos de la ONU en Desarrollo Sostenible",
+        "ja": "国連持続可能な開発教育地域拠点（RCE）認定",
+        "ko": "유엔 지속가능발전교육 지역전문센터(RCE) 공인"
+      },
+      "desc": {
+        "en": "Recipient of the UNESCO Sustainability Award for transforming campus life into an eco-friendly green ecosystem.",
+        "ar": "حائزة على جائزة اليونسكو للاستدامة لتحويل الحرم الجامعي إلى بيئة إيكولوجية خضراء مستدامة.",
+        "id": "Penerima Penghargaan Keberlanjutan UNESCO untuk ekosistem kampus ramah lingkungan.",
+        "zh": "荣获联合国教科文组织可持续发展大奖，全面践行绿色低碳智慧校园生态。",
+        "ru": "Лауреат премии ЮНЕСКО за экологические инициативы и зелёную экосистему кампуса.",
+        "fr": "Lauréat du prix UNESCO pour son écosystème de campus durable et vert.",
+        "es": "Galardonada por la UNESCO por su ecosistema de campus ecológico y sostenible.",
+        "ja": "ユネスコ・サステナビリティ賞を受賞した環境共生型エコキャンパス。",
+        "ko": "유네스코 지속가능경영상을 수상한 친환경 에코 캠퍼스를 자랑합니다."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from International Islamic University Malaysia (IIUM) internationally accredited and recognized?",
+        "ar": "هل شهادات الجامعة الإسلامية العالمية ماليزيا (IIUM) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari International Islamic University Malaysia (IIUM) diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, International Islamic University Malaysia (IIUM) is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، الجامعة الإسلامية العالمية ماليزيا (IIUM) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, International Islamic University Malaysia (IIUM) terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to International Islamic University Malaysia (IIUM)?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في الجامعة الإسلامية العالمية ماليزيا (IIUM)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke International Islamic University Malaysia (IIUM)?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from International Islamic University Malaysia (IIUM)?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في الجامعة الإسلامية العالمية ماليزيا (IIUM)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke International Islamic University Malaysia (IIUM)?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to International Islamic University Malaysia (IIUM) without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "en": "Complete Admissions & Student Visa Walkthrough for IIUM",
+        "ar": "دليل القبول الجامعي وتأشيرة الطالب خطوة بخطوة للجامعة الإسلامية العالمية",
+        "id": "Panduan Lengkap Pendaftaran & Visa Pelajar IIUM",
+        "zh": "IIUM 官方入学申请要求与马来西亚EMGS学生签证办理全流程指南",
+        "ru": "Полное руководство по поступлению и получению визы в IIUM",
+        "fr": "Guide complet d'admission et visa d'étudiant pour IIUM",
+        "es": "Guía completa de admisión y visado para la Universidad IIUM",
+        "ja": "IIUM 入学申請要件＆EMGS学生ビザ取得完全マニュアル",
+        "ko": "IIUM 공식 입학 요건 및 말레이시아 학생 비자 발급 가이드"
+      },
+      "summary": {
+        "en": "Step-by-step guidance on academic certificates, certified translations, EMGS processing, and medical clearance.",
+        "ar": "شرح مفصل لكيفية تصديق الشهادات، الفحص الطبي، واستخراج موافقة تأشيرة الطالب (eVAL) بسرعة وسلاسة.",
+        "id": "Panduan langkah demi langkah berkas akademik, proses EMGS, dan cek kesehatan.",
+        "zh": "详细拆解高中与本科学历公证、体检要求、EMGS反签信（eVAL）高效批复及抵马贴签流程。",
+        "ru": "Пошаговая инструкция по документам, переводу, визе EMGS и медицинскому освидетельствованию.",
+        "fr": "Explications pas à pas pour les relevés scolaires, le visa EMGS et l'arrivée en Malaisie.",
+        "es": "Instrucciones detalladas sobre legalización de títulos, visado EMGS y trámites sanitarios.",
+        "ja": "成績証明書の準備からEMGSビザ審査、健康診断、入国後の手続きまでを完全解説。",
+        "ko": "성적증명서 공증, EMGS 비자 승인 절차, 건강검진 및 입국 절차를 상세히 안내합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "en": "Living and Dining at IIUM: Mahallah Campus Life & Amenities",
+        "ar": "الحياة والسكن الطلابي في IIUM: تفاصيل مجمعات 'المحلة' والمرافق والخدمات",
+        "id": "Kehidupan dan Akomodasi di IIUM: Fasilitas Asrama Mahallah",
+        "zh": "探索IIUM校园生活：Mahallah学生公寓、清真美食文化与运动休闲设施",
+        "ru": "Студенческая жизнь в IIUM: общежития Mahallah и инфраструктура кампуса",
+        "fr": "Vivre à l'IIUM : hébergement Mahallah, restauration et installations",
+        "es": "Vida en el campus de IIUM: residencias Mahallah, alimentación e instalaciones",
+        "ja": "IIUMのキャンパスライフ：マハッラ学生寮の設備、食事環境、安全面を解説",
+        "ko": "IIUM 캠퍼스 라이프 완벽 분석: 마할라 기숙사, 할랄 식단 및 교내 편의시설"
+      },
+      "summary": {
+        "en": "Everything international students need to know about dormitory room types, Halal food courts, transport, and banking.",
+        "ar": "كل ما يحتاجه الطالب المغترب حول أسعار الغرف، المطاعم الحلال، شبكة المواصلات المتصلة بوسط كوالالمبور، والخدمات المصرفية.",
+        "id": "Informasi jenis kamar, kantin makanan halal, transportasi kampus, dan perbankan.",
+        "zh": "全面介绍宿舍房型配置、多元化清真餐饮广场、直达吉隆坡市区的轻轨交通网络与生活成本。",
+        "ru": "Обзор типов комнат, питания, транспорта до Куала-Лумпура и ежемесячных расходов.",
+        "fr": "Tout savoir sur les chambres, les restaurants halal, les transports et les banques.",
+        "es": "Información sobre tipos de habitaciones, comida halal, transporte y gastos cotidianos.",
+        "ja": "部屋のタイプ、ハラールフードコート、クアラルンプール市内へのアクセスなどを詳しく紹介。",
+        "ko": "기숙사 방 유형, 교내 할랄 푸드코트, 시내 연결 대중교통 및 유학 생활비 총정리."
+      }
+    },
+    {
+      "readTime": "6 min",
+      "title": {
+        "en": "Top Career Pathways for Engineering, IT & Law Graduates from IIUM",
+        "ar": "الآفاق الوظيفية والفرص العالمية لخريجي كليات الهندسة، التقنية والقانون بـ IIUM",
+        "id": "Peluang Karir Lulusan Teknik, IT & Hukum dari IIUM",
+        "zh": "IIUM毕业生就业前景：工程、IT、法律与伊斯兰金融人才的全球职场优势",
+        "ru": "Карьерные перспективы выпускников IIUM в сфере инженерии, IT и права",
+        "fr": "Débouchés professionnels pour les diplômés d'ingénierie, IT et droit de l'IIUM",
+        "es": "Oportunidades laborales para graduados de ingeniería, IT y derecho de IIUM",
+        "ja": "IIUM卒業生のキャリア展望：工学、IT、法学分野における高い就職実績",
+        "ko": "IIUM 졸업생 글로벌 진로: 공학, IT, 법학 및 금융 분야의 독보적 취업 경쟁력"
+      },
+      "summary": {
+        "en": "How IIUM alumni secure prominent roles across multinational corporations, tech giants, and international arbitration tribunals.",
+        "ar": "كيف يقتنص خريجو الجامعة وظائف مرموقة في الشركات التقنية متعددة الجنسيات، قطاعات الطاقة، ومراكز التحكيم الدولية.",
+        "id": "Bagaimana alumni IIUM menembus perusahaan multinasional dan lembaga internasional.",
+        "zh": "深度解读跨国科技巨头、能源央企及国际仲裁法院对IIUM全球毕业生的青睐度与核心竞争力。",
+        "ru": "Карьерные траектории выпускников в международных технологических и юридических компаниях.",
+        "fr": "Comment les anciens élèves intègrent les multinationales et les institutions internationales.",
+        "es": "Cómo los titulados consiguen puestos de alta responsabilidad en corporaciones globales.",
+        "ja": "多国籍企業やグローバルテック企業、国際仲裁機関で活躍する卒業生の強みを分析。",
+        "ko": "글로벌 다국적 기업, IT 테크 기업 및 국제기구로 진출하는 졸업생들의 성공 사례 분석."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "IIUM On-Campus Mahallah (Residential College)",
+        "nameAr": "المحلة السكنية الجامعية بالحرم (Mahallah)",
+        "type": "Single & Quad Standard Rooms (Ensuite Options)",
+        "typeAr": "غرف فردية ورباعية مجهزة بالكامل مع صالات دراسة",
+        "priceRange": "RM 300 - RM 750 / month",
+        "priceRangeAr": "300 - 750 رينجيت / شهرياً",
+        "distance": "Within Gombak Campus (Walking distance)",
+        "distanceAr": "داخل الحرم الجامعي بجومباك (مسافة مشي لدقائق)",
+        "distanceEn": "Inside Gombak Campus (Few minutes walk)",
+        "amenities": [
+          "24-Hour Campus Security",
+          "High-Speed Wi-Fi & Study Lounges",
+          "Halal Cafeterias & Convenience Marts",
+          "Laundry Facilities & Prayer Rooms",
+          "Free Campus Shuttle Buses"
+        ],
+        "amenitiesAr": [
+          "حراسة وأمن على مدار 24 ساعة",
+          "إنترنت سريع وصالات للمذاكرة والأنشطة",
+          "مطاعم وكافيتريات حلال ومتاجر متنوعة",
+          "مرافق غسيل ملابس ومصليات في كل مبنى",
+          "حافلات نقل جامعية مجانية داخل الحرم"
+        ]
+      },
+      {
+        "name": "Off-Campus Modern Condominiums (Gombak / Wangsa Maju)",
+        "nameAr": "أبراج سكنية وشقق فندقية حديثة خارج الحرم (جومباك / وانغسا ماجو)",
+        "type": "Private Condominium Rooms with Pool & Gym",
+        "typeAr": "غرف خاصة بشقق حديثة مع مسبح ونادٍ صحي",
+        "priceRange": "RM 700 - RM 1,400 / month",
+        "priceRangeAr": "700 - 1,400 رينجيت / شهرياً",
+        "distance": "5-10 minutes by RapidKL Bus / LRT",
+        "distanceAr": "5 إلى 10 دقائق بالحافلة أو المترو الخفيف (LRT)",
+        "distanceEn": "5-10 mins by feeder bus or LRT",
+        "amenities": [
+          "Swimming Pool & Modern Fitness Gym",
+          "24-Hour Guardhouse with Access Card",
+          "Air Conditioning & Fully Furnished",
+          "Direct Access to LRT Metro Stations"
+        ],
+        "amenitiesAr": [
+          "مسبح ونادٍ صحي رياضي حديث",
+          "حراسة أمنية مشددة وبوابات إلكترونية",
+          "تكييف كامل وفرش عصري",
+          "قرب مباشر من محطات مترو كوالالمبور الخفيف LRT"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "University On-Campus Housing / Mahallah",
+        "itemAr": "السكن الجامعي (المحلة)",
+        "cost": "RM 350 - RM 700",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Food & Daily Dining",
+        "itemAr": "الوجبات والطعام اليومي",
+        "cost": "RM 600 - RM 900",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportation & Campus Shuttles",
+        "itemAr": "المواصلات والتنقل",
+        "cost": "RM 100 - RM 200",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Mobile Data & Utilities",
+        "itemAr": "باقات الاتصالات وفواتير الخدمات",
+        "cost": "RM 80 - RM 150",
+        "itemKey": "living_exp_mobile"
+      },
+      {
+        "item": "Books & Academic Supplies",
+        "itemAr": "الكتب والمستلزمات الدراسية",
+        "cost": "RM 100 - RM 200",
+        "itemKey": "living_exp_books"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Bachelor's Degree",
+      "levelKey": "level_bachelor",
+      "levelAr": "درجة البكالوريوس",
+      "duration": "3 - 4 Years",
+      "durationYears": 4,
+      "avgFeePerYear": "RM 14,000 - RM 24,000"
+    },
+    {
+      "level": "Master's Degree (Coursework / Research)",
+      "levelKey": "level_master",
+      "levelAr": "درجة الماجستير",
+      "duration": "1.5 - 2 Years",
+      "durationYears": 2,
+      "avgFeePerYear": "RM 12,000 - RM 22,000"
+    },
+    {
+      "level": "PhD / Doctoral Degree",
+      "levelKey": "level_phd",
+      "levelAr": "درجة الدكتوراه",
+      "duration": "3 - 4 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 10,000 - RM 18,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "iium-bachelor-of-computer-science-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Computer Science (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14400,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14400
+        },
+        {
+          "year": 2,
+          "fee": 14400
+        },
+        {
+          "year": 3,
+          "fee": 14400
+        },
+        {
+          "year": 4,
+          "fee": 14400
+        }
+      ],
+      "totalTuitionFee": 57600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-information-technology-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Information Technology (Honours)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14400,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14400
+        },
+        {
+          "year": 2,
+          "fee": 14400
+        },
+        {
+          "year": 3,
+          "fee": 14400
+        },
+        {
+          "year": 4,
+          "fee": 14400
+        }
+      ],
+      "totalTuitionFee": 57600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-information-technology-by-coursework",
+      "universityId": "iium",
+      "name": "Master in Information Technology (By Coursework)",
+      "nameAr": "ماجستير تقنية المعلومات (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9450
+        },
+        {
+          "year": 2,
+          "fee": 9450
+        }
+      ],
+      "totalTuitionFee": 18900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-information-technology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Information Technology (Mixed Mode)",
+      "nameAr": "ماجستير تقنية المعلومات في Mixed Mode",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-library-and-information-science-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Library and Information Science (By Coursework)",
+      "nameAr": "ماجستير في Master of Library and Information Science (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9450
+        },
+        {
+          "year": 2,
+          "fee": 9450
+        }
+      ],
+      "totalTuitionFee": 18900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-library-and-information-science-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Library and Information Science (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Library and Information Science (Mixed Mode",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-business-intelligence-and-analytics-by-coursework",
+      "universityId": "iium",
+      "name": "Master in Business Intelligence and Analytics (By Coursework)",
+      "nameAr": "ماجستير في ذكاء الأعمال وتحليل البيانات (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-protective-security-management-by-coursework",
+      "universityId": "iium",
+      "name": "Master in Protective Security Management (By Coursework)",
+      "nameAr": "ماجستير في Master in Protective Security Management (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-library-and-information-science-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Library and Information Science (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Library and Information Science (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-library-and-information-science-mixed-mode",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Library and Information Science (Mixed Mode)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Library and Information Science (Mixed Mode",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-computer-science-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Computer Science (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Science (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-information-technology-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Information Technology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في تقنية المعلومات (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-accounting-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Accounting (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-business-administration-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Business Administration (Honours)",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-economics-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Economics (Honours)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-finance-islamic-finance-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Finance (Islamic Finance) (Honours)",
+      "nameAr": "بكالوريوس المالية في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-islamic-banking-and-finance-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Islamic Banking and Finance (By Coursework)",
+      "nameAr": "ماجستير العلوم في الخدمات المصرفية والمالية (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 13125,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13125
+        },
+        {
+          "year": 2,
+          "fee": 13125
+        }
+      ],
+      "totalTuitionFee": 26250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-islamic-banking-and-finance-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Islamic Banking and Finance (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الخدمات المصرفية والمالية (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13500
+        },
+        {
+          "year": 2,
+          "fee": 13500
+        },
+        {
+          "year": 3,
+          "fee": 13500
+        }
+      ],
+      "totalTuitionFee": 40500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-economics-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Economics (Mixed Mode)",
+      "nameAr": "ماجستير في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-economics-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Economics (By Coursework)",
+      "nameAr": "ماجستير في الاقتصاد (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-accounting",
+      "universityId": "iium",
+      "name": "Master of Science in Accounting",
+      "nameAr": "ماجستير العلوم في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-finance-mixed-mode",
+      "universityId": "iium",
+      "name": "Master in Finance (Mixed Mode)",
+      "nameAr": "ماجستير في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-finance-by-coursework",
+      "universityId": "iium",
+      "name": "Master in Finance (By Coursework)",
+      "nameAr": "ماجستير في المالية والتمويل (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-marketing",
+      "universityId": "iium",
+      "name": "Master of Science in Marketing",
+      "nameAr": "ماجستير العلوم في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-accounting-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Accounting (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في المحاسبة (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-business-administration-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Business Administration (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business Administration (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-economics-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Economics (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الاقتصاد (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-civil-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Civil Engineering (Honours)",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-materials-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Materials Engineering (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Materials Engineering (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-manufacturing-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Manufacturing Engineering (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Manufacturing Engineering (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-aerospace-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Aerospace Engineering (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Aerospace Engineering (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-electrical-and-electronics-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Electrical and Electronics Engineering (Honours)",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-mechatronics-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Mechatronics Engineering (Honours)",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-chemical-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Chemical Engineering (Honours)",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-mechanical-engineering-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Mechanical Engineering (Honours)",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21700
+        },
+        {
+          "year": 2,
+          "fee": 21700
+        },
+        {
+          "year": 3,
+          "fee": 21700
+        },
+        {
+          "year": 4,
+          "fee": 21700
+        }
+      ],
+      "totalTuitionFee": 86800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-quantity-surveying-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Quantity Surveying (Honours)",
+      "nameAr": "بكالوريوس في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18200
+        },
+        {
+          "year": 2,
+          "fee": 18200
+        },
+        {
+          "year": 3,
+          "fee": 18200
+        },
+        {
+          "year": 4,
+          "fee": 18200
+        }
+      ],
+      "totalTuitionFee": 72800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-computer-and-information-engineering-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Computer and Information Engineering (By Coursework)",
+      "nameAr": "ماجستير العلوم في Computer and Information Engineering (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12758,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12758
+        },
+        {
+          "year": 2,
+          "fee": 12758
+        }
+      ],
+      "totalTuitionFee": 25516,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-manufacturing-engineering-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Manufacturing Engineering (By Coursework)",
+      "nameAr": "ماجستير العلوم في Manufacturing Engineering (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12758,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12758
+        },
+        {
+          "year": 2,
+          "fee": 12758
+        }
+      ],
+      "totalTuitionFee": 25516,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-mechatronic-engineering-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Mechatronic Engineering (By Coursework)",
+      "nameAr": "ماجستير العلوم في Mechatronic Engineering (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12758,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12758
+        },
+        {
+          "year": 2,
+          "fee": 12758
+        }
+      ],
+      "totalTuitionFee": 25516,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-communication-engineering-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Communication Engineering (By Coursework)",
+      "nameAr": "ماجستير العلوم في Communication Engineering (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12758,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12758
+        },
+        {
+          "year": 2,
+          "fee": 12758
+        }
+      ],
+      "totalTuitionFee": 25516,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-electronics-engineering-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Science in Electronics Engineering (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-biotechnology-engineering-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Biotechnology Engineering (By Coursework)",
+      "nameAr": "ماجستير العلوم في التقنية الحيوية (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12758,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12758
+        },
+        {
+          "year": 2,
+          "fee": 12758
+        }
+      ],
+      "totalTuitionFee": 25516,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-mechanical-engineering-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Mechanical Engineering (By Coursework)",
+      "nameAr": "ماجستير العلوم في الهندسة الميكانيكية (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12758,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12758
+        },
+        {
+          "year": 2,
+          "fee": 12758
+        }
+      ],
+      "totalTuitionFee": 25516,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-engineering-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Engineering (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-biotechnology-engineering-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Science in Biotechnology Engineering (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في التقنية الحيوية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-civil-engineering-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Science in Civil Engineering (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-engineering-by-research",
+      "universityId": "iium",
+      "name": "Master of Science in Engineering (By Research)",
+      "nameAr": "ماجستير العلوم في Engineering (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-biomedical-science-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Biomedical Science (Honours)",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16200
+        },
+        {
+          "year": 2,
+          "fee": 16200
+        },
+        {
+          "year": 3,
+          "fee": 16200
+        },
+        {
+          "year": 4,
+          "fee": 16200
+        }
+      ],
+      "totalTuitionFee": 64800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-optometry-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Optometry (Honours)",
+      "nameAr": "بكالوريوس في بصريات العيون",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16200
+        },
+        {
+          "year": 2,
+          "fee": 16200
+        },
+        {
+          "year": 3,
+          "fee": 16200
+        },
+        {
+          "year": 4,
+          "fee": 16200
+        }
+      ],
+      "totalTuitionFee": 64800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-dietetics-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Dietetics (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Dietetics (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16200
+        },
+        {
+          "year": 2,
+          "fee": 16200
+        },
+        {
+          "year": 3,
+          "fee": 16200
+        },
+        {
+          "year": 4,
+          "fee": 16200
+        }
+      ],
+      "totalTuitionFee": 64800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-audiology-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Audiology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Audiology (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16200
+        },
+        {
+          "year": 2,
+          "fee": 16200
+        },
+        {
+          "year": 3,
+          "fee": 16200
+        },
+        {
+          "year": 4,
+          "fee": 16200
+        }
+      ],
+      "totalTuitionFee": 64800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-medical-imaging-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Medical Imaging (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Medical Imaging (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16200
+        },
+        {
+          "year": 2,
+          "fee": 16200
+        },
+        {
+          "year": 3,
+          "fee": 16200
+        },
+        {
+          "year": 4,
+          "fee": 16200
+        }
+      ],
+      "totalTuitionFee": 64800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-physiotherapy-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Physiotherapy (Honours)",
+      "nameAr": "بكالوريوس في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16200
+        },
+        {
+          "year": 2,
+          "fee": 16200
+        },
+        {
+          "year": 3,
+          "fee": 16200
+        },
+        {
+          "year": 4,
+          "fee": 16200
+        }
+      ],
+      "totalTuitionFee": 64800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-speech-language-pathology-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Speech-Language Pathology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Speech-Language Pathology (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16200
+        },
+        {
+          "year": 2,
+          "fee": 16200
+        },
+        {
+          "year": 3,
+          "fee": 16200
+        },
+        {
+          "year": 4,
+          "fee": 16200
+        }
+      ],
+      "totalTuitionFee": 64800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-pharmacy-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Pharmacy (Honours)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 35000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35000
+        },
+        {
+          "year": 2,
+          "fee": 35000
+        },
+        {
+          "year": 3,
+          "fee": 35000
+        },
+        {
+          "year": 4,
+          "fee": 35000
+        }
+      ],
+      "totalTuitionFee": 140000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-dental-surgery",
+      "universityId": "iium",
+      "name": "Bachelor of Dental Surgery",
+      "nameAr": "بكالوريوس في Bachelor of Dental Surgery",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 70000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 70000
+        },
+        {
+          "year": 2,
+          "fee": 70000
+        },
+        {
+          "year": 3,
+          "fee": 70000
+        },
+        {
+          "year": 4,
+          "fee": 70000
+        },
+        {
+          "year": 5,
+          "fee": 70000
+        }
+      ],
+      "totalTuitionFee": 350000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-nursing-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Nursing (Honours)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        },
+        {
+          "year": 3,
+          "fee": 20000
+        },
+        {
+          "year": 4,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 80000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-medicine-and-bachelor-of-surgery-mbbs",
+      "universityId": "iium",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+      "nameAr": "بكالوريوس الطب البشري والجراحة (MBBS) في MBBS",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 70000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 70000
+        },
+        {
+          "year": 2,
+          "fee": 70000
+        },
+        {
+          "year": 3,
+          "fee": 70000
+        },
+        {
+          "year": 4,
+          "fee": 70000
+        },
+        {
+          "year": 5,
+          "fee": 70000
+        }
+      ],
+      "totalTuitionFee": 350000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-masters-of-health-sciences-by-research",
+      "universityId": "iium",
+      "name": "Masters of Health Sciences (By Research)",
+      "nameAr": "ماجستير في Masters of Health Sciences (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-dental-sciences-by-research",
+      "universityId": "iium",
+      "name": "Master of Dental Sciences (By Research)",
+      "nameAr": "ماجستير في Master of Dental Sciences (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-dental-sciences-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Dental Sciences (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Dental Sciences (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-in-orthodontics-by-clinical-coursework",
+      "universityId": "iium",
+      "name": "Doctor In Orthodontics (By Clinical Coursework)",
+      "nameAr": "دكتوراه في Doctor In Orthodontics (By Clinical Coursework",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-in-prosthodontics-by-clinical-coursework",
+      "universityId": "iium",
+      "name": "Doctor in Prosthodontics (By Clinical Coursework)",
+      "nameAr": "دكتوراه في Doctor in Prosthodontics (By Clinical Coursework",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-nursing-science-by-research",
+      "universityId": "iium",
+      "name": "Master in Nursing Science (By Research)",
+      "nameAr": "ماجستير في التمريض (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-health-sciences-biobehavioural-health-sciences-by-research",
+      "universityId": "iium",
+      "name": "Master in Health Sciences -Biobehavioural Health Sciences- (By Research)",
+      "nameAr": "ماجستير في Master in Health Sciences -Biobehavioural Health Sciences- (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-biobehavioral-health-sciences-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Biobehavioral Health Sciences (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Biobehavioral Health Sciences (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-advanced-nursing-practice-in-critical-care-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Advanced Nursing Practice in Critical Care (By Coursework)",
+      "nameAr": "ماجستير في التمريض (بالمقررات الدراسية)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17625,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17625
+        },
+        {
+          "year": 2,
+          "fee": 17625
+        }
+      ],
+      "totalTuitionFee": 35250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-advanced-nursing-practice-in-emergency-care-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Advanced Nursing Practice in Emergency Care (By Coursework)",
+      "nameAr": "ماجستير في التمريض (بالمقررات الدراسية)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17625,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17625
+        },
+        {
+          "year": 2,
+          "fee": 17625
+        }
+      ],
+      "totalTuitionFee": 35250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-advanced-nursing-practice-in-renal-care-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Advanced Nursing Practice in Renal Care (By Coursework)",
+      "nameAr": "ماجستير في التمريض (بالمقررات الدراسية)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17625,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17625
+        },
+        {
+          "year": 2,
+          "fee": 17625
+        }
+      ],
+      "totalTuitionFee": 35250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medical-sciences-in-anatomy-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Medical Sciences in Anatomy (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Medical Sciences in Anatomy (Mixed Mode",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medical-sciences-in-biochemistry-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Medical Sciences in Biochemistry (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Medical Sciences in Biochemistry (Mixed Mode",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medical-sciences-in-microbiology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Medical Sciences in Microbiology (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Medical Sciences in Microbiology (Mixed Mode",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medical-sciences-in-parasitology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Medical Sciences in Parasitology (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Medical Sciences in Parasitology (Mixed Mode",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medical-sciences-in-pharmacology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Medical Sciences in Pharmacology (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Medical Sciences in Pharmacology (Mixed Mode",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medical-sciences-in-physiology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Medical Sciences in physiology (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Medical Sciences in physiology (Mixed Mode",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-health-sciences-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Health Sciences (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Health Sciences (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-health-sciences-by-research",
+      "universityId": "iium",
+      "name": "Master of Health Sciences (By Research)",
+      "nameAr": "ماجستير في Master of Health Sciences (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-orthopaedic-surgery-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Orthopaedic Surgery (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Orthopaedic Surgery (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medicine-in-internal-medicine-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Medicine in Internal Medicine (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Medicine in Internal Medicine (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-surgery-in-general-surgery-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Surgery in General Surgery (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Surgery in General Surgery (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medicine-in-family-medicine-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Medicine in Family Medicine (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Medicine in Family Medicine (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-surgery-in-ophthalmology-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Surgery in Ophthalmology (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Surgery in Ophthalmology (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medicine-in-anaesthesiology-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Medicine in Anaesthesiology (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Medicine in Anaesthesiology (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medicine-in-radiology-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Medicine in Radiology (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Medicine in Radiology (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-medicine-in-psychiatry-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Medicine in Psychiatry (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Medicine in Psychiatry (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-surgery-in-otorhinolaryngology-head-neck-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Surgery in Otorhinolaryngology – Head & Neck (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Surgery in Otorhinolaryngology – Head & Neck (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-obstetric-gynaecology-clinical-specialist-training",
+      "universityId": "iium",
+      "name": "Master of Obstetric & Gynaecology (Clinical Specialist Training)",
+      "nameAr": "ماجستير في Master of Obstetric & Gynaecology (Clinical Specialist Training",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-mathematical-sciences-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Mathematical Sciences (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Mathematical Sciences (Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        },
+        {
+          "year": 4,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 64000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-science-in-physics-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Science in Physics (Honours)",
+      "nameAr": "بكالوريوس العلوم في Physics (Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        },
+        {
+          "year": 4,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 64000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-biotechnology-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Biotechnology (Honours)",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        },
+        {
+          "year": 4,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 64000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-science-in-applied-chemistry-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Science in Applied Chemistry (Honours)",
+      "nameAr": "بكالوريوس العلوم في Applied Chemistry (Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        },
+        {
+          "year": 4,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 64000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-science-in-applied-plant-sciences-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Science in Applied Plant Sciences (Honours)",
+      "nameAr": "بكالوريوس العلوم في Applied Plant Sciences (Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        },
+        {
+          "year": 4,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 64000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-science-in-marine-science-and-technology-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Science in Marine Science and Technology (Honours)",
+      "nameAr": "بكالوريوس العلوم في Marine Science and Technology (Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        },
+        {
+          "year": 4,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 64000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-by-research",
+      "universityId": "iium",
+      "name": "Master of Science (By Research)",
+      "nameAr": "ماجستير العلوم (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9600
+        },
+        {
+          "year": 2,
+          "fee": 9600
+        }
+      ],
+      "totalTuitionFee": 19200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-chemistry-by-research",
+      "universityId": "iium",
+      "name": "Master of Science in chemistry (By Research)",
+      "nameAr": "ماجستير العلوم في chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9600
+        },
+        {
+          "year": 2,
+          "fee": 9600
+        }
+      ],
+      "totalTuitionFee": 19200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-computational-and-theoretical-sciences-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Computational and Theoretical Sciences (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computational and Theoretical Sciences (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-science-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Science (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Science (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-health-science-planetary-health-by-research",
+      "universityId": "iium",
+      "name": "Master of Health Science — Planetary Health (By Research)",
+      "nameAr": "ماجستير في Master of Health Science — Planetary Health (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-planetary-health-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy — Planetary Health (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في — Planetary Health (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-human-sciences-in-political-science-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Human Sciences in Political Science (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Human Sciences in Political Science (Honours",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-human-sciences-in-history-and-civilization-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Human Sciences in History and Civilization (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Human Sciences in History and Civilization (Honours",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-human-sciences-in-psychology-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Human Sciences in psychology (Honours)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-human-sciences-in-english-language-and-literature-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Human Sciences in English Language and Literature (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Human Sciences in English Language and Literature (Honours",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-human-sciences-in-sociology-and-anthropology-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Human Sciences in Sociology and Anthropology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Human Sciences in Sociology and Anthropology (Honours",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-in-tourism-management-honours",
+      "universityId": "iium",
+      "name": "Bachelor in Tourism Management (Honours)",
+      "nameAr": "بكالوريوس في إدارة السياحة والسفر",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        },
+        {
+          "year": 4,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-arabic-linguistic-studies-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Arts in Arabic Linguistic Studies (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Arts in Arabic Linguistic Studies (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-arabic-linguistic-studies-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Arts in Arabic Linguistic Studies (By Coursework)",
+      "nameAr": "ماجستير في Master of Arts in Arabic Linguistic Studies (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-arabic-literary-studies-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Arts in Arabic Literary Studies (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Arts in Arabic Literary Studies (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-arabic-literary-studies-coursework",
+      "universityId": "iium",
+      "name": "Master of Arts in Arabic Literary Studies (Coursework)",
+      "nameAr": "ماجستير في Master of Arts in Arabic Literary Studies (Coursework",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-arabic-studies-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Arts in Arabic Studies (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Arts in Arabic Studies (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-english-language-studies-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in English Language Studies (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Human Sciences in English Language Studies (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-english-language-studies-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in English Language Studies (By Coursework)",
+      "nameAr": "ماجستير في Master of Human Sciences in English Language Studies (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-english-literary-studies-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in English Literary Studies (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Human Sciences in English Literary Studies (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-english-literary-studies-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in English Literary Studies (By Coursework)",
+      "nameAr": "ماجستير في Master of Human Sciences in English Literary Studies (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-psychology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Psychology (Mixed Mode)",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-psychology-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Psychology (By Coursework)",
+      "nameAr": "ماجستير في علم النفس (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-industrial-and-organizational-psychology-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Industrial And Organizational Psychology (By Coursework)",
+      "nameAr": "ماجستير في علم النفس (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 14400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14400
+        },
+        {
+          "year": 2,
+          "fee": 14400
+        }
+      ],
+      "totalTuitionFee": 28800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-developmental-psychology-by-coursework",
+      "universityId": "iium",
+      "name": "Master in Developmental Psychology (By Coursework)",
+      "nameAr": "ماجستير في علم النفس (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 6720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6720
+        },
+        {
+          "year": 2,
+          "fee": 6720
+        }
+      ],
+      "totalTuitionFee": 13440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-political-science-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Political Science (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Human Sciences in Political Science (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-political-science-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Political Science (By Coursework)",
+      "nameAr": "ماجستير في Master of Human Sciences in Political Science (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-history-and-civilization-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in History and Civilization (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Human Sciences in History and Civilization (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-history-and-civilization-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in History and Civilization (By Coursework)",
+      "nameAr": "ماجستير في Master of Human Sciences in History and Civilization (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-sociology-and-anthropology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Sociology and Anthropology (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Human Sciences in Sociology and Anthropology (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-sociology-and-anthropology-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Sociology and Anthropology (By Coursework)",
+      "nameAr": "ماجستير في Master of Human Sciences in Sociology and Anthropology (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-applied-linguistics-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Applied Linguistics (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Human Sciences in Applied Linguistics (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-applied-linguistics-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Applied Linguistics (By Coursework)",
+      "nameAr": "ماجستير في Master of Human Sciences in Applied Linguistics (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-islamic-thought-and-civilisation-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Arts in Islamic Thought and Civilisation (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Arts in Islamic Thought and Civilisation (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-islamic-thought-and-civilisation-by-research",
+      "universityId": "iium",
+      "name": "Master of Arts in Islamic Thought and Civilisation (By Research)",
+      "nameAr": "ماجستير في Master of Arts in Islamic Thought and Civilisation (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9000
+        },
+        {
+          "year": 2,
+          "fee": 9000
+        }
+      ],
+      "totalTuitionFee": 18000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-islamic-thought-and-civilisation-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Islamic Thought and Civilisation (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Islamic Thought and Civilisation (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-arabic-studies-specific-purposes-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Arabic Studies — Specific Purposes (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Arabic Studies — Specific Purposes (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-english-studies-specific-purposes-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in English Studies — Specific Purposes (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في English Studies — Specific Purposes (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-sustainability-science-mixed-mode",
+      "universityId": "iium",
+      "name": "Master in Sustainability Science (Mixed Mode)",
+      "nameAr": "ماجستير في Master in Sustainability Science (Mixed Mode",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-education-in-teaching-english-as-a-second-language-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Education in Teaching English as a Second Language (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Education in Teaching English as a Second Language (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13600
+        },
+        {
+          "year": 2,
+          "fee": 13600
+        },
+        {
+          "year": 3,
+          "fee": 13600
+        },
+        {
+          "year": 4,
+          "fee": 13600
+        }
+      ],
+      "totalTuitionFee": 54400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-education-in-teaching-arabic-as-a-second-language-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Education in Teaching Arabic as a Second Language (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Education in Teaching Arabic as a Second Language (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13600
+        },
+        {
+          "year": 2,
+          "fee": 13600
+        },
+        {
+          "year": 3,
+          "fee": 13600
+        },
+        {
+          "year": 4,
+          "fee": 13600
+        }
+      ],
+      "totalTuitionFee": 54400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-education-in-guidance-and-counseling-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Education in Guidance and Counseling (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Education in Guidance and Counseling (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13600
+        },
+        {
+          "year": 2,
+          "fee": 13600
+        },
+        {
+          "year": 3,
+          "fee": 13600
+        },
+        {
+          "year": 4,
+          "fee": 13600
+        }
+      ],
+      "totalTuitionFee": 54400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-education-in-islamic-education-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Education in Islamic Education (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Education in Islamic Education (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13600
+        },
+        {
+          "year": 2,
+          "fee": 13600
+        },
+        {
+          "year": 3,
+          "fee": 13600
+        },
+        {
+          "year": 4,
+          "fee": 13600
+        }
+      ],
+      "totalTuitionFee": 54400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-arts-in-teaching-arabic-as-a-second-language-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Arts in Teaching Arabic as a Second Language (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Arts in Teaching Arabic as a Second Language (Mixed Mode",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-education-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Education (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education (بالبحث العلمي)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-by-research",
+      "universityId": "iium",
+      "name": "Master of Education (By Research)",
+      "nameAr": "ماجستير في Master of Education (بالبحث العلمي)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-teaching-of-arabic-to-non-arabic-speakers-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Teaching of Arabic to Non-Arabic Speakers (By Coursework)",
+      "nameAr": "ماجستير في Master of Education in Teaching of Arabic to Non-Arabic Speakers (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-teaching-of-arabic-to-non-arabic-speakers-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Education in Teaching of Arabic to Non-Arabic Speakers (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Education in Teaching of Arabic to Non-Arabic Speakers (Mixed Mode",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-teaching-of-islamic-education-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Teaching of Islamic Education (By Coursework)",
+      "nameAr": "ماجستير في Master of Education in Teaching of Islamic Education (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-educational-management-and-leadership-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Educational Management and Leadership (By Coursework)",
+      "nameAr": "ماجستير في Master of Education in Educational Management and Leadership (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-educational-psychology-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Educational Psychology (By Coursework)",
+      "nameAr": "ماجستير في علم النفس (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-educational-psychology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Education in Educational Psychology (Mixed Mode)",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-curriculum-and-instruction-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Curriculum and Instruction (By Coursework)",
+      "nameAr": "ماجستير في Master of Education in Curriculum and Instruction (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-instructional-technology-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Education in Instructional Technology (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Education in Instructional Technology (Mixed Mode",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-instructional-technology-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Instructional Technology (By Coursework)",
+      "nameAr": "ماجستير في Master of Education in Instructional Technology (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-guidance-and-counseling-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Guidance and Counseling (By Coursework)",
+      "nameAr": "ماجستير في Master of Education in Guidance and Counseling (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-education-in-teaching-english-as-a-second-language-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Education in Teaching English as a Second Language (By Coursework)",
+      "nameAr": "ماجستير في Master of Education in Teaching English as a Second Language (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9923,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9923
+        },
+        {
+          "year": 2,
+          "fee": 9923
+        }
+      ],
+      "totalTuitionFee": 19846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-lows-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Lows (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Lows (Honours",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16800
+        },
+        {
+          "year": 2,
+          "fee": 16800
+        },
+        {
+          "year": 3,
+          "fee": 16800
+        },
+        {
+          "year": 4,
+          "fee": 16800
+        }
+      ],
+      "totalTuitionFee": 67200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-comparative-laws-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Comparative Laws (By Coursework)",
+      "nameAr": "ماجستير في القانون والحقوق (بالمقررات الدراسية)",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9720
+        },
+        {
+          "year": 2,
+          "fee": 9720
+        }
+      ],
+      "totalTuitionFee": 19440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-comparative-laws-by-research",
+      "universityId": "iium",
+      "name": "Master of Comparative Laws (By Research)",
+      "nameAr": "ماجستير في القانون والحقوق (بالبحث العلمي)",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8750
+        },
+        {
+          "year": 2,
+          "fee": 8750
+        }
+      ],
+      "totalTuitionFee": 17500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-laws-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Laws (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في القانون والحقوق (بالبحث العلمي)",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17500
+        },
+        {
+          "year": 2,
+          "fee": 17500
+        },
+        {
+          "year": 3,
+          "fee": 17500
+        }
+      ],
+      "totalTuitionFee": 52500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-laws-in-international-laws",
+      "universityId": "iium",
+      "name": "Master of Laws in International Laws",
+      "nameAr": "ماجستير في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Sep, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-applied-arts-and-design-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Applied Arts and Design (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Applied Arts and Design (Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18200
+        },
+        {
+          "year": 2,
+          "fee": 18200
+        },
+        {
+          "year": 3,
+          "fee": 18200
+        },
+        {
+          "year": 4,
+          "fee": 18200
+        }
+      ],
+      "totalTuitionFee": 72800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-landscape-architecture-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Landscape Architecture (Honours)",
+      "nameAr": "بكالوريوس في الهندسة المعمارية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18200
+        },
+        {
+          "year": 2,
+          "fee": 18200
+        },
+        {
+          "year": 3,
+          "fee": 18200
+        },
+        {
+          "year": 4,
+          "fee": 18200
+        }
+      ],
+      "totalTuitionFee": 72800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-urban-and-regional-planning-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Urban and Regional Planning (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Urban and Regional Planning (Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18200
+        },
+        {
+          "year": 2,
+          "fee": 18200
+        },
+        {
+          "year": 3,
+          "fee": 18200
+        },
+        {
+          "year": 4,
+          "fee": 18200
+        }
+      ],
+      "totalTuitionFee": 72800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-science-architectural-studies-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Science (Architectural Studies) (Honours)",
+      "nameAr": "بكالوريوس العلوم في Architectural Studies) (Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 54600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54600
+        },
+        {
+          "year": 2,
+          "fee": 54600
+        },
+        {
+          "year": 3,
+          "fee": 54600
+        }
+      ],
+      "totalTuitionFee": 163800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-building-asset-and-facilities-management-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Science in Building Asset and Facilities Management (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في Building Asset and Facilities Management (Mixed Mode",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-human-sciences-in-communication-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Human Sciences in Communication (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Human Sciences in Communication (Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-arts-in-english-for-international-communication-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Arts in English for International Communication (Honours)",
+      "nameAr": "بكالوريوس الآداب في English for International Communication (Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-arts-in-arabic-for-international-communication-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Arts in Arabic for International Communication (Honours)",
+      "nameAr": "بكالوريوس الآداب في Arabic for International Communication (Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-communication-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Communication (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Human Sciences in Communication (Mixed Mode",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-human-sciences-in-communication-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Human Sciences in Communication (By Coursework)",
+      "nameAr": "ماجستير في Master of Human Sciences in Communication (بالمقررات الدراسية)",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-computational-and-theoretical-sciences-by-research",
+      "universityId": "iium",
+      "name": "Master of Science in Computational and Theoretical Sciences (By Research)",
+      "nameAr": "ماجستير العلوم في Computational and Theoretical Sciences (بالبحث العلمي)",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9600
+        },
+        {
+          "year": 2,
+          "fee": 9600
+        }
+      ],
+      "totalTuitionFee": 19200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-occupational-safety-health-and-environmental-sustainability-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Science in Occupational Safety, Health, and Environmental Sustainability (By Coursework)",
+      "nameAr": "ماجستير العلوم في Occupational Safety, Health, and Environmental Sustainability (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 17767,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17767
+        }
+      ],
+      "totalTuitionFee": 17767,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-islamic-revealed-knowledge-and-heritage-in-qur-an-and-sunnah-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Islamic Revealed Knowledge and Heritage in Qur’an and Sunnah (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Islamic Revealed Knowledge and Heritage in Qur’an and Sunnah (Honours",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-islamic-revealed-knowledge-and-heritage-in-fiqh-and-usul-al-fiqh-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Islamic Revealed Knowledge and Heritage in Fiqh and Usul al-Fiqh (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Islamic Revealed Knowledge and Heritage in Fiqh and Usul al-Fiqh (Honours",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-islamic-revealed-knowledge-and-heritage-in-usul-al-din-and-comparative-religion-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Islamic Revealed Knowledge and Heritage in Usul al-Din and Comparative Religion (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Islamic Revealed Knowledge and Heritage in Usul al-Din and Comparative Religion (Honours",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-of-islamic-revealed-knowledge-and-heritage-in-arabic-language-and-literature-honours",
+      "universityId": "iium",
+      "name": "Bachelor of Islamic Revealed Knowledge and Heritage in Arabic Language and Literature (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Islamic Revealed Knowledge and Heritage in Arabic Language and Literature (Honours",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-bachelor-in-halal-industry-management-honours",
+      "universityId": "iium",
+      "name": "Bachelor in Halal Industry Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Halal Industry Management (Honours",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-islamic-revealed-knowledge-and-heritage-in-usul-al-din-and-comparative-religion-by-research",
+      "universityId": "iium",
+      "name": "Master of Islamic Revealed Knowledge and Heritage in Usul al-Din and Comparative Religion (By Research)",
+      "nameAr": "ماجستير في Master of Islamic Revealed Knowledge and Heritage in Usul al-Din and Comparative Religion (بالبحث العلمي)",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-islamic-revealed-knowledge-and-heritage-in-fiqh-and-usul-al-fiqh-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Islamic Revealed Knowledge and Heritage in Fiqh and Usul al-Fiqh (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Islamic Revealed Knowledge and Heritage in Fiqh and Usul al-Fiqh (Mixed Mode",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-islamic-revealed-knowledge-and-heritage-in-fiqh-and-usul-al-fiqh-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Islamic Revealed Knowledge and Heritage in Fiqh and Usul al-Fiqh (By Coursework)",
+      "nameAr": "ماجستير في Master of Islamic Revealed Knowledge and Heritage in Fiqh and Usul al-Fiqh (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-islamic-revealed-knowledge-and-heritage-in-qur-an-and-sunnah-by-research",
+      "universityId": "iium",
+      "name": "Master of Islamic Revealed Knowledge and Heritage in Qur’an and Sunnah (By Research)",
+      "nameAr": "ماجستير في Master of Islamic Revealed Knowledge and Heritage in Qur’an and Sunnah (بالبحث العلمي)",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        },
+        {
+          "year": 2,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-of-islamic-revealed-knowledge-and-heritage-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy of Islamic Revealed Knowledge and Heritage (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Islamic Revealed Knowledge and Heritage (بالبحث العلمي)",
+      "field": "business",
+      "category": "Islamic Studies",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-architecture-by-coursework",
+      "universityId": "iium",
+      "name": "Master of Architecture (By Coursework)",
+      "nameAr": "ماجستير في الهندسة المعمارية (بالمقررات الدراسية)",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 11907,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11907
+        },
+        {
+          "year": 2,
+          "fee": 11907
+        }
+      ],
+      "totalTuitionFee": 23814,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-urban-and-regional-planning-mixed-mode",
+      "universityId": "iium",
+      "name": "Master of Urban and Regional Planning (Mixed Mode)",
+      "nameAr": "ماجستير في Master of Urban and Regional Planning (Mixed Mode",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-of-science-in-built-environment-by-research",
+      "universityId": "iium",
+      "name": "Master of Science in Built Environment (By Research)",
+      "nameAr": "ماجستير العلوم في Built Environment (بالبحث العلمي)",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10125,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10125
+        },
+        {
+          "year": 2,
+          "fee": 10125
+        }
+      ],
+      "totalTuitionFee": 20250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-master-in-construction-business-administration-mixed-mode",
+      "universityId": "iium",
+      "name": "Master in Construction Business Administration (Mixed Mode)",
+      "nameAr": "ماجستير في Master in Construction Business Administration (Mixed Mode",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iium-doctor-of-philosophy-in-built-environment-by-research",
+      "universityId": "iium",
+      "name": "Doctor of Philosophy in Built Environment (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Built Environment (بالبحث العلمي)",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 182
+}

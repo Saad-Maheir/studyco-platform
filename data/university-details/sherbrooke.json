@@ -1,0 +1,1510 @@
+{
+  "id": "sherbrooke",
+  "name": "Université de Sherbrooke",
+  "arabicName": "جامعة شيربروك (Université de Sherbrooke)",
+  "city": "Sherbrooke, Quebec",
+  "country": "canada",
+  "logo": "assets/photo/uni-sherbrooke.svg",
+  "image": "assets/photo/campus_sherbrooke.jpg",
+  "website": "https://www.usherbrooke.ca/",
+  "ranking": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec)",
+  "established": "1954",
+  "campusName": "Sherbrooke Main Campus",
+  "studentCount": "31,000+ (100+ Countries)",
+  "intakes": "Sep, Jan",
+  "feeRangeMin": 19000,
+  "feeRangeMax": 31800,
+  "currency": "CAD",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/QEJyINg0Exo",
+  "description": "Université de Sherbrooke is a leading Canadian higher education institution located in Sherbrooke, Quebec. It provides globally accredited undergraduate and postgraduate degree programmes.",
+  "descriptionAr": "تعد جامعة شيربروك (Université de Sherbrooke) صرحاً أكاديمياً وبحثياً رائداً في Sherbrooke, Quebec، وتقدم برامج بكالوريوس وماجستير معتمدة عالمياً تؤهل الخريجين للحصول على تصريح العمل الكندي (PGWP).",
+  "about": {
+    "en": "Université de Sherbrooke is one of Canada's most prestigious institutions of higher education, located in Sherbrooke, Quebec. Established in 1954, it holds Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) and hosts over 31,000+ (100+ Countries) with cutting-edge academic and research excellence.",
+    "ar": "تعد جامعة شيربروك (Université de Sherbrooke) من أرقى مؤسسات التعليم العالي والبحث العلمي في كندا، وتقع في Sherbrooke, Quebec. تأسست الجامعة عام 1954 وتحتل مكانة مرموقة (Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec))، وتضم أكثر من 31,000+ (100+ Countries) وتوفر برامج بكالوريوس ودراسات عليا معتمدة عالمياً.",
+    "id": "Université de Sherbrooke adalah salah satu institusi pendidikan tinggi terkemuka di Kanada yang berlokasi di Sherbrooke, Quebec. Berdiri sejak tahun 1954, universitas ini menduduki peringkat Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) dan menampung lebih dari 31,000+ (100+ Countries).",
+    "zh": "Université de Sherbrooke 是加拿大享誉全球的顶尖高等学府之一，坐落于 Sherbrooke, Quebec。创办于 1954 年，位列 Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec)，拥有超过 31,000+ (100+ Countries)。",
+    "ru": "Université de Sherbrooke — один из ведущих канадских университетов, расположенный в городе Sherbrooke, Quebec. Основан в 1954 году, занимает Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) и объединяет свыше 31,000+ (100+ Countries).",
+    "fr": "Université de Sherbrooke est l'un des établissements d'enseignement supérieur les plus réputés du Canada, situé à Sherbrooke, Quebec. Fondée en 1954, elle bénéficie de Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec).",
+    "es": "Université de Sherbrooke es una de las instituciones de educación superior más prestigiosas de Canadá, situada en Sherbrooke, Quebec. Fundada en 1954, cuenta con Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec).",
+    "ja": "Université de Sherbrooke はカナダの Sherbrooke, Quebec に位置する世界最高峰の高等教育機関です。1954 年に設立され、Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) にランクインしています。",
+    "ko": "Université de Sherbrooke 은(는) 캐나다 Sherbrooke, Quebec 에 위치한 세계적인 명문 대학입니다. 1954 년에 설립되어 Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) 에 등재되어 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Université de Sherbrooke Central Research Library and Digital Learning Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي",
+        "id": "Université de Sherbrooke Central Research Library and Digital Learning Commons",
+        "zh": "Université de Sherbrooke Central Research Library and Digital Learning Commons",
+        "ru": "Université de Sherbrooke Central Research Library and Digital Learning Commons",
+        "fr": "Université de Sherbrooke Central Research Library and Digital Learning Commons",
+        "es": "Université de Sherbrooke Central Research Library and Digital Learning Commons",
+        "ja": "Université de Sherbrooke Central Research Library and Digital Learning Commons",
+        "ko": "Université de Sherbrooke Central Research Library and Digital Learning Commons"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ar": "مختبرات العلوم والهندسة المتقدمة ومركز ابتكارات الروبوتات",
+        "id": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "zh": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ru": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "fr": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "es": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ja": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ko": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Business Innovation Incubator and Financial Analytics Suite",
+        "ar": "حاضنة ريادة الأعمال وقاعات التحليل المالي والمحاكاة الذكية",
+        "id": "Business Innovation Incubator and Financial Analytics Suite",
+        "zh": "Business Innovation Incubator and Financial Analytics Suite",
+        "ru": "Business Innovation Incubator and Financial Analytics Suite",
+        "fr": "Business Innovation Incubator and Financial Analytics Suite",
+        "es": "Business Innovation Incubator and Financial Analytics Suite",
+        "ja": "Business Innovation Incubator and Financial Analytics Suite",
+        "ko": "Business Innovation Incubator and Financial Analytics Suite"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ar": "المجمع الرياضي الأولمبي المتعدد، صالات اللياقة والمسبح المغطى",
+        "id": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "zh": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ru": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "fr": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "es": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ja": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ko": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution",
+        "ar": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - صرح أكاديمي كندي معتمد ومصنف عالمياً",
+        "id": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution",
+        "zh": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution",
+        "ru": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution",
+        "fr": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution",
+        "es": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution",
+        "ja": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution",
+        "ko": "Rank 801 QS World University Rankings 2025 (#1 Co-op in Quebec) - Globally Recognized Canadian Institution"
+      },
+      "desc": {
+        "en": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ar": "برامج أكاديمية وبحثية معتمدة دولياً تؤهل الخريجين للريادة والتميز في سوق العمل العالمي.",
+        "id": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "zh": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ru": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "fr": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "es": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ja": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ko": "Globally accredited degree programmes delivering state-of-the-art education and world-class research."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Outstanding Graduate Employability & Global Industry Ties",
+        "ar": "معدلات توظيف استثنائية وشراكات صناعية واسعة",
+        "id": "Outstanding Graduate Employability & Global Industry Ties",
+        "zh": "Outstanding Graduate Employability & Global Industry Ties",
+        "ru": "Outstanding Graduate Employability & Global Industry Ties",
+        "fr": "Outstanding Graduate Employability & Global Industry Ties",
+        "es": "Outstanding Graduate Employability & Global Industry Ties",
+        "ja": "Outstanding Graduate Employability & Global Industry Ties",
+        "ko": "Outstanding Graduate Employability & Global Industry Ties"
+      },
+      "desc": {
+        "en": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ar": "يتمتع خريجو الجامعة بفرص تدريب وظيفي مباشرة ورواتب أولية تنافسية في كبرى الشركات الكندية والعالمية.",
+        "id": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "zh": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ru": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "fr": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "es": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ja": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ko": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Dynamic International Campus & Comprehensive Student Support",
+        "ar": "بيئة جامعية دولية ودعم متكامل للطلاب المغتربين",
+        "id": "Dynamic International Campus & Comprehensive Student Support",
+        "zh": "Dynamic International Campus & Comprehensive Student Support",
+        "ru": "Dynamic International Campus & Comprehensive Student Support",
+        "fr": "Dynamic International Campus & Comprehensive Student Support",
+        "es": "Dynamic International Campus & Comprehensive Student Support",
+        "ja": "Dynamic International Campus & Comprehensive Student Support",
+        "ko": "Dynamic International Campus & Comprehensive Student Support"
+      },
+      "desc": {
+        "en": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ar": "تضم الجامعة مجتمعاً طلابياً من أكثر من 100 دولة وتقدم خدمات إرشاد أكاديمي وسكني ومهني متكاملة.",
+        "id": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "zh": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ru": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "fr": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "es": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ja": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ko": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ar": "مرافق بحثية متطورة وتقنيات تعليمية من الجيل القادم",
+        "id": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "zh": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ru": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "fr": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "es": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ja": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ko": "Cutting-Edge Research Facilities & Next-Gen Learning Tech"
+      },
+      "desc": {
+        "en": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ar": "استثمارات ضخمة في أحدث المختبرات ومراكز المحاكاة الذكية لربط النظريات بالتطبيق العملي.",
+        "id": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "zh": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ru": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "fr": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "es": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ja": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ko": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Université de Sherbrooke Student Residences",
+        "ar": "Université de Sherbrooke Student Residences",
+        "id": "Université de Sherbrooke Student Residences",
+        "zh": "Université de Sherbrooke Student Residences",
+        "ru": "Université de Sherbrooke Student Residences",
+        "fr": "Université de Sherbrooke Student Residences",
+        "es": "Université de Sherbrooke Student Residences",
+        "ja": "Université de Sherbrooke Student Residences",
+        "ko": "Université de Sherbrooke Student Residences"
+      },
+      "distance": {
+        "en": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ar": "داخل الحرم الجامعي (3 إلى 10 دقائق سيراً على الأقدام للقاعات)",
+        "id": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "zh": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ru": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "fr": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "es": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ja": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ko": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)"
+      },
+      "priceRange": "CAD $750 - $1,400 / Month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "مطابخ مشتركة حديثة وصالات طعام واسعة للطلاب",
+          "غرف مؤثثة ومكيفة بالكامل مع مكاتب دراسية وإنترنت فائق السرعة",
+          "صالات ترفيهية ومكتبات للدراسة الهادئة ومغاسل ملابس ذاتية",
+          "قرب مباشر من وسائل النقل العام ومرافق الجامعة الرئيسية"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV",
+          "Modern Communal Kitchens & Spacious Dining Commons",
+          "Fully Furnished Air-Conditioned Rooms with Study Desks & Fast WiFi",
+          "Student Social Lounges, Quiet Study Hubs & Laundry Facilities",
+          "Immediate Proximity to Public Transit & Academic Buildings"
+        ],
+        "id": [
+          "Keamanan 24 Jam dengan Akses Kartu Elektronik & CCTV",
+          "Dapur Bersama Modern & Area Makan Mahasiswa yang Luas",
+          "Kamar Berperabot Lengkap Ber-AC dengan Meja Belajar & WiFi Cepat",
+          "Lounge Mahasiswa, Ruang Belajar Tenang & Fasilitas Laundry",
+          "Dekat dengan Transportasi Umum & Gedung Kampus Utama"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "category": {
+        "en": "Accommodation & Student Housing",
+        "ar": "السكن الطلابي (داخل الحرم أو شقة مشتركة)",
+        "id": "Akomodasi & Asrama Mahasiswa",
+        "zh": "学生宿舍与校外公寓",
+        "ru": "Проживание и студенческое общежитие",
+        "fr": "Hébergement et résidence étudiante",
+        "es": "Alojamiento y residencia estudiantil",
+        "ja": "学生寮・シェアハウス",
+        "ko": "학생 기숙사 및 주거비"
+      },
+      "cost": "CAD $750 - $1,400 / Month"
+    },
+    {
+      "category": {
+        "en": "Food & Groceries",
+        "ar": "الطعام والبقالة والمعيشة اليومية",
+        "id": "Makanan & Kebutuhan Sehari-hari",
+        "zh": "餐饮与日常生活开销",
+        "ru": "Питание и продукты",
+        "fr": "Nourriture et épicerie",
+        "es": "Comida y supermercado",
+        "ja": "食費・食料品",
+        "ko": "식비 및 생필품"
+      },
+      "cost": "CAD $350 - $600 / Month"
+    },
+    {
+      "category": {
+        "en": "Public Transportation (U-Pass / Transit)",
+        "ar": "المواصلات العامة وبطاقات الطلاب الجامعية",
+        "id": "Transportasi Umum (U-Pass)",
+        "zh": "公共交通与学生乘车卡",
+        "ru": "Общественный транспорт",
+        "fr": "Transports en commun (U-Pass)",
+        "es": "Transporte público universitario",
+        "ja": "公共交通機関（U-Pass）",
+        "ko": "대중교통 (U-Pass 할인)"
+      },
+      "cost": "CAD $90 - $150 / Month"
+    },
+    {
+      "category": {
+        "en": "Utilities, Mobile Phone & Personal",
+        "ar": "خدمات الإنترنت والاتصالات والمصاريف الشخصية",
+        "id": "Internet, Pulsa & Keperluan Pribadi",
+        "zh": "通讯网络与日常杂费",
+        "ru": "Связь, интернет и личные расходы",
+        "fr": "Services, téléphonie et loisirs",
+        "es": "Servicios, telefonía e imprevistos",
+        "ja": "通信費・光熱費・雑費",
+        "ko": "통신비, 공과금 및 개인 용돈"
+      },
+      "cost": "CAD $150 - $300 / Month"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What are the general admission requirements for Canadian universities?",
+        "ar": "ما هي شروط القبول العامة في الجامعات الكندية؟",
+        "id": "Apa syarat penerimaan umum di universitas Kanada?",
+        "zh": "加拿大大学的常规录取要求是什么？",
+        "ru": "Каковы общие требования для поступления в канадские университеты?",
+        "fr": "Quelles sont les conditions générales d'admission au Canada?",
+        "es": "¿Cuáles son los requisitos generales de admisión en Canadá?",
+        "ja": "カナダの大学の一般的な入学条件は何ですか？",
+        "ko": "캐나다 대학의 일반적인 입학 조건은 무엇인가요?"
+      },
+      "a": {
+        "en": "Undergraduate applicants need a recognized high school diploma with strong academic marks, alongside proof of English proficiency (typically IELTS 6.5 with no band below 6.0, or TOEFL equivalent). Postgraduate programs require a recognized 4-year bachelor's degree with competitive GPA.",
+        "ar": "يتطلب القبول في مرحلة البكالوريوس شهادة ثانوية عامة معتمدة بمعدل أكاديمي متميز، بالإضافة إلى إثبات إتقان اللغة الإنجليزية (IELTS 6.5 بدرجة لا تقل عن 6.0 في كل مهارة). أما برامج الدراسات العليا فتتطلب درجة بكالوريوس معتمدة ومعدل تراكمي جيد جداً.",
+        "id": "Untuk sarjana (S1) diperlukan ijazah SMA dengan nilai baik dan bukti kemahiran bahasa Inggris (IELTS 6.5 min 6.0 tiap band). Untuk pascasarjana (S2) diperlukan gelar Sarjana terakreditasi dengan IPK kompetitif.",
+        "zh": "本科申请需认可的高中毕业文凭且成绩优良，同时具备英语语言成绩（雅思6.5分，单项不低于6.0）。研究生课程要求具备认可的学士学位及良好的GPA。",
+        "ru": "Для бакалавриата требуется аттестат о среднем образовании с высокими оценками и сертификат IELTS 6.5 (не ниже 6.0 в секциях). Для магистратуры необходим диплом бакалавра с хорошим средним баллом.",
+        "fr": "Pour le premier cycle, un diplôme de fin d'études secondaires avec de bons résultats et l'IELTS 6.5 sont requis. Pour les cycles supérieurs, un baccalauréat reconnu avec un bon dossier académique est exigé.",
+        "es": "Para pregrado se requiere título de secundaria con buen promedio y certificado IELTS 6.5 (mínimo 6.0 por sección). Para posgrado se exige título de licenciatura con buen GPA.",
+        "ja": "学部入学には高校卒業証明書と優秀な成績、IELTS 6.5以上の英語力が必要です。大学院は認定学士号と優れたGPAが求められます。",
+        "ko": "학부 입학은 공인 고등학교 졸업장과 우수한 내신 성적, IELTS 6.5(각 영역 6.0 이상)가 필요합니다. 석사 과정은 인정된 학사 학위와 우수한 학점이 필수입니다."
+      }
+    },
+    {
+      "q": {
+        "en": "Can international students work during their studies in Canada?",
+        "ar": "هل يحق للطلاب الدوليين العمل أثناء الدراسة في كندا؟",
+        "id": "Apakah mahasiswa internasional boleh bekerja saat kuliah di Kanada?",
+        "zh": "国际学生在加拿大留学期间可以打工吗？",
+        "ru": "Могут ли иностранные студенты работать во время учебы в Канаде?",
+        "fr": "Les étudiants internationaux peuvent-ils travailler pendant leurs études au Canada?",
+        "es": "¿Pueden los estudiantes internacionales trabajar durante sus estudios en Canadá?",
+        "ja": "カナダ留学中に留学生はアルバイトができますか？",
+        "ko": "캐나다 유학 중 국제 학생의 아르바이트가 가능한가요?"
+      },
+      "a": {
+        "en": "Yes. International students holding a valid Study Permit enrolled in full-time degree programs at designated learning institutions (DLIs) can work up to 24 hours per week off-campus during academic semesters, and full-time during official scheduled academic breaks.",
+        "ar": "نعم، يحق للطلاب الدوليين الحاملين لتصريح دراسة (Study Permit) ساري المفعول والملتحقين بدراسة نظامية كاملة العمل حتى 24 ساعة أسبوعياً خارج الحرم الجامعي أثناء الفصول الدراسية، والعمل بدوام كامل خلال العطلات الرسمية المجدولة.",
+        "id": "Ya. Mahasiswa internasional pemegang Study Permit dapat bekerja hingga 24 jam per minggu di luar kampus selama semester perkuliahan dan purnawaktu saat liburan semester resmi.",
+        "zh": "可以。持有有效学习许可（Study Permit）并全日制就读于指定学习机构（DLI）的留学生，在学期内每周可校外工作最多24小时，假期可全职工作。",
+        "ru": "Да. Студенты со Study Permit могут работать вне кампуса до 24 часов в неделю во время семестра и полный рабочий день во время официальных каникул.",
+        "fr": "Oui. Les étudiants titulaires d'un permis d'études valide peuvent travailler jusqu'à 24 heures par semaine hors campus pendant les sessions et à temps plein pendant les vacances.",
+        "es": "Sí. Los estudiantes con permiso de estudio vigente pueden trabajar hasta 24 horas por semana fuera del campus durante el semestre y tiempo completo en vacaciones.",
+        "ja": "はい。有効な就学許可証（Study Permit）を持つ留学生は、学期中は週24時間まで、長期休暇中はフルタイムで就労可能です。",
+        "ko": "네. 유효한 스터디 퍼밋을 소지한 학생은 학기 중 주당 최대 24시간까지 오프캠퍼스 근무가 가능하며, 공식 방학 기간에는 풀타임 근무가 가능합니다."
+      }
+    },
+    {
+      "q": {
+        "en": "How does the Post-Graduation Work Permit (PGWP) work in Canada?",
+        "ar": "كيف يعمل تصريح العمل بعد التخرج (PGWP) في كندا؟",
+        "id": "Bagaimana sistem Post-Graduation Work Permit (PGWP) di Kanada?",
+        "zh": "加拿大的毕业后工作许可（PGWP）如何运作？",
+        "ru": "Как работает разрешение на работу после выпуска (PGWP) в Канаде?",
+        "fr": "Comment fonctionne le permis de travail post-diplôme (PTPD/PGWP) au Canada?",
+        "es": "¿Cómo funciona el permiso de trabajo de posgraduación (PGWP) en Canadá?",
+        "ja": "カナダの卒業後就労ビザ（PGWP）はどのような仕組みですか？",
+        "ko": "캐나다 졸업 후 워크 퍼밋(PGWP)은 어떻게 운영되나요?"
+      },
+      "a": {
+        "en": "Graduates of eligible degree programs from designated Canadian public institutions can apply for an open work permit valid for up to 3 years. This allows graduates to gain valuable Canadian professional work experience, which often provides a direct pathway to Canadian permanent residency (PR).",
+        "ar": "يمنح خريجو البرامج الجامعية المؤهلة في كندا تصريح عمل مفتوح (PGWP) تصل مدته إلى 3 سنوات كاملة بعد التخرج. يتيح هذا التصريح اكتساب خبرة عملية مهنية في كندا وهو أحد أهم المسارات المؤهلة للحصول على الإقامة الدائمة (PR).",
+        "id": "Lulusan dari universitas Kanada yang memenuhi syarat berhak mendapatkan izin kerja terbuka (PGWP) hingga 3 tahun untuk memperoleh pengalaman kerja profesional di Kanada.",
+        "zh": "毕业于合格加拿大公立大学学位课程的毕业生，可申请最长达3年的毕业后开放工作签证（PGWP），积累宝贵的加拿大本地工作经验，并有助于申请枫叶卡永久居留（PR）。",
+        "ru": "Выпускники аккредитованных программ канадских вузов могут получить открытое разрешение на работу (PGWP) сроком до 3 лет, открывающее путь к постоянному проживанию (PR).",
+        "fr": "Les diplômés de programmes admissibles peuvent obtenir un permis de travail ouvert jusqu'à 3 ans (PTPD), leur permettant d'acquérir une expérience canadienne menant à la résidence permanente.",
+        "es": "Los graduados de programas elegibles pueden obtener un permiso de trabajo abierto de hasta 3 años (PGWP), lo cual facilita el camino a la residencia permanente en Canadá.",
+        "ja": "カナダの認定大学を卒業後、最大3年間のオープン就労ビザ（PGWP）を申請でき、現地での就労経験を経て永住権（PR）申請に繋げることが可能です。",
+        "ko": "인정된 캐나다 공립 대학 졸업생은 최대 3년 유효한 졸업 후 워크 퍼밋(PGWP)을 발급받아 캐나다 내 전문 경력을 쌓고 영주권(PR) 취득으로 이어질 수 있습니다."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "title": {
+        "en": "Comprehensive Guide to Studying in Canada & Navigating the PGWP",
+        "ar": "الدليل الشامل للدراسة في كندا والحصول على تصريح العمل بعد التخرج (PGWP)",
+        "id": "Panduan Lengkap Kuliah di Kanada & Syarat Izin Kerja Pasca Kelulusan (PGWP)",
+        "zh": "加拿大留学全景指南：申请流程、就读体验与PGWP毕业工签全解析",
+        "ru": "Полный гид по обучению в Канаде: поступление, виза и рабочая виза PGWP",
+        "fr": "Guide complet des études au Canada et du permis de travail post-diplôme (PTPD)",
+        "es": "Guía completa para estudiar en Canadá y obtener el permiso de trabajo PGWP",
+        "ja": "カナダ大学留学完全ガイド：出願手順から卒業後就労ビザ（PGWP）まで",
+        "ko": "캐나다 명문대 유학 가이드: 입학 절차부터 졸업 후 워크 퍼밋(PGWP)까지"
+      },
+      "excerpt": {
+        "en": "Explore world-renowned Canadian higher education, living expenses across provinces, and strategic pathways to career success in North America.",
+        "ar": "استكشف مميزات التعليم الجامعي الكندي وتكاليف المعيشة عبر المقاطعات والمسارات المعتمدة لبناء مسيرة مهنية عالمية في أمريكا الشمالية.",
+        "id": "Pelajari keunggulan sistem pendidikan tinggi Kanada, biaya hidup antar provinsi, dan jalur karir profesional di Amerika Utara.",
+        "zh": "深入了解加拿大世界顶尖的高等教育资源、各省生活成本对比，以及毕业后在北美开拓国际化职业生涯的黄金路径。",
+        "ru": "Узнайте о преимуществах канадского высшего образования, стоимости жизни в различных провинциях и карьерных перспективах.",
+        "fr": "Découvrez les atouts de l'enseignement supérieur canadien, le coût de la vie par province et les opportunités professionnelles.",
+        "es": "Descubre las ventajas de la educación superior en Canadá, el costo de vida por provincia y las oportunidades profesionales.",
+        "ja": "カナダの高等教育の魅力、州ごとの生活費比較、そして北米でキャリアを築くための実践的なステップを解説します。",
+        "ko": "세계적 수준의 캐나다 대학 교육 환경, 주별 생활비 분석, 북미 취업 및 영주권 연계 전략을 상세히 소개합니다."
+      },
+      "date": "2026-09-06",
+      "category": "Guides"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelName": "Post-Degree Diploma / Certificate",
+      "levelAr": "دبلوم الدراسات العليا والشهادات المهنية (Post-Degree)",
+      "levelKey": "level_diploma",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين دراسيتين",
+      "avgFee": "CAD$21,000 - CAD$21,000"
+    },
+    {
+      "levelName": "Bachelor's Degree (Undergraduate)",
+      "levelAr": "درجة البكالوريوس الجامعية الكندية (Undergraduate)",
+      "levelKey": "level_bachelor",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات دراسية متكاملة",
+      "avgFee": "CAD$25,000 - CAD$31,800"
+    },
+    {
+      "levelName": "Master's Degree (Postgraduate)",
+      "levelAr": "درجة الماجستير الكندية (Postgraduate / Master's)",
+      "levelKey": "level_master",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين مكثفة",
+      "avgFee": "CAD$22,000 - CAD$27,700"
+    },
+    {
+      "levelName": "Doctoral Degree (PhD)",
+      "levelAr": "درجة الدكتوراه والأبحاث المتقدمة (Doctorate)",
+      "levelKey": "level_phd",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات بحثية متقدمة",
+      "avgFee": "CAD$19,000 - CAD$21,400"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=QEJyINg0Exo",
+  "programs": [
+    {
+      "id": "sherbrooke-cs-90001",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Informatique et Intelligence Artificielle (Co-op)",
+      "nameAr": "بكالوريوس علوم الحاسوب والذكاء الاصطناعي (تدريب تعاوني Co-op)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26500,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September, January",
+      "slug": "baccalaur-at-en-informatique-et-intelligence-artificielle-co-op",
+      "overview": "Pioneer of cooperative education in Quebec, alternating academic study sessions with paid industrial internships across Canada's tech corridor.",
+      "overviewAr": "رائدة التعليم التعاوني (Co-op) في كيبيك، حيث يتناوب الطلاب بين الفصول الدراسية وفترات التدريب المدفوعة في شركات التكنولوجيا.",
+      "requirements": "High school diploma with Mathematics and Sciences. IELTS 6.0.",
+      "requirementsAr": "شهادة الثانوية بالمسار العلمي مع آيلتس 6.0.",
+      "careerOpportunities": [
+        "Software Engineer",
+        "AI Application Developer",
+        "Cloud Services Engineer",
+        "Data Analyst"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس برمجيات",
+        "مطور تطبيقات الذكاء الاصطناعي",
+        "مهندس خدمات سحابية",
+        "محلل بيانات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26500
+        },
+        {
+          "year": 2,
+          "fee": 26500
+        },
+        {
+          "year": 3,
+          "fee": 26500
+        }
+      ],
+      "totalTuitionFee": 79500,
+      "curriculum": {
+        "year1": [
+          "CS101: Introduction to Programming & Computing (Python)",
+          "MATH101: Calculus & Linear Algebra for CS",
+          "CS102: Discrete Structures and Logic",
+          "Academic Research & Technology Ethics"
+        ],
+        "year2": [
+          "CS201: Data Structures and Algorithmic Analysis",
+          "CS202: Object-Oriented Software Design (Java/C++)",
+          "CS203: Computer Systems and Architecture",
+          "CS204: Relational Databases & SQL Systems"
+        ],
+        "year3": [
+          "CS301: Operating Systems & Kernel Programming",
+          "CS302: Artificial Intelligence & Machine Learning",
+          "CS303: Computer Networks & Distributed Systems",
+          "CS304: Software Testing and Quality Assurance"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CS101: مقدمة في البرمجة وعلوم الحوسبة (بايثون)",
+          "MATH101: التفاضل والتكامل والجبر الخطي للحاسوب",
+          "CS102: التراكيب المتقطعة والمنطق الحسابي",
+          "مهارات البحث الأكاديمي وأخلاقيات التكنولوجيا"
+        ],
+        "year2": [
+          "CS201: هياكل البيانات وتحليل الخوارزميات المتقدمة",
+          "CS202: هندسة وتصميم البرمجيات الكائنية (Java/C++)",
+          "CS203: بنية ومعمارية الحواسب والنظم",
+          "CS204: قواعد البيانات العلائقية ونظم SQL"
+        ],
+        "year3": [
+          "CS301: نظم التشغيل وبرمجة النواة والذاكرة",
+          "CS302: الذكاء الاصطناعي وتعلم الآلة",
+          "CS303: شبكات الحاسوب والنظم الموزعة",
+          "CS304: اختبار وجودة البرمجيات والأنظمة"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-engineering-90002",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Génie Logiciel (Co-op)",
+      "nameAr": "بكالوريوس هندسة البرمجيات (تدريب تعاوني Co-op)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27800,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "slug": "baccalaur-at-en-g-nie-logiciel-co-op",
+      "overview": "Engineering degree with 4 to 5 paid internships covering enterprise software design, cyberdefense, and modern DevOps architectures.",
+      "overviewAr": "برنامج هندسي معتمد يشمل 4 إلى 5 فترات تدريب مدفوعة الأجر تغطي تصميم البرمجيات المؤسسية والدفاع السيبراني وهندسة DevOps.",
+      "requirements": "High school science diploma with strong math & physics. IELTS 6.0.",
+      "requirementsAr": "شهادة الثانوية العلمية مع التميز في الرياضيات والفيزياء وآيلتس 6.0.",
+      "careerOpportunities": [
+        "Full Stack Software Architect",
+        "Cybersecurity Analyst",
+        "DevOps Consultant",
+        "Product Development Lead"
+      ],
+      "careerOpportunitiesAr": [
+        "معماري برمجيات متكامل",
+        "محلل أمن سيبراني",
+        "مستشار DevOps",
+        "قائد تطوير المنتجات البرمجية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27800
+        },
+        {
+          "year": 2,
+          "fee": 27800
+        },
+        {
+          "year": 3,
+          "fee": 27800
+        },
+        {
+          "year": 4,
+          "fee": 27800
+        }
+      ],
+      "totalTuitionFee": 111200,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-engineering-90003",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Génie Mécanique (Co-op)",
+      "nameAr": "بكالوريوس الهندسة الميكانيكية (تدريب تعاوني Co-op)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27800,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "slug": "baccalaur-at-en-g-nie-m-canique-co-op",
+      "overview": "Accredited engineering program integrating paid work terms in automotive, aeronautics, robotics, and advanced energy systems.",
+      "overviewAr": "برنامج هندسي معتمد يدمج فترات عمل مدفوعة في صناعة السيارات وهندسة الطيران والروبوتات وأنظمة الطاقة المتقدمة.",
+      "requirements": "High school graduation in Sciences (Physics, Math). IELTS 6.0.",
+      "requirementsAr": "الثانوية العامة في المسار العلمي مع آيلتس 6.0.",
+      "careerOpportunities": [
+        "Mechanical Design Engineer",
+        "Aerospace Manufacturing Lead",
+        "Robotics Integrator",
+        "Energy Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس تصميم ميكانيكي",
+        "قائد تصنيع هياكل الطيران",
+        "أخصائي تكامل الروبوتات",
+        "مستشار أنظمة الطاقة"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27800
+        },
+        {
+          "year": 2,
+          "fee": 27800
+        },
+        {
+          "year": 3,
+          "fee": 27800
+        },
+        {
+          "year": 4,
+          "fee": 27800
+        }
+      ],
+      "totalTuitionFee": 111200,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-engineering-90004",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Génie Électrique (Co-op)",
+      "nameAr": "بكالوريوس الهندسة الكهربائية والإلكترونية (تدريب تعاوني Co-op)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27800,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "slug": "baccalaur-at-en-g-nie-lectrique-co-op",
+      "overview": "Features hands-on co-op work terms in telecommunications, quantum hardware technologies, microelectronics, and clean grid integration.",
+      "overviewAr": "يشمل فترات تدريب تعاوني مدفوعة في الاتصالات وتكنولوجيا العتاد الكمي والإلكترونيات الدقيقة ودمج شبكات الطاقة النظيفة.",
+      "requirements": "High school science completion with physics & calculus. IELTS 6.0.",
+      "requirementsAr": "شهادة الثانوية العامة العلمية مع إتقان الفيزياء والرياضيات وآيلتس 6.0.",
+      "careerOpportunities": [
+        "Quantum Hardware Specialist",
+        "Telecommunication Systems Lead",
+        "Renewable Grid Engineer",
+        "Electronic Circuit Designer"
+      ],
+      "careerOpportunitiesAr": [
+        "أخصائي عتاد الحوسبة الكمية",
+        "قائد نظم الاتصالات",
+        "مهندس شبكات الطاقة المتجددة",
+        "مصمم الدوائر الإلكترونية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27800
+        },
+        {
+          "year": 2,
+          "fee": 27800
+        },
+        {
+          "year": 3,
+          "fee": 27800
+        },
+        {
+          "year": 4,
+          "fee": 27800
+        }
+      ],
+      "totalTuitionFee": 111200,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-engineering-90005",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Génie Civil (Co-op)",
+      "nameAr": "بكالوريوس الهندسة المدنية وإدارة المشاريع (تدريب تعاوني Co-op)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27800,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "slug": "baccalaur-at-en-g-nie-civil-co-op",
+      "overview": "Integrates paid internships in bridge construction, urban road networks, environmental hydraulics, and sustainable materials.",
+      "overviewAr": "يدمج فترات تدريب مدفوعة في تشييد الجسور وشبكات الطرق الحضرية وهندسة الموارد البيئية والمواد المستدامة.",
+      "requirements": "Secondary school sciences with math and physics. IELTS 6.0.",
+      "requirementsAr": "شهادة الثانوية بالمسار العلمي مع الرياضيات والفيزياء وآيلتس 6.0.",
+      "careerOpportunities": [
+        "Civil Infrastructure Lead",
+        "Structural Site Director",
+        "Environmental Hydraulics Analyst",
+        "Urban Geotechnical Engineer"
+      ],
+      "careerOpportunitiesAr": [
+        "قائد البنى التحتية المدنية",
+        "مدير الموقع الإنشائي",
+        "محلل الهيدروليكا البيئية",
+        "مهندس جيوتقني حضري"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27800
+        },
+        {
+          "year": 2,
+          "fee": 27800
+        },
+        {
+          "year": 3,
+          "fee": 27800
+        },
+        {
+          "year": 4,
+          "fee": 27800
+        }
+      ],
+      "totalTuitionFee": 111200,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-engineering-90006",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Génie Biotechnologique (Co-op)",
+      "nameAr": "بكالوريوس الهندسة التكنولوجية الحيوية (تدريب تعاوني Co-op)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27800,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "slug": "baccalaur-at-en-g-nie-biotechnologique-co-op",
+      "overview": "Unique program in Canada blending bioprocess engineering, fermentation technology, genetic engineering, and environmental cleanup.",
+      "overviewAr": "برنامج فريد في كندا يجمع بين هندسة العمليات الحيوية، وتكنولوجيا التخمير، والهندسة الوراثية، والمعالجة البيئية.",
+      "requirements": "High school science with strong chemistry and biology. IELTS 6.0.",
+      "requirementsAr": "الثانوية العامة بتفوق في الكيمياء والأحياء والرياضيات وآيلتس 6.0.",
+      "careerOpportunities": [
+        "Bioprocess Development Engineer",
+        "Pharmaceutical Production Lead",
+        "Biofuels Process Specialist",
+        "Biotech Quality Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس تطوير العمليات الحيوية",
+        "قائد الإنتاج الدوائي",
+        "أخصائي عمليات الوقود الحيوي",
+        "مدير جودة التقنية الحيوية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27800
+        },
+        {
+          "year": 2,
+          "fee": 27800
+        },
+        {
+          "year": 3,
+          "fee": 27800
+        },
+        {
+          "year": 4,
+          "fee": 27800
+        }
+      ],
+      "totalTuitionFee": 111200,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-business-90007",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Administration des Affaires (BBA - Finance) (Co-op)",
+      "nameAr": "بكالوريوس إدارة الأعمال (العلوم المالية والمصرفية) (تدريب تعاوني Co-op)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25200,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September, January",
+      "slug": "baccalaur-at-en-administration-des-affaires-bba-finance-co-op",
+      "overview": "Comprehensive business administration degree offering paid internships in finance, capital investments, and corporate financial planning.",
+      "overviewAr": "برنامج شامل في إدارة الأعمال يمنح فترات تدريب مدفوعة في التمويل والاستثمارات الرأسمالية والتخطيط المالي المؤسسي.",
+      "requirements": "High school graduation with Mathematics. IELTS 6.0.",
+      "requirementsAr": "شهادة الثانوية العامة مع مادة الرياضيات وآيلتس 6.0.",
+      "careerOpportunities": [
+        "Corporate Financial Analyst",
+        "Wealth Portfolio Associate",
+        "Credit Risk Assessor",
+        "Treasury Operations Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "محلل مالي للشركات",
+        "مساعد إدارة محافظ الثروات",
+        "مقيم مخاطر الائتمان",
+        "أخصائي عمليات الخزينة"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25200
+        },
+        {
+          "year": 2,
+          "fee": 25200
+        },
+        {
+          "year": 3,
+          "fee": 25200
+        }
+      ],
+      "totalTuitionFee": 75600,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-business-90008",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Administration des Affaires (BBA - Marketing) (Co-op)",
+      "nameAr": "بكالوريوس إدارة الأعمال (التسويق الرقمي وإدارة الأسواق) (تدريب تعاوني Co-op)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25200,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September, January",
+      "slug": "baccalaur-at-en-administration-des-affaires-bba-marketing-co-op",
+      "overview": "Combines digital marketing strategy, consumer insights, omni-channel campaigns, and paid internships in leading corporations.",
+      "overviewAr": "يجمع بين استراتيجيات التسويق الرقمي وسلوك المستهلك والحملات متعددة القنوات مع فترات تدريب مدفوعة في الشركات الكبرى.",
+      "requirements": "High school diploma with Mathematics. IELTS 6.0.",
+      "requirementsAr": "شهادة الثانوية العامة مع الرياضيات وآيلتس 6.0.",
+      "careerOpportunities": [
+        "Digital Marketing Strategist",
+        "Brand Development Manager",
+        "Customer Growth Lead",
+        "E-Commerce Director"
+      ],
+      "careerOpportunitiesAr": [
+        "استراتيجي التسويق الرقمي",
+        "مدير تطوير العلامات التجارية",
+        "قائد نمو العملاء",
+        "مدير التجارة الإلكترونية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25200
+        },
+        {
+          "year": 2,
+          "fee": 25200
+        },
+        {
+          "year": 3,
+          "fee": 25200
+        }
+      ],
+      "totalTuitionFee": 75600,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-business-90009",
+      "universityId": "sherbrooke",
+      "name": "Maîtrise en Administration des Affaires (MBA)",
+      "nameAr": "ماجستير إدارة الأعمال والقيادة التنفيذية (MBA)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 29400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "ma-trise-en-administration-des-affaires-mba",
+      "overview": "Executive-oriented MBA training professionals in strategic business transformation, financial engineering, and international governance.",
+      "overviewAr": "برنامج MBA يركز على التطوير التنفيذي وتأهيل المهنيين في قيادة التحول الاستراتيجي والهندسة المالية والحوكمة الدولية.",
+      "requirements": "Bachelor's degree with 2+ years professional experience and IELTS 6.5.",
+      "requirementsAr": "شهادة البكالوريوس مع سنتين خبرة مهنية على الأقل وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Chief Operating Officer",
+        "Management Consulting Director",
+        "Enterprise Strategy Lead",
+        "Business Unit Head"
+      ],
+      "careerOpportunitiesAr": [
+        "رئيس العمليات التشغيلية",
+        "مدير استشارات إدارية",
+        "قائد استراتيجية المؤسسات",
+        "رئيس قطاع الأعمال"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29400
+        },
+        {
+          "year": 2,
+          "fee": 29400
+        }
+      ],
+      "totalTuitionFee": 58800,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-health-90010",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Sciences Infirmières",
+      "nameAr": "بكالوريوس علوم التمريض والرعاية السريرية",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24800,
+      "currency": "CAD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "slug": "baccalaur-at-en-sciences-infirmi-res",
+      "overview": "Prepares caring nurses with direct clinical hospital rotations across Eastern Townships health facilities.",
+      "overviewAr": "يؤهل كوادر التمريض من خلال تدريب سريري مباشر في شبكة مستشفيات ومراكز الرعاية الصحية الإقليمية.",
+      "requirements": "High school sciences with biology and chemistry. IELTS 6.0.",
+      "requirementsAr": "الثانوية العلمية مع الأحياء والكيمياء وآيلتس 6.0.",
+      "careerOpportunities": [
+        "Hospital Staff Nurse",
+        "Intensive Care Nurse",
+        "Maternal Care Specialist",
+        "Community Health Coordinator"
+      ],
+      "careerOpportunitiesAr": [
+        "ممرض مستشفى معتمد",
+        "ممرض عناية مركزة",
+        "أخصائي رعاية الأمومة",
+        "منسق صحة المجتمع"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24800
+        },
+        {
+          "year": 2,
+          "fee": 24800
+        },
+        {
+          "year": 3,
+          "fee": 24800
+        }
+      ],
+      "totalTuitionFee": 74400,
+      "curriculum": {
+        "year1": [
+          "HLTH101: Human Anatomy and Physiology I",
+          "CHEM101: General and Biological Chemistry",
+          "HLTH102: Introduction to Health Sciences & Ethics",
+          "BIOL101: Cellular and Molecular Biology"
+        ],
+        "year2": [
+          "HLTH201: Pathophysiology and Mechanisms of Disease",
+          "HLTH202: Pharmacology and Drug Actions",
+          "HLTH203: Clinical Microbiology and Immunology",
+          "HLTH204: Epidemiology and Public Health Methods"
+        ],
+        "year3": [
+          "HLTH301: Clinical Assessment & Patient Care Principles",
+          "HLTH302: Health Systems and Healthcare Policy",
+          "HLTH303: Evidence-Based Clinical Practice & Research",
+          "HLTH304: Clinical Practicum Hospital Placement I"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "HLTH101: التشريح وعلم وظائف الأعضاء البشرية I",
+          "CHEM101: الكيمياء العامة والحيوية التطبيقية",
+          "HLTH102: مدخل إلى العلوم الصحية وأخلاقيات الرعاية",
+          "BIOL101: البيولوجيا الخلوية والجزيئية"
+        ],
+        "year2": [
+          "HLTH201: علم الأمراض والآليات البيولوجية للمرض",
+          "HLTH202: علم الأدوية وميكانيكية عمل العلاجات",
+          "HLTH203: الأحياء الدقيقة والمناعة السريرية",
+          "HLTH204: علم الوبائيات ومناهج الصحة العامة"
+        ],
+        "year3": [
+          "HLTH301: التقييم السريري وأسس رعاية المرضى",
+          "HLTH302: الأنظمة الصحية والسياسات الطبية الدولية",
+          "HLTH303: الممارسة السريرية المبنية على الدليل العلمي",
+          "HLTH304: التدريب الميداني السريري بالمستشفيات I"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-law-90011",
+      "universityId": "sherbrooke",
+      "name": "Baccalauréat en Droit (LL.B.)",
+      "nameAr": "بكالوريوس القانون والدراسات القضائية (LL.B.)",
+      "field": "law",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25600,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "baccalaur-at-en-droit-ll-b",
+      "overview": "Complete training in Quebec civil law, business law, environmental obligations, and practical legal clinics.",
+      "overviewAr": "تدريب متكامل في القانون المدني وقانون الأعمال والالتزامات البيئية والعيادات القانونية التطبيقية.",
+      "requirements": "Pre-university degree with high academic average and IELTS 6.5.",
+      "requirementsAr": "شهادة دراسات ما قبل الجامعة بمعدل متميز وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Civil Practice Lawyer",
+        "In-House Legal Advisor",
+        "Notary Public Candidate",
+        "Mediation Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "محامٍ في القضايا المدنية",
+        "مستشار قانوني للشركات",
+        "مرشح للموثق القانوني العام",
+        "أخصائي الوساطة وتسوية النزاعات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25600
+        },
+        {
+          "year": 2,
+          "fee": 25600
+        },
+        {
+          "year": 3,
+          "fee": 25600
+        }
+      ],
+      "totalTuitionFee": 76800,
+      "curriculum": {
+        "year1": [
+          "LAW101: Constitutional Law and Charter Rights",
+          "LAW102: Contracts and Commercial Obligations",
+          "LAW103: Criminal Law and Criminal Procedure",
+          "LAW104: Legal Research, Writing and Advocacy"
+        ],
+        "year2": [
+          "LAW201: Administrative Law and Regulatory Bodies",
+          "LAW202: Corporate and Business Organizations Law",
+          "LAW203: Law of Evidence and Civil Court Procedure",
+          "LAW204: International Law and Global Institutions"
+        ],
+        "year3": [
+          "LAW301: Advanced Trial Advocacy and Courtroom Clinic",
+          "LAW302: Intellectual Property and Technology Law",
+          "LAW303: Cross-Border Commercial Arbitration & Dispute Resolution",
+          "LAW399: Senior Legal Thesis and Judicial Jurisprudence"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "LAW101: القانون الدستوري وميثاق الحقوق والحريات",
+          "LAW102: قانون العقود والالتزامات التجارية",
+          "LAW103: القانون الجنائي وأصول المحاكمات والإجراءات الجزائية",
+          "LAW104: مناهج البحث القانوني وصياغة المذكرات والترافع"
+        ],
+        "year2": [
+          "LAW201: القانون الإداري والرقابة على القرارات الحكومية",
+          "LAW202: قانون الشركات والمنشآت التجارية والاستثمار",
+          "LAW203: قانون الإثبات وإجراءات المحاكم المدنية",
+          "LAW204: القانون الدولي العام والمؤسسات العالمية"
+        ],
+        "year3": [
+          "LAW301: عيادة التقاضي والترافع المتقدم أمام المحاكم",
+          "LAW302: قانون الملكية الفكرية وتكنولوجيا المعلومات",
+          "LAW303: التحكيم التجاري الدولي وتسوية النزاعات عبر الحدود",
+          "LAW399: أطروحة التخرج القانونية والبحث الفقهي والتشريعي"
+        ]
+      }
+    },
+    {
+      "id": "sherbrooke-cs-90012",
+      "universityId": "sherbrooke",
+      "name": "Maîtrise en Informatique - Vision par Ordinateur et Robotique",
+      "nameAr": "ماجستير علوم الحاسوب في رؤية الحاسوب والروبوتات الذكية",
+      "field": "cs",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 23500,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "ma-trise-en-informatique-vision-par-ordinateur-et-robotique",
+      "overview": "Research-intensive master's specializing in SLAM, visual sensor processing, robot manipulation, and 3D environment reconstruction.",
+      "overviewAr": "ماجستير بحثي متخصص في خوارزميات SLAM ومعالجة أجهزة الاستشعار البصرية وتحكم الروبوتات وإعادة بناء البيئات ثلاثية الأبعاد.",
+      "requirements": "Bachelor's degree in CS, Computer Engineering, or Electrical Engineering. IELTS 6.5.",
+      "requirementsAr": "شهادة البكالوريوس في علوم الحاسوب أو الهندسة الكهربائية وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Robotics Vision Scientist",
+        "Autonomous Drone Algorithm Lead",
+        "Sensor Fusion Engineer",
+        "AI Perception Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "عالم رؤية الروبوتات",
+        "قائد خوارزميات الطائرات المسيرة",
+        "مهندس دمج المستشعرات الذكية",
+        "أخصائي الإدراك الاصطناعي"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23500
+        },
+        {
+          "year": 2,
+          "fee": 23500
+        }
+      ],
+      "totalTuitionFee": 47000,
+      "curriculum": {
+        "year1": [
+          "CS101: Introduction to Programming & Computing (Python)",
+          "MATH101: Calculus & Linear Algebra for CS",
+          "CS102: Discrete Structures and Logic",
+          "Academic Research & Technology Ethics"
+        ],
+        "year2": [
+          "CS201: Data Structures and Algorithmic Analysis",
+          "CS202: Object-Oriented Software Design (Java/C++)",
+          "CS203: Computer Systems and Architecture",
+          "CS204: Relational Databases & SQL Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CS101: مقدمة في البرمجة وعلوم الحوسبة (بايثون)",
+          "MATH101: التفاضل والتكامل والجبر الخطي للحاسوب",
+          "CS102: التراكيب المتقطعة والمنطق الحسابي",
+          "مهارات البحث الأكاديمي وأخلاقيات التكنولوجيا"
+        ],
+        "year2": [
+          "CS201: هياكل البيانات وتحليل الخوارزميات المتقدمة",
+          "CS202: هندسة وتصميم البرمجيات الكائنية (Java/C++)",
+          "CS203: بنية ومعمارية الحواسب والنظم",
+          "CS204: قواعد البيانات العلائقية ونظم SQL"
+        ]
+      }
+    }
+  ],
+  "programsCount": 161,
+  "totalProgramsCount": 161,
+  "video": "https://www.youtube.com/embed/QEJyINg0Exo"
+}

@@ -1,0 +1,2315 @@
+{
+  "id": "help",
+  "name": "HELP University",
+  "arabicName": "جامعة هيلب (HELP University)",
+  "city": "Kuala Lumpur / Subang Bestari",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-help.webp",
+  "image": "assets/photo/campus_help.webp",
+  "website": "https://help.edu.my/",
+  "ranking": "Premier University for Psychology & Business in Asia",
+  "established": "1986",
+  "campusName": "HELP Subang 2 & Damansara Heights Campus",
+  "studentCount": "9,000+ (60+ Countries)",
+  "intakes": "Jan, Apr, Aug",
+  "feeRangeMin": 8875,
+  "feeRangeMax": 40000,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/N1gawkRIryk",
+  "description": "HELP University is one of the leading recognized higher education institutions located in Kuala Lumpur / Subang Bestari. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة هيلب (HELP University) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Kuala Lumpur / Subang Bestari، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "HELP University didirikan pada tahun 1986 dan berlokasi di Damansara Heights dan Subang 2, Selangor. HELP diakui secara luas sebagai pelopor dan pusat pendidikan terdepan di Asia dalam bidang Psikologi, Hukum, Bisnis, dan Manajemen Data dengan akreditasi QS 5 Bintang.",
+    "en": "HELP University, established in 1986 across premier campuses in Damansara Heights and Subang 2, is widely recognized as Southeast Asia’s pioneer and premier center for Psychology, Law, Business Analytics, and Education, holding QS 5-Star ratings.",
+    "ar": "تأسست جامعة هيلب (HELP University) عام 1986 في دامنصارا هايتس وسوبانج، وتعد الرائدة ومركز التميز الأكاديمي الأول في جنوب شرق آسيا في تدريس علم النفس (Psychology)، والحقوق، وتحليلات الأعمال، وهي حاصلة على 5 نجوم من QS.",
+    "zh": "精英大学（HELP University）创办于1986年，在吉隆坡白沙罗高原及梳邦建有两大校区。精英大学被公认为东南亚心理学、法学、商业分析与学前教育的旗舰高等学府，荣获QS世界五星级卓越高等教育认证。",
+    "ru": "Университет HELP, основанный в 1986 году в Куала-Лумпуре, признан ведущим центром в Юго-Восточной Азии по психологии, праву и бизнес-аналитике с рейтингом QS 5 звезд.",
+    "fr": "Fondée en 1986 à Kuala Lumpur, HELP University est le pôle d'excellence en Asie du Sud-Est pour la psychologie, le droit et la gestion avec 5 étoiles QS.",
+    "es": "HELP University, fundada en 1986 en Kuala Lumpur, es el centro de excelencia líder en el Sudeste Asiático en Psicología, Derecho y Análisis de Negocios, con 5 estrellas QS.",
+    "ja": "HELP大学は1986年に設立された名門私立大学であり、心理学、法学、ビジネスアナリティクスにおいて東南アジア屈指の教育拠点としてQS 5ツ星を獲得しています。",
+    "ko": "헬프 대학교(HELP University)는 1986년에 설립된 명문 사립대학교로 다만사라 하이츠와 수방 캠퍼스에서 심리학, 법학, 비즈니스 분석학 분야의 최고 권위를 보유하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Ilmu Psikologi Komprehensif & Ruang Observasi Klinis",
+        "en": "Comprehensive Centre for Psychological Sciences & Clinical Observation",
+        "ar": "المركز الإكلينيكي لعلوم النفس والمراقبة السلوكية والاستشارات النفسية",
+        "ko": "심리학 전문 종합 연구 센터 및 임상 행동 관찰 실습실",
+        "ja": "総合心理科学研究センター＆臨床行動観察ラボ",
+        "zh": "亚太地区顶尖规模的心理科学综合实训中心与临床行为观察室",
+        "ru": "Центр психологических наук и клинического наблюдения",
+        "fr": "Centre de sciences psychologiques et d'observation clinique",
+        "es": "Centro integral de ciencias psicológicas y observación clínica"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Terminal Finansial Bloomberg & Simulasi Bisnis",
+        "en": "Bloomberg Financial Terminal & Business Simulation Suite",
+        "ar": "أجنحة محاكاة الأعمال ومنصات بلومبرغ المباشرة للأسواق المالية العالمية",
+        "ko": "블룸버그 금융 터미널 및 글로벌 비즈니스 시뮬레이션 랩",
+        "ja": "ブルームバーグ金融端末完備ビジネスシミュレーションスイート",
+        "zh": "彭博(Bloomberg)金融信息终端与跨国商业沙盘模拟实操套件",
+        "ru": "Финансовый терминал Bloomberg и бизнес-симуляторы",
+        "fr": "Suite de simulation commerciale et terminaux financiers Bloomberg",
+        "es": "Terminal financiera Bloomberg y suite de simulación empresarial"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Hijau Cerdas Berkelanjutan Subang Bestari 24 Hektar",
+        "en": "24-Acre Eco Subang Bestari Smart Sustainable Campus",
+        "ar": "حرم سوبانج بيستاري البيئي الذكي المستدام بمساحة 24 فداناً",
+        "ko": "24에이커 규모의 친환경 스마트 에코 수방 베스타리 캠퍼스",
+        "ja": "24エーカーの環境共生型スバン・ベスタリ・スマートキャンパス",
+        "zh": "占地24英亩绿色环保低碳的苏邦百思达利(Subang Bestari)智慧新校区",
+        "ru": "Экологичный умный кампус площадью 24 акра в Субанг Бестари",
+        "fr": "Campus écologique intelligent et durable de 24 acres à Subang Bestari",
+        "es": "Campus ecológico inteligente y sostenible de 24 acres en Subang Bestari"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Gedung Olahraga Tertutup & Teater Seni Pertunjukan Multi-Fungsi",
+        "en": "Multi-Purpose Indoor Sports Hall & Performing Arts Theatre",
+        "ar": "المسرح الفني المتطور والصالة الرياضية المغطاة متعددة الاستخدامات",
+        "ko": "다목적 실내 체육관 및 종합 공연 예술 전용 오디토리움",
+        "ja": "多目的屋内スポーツアリーナ＆パフォーミングアーツ劇場",
+        "zh": "室内大型综合多功能体育运动馆与专业演艺艺术多功能大剧场",
+        "ru": "Многофункциональный крытый спортзал и театр исполнительских искусств",
+        "fr": "Halle des sports couverte et théâtre des arts du spectacle",
+        "es": "Pabellón polideportivo cubierto y teatro de artes escénicas"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pelopor & Fakultas Psikologi Terbesar di Asia Tenggara",
+        "en": "Undisputed Pioneer & Largest Faculty of Psychology in Southeast Asia",
+        "ar": "الرائدة والأكبر في تدريس علوم النفس والصحة السلوكية في جنوب شرق آسيا",
+        "ko": "동남아시아 최대 규모 및 최고 권위의 심리학과 보유 대학",
+        "ja": "東南アジア最大規模・最高峰の心理学部を誇るパイオニア",
+        "zh": "公认东南亚历史最悠久、规模最大、最具行业威望的王牌心理学府",
+        "ru": "Ведущий и крупнейший факультет психологии в Юго-Восточной Азии",
+        "fr": "Pionnier incontesté et plus grande faculté de psychologie d'Asie du Sud-Est",
+        "es": "Pionero indiscutible y la mayor facultad de psicología del sudeste asiático"
+      },
+      "desc": {
+        "id": "Diakui oleh Australian Psychological Society (APS) dan British Psychological Society (BPS) untuk akreditasi global.",
+        "en": "Fully recognized by international psychological bodies in Australia and the UK.",
+        "ar": "معتمدة بالكامل من الجمعية النفسية الأسترالية (APS) والجمعية النفسية البريطانية (BPS).",
+        "ko": "호주 심리학회(APS) 및 영국 심리학회(BPS)의 엄격한 글로벌 인증 통과.",
+        "ja": "オーストラリア心理学会（APS）および英国心理学会（BPS）の国際公認。",
+        "zh": "学位获澳大利亚心理学会(APS)与英国心理学会(BPS)全方位国际权威专业认证。",
+        "ru": "Полное признание психологическими ассоциациями Австралии и Великобритании.",
+        "fr": "Reconnu par les sociétés de psychologie australienne et britannique.",
+        "es": "Reconocido por las asociaciones de psicología de Australia y Reino Unido."
+      }
+    },
+    {
+      "icon": "global",
+      "title": {
+        "id": "Jalur Transfer Kredit Luas ke Kampus Top Inggris & Australia",
+        "en": "Extensive Credit Transfer Pathways to Top UK & Australian Universities",
+        "ar": "مسارات انتقال ومعادلة ساعات مرنة لأعرق جامعات بريطانيا وأستراليا",
+        "ko": "영국 및 호주 명문대로의 광범위한 학점 인정 편입 연계 프로그램",
+        "ja": "英国・豪州トップ大学への広範な単位互換・編入プログラム完備",
+        "zh": "畅通无阻对接英澳美加数十所世界顶尖名校的高效学分转移直通体系",
+        "ru": "Широкие возможности перевода кредитов в топовые вузы Великобритании и Австралии",
+        "fr": "Programmes étendus de transfert de crédits vers les meilleures universités du Royaume-Uni et d'Australie",
+        "es": "Amplias vías de transferencia de créditos a universidades de Reino Unido y Australia"
+      },
+      "desc": {
+        "id": "Kerjasama resmi dengan University of Queensland, Melbourne, Leeds, dan Manchester untuk skema 1+2 atau 2+1.",
+        "en": "Formal 1+2 and 2+1 articulation agreements with Queensland, Melbourne, Leeds, and Manchester.",
+        "ar": "اتفاقيات معادلة رسمية بنظام 1+2 و 2+1 مع جامعات كوينزلاند، ملبورن، ليدز، ومانشستر.",
+        "ko": "호주 퀸즐랜드, 멜버른, 영국 리즈, 맨체스터 등 세계 100대 명문대와 공식 편입 협약 체결.",
+        "ja": "クイーンズランド大、メルボルン大、リーズ大、マンチェスター大との正式な編入提携。",
+        "zh": "与澳大利亚昆士兰大学、墨尔本大学、英国利兹大学、曼彻斯特大学建立正规1+2/2+1合作。",
+        "ru": "Официальные соглашения 1+2 и 2+1 с университетами Квинсленда, Лидса и Манчестера.",
+        "fr": "Accords formels 1+2 et 2+1 avec Queensland, Melbourne, Leeds et Manchester.",
+        "es": "Convenios oficiales 1+2 y 2+1 con universidades como Queensland, Melbourne, Leeds y Mánchester."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pengakuan Premier Digital Tech University oleh MDEC Malaysia",
+        "en": "Premier Digital Tech University Recognition by MDEC",
+        "ar": "معتمدة كجامعة رائدة في التكنولوجيا الرقمية (Premier Digital Tech University)",
+        "ko": "말레이시아 디지털경제공사(MDEC) 공인 프리미어 디지털 테크 대학",
+        "ja": "マレーシアデジタル経済公社（MDEC）認定プレミア・デジタル・テック大学",
+        "zh": "马来西亚数字经济发展局(MDEC)官方认证顶级卓越数字科技大学称号",
+        "ru": "Статус Premier Digital Tech University от правительства Малайзии (MDEC)",
+        "fr": "Reconnaissance Premier Digital Tech University par le gouvernement (MDEC)",
+        "es": "Reconocimiento Premier Digital Tech University por MDEC Malasia"
+      },
+      "desc": {
+        "id": "Kurikulum sains data, kecerdasan buatan, dan komputasi awan yang terintegrasi dengan kebutuhan industri modern.",
+        "en": "Cutting-edge data science, AI, and business analytics curricula driven by industry tech giants.",
+        "ar": "مناهج متقدمة في علوم البيانات، الذكاء الاصطناعي، وتحليلات الأعمال بالشراكة مع كبرى شركات التكنولوجيا.",
+        "ko": "데이터 사이언스, 인공지능(AI), 비즈니스 애널리틱스 등 4차 산업 맞춤형 실무 교육.",
+        "ja": "データサイエンス、AI、ビジネス分析など現代の産業ニーズに即した先端教育を提供。",
+        "zh": "开设前沿大数据科学、人工智能算法与商业智能分析等紧跟产业刚需的核心课程。",
+        "ru": "Обучение науке о данных, ИИ и бизнес-аналитике при поддержке ИТ-гигантов.",
+        "fr": "Programmes de pointe en science des données, IA et analytique d'entreprise.",
+        "es": "Programas de vanguardia en ciencia de datos, IA y analítica empresarial."
+      }
+    },
+    {
+      "icon": "⭐",
+      "title": {
+        "id": "Rating QS 5-Stars untuk Keterserapan Kerja & Standar Pengajaran",
+        "en": "QS 5-Stars Rated for Employability, Teaching & Inclusiveness",
+        "ar": "تقييم خمس نجوم كاملة في تصنيف QS لجودة التدريس وتوظيف الخريجين",
+        "ko": "졸업생 취업률, 교수진 품질 및 교육 포용성 전 부문 QS 5스타 획득",
+        "ja": "就職率・指導力・包括性の全主要部門でQS 5つ星最高評価を獲得",
+        "zh": "在毕业生就业率、学术教学品质与包容性方面荣膺QS满分五星最高评级",
+        "ru": "Высшая оценка 5 звезд QS за трудоустройство и качество преподавания",
+        "fr": "Notation 5 étoiles QS pour l'employabilité, l'enseignement et l'inclusivité",
+        "es": "Calificación de 5 estrellas QS en empleabilidad, docencia e inclusión"
+      },
+      "desc": {
+        "id": "Biaya kuliah sangat terjangkau dengan kualitas pendidikan internasional bereputasi tinggi.",
+        "en": "Outstanding educational quality delivering high return on investment for international students.",
+        "ar": "رسوم دراسية اقتصادية ومناسبة مع عائد تعليمي واستثماري مرتفع للغاية للطلاب الدوليين.",
+        "ko": "매우 합리적인 학비 대비 뛰어난 교육 품질로 국제 유학생들에게 최고의 가성비 제공.",
+        "ja": "非常にリーズナブルな学費設定で世界基準の高品質な教育成果を実現。",
+        "zh": "兼具极为亲民优惠的学费性价比与含金量极高的国际化名校声誉。",
+        "ru": "Доступная стоимость обучения и высокий возврат инвестиций в образование.",
+        "fr": "Une qualité d'enseignement remarquable avec un excellent retour sur investissement.",
+        "es": "Excelente calidad educativa con un alto retorno de inversión para estudiantes."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "HELP University Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة هيلب (HELP University)",
+        "id": "Residensi Mahasiswa Resmi HELP University"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from HELP University internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة هيلب (HELP University) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari HELP University diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, HELP University is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة هيلب (HELP University) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, HELP University terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to HELP University?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة هيلب (HELP University)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke HELP University?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from HELP University?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة هيلب (HELP University)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke HELP University?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to HELP University without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Masuk Fakultas Psikologi Terbaik di HELP University",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for HELP University",
+        "ar": "دليل القبول في كلية علم النفس الرائدة بجامعة هيلب",
+        "zh": "HELP University 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в HELP University",
+        "fr": "Guide complet d'admission et visa étudiant pour HELP University",
+        "es": "Guía completa de admisión y visado de estudiante para HELP University",
+        "ja": "HELP University 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "HELP University 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Syarat nilai rapor, pengakuan internasional APS & BPS, dan prospek karir psikolog berlisensi.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شروط القبول الأكاديمي، الاعتمادات الدولية من أستراليا وبريطانيا، ومستقبل ممارسة مهنة علم النفس.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Skema Transfer Kredit 2+1 & 1+2 ke Universitas Top Australia & Inggris",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around HELP University",
+        "ar": "تفاصيل برامج نقل الساعات 2+1 و 1+2 لكبرى جامعات أستراليا وبريطانيا",
+        "zh": "HELP University 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле HELP University",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de HELP University",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en HELP University",
+        "ja": "HELP University 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "HELP University 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Cara menghemat biaya kuliah hingga 50% dan lulus dengan ijazah universitas bergengsi dunia.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "كيفية توفير نصف تكاليف الدراسة في الخارج والتخرج بشهادة من كبرى الجامعات العالمية.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Kehidupan Mahasiswa di Kampus Subang Bestari & KL",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at HELP University",
+        "ar": "تكاليف المعيشة والحياة الطلابية في حرم سوبانج بيستاري وكوالالمبور",
+        "zh": "HELP University 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в HELP University",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à HELP University",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en HELP University",
+        "ja": "HELP University 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "HELP University 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Rincian sewa kamar asrama, pengeluaran makan, dan transportasi shuttle bus kampus.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "تفاصيل مصروفات السكن الجامعي والمطاعم ووسائل التنقل الحديثة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "HELP Subang Bestari On-Campus Residence",
+        "nameAr": "مجمع السكن الجامعي الداخلي بحرم سوبانج بيستاري",
+        "type": "Modern Single & Twin Ensuite Rooms",
+        "typeAr": "غرف فردية ومزدوجة بحمام خاص وتكييف داخل الحرم",
+        "priceRange": "RM 550 - RM 1,050 / month",
+        "priceRangeAr": "550 - 1,050 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)",
+        "amenities": [
+          "Wi-Fi Cepat Tanpa Batas",
+          "Lounge Belajar Komunal",
+          "Keamanan 24 Jam & Kartu Akses",
+          "Kantin & Food Court Halal",
+          "Dekat Fasilitas Olahraga"
+        ],
+        "amenitiesAr": [
+          "إنترنت سريع غير محدود",
+          "قاعات استذكار ومطالعة",
+          "أمن وحراسة 24 ساعة",
+          "مطاعم وكافتيريا حلال",
+          "ملاصق للملاعب الرياضية"
+        ]
+      },
+      {
+        "name": "Damansara Heights Student Condominiums",
+        "nameAr": "شقق دمنسورا هايتس السكنية الراقية للطلاب",
+        "type": "Fully Furnished City Apartments",
+        "typeAr": "شقق فندقية عصرية في قلب أرقى أحياء كوالالمبور",
+        "priceRange": "RM 750 - RM 1,500 / month",
+        "priceRangeAr": "750 - 1,500 رينجيت / شهرياً",
+        "distance": "5 menit via Shuttle / MRT",
+        "distanceAr": "5 دقائق عبر باص الجامعة / المترو",
+        "distanceEn": "5 mins via Shuttle / MRT link",
+        "amenities": [
+          "Kolam Renang & Pusat Gym",
+          "Dekat Stasiun MRT Semantan",
+          "Perabot Lengkap & Dapur",
+          "Keamanan 24/7",
+          "Akses Mudah Restoran & Mall"
+        ],
+        "amenitiesAr": [
+          "مسبح وصالة لياقة بدنية",
+          "قريب من محطة المترو السريع",
+          "مفروشة بالكامل ومطبخ",
+          "حراسة 24 ساعة",
+          "سهولة الوصول للمطاعم"
+        ]
+      },
+      {
+        "name": "Elmina Green Modern Student Apartments",
+        "nameAr": "مجمع إلمينا جرين السكني الحديث الهادئ",
+        "type": "Eco-Friendly Gated Community Condos",
+        "typeAr": "شقق سكنية عصرية راقية في مجمع بيئي هادئ ومسوّر",
+        "priceRange": "RM 500 - RM 1,000 / month",
+        "priceRangeAr": "500 - 1,000 رينجيت / شهرياً",
+        "distance": "7 menit via Shuttle Bus Kampus",
+        "distanceAr": "7 دقائق عبر حافلة الحرم الجامعي",
+        "distanceEn": "7 mins via Campus Shuttle Bus",
+        "amenities": [
+          "Taman Hijau Asri & Jogging Track",
+          "Kompleks Berpagar Aman 24 Jam",
+          "Perabotan Lengkap",
+          "Shuttle Bus Terjadwal ke Kampus",
+          "Biaya Terjangkau"
+        ],
+        "amenitiesAr": [
+          "حدائق خضراء ومضمار رياضي",
+          "مجمع مسور بحراسة 24 ساعة",
+          "أثاث متكامل ومريح",
+          "باص نقل ترددي للحرم",
+          "تكلفة معيشية مناسبة"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 550 - RM 1,200"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 550 - RM 850"
+      },
+      {
+        "item": "Transportasi Shuttle & MRT",
+        "itemAr": "المواصلات ومترو الأنفاق",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 60 - RM 120"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 70 - RM 140"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 160 - RM 320"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,390 - RM 2,630"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في العلوم والآداب والأعمال",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 16,000 - RM 19,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم التطبيقي المعتمد (إدارة، حوسبة، اتصال، تربية طفولة)",
+      "duration": "2 Years",
+      "durationYears": 2,
+      "avgFeePerYear": "RM 15,000 - RM 18,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Psychology & Business)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس المعتمد (علم نفس، محاسبة، تسويق، تقنية معلومات، إعلام)",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 22,000 - RM 32,000"
+    },
+    {
+      "level": "Master Degree (S2 - Clinical Psychology & MBA)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في علم النفس الإكلينيكي والاستشاري وإدارة الأعمال",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 24,000 - RM 32,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في العلوم النفسية وإدارة الأعمال والتربية",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 20,000 - RM 28,000"
+    }
+  ],
+  "directWatchUrl": null,
+  "programs": [
+    {
+      "id": "help-bachelor-of-computer-science-hons",
+      "universityId": "help",
+      "name": "Bachelor of Computer Science (Hons)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27616,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27616
+        },
+        {
+          "year": 2,
+          "fee": 27616
+        },
+        {
+          "year": 3,
+          "fee": 27616
+        }
+      ],
+      "totalTuitionFee": 82848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-information-technology-hons",
+      "universityId": "help",
+      "name": "Bachelor of Information Technology (Hons)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25516,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25516
+        },
+        {
+          "year": 2,
+          "fee": 25516
+        },
+        {
+          "year": 3,
+          "fee": 25516
+        }
+      ],
+      "totalTuitionFee": 76548,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-information-technology-hons-data-analytics",
+      "universityId": "help",
+      "name": "Bachelor of Information Technology (Hons) Data Analytics",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Data Analytics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25516,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25516
+        },
+        {
+          "year": 2,
+          "fee": 25516
+        },
+        {
+          "year": 3,
+          "fee": 25516
+        }
+      ],
+      "totalTuitionFee": 76548,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-data-science",
+      "universityId": "help",
+      "name": "Master of Data Science",
+      "nameAr": "ماجستير في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-diploma-in-information-technology",
+      "universityId": "help",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 22975,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22975
+        },
+        {
+          "year": 2,
+          "fee": 22975
+        }
+      ],
+      "totalTuitionFee": 45950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-accounting-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business (Accounting) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26566,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26566
+        },
+        {
+          "year": 2,
+          "fee": 26566
+        },
+        {
+          "year": 3,
+          "fee": 26566
+        }
+      ],
+      "totalTuitionFee": 79698,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-entrepreneurship-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business (Entrepreneurship) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في Entrepreneurship) (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26333
+        },
+        {
+          "year": 2,
+          "fee": 26333
+        },
+        {
+          "year": 3,
+          "fee": 26333
+        }
+      ],
+      "totalTuitionFee": 78999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-finance-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business (Finance) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-accounting-hons-1",
+      "universityId": "help",
+      "name": "Bachelor of Business (Accounting) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26566,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26566
+        },
+        {
+          "year": 2,
+          "fee": 26566
+        },
+        {
+          "year": 3,
+          "fee": 26566
+        }
+      ],
+      "totalTuitionFee": 79698,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-finance-hons-1",
+      "universityId": "help",
+      "name": "Bachelor of Business (Finance) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-hospitality-management-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business (Hospitality Management) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28450,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28450
+        },
+        {
+          "year": 2,
+          "fee": 28450
+        },
+        {
+          "year": 3,
+          "fee": 28450
+        }
+      ],
+      "totalTuitionFee": 85350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-human-resource-management-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business (Human Resource Management) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-international-business-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business (International Business) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-international-business-hons-1",
+      "universityId": "help",
+      "name": "Bachelor of Business (International Business) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-marketing-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business (Marketing) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-marketing-hons-1",
+      "universityId": "help",
+      "name": "Bachelor of Business (Marketing) (Hons)",
+      "nameAr": "بكالوريوس الأعمال في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-analytics-honours",
+      "universityId": "help",
+      "name": "Bachelor of Business Analytics (Honours)",
+      "nameAr": "بكالوريوس الأعمال في Analytics (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-business-psychology-hons",
+      "universityId": "help",
+      "name": "Bachelor of Business Psychology (Hons)",
+      "nameAr": "بكالوريوس الأعمال في علم النفس",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27750,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27750
+        },
+        {
+          "year": 2,
+          "fee": 27750
+        },
+        {
+          "year": 3,
+          "fee": 27750
+        }
+      ],
+      "totalTuitionFee": 83250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-economics-hons",
+      "universityId": "help",
+      "name": "Bachelor of Economics (Hons)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-management-hons",
+      "universityId": "help",
+      "name": "Bachelor of Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26350
+        },
+        {
+          "year": 2,
+          "fee": 26350
+        },
+        {
+          "year": 3,
+          "fee": 26350
+        }
+      ],
+      "totalTuitionFee": 79050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-tourism-management-hons",
+      "universityId": "help",
+      "name": "Bachelor of Tourism Management (Hons)",
+      "nameAr": "بكالوريوس في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Feb, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28650
+        },
+        {
+          "year": 2,
+          "fee": 28650
+        },
+        {
+          "year": 3,
+          "fee": 28650
+        }
+      ],
+      "totalTuitionFee": 85950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-doctor-of-business-administration",
+      "universityId": "help",
+      "name": "Doctor Of Business Administration",
+      "nameAr": "دكتوراه في Doctor Of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18333,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18333
+        },
+        {
+          "year": 2,
+          "fee": 18333
+        },
+        {
+          "year": 3,
+          "fee": 18333
+        }
+      ],
+      "totalTuitionFee": 54999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-doctor-of-philosophy-phd-in-business-management-and-entrepreneurship",
+      "universityId": "help",
+      "name": "Doctor of Philosophy (PhD) in Business, Management and Entrepreneurship",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business, Management and Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        },
+        {
+          "year": 3,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 60000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-accounting-and-finance",
+      "universityId": "help",
+      "name": "Master of Accounting and Finance",
+      "nameAr": "ماجستير في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 40000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-applied-business-analytics",
+      "universityId": "help",
+      "name": "Master of Applied Business Analytics",
+      "nameAr": "ماجستير في Master of Applied Business Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 22500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22500
+        }
+      ],
+      "totalTuitionFee": 22500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-business-administration",
+      "universityId": "help",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 22500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22500
+        },
+        {
+          "year": 2,
+          "fee": 22500
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-business-administration-online-degree",
+      "universityId": "help",
+      "name": "Master Of Business Administration - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr, Jun, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-corporate-governance",
+      "universityId": "help",
+      "name": "Master of Corporate Governance",
+      "nameAr": "ماجستير في Master of Corporate Governance",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 40000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-entrepreneurship",
+      "universityId": "help",
+      "name": "Master of Entrepreneurship",
+      "nameAr": "ماجستير في Master of Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-project-management",
+      "universityId": "help",
+      "name": "Master of Project Management",
+      "nameAr": "ماجستير في Master of Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.7,
+      "annualFee": 19425,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19425
+        }
+      ],
+      "totalTuitionFee": 19425,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-science-in-economic-crime-management",
+      "universityId": "help",
+      "name": "Master of Science in Economic Crime Management",
+      "nameAr": "ماجستير العلوم في Economic Crime Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18000
+        },
+        {
+          "year": 2,
+          "fee": 18000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-diploma-in-business",
+      "universityId": "help",
+      "name": "Diploma in Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 21425,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Feb, May, Jul, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21425
+        },
+        {
+          "year": 2,
+          "fee": 21425
+        }
+      ],
+      "totalTuitionFee": 42850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-diploma-in-business-1",
+      "universityId": "help",
+      "name": "Diploma in Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 21425,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Feb, May, Jul, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21425
+        },
+        {
+          "year": 2,
+          "fee": 21425
+        }
+      ],
+      "totalTuitionFee": 42850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-doctor-of-philosophy-phd-in-psychology",
+      "universityId": "help",
+      "name": "Doctor of Philosophy (PhD) in Psychology",
+      "nameAr": "دكتوراه الفلسفة (PhD) في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16033,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Oct, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16033
+        },
+        {
+          "year": 2,
+          "fee": 16033
+        },
+        {
+          "year": 3,
+          "fee": 16033
+        }
+      ],
+      "totalTuitionFee": 48099,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-clinical-psychology",
+      "universityId": "help",
+      "name": "Master of Clinical Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 28450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28450
+        },
+        {
+          "year": 2,
+          "fee": 28450
+        }
+      ],
+      "totalTuitionFee": 56900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-human-resource-development",
+      "universityId": "help",
+      "name": "Master of Human Resource Development",
+      "nameAr": "ماجستير في Master of Human Resource Development",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-philosophy",
+      "universityId": "help",
+      "name": "Master of Philosophy",
+      "nameAr": "ماجستير في Master of Philosophy",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-philosophy-in-psychology",
+      "universityId": "help",
+      "name": "Master of Philosophy in Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19050,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19050
+        },
+        {
+          "year": 2,
+          "fee": 19050
+        }
+      ],
+      "totalTuitionFee": 38100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-masters-in-counselling",
+      "universityId": "help",
+      "name": "Masters in Counselling",
+      "nameAr": "ماجستير في Masters in Counselling",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 29260,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29260
+        },
+        {
+          "year": 2,
+          "fee": 29260
+        }
+      ],
+      "totalTuitionFee": 58520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-early-childhood-education-hons",
+      "universityId": "help",
+      "name": "Bachelor of Early Childhood Education (Hons)",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25200
+        },
+        {
+          "year": 2,
+          "fee": 25200
+        },
+        {
+          "year": 3,
+          "fee": 25200
+        }
+      ],
+      "totalTuitionFee": 75600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-doctor-of-philosophy-phd-in-education",
+      "universityId": "help",
+      "name": "Doctor of Philosophy (PhD) in Education",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16667,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16667
+        },
+        {
+          "year": 2,
+          "fee": 16667
+        },
+        {
+          "year": 3,
+          "fee": 16667
+        }
+      ],
+      "totalTuitionFee": 50001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-master-of-education-in-teaching-and-learning",
+      "universityId": "help",
+      "name": "Master of Education in Teaching and Learning",
+      "nameAr": "ماجستير في Master of Education in Teaching and Learning",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-diploma-in-early-childhood-education",
+      "universityId": "help",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.4,
+      "annualFee": 13875,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13875
+        },
+        {
+          "year": 2,
+          "fee": 13875
+        }
+      ],
+      "totalTuitionFee": 27750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-diploma-in-education",
+      "universityId": "help",
+      "name": "Diploma in Education",
+      "nameAr": "دبلوم في Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.4,
+      "annualFee": 8875,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8875
+        },
+        {
+          "year": 2,
+          "fee": 8875
+        }
+      ],
+      "totalTuitionFee": 17750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-laws-hons",
+      "universityId": "help",
+      "name": "Bachelor of Laws (Hons)",
+      "nameAr": "بكالوريوس القانون في Hons",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26150,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26150
+        },
+        {
+          "year": 2,
+          "fee": 26150
+        },
+        {
+          "year": 3,
+          "fee": 26150
+        }
+      ],
+      "totalTuitionFee": 78450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-foundation-in-arts",
+      "universityId": "help",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 16350,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16350
+        }
+      ],
+      "totalTuitionFee": 16350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-foundation-in-arts-1",
+      "universityId": "help",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 16350,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16350
+        }
+      ],
+      "totalTuitionFee": 16350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-communication-marketing-communication-hons",
+      "universityId": "help",
+      "name": "Bachelor of Communication (Marketing Communication) (Hons)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25650
+        },
+        {
+          "year": 2,
+          "fee": 25650
+        },
+        {
+          "year": 3,
+          "fee": 25650
+        }
+      ],
+      "totalTuitionFee": 76950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-communication-media-studies-hons",
+      "universityId": "help",
+      "name": "Bachelor of Communication (Media Studies) (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Communication (Media Studies) (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25650
+        },
+        {
+          "year": 2,
+          "fee": 25650
+        },
+        {
+          "year": 3,
+          "fee": 25650
+        }
+      ],
+      "totalTuitionFee": 76950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-communication-public-relations-hons",
+      "universityId": "help",
+      "name": "Bachelor of Communication (Public Relations) (Hons)",
+      "nameAr": "بكالوريوس في العلاقات العامة",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25650
+        },
+        {
+          "year": 2,
+          "fee": 25650
+        },
+        {
+          "year": 3,
+          "fee": 25650
+        }
+      ],
+      "totalTuitionFee": 76950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-diploma-in-communication",
+      "universityId": "help",
+      "name": "Diploma in Communication",
+      "nameAr": "دبلوم في Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20875,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20875
+        },
+        {
+          "year": 2,
+          "fee": 20875
+        }
+      ],
+      "totalTuitionFee": 41750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-bachelor-of-psychology-hons",
+      "universityId": "help",
+      "name": "Bachelor of Psychology (Hons)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32316,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32316
+        },
+        {
+          "year": 2,
+          "fee": 32316
+        },
+        {
+          "year": 3,
+          "fee": 32316
+        }
+      ],
+      "totalTuitionFee": 96948,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "help-foundation-in-science",
+      "universityId": "help",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Science",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 18100,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18100
+        }
+      ],
+      "totalTuitionFee": 18100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 53,
+  "totalProgramsCount": 53
+}

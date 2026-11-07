@@ -1,0 +1,6891 @@
+{
+  "id": "ucsi",
+  "slug": "ucsi-university",
+  "name": "UCSI University",
+  "arabicName": "جامعة يو سي إس آي (UCSI University)",
+  "city": "Kuala Lumpur",
+  "cityKey": "city_kuala_lumpur",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-ucsi.webp",
+  "image": "assets/photo/campus_ucsi.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/tSjMPvNRTms",
+  "website": "https://www.ucsiuniversity.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "Rank 265 QS World University Rankings 2025 (Top 1% Globally)",
+  "rankingBadgeKey": "ucsi_rank_badge",
+  "established": "1986",
+  "campusName": "Kuala Lumpur Cheras Main Campus",
+  "studentCount": "13,000+ (110+ Countries)",
+  "intakes": "Jan, May, Sep",
+  "feeRangeMin": 11900,
+  "feeRangeMax": 76100,
+  "currency": "MYR",
+  "majors": [
+    "music",
+    "pharmacy",
+    "engineering",
+    "business",
+    "medicine",
+    "hospitality"
+  ],
+  "similarUniversities": [
+    "taylors",
+    "sunway",
+    "monash"
+  ],
+  "totalProgramsCount": 193,
+  "description": "UCSI University is ranked Rank 265 globally in the QS World University Rankings 2025 (Top 1% in the world), internationally acclaimed for its Rank 19 world-ranked Institute of Music, Pharmacy, Engineering, and unmatched 4,600+ corporate co-op network.",
+  "descriptionAr": "تُصنف جامعة UCSI في المرتبة 265 عالمياً في تصنيف QS لعام 2025 (ضمن أفضل 1% من جامعات العالم)، وتشتهر عالمياً بمعهد الموسيقى المصنف 19 على العالم، وكليات الصيدلة والهندسة وشبكة تدريب تعاوني تضم 4,600 شركة عالمية.",
+  "about": {
+    "id": "UCSI University didirikan pada tahun 1986 di Cheras, Kuala Lumpur. Bertengger di jajaran 300 besar universitas dunia dalam QS World University Rankings 2025, UCSI sangat terkenal atas Institut Musik kelas dunianya (Rank 42 di dunia QS), Farmasi, Kedokteran, dan Bisnis.",
+    "en": "UCSI University, founded in 1986 in Cheras, Kuala Lumpur, is ranked among the Top 300 universities globally in the QS World University Rankings 2025, celebrated for its Institute of Music (Top 45 globally in QS by Subject), Pharmacy, Medicine, and Engineering.",
+    "ar": "تأسست جامعة يو سي إس آي (UCSI University) عام 1986 في تشيراس بكوالالمبور، وتصنف ضمن أفضل 300 جامعة في العالم في تصنيف QS لعام 2025، وتشتهر بمعهد الموسيقى العالمي (المرتبة 42 عالمياً)، والصيدلة، والطب، والهندسة.",
+    "zh": "思特雅大学（UCSI University）创立于1986年，主校区坐落于吉隆坡蕉赖，高居2025年QS世界大学排名全球第265强。UCSI拥有享誉全球的国际顶尖音乐学院（QS表演艺术学科全球第42位），药剂学、医学及工程学均名列前茅。",
+    "ru": "Университет UCSI в Куала-Лумпуре входит в топ-300 лучших вузов мира рейтинга QS 2025 и славится своим Институтом музыки (топ-45 мира по QS), фармацией и медициной.",
+    "fr": "UCSI University à Kuala Lumpur figure dans le Top 300 mondial au QS 2025, réputée pour son Institut de Musique (Top 45 mondial au QS par matière), sa pharmacie et sa médecine.",
+    "es": "UCSI University en Kuala Lumpur se ubica en el Top 300 mundial en QS 2025, célebre por su Instituto de Música (Top 45 mundial en QS por disciplina), Farmacia y Medicina.",
+    "ja": "UCSI大学はクアラルンプール・チェラスに位置し、QS世界大学ランキング2025で世界トップ300にランクイン。音楽学部が世界第42位に輝くほか、薬学、医学、工学で名声を博しています。",
+    "ko": "UCSI 대학교는 쿠알라룸푸르 체라스에 본교를 둔 2025 QS 세계 265위권 명문 사립대학으로, 세계 42위에 랭크된 명문 음대를 비롯하여 약학, 의학, 공학 분야에서 뛰어난 성과를 내고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Gedung Konser Simfoni & Auditorium Akustik Kelas Dunia",
+        "en": "World-Class Symphony Recital Hall & Acoustic Theatres",
+        "ar": "قاعة الحفلات السيمفونية العالمية والمسارح الصوتية المتقدمة",
+        "ko": "세계적 수준의 콘서트 심포니 홀 및 전문 음향 오디토리움",
+        "ja": "世界最高峰の音響設計シンフォニーホールおよびリサイタル劇場",
+        "zh": "世界一流声学设计交响音乐厅与顶级专业音乐演出大剧场",
+        "ru": "Симфонический концертный зал мирового класса и акустические театры",
+        "fr": "Salle de concert symphonique de classe mondiale et théâtres acoustiques",
+        "es": "Sala de Conciertos Sinfónicos de Clase Mundial y Teatros Acústicos"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Penelitian Farmasi & Kimia Obat Mutakhir",
+        "en": "Advanced Pharmaceutical Sciences & Drug Discovery Labs",
+        "ar": "مختبرات العلوم الصيدلانية المتقدمة واكتشاف وتطوير الأدوية",
+        "ko": "첨단 약학 연구 및 신약 개발 종합 연구 센터",
+        "ja": "最先端薬学研究および創薬サイエンス総合実験棟",
+        "zh": "先进药物科学研发中心与新药创制高端化学实验室",
+        "ru": "Лаборатории фармацевтических наук и разработки лекарств",
+        "fr": "Laboratoires avancés de sciences pharmaceutiques et de recherche",
+        "es": "Laboratorios Avanzados de Ciencias Farmacéuticas e Investigación"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Studio Desain Arsitektur & Lingkungan Binaan",
+        "en": "Architectural Design Studios & Built Environment Labs",
+        "ar": "أجنحة التصميم المعماري والتخطيط العمراني والبيئة المبنية",
+        "ko": "건축 디자인 종합 스튜디오 및 공간 환경 공학 랩",
+        "ja": "建築デザイン設計スタジオおよび都市環境工学演習室",
+        "zh": "建筑设计专业创意工坊与人居环境空间工程实验室",
+        "ru": "Студии архитектурного дизайна и строительной среды",
+        "fr": "Studios de conception architecturale et d'environnement bâti",
+        "es": "Estudios de Diseño Arquitectónico y Entorno Construido"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Terminal Data Finansial Real-Time Bloomberg",
+        "en": "Bloomberg Real-Time Financial Market Terminal Lab",
+        "ar": "قاعة بيانات أسواق المال العالمية المجهزة بمحطات بلومبرغ المباشرة",
+        "ko": "블룸버그 실시간 금융 시장 데이터 분석 터미널 룸",
+        "ja": "ブルームバーグ連携リアルタイム金融市場端末ラボ",
+        "zh": "彭博全球金融市场数据实时终端分析实验室",
+        "ru": "Лаборатория финансовых терминалов Bloomberg в реальном времени",
+        "fr": "Salle de marché équipée de terminaux financiers Bloomberg",
+        "es": "Laboratorio de Terminales Financieros Bloomberg en Tiempo Real"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "award",
+      "title": {
+        "id": "Peringkat Rank 265 Dunia QS 2025 (Top 1% Terbaik di Dunia)",
+        "en": "Rank 265 QS World University Rankings 2025 (Top 1% Globally)",
+        "ar": "المرتبة 265 عالمياً في تصنيف QS لعام 2025 (ضمن أفضل 1% في العالم)",
+        "ko": "2025 QS 세계 대학 랭킹 265위 (전 세계 상위 1% 대학)",
+        "ja": "2025年QS世界大学ランキング第265位（世界トップ1%の名門）",
+        "zh": "2025年QS世界大学排名第265位（稳居全球前1%顶尖名校之列）",
+        "ru": "№265 в мировом рейтинге QS 2025 (топ-1% лучших вузов планеты)",
+        "fr": "265e mondial au classement QS 2025 (parmi les 1% meilleurs au monde)",
+        "es": "Puesto 265 en el QS World University Rankings 2025 (Top 1% mundial)"
+      },
+      "desc": {
+        "id": "Diakui secara konsisten sebagai salah satu universitas swasta berperingkat tertinggi di Malaysia dan Asia.",
+        "en": "Consistently ranked among the elite tier of private universities in Asia.",
+        "ar": "تعد من أعلى الجامعات الخاصة تصنيفاً في آسيا وتحظى باعتراف أكاديمي عالمي واسع.",
+        "ko": "아시아 및 말레이시아 최고 수준의 사립 종합 대학교로 확고한 입지 유지.",
+        "ja": "アジア屈指の最高峰私立大学として確固たる国際評価を獲得。",
+        "zh": "连续多年蝉联马来西亚私立大学顶尖梯队，学术声誉享誉全亚洲。",
+        "ru": "Стабильно входит в элитную категорию частных университетов Азии.",
+        "fr": "Classée parmi les meilleures universités privées d'Asie.",
+        "es": "Clasificada consistentemente entre la élite de universidades privadas de Asia."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Peringkat Rank 19 Dunia untuk Seni Pertunjukan & Musik (QS Subject)",
+        "en": "Rank 19 Globally for Performing Arts & Music (QS By Subject)",
+        "ar": "المرتبة 19 على مستوى العالم في الموسيقى والفنون المسرحية (QS)",
+        "ko": "공연 예술 및 음악 분야 세계 19위 (QS 학과별 세계 랭킹)",
+        "ja": "舞台芸術・音楽分野で世界第19位（QS分野別世界ランキング）",
+        "zh": "表演艺术与音乐学科位列QS世界大学学科排名全球第19位",
+        "ru": "№19 в мире по исполнительскому искусству и музыке (QS By Subject)",
+        "fr": "19e mondial en arts du spectacle et musique (classement QS par matière)",
+        "es": "Puesto 19 mundial en Artes Escénicas y Música (QS por Materias)"
+      },
+      "desc": {
+        "id": "Institute of Music UCSI merupakan salah satu konservatori musik terdepan di dunia dengan alumni pemenang penghargaan.",
+        "en": "UCSI's Institute of Music is one of the world's most prestigious conservatories.",
+        "ar": "يعد معهد الموسيقى في UCSI أحد أعرق المعاهد الموسيقية العالمية التي تخرج مبدعين حائزين على جوائز دولية.",
+        "ko": "국제적인 명성을 지닌 아시아 최고의 음악원으로 수많은 수상 음악가 배출.",
+        "ja": "世界各国で活躍する一流の演奏家や音楽家を育成するアジア最高峰の音楽院。",
+        "zh": "UCSI音乐学院是享誉全球的顶级音乐学府，培育出众多国际获奖音乐大师。",
+        "ru": "Институт музыки UCSI — одна из самых престижных консерваторий в мире.",
+        "fr": "L'Institut de musique de l'UCSI est l'un des conservatoires les plus prestigieux au monde.",
+        "es": "El Instituto de Música de UCSI es uno de los conservatorios más prestigiosos del mundo."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Jaringan Penempatan Kerja Co-op dengan 4.600+ Mitra Korporasi",
+        "en": "Unrivaled Co-op Placement Network with 4,600+ Global Employers",
+        "ar": "أكبر شبكة تدريب وتوظيف تعاوني مع أكثر من 4,600 شركة عالمية",
+        "ko": "4,600개 이상의 글로벌 다국적 기업과 연계된 최대 코옵(Co-op) 인턴십",
+        "ja": "世界4,600社以上のグローバル企業と連携した大規模Co-opインターンシップ制度",
+        "zh": "与全球4,600余家知名跨国企业建立深度合作的最大带薪实习Co-op网络",
+        "ru": "Сеть стажировок Co-op с 4 600+ корпоративными партнерами по всему миру",
+        "fr": "Réseau de stages Co-op avec plus de 4 600 entreprises partenaires mondiales",
+        "es": "Red de prácticas Co-op sin igual con más de 4,600 empresas multinacionales"
+      },
+      "desc": {
+        "id": "Mahasiswa menjalani magang kerja nyata setiap tahun perkuliahan, memastikan 100% kesiapan kerja saat lulus.",
+        "en": "Students undergo structured professional internships every academic year, ensuring exceptional employability.",
+        "ar": "يخوض الطالب تدريباً عملياً مدفوعاً كل عام دراسي مما يضمن جاهزية العمل الفورية بعد التخرج.",
+        "ko": "재학 중 매년 체계적인 기업 실무 인턴십을 이수하여 압도적인 취업 경쟁력 확보.",
+        "ja": "学年ごとに実践的なインターンシップを経験し、卒業時の即戦力と高い就職率を保証。",
+        "zh": "学生在读期间每年均需进入名企完成结构化实习，毕业即具备丰富职业实战经验。",
+        "ru": "Студенты проходят стажировки каждый учебный год, обеспечивая готовность к работе.",
+        "fr": "Les étudiants effectuent des stages chaque année, garantissant une forte employabilité.",
+        "es": "Los estudiantes realizan pasantías estructuradas cada año, garantizando gran empleabilidad."
+      }
+    },
+    {
+      "icon": "global",
+      "title": {
+        "id": "Kampus Metropolitan Utama di Cheras, Kuala Lumpur",
+        "en": "Vibrant Metropolitan Campus in Cheras, Kuala Lumpur",
+        "ar": "حرم جامعي عصري نابض بالحياة في منطقة تشيراس بكوالالمبور",
+        "ko": "쿠알라룸푸르 체라스 중심부에 위치한 활기찬 메트로폴리탄 캠퍼스",
+        "ja": "クアラルンプール市内チェラスに位置する活気あふれる都市型キャンパス",
+        "zh": "坐落于吉隆坡蕉赖核心商圈的现代化都市型活力国际大学校园",
+        "ru": "Современный столичный кампус в районе Черас, Куала-Лумпур",
+        "fr": "Campus métropolitain dynamique situé à Cheras, Kuala Lumpur",
+        "es": "Vibrante campus metropolitano en Cheras, Kuala Lumpur"
+      },
+      "desc": {
+        "id": "Dikelilingi pusat kuliner, pusat perbelanjaan, dan stasiun MRT/LRT yang memudahkan mobilitas harian.",
+        "en": "Surrounded by urban dining hubs, shopping destinations, and convenient MRT transit connections.",
+        "ar": "محاط بالمجمعات التجارية وأشهر المطاعم ومحطات المترو التي تتيح سهولة التنقل.",
+        "ko": "풍부한 먹거리, 쇼핑몰 및 MRT 전철역이 인접하여 최상의 도시 생활 편의성 제공.",
+        "ja": "多彩なグルメ、ショッピングモール、MRT駅に囲まれた抜群の生活利便性。",
+        "zh": "周边餐饮名店云集、大型商业广场林立，邻近地铁MRT轻轨交通枢纽。",
+        "ru": "Окружение из торговых центров, кафе и удобного доступа к метро MRT.",
+        "fr": "Entouré de centres commerciaux, de restaurants et de stations de métro MRT.",
+        "es": "Rodeado de centros comerciales, gastronomía y excelentes conexiones de metro MRT."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from UCSI University internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة يو سي إس آي (UCSI University) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari UCSI University diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, UCSI University is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة يو سي إس آي (UCSI University) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, UCSI University terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to UCSI University?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة يو سي إس آي (UCSI University)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke UCSI University?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from UCSI University?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة يو سي إس آي (UCSI University)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke UCSI University?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to UCSI University without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Keunggulan Program Magang Co-op UCSI Bersama 4.600+ Perusahaan",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for UCSI University",
+        "ar": "مميزات برنامج التدريب التعاوني Co-op في UCSI مع أكثر من 4600 شركة عالمية",
+        "zh": "UCSI University 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в UCSI University",
+        "fr": "Guide complet d'admission et visa étudiant pour UCSI University",
+        "es": "Guía completa de admisión y visado de estudiante para UCSI University",
+        "ja": "UCSI University 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "UCSI University 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Bagaimana pengalaman kerja nyata setiap tahun membuka peluang kerja internasional bagi lulusan UCSI.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شرح لكيفية اكتساب الطلاب خبرة مهنية سنوية تضمن توظيفهم السريع في كبرى الشركات.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Kehidupan Mahasiswa di Kawasan Cheras Kuala Lumpur",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around UCSI University",
+        "ar": "تكاليف المعيشة والحياة الطلابية في منطقة تشيراس بكوالالمبور",
+        "zh": "UCSI University 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле UCSI University",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de UCSI University",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en UCSI University",
+        "ja": "UCSI University 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "UCSI University 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Estimasi biaya sewa apartemen Angkasa, pusat kuliner malam, dan akses stasiun MRT Cheras.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل نفقات السكن في مجمع أنجكاسا والمطاعم ووسائل النقل بمترو كوالالمبور.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Beasiswa Prestasi UCSI University Trust Hingga 50% Potongan Biaya",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at UCSI University",
+        "ar": "منح مؤسسة UCSI Trust الدراسية وخصومات الرسوم للطلاب المتفوقين",
+        "zh": "UCSI University 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в UCSI University",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à UCSI University",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en UCSI University",
+        "ja": "UCSI University 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "UCSI University 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Peluang beasiswa bagi mahasiswa internasional dengan prestasi akademik dan portofolio unggul.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "فرص الحصول على منح دراسية وتخفيضات تصل إلى 50% بناءً على درجات الثانوية المتميزة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "UCSI On-Campus Residential Hall",
+        "nameAr": "السكن الطلابي الداخلي المعتمد بحرم UCSI",
+        "type": "Air-Conditioned Ensuite Rooms",
+        "typeAr": "غرف فندقية مكيفة بحمام خاص داخل الحرم",
+        "priceRange": "RM 600 - RM 1,200 / month",
+        "priceRangeAr": "600 - 1,200 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "amenities": [
+          "Wi-Fi Kecepatan Tinggi",
+          "AC Penuh",
+          "Kafetaria & Minimarket",
+          "Lounge Belajar",
+          "Keamanan 24 Jam"
+        ],
+        "amenitiesAr": [
+          "إنترنت فائق السرعة",
+          "تكييف كامل",
+          "مطاعم وسوبرماركت",
+          "صالات استذكار",
+          "أمن 24 ساعة"
+        ],
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)"
+      },
+      {
+        "name": "Angkasa Condominium Cheras",
+        "nameAr": "أبراج شقق أنجكاسا السكنية المجاورة",
+        "type": "Popular Student Condominium",
+        "typeAr": "مجمع أبراج سكنية طلابية شهيرة ملاصقة للحرم",
+        "priceRange": "RM 500 - RM 1,000 / month",
+        "priceRangeAr": "500 - 1,000 رينجيت / شهرياً",
+        "distance": "3 menit jalan kaki dari kampus",
+        "amenities": [
+          "Kolam Renang",
+          "Pusat Kebugaran Gym",
+          "Minimarket 24 Jam",
+          "Perabot Lengkap",
+          "Keamanan Kartu Akses"
+        ],
+        "amenitiesAr": [
+          "مسبح",
+          "صالة لياقة بدنية",
+          "سوبرماركت 24 ساعة",
+          "مفروشة بالكامل",
+          "بوابات ذكية وأمن"
+        ],
+        "distanceAr": "3 دقائق سيراً على الأقدام من الحرم الجامعي",
+        "distanceEn": "3-minute walk to campus"
+      },
+      {
+        "name": "Altitude 236 Luxury Suites",
+        "nameAr": "أبراج ألتيتيود 236 الفندقية الفاخرة",
+        "type": "Luxury High-Rise Serviced Condominium",
+        "typeAr": "شقق فندقية راقية بإطلالات بانورامية على كوالالمبور",
+        "priceRange": "RM 850 - RM 1,600 / month",
+        "priceRangeAr": "850 - 1,600 رينجيت / شهرياً",
+        "distance": "6 menit jalan kaki dari kampus",
+        "amenities": [
+          "Sky Pool & Jacuzzi",
+          "Fasilitas Gym & Sauna",
+          "Pemandangan Kota Spektakuler",
+          "Keamanan Super Ketat",
+          "Dekat MRT"
+        ],
+        "amenitiesAr": [
+          "مسبح علوي وجاكوزي",
+          "نادي لياقة وساونا",
+          "إطلالة بانورامية ساحرة",
+          "حراسة مشددة",
+          "قريب من المترو"
+        ],
+        "distanceAr": "5 دقائق سيراً على الأقدام (مجمع سكني راقي)",
+        "distanceEn": "5-minute walk (Luxury serviced suites)"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 500 - RM 1,200",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 600 - RM 900",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi & MRT",
+        "itemAr": "المواصلات ومترو MRT",
+        "cost": "RM 70 - RM 140",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "cost": "RM 80 - RM 150",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "cost": "RM 200 - RM 400",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,450 - RM 2,790",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في العلوم والآداب والموسيقى",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 18,000 - RM 22,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم التطبيقي (فنون طهي، إدارة، تصميم، هندسة)",
+      "duration": "2 Years",
+      "durationYears": 2,
+      "avgFeePerYear": "RM 18,000 - RM 23,000"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس المعتمد دولياً (صيدلة، موسيقى، عمارة، حوسبة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 28,000 - RM 42,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في العلوم الصيدلانية والعمارة وإدارة الأعمال",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 28,000 - RM 38,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في العلوم الصيدلانية والهندسة والعلوم التطبيقية",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 24,000 - RM 32,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=tSjMPvNRTms",
+  "programs": [
+    {
+      "id": "ucsi-foundation-in-arts-actuarial-science",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Actuarial Science)",
+      "nameAr": "برنامج تمهيدي في الآداب في Actuarial Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-information-technology",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Information Technology)",
+      "nameAr": "برنامج تمهيدي في الآداب في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-information-technology",
+      "universityId": "ucsi",
+      "name": "Diploma Information Technology",
+      "nameAr": "دبلوم في formation Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 24560,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24560
+        },
+        {
+          "year": 2,
+          "fee": 24560
+        }
+      ],
+      "totalTuitionFee": 49120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-business-information-systems",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Business Information Systems",
+      "nameAr": "بكالوريوس في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22860,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22860
+        },
+        {
+          "year": 2,
+          "fee": 22860
+        },
+        {
+          "year": 3,
+          "fee": 22860
+        }
+      ],
+      "totalTuitionFee": 68580,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-computer-science-in-data-science-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Computer Science in Data Science with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24620,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24620
+        },
+        {
+          "year": 2,
+          "fee": 24620
+        },
+        {
+          "year": 3,
+          "fee": 24620
+        }
+      ],
+      "totalTuitionFee": 73860,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-computer-science-hons-mobile-computing-and-networking",
+      "universityId": "ucsi",
+      "name": "Bachelor of Computer Science (Hons) Mobile Computing and Networking",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في Mobile Computing and Networking",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21410,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21410
+        },
+        {
+          "year": 2,
+          "fee": 21410
+        },
+        {
+          "year": 3,
+          "fee": 21410
+        }
+      ],
+      "totalTuitionFee": 64230,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-computer-science-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Computer Science (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23450
+        },
+        {
+          "year": 2,
+          "fee": 23450
+        },
+        {
+          "year": 3,
+          "fee": 23450
+        }
+      ],
+      "totalTuitionFee": 70350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-computer-science",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Computer Science",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 11900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11900
+        },
+        {
+          "year": 2,
+          "fee": 11900
+        },
+        {
+          "year": 3,
+          "fee": 11900
+        }
+      ],
+      "totalTuitionFee": 35700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-computer-science",
+      "universityId": "ucsi",
+      "name": "Master of Science in Computer Science",
+      "nameAr": "ماجستير العلوم في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12525,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12525
+        },
+        {
+          "year": 2,
+          "fee": 12525
+        }
+      ],
+      "totalTuitionFee": 25050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-digital-technology-and-analytics",
+      "universityId": "ucsi",
+      "name": "Master of Science in Digital Technology and Analytics",
+      "nameAr": "ماجستير العلوم في Digital Technology and Analytics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 49800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49800
+        }
+      ],
+      "totalTuitionFee": 49800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-computer-science-in-artificial-intelligence-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Computer Science in Artificial Intelligence with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28182,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28182
+        },
+        {
+          "year": 2,
+          "fee": 28182
+        },
+        {
+          "year": 3,
+          "fee": 28182
+        }
+      ],
+      "totalTuitionFee": 84546,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-computer-science-in-cyber-security-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Computer  Science in Cyber Security  with Honours",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24093,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24093
+        },
+        {
+          "year": 2,
+          "fee": 24093
+        },
+        {
+          "year": 3,
+          "fee": 24093
+        }
+      ],
+      "totalTuitionFee": 72279,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-computer-science-honours-tvet-module",
+      "universityId": "ucsi",
+      "name": "Bachelor of Computer Science (Honours) (TVET Module)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في TVET Module",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25370,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25370
+        },
+        {
+          "year": 2,
+          "fee": 25370
+        },
+        {
+          "year": 3,
+          "fee": 25370
+        }
+      ],
+      "totalTuitionFee": 76110,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-information-technology-tvet-module",
+      "universityId": "ucsi",
+      "name": "Diploma in Information Technology (TVET Module)",
+      "nameAr": "دبلوم تقنية المعلومات في TVET Module",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 24332,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24332
+        },
+        {
+          "year": 2,
+          "fee": 24332
+        }
+      ],
+      "totalTuitionFee": 48664,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-information-technology-1",
+      "universityId": "ucsi",
+      "name": "Foundation In Arts (Information Technology)",
+      "nameAr": "برنامج تمهيدي في الآداب في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-actuarial-science-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Actuarial Science)",
+      "nameAr": "برنامج تمهيدي في الآداب في Actuarial Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-accounting-finance-economics",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Accounting / Finance / Economics)",
+      "nameAr": "برنامج تمهيدي في الآداب في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-hospitality-and-tourism-management",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Hospitality And Tourism Management)",
+      "nameAr": "برنامج تمهيدي في الآداب في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-management",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Management)",
+      "nameAr": "برنامج تمهيدي في الآداب في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-management",
+      "universityId": "ucsi",
+      "name": "Diploma in Management",
+      "nameAr": "دبلوم في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23396,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23396
+        },
+        {
+          "year": 2,
+          "fee": 23396
+        }
+      ],
+      "totalTuitionFee": 46792,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-logistics-management",
+      "universityId": "ucsi",
+      "name": "Diploma in Logistics Management",
+      "nameAr": "دبلوم في Logistics Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23178,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23178
+        },
+        {
+          "year": 2,
+          "fee": 23178
+        }
+      ],
+      "totalTuitionFee": 46356,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-international-business",
+      "universityId": "ucsi",
+      "name": "Diploma in International Business",
+      "nameAr": "دبلوم في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 18800,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18800
+        },
+        {
+          "year": 2,
+          "fee": 18800
+        }
+      ],
+      "totalTuitionFee": 37600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-finance",
+      "universityId": "ucsi",
+      "name": "Diploma in Finance",
+      "nameAr": "دبلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 25070,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25070
+        },
+        {
+          "year": 2,
+          "fee": 25070
+        }
+      ],
+      "totalTuitionFee": 50140,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-accounting",
+      "universityId": "ucsi",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20900
+        },
+        {
+          "year": 2,
+          "fee": 20900
+        }
+      ],
+      "totalTuitionFee": 41800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-pastry-and-bakery",
+      "universityId": "ucsi",
+      "name": "Diploma in Pastry and Bakery",
+      "nameAr": "دبلوم في Pastry and Bakery",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 25960,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17170
+        },
+        {
+          "year": 2,
+          "fee": 17170
+        },
+        {
+          "year": 3,
+          "fee": 17170
+        }
+      ],
+      "totalTuitionFee": 51510,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-culinary-arts",
+      "universityId": "ucsi",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 15495,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15495
+        },
+        {
+          "year": 2,
+          "fee": 15495
+        }
+      ],
+      "totalTuitionFee": 30990,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-leisure-management",
+      "universityId": "ucsi",
+      "name": "Diploma Leisure Management",
+      "nameAr": "دبلوم في Leisure Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 22880,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22880
+        },
+        {
+          "year": 2,
+          "fee": 22880
+        }
+      ],
+      "totalTuitionFee": 45760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-hotel-management",
+      "universityId": "ucsi",
+      "name": "Diploma Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 16654,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16654
+        },
+        {
+          "year": 2,
+          "fee": 16654
+        }
+      ],
+      "totalTuitionFee": 33308,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-culinary-arts",
+      "universityId": "ucsi",
+      "name": "Diploma Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 17120,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17120
+        },
+        {
+          "year": 2,
+          "fee": 17120
+        }
+      ],
+      "totalTuitionFee": 34240,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-science-honours-finance-and-investment",
+      "universityId": "ucsi",
+      "name": "Bachelor of Science (Honours) Finance and Investment",
+      "nameAr": "بكالوريوس العلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26590,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26590
+        },
+        {
+          "year": 2,
+          "fee": 26590
+        },
+        {
+          "year": 3,
+          "fee": 26590
+        }
+      ],
+      "totalTuitionFee": 79770,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-international-business-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of International Business (Honours)",
+      "nameAr": "بكالوريوس في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24900
+        },
+        {
+          "year": 2,
+          "fee": 24900
+        },
+        {
+          "year": 3,
+          "fee": 24900
+        }
+      ],
+      "totalTuitionFee": 74700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-international-and-sustainable-business-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of International and Sustainable Business (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of International and Sustainable Business (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26960,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26960
+        },
+        {
+          "year": 2,
+          "fee": 26960
+        },
+        {
+          "year": 3,
+          "fee": 26960
+        }
+      ],
+      "totalTuitionFee": 80880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-financial-technology-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Financial Technology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Financial Technology (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27640
+        },
+        {
+          "year": 2,
+          "fee": 27640
+        },
+        {
+          "year": 3,
+          "fee": 27640
+        }
+      ],
+      "totalTuitionFee": 82920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-financial-economics-hons",
+      "universityId": "ucsi",
+      "name": "Bachelor of Financial Economics (Hons)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20510
+        },
+        {
+          "year": 2,
+          "fee": 20510
+        },
+        {
+          "year": 3,
+          "fee": 20510
+        }
+      ],
+      "totalTuitionFee": 61530,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-commerce-hons-in-marketing",
+      "universityId": "ucsi",
+      "name": "Bachelor of Commerce (Hons) in Marketing",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25080,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25080
+        },
+        {
+          "year": 2,
+          "fee": 25080
+        },
+        {
+          "year": 3,
+          "fee": 25080
+        }
+      ],
+      "totalTuitionFee": 75240,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-commerce-hons-in-accounting-and-finance",
+      "universityId": "ucsi",
+      "name": "Bachelor of Commerce (Hons) in Accounting and Finance",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23100
+        },
+        {
+          "year": 2,
+          "fee": 23100
+        },
+        {
+          "year": 3,
+          "fee": 23100
+        }
+      ],
+      "totalTuitionFee": 69300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-logistics-management",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) Logistics Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Logistics Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20570,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20570
+        },
+        {
+          "year": 2,
+          "fee": 20570
+        },
+        {
+          "year": 3,
+          "fee": 20570
+        }
+      ],
+      "totalTuitionFee": 61710,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-in-marketing",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) in Marketing",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26840,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26840
+        },
+        {
+          "year": 2,
+          "fee": 26840
+        },
+        {
+          "year": 3,
+          "fee": 26840
+        }
+      ],
+      "totalTuitionFee": 80520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-in-commerce",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) in Commerce",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Commerce",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17226,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17226
+        },
+        {
+          "year": 2,
+          "fee": 17226
+        },
+        {
+          "year": 3,
+          "fee": 17226
+        }
+      ],
+      "totalTuitionFee": 51678,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-in-business-administration",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) in Business Administration",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25940,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25940
+        },
+        {
+          "year": 2,
+          "fee": 25940
+        },
+        {
+          "year": 3,
+          "fee": 25940
+        }
+      ],
+      "totalTuitionFee": 77820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-in-branding-and-advertising",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) in Branding and Advertising",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Branding and Advertising",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25010,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25010
+        },
+        {
+          "year": 2,
+          "fee": 25010
+        },
+        {
+          "year": 3,
+          "fee": 25010
+        }
+      ],
+      "totalTuitionFee": 75030,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-entrepreneurship",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) Entrepreneurship",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24920,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24920
+        },
+        {
+          "year": 2,
+          "fee": 24920
+        },
+        {
+          "year": 3,
+          "fee": 24920
+        }
+      ],
+      "totalTuitionFee": 74760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-accounting-and-finance",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) Accounting and Finance",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23390,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23390
+        },
+        {
+          "year": 2,
+          "fee": 23390
+        },
+        {
+          "year": 3,
+          "fee": 23390
+        }
+      ],
+      "totalTuitionFee": 70170,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-accounting",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) Accounting",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23390,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23390
+        },
+        {
+          "year": 2,
+          "fee": 23390
+        },
+        {
+          "year": 3,
+          "fee": 23390
+        }
+      ],
+      "totalTuitionFee": 70170,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-honours-supply-chain-operations-management",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Honours) Supply Chain Operations Management",
+      "nameAr": "بكالوريوس الآداب في Honours) Supply Chain Operations Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20570,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20570
+        },
+        {
+          "year": 2,
+          "fee": 20570
+        },
+        {
+          "year": 3,
+          "fee": 20570
+        }
+      ],
+      "totalTuitionFee": 61710,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-hospitality-administration-a-dual-award-with-htmi-switzerland",
+      "universityId": "ucsi",
+      "name": "Bachelor of Hospitality Administration (A Dual Award with HTMi Switzerland)",
+      "nameAr": "بكالوريوس في Bachelor of Hospitality Administration (A Dual Award with HTMi Switzerland",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28650
+        },
+        {
+          "year": 2,
+          "fee": 28650
+        },
+        {
+          "year": 3,
+          "fee": 28650
+        }
+      ],
+      "totalTuitionFee": 85950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-honours-in-hospitality-management",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Honours) in Hospitality Management",
+      "nameAr": "بكالوريوس الآداب في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28658,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28658
+        },
+        {
+          "year": 2,
+          "fee": 28658
+        },
+        {
+          "year": 3,
+          "fee": 28658
+        }
+      ],
+      "totalTuitionFee": 85974,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-honours-in-culinary-management",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Honours) in Culinary Management",
+      "nameAr": "بكالوريوس الآداب في Honours) in Culinary Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27076,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26950
+        },
+        {
+          "year": 2,
+          "fee": 26950
+        },
+        {
+          "year": 3,
+          "fee": 26950
+        }
+      ],
+      "totalTuitionFee": 80850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-in-hospitality-management-a-dual-award-with-htmi-switzerland",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) in Hospitality Management (A Dual Award with HTMi Switzerland)",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27512,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27512
+        },
+        {
+          "year": 2,
+          "fee": 27512
+        },
+        {
+          "year": 3,
+          "fee": 27512
+        }
+      ],
+      "totalTuitionFee": 82536,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-in-event-and-tourism-management-a-dual-award-with-htmi-switzerland",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) in Event and Tourism Management (A Dual Award With HTMi Switzerland)",
+      "nameAr": "بكالوريوس في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25141,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25141
+        },
+        {
+          "year": 2,
+          "fee": 25141
+        },
+        {
+          "year": 3,
+          "fee": 25141
+        }
+      ],
+      "totalTuitionFee": 75423,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-hotel-management",
+      "universityId": "ucsi",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 19013,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19013
+        },
+        {
+          "year": 2,
+          "fee": 19013
+        }
+      ],
+      "totalTuitionFee": 38026,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-business-management",
+      "universityId": "ucsi",
+      "name": "Diploma in Business Management",
+      "nameAr": "دبلوم في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20900
+        },
+        {
+          "year": 2,
+          "fee": 20900
+        }
+      ],
+      "totalTuitionFee": 41800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-logistics-and-supply-chain-management",
+      "universityId": "ucsi",
+      "name": "Master of Science in Logistics and Supply Chain Management",
+      "nameAr": "ماجستير العلوم في اللوجستيات وإدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 43760,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43760
+        }
+      ],
+      "totalTuitionFee": 43760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-business-administration-blue-ocean-strategy",
+      "universityId": "ucsi",
+      "name": "Master of Business Administration (Blue Ocean Strategy)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Blue Ocean Strategy",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 26600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26600
+        }
+      ],
+      "totalTuitionFee": 26600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-hospitality-and-tourism",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Hospitality and Tourism",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Hospitality and Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        },
+        {
+          "year": 2,
+          "fee": 20000
+        },
+        {
+          "year": 3,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 60000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-international-hospitality-management",
+      "universityId": "ucsi",
+      "name": "Master in International Hospitality Management",
+      "nameAr": "ماجستير في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42552
+        }
+      ],
+      "totalTuitionFee": 42552,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-business-and-management",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy (Business and Management)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business and Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18945,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18945
+        },
+        {
+          "year": 2,
+          "fee": 18945
+        },
+        {
+          "year": 3,
+          "fee": 18945
+        }
+      ],
+      "totalTuitionFee": 56835,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-business-administration-dba",
+      "universityId": "ucsi",
+      "name": "Doctor of Business Administration (DBA)",
+      "nameAr": "دكتوراه في Doctor of Business Administration (DBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 26253,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26253
+        },
+        {
+          "year": 2,
+          "fee": 26253
+        },
+        {
+          "year": 3,
+          "fee": 26253
+        }
+      ],
+      "totalTuitionFee": 78759,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-business-administration-mba",
+      "universityId": "ucsi",
+      "name": "Master in Business Administration (MBA)",
+      "nameAr": "ماجستير في Master in Business Administration (MBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 54700,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54700
+        }
+      ],
+      "totalTuitionFee": 54700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-philosophy-business-and-management",
+      "universityId": "ucsi",
+      "name": "Master of Philosophy (Business and Management)",
+      "nameAr": "ماجستير في Master of Philosophy (Business and Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 25000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-business-administration-mba-online-degree",
+      "universityId": "ucsi",
+      "name": "Master In Business  Administration (MBA) (Online Degree)",
+      "nameAr": "ماجستير في Master In Business Administration (MBA) (أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 22974,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22974
+        },
+        {
+          "year": 2,
+          "fee": 22974
+        }
+      ],
+      "totalTuitionFee": 45948,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-actuarial-management",
+      "universityId": "ucsi",
+      "name": "Master of Science (Actuarial Management)",
+      "nameAr": "ماجستير العلوم في Actuarial Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 33339,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33339
+        }
+      ],
+      "totalTuitionFee": 33339,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-technopreneurship",
+      "universityId": "ucsi",
+      "name": "Master of Science in Technopreneurship",
+      "nameAr": "ماجستير العلوم في Technopreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42275,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42275
+        }
+      ],
+      "totalTuitionFee": 42275,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-ba-hons-digital-marketing",
+      "universityId": "ucsi",
+      "name": "BA (Hons) Digital Marketing",
+      "nameAr": "برنامج في التسويق الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17123,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17123
+        },
+        {
+          "year": 2,
+          "fee": 17123
+        },
+        {
+          "year": 3,
+          "fee": 17123
+        }
+      ],
+      "totalTuitionFee": 51369,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-business-analytics-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Business Analytics (Honours)",
+      "nameAr": "بكالوريوس الأعمال في Analytics (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24955,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24955
+        },
+        {
+          "year": 2,
+          "fee": 24955
+        },
+        {
+          "year": 3,
+          "fee": 24955
+        }
+      ],
+      "totalTuitionFee": 74865,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-in-human-capital-management-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor in Human Capital Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Human Capital Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27670,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27670
+        },
+        {
+          "year": 2,
+          "fee": 27670
+        },
+        {
+          "year": 3,
+          "fee": 27670
+        }
+      ],
+      "totalTuitionFee": 83010,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-in-business-management-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor in Business Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Business Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26460,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26460
+        },
+        {
+          "year": 2,
+          "fee": 26460
+        },
+        {
+          "year": 3,
+          "fee": 26460
+        }
+      ],
+      "totalTuitionFee": 79380,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-gastronomy",
+      "universityId": "ucsi",
+      "name": "Master of Science in Gastronomy",
+      "nameAr": "ماجستير العلوم في Gastronomy",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20001,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20001
+        },
+        {
+          "year": 2,
+          "fee": 20001
+        }
+      ],
+      "totalTuitionFee": 40002,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-honours-in-culinary-management-1",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Honours) in Culinary Management",
+      "nameAr": "بكالوريوس الآداب في Honours) in Culinary Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27076,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27076
+        },
+        {
+          "year": 2,
+          "fee": 27076
+        },
+        {
+          "year": 3,
+          "fee": 27076
+        }
+      ],
+      "totalTuitionFee": 81228,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-honours-in-global-sustainable-tourism",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Honours) in Global Sustainable Tourism",
+      "nameAr": "بكالوريوس الآداب في Honours) in Global Sustainable Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23950,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23950
+        },
+        {
+          "year": 2,
+          "fee": 23950
+        },
+        {
+          "year": 3,
+          "fee": 23950
+        }
+      ],
+      "totalTuitionFee": 71850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-pastry-and-bakery-1",
+      "universityId": "ucsi",
+      "name": "Diploma in Pastry And Bakery",
+      "nameAr": "دبلوم في Pastry And Bakery",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 25960,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25960
+        },
+        {
+          "year": 2,
+          "fee": 25960
+        }
+      ],
+      "totalTuitionFee": 51920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-international-hospitality-management-1",
+      "universityId": "ucsi",
+      "name": "Master in International Hospitality Management",
+      "nameAr": "ماجستير في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29920
+        }
+      ],
+      "totalTuitionFee": 29920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-accounting-finance-economics-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Accounting / Finance / Economics)",
+      "nameAr": "برنامج تمهيدي في الآداب في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-management-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Management)",
+      "nameAr": "برنامج تمهيدي في الآداب في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-hospitality-and-tourism-management-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Hospitality And Tourism Management)",
+      "nameAr": "برنامج تمهيدي في الآداب في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-hospitality-and-tourism-management-2",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Hospitality And Tourism Management)",
+      "nameAr": "برنامج تمهيدي في الآداب في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19000
+        }
+      ],
+      "totalTuitionFee": 19000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-built-environment",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Built Environment)",
+      "nameAr": "برنامج تمهيدي في الآداب في Built Environment",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-engineering",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Engineering)",
+      "nameAr": "برنامج تمهيدي في العلوم في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-of-engineering-technology-industrial-design",
+      "universityId": "ucsi",
+      "name": "Diploma of Engineering Technology (Industrial Design)",
+      "nameAr": "دبلوم في Engineering Technology (Industrial Design",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 24600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24600
+        },
+        {
+          "year": 2,
+          "fee": 24600
+        }
+      ],
+      "totalTuitionFee": 49200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-interior-architecture",
+      "universityId": "ucsi",
+      "name": "Diploma in Interior Architecture",
+      "nameAr": "دبلوم في العمارة الداخلية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 27040,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27040
+        },
+        {
+          "year": 2,
+          "fee": 27040
+        },
+        {
+          "year": 3,
+          "fee": 27040
+        }
+      ],
+      "totalTuitionFee": 81120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-architectural-studies",
+      "universityId": "ucsi",
+      "name": "Diploma in Architectural Studies",
+      "nameAr": "دبلوم في Architectural Studies",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 27840,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27840
+        },
+        {
+          "year": 2,
+          "fee": 27840
+        },
+        {
+          "year": 3,
+          "fee": 27840
+        }
+      ],
+      "totalTuitionFee": 83520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-event-management",
+      "universityId": "ucsi",
+      "name": "Diploma in Event Management",
+      "nameAr": "دبلوم في إدارة الفعاليات والمؤتمرات",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 24035,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24035
+        },
+        {
+          "year": 2,
+          "fee": 24035
+        }
+      ],
+      "totalTuitionFee": 48070,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-petroleum-engineering-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Petroleum Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Petroleum Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 22590,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22590
+        },
+        {
+          "year": 2,
+          "fee": 22590
+        },
+        {
+          "year": 3,
+          "fee": 22590
+        },
+        {
+          "year": 4,
+          "fee": 22590
+        }
+      ],
+      "totalTuitionFee": 90360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-mechatronics-engineering-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Mechatronics Engineering with Honours",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 25415,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25415
+        },
+        {
+          "year": 2,
+          "fee": 25415
+        },
+        {
+          "year": 3,
+          "fee": 25415
+        },
+        {
+          "year": 4,
+          "fee": 25415
+        }
+      ],
+      "totalTuitionFee": 101660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23165,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23165
+        },
+        {
+          "year": 2,
+          "fee": 23165
+        },
+        {
+          "year": 3,
+          "fee": 23165
+        },
+        {
+          "year": 4,
+          "fee": 23165
+        }
+      ],
+      "totalTuitionFee": 92660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-energy-engineering-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Energy Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Energy Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24240,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24240
+        },
+        {
+          "year": 2,
+          "fee": 24240
+        },
+        {
+          "year": 3,
+          "fee": 24240
+        },
+        {
+          "year": 4,
+          "fee": 24240
+        }
+      ],
+      "totalTuitionFee": 96960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-electrical-and-electronics-engineering-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 22115,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22115
+        },
+        {
+          "year": 2,
+          "fee": 22115
+        },
+        {
+          "year": 3,
+          "fee": 22115
+        },
+        {
+          "year": 4,
+          "fee": 22115
+        }
+      ],
+      "totalTuitionFee": 88460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-computer-engineering-artificial-intelligence-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Computer Engineering (Artificial Intelligence) with Honours",
+      "nameAr": "بكالوريوس في الذكاء الاصطناعي",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23865,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23865
+        },
+        {
+          "year": 2,
+          "fee": 23865
+        },
+        {
+          "year": 3,
+          "fee": 23865
+        },
+        {
+          "year": 4,
+          "fee": 23865
+        }
+      ],
+      "totalTuitionFee": 95460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-civil-engineering-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26290,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26290
+        },
+        {
+          "year": 2,
+          "fee": 26290
+        },
+        {
+          "year": 3,
+          "fee": 26290
+        },
+        {
+          "year": 4,
+          "fee": 26290
+        }
+      ],
+      "totalTuitionFee": 105160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-chemical-engineering-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23290,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23290
+        },
+        {
+          "year": 2,
+          "fee": 23290
+        },
+        {
+          "year": 3,
+          "fee": 23290
+        },
+        {
+          "year": 4,
+          "fee": 23290
+        }
+      ],
+      "totalTuitionFee": 93160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-science-hons-in-architecture",
+      "universityId": "ucsi",
+      "name": "Bachelor of Science (Hons) in Architecture",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29730,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29730
+        },
+        {
+          "year": 2,
+          "fee": 29730
+        },
+        {
+          "year": 3,
+          "fee": 29730
+        }
+      ],
+      "totalTuitionFee": 89190,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-quantity-surveying-hons",
+      "universityId": "ucsi",
+      "name": "Bachelor of Quantity Surveying (Hons)",
+      "nameAr": "بكالوريوس في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27850,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27850
+        },
+        {
+          "year": 2,
+          "fee": 27850
+        },
+        {
+          "year": 3,
+          "fee": 27850
+        },
+        {
+          "year": 4,
+          "fee": 27850
+        }
+      ],
+      "totalTuitionFee": 111400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-arts-hons-in-interior-architecture",
+      "universityId": "ucsi",
+      "name": "Bachelor of Arts (Hons) in Interior Architecture",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في العمارة الداخلية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25940,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25940
+        },
+        {
+          "year": 2,
+          "fee": 25940
+        },
+        {
+          "year": 3,
+          "fee": 25940
+        }
+      ],
+      "totalTuitionFee": 77820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-engineering-phd",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Engineering (PhD)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering (PhD",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 14940,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14940
+        },
+        {
+          "year": 2,
+          "fee": 14940
+        },
+        {
+          "year": 3,
+          "fee": 14940
+        }
+      ],
+      "totalTuitionFee": 44820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-industrial-phd-in-engineering",
+      "universityId": "ucsi",
+      "name": "Industrial PhD In Engineering",
+      "nameAr": "دكتوراه في Industrial PhD In Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18807,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18807
+        },
+        {
+          "year": 2,
+          "fee": 18807
+        },
+        {
+          "year": 3,
+          "fee": 18807
+        }
+      ],
+      "totalTuitionFee": 56421,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-philosophy-in-engineering-m-phil",
+      "universityId": "ucsi",
+      "name": "Master of Philosophy in Engineering (M.Phil)",
+      "nameAr": "ماجستير في Master of Philosophy in Engineering (M.Phil",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 13905,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13905
+        },
+        {
+          "year": 2,
+          "fee": 13905
+        }
+      ],
+      "totalTuitionFee": 27810,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-engineering-smart-engineering-management",
+      "universityId": "ucsi",
+      "name": "Master in Engineering (Smart Engineering Management)",
+      "nameAr": "ماجستير في Master in Engineering (Smart Engineering Management",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 38350,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38350
+        }
+      ],
+      "totalTuitionFee": 38350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-philosophy-in-built-environment",
+      "universityId": "ucsi",
+      "name": "Master of Philosophy in Built Environment",
+      "nameAr": "ماجستير في Master of Philosophy in Built Environment",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-engineering-by-prior-publication",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy (Engineering) by Prior Publication",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering) by Prior Publication",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13794,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13794
+        },
+        {
+          "year": 2,
+          "fee": 13794
+        },
+        {
+          "year": 3,
+          "fee": 13794
+        }
+      ],
+      "totalTuitionFee": 41382,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-petroleum-engineering",
+      "universityId": "ucsi",
+      "name": "Master of Petroleum Engineering",
+      "nameAr": "ماجستير في Master of Petroleum Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41150,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41150
+        }
+      ],
+      "totalTuitionFee": 41150,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-digital-mechanical-technology-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Digital Mechanical Technology with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24850,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24850
+        },
+        {
+          "year": 2,
+          "fee": 24850
+        },
+        {
+          "year": 3,
+          "fee": 24850
+        }
+      ],
+      "totalTuitionFee": 74550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-microelectronic-technology-with-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Microelectronic Technology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Microelectronic Technology with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22635,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22635
+        },
+        {
+          "year": 2,
+          "fee": 22635
+        },
+        {
+          "year": 3,
+          "fee": 22635
+        }
+      ],
+      "totalTuitionFee": 67905,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-sustainable-built-environment-at-ucsi-university",
+      "universityId": "ucsi",
+      "name": "Master of Sustainable Built Environment at UCSI University",
+      "nameAr": "ماجستير في Master of Sustainable Built Environment at UCSI University",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 35400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35400
+        }
+      ],
+      "totalTuitionFee": 35400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-engineering-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Engineering)",
+      "nameAr": "برنامج تمهيدي في العلوم في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-built-environment-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Built Environment)",
+      "nameAr": "برنامج تمهيدي في الآداب في Built Environment",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-medical-sciences",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Medical Sciences)",
+      "nameAr": "برنامج تمهيدي في العلوم في Medical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-pharmaceutical-sciences",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Pharmaceutical Sciences)",
+      "nameAr": "برنامج تمهيدي في العلوم في Pharmaceutical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 20380,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-nursing",
+      "universityId": "ucsi",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 22100,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22100
+        },
+        {
+          "year": 2,
+          "fee": 22100
+        },
+        {
+          "year": 3,
+          "fee": 22100
+        }
+      ],
+      "totalTuitionFee": 66300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-pharmacy",
+      "universityId": "ucsi",
+      "name": "Diploma in Pharmacy",
+      "nameAr": "دبلوم في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 25380,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25380
+        },
+        {
+          "year": 2,
+          "fee": 25380
+        },
+        {
+          "year": 3,
+          "fee": 25380
+        }
+      ],
+      "totalTuitionFee": 76140,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-aquaculture-with-entrepreneurship",
+      "universityId": "ucsi",
+      "name": "Diploma Aquaculture with Entrepreneurship",
+      "nameAr": "دبلوم في Aquaculture with Entrepreneurship",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 24195,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24195
+        },
+        {
+          "year": 2,
+          "fee": 24195
+        }
+      ],
+      "totalTuitionFee": 48390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-optometry-hons",
+      "universityId": "ucsi",
+      "name": "Bachelor of Optometry (Hons)",
+      "nameAr": "بكالوريوس في بصريات العيون",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24760,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24760
+        },
+        {
+          "year": 2,
+          "fee": 24760
+        },
+        {
+          "year": 3,
+          "fee": 24760
+        },
+        {
+          "year": 4,
+          "fee": 24760
+        }
+      ],
+      "totalTuitionFee": 99040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-nursing-hons",
+      "universityId": "ucsi",
+      "name": "Bachelor of Nursing (Hons)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27179,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27179
+        },
+        {
+          "year": 2,
+          "fee": 27179
+        },
+        {
+          "year": 3,
+          "fee": 27179
+        },
+        {
+          "year": 4,
+          "fee": 27179
+        }
+      ],
+      "totalTuitionFee": 108716,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-pharmacy-hons",
+      "universityId": "ucsi",
+      "name": "Bachelor of Pharmacy (Hons)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 44628,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44628
+        },
+        {
+          "year": 2,
+          "fee": 44628
+        },
+        {
+          "year": 3,
+          "fee": 44628
+        },
+        {
+          "year": 4,
+          "fee": 44628
+        }
+      ],
+      "totalTuitionFee": 178512,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-formulation-science-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Formulation Science (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Formulation Science (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28065,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28065
+        },
+        {
+          "year": 2,
+          "fee": 28065
+        },
+        {
+          "year": 3,
+          "fee": 28065
+        }
+      ],
+      "totalTuitionFee": 84195,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-medicine-md",
+      "universityId": "ucsi",
+      "name": "Doctor of Medicine (MD)",
+      "nameAr": "دكتوراه في Doctor of Medicine (MD",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 5,
+      "annualFee": 76100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 76100
+        },
+        {
+          "year": 2,
+          "fee": 76100
+        },
+        {
+          "year": 3,
+          "fee": 76100
+        },
+        {
+          "year": 4,
+          "fee": 76100
+        },
+        {
+          "year": 5,
+          "fee": 76100
+        }
+      ],
+      "totalTuitionFee": 380500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-food-science-with-business-management",
+      "universityId": "ucsi",
+      "name": "Master of Science (Food Science with Business Management)",
+      "nameAr": "ماجستير العلوم في Food Science with Business Management",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 24971,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24971
+        }
+      ],
+      "totalTuitionFee": 24971,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-medical-sciences",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy (Medical Sciences)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Medical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 22967,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22967
+        },
+        {
+          "year": 2,
+          "fee": 22967
+        },
+        {
+          "year": 3,
+          "fee": 22967
+        }
+      ],
+      "totalTuitionFee": 68901,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-healthy-aging-medical-aesthetic-regenerative-medicine",
+      "universityId": "ucsi",
+      "name": "Master of Science (Healthy Aging, Medical Aesthetic & Regenerative Medicine)",
+      "nameAr": "ماجستير العلوم في Healthy Aging, Medical Aesthetic & Regenerative Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30960,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30960
+        },
+        {
+          "year": 2,
+          "fee": 30960
+        }
+      ],
+      "totalTuitionFee": 61920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-pharmaceutical-sciences",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy (Pharmaceutical Sciences)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Pharmaceutical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 20733,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20733
+        },
+        {
+          "year": 2,
+          "fee": 20733
+        },
+        {
+          "year": 3,
+          "fee": 20733
+        }
+      ],
+      "totalTuitionFee": 62199,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-pharmaceutical-chemistry",
+      "universityId": "ucsi",
+      "name": "Master of Science in Pharmaceutical Chemistry",
+      "nameAr": "ماجستير العلوم في Pharmaceutical Chemistry",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 37800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-pharmaceutical-technology",
+      "universityId": "ucsi",
+      "name": "Master of Science in Pharmaceutical Technology",
+      "nameAr": "ماجستير العلوم في Pharmaceutical Technology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 37800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-pharmaceutical-sciences",
+      "universityId": "ucsi",
+      "name": "Master of Science in Pharmaceutical Sciences",
+      "nameAr": "ماجستير العلوم في Pharmaceutical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 23530,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23530
+        },
+        {
+          "year": 2,
+          "fee": 23530
+        }
+      ],
+      "totalTuitionFee": 47060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-clinical-pharmacy-practice",
+      "universityId": "ucsi",
+      "name": "Master of Clinical Pharmacy Practice",
+      "nameAr": "ماجستير في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 37800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-clinical-psychology",
+      "universityId": "ucsi",
+      "name": "Master of Clinical Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 27315,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27315
+        },
+        {
+          "year": 2,
+          "fee": 27315
+        }
+      ],
+      "totalTuitionFee": 54630,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-graduate-certificate-in-aesthetic-assistant-with-wellness",
+      "universityId": "ucsi",
+      "name": "Graduate Certificate In Aesthetic Assistant With Wellness",
+      "nameAr": "برنامج في Graduate Certificate In Aesthetic Assistant With Wellness",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 20400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20400
+        }
+      ],
+      "totalTuitionFee": 20400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-opticianry",
+      "universityId": "ucsi",
+      "name": "Diploma in Opticianry",
+      "nameAr": "دبلوم في Opticianry",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 16700,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16700
+        },
+        {
+          "year": 2,
+          "fee": 16700
+        },
+        {
+          "year": 3,
+          "fee": 16700
+        }
+      ],
+      "totalTuitionFee": 50100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-advanced-diploma-in-midwifery",
+      "universityId": "ucsi",
+      "name": "Advanced Diploma in Midwifery",
+      "nameAr": "دبلوم في Advanced Diploma in Midwifery",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 25990,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25990
+        }
+      ],
+      "totalTuitionFee": 25990,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-post-basic-critical-care-nursing",
+      "universityId": "ucsi",
+      "name": "Post-Basic Critical Care Nursing",
+      "nameAr": "برنامج في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 0.6,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep, Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-medical-sciences-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Medical Sciences)",
+      "nameAr": "برنامج تمهيدي في العلوم في Medical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-medical-sciences-2",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Medical Sciences)",
+      "nameAr": "برنامج تمهيدي في العلوم في Medical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21000
+        }
+      ],
+      "totalTuitionFee": 21000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-pharmaceutical-sciences-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Pharmaceutical Sciences)",
+      "nameAr": "برنامج تمهيدي في العلوم في Pharmaceutical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 20380,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20380
+        }
+      ],
+      "totalTuitionFee": 20380,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-applied-sciences",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Applied Sciences)",
+      "nameAr": "برنامج تمهيدي في العلوم في Applied Sciences",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-early-childhood-education-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Early Childhood Education (Honours)",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28590,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28590
+        },
+        {
+          "year": 2,
+          "fee": 28590
+        },
+        {
+          "year": 3,
+          "fee": 28590
+        }
+      ],
+      "totalTuitionFee": 85770,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-mass-communication",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Mass Communication",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24410,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24410
+        },
+        {
+          "year": 2,
+          "fee": 24410
+        },
+        {
+          "year": 3,
+          "fee": 24410
+        }
+      ],
+      "totalTuitionFee": 73230,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-english-language-and-communication",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) English Language and Communication",
+      "nameAr": "بكالوريوس في Bachelor (Hons) English Language and Communication",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21480
+        },
+        {
+          "year": 2,
+          "fee": 21480
+        },
+        {
+          "year": 3,
+          "fee": 21480
+        }
+      ],
+      "totalTuitionFee": 64440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-nutrition-with-wellness",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Nutrition with Wellness",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Nutrition with Wellness",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32312,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32312
+        },
+        {
+          "year": 2,
+          "fee": 32312
+        },
+        {
+          "year": 3,
+          "fee": 32312
+        }
+      ],
+      "totalTuitionFee": 96936,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-forensic-science",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Forensic Science",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Forensic Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 29278,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29278
+        },
+        {
+          "year": 2,
+          "fee": 29278
+        },
+        {
+          "year": 3,
+          "fee": 29278
+        },
+        {
+          "year": 4,
+          "fee": 29278
+        }
+      ],
+      "totalTuitionFee": 117112,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-food-science-with-nutrition",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Food Science with Nutrition",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Food Science with Nutrition",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25504,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25504
+        },
+        {
+          "year": 2,
+          "fee": 25504
+        },
+        {
+          "year": 3,
+          "fee": 25504
+        }
+      ],
+      "totalTuitionFee": 76512,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-biotechnology",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Biotechnology",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24675,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24675
+        },
+        {
+          "year": 2,
+          "fee": 24675
+        },
+        {
+          "year": 3,
+          "fee": 24675
+        }
+      ],
+      "totalTuitionFee": 74025,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-aquatic-science",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Aquatic Science",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Aquatic Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25916,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25916
+        },
+        {
+          "year": 2,
+          "fee": 25916
+        },
+        {
+          "year": 3,
+          "fee": 25916
+        }
+      ],
+      "totalTuitionFee": 77748,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-applied-microbiology",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Applied Microbiology",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Applied Microbiology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27188,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27188
+        },
+        {
+          "year": 2,
+          "fee": 27188
+        },
+        {
+          "year": 3,
+          "fee": 27188
+        }
+      ],
+      "totalTuitionFee": 81564,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-science-honours-actuarial-science-with-data-analytics",
+      "universityId": "ucsi",
+      "name": "Bachelor of Science (Honours) Actuarial Science with Data Analytics",
+      "nameAr": "بكالوريوس العلوم في Honours) Actuarial Science with Data Analytics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23610,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23610
+        },
+        {
+          "year": 2,
+          "fee": 23610
+        },
+        {
+          "year": 3,
+          "fee": 23610
+        }
+      ],
+      "totalTuitionFee": 70830,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-science-honours-actuarial-science-and-finance",
+      "universityId": "ucsi",
+      "name": "Bachelor of Science (Honours) Actuarial Science and Finance",
+      "nameAr": "بكالوريوس العلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24160
+        },
+        {
+          "year": 2,
+          "fee": 24160
+        },
+        {
+          "year": 3,
+          "fee": 24160
+        }
+      ],
+      "totalTuitionFee": 72480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-science-honours-actuarial-science",
+      "universityId": "ucsi",
+      "name": "Bachelor of Science (Honours) Actuarial Science",
+      "nameAr": "بكالوريوس العلوم في Honours) Actuarial Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24810,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24810
+        },
+        {
+          "year": 2,
+          "fee": 24810
+        },
+        {
+          "year": 3,
+          "fee": 24810
+        }
+      ],
+      "totalTuitionFee": 74430,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-packaging-science-and-technology",
+      "universityId": "ucsi",
+      "name": "Diploma in Packaging Science and Technology",
+      "nameAr": "دبلوم في Packaging Science and Technology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 29990,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29990
+        },
+        {
+          "year": 2,
+          "fee": 29990
+        }
+      ],
+      "totalTuitionFee": 59980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-science",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy (Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16100
+        },
+        {
+          "year": 2,
+          "fee": 16100
+        },
+        {
+          "year": 3,
+          "fee": 16100
+        }
+      ],
+      "totalTuitionFee": 48300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-biotechnology",
+      "universityId": "ucsi",
+      "name": "Master of Science (Biotechnology)",
+      "nameAr": "ماجستير العلوم في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 28501,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28501
+        }
+      ],
+      "totalTuitionFee": 28501,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-biotechnology-with-business-management",
+      "universityId": "ucsi",
+      "name": "Master of Science (Biotechnology with Business Management)",
+      "nameAr": "ماجستير العلوم في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 27597,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27597
+        }
+      ],
+      "totalTuitionFee": 27597,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-applied-sciences-by-research",
+      "universityId": "ucsi",
+      "name": "Master of Science (Applied Sciences) by Research",
+      "nameAr": "ماجستير العلوم في Applied Sciences) by Research",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 13938,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13938
+        },
+        {
+          "year": 2,
+          "fee": 13938
+        }
+      ],
+      "totalTuitionFee": 27876,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-nutrition-with-management",
+      "universityId": "ucsi",
+      "name": "Master of Science in Nutrition with Management",
+      "nameAr": "ماجستير العلوم في Nutrition with Management",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42440
+        }
+      ],
+      "totalTuitionFee": 42440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-science-diplomacy",
+      "universityId": "ucsi",
+      "name": "Master in Science Diplomacy",
+      "nameAr": "ماجستير في Master in Science Diplomacy",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 43650,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43650
+        }
+      ],
+      "totalTuitionFee": 43650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-science-applied-sciences-1",
+      "universityId": "ucsi",
+      "name": "Foundation in Science (Applied Sciences)",
+      "nameAr": "برنامج تمهيدي في العلوم في Applied Sciences",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 22540,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22540
+        }
+      ],
+      "totalTuitionFee": 22540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-psychology",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Psychology",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22800
+        },
+        {
+          "year": 2,
+          "fee": 22800
+        },
+        {
+          "year": 3,
+          "fee": 22800
+        }
+      ],
+      "totalTuitionFee": 68400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-child-psychology",
+      "universityId": "ucsi",
+      "name": "Master of Child Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 30300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30300
+        }
+      ],
+      "totalTuitionFee": 30300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-psychology",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Psychology",
+      "nameAr": "دكتوراه الفلسفة (PhD) في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13567,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13567
+        },
+        {
+          "year": 2,
+          "fee": 13567
+        },
+        {
+          "year": 3,
+          "fee": 13567
+        }
+      ],
+      "totalTuitionFee": 40701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-postgraduate-diploma-in-tertiary-teaching-pgdtt",
+      "universityId": "ucsi",
+      "name": "Postgraduate Diploma in Tertiary Teaching (PGDTT)",
+      "nameAr": "دبلوم في Postgraduate Diploma in Tertiary Teaching (PGDTT",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 19500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19500
+        }
+      ],
+      "totalTuitionFee": 19500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-ba-hons-in-psychology-with-bridging-courses",
+      "universityId": "ucsi",
+      "name": "BA (Hons) in Psychology (with bridging courses)",
+      "nameAr": "برنامج في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26160
+        },
+        {
+          "year": 2,
+          "fee": 26160
+        },
+        {
+          "year": 3,
+          "fee": 26160
+        }
+      ],
+      "totalTuitionFee": 78480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-phd-education",
+      "universityId": "ucsi",
+      "name": "PhD (Education)",
+      "nameAr": "دكتوراه في PhD (Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 20683,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20683
+        },
+        {
+          "year": 2,
+          "fee": 20683
+        },
+        {
+          "year": 3,
+          "fee": 20683
+        }
+      ],
+      "totalTuitionFee": 62049,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-education",
+      "universityId": "ucsi",
+      "name": "Master of Education",
+      "nameAr": "ماجستير في Master of Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 49100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49100
+        }
+      ],
+      "totalTuitionFee": 49100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-mathematical-sciences",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Mathematical Sciences",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Mathematical Sciences",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19720
+        },
+        {
+          "year": 2,
+          "fee": 19720
+        },
+        {
+          "year": 3,
+          "fee": 19720
+        }
+      ],
+      "totalTuitionFee": 59160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-in-mathematical-sciences",
+      "universityId": "ucsi",
+      "name": "Master of Science in Mathematical Sciences",
+      "nameAr": "ماجستير العلوم في Mathematical Sciences",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12645,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12645
+        },
+        {
+          "year": 2,
+          "fee": 12645
+        }
+      ],
+      "totalTuitionFee": 25290,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-postgraduate-certificate-in-education-pgce",
+      "universityId": "ucsi",
+      "name": "Postgraduate Certificate in Education (PGCE)",
+      "nameAr": "برنامج في Postgraduate Certificate in Education (PGCE",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 26650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26650
+        }
+      ],
+      "totalTuitionFee": 26650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-arts-and-design",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Arts and Design)",
+      "nameAr": "برنامج تمهيدي في الآداب في Arts and Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 24000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-fashion-design",
+      "universityId": "ucsi",
+      "name": "Diploma in Fashion Design",
+      "nameAr": "دبلوم في Fashion Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23530,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23530
+        },
+        {
+          "year": 2,
+          "fee": 23530
+        }
+      ],
+      "totalTuitionFee": 47060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-3d-animation-design",
+      "universityId": "ucsi",
+      "name": "Diploma in 3D Animation Design",
+      "nameAr": "دبلوم في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 22500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22500
+        },
+        {
+          "year": 2,
+          "fee": 22500
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-graphic-design",
+      "universityId": "ucsi",
+      "name": "Diploma Graphic Design",
+      "nameAr": "دبلوم في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 21520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21520
+        },
+        {
+          "year": 2,
+          "fee": 21520
+        }
+      ],
+      "totalTuitionFee": 43040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-3d-animation-design",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) 3D Animation Design",
+      "nameAr": "بكالوريوس في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30563,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30563
+        },
+        {
+          "year": 2,
+          "fee": 30563
+        },
+        {
+          "year": 3,
+          "fee": 30563
+        }
+      ],
+      "totalTuitionFee": 91689,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-graphic-design",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Graphic Design",
+      "nameAr": "بكالوريوس في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27161,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27161
+        },
+        {
+          "year": 2,
+          "fee": 27161
+        },
+        {
+          "year": 3,
+          "fee": 27161
+        }
+      ],
+      "totalTuitionFee": 81483,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-game-design",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Game Design",
+      "nameAr": "بكالوريوس في تصميم الألعاب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30113,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30113
+        },
+        {
+          "year": 2,
+          "fee": 30113
+        },
+        {
+          "year": 3,
+          "fee": 30113
+        }
+      ],
+      "totalTuitionFee": 90339,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-hons-fashion-design-with-marketing",
+      "universityId": "ucsi",
+      "name": "Bachelor (Hons) Fashion Design with Marketing",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29059,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29059
+        },
+        {
+          "year": 2,
+          "fee": 29059
+        },
+        {
+          "year": 3,
+          "fee": 29059
+        }
+      ],
+      "totalTuitionFee": 87177,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-honours-multimedia-design",
+      "universityId": "ucsi",
+      "name": "Bachelor (Honours) Multimedia Design",
+      "nameAr": "بكالوريوس في Bachelor (Honours) Multimedia Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27764,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27764
+        },
+        {
+          "year": 2,
+          "fee": 27764
+        },
+        {
+          "year": 3,
+          "fee": 27764
+        }
+      ],
+      "totalTuitionFee": 83292,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-architecture-phd",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Architecture (PhD)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الهندسة المعمارية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 14800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14800
+        },
+        {
+          "year": 2,
+          "fee": 14800
+        },
+        {
+          "year": 3,
+          "fee": 14800
+        }
+      ],
+      "totalTuitionFee": 44400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-architecture",
+      "universityId": "ucsi",
+      "name": "Master of Architecture",
+      "nameAr": "ماجستير في الهندسة المعمارية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 27435,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27435
+        },
+        {
+          "year": 2,
+          "fee": 27435
+        }
+      ],
+      "totalTuitionFee": 54870,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-art-design-and-creative-media",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Art, Design and Creative Media",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Art, Design and Creative Media",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17800
+        },
+        {
+          "year": 2,
+          "fee": 17800
+        },
+        {
+          "year": 3,
+          "fee": 17800
+        }
+      ],
+      "totalTuitionFee": 53400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-art-design",
+      "universityId": "ucsi",
+      "name": "Master in Art & Design",
+      "nameAr": "ماجستير في Master in Art & Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20900
+        },
+        {
+          "year": 2,
+          "fee": 20900
+        }
+      ],
+      "totalTuitionFee": 41800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-art-design-and-creative-media",
+      "universityId": "ucsi",
+      "name": "Master of Art, Design and Creative Media",
+      "nameAr": "ماجستير في Master of Art, Design and Creative Media",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 57550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57550
+        }
+      ],
+      "totalTuitionFee": 57550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-culinary-arts-1",
+      "universityId": "ucsi",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 15495,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25960
+        },
+        {
+          "year": 2,
+          "fee": 25960
+        }
+      ],
+      "totalTuitionFee": 51920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-art-design",
+      "universityId": "ucsi",
+      "name": "Master of Art & Design",
+      "nameAr": "ماجستير في Master of Art & Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20900
+        },
+        {
+          "year": 2,
+          "fee": 20900
+        }
+      ],
+      "totalTuitionFee": 41800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-policy-and-communication",
+      "universityId": "ucsi",
+      "name": "Master of Science Policy and Communication",
+      "nameAr": "ماجستير العلوم في Policy and Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 43650,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43650
+        }
+      ],
+      "totalTuitionFee": 43650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-in-strategic-communication",
+      "universityId": "ucsi",
+      "name": "Master in Strategic Communication",
+      "nameAr": "ماجستير في Master in Strategic Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-music-performance",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Music Performance",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Music Performance",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 25167,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25167
+        },
+        {
+          "year": 2,
+          "fee": 25167
+        },
+        {
+          "year": 3,
+          "fee": 25167
+        }
+      ],
+      "totalTuitionFee": 75501,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-music",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Music",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Music",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 24500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24500
+        },
+        {
+          "year": 2,
+          "fee": 24500
+        },
+        {
+          "year": 3,
+          "fee": 24500
+        }
+      ],
+      "totalTuitionFee": 73500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-music-performance-studies",
+      "universityId": "ucsi",
+      "name": "Master of Music (Performance Studies)",
+      "nameAr": "ماجستير في Master of Music (Performance Studies",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.3,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 50000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-digital-media-production-and-broadcasting-honours",
+      "universityId": "ucsi",
+      "name": "Bachelor of Digital Media Production and Broadcasting (Honours)",
+      "nameAr": "بكالوريوس في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26620,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26620
+        },
+        {
+          "year": 2,
+          "fee": 26620
+        },
+        {
+          "year": 3,
+          "fee": 26620
+        }
+      ],
+      "totalTuitionFee": 79860,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-arts-social-sciences-and-liberal-arts",
+      "universityId": "ucsi",
+      "name": "Foundation in Arts (Social Sciences and Liberal Arts)",
+      "nameAr": "برنامج تمهيدي في الآداب في Social Sciences and Liberal Arts",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 24000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-foundation-in-music",
+      "universityId": "ucsi",
+      "name": "Foundation in Music",
+      "nameAr": "برنامج تمهيدي في Music",
+      "field": "business",
+      "category": "Other",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28200
+        }
+      ],
+      "totalTuitionFee": 28200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-music-performance",
+      "universityId": "ucsi",
+      "name": "Diploma in Music Performance",
+      "nameAr": "دبلوم في Music Performance",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 30980,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30980
+        },
+        {
+          "year": 2,
+          "fee": 30980
+        },
+        {
+          "year": 3,
+          "fee": 30980
+        }
+      ],
+      "totalTuitionFee": 92940,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-contemporary-music-hons",
+      "universityId": "ucsi",
+      "name": "Bachelor of Contemporary Music (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Contemporary Music (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44700
+        },
+        {
+          "year": 2,
+          "fee": 44700
+        },
+        {
+          "year": 3,
+          "fee": 44700
+        }
+      ],
+      "totalTuitionFee": 134100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-bachelor-of-classical-music-hons",
+      "universityId": "ucsi",
+      "name": "Bachelor of Classical Music (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Classical Music (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44700
+        },
+        {
+          "year": 2,
+          "fee": 44700
+        },
+        {
+          "year": 3,
+          "fee": 44700
+        }
+      ],
+      "totalTuitionFee": 134100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-diploma-in-cosmetic-science",
+      "universityId": "ucsi",
+      "name": "Diploma in Cosmetic Science",
+      "nameAr": "دبلوم في Cosmetic Science",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 30500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30500
+        },
+        {
+          "year": 2,
+          "fee": 30500
+        }
+      ],
+      "totalTuitionFee": 61000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-doctor-of-philosophy-in-art-design-and-creative-media-institute-of-music",
+      "universityId": "ucsi",
+      "name": "Doctor of Philosophy in Art, Design and Creative Media (INSTITUTE OF MUSIC)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Art, Design and Creative Media (INSTITUTE OF MUSIC",
+      "field": "business",
+      "category": "Other",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 27167,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27167
+        },
+        {
+          "year": 2,
+          "fee": 27167
+        },
+        {
+          "year": 3,
+          "fee": 27167
+        }
+      ],
+      "totalTuitionFee": 81501,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-actuarial-management-structure-b",
+      "universityId": "ucsi",
+      "name": "Master of Science (Actuarial Management) Structure B",
+      "nameAr": "ماجستير العلوم في Actuarial Management) Structure B",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 33339,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33339
+        }
+      ],
+      "totalTuitionFee": 33339,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "ucsi-master-of-science-actuarial-management-structure-c",
+      "universityId": "ucsi",
+      "name": "Master of Science (Actuarial Management) Structure C",
+      "nameAr": "ماجستير العلوم في Actuarial Management) Structure C",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 36028,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36028
+        }
+      ],
+      "totalTuitionFee": 36028,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 193
+}

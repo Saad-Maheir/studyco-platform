@@ -1,0 +1,4599 @@
+{
+  "id": "usm",
+  "slug": "usm",
+  "name": "Universiti Sains Malaysia (USM)",
+  "arabicName": "جامعة العلوم الماليزية (USM)",
+  "city": "George Town, Penang",
+  "cityKey": "city_george_town",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-usm.svg",
+  "image": "assets/photo/campus_usm.jpg",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/bBiN4YnE9fE",
+  "directWatchUrl": "https://www.youtube.com/watch?v=bBiN4YnE9fE",
+  "website": "https://www.usm.my/",
+  "offerLetterType": "Direct Official University Offer",
+  "ranking": "Rank 146 QS World University Rankings 2025",
+  "rankingBadgeKey": "usm_rank_badge",
+  "established": "1969",
+  "campusName": "Gelugor Main Campus (The University in a Garden), Penang",
+  "studentCount": "34,000+ (from 75+ countries)",
+  "intakes": "Feb, Sep, Oct",
+  "feeRangeMin": 13438,
+  "feeRangeMax": 118250,
+  "currency": "MYR",
+  "majors": [
+    "engineering",
+    "health",
+    "cs",
+    "science",
+    "business",
+    "arts",
+    "architecture",
+    "education"
+  ],
+  "similarUniversities": [
+    "um",
+    "upm",
+    "ukm",
+    "utm"
+  ],
+  "totalProgramsCount": 116,
+  "description": "Universiti Sains Malaysia (USM) is Malaysia's only APEX university (Accelerated Programme for Excellence) ranked #146 globally (QS 2025). Established in 1969 on the island of Penang, USM is renowned as 'The University in a Garden', pioneering world-class research in engineering, pharmaceutical sciences, and sustainable development.",
+  "descriptionAr": "جامعة العلوم الماليزية (USM) هي الجامعة الوحيدة في ماليزيا الحاصلة على مرتبة الصدارة الوطنية الفائقة (APEX University) والمرتبة 146 عالمياً (QS 2025). تأسست عام 1969 بجزيرة بينانج الساحرة وتعرف باسم 'الجامعة في حديقة'، وتتصدر المؤسسات الأكاديمية الآسيوية في علوم الصيدلة، الهندسة، والاستدامة البيئية.",
+  "about": {
+    "ar": "تعد جامعة العلوم الماليزية (Universiti Sains Malaysia - USM) إحدى أعرق وأكبر الجامعات البحثية الحكومية في ماليزيا والوحيدة التي نالت تصنيف 'APEX' الممنوح من الحكومة الماليزية لأعلى مستويات التميز المؤسسي. تحتل الجامعة المرتبة 146 عالمياً في تصنيف QS 2025، وتتمتع بحرم رئيسي أخاذ في مدينة جورج تاون بجزيرة بينانج يعرف بلقب 'الجامعة في حديقة'. تضم USM كليات متقدمة في الهندسة (بحرم الهندسة في نيبونغ تيبال)، الصيدلة والعلوم الطبية (بحرم العلوم الصحية في كوبانغ كيريان)، وعلوم الحاسوب والفنون، وتوفر بيئة تعليمية متعددة الثقافات معترفاً بها في كافة المحافل الدولية.",
+    "en": "Universiti Sains Malaysia (USM) is Malaysia's premier APEX (Accelerated Programme for Excellence) public research university, globally ranked #146 in the QS World University Rankings 2025. Established in 1969 on Penang Island, USM is celebrated worldwide as 'The University in a Garden' for its lush botanical campus integrated with state-of-the-art research centers. USM leads in Pharmaceutical Sciences, Engineering, Artificial Intelligence, Medical Sciences, and Sustainable Development, catering to over 34,000 students from 75 nations.",
+    "id": "Universiti Sains Malaysia (USM) adalah satu-satunya universitas berstatus APEX di Malaysia yang berada di peringkat 146 dunia (QS 2025). Terletak di Pulau Penang yang indah dan dikenal sebagai 'Universitas di dalam Taman', USM memimpin penelitian internasional dalam bidang farmasi, teknik, kedokteran, dan sains terapan.",
+    "zh": "马来西亚理科大学（USM）是马来西亚唯一一所荣膺国家顶尖APEX卓越加速计划的公立研究型国立大学，在2025年QS世界大学排名中名列全球第146位。理大始建于1969年，主校区坐落于著名的世界文化遗产岛屿槟城乔治市，素有“花园大学”的美誉。理大在药剂科学、工程学、计算机与软件科学、现代医学及可持续发展领域均处于世界一流水平。",
+    "ru": "Университет наук Малайзии (USM) — единственный университет в стране, имеющий статус элитного национального вуза APEX, занимающий 146-е место в мире (QS 2025). Расположенный на острове Пенанг и известный как 'Университет в саду', USM славится передовыми исследованиями в области фармацевтики, инженерии и экологии.",
+    "fr": "L'Universiti Sains Malaysia (USM) est l'unique université APEX de Malaisie, classée 146e au monde (QS 2025). Située sur l'île de Penang et surnommée 'L'Université dans un jardin', l'USM est une référence mondiale en pharmacie, ingénierie, sciences médicales et développement durable.",
+    "es": "La Universiti Sains Malaysia (USM) es la única universidad APEX de Malasia, situada en el puesto 146 del ranking mundial QS 2025. Ubicada en la isla de Penang y conocida como 'La Universidad en un Jardín', USM destaca mundialmente en farmacia, ingeniería y desarrollo sostenible.",
+    "ja": "マレーシア理科大学（USM）は、マレーシア政府が唯一APEX（最卓越推進機関）に指定した超エリート国立研究大学で、世界大学ランキング第146位（QS 2025）に輝きます。ペナン島に位置し「庭園の中の大学」と称され、薬学、工学、IT、医学分野で世界的評価を獲得しています。",
+    "ko": "말레이시아 이과대학교(USM)는 말레이시아 정부로부터 유일하게 최고 등급인 APEX 지위를 부여받은 명문 국립 연구중심 대학교로, 2025 QS 세계 랭킹 146위에 랭크되어 있습니다. 페낭 섬에 위치하여 '정원 속의 대학교'로 널리 알려져 있으며, 약학, 공학, 컴퓨터과학, 생명과학 분야에서 세계적인 수준의 연구 성과를 창출하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "🏛️",
+      "title": {
+        "en": "USM University in a Garden Botanical Campus & Museum",
+        "ar": "حرم 'الجامعة في حديقة' النباتي ومتحف ومعرض الفنون بـ USM",
+        "id": "Kampus Botani 'University in a Garden' & Museum USM",
+        "zh": "“花园大学”国家级生态植物园区与理大文化艺术博物馆",
+        "ru": "Ботанический кампус 'Университет в саду' и музей USM",
+        "fr": "Campus botanique 'Université dans un jardin' et musée de l'USM",
+        "es": "Campus botánico 'La Universidad en un Jardín' y Museo de USM",
+        "ja": "「庭園の中の大学」植物園キャンパス＆USM博物館ギャラリー",
+        "ko": "'정원 속의 대학' 보타닉 생태 캠퍼스 및 USM 국립 박물관 미술관"
+      }
+    },
+    {
+      "icon": "💊",
+      "title": {
+        "en": "National Pharmaceutical & Drug Research Centre (Global Leader)",
+        "ar": "المركز الوطني لأبحاث الأدوية والصيدلة السريرية (صدارة عالمية)",
+        "id": "Pusat Penelitian Obat & Farmasi Nasional",
+        "zh": "国家药物研究中心（Doping Control Centre）与临床药学实验中心",
+        "ru": "Национальный центр фармацевтических исследований USM",
+        "fr": "Centre national de recherche pharmaceutique et clinique",
+        "es": "Centro Nacional de Investigación Farmacéutica",
+        "ja": "国立薬学・薬品研究センター（世界アンチドーピング機構公認）",
+        "ko": "국립 약학 연구 센터 및 세계도핑방지기구 공인 분석 연구소"
+      }
+    },
+    {
+      "icon": "⚙️",
+      "title": {
+        "en": "USM Engineering Mega Campus (Nibong Tebal)",
+        "ar": "مجمع كليات الهندسة العملاق لـ USM (نيبونغ تيبال)",
+        "id": "Kampus Mega Teknik USM (Nibong Tebal)",
+        "zh": "理大高斯工程超级独立校区（包含航空航天、微电子与材料工程）",
+        "ru": "Инженерный мега-кампус USM (Нибонг Тебал)",
+        "fr": "Méga-campus d'ingénierie de l'USM (Nibong Tebal)",
+        "es": "Megacampus de ingeniería de USM (Nibong Tebal)",
+        "ja": "USMエンジニアリング・メガキャンパス（ニボン・テバル）",
+        "ko": "USM 공학 전문 메가 캠퍼스 (니봉트발 항공·전자 복합단지)"
+      }
+    },
+    {
+      "icon": "🏊",
+      "title": {
+        "en": "Sports Complex, Olympic Diving Pool & Marine Research Centre (CEMACS)",
+        "ar": "المجمع الرياضي، مسبح الغطس الأولمبي ومركز أبحاث البحار والسواحل (CEMACS)",
+        "id": "Kompleks Olahraga & Pusat Riset Kelautan CEMACS",
+        "zh": "奥林匹克水上运动中心与国家海洋沿海研究中心（CEMACS）",
+        "ru": "Спортивный олимпийский комплекс и морской центр CEMACS",
+        "fr": "Complexe sportif olympique et centre de recherche marine CEMACS",
+        "es": "Complejo deportivo olímpico y centro marino CEMACS",
+        "ja": "オリンピック公認プール＆国立海洋沿岸研究センター（CEMACS）",
+        "ko": "올림픽 규격 종합 스포츠 콤플렉스 및 국립 해양 연안 연구센터(CEMACS)"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🌟",
+      "title": {
+        "en": "The Only APEX University in Malaysia",
+        "ar": "الجامعة الوحيدة الحائزة على مرتبة التميز الوطني الفائق (APEX)",
+        "id": "Satu-satunya Universitas Berstatus APEX di Malaysia",
+        "zh": "马来西亚唯一由政府特选授予 APEX 卓越加速地位的高校",
+        "ru": "Единственный университет в Малайзии со статусом элиты APEX",
+        "fr": "L'unique université labellisée APEX en Malaisie",
+        "es": "La única universidad con estatus APEX en Malasia",
+        "ja": "マレーシア政府が唯一認定した最卓越加速大学（APEX）",
+        "ko": "말레이시아 정부 공인 유일의 최고 국가 중점 대학(APEX)"
+      },
+      "desc": {
+        "en": "Conferred by the Malaysian Government to transform USM into a premier world-class institution driven by sustainability.",
+        "ar": "وسام حكومي فريد يمنح الجامعة أولوية التمويل والدعم لتحقيق قفزات نوعية في الأبحاث والابتكار العالمي.",
+        "id": "Diberikan oleh Pemerintah Malaysia untuk mendorong USM menjadi institusi kelas dunia.",
+        "zh": "获国家优先重点资源倾斜，旨在打造引领全球可持续发展转型的世界顶尖学府。",
+        "ru": "Особый статус правительства для ускоренного развития научных открытий.",
+        "fr": "Statut accordé par l'État pour propulser l'université vers l'excellence mondiale.",
+        "es": "Otorgado por el gobierno para impulsar a USM hacia la cumbre investigadora global.",
+        "ja": "マレーシア政府が世界トップクラスの研究機関への飛躍を直接支援する特権的称号。",
+        "ko": "말레이시아 정부의 전폭적인 연구비 지원과 특별 관리를 받는 유일한 국가 대표 대학입니다."
+      }
+    },
+    {
+      "icon": "🏆",
+      "title": {
+        "en": "QS World Rank #146 & Top 35 in Pharmacy & Pharmacology",
+        "ar": "المرتبة 146 عالمياً وضمن أفضل 35 جامعة في الصيدلة والأدوية",
+        "id": "Peringkat 146 Dunia & Top 35 Farmasi Dunia",
+        "zh": "2025年QS世界大学排名第146位，药剂学与药理学居全球Top 35",
+        "ru": "146-е место в мире и топ-35 по фармацевтике",
+        "fr": "146e mondial et top 35 en pharmacie et pharmacologie",
+        "es": "Puesto 146 mundial y top 35 en farmacia",
+        "ja": "QS世界大学ランキング第146位＆薬学分野で世界トップ35位",
+        "ko": "QS 세계 랭킹 146위 및 약학·약리학 분야 전 세계 Top 35위"
+      },
+      "desc": {
+        "en": "USM School of Pharmaceutical Sciences is globally ranked alongside Oxford, Cambridge, and Monash.",
+        "ar": "تنافس كلية الصيدلة في USM أكسفورد وكامبريدج وموناش في جودة الأبحاث الدوائية وبراءات الاختراع.",
+        "id": "Fakultas Farmasi USM bersaing langsung dengan universitas ternama dunia.",
+        "zh": "理大药学院科研实力比肩牛津、剑桥及莫纳什大学，毕业生在国际医药巨头中极具吸引力。",
+        "ru": "Фармацевтический факультет USM входит в число элитных мировых научных центров.",
+        "fr": "La faculté de pharmacie de l'USM rivalise avec les meilleures institutions mondiales.",
+        "es": "La Facultad de Farmacia de USM se sitúa al nivel de las instituciones mundiales líderes.",
+        "ja": "USM薬学部はオックスフォードやケンブリッジと並び称されるハイレベルな研究水準。",
+        "ko": "USM 약학대학은 옥스퍼드, 캠브리지, 모나쉬 등과 어깨를 나란히 하는 세계적 명문입니다."
+      }
+    },
+    {
+      "icon": "🌴",
+      "title": {
+        "en": "Penang: Silicon Valley of the East & Cultural Capital",
+        "ar": "بينانج: وادي السيليكون الشرقي وعاصمة الثقافة والسياحة",
+        "id": "Penang: Silicon Valley Timur & Ibu Kota Budaya",
+        "zh": "坐拥“东方硅谷”槟城国际半导体产业集群与世界遗产宜居环境",
+        "ru": "Пенанг: восточная Кремниевая долина и культурная столица",
+        "fr": "Penang : la Silicon Valley de l'Est et capitale culturelle",
+        "es": "Penang: el Silicon Valley del Este y capital cultural",
+        "ja": "ペナン：東洋のシリコンバレー＆世界遺産の文化都市",
+        "ko": "페낭: '동양의 실리콘밸리' 반도체 허브이자 유네스코 세계문화유산 도시"
+      },
+      "desc": {
+        "en": "Study in Malaysia's premier high-tech manufacturing hub with immediate access to Intel, AMD, Bosch, and HP.",
+        "ar": "دراسة جامعية في قلب أكبر تجمع لصناعات الإلكترونيات الدقيقة مع فرص تدريب مباشر في إنتل وبوش وإتش بي.",
+        "id": "Belajar di pusat teknologi tinggi Malaysia dengan akses magang di Intel, AMD, dan Bosch.",
+        "zh": "毗邻英特尔、AMD、博世、惠普等跨国芯片科技巨头，工程与IT学生坐拥得天独厚的带薪实习与高薪就业先机。",
+        "ru": "Учеба в центре микроэлектроники с прямым доступом к стажировкам в Intel, AMD и Bosch.",
+        "fr": "Étudiez au cœur du pôle technologique avec des stages directs chez Intel et Bosch.",
+        "es": "Estudia en el mayor centro tecnológico con prácticas en Intel, AMD y Bosch.",
+        "ja": "インテル、AMD、ボッシュなど世界大手半導体企業が集結する産業集積地で直接インターンが可能。",
+        "ko": "인텔, AMD, 보쉬, HP 등 글로벌 테크 기업들이 밀집한 반도체 클러스터에서 실무 인턴십 기회를 누립니다."
+      }
+    },
+    {
+      "icon": "🌿",
+      "title": {
+        "en": "Global Top 5 in Times Higher Education (THE) Impact Rankings",
+        "ar": "ضمن أفضل 5 جامعات في العالم في تصنيف التأثير المجتمعي والتنمية المستدامة (THE)",
+        "id": "Top 5 Dunia dalam THE Impact Rankings untuk SDGs",
+        "zh": "泰晤士高等教育（THE）全球大学影响力排名稳居世界前5强",
+        "ru": "Топ-5 в мире в рейтинге влияния THE Impact Rankings",
+        "fr": "Top 5 mondial au THE Impact Rankings pour la durabilité",
+        "es": "Top 5 mundial en el THE Impact Rankings por sostenibilidad",
+        "ja": "THE世界大学インパクトランキングで世界トップ5位の快挙",
+        "ko": "THE 세계 대학 임팩트 랭킹(UN SDGs 지속가능발전) 전 세계 Top 5위 달성"
+      },
+      "desc": {
+        "en": "Recognized internationally as a pioneer in aligning academic research with United Nations Sustainable Development Goals.",
+        "ar": "صنفت بين أفضل خمس جامعات عالمياً في تفعيل أهداف التنمية المستدامة للأمم المتحدة من خلال التعليم والأبحاث.",
+        "id": "Diakui secara global sebagai pelopor dalam mewujudkan tujuan pembangunan berkelanjutan PBB.",
+        "zh": "在联合国17项可持续发展目标（SDGs）科研践行上被泰晤士评为全球前五，享有崇高的国际美誉。",
+        "ru": "Один из пяти лучших университетов мира по реализации целей устойчивого развития ООН.",
+        "fr": "Pionnier mondial dans la mise en œuvre des objectifs de développement durable de l'ONU.",
+        "es": "Reconocida internacionalmente como una de las cinco mejores universidades en metas de la ONU.",
+        "ja": "国連SDGs（持続可能な開発目標）の推進において世界最高峰の評価を受ける世界的先駆者。",
+        "ko": "유엔 지속가능발전목표(SDGs) 실천 및 연구 기여도에서 전 세계 Top 5위의 독보적 위상을 증명했습니다."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What makes Universiti Sains Malaysia (USM) unique among Malaysian universities?",
+        "ar": "ما الذي يجعل جامعة العلوم الماليزية (USM) مميزة بين سائر الجامعات في ماليزيا؟",
+        "id": "Apa yang membuat USM unik di antara universitas lain di Malaysia?",
+        "zh": "马来西亚理科大学（USM）在全马大学中拥有哪些独一无二的优势？",
+        "ru": "Что делает USM уникальным среди других университетов Малайзии?",
+        "fr": "Qu'est-ce qui rend l'USM unique parmi les universités malaisiennes ?",
+        "es": "¿Qué hace única a la USM entre las universidades de Malasia?",
+        "ja": "マレーシアの他の大学と比較したUSMの際立った特長は何ですか？",
+        "ko": "말레이시아의 다른 대학교들과 비교했을 때 USM만의 독보적인 차별점은 무엇인가요?"
+      },
+      "a": {
+        "en": "USM is Malaysia's only APEX university, ranked #146 globally, situated on the vibrant cultural island of Penang surrounded by major multinational tech corporations.",
+        "ar": "تنفرد بكونها الجامعة الوحيدة الحاصلة على صفة APEX وتصنيفها 146 عالمياً، وتقع بجزيرة بينانج السياحية التي تمثل عاصمة التكنولوجيا وصناعة الرقائق في آسيا.",
+        "id": "USM adalah satu-satunya universitas berstatus APEX di Malaysia, menduduki peringkat 146 dunia di Pulau Penang.",
+        "zh": "理大是全马唯一拥有APEX国家卓越地位的高校，世界排名第146，坐拥槟城“东方硅谷”跨国高科技产业走廊与世界自然文化遗产双重优势。",
+        "ru": "USM — единственный университет APEX в стране с 146-м местом в мировом рейтинге на острове Пенанг.",
+        "fr": "C'est l'unique université APEX de Malaisie, 146e mondiale, idéalement située à Penang.",
+        "es": "Es la única universidad APEX de Malasia, 146 del mundo, ubicada en el dinámico núcleo de Penang.",
+        "ja": "マレーシアで唯一APEX称号を冠した世界146位のトップ大学であり、東洋のシリコンバレーと呼ばれるペナン島に本拠を置きます。",
+        "ko": "말레이시아에서 유일하게 국가 최고 권위인 APEX 자격을 보유하고 있으며, 세계 146위이자 글로벌 IT·반도체 기업들이 밀집한 페낭 섬에 자리잡고 있습니다."
+      }
+    },
+    {
+      "q": {
+        "en": "Where are the different campuses of USM located?",
+        "ar": "أين تقع المقار والحرم الجامعية المختلفة لـ USM؟",
+        "id": "Di mana saja lokasi kampus-kampus USM?",
+        "zh": "理科大学各个校区的具体地理分布是怎样的？",
+        "ru": "Где расположены различные кампусы USM?",
+        "fr": "Où se trouvent les différents campus de l'USM ?",
+        "es": "¿Dónde se encuentran los diferentes campus de USM?",
+        "ja": "USMの各キャンパスはどこに位置していますか？",
+        "ko": "USM의 각 캠퍼스는 어디에 위치해 있나요?"
+      },
+      "a": {
+        "en": "USM has three main campuses: the Main Campus in Gelugor, Penang Island; the Engineering Campus in Nibong Tebal, Penang Mainland; and the Health & Medical Campus in Kubang Kerian, Kelantan.",
+        "ar": "تضم 3 فروع رئيسية: الحرم الرئيسي في غيلوغور بجزيرة بينانج؛ وحرم الهندسة في نيبونغ تيبال ببر بينانج الرئيسي؛ وحرم العلوم الصحية والطبية في كوبانغ كيريان بولاية كيلانتان.",
+        "id": "USM memiliki 3 kampus utama: Kampus Utama di Gelugor Penang, Kampus Teknik di Nibong Tebal, dan Kampus Kesehatan di Kubang Kerian Kelantan.",
+        "zh": "理大设有三大校区：槟岛主校区（理科、计算机、商科、文科与艺术）；高斯工程校区（高科技工程系全部专业）；以及吉兰丹健康医学分校（医学、牙科与药学）。",
+        "ru": "Три основных кампуса: Главный на острове Пенанг, Инженерный в Нибонг Тебал и Медицинский в Кубанг Кериан.",
+        "fr": "Trois campus principaux : le campus principal à Penang, le campus d'ingénierie à Nibong Tebal et le campus médical à Kelantan.",
+        "es": "Cuenta con tres campus principales: Campus Principal en Penang, Campus de Ingeniería en Nibong Tebal y Campus Médico en Kelantan.",
+        "ja": "ペナン島ゲルゴールのメインキャンパス、ペナン対岸ニボン・テバルの工学キャンパス、クランタン州の医学・健康科学キャンパスの3拠点体制です。",
+        "ko": "페낭 섬 겔루고르 메인 캠퍼스, 페낭 본토 니봉트발 공학 전문 캠퍼스, 그리고 클란탄주 쿠방케리안 의과대학 건강과학 캠퍼스로 구성되어 있습니다."
+      }
+    },
+    {
+      "q": {
+        "en": "What is the tuition fee range for international students at USM?",
+        "ar": "ما هي التكلفة والرسوم الدراسية السنوية للطلاب الدوليين في USM؟",
+        "id": "Berapa kisaran biaya kuliah untuk mahasiswa internasional di USM?",
+        "zh": "国际学生就读理科大学的年度学费区间是多少？",
+        "ru": "Какова стоимость обучения для иностранных студентов в USM?",
+        "fr": "Quels sont les frais de scolarité pour les étudiants internationaux à l'USM ?",
+        "es": "¿Cuál es el coste de la matrícula para estudiantes internacionales en USM?",
+        "ja": "USMにおける留学生の年間学费の目安はどれくらいですか？",
+        "ko": "USM의 유학생 연간 학비 수준은 어느 정도인가요?"
+      },
+      "a": {
+        "en": "Tuition fees for international students range from RM 14,000 to RM 28,000 per year for Computer Science, Business, and Engineering programs, making it exceptionally competitive for a Top 150 world university.",
+        "ar": "تتراوح الرسوم السنوية لمعظم تخصصات الحاسوب وإدارة الأعمال والهندسة بين 14,000 إلى 28,000 رينجيت سنوياً، وهو ما يعد تكلفة منخفضة للغاية لجامعة ضمن أفضل 150 جامعة في العالم.",
+        "id": "Biaya kuliah berkisar antara RM 14.000 hingga RM 28.000 per tahun untuk sebagian besar jurusan.",
+        "zh": "理大本科学费通常在每年 14,000 至 28,000 马币之间（计算机、商科及工程），对于全球排名前150位的顶尖国立大学而言极具性价比优势。",
+        "ru": "Стоимость составляет от 14 000 до 28 000 ринггитов в год для большинства программ.",
+        "fr": "Les frais varient entre 14 000 et 28 000 RM par an pour la plupart des cursus.",
+        "es": "La matrícula oscila entre 14.000 y 28.000 RM anuales para la mayoría de grados.",
+        "ja": "IT、ビジネス、工学などの主要専攻で年間約14,000〜28,000リンギットと、世界トップ150校として極めてリーズナブルです。",
+        "ko": "컴퓨터공학, 경영학, 공학 계열 기준 연간 약 14,000 ~ 28,000 링깃(MYR) 수준으로, 세계 150위권 명문대 중 독보적인 가성비를 자랑합니다."
+      }
+    },
+    {
+      "q": {
+        "en": "Are courses at USM taught in English?",
+        "ar": "هل جميع المقررات في جامعة USM تدرس باللغة الإنجليزية؟",
+        "id": "Apakah perkuliahan di USM menggunakan bahasa Inggris?",
+        "zh": "理科大学的所有专业课程是否均采用全英文授课？",
+        "ru": "Преподаются ли курсы в USM на английском языке?",
+        "fr": "Les cours à l'USM sont-ils dispensés en anglais ?",
+        "es": "¿Se imparten los cursos de USM en inglés?",
+        "ja": "USMの講義は英語で行われますか？",
+        "ko": "USM의 모든 수업은 영어로 진행되나요?"
+      },
+      "a": {
+        "en": "Yes, all undergraduate and postgraduate programs offered to international students in Science, IT, Engineering, Medicine, and Management are 100% conducted in English.",
+        "ar": "نعم، كافة برامج البكالوريوس والدراسات العليا المتاحة للطلاب الدوليين في العلوم، الهندسة، الحاسوب، الصيدلة، وإدارة الأعمال تدرس باللغة الإنجليزية بالكامل.",
+        "id": "Ya, semua program untuk mahasiswa internasional diajarkan 100% dalam bahasa Inggris.",
+        "zh": "是的，面向国际学生开设的所有理科、计算机、工程、药学及管理类本科与硕博课程均100%以英语教学与考核。",
+        "ru": "Да, все программы для иностранных студентов на 100% ведутся на английском языке.",
+        "fr": "Oui, tous les programmes pour étudiants internationaux sont dispensés à 100% en anglais.",
+        "es": "Sí, todos los programas para estudiantes internacionales se imparten totalmente en inglés.",
+        "ja": "はい、国際留学生が履修する理系、IT、工学、薬学、経営学の全科目は100％英語で講義・試験が行われます。",
+        "ko": "네, 유학생이 지원 가능한 모든 이공계, IT, 약학, 공학 및 경영학 과정은 100% 영어로 진행됩니다."
+      }
+    },
+    {
+      "q": {
+        "en": "How can I apply directly to USM via StudyCo?",
+        "ar": "كيف أتقدم بطلب الالتحاق بجامعة USM عبر منصة StudyCo؟",
+        "id": "Bagaimana cara mendaftar ke USM lewat StudyCo?",
+        "zh": "如何通过 StudyCo 平台一键申请理科大学？",
+        "ru": "Как подать заявку в USM через StudyCo?",
+        "fr": "Comment postuler à l'USM via StudyCo ?",
+        "es": "¿Cómo puedo solicitar plaza en USM a través de StudyCo?",
+        "ja": "StudyCoを通じてUSMに出願する手順はどうなっていますか？",
+        "ko": "StudyCo를 통해 USM에 지원하는 절차는 어떻게 되나요?"
+      },
+      "a": {
+        "en": "You can apply directly by choosing your program and clicking 'Apply Now'. StudyCo provides free certified document evaluation and direct submission to the USM admission office.",
+        "ar": "يمكنك التقديم مباشرة باختيار تخصصك والضغط على 'قدّم طلب التحاق'. توفر StudyCo تدقيقاً معتمداً لمستنداتك ورفعه إلى عمادة القبول بـ USM مجاناً.",
+        "id": "Cukup pilih program studi Anda dan klik 'Daftar Sekarang' di StudyCo.",
+        "zh": "只需在专业列表中选择心仪项目并点击“立即申请”，StudyCo将为您提供全程免费的学历资格初审与校方系统直申代办服务。",
+        "ru": "Выберите программу на сайте StudyCo и нажмите кнопку подачи заявления.",
+        "fr": "Sélectionnez votre programme sur StudyCo et cliquez sur 'Postuler'.",
+        "es": "Elige tu programa en StudyCo y haz clic en 'Solicitar Ahora'.",
+        "ja": "StudyCoの希望プログラムを選び「出願する」をクリックするだけで、公式審査への直接申請が無料で完了します。",
+        "ko": "원하는 전공을 선택하고 StudyCo에서 '입학 지원하기'를 클릭하시면, 서류 사전 심사 및 USM 공식 입학처 직접 접수가 무료로 진행됩니다."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "en": "Universiti Sains Malaysia (USM): Admissions, Grades & English Requirements",
+        "ar": "شروط القبول ومعدلات الثانوية واللغة الإنجليزية في جامعة العلوم الماليزية (USM)",
+        "id": "Syarat Pendaftaran & Nilai Minimum Masuk USM Penang",
+        "zh": "马来西亚理科大学（USM）2025申请攻略：GPA门槛、各专业雅思成绩与递交流程",
+        "ru": "Поступление в USM: требования к баллам аттестата и сертификату IELTS",
+        "fr": "Admission à l'USM : moyennes requises et critères linguistiques",
+        "es": "Admisión a USM: notas de corte y requisitos de inglés",
+        "ja": "マレーシア理科大学（USM）出願攻略：必要なGPA、学部別IELTS基準、出願ステップ",
+        "ko": "말레이시아 이과대학교(USM) 합격 가이드: 내신 등급 요건, 학과별 IELTS 기준 및 서류 준비"
+      },
+      "summary": {
+        "en": "A detailed roadmap for high school and university transcripts, equivalence guidelines, and EMGS student pass issuance.",
+        "ar": "خارطة طريق كاملة لمتطلبات القبول وتصديق المؤهلات وإجراءات استخراج تأشيرة الطالب إلى جزيرة بينانج.",
+        "id": "Panduan lengkap berkas rapor, kesetaraan ijazah, dan pengurusan visa pelajar.",
+        "zh": "深度解读理大官方录取成绩线、高考或国际高中成绩对标、快捷签证获批及免语言预科方案。",
+        "ru": "Полная информация о переводе документов, признании дипломов и визовом процессе в Пенанге.",
+        "fr": "Guide complet pour la préparation des diplômes, traductions et visa étudiant à Penang.",
+        "es": "Hoja de ruta completa sobre expedientes académicos, homologación y visado para Penang.",
+        "ja": "高校成績証明書の認証、出願書類のチェックリスト、学生ビザ発行までの流れをわかりやすく解説。",
+        "ko": "고교 성적증명서 영문 공증, 전공별 합격 기준선 및 페낭 유학 비자 발급 핵심 팁."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "en": "Living in Penang: Student Housing, Food Paradise & Beachside Campus Life",
+        "ar": "المعيشة في جزيرة بينانج: السكن الطلابي، جنة المأكولات، والحياة الساحلية في USM",
+        "id": "Tinggal di Penang: Asrama Mahasiswa, Surga Kuliner & Kampus Tepi Pantai",
+        "zh": "在“东方之珠”槟城留学：理大学生宿舍、世界美食之都与海岸校园生活全体验",
+        "ru": "Жизнь на острове Пенанг: студенческие резиденции, еда и пляжная атмосфера USM",
+        "fr": "Vivre à Penang : logement étudiant, gastronomie et vie de campus au bord de mer",
+        "es": "Vivir en Penang: residencias de estudiantes, gastronomía y vida playera en USM",
+        "ja": "ペナン島で暮らす留学生ライフ：学内寮、グルメの都、リゾート気分のキャンパス環境",
+        "ko": "페낭에서의 유학 생활: USM 기숙사, 세계적인 미식의 도시 및 바닷가 캠퍼스 라이프"
+      },
+      "summary": {
+        "en": "Explore on-campus Desasiswa residential halls, private condos with sea views, and affordable living costs in George Town.",
+        "ar": "تعرف على السكن الجامعي (Desasiswa)، الشقق ذات الإطلالات البحرية، وتكلفة المعيشة الاقتصادية في جورج تاون.",
+        "id": "Jelajahi asrama Desasiswa, kondominium pemandangan laut, dan biaya hidup hemat di George Town.",
+        "zh": "全面解析理大校内Desasiswa公寓配置、海景学生公寓租金、世界知名街头美食以及低廉的生活消费指数。",
+        "ru": "Обзор общежитий Desasiswa, кондоминиумов с видом на море и цен в Джорджтауне.",
+        "fr": "Découvrez les résidences Desasiswa, les condos avec vue sur mer et le coût de la vie abordable.",
+        "es": "Descubre las residencias Desasiswa, apartamentos con vistas al mar y el asequible coste de vida.",
+        "ja": "学内デサシスワ寮の設備、海が見えるコンドミニアムの家賃相場、ジョージタウンの生活費を徹底紹介。",
+        "ko": "교내 데사시스와 기숙사, 오션뷰 콘도 렌트 시세 및 조지타운의 저렴한 현지 물가 정보 총정리."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "en": "Engineering & Microelectronics at USM: Direct Bridge to Penang Silicon Island",
+        "ar": "كليات الهندسة والتقنية في USM: جسرك المباشر إلى مصانع الرقائق الإلكترونية العالمية ببينانج",
+        "id": "Teknik & Mikroelektronika USM: Jembatan Menuju Industri Semikonduktor Penang",
+        "zh": "理大工程与微电子学科硬核实力：直通槟城“东方硅谷”跨国芯片研发中心的绿色通道",
+        "ru": "Инженерия и микроэлектроника в USM: путь в полупроводниковый кластер Пенанга",
+        "fr": "Ingénierie et microélectronique à l'USM : tremplin vers l'industrie des semi-conducteurs",
+        "es": "Ingeniería y microelectrónica en USM: conexión directa con la industria de chips de Penang",
+        "ja": "USMの工学・マイクロエレクトロニクス：ペナン半導体クラスターへの直結キャリアパス",
+        "ko": "USM 공학 및 마이크로전자공학: 페낭 글로벌 반도체 R&D 허브 직행 취업 루트"
+      },
+      "summary": {
+        "en": "How USM engineering graduates step straight into high-paying engineering roles at Intel, Micron, Keysight, and Broadcom.",
+        "ar": "كيف يحصل خريجو هندسة الحاسوب والكهرباء على عقود عمل مرموقة في كبرى شركات الرقائق الإلكترونية قبل التخرج.",
+        "id": "Bagaimana lulusan teknik USM langsung direkrut oleh perusahaan semikonduktor multinasional.",
+        "zh": "详解理大工程学院与英特尔、美光、是德科技及博通的深度产学研合作，助你毕业即斩获高薪研发Offer。",
+        "ru": "Как выпускники инженерных программ получают высокооплачиваемую работу в полупроводниковых гигантах.",
+        "fr": "Comment les diplômés en ingénierie décrochent des postes prisés chez Intel et Micron.",
+        "es": "Cómo los ingenieros de USM acceden directamente a puestos de alta remuneración en tecnológicas multinacionales.",
+        "ja": "インテル、マイクロン、ブロードコムなどの大手外資系企業への高待遇就職を可能にする産学連携の秘密。",
+        "ko": "인텔, 마이크론, 키사이트 등 세계적 반도체 기업에 졸업과 동시에 취업하는 엔지니어링 인재 육성 비결."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "USM On-Campus Residential Colleges (Desasiswa)",
+        "nameAr": "السكن الجامعي داخل الحرم (Desasiswa USM)",
+        "type": "Single & Shared Rooms in Garden Setting",
+        "typeAr": "غرف فردية ومزدوجة تقع وسط المساحات الخضراء والحدائق",
+        "priceRange": "RM 300 - RM 700 / month",
+        "priceRangeAr": "300 - 700 رينجيت / شهرياً",
+        "distance": "Within Gelugor Main Campus (Walking distance)",
+        "distanceAr": "داخل الحرم الرئيسي بغيلوغور (مسافة سير قصيرة)",
+        "distanceEn": "Inside Gelugor Main Campus",
+        "amenities": [
+          "24/7 Gated Security & Campus Wardens",
+          "Campus Wi-Fi & Academic Study Corners",
+          "Traditional & International Food Courts",
+          "Sports Facilities, Gym & Swimming Pool",
+          "Free Internal Campus Transit Buses"
+        ],
+        "amenitiesAr": [
+          "حراسة وأمن مشدد ومسؤولو سكن 24/7",
+          "إنترنت جامعي سريع وزوايا مخصصة للاستذكار",
+          "مطاعم طلابية تقدم وجبات محلية وعالمية حلال",
+          "مرافق رياضية ومسابح وصالات تدريب",
+          "حافلات نقل جامعية داخلية مجانية"
+        ]
+      },
+      {
+        "name": "N-Park Resort Condominium (Directly Adjacent to USM)",
+        "nameAr": "أبراج إن بارك السكنية الفاخرة (N-Park Condominium)",
+        "type": "Modern 3-Bedroom Condominiums with Sea & City Views",
+        "typeAr": "شقق سكنية حديثة مجهزة بالكامل بإطلالات بحرية",
+        "priceRange": "RM 600 - RM 1,300 / month",
+        "priceRangeAr": "600 - 1,300 رينجيت / شهرياً",
+        "distance": "3 minutes walk to USM Main Gate (Opposite campus)",
+        "distanceAr": "3 دقائق سيراً على الأقدام من بوابة الحرم الرئيسية",
+        "distanceEn": "3 minutes walk to USM Main Gate",
+        "amenities": [
+          "Large Resort Swimming Pools & Water Park",
+          "Tennis, Squash & Basketball Courts",
+          "Gymnasium, Convenience Stores & Cafes",
+          "24-Hour Security with Smart Access Cards"
+        ],
+        "amenitiesAr": [
+          "مسابح منتجعية شاسعة وألعاب مائية",
+          "ملاعب تنس واسكواش وكرة سلة",
+          "نادٍ صحي متكامل ومتاجر بقالة وكافيهات",
+          "حراسة أمنية ذكية على مدار 24 ساعة"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Accommodation (Desasiswa or Nearby Condo)",
+        "itemAr": "السكن (الجامعي أو الشقق المجاورة)",
+        "cost": "RM 350 - RM 750",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Food, Dining & Local Cafes",
+        "itemAr": "الوجبات والمطاعم في بينانج",
+        "cost": "RM 550 - RM 850",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Penang Rapid Transit & Buses",
+        "itemAr": "المواصلات وحافلات Rapid Penang",
+        "cost": "RM 70 - RM 150",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "High-Speed Mobile Data & Wi-Fi",
+        "itemAr": "باقات البيانات والاتصالات",
+        "cost": "RM 70 - RM 120",
+        "itemKey": "living_exp_mobile"
+      },
+      {
+        "item": "Books & Academic Stationery",
+        "itemAr": "الكتب والقرطاسية الدراسية",
+        "cost": "RM 100 - RM 200",
+        "itemKey": "living_exp_books"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Bachelor's Degree (IT / Business / Humanities)",
+      "levelKey": "level_bachelor",
+      "levelAr": "درجة البكالوريوس (الحاسوب / الإدارة / العلوم الإنسانية)",
+      "duration": "3 - 4 Years",
+      "durationYears": 4,
+      "avgFeePerYear": "RM 14,000 - RM 22,000"
+    },
+    {
+      "level": "Bachelor of Engineering (Honours)",
+      "levelKey": "level_engineering",
+      "levelAr": "بكالوريوس الهندسة التخصصية مع مرتبة الشرف",
+      "duration": "4 Years",
+      "durationYears": 4,
+      "avgFeePerYear": "RM 19,000 - RM 28,000"
+    },
+    {
+      "level": "Master's Degree (Coursework / Mixed / Research)",
+      "levelKey": "level_master",
+      "levelAr": "درجة الماجستير (بالمقررات أو البحث الأكاديمي)",
+      "duration": "1.5 - 2 Years",
+      "durationYears": 2,
+      "avgFeePerYear": "RM 13,000 - RM 24,000"
+    },
+    {
+      "level": "Doctor of Philosophy (PhD)",
+      "levelKey": "level_phd",
+      "levelAr": "درجة الدكتوراه في التخصصات العلمية والبحثية",
+      "duration": "3 - 4 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 12,000 - RM 21,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "usm-bachelor-in-computer-science-intelligent-computing-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Computer Science (Intelligent Computing) with Honours",
+      "nameAr": "بكالوريوس في Bachelor in Computer Science (Intelligent Computing) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-in-software-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Software Engineering with Honours",
+      "nameAr": "بكالوريوس في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-in-computer-science-computing-infrastructure-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Computer Science (Computing Infrastructure) with Honours",
+      "nameAr": "بكالوريوس في Bachelor in Computer Science (Computing Infrastructure) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16125,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16125
+        },
+        {
+          "year": 2,
+          "fee": 16125
+        },
+        {
+          "year": 3,
+          "fee": 16125
+        },
+        {
+          "year": 4,
+          "fee": 16125
+        }
+      ],
+      "totalTuitionFee": 64500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-management-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Management with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Management with Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 22933,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22933
+        },
+        {
+          "year": 2,
+          "fee": 22933
+        },
+        {
+          "year": 3,
+          "fee": 22933
+        }
+      ],
+      "totalTuitionFee": 68799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-accounting-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Accounting with Honours",
+      "nameAr": "بكالوريوس المحاسبة في with Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 25800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25800
+        },
+        {
+          "year": 2,
+          "fee": 25800
+        },
+        {
+          "year": 3,
+          "fee": 25800
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-aerospace-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Aerospace Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Aerospace Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23650
+        },
+        {
+          "year": 2,
+          "fee": 23650
+        },
+        {
+          "year": 3,
+          "fee": 23650
+        },
+        {
+          "year": 4,
+          "fee": 23650
+        }
+      ],
+      "totalTuitionFee": 94600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-electrical-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Electrical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-mechatronics-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Mechatronics Engineering with Honours",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-electronic-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Electronic Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-chemical-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24188,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24188
+        },
+        {
+          "year": 2,
+          "fee": 24188
+        },
+        {
+          "year": 3,
+          "fee": 24188
+        },
+        {
+          "year": 4,
+          "fee": 24188
+        }
+      ],
+      "totalTuitionFee": 96752,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-civil-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-manufacturing-engineering-with-management-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Manufacturing Engineering With Management with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Manufacturing Engineering With Management with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-mineral-resources-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Mineral Resources Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Mineral Resources Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-polymer-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Polymer Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Polymer Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-materials-engineering-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Materials Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Materials Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-health-science-in-exercise-and-sport-science-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Health Science in Exercise and Sport Science with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Health Science in Exercise and Sport Science with Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 21321,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21321
+        },
+        {
+          "year": 2,
+          "fee": 21321
+        },
+        {
+          "year": 3,
+          "fee": 21321
+        }
+      ],
+      "totalTuitionFee": 63963,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-in-environmental-and-occupational-health-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Environmental and Occupational Health with Honours",
+      "nameAr": "بكالوريوس في Bachelor in Environmental and Occupational Health with Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18275,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18275
+        },
+        {
+          "year": 2,
+          "fee": 18275
+        },
+        {
+          "year": 3,
+          "fee": 18275
+        },
+        {
+          "year": 4,
+          "fee": 18275
+        }
+      ],
+      "totalTuitionFee": 73100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-occupational-safety-and-health-with-environmental-health-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Occupational Safety and Health with Environmental Health with Honours",
+      "nameAr": "بكالوريوس العلوم في Occupational Safety and Health with Environmental Health with Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-in-nutrition-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Nutrition with Honours",
+      "nameAr": "بكالوريوس في Bachelor in Nutrition with Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18275,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18275
+        },
+        {
+          "year": 2,
+          "fee": 18275
+        },
+        {
+          "year": 3,
+          "fee": 18275
+        },
+        {
+          "year": 4,
+          "fee": 18275
+        }
+      ],
+      "totalTuitionFee": 73100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-in-medical-radiation-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Medical Radiation with Honours",
+      "nameAr": "بكالوريوس في Bachelor in Medical Radiation with Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18275,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18275
+        },
+        {
+          "year": 2,
+          "fee": 18275
+        },
+        {
+          "year": 3,
+          "fee": 18275
+        },
+        {
+          "year": 4,
+          "fee": 18275
+        }
+      ],
+      "totalTuitionFee": 73100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-in-biomedical-science-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Biomedical Science with Honours",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18275,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18275
+        },
+        {
+          "year": 2,
+          "fee": 18275
+        },
+        {
+          "year": 3,
+          "fee": 18275
+        },
+        {
+          "year": 4,
+          "fee": 18275
+        }
+      ],
+      "totalTuitionFee": 73100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-medicine-md",
+      "universityId": "usm",
+      "name": "Doctor of Medicine (MD)",
+      "nameAr": "دكتوراه في Doctor of Medicine (MD",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 5,
+      "annualFee": 118250,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 118250
+        },
+        {
+          "year": 2,
+          "fee": 118250
+        },
+        {
+          "year": 3,
+          "fee": 118250
+        },
+        {
+          "year": 4,
+          "fee": 118250
+        },
+        {
+          "year": 5,
+          "fee": 118250
+        }
+      ],
+      "totalTuitionFee": 591250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-dental-surgery-dds",
+      "universityId": "usm",
+      "name": "Doctor of Dental Surgery (DDS)",
+      "nameAr": "دكتوراه في Doctor of Dental Surgery (DDS",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 5,
+      "annualFee": 96750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 96750
+        },
+        {
+          "year": 2,
+          "fee": 96750
+        },
+        {
+          "year": 3,
+          "fee": 96750
+        },
+        {
+          "year": 4,
+          "fee": 96750
+        },
+        {
+          "year": 5,
+          "fee": 96750
+        }
+      ],
+      "totalTuitionFee": 483750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-forensic-science-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Forensic Science with Honours",
+      "nameAr": "بكالوريوس العلوم في Forensic Science with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18275,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18275
+        },
+        {
+          "year": 2,
+          "fee": 18275
+        },
+        {
+          "year": 3,
+          "fee": 18275
+        },
+        {
+          "year": 4,
+          "fee": 18275
+        }
+      ],
+      "totalTuitionFee": 73100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-agrobiology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Agrobiology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Agrobiology with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-biotechnology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Biotechnology with Honours",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-environmental-biology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Environmental Biology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Environmental Biology with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-entomology-and-parasitology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Entomology and Parasitology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Entomology and Parasitology with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-animal-and-plant-biodiversity-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Animal and Plant Biodiversity with Honours",
+      "nameAr": "بكالوريوس العلوم في Animal and Plant Biodiversity with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-microbiology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Microbiology with Honours",
+      "nameAr": "بكالوريوس العلوم في Microbiology with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-animal-biology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Animal Biology with Honours",
+      "nameAr": "بكالوريوس العلوم في Animal Biology with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-analytical-chemistry-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Analytical Chemistry with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Analytical Chemistry with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-industrial-chemistry",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Industrial Chemistry",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Industrial Chemistry",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-chemistry-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Chemistry with Honours",
+      "nameAr": "بكالوريوس العلوم في Chemistry with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-bioresource-technology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Bioresource Technology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Bioresource Technology with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 18813,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18813
+        },
+        {
+          "year": 2,
+          "fee": 18813
+        },
+        {
+          "year": 3,
+          "fee": 18813
+        }
+      ],
+      "totalTuitionFee": 56439,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-applied-statistics-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Applied Statistics with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Applied Statistics with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-mathematics-and-economics-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Mathematics and Economics with Honours",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-mathematics-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Mathematics with Honours",
+      "nameAr": "بكالوريوس العلوم في Mathematics with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-physics-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Physics with Honours",
+      "nameAr": "بكالوريوس العلوم في Physics with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-medical-physics-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Medical Physics with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Medical Physics with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-applied-science-in-geophysics-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Applied Science in Geophysics with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science in Geophysics with Honours",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-applied-entomology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Applied Entomology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Applied Entomology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-applied-parasitology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Applied Parasitology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Applied Parasitology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-aquatic-biology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Aquatic Biology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Aquatic Biology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-biotechnology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Biotechnology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في التقنية الحيوية (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-botany-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Botany (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Botany (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-environmental-biology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Environmental Biology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Environmental Biology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-marine-coastal-ecosystem-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Marine & Coastal Ecosystem (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Marine & Coastal Ecosystem (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-microbiology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Microbiology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Microbiology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-plant-pathology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Plant Pathology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Plant Pathology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-zoology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Zoology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Zoology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-tropical-plant-disease-management-mixed-mode",
+      "universityId": "usm",
+      "name": "Master of Sciences in Tropical Plant Disease Management (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في s in Tropical Plant Disease Management (Mixed Mode",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-applied-entomology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Applied Entomology",
+      "nameAr": "ماجستير العلوم في s in Applied Entomology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-applied-parasitology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Applied Parasitology",
+      "nameAr": "ماجستير العلوم في s in Applied Parasitology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-aquatic-biology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Aquatic Biology",
+      "nameAr": "ماجستير العلوم في s in Aquatic Biology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-botany",
+      "universityId": "usm",
+      "name": "Master of Sciences in Botany",
+      "nameAr": "ماجستير العلوم في s in Botany",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-environmental-biology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Environmental Biology",
+      "nameAr": "ماجستير العلوم في s in Environmental Biology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-marine-sciences",
+      "universityId": "usm",
+      "name": "Master of Sciences in Marine Sciences",
+      "nameAr": "ماجستير العلوم في s in Marine Sciences",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-plant-pathology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Plant Pathology",
+      "nameAr": "ماجستير العلوم في s in Plant Pathology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-zoology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Zoology",
+      "nameAr": "ماجستير العلوم في s in Zoology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-organic-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Organic Chemistry (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Organic Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-physical-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Physical Chemistry (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Physical Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-inorganic-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Inorganic Chemistry (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Inorganic Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-industrial-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Industrial Chemistry (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Industrial Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-analytical-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Analytical Chemistry (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Analytical Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-organic-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Organic Chemistry (By Research)",
+      "nameAr": "ماجستير العلوم في Organic Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-inorganic-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Inorganic Chemistry (By Research)",
+      "nameAr": "ماجستير العلوم في Inorganic Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-physical-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Physical Chemistry (By Research)",
+      "nameAr": "ماجستير العلوم في Physical Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-industrial-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Industrial Chemistry (By Research)",
+      "nameAr": "ماجستير العلوم في Industrial Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-analytical-chemistry-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Analytical Chemistry (By Research)",
+      "nameAr": "ماجستير العلوم في Analytical Chemistry (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-chemical-instrumentation-mixed-mode",
+      "universityId": "usm",
+      "name": "Master of Science in Chemical Instrumentation (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في Chemical Instrumentation (Mixed Mode",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-pure-mathematics-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Pure Mathematics (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Pure Mathematics (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-applied-mathematics-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Applied Mathematics (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Applied Mathematics (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-operation-research-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Operation Research (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Operation Research (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-computer-aided-geometric-design-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Computer Aided Geometric Design (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Aided Geometric Design (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-mathematical-modelling-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Mathematical Modelling (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Mathematical Modelling (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-statistics-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Statistics (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Statistics (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-mathematics-mixed-mode",
+      "universityId": "usm",
+      "name": "Master of Science in Mathematics (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في Mathematics (Mixed Mode",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-statistics-mixed-mode",
+      "universityId": "usm",
+      "name": "Master of Science in Statistics (Mixed Mode)",
+      "nameAr": "ماجستير العلوم في Statistics (Mixed Mode",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-applied-and-engineering-physics-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Applied and Engineering Physics (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Applied and Engineering Physics (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-condensed-matter-physics-and-x-ray-crystallography-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Condensed Matter Physics and X-Ray Crystallography (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Condensed Matter Physics and X-Ray Crystallography (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-energy-studies-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Energy Studies (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Energy Studies (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosoph-in-geophysics-astronomy-and-atmospheric-science-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosoph in Geophysics, Astronomy and Atmospheric Science (By Research)",
+      "nameAr": "دكتوراه في Doctor of Philosoph in Geophysics, Astronomy and Atmospheric Science (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-medical-physics-and-radiation-science-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Medical Physics and Radiation Science (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Medical Physics and Radiation Science (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-theoretical-and-computational-physics-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Theoretical and Computational Physics (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Theoretical and Computational Physics (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-applied-geophysics",
+      "universityId": "usm",
+      "name": "Master of Science in Applied Geophysics",
+      "nameAr": "ماجستير العلوم في Applied Geophysics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-doctor-of-philosophy-in-chemical-biology-by-research",
+      "universityId": "usm",
+      "name": "Doctor of Philosophy in Chemical Biology (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Chemical Biology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        },
+        {
+          "year": 2,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 30960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-molecular-biology-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Molecular Biology (By Research)",
+      "nameAr": "ماجستير العلوم في Molecular Biology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-biotechnology-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Biotechnology (By Research)",
+      "nameAr": "ماجستير العلوم في التقنية الحيوية (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 15480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-microbiology-by-research",
+      "universityId": "usm",
+      "name": "Master of Science in Microbiology (By Research)",
+      "nameAr": "ماجستير العلوم في Microbiology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 15480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15480
+        }
+      ],
+      "totalTuitionFee": 15480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-medical-physics",
+      "universityId": "usm",
+      "name": "Master of Science in Medical Physics",
+      "nameAr": "ماجستير العلوم في Medical Physics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-radiation-science",
+      "universityId": "usm",
+      "name": "Master of Science in Radiation Science",
+      "nameAr": "ماجستير العلوم في Radiation Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-arts-in-english-language-literature-studies-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Arts in English Language & Literature Studies with Honours",
+      "nameAr": "بكالوريوس الآداب في English Language & Literature Studies with Honours",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 15677,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15677
+        },
+        {
+          "year": 2,
+          "fee": 15677
+        },
+        {
+          "year": 3,
+          "fee": 15677
+        }
+      ],
+      "totalTuitionFee": 47031,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-arts-in-english-for-professionals-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Arts in English For Professionals with Honours",
+      "nameAr": "بكالوريوس الآداب في English For Professionals with Honours",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18275,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Mar",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18275
+        },
+        {
+          "year": 2,
+          "fee": 18275
+        },
+        {
+          "year": 3,
+          "fee": 18275
+        }
+      ],
+      "totalTuitionFee": 54825,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-economics-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Economics with Honours",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16125
+        },
+        {
+          "year": 2,
+          "fee": 16125
+        },
+        {
+          "year": 3,
+          "fee": 16125
+        },
+        {
+          "year": 4,
+          "fee": 16125
+        }
+      ],
+      "totalTuitionFee": 64500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-education-tesol-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Education (TESOL) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Education (TESOL) with Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14781,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14781
+        },
+        {
+          "year": 2,
+          "fee": 14781
+        },
+        {
+          "year": 3,
+          "fee": 14781
+        },
+        {
+          "year": 4,
+          "fee": 14781
+        }
+      ],
+      "totalTuitionFee": 59124,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-science-in-teaching-of-mathematics-by-coursework",
+      "universityId": "usm",
+      "name": "Master of Science in Teaching of Mathematics (By Coursework)",
+      "nameAr": "ماجستير العلوم في Teaching of Mathematics (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-music-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Music with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Music with Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 15677,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15677
+        },
+        {
+          "year": 2,
+          "fee": 15677
+        },
+        {
+          "year": 3,
+          "fee": 15677
+        }
+      ],
+      "totalTuitionFee": 47031,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-fine-arts-acting-and-directing-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Fine Arts (Acting and Directing) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Fine Arts (Acting and Directing) with Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13438,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13438
+        },
+        {
+          "year": 2,
+          "fee": 13438
+        },
+        {
+          "year": 3,
+          "fee": 13438
+        },
+        {
+          "year": 4,
+          "fee": 13438
+        }
+      ],
+      "totalTuitionFee": 53752,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-arts-honours-fine-arts",
+      "universityId": "usm",
+      "name": "Bachelor of Arts (Honours) (Fine Arts)",
+      "nameAr": "بكالوريوس الآداب في Honours) (Fine Arts",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13438,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13438
+        },
+        {
+          "year": 2,
+          "fee": 13438
+        },
+        {
+          "year": 3,
+          "fee": 13438
+        },
+        {
+          "year": 4,
+          "fee": 13438
+        }
+      ],
+      "totalTuitionFee": 53752,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-fine-arts-in-graphics-communication-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Fine Arts in Graphics Communication with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Fine Arts in Graphics Communication with Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13438,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13438
+        },
+        {
+          "year": 2,
+          "fee": 13438
+        },
+        {
+          "year": 3,
+          "fee": 13438
+        },
+        {
+          "year": 4,
+          "fee": 13438
+        }
+      ],
+      "totalTuitionFee": 53752,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-fine-arts-honours-new-media-design-and-technology",
+      "universityId": "usm",
+      "name": "Bachelor of Fine Arts (Honours) (New Media Design and Technology)",
+      "nameAr": "بكالوريوس في Bachelor of Fine Arts (Honours) (New Media Design and Technology",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13438,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13438
+        },
+        {
+          "year": 2,
+          "fee": 13438
+        },
+        {
+          "year": 3,
+          "fee": 13438
+        },
+        {
+          "year": 4,
+          "fee": 13438
+        }
+      ],
+      "totalTuitionFee": 53752,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-fine-arts-in-product-design-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Fine Arts in Product Design with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Fine Arts in Product Design with Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13438,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13438
+        },
+        {
+          "year": 2,
+          "fee": 13438
+        },
+        {
+          "year": 3,
+          "fee": 13438
+        },
+        {
+          "year": 4,
+          "fee": 13438
+        }
+      ],
+      "totalTuitionFee": 53752,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-communication-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Communication with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Communication with Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-environmental-technology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Environmental Technology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Environmental Technology with Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-food-technology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Food Technology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Food Technology with Honours",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16125
+        },
+        {
+          "year": 2,
+          "fee": 16125
+        },
+        {
+          "year": 3,
+          "fee": 16125
+        },
+        {
+          "year": 4,
+          "fee": 16125
+        }
+      ],
+      "totalTuitionFee": 64500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-biotechnology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Biotechnology",
+      "nameAr": "ماجستير العلوم في التقنية الحيوية",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-master-of-sciences-in-microbiology",
+      "universityId": "usm",
+      "name": "Master of Sciences in Microbiology",
+      "nameAr": "ماجستير العلوم في s in Microbiology",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-architecture-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Architecture with Honours",
+      "nameAr": "بكالوريوس العلوم في الهندسة المعمارية",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26875,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26875
+        },
+        {
+          "year": 2,
+          "fee": 26875
+        },
+        {
+          "year": 3,
+          "fee": 26875
+        }
+      ],
+      "totalTuitionFee": 80625,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-in-building-surveying-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor in Building Surveying with Honours",
+      "nameAr": "بكالوريوس في Bachelor in Building Surveying with Honours",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 58050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-quantity-surveying-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Quantity Surveying with Honours",
+      "nameAr": "بكالوريوس العلوم في حساب الكميات وإدارة التشييد",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26875,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26875
+        },
+        {
+          "year": 2,
+          "fee": 26875
+        },
+        {
+          "year": 3,
+          "fee": 26875
+        }
+      ],
+      "totalTuitionFee": 80625,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-science-in-construction-project-management-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Science in Construction Project Management with Honours",
+      "nameAr": "بكالوريوس العلوم في Construction Project Management with Honours",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-building-engineering-technology-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Building Engineering Technology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Building Engineering Technology with Honours",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-urban-and-regional-planning-honours",
+      "universityId": "usm",
+      "name": "Bachelor of Urban and Regional Planning (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Urban and Regional Planning (Honours",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "usm-bachelor-of-interior-architecture-with-honours",
+      "universityId": "usm",
+      "name": "Bachelor of  Interior Architecture with Honours",
+      "nameAr": "بكالوريوس في الهندسة المعمارية",
+      "field": "architecture",
+      "category": "Built Environment",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19350
+        },
+        {
+          "year": 2,
+          "fee": 19350
+        },
+        {
+          "year": 3,
+          "fee": 19350
+        },
+        {
+          "year": 4,
+          "fee": 19350
+        }
+      ],
+      "totalTuitionFee": 77400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 116
+}

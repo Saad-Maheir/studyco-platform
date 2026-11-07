@@ -1,0 +1,1154 @@
+{
+  "id": "southampton",
+  "name": "University of Southampton Malaysia",
+  "arabicName": "جامعة ساوثهامبتون البريطانية في ماليزيا",
+  "city": "Iskandar Puteri, Johor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-southampton.svg",
+  "image": "assets/photo/campus_southampton.webp",
+  "website": "https://www.southampton.edu.my/",
+  "ranking": "Rank 80 QS World University Rankings 2025 (UK Russell Group Top 100)",
+  "established": "2012",
+  "campusName": "EduCity Southampton Campus, Johor",
+  "studentCount": "2,000+ (40+ Countries)",
+  "intakes": "Sep, Oct",
+  "feeRangeMin": 31440,
+  "feeRangeMax": 59950,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/OX0cyQy9uk8",
+  "description": "University of Southampton Malaysia is one of the leading recognized higher education institutions located in Iskandar Puteri, Johor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة ساوثهامبتون البريطانية في ماليزيا واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Iskandar Puteri, Johor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "University of Southampton Malaysia (UoSM) didirikan pada tahun 2012 di EduCity, Iskandar Puteri, Johor, sebagai kampus cabang internasional dari University of Southampton Inggris (Rank 80 QS World / Russell Group). Menempati peringkat No. 1 di Inggris untuk Teknik Dirgantara & Kelautan.",
+    "en": "University of Southampton Malaysia (UoSM), established in 2012 in EduCity, Johor, is the international branch campus of the University of Southampton UK (Rank 80 QS World / Russell Group), ranked No. 1 in the UK for Aeronautics, Astronautics, and Marine Engineering.",
+    "ar": "تأسس فرع جامعة ساوثهامبتون البريطانية في ماليزيا عام 2012 في إيدوسيتي بجوهور، وهو الحرم الدولي لجامعة ساوثهامبتون المصنفة في المرتبة 80 عالمياً في QS وعضو Russell Group، وتتصدر المرتبة الأولى في بريطانيا لهندسة الطيران والفضاء وهندسة السفن.",
+    "zh": "英国南安普顿大学马来西亚分校创办于2012年，位于柔佛州依斯干达教育城，是英国顶尖“罗素大学集团”成员南安普顿大学（QS全球第80位顶尖百强）直属校区，其航空航天工程及船舶海洋工程高居全英第一。",
+    "ru": "Малайзийский филиал Саутгемптонского университета (UoSM) в Джохоре — кампус престижного британского вуза (Rank 80 QS), занимающего 1-е место в Великобритании по аэрокосмической технике.",
+    "fr": "Le campus de l'Université de Southampton en Malaisie (UoSM) à Johor est l'antenne du prestigieux établissement britannique (80e mondial, Russell Group), classé 1er au Royaume-Uni en aéronautique.",
+    "es": "El campus de la Universidad de Southampton en Malasia (UoSM) en Johor es la sede del prestigioso centro británico (Rank 80 mundial en QS), número 1 en el Reino Unido en aeronáutica y marina.",
+    "ja": "サウサンプトン大学マレーシア校（UoSM）は英ラッセルグループの超名門サウサンプトン大学（QS世界第80位）の直営校であり、航空宇宙工学および海洋工学で英国第1位の実績を誇ります。",
+    "ko": "사우샘프턴 대학교 말레이시아 캠퍼스(UoSM)는 영국 러셀그룹 명문 사우샘프턴 대학교(QS 세계 80위)의 직속 분교로, 영국 내 항공우주공학 및 조선해양공학 1위의 명성을 자랑합니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Laboratorium Rekayasa Dirgantara & Uji Terowongan Angin Senilai Jutaan Dolar",
+        "en": "Multi-Million Dollar Aerospace & Wind Tunnel Testing Laboratory",
+        "ar": "مختبرات هندسة الطيران والفضاء وأنفاق اختبار الرياح بملايين الدولارات",
+        "ko": "수백만 달러 규모 항공우주 비행 및 풍동(Wind Tunnel) 시험 연구소",
+        "ja": "数百万ドル規模の航空宇宙・風洞実験専用高度シミュレーションラボ",
+        "zh": "耗资数百万美元打造的高精度航空航天空气动力学风洞试验中心",
+        "ru": "Многомиллионная лаборатория аэрокосмической техники и аэродинамических труб",
+        "fr": "Laboratoire aérospatial et soufflerie de test de plusieurs millions de dollars",
+        "es": "Laboratorio aeroespacial multimillonario y túnel de viento para pruebas avanzadas"
+      }
+    },
+    {
+      "icon": "ai",
+      "title": {
+        "id": "Suite Robotika, Mekatronika, AI & Rekayasa Listrik Berstandar Dunia",
+        "en": "Advanced Mechatronics, AI & Electrical Engineering Suites",
+        "ar": "أجنحة الميكاترونكس والروبوتات والذكاء الاصطناعي والهندسة الكهربائية",
+        "ko": "차세대 메카트로닉스, 로봇 공학, AI 및 전기전자 공학 통합 스위트",
+        "ja": "メカトロニクス・AI・ロボティクス・電気電子工学統合研究実習棟",
+        "zh": "世界顶尖机电一体化、前沿AI机器人与电气电子工程综合实训基地",
+        "ru": "Комплексы мехатроники, ИИ, робототехники и электротехники",
+        "fr": "Suites d'ingénierie avancée en mécatronique, IA et génie électrique",
+        "es": "Suites avanzadas de ingeniería mecatrónica, IA y robótica"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Perusahaan Digital & Laboratorium Terminal Keuangan Bloomberg",
+        "en": "High-Performance Digital Enterprise Hub & Bloomberg Terminals",
+        "ar": "مركز ريادة الأعمال الرقمية وقاعات محاكاة الأسواق المالية مع بلومبرغ",
+        "ko": "고성능 디지털 엔터프라이즈 허브 및 블룸버그 실시간 금융 랩",
+        "ja": "高性能デジタル・アントレプレナーシップハブ＆ブルームバーグ金融ラボ",
+        "zh": "高性能数字企业创新中心与彭博(Bloomberg)金融量化分析大厅",
+        "ru": "Центр цифрового предпринимательства и лаборатория терминалов Bloomberg",
+        "fr": "Pôle d'entreprise numérique haute performance et terminaux Bloomberg",
+        "es": "Centro de innovación digital y terminales financieras Bloomberg"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Modern Eco Galleria Berteknologi Tinggi di EduCity Iskandar",
+        "en": "Eco Galleria Modern High-Tech Campus at EduCity Iskandar",
+        "ar": "حرم إيكو جاليريا العصري الذكي فائق التطور في مدينة إديوسيتي إسكندر",
+        "ko": "에듀시티 이스칸다르 내 최첨단 에코 갤러리아 하이테크 캠퍼스",
+        "ja": "エデュシティ・イスカンダル内の最新エコ・ガレリア・ハイテクキャンパス",
+        "zh": "坐落于依斯干达教育城(EduCity)的生态画廊(Eco Galleria)智慧高科新校区",
+        "ru": "Современный высокотехнологичный кампус Eco Galleria в EduCity Iskandar",
+        "fr": "Campus moderne de haute technologie Eco Galleria à EduCity Iskandar",
+        "es": "Moderno campus de alta tecnología Eco Galleria en EduCity Iskandar"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇬🇧",
+      "title": {
+        "id": "Peringkat Top 80 Dunia QS World University Rankings (Russell Group)",
+        "en": "Top 80 QS World University Rankings (Elite UK Russell Group)",
+        "ar": "تصنيف ضمن أفضل 80 جامعة في العالم (عضو مؤسس في مجموعة راسل البريطانية)",
+        "ko": "글로벌 QS 세계 대학 랭킹 Top 80위권 (영국 최고 러셀 그룹 창립 멤버)",
+        "ja": "世界QS大学ランキングTop 80位入りの超名門（英ラッセル・グループ創立校）",
+        "zh": "位列全球前80顶尖QS世界大学排名的英国罗素大学集团创始盟校",
+        "ru": "Топ-80 в мировом рейтинге университетов QS (элитный Russell Group Великобритании)",
+        "fr": "Top 80 mondial au classement QS (Membre fondateur de l'élite Russell Group)",
+        "es": "Top 80 mundial en el ranking QS (Miembro fundador del selecto Russell Group británico)"
+      },
+      "desc": {
+        "id": "Peringkat global tertinggi di Malaysia untuk cabang universitas riset asal Inggris.",
+        "en": "The highest-ranked UK branch campus operating in Malaysia for engineering and science.",
+        "ar": "أعلى فرع لجامعة بريطانية تصنيفاً في ماليزيا في مجالات الهندسة والتكنولوجيا والعلوم.",
+        "ko": "말레이시아 내 운영 중인 모든 영국 대학 캠퍼스 중 가장 높은 세계 랭킹 보유.",
+        "ja": "マレーシアに進出している英国大学分校の中で最高位の世界大学ランキングを誇る。",
+        "zh": "在马来西亚所有设立分校的英国名校中，综合世界学术排名位列最高第一名。",
+        "ru": "Самый высокорейтинговый филиал британского университета в Малайзии.",
+        "fr": "Le campus britannique le mieux classé en Malaisie pour l'ingénierie.",
+        "es": "El campus de una universidad británica con mejor ranking internacional en Malasia."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Peringkat No. 1 di Inggris untuk Rekayasa Listrik & Elektronik",
+        "en": "UK No. 1 for Electrical & Electronic Engineering (Guardian Guide)",
+        "ar": "المرتبة الأولى في بريطانيا في الهندسة الكهربائية والإلكترونية",
+        "ko": "전기전자공학 분야 영국 1위 랭크 (가디언 대학 가이드 최상위)",
+        "ja": "電気電子工学分野において英国第1位の圧倒的評価（ガーディアン誌）",
+        "zh": "英国《卫报》大学指南官方权威评选：电气与电子工程专业全英第一名",
+        "ru": "№1 в Великобритании по электротехнике и электронике (Guardian)",
+        "fr": "N°1 au Royaume-Uni en génie électrique et électronique (Guardian)",
+        "es": "N° 1 en el Reino Unido en ingeniería eléctrica y electrónica (Guardian)"
+      },
+      "desc": {
+        "id": "Pusat keunggulan teknik dunia yang melahirkan inovator teknologi mikroelektronika dan komunikasi optik global.",
+        "en": "World-renowned engineering powerhouse producing global microelectronics and optical innovators.",
+        "ar": "مركز هندسي عالمي مرموق أخرج مخترعي تكنولوجيا الإلكترونيات الدقيقة والألياف البصرية.",
+        "ko": "글로벌 마이크로일렉트로닉스 및 광통신 혁신을 선도하는 세계 최고 수준의 공학 메카.",
+        "ja": "光通信やマイクロエレクトロニクスの発展を牽引する世界屈指の工学拠点。",
+        "zh": "孵化出全球高速光纤网络与尖端微电子芯片技术先驱的世界级工程学术殿堂。",
+        "ru": "Мировой центр инженерии, создающий инновации в микроэлектронике и оптике.",
+        "fr": "Centre mondial d'ingénierie réputé pour ses innovations en microélectronique.",
+        "es": "Centro de ingeniería de renombre mundial pionero en microelectrónica y fibra óptica."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Skema Terintegrasi: 2 Tahun Malaysia + 2 Tahun Southampton UK",
+        "en": "Integrated Split Scheme: 2 Years Malaysia + 2 Years UK Southampton",
+        "ar": "نظام دراسي متكامل: سنتان في ماليزيا + سنتان في ساوثهامبتون ببريطانيا",
+        "ko": "완벽한 분할 학위 제도: 말레이시아 2년 + 영국 사우샘프턴 본교 2년",
+        "ja": "統合スプリットプログラム：マレーシア校2年＋英国本校2年での履修",
+        "zh": "2+2双国连读无缝模式：前2年在马来西亚校区＋后2年直飞英国本部",
+        "ru": "Программа 2+2: 2 года в Малайзии + 2 года в Саутгемптоне, Великобритания",
+        "fr": "Schéma d'études intégré : 2 ans en Malaisie + 2 ans au Royaume-Uni",
+        "es": "Programa integrado 2+2: 2 años en Malasia + 2 años en Reino Unido"
+      },
+      "desc": {
+        "id": "Mendapatkan pengalaman internasional di dua negara dengan penghematan biaya kuliah yang substansial.",
+        "en": "Gain authentic international experience across two countries with massive tuition fee savings.",
+        "ar": "تمنح الطالب تجربة أكاديمية بريطانية استثنائية في بلدين مع توفير مالي ضخم في الرسوم.",
+        "ko": "영국 현지 유학 대비 학비를 대폭 절감하면서 두 나라의 풍부한 국제적 학업 경험 축적.",
+        "ja": "英国本国での全期間留学に比べ大幅に費用を抑えつつ、日英双方の国際経験を獲得。",
+        "zh": "学生可享受以高性价比的亚洲生活成本起步，后直飞英国本土深度体验并取得名校毕业证。",
+        "ru": "Международный опыт в двух странах с существенной экономией средств.",
+        "fr": "Vivez une expérience internationale dans deux pays avec des économies majeures.",
+        "es": "Obtén experiencia internacional en dos países con un ahorro sustancial en matrícula."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Gaji Awal Lulusan Tertinggi & Akses Karir Korporasi Global",
+        "en": "Premier Graduate Starting Salaries & Top Multinational Recruitment",
+        "ar": "أعلى الرواتب للمتخرجين وفرص توظيف فورية في كبرى الشركات العالمية",
+        "ko": "최고 수준의 졸업생 초봉 및 글로벌 다국적 기업 우선 채용 기회",
+        "ja": "最高水準の初任給実績と世界的大手多国籍企業へのダイレクト就職",
+        "zh": "毕业生首年起薪位居全英最高梯队，获劳斯莱斯、空客等跨国巨头直招",
+        "ru": "Высокие стартовые зарплаты выпускников и карьера в транснациональных компаниях",
+        "fr": "Salaires de départ parmi les plus élevés et recrutement par les multinationales",
+        "es": "Los salarios iniciales más altos y contratación por corporaciones multinacionales"
+      },
+      "desc": {
+        "id": "Lulusan direkrut langsung oleh raksasa teknologi seperti Rolls-Royce, Dyson, Intel, dan Airbus.",
+        "en": "Direct recruitment by global engineering leaders such as Rolls-Royce, Dyson, Intel, and Airbus.",
+        "ar": "يتم استقطاب الخريجين مباشرة من عمالقة الصناعة مثل رولز رويس، دايسون، إنتل، وإيرباص.",
+        "ko": "롤스로이스, 다이슨, 인텔, 에어버스 등 세계적 엔지니어링 기업으로의 직접 채용 연계.",
+        "ja": "ロールス・ロイス、ダイソン、インテル、エアバスなどの世界最高峰企業へ直接就職。",
+        "zh": "罗尔斯·罗伊斯(Rolls-Royce)、戴森(Dyson)、英特尔(Intel)及空中客车(Airbus)重点直聘目标院校。",
+        "ru": "Выпускников нанимают такие лидеры, как Rolls-Royce, Dyson, Intel и Airbus.",
+        "fr": "Recrutement direct par des leaders mondiaux comme Rolls-Royce, Dyson et Airbus.",
+        "es": "Reclutamiento directo por gigantes mundiales como Rolls-Royce, Dyson, Intel y Airbus."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "University of Southampton Malaysia Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة ساوثهامبتون البريطانية في ماليزيا",
+        "id": "Residensi Mahasiswa Resmi University of Southampton Malaysia"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from University of Southampton Malaysia internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة ساوثهامبتون البريطانية في ماليزيا معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari University of Southampton Malaysia diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, University of Southampton Malaysia is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة ساوثهامبتون البريطانية في ماليزيا معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, University of Southampton Malaysia terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to University of Southampton Malaysia?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة ساوثهامبتون البريطانية في ماليزيا؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke University of Southampton Malaysia?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from University of Southampton Malaysia?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة ساوثهامبتون البريطانية في ماليزيا؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke University of Southampton Malaysia?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to University of Southampton Malaysia without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Masuk Kampus Top 80 Dunia: University of Southampton Malaysia",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for University of Southampton Malaysia",
+        "ar": "دليل القبول في كبرى جامعات بريطانيا (توب 80 عالمياً): ساوثهامبتون ماليزيا",
+        "zh": "University of Southampton Malaysia 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в University of Southampton Malaysia",
+        "fr": "Guide complet d'admission et visa étudiant pour University of Southampton Malaysia",
+        "es": "Guía completa de admisión y visado de estudiante para University of Southampton Malaysia",
+        "ja": "University of Southampton Malaysia 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "University of Southampton Malaysia 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Syarat nilai matematika & sains, keunggulan riset Russell Group, dan alur pendaftaran resmi.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شروط التميز في الرياضيات والفيزياء، مميزات أبحاث مجموعة راسل، وإجراءات القبول.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Skema Kuliah 2+2 Teknik: Belajar di Malaysia & Lulus di Southampton Inggris",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around University of Southampton Malaysia",
+        "ar": "تفاصيل برنامج الهندسة 2+2: سنتان في ماليزيا والتخرج من بريطانيا",
+        "zh": "University of Southampton Malaysia 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле University of Southampton Malaysia",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de University of Southampton Malaysia",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en University of Southampton Malaysia",
+        "ja": "University of Southampton Malaysia 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "University of Southampton Malaysia 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Keuntungan transisi ke kampus UK, penghematan biaya kuliah, dan hak visa kerja pasca-studi di Inggris.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "مميزات الانتقال لحرم بريطانيا، التوفير المالي، والحصول على إقامة العمل البريطانية بعد التخرج.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup Mahasiswa & Kehidupan di Kota Pendidikan EduCity Iskandar",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at University of Southampton Malaysia",
+        "ar": "تكاليف المعيشة والحياة الطلابية في المدينة التعليمية المتطورة إديوسيتي",
+        "zh": "University of Southampton Malaysia 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в University of Southampton Malaysia",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à University of Southampton Malaysia",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en University of Southampton Malaysia",
+        "ja": "University of Southampton Malaysia 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "University of Southampton Malaysia 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Rincian sewa kamar asrama EduCity Student Village, makan, dan akses shuttle bus gratis.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "تفاصيل إيجار سكن قرية الطلاب، المصروفات اليومية، والتنقل في مدينة إسكندر بوتيري الحديثة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "EduCity Student Village Eco Residences",
+        "nameAr": "قرية السكن الطلابي البيئية المتكاملة في إديوسيتي",
+        "type": "Modern Single & Twin Ensuite Rooms",
+        "typeAr": "غرف فردية ومزدوجة بحمام خاص وتكييف بمجمع مسوّر ومؤمن",
+        "priceRange": "RM 600 - RM 1,200 / month",
+        "priceRangeAr": "600 - 1,200 رينجيت / شهرياً",
+        "distance": "Dalam kompleks EduCity (3 menit via Shuttle)",
+        "distanceAr": "داخل مجمع إديوسيتي (3 دقائق عبر حافلة النقل)",
+        "distanceEn": "Inside EduCity complex (3 mins via Shuttle)",
+        "amenities": [
+          "Kolam Renang Berstandar Olimpiade",
+          "Pusat Kebugaran Gym & Lapangan Olahraga",
+          "Kafetaria & Food Court Halal",
+          "Shuttle Bus Gratis ke Kampus",
+          "Keamanan Ketat 24 Jam"
+        ],
+        "amenitiesAr": [
+          "مسبح بمواصفات أولمبية",
+          "صالة ألعاب رياضية وملاعب متكاملة",
+          "مطاعم وكافتيريا حلال",
+          "باص نقل ترددي مجاني للحرم",
+          "حراسة مشددة 24 ساعة"
+        ]
+      },
+      {
+        "name": "Eco Botanic Luxury High-Rise Suites",
+        "nameAr": "أبراج إيكو بوتانيك السكنية الفاخرة للطلاب",
+        "type": "Premium Lifestyle Serviced Condos",
+        "typeAr": "شقق سكنية فندقية فاخرة متصلة بالأسواق والمطاعم الراقية",
+        "priceRange": "RM 800 - RM 1,600 / month",
+        "priceRangeAr": "800 - 1,600 رينجيت / شهرياً",
+        "distance": "5 menit via Shuttle / Grab",
+        "distanceAr": "5 دقائق عبر حافلة النقل / سيارات الأجرة",
+        "distanceEn": "5 mins via Shuttle / Grab link",
+        "amenities": [
+          "Kolam Renang Mewah & Sky Gym",
+          "Dikelilingi Restoran & Kafe Internasional",
+          "Perabot Lengkap & Dapur Mewah",
+          "Keamanan 3-Lapis 24 Jam",
+          "Lingkungan Asri & Hijau"
+        ],
+        "amenitiesAr": [
+          "مسبح فاخر وصالة لياقة علوية",
+          "محاطة بمطاعم ومقاهٍ دولية",
+          "مفروشة بالكامل ومطبخ متكامل",
+          "نظام أمني ثلاثي الطبقات",
+          "بيئة راقية وخضراء"
+        ]
+      },
+      {
+        "name": "Teega Suites Puteri Harbour Waterfront",
+        "nameAr": "أبراج تيجا سويتس الفندقية على مارينا بوتيري هاربر",
+        "type": "Luxury Waterfront Serviced Apartments",
+        "typeAr": "شقق فندقية راقية مطلة على المارينا واليخوت",
+        "priceRange": "RM 850 - RM 1,700 / month",
+        "priceRangeAr": "850 - 1,700 رينجيت / شهرياً",
+        "distance": "8 menit via Transportasi Kampus",
+        "distanceAr": "8 دقائق عبر باص الجامعة / المواصلات",
+        "distanceEn": "8 mins via Campus Transit Link",
+        "amenities": [
+          "Pemandangan Spektakuler Marina Harbour",
+          "Kolam Renang Infinity & Jacuzzi",
+          "Pusat Kebugaran & Lapangan Tenis",
+          "Akses Cepat Menuju Singapura",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "إطلالات مائية خلابة على المارينا",
+          "مسبح إنفينيتي وجاكوزي",
+          "نادي رياضي وملاعب تنس",
+          "قريب جداً من معابر سنغافورة",
+          "حراسة وأمن على مدار الساعة"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 600 - RM 1,350"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 600 - RM 900"
+      },
+      {
+        "item": "Transportasi Shuttle & Bus",
+        "itemAr": "المواصلات وحافلات التنقل",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 50 - RM 100"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 80 - RM 150"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 180 - RM 350"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,510 - RM 2,850"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في الهندسة والعلوم والتكنولوجيا",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 28,000 - RM 32,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Russell Group UK Top 80)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس البريطاني (هندسة فضاء، كهربائية، ميكانيكية، حوسبة، إدارة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 52,000 - RM 64,000"
+    },
+    {
+      "level": "Master Degree (S2 - World Elite UK)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في الذكاء الاصطناعي وعلوم البيانات والهندسة المتقدمة",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 48,000 - RM 60,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في الأبحاث الهندسية المتقدمة والإلكترونيات الدقيقة",
+      "duration": "3 - 4 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 38,000 - RM 48,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=OX0cyQy9uk8",
+  "programs": [
+    {
+      "id": "southampton-bachelor-of-science-computer-science",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Computer Science",
+      "nameAr": "بكالوريوس العلوم في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 47450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47450
+        },
+        {
+          "year": 2,
+          "fee": 47450
+        },
+        {
+          "year": 3,
+          "fee": 47450
+        }
+      ],
+      "totalTuitionFee": 142350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-computer-science-foundation-year",
+      "universityId": "southampton",
+      "name": "Computer Science Foundation Year",
+      "nameAr": "برنامج تمهيدي في Computer Science Foundation Year",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 36200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36200
+        }
+      ],
+      "totalTuitionFee": 36200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-accounting-and-finance",
+      "universityId": "southampton",
+      "name": "Bachelor of Science (Accounting and Finance)",
+      "nameAr": "بكالوريوس العلوم في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44660,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44660
+        },
+        {
+          "year": 2,
+          "fee": 44660
+        },
+        {
+          "year": 3,
+          "fee": 44660
+        }
+      ],
+      "totalTuitionFee": 133980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-economics",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Economics",
+      "nameAr": "بكالوريوس العلوم في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48874,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48874
+        },
+        {
+          "year": 2,
+          "fee": 48874
+        },
+        {
+          "year": 3,
+          "fee": 48874
+        }
+      ],
+      "totalTuitionFee": 146622,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-economics-and-actuarial-science",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Economics and Actuarial Science",
+      "nameAr": "بكالوريوس العلوم في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48874,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48874
+        },
+        {
+          "year": 2,
+          "fee": 48874
+        },
+        {
+          "year": 3,
+          "fee": 48874
+        }
+      ],
+      "totalTuitionFee": 146622,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-business-management",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Business Management",
+      "nameAr": "بكالوريوس العلوم في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44660,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44660
+        },
+        {
+          "year": 2,
+          "fee": 44660
+        },
+        {
+          "year": 3,
+          "fee": 44660
+        }
+      ],
+      "totalTuitionFee": 133980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-economics-and-finance",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Economics and Finance",
+      "nameAr": "بكالوريوس العلوم في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        },
+        {
+          "year": 2,
+          "fee": 46000
+        },
+        {
+          "year": 3,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 138000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-finance-and-financial-technology",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Finance and Financial Technology",
+      "nameAr": "بكالوريوس العلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        },
+        {
+          "year": 2,
+          "fee": 46000
+        },
+        {
+          "year": 3,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 138000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-marketing",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Marketing",
+      "nameAr": "بكالوريوس العلوم في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44660,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44660
+        },
+        {
+          "year": 2,
+          "fee": 44660
+        },
+        {
+          "year": 3,
+          "fee": 44660
+        }
+      ],
+      "totalTuitionFee": 133980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-business-foundation-year",
+      "universityId": "southampton",
+      "name": "Business Foundation Year",
+      "nameAr": "برنامج تمهيدي في Business Foundation Year",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 31440,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31440
+        }
+      ],
+      "totalTuitionFee": 31440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-master-of-science-in-digital-marketing",
+      "universityId": "southampton",
+      "name": "Master of Science in Digital Marketing",
+      "nameAr": "ماجستير العلوم في التسويق الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 53895,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53895
+        }
+      ],
+      "totalTuitionFee": 53895,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-master-of-science-in-finance",
+      "universityId": "southampton",
+      "name": "Master of Science in Finance",
+      "nameAr": "ماجستير العلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 59262,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 59262
+        }
+      ],
+      "totalTuitionFee": 59262,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-master-of-engineering-aeronautics-and-astronautics",
+      "universityId": "southampton",
+      "name": "Master of Engineering Aeronautics and Astronautics",
+      "nameAr": "ماجستير الهندسة في Aeronautics and Astronautics",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 59950,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 59950
+        },
+        {
+          "year": 2,
+          "fee": 59950
+        },
+        {
+          "year": 3,
+          "fee": 59950
+        },
+        {
+          "year": 4,
+          "fee": 59950
+        }
+      ],
+      "totalTuitionFee": 239800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-master-of-mechanical-engineering",
+      "universityId": "southampton",
+      "name": "Master of Mechanical Engineering",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 59950,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 59950
+        },
+        {
+          "year": 2,
+          "fee": 59950
+        },
+        {
+          "year": 3,
+          "fee": 59950
+        },
+        {
+          "year": 4,
+          "fee": 59950
+        }
+      ],
+      "totalTuitionFee": 239800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-engineering-foundation-year",
+      "universityId": "southampton",
+      "name": "Engineering Foundation Year",
+      "nameAr": "برنامج تمهيدي في Engineering Foundation Year",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 36200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36200
+        }
+      ],
+      "totalTuitionFee": 36200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-master-of-engineering-in-electrical-and-electronic-engineering",
+      "universityId": "southampton",
+      "name": "Master of Engineering in Electrical and Electronic Engineering",
+      "nameAr": "ماجستير الهندسة في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 59950,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 59950
+        },
+        {
+          "year": 2,
+          "fee": 59950
+        },
+        {
+          "year": 3,
+          "fee": 59950
+        },
+        {
+          "year": 4,
+          "fee": 59950
+        }
+      ],
+      "totalTuitionFee": 239800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-business-analytics",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Business Analytics",
+      "nameAr": "بكالوريوس العلوم في Business Analytics",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        },
+        {
+          "year": 2,
+          "fee": 46000
+        },
+        {
+          "year": 3,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 138000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "southampton-bachelor-of-science-business-entrepreneurship",
+      "universityId": "southampton",
+      "name": "Bachelor of Science Business Entrepreneurship",
+      "nameAr": "بكالوريوس العلوم في Business Entrepreneurship",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44660,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44660
+        },
+        {
+          "year": 2,
+          "fee": 44660
+        },
+        {
+          "year": 3,
+          "fee": 44660
+        }
+      ],
+      "totalTuitionFee": 133980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 18,
+  "totalProgramsCount": 18
+}

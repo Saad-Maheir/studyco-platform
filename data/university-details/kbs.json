@@ -1,0 +1,3160 @@
+{
+  "id": "kbs",
+  "name": "Kaplan Business School Australia",
+  "arabicName": "كلية كابلان للأعمال أستراليا (Kaplan Business School)",
+  "city": "Sydney, Melbourne, Brisbane & Perth",
+  "country": "australia",
+  "logo": "assets/photo/uni-kbs.svg",
+  "image": "assets/photo/campus_kbs.jpg",
+  "website": "https://www.kbs.edu.au/",
+  "ranking": "Ranked Top 10 for Quality of Educational Experience (QILT) | 90%+ Graduate Success",
+  "established": "2008",
+  "campusName": "Sydney, Melbourne, Brisbane, Adelaide, Perth",
+  "studentCount": "30,000+ (100+ Countries)",
+  "intakes": "Feb, Jul",
+  "feeRangeMin": 12943,
+  "feeRangeMax": 36500,
+  "currency": "AUD",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/RfxvMnbeAKI",
+  "description": "Kaplan Business School (KBS) delivers globally recognized business, accounting, and analytics degrees across 5 vibrant campuses in Sydney, Melbourne, Brisbane, Adelaide, and Perth.",
+  "descriptionAr": "تقدم كلية كابلان لإدارة الأعمال (KBS) برامج معتمدة دولياً في المحاسبة والتحليلات وريادة الأعمال عبر 5 فروع في سيدني، ملبورن، بريزبن، أديلايد وبيرث.",
+  "about": {
+    "ar": "تأسست كلية كابلان للأعمال أستراليا (Kaplan Business School) عام 2008، وتعد إحدى الجامعات الأسترالية الرائدة المعترف بها دولياً. تحتل مكانة بارزة عالمياً في تصنيف الجامعات (Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)). تقدم الجامعة تعليماً تطبيقياً وبحثياً متميزاً بالتعاون مع كبرى المؤسسات الصناعية العالمية، وتوفر للطلاب الدوليين بيئة جامعية متعددة الثقافات ومرافق حديثة وفرصاً مهنية واعدة عقب التخرج.",
+    "en": "Kaplan Business School Australia, established in 2008, is one of Australia's premier recognized universities, holding a prominent global position (Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)). The university delivers world-class academic education and cutting-edge research in close collaboration with leading global industries, offering international students a dynamic multicultural campus and exceptional graduate career prospects.",
+    "id": "Kaplan Business School Australia didirikan pada tahun 2008 dan merupakan salah satu universitas terkemuka di Australia yang diakui secara global (Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)). Universitas ini menawarkan pendidikan berstandar dunia dan fasilitas penelitian mutakhir yang mempersiapkan lulusan untuk pasar kerja internasional.",
+    "zh": "Kaplan Business School Australia创立于2008年，是澳大利亚极富盛名的公立综合性大学之一（Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)）。大学以务实卓越的科研创新与优质教学享誉全球，为国际留学生提供现代化的校园设施与广阔的全球就业发展机遇。",
+    "ru": "Kaplan Business School Australia, основанный в 2008 году, является одним из ведущих университетов Австралии (Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)), предлагающим передовое образование и исследования мирового уровня.",
+    "fr": "Kaplan Business School Australia, fondée en 2008, est l'une des universités les plus renommées d'Australie (Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)), offrant un enseignement de niveau mondial et des infrastructures de recherche innovantes.",
+    "es": "Kaplan Business School Australia, fundada en 2008, es una de las principales universidades de Australia (Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)), reconocida por su excelencia académica y de investigación.",
+    "ja": "Kaplan Business School Australiaは2008年に設立されたオーストラリア有数の総合大学であり（Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)）、世界水準の教育と最先端の研究設備で留学生を迎えています。",
+    "ko": "Kaplan Business School Australia는 2008년에 설립된 호주의 대표적인 종합 대학교로(Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award)), 세계적인 수준의 학문과 첨단 연구 환경을 제공합니다."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Kaplan Business School Australia Central Research Library and Digital Learning Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي",
+        "id": "Kaplan Business School Australia Central Research Library and Digital Learning Commons",
+        "zh": "Kaplan Business School Australia Central Research Library and Digital Learning Commons",
+        "ru": "Kaplan Business School Australia Central Research Library and Digital Learning Commons",
+        "fr": "Kaplan Business School Australia Central Research Library and Digital Learning Commons",
+        "es": "Kaplan Business School Australia Central Research Library and Digital Learning Commons",
+        "ja": "Kaplan Business School Australia Central Research Library and Digital Learning Commons",
+        "ko": "Kaplan Business School Australia Central Research Library and Digital Learning Commons"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ar": "مختبرات العلوم والهندسة المتقدمة ومركز ابتكارات الروبوتات",
+        "id": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "zh": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ru": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "fr": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "es": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ja": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ko": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Business Innovation Incubator and Financial Analytics Suite",
+        "ar": "حاضنة ريادة الأعمال وقاعات التحليل المالي والمحاكاة الذكية",
+        "id": "Business Innovation Incubator and Financial Analytics Suite",
+        "zh": "Business Innovation Incubator and Financial Analytics Suite",
+        "ru": "Business Innovation Incubator and Financial Analytics Suite",
+        "fr": "Business Innovation Incubator and Financial Analytics Suite",
+        "es": "Business Innovation Incubator and Financial Analytics Suite",
+        "ja": "Business Innovation Incubator and Financial Analytics Suite",
+        "ko": "Business Innovation Incubator and Financial Analytics Suite"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ar": "المجمع الرياضي الأولمبي المتعدد، صالات اللياقة والمسبح المغطى",
+        "id": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "zh": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ru": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "fr": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "es": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ja": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ko": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution",
+        "ar": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - صرح أكاديمي أسترالي معتمد ومصنف عالمياً",
+        "id": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution",
+        "zh": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution",
+        "ru": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution",
+        "fr": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution",
+        "es": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution",
+        "ja": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution",
+        "ko": "Leading Specialized Business Academy in Australia (Top 10 PIEoneer Global Employability Award) - Globally Recognized Australian Institution"
+      },
+      "desc": {
+        "en": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ar": "برامج أكاديمية وبحثية معتمدة دولياً تؤهل الخريجين للريادة والتميز في سوق العمل العالمي.",
+        "id": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "zh": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ru": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "fr": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "es": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ja": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ko": "Globally accredited degree programmes delivering state-of-the-art education and world-class research."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Outstanding Graduate Employability & Global Industry Ties",
+        "ar": "معدلات توظيف استثنائية وشراكات صناعية واسعة",
+        "id": "Outstanding Graduate Employability & Global Industry Ties",
+        "zh": "Outstanding Graduate Employability & Global Industry Ties",
+        "ru": "Outstanding Graduate Employability & Global Industry Ties",
+        "fr": "Outstanding Graduate Employability & Global Industry Ties",
+        "es": "Outstanding Graduate Employability & Global Industry Ties",
+        "ja": "Outstanding Graduate Employability & Global Industry Ties",
+        "ko": "Outstanding Graduate Employability & Global Industry Ties"
+      },
+      "desc": {
+        "en": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ar": "يتمتع خريجو الجامعة بفرص تدريب وظيفي مباشرة ورواتب أولية تنافسية في كبرى الشركات الأسترالية والعالمية.",
+        "id": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "zh": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ru": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "fr": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "es": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ja": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ko": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Dynamic International Campus & Comprehensive Student Support",
+        "ar": "بيئة جامعية دولية ودعم متكامل للطلاب المغتربين",
+        "id": "Dynamic International Campus & Comprehensive Student Support",
+        "zh": "Dynamic International Campus & Comprehensive Student Support",
+        "ru": "Dynamic International Campus & Comprehensive Student Support",
+        "fr": "Dynamic International Campus & Comprehensive Student Support",
+        "es": "Dynamic International Campus & Comprehensive Student Support",
+        "ja": "Dynamic International Campus & Comprehensive Student Support",
+        "ko": "Dynamic International Campus & Comprehensive Student Support"
+      },
+      "desc": {
+        "en": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ar": "تضم الجامعة مجتمعاً طلابياً من أكثر من 100 دولة وتقدم خدمات إرشاد أكاديمي وسكني ومهني متكاملة.",
+        "id": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "zh": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ru": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "fr": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "es": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ja": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ko": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ar": "مرافق بحثية متطورة وتقنيات تعليمية من الجيل القادم",
+        "id": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "zh": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ru": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "fr": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "es": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ja": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ko": "Cutting-Edge Research Facilities & Next-Gen Learning Tech"
+      },
+      "desc": {
+        "en": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ar": "استثمارات ضخمة في أحدث المختبرات ومراكز المحاكاة الذكية لربط النظريات بالتطبيق العملي.",
+        "id": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "zh": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ru": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "fr": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "es": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ja": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ko": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Kaplan Business School Australia Student Village & Residential Hall",
+        "ar": "Kaplan Business School Australia Student Village & Residential Hall",
+        "id": "Kaplan Business School Australia Student Village & Residential Hall",
+        "zh": "Kaplan Business School Australia Student Village & Residential Hall",
+        "ru": "Kaplan Business School Australia Student Village & Residential Hall",
+        "fr": "Kaplan Business School Australia Student Village & Residential Hall",
+        "es": "Kaplan Business School Australia Student Village & Residential Hall",
+        "ja": "Kaplan Business School Australia Student Village & Residential Hall",
+        "ko": "Kaplan Business School Australia Student Village & Residential Hall"
+      },
+      "distance": {
+        "en": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ar": "داخل الحرم الجامعي (3 إلى 10 دقائق سيراً على الأقدام للقاعات)",
+        "id": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "zh": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ru": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "fr": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "es": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ja": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ko": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)"
+      },
+      "priceRange": "AUD $250 - AUD $430 / week",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "مطابخ مشتركة حديثة وصالات طعام واسعة للطلاب",
+          "غرف مؤثثة ومكيفة بالكامل مع مكاتب دراسية وإنترنت فائق السرعة",
+          "صالات ترفيهية ومكتبات للدراسة الهادئة ومغاسل ملابس ذاتية",
+          "قرب مباشر من وسائل النقل العام ومرافق الجامعة الرئيسية"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV",
+          "Modern Communal Kitchens & Spacious Dining Commons",
+          "Fully Furnished Air-Conditioned Rooms with Study Desks & Fast WiFi",
+          "Student Social Lounges, Quiet Study Hubs & Laundry Facilities",
+          "Immediate Proximity to Public Transit & Academic Buildings"
+        ],
+        "id": [
+          "Keamanan 24 Jam dengan Akses Kartu Elektronik & CCTV",
+          "Dapur Bersama Modern & Area Makan Mahasiswa yang Luas",
+          "Kamar Berperabot Lengkap Ber-AC dengan Meja Belajar & WiFi Cepat",
+          "Lounge Mahasiswa, Ruang Belajar Tenang & Fasilitas Laundry",
+          "Dekat dengan Transportasi Umum & Gedung Kampus Utama"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات الشهرية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "AUD $420 - AUD $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transport & Smart Transit Card",
+        "ar": "المواصلات العامة والبطاقات الذكية",
+        "id": "Transportasi Umum"
+      },
+      "cost": "AUD $140 - AUD $210 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Utilities, Electricity & Mobile Internet",
+        "ar": "الكهرباء والمياه وباقة الإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "AUD $110 - AUD $180 / month"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "en": "Personal Expenses & City Leisure",
+        "ar": "المستلزمات الشخصية والأنشطة الترفيهية",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "AUD $220 - AUD $380 / month"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What are the international tuition fees at Kaplan Business School Australia?",
+        "ar": "كم تبلغ الرسوم الدراسية السنوية للطلاب الدوليين في كلية كابلان للأعمال أستراليا (Kaplan Business School)؟",
+        "id": "What are the international tuition fees at Kaplan Business School Australia?",
+        "zh": "What are the international tuition fees at Kaplan Business School Australia?",
+        "ru": "What are the international tuition fees at Kaplan Business School Australia?",
+        "fr": "What are the international tuition fees at Kaplan Business School Australia?",
+        "es": "What are the international tuition fees at Kaplan Business School Australia?",
+        "ja": "What are the international tuition fees at Kaplan Business School Australia?",
+        "ko": "What are the international tuition fees at Kaplan Business School Australia?"
+      },
+      "a": {
+        "en": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees.",
+        "ar": "تتراوح الرسوم الدراسية السنوية لدرجة البكالوريوس بين 22,000 إلى 32,000 دولار أسترالي سنوياً لمعظم التخصصات في إدارة الأعمال والهندسة وعلوم الحاسب.",
+        "id": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees.",
+        "zh": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees.",
+        "ru": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees.",
+        "fr": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees.",
+        "es": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees.",
+        "ja": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees.",
+        "ko": "Undergraduate tuition fees typically range from AUD $22,000 to AUD $32,000 per year for Business, Engineering, and Computing degrees."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language IELTS entry requirements?",
+        "ar": "ما هي متطلبات اللغة الإنجليزية (IELTS) للقبول في الجامعة؟",
+        "id": "What are the English language IELTS entry requirements?",
+        "zh": "What are the English language IELTS entry requirements?",
+        "ru": "What are the English language IELTS entry requirements?",
+        "fr": "What are the English language IELTS entry requirements?",
+        "es": "What are the English language IELTS entry requirements?",
+        "ja": "What are the English language IELTS entry requirements?",
+        "ko": "What are the English language IELTS entry requirements?"
+      },
+      "a": {
+        "en": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ar": "تتطلب معظم برامج البكالوريوس الحصول على درجة 6.5 في اختبار IELTS (مع ما لا يقل عن 6.0 في كل مهارة)، وتتوفر برامج لغة إنجليزية تحضيرية للطلاب الراغبين في تحسين مستواهم.",
+        "id": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "zh": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ru": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "fr": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "es": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ja": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ko": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available."
+      }
+    },
+    {
+      "q": {
+        "en": "When are the academic semester intakes?",
+        "ar": "ما هي مواعيد وفصول بدء الدراسة والقبول الجامعي السنوية؟",
+        "id": "When are the academic semester intakes?",
+        "zh": "When are the academic semester intakes?",
+        "ru": "When are the academic semester intakes?",
+        "fr": "When are the academic semester intakes?",
+        "es": "When are the academic semester intakes?",
+        "ja": "When are the academic semester intakes?",
+        "ko": "When are the academic semester intakes?"
+      },
+      "a": {
+        "en": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ar": "الفصلان الدراسيان الرئيسيان هما الفصل الأول (فبراير) والفصل الثاني (يوليو)، ويُفضل التقديم قبل 4 إلى 6 أشهر لإجراءات التأشيرة الطلابية.",
+        "id": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "zh": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ru": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "fr": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "es": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ja": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ko": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing."
+      }
+    },
+    {
+      "q": {
+        "en": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ar": "هل يحق للخريجين التقديم على تأشيرة العمل بعد الدراسة في أستراليا (Subclass 485)؟",
+        "id": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "zh": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ru": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "fr": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "es": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ja": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ko": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?"
+      },
+      "a": {
+        "en": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ar": "نعم، مؤهلات الجامعة معتمدة رسمياً وتمنح الخريجين المؤهلين الحق في التقديم على تأشيرة العمل المؤقت بعد التخرج (تتراوح بين سنتين إلى 4 سنوات حسب الدرجة والموقع الإقليمي).",
+        "id": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "zh": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ru": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "fr": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "es": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ja": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ko": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights."
+      }
+    },
+    {
+      "q": {
+        "en": "What student housing options are available near the campus?",
+        "ar": "ما هي خيارات السكن الطلابي المتاحة بالقرب من الحرم الجامعي؟",
+        "id": "What student housing options are available near the campus?",
+        "zh": "What student housing options are available near the campus?",
+        "ru": "What student housing options are available near the campus?",
+        "fr": "What student housing options are available near the campus?",
+        "es": "What student housing options are available near the campus?",
+        "ja": "What student housing options are available near the campus?",
+        "ko": "What student housing options are available near the campus?"
+      },
+      "a": {
+        "en": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ar": "تتوفر سكنات جامعية حديثة داخل الحرم وخارجه، بالإضافة إلى مجمعات سكن الطلاب الخاصة والشقق المشتركة، بأسعار تبدأ من 240 إلى 420 دولار أسترالي أسبوعياً.",
+        "id": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "zh": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ru": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "fr": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "es": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ja": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ko": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "en": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth",
+        "ar": "دليل الدراسة والحياة في Sydney, Melbourne, Brisbane & Perth للطلاب الدوليين",
+        "id": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth",
+        "zh": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth",
+        "ru": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth",
+        "fr": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth",
+        "es": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth",
+        "ja": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth",
+        "ko": "International Student Guide to Living and Studying in Sydney, Melbourne, Brisbane & Perth"
+      },
+      "summary": {
+        "en": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ar": "نظرة شاملة على تكاليف المعيشة، والمواصلات العامة، والفرص الوظيفية للطلاب أثناء الدراسة في أستراليا.",
+        "id": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "zh": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ru": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "fr": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "es": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ja": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ko": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia."
+      }
+    },
+    {
+      "readTime": "6 min",
+      "title": {
+        "en": "Admission & Student Visa Pathway at Kaplan Business School Australia",
+        "ar": "كيفية الحصول على القبول والتأشيرة الدراسية في كلية كابلان للأعمال أستراليا (Kaplan Business School)",
+        "id": "Admission & Student Visa Pathway at Kaplan Business School Australia",
+        "zh": "Admission & Student Visa Pathway at Kaplan Business School Australia",
+        "ru": "Admission & Student Visa Pathway at Kaplan Business School Australia",
+        "fr": "Admission & Student Visa Pathway at Kaplan Business School Australia",
+        "es": "Admission & Student Visa Pathway at Kaplan Business School Australia",
+        "ja": "Admission & Student Visa Pathway at Kaplan Business School Australia",
+        "ko": "Admission & Student Visa Pathway at Kaplan Business School Australia"
+      },
+      "summary": {
+        "en": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ar": "خطوات تقديم الطلب، وتصديق الشهادات الأكاديمية، ومتطلبات التأشيرة الأسترالية (Subclass 500).",
+        "id": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "zh": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ru": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "fr": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "es": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ja": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ko": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "en": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia",
+        "ar": "أفضل التخصصات الهندسية والتقنية وإدارة الأعمال في الجامعة",
+        "id": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia",
+        "zh": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia",
+        "ru": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia",
+        "fr": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia",
+        "es": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia",
+        "ja": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia",
+        "ko": "Top Ranked Engineering, Computing & Business Programs at Kaplan Business School Australia"
+      },
+      "summary": {
+        "en": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ar": "استعراض لأبرز البرامج الأكاديمية المعتمدة وفرص التدريب المهني والاعتمادات المهنية الدولية.",
+        "id": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "zh": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ru": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "fr": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "es": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ja": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ko": "Exploring accredited degree offerings, industry training modules, and international professional accreditations."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelName": "Foundation Studies / السنة التحضيرية",
+      "levelAr": "السنة التحضيرية المؤهلة للجامعة",
+      "levelKey": "level_foundation",
+      "duration": "1 Year",
+      "durationAr": "سنة واحدة",
+      "avgFee": "A$ 15,907 - A$ 17,848"
+    },
+    {
+      "levelName": "Higher Diploma / الدبلوم العالي المعتمد",
+      "levelAr": "الدبلوم العالي التخصصي",
+      "levelKey": "level_diploma",
+      "duration": "1.5 - 2 Years",
+      "durationAr": "1.5 إلى سنتين",
+      "avgFee": "A$ 16,490 - A$ 18,430"
+    },
+    {
+      "levelName": "Bachelor Degrees / درجات البكالوريوس",
+      "levelAr": "درجة البكالوريوس (3 - 4 سنوات)",
+      "levelKey": "level_bachelor",
+      "duration": "3 - 4 Years",
+      "durationAr": "3 إلى 4 سنوات",
+      "avgFee": "A$ 15,184 - A$ 36,500"
+    },
+    {
+      "levelName": "Master Degrees & MBA / الماجستير وإدارة الأعمال",
+      "levelAr": "درجة الماجستير والـ MBA التنفيذي",
+      "levelKey": "level_master",
+      "duration": "1.5 - 2 Years",
+      "durationAr": "1.5 إلى سنتين",
+      "avgFee": "A$ 17,925 - A$ 19,415"
+    },
+    {
+      "levelName": "Doctor of Philosophy (PhD) / الدكتوراه البحثية",
+      "levelAr": "دكتوراه الفلسفة البحثية المتقدمة",
+      "levelKey": "level_phd",
+      "duration": "3 - 4 Years",
+      "durationAr": "3 إلى 4 سنوات",
+      "avgFee": "A$ 20,952 - A$ 27,324"
+    }
+  ],
+  "directWatchUrl": null,
+  "nameAr": "كلية كابلان للأعمال أستراليا (Kaplan Business School)",
+  "scholarships": [
+    {
+      "titleEn": "High Achievers Scholarship",
+      "titleAr": "منحة High Achievers الدولية",
+      "amount": "Partial to Full Tuition Support",
+      "amountAr": "تغطية جزئية أو كلية من الرسوم الدراسية للطلاب المتفوقين",
+      "eligibilityEn": "Available for high-achieving international applicants meeting academic merit criteria.",
+      "eligibilityAr": "متاحة للطلاب الدوليين المتميزين أكاديمياً والمستوفين لشروط التقديم."
+    },
+    {
+      "titleEn": "International Student Scholarship",
+      "titleAr": "منحة International Student الدولية",
+      "amount": "Partial to Full Tuition Support",
+      "amountAr": "تغطية جزئية أو كلية من الرسوم الدراسية للطلاب المتفوقين",
+      "eligibilityEn": "Available for high-achieving international applicants meeting academic merit criteria.",
+      "eligibilityAr": "متاحة للطلاب الدوليين المتميزين أكاديمياً والمستوفين لشروط التقديم."
+    },
+    {
+      "titleEn": "Discover scholarships",
+      "titleAr": "منحة Discover scholarships",
+      "amount": "Partial to Full Tuition Support",
+      "amountAr": "تغطية جزئية أو كلية من الرسوم الدراسية للطلاب المتفوقين",
+      "eligibilityEn": "Available for high-achieving international applicants meeting academic merit criteria.",
+      "eligibilityAr": "متاحة للطلاب الدوليين المتميزين أكاديمياً والمستوفين لشروط التقديم."
+    }
+  ],
+  "programs": [
+    {
+      "id": "kbs-bachelor-of-business-1",
+      "universityId": "kbs",
+      "name": "Bachelor of Business",
+      "nameAr": "بكالوريوس إدارة الأعمال",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15184,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15184
+        },
+        {
+          "year": 2,
+          "fee": 15184
+        },
+        {
+          "year": 3,
+          "fee": 15184
+        }
+      ],
+      "totalTuitionFee": 45552,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "kbs-bachelor-of-business-accounting-2",
+      "universityId": "kbs",
+      "name": "Bachelor of Business (Accounting)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Accounting)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15184,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business (Accounting)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15184
+        },
+        {
+          "year": 2,
+          "fee": 15184
+        },
+        {
+          "year": 3,
+          "fee": 15184
+        }
+      ],
+      "totalTuitionFee": 45552,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "kbs-bachelor-of-business-management-3",
+      "universityId": "kbs",
+      "name": "Bachelor of Business (Management)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Management)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15184,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business (Management)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15184
+        },
+        {
+          "year": 2,
+          "fee": 15184
+        },
+        {
+          "year": 3,
+          "fee": 15184
+        }
+      ],
+      "totalTuitionFee": 45552,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "kbs-bachelor-of-business-marketing-4",
+      "universityId": "kbs",
+      "name": "Bachelor of Business (Marketing)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Marketing)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15184,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business (Marketing)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15184
+        },
+        {
+          "year": 2,
+          "fee": 15184
+        },
+        {
+          "year": 3,
+          "fee": 15184
+        }
+      ],
+      "totalTuitionFee": 45552,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "kbs-diploma-of-business-5",
+      "universityId": "kbs",
+      "name": "Diploma of Business",
+      "nameAr": "دبلوم Business",
+      "field": "business",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 15184,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Diploma of Business",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15184
+        }
+      ],
+      "totalTuitionFee": 15184,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-graduate-certificate-in-accounting-6",
+      "universityId": "kbs",
+      "name": "Graduate Certificate in Accounting",
+      "nameAr": "شهادة دراسات عليا في Accounting",
+      "field": "business",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 8963,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Certificate in Accounting",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8963
+        }
+      ],
+      "totalTuitionFee": 8963,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-graduate-certificate-in-business-adminis-7",
+      "universityId": "kbs",
+      "name": "Graduate Certificate in Business Administration",
+      "nameAr": "شهادة دراسات عليا في Business Administration",
+      "field": "business",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 12943,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Certificate in Business Administration",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12943
+        }
+      ],
+      "totalTuitionFee": 12943,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-graduate-certificate-in-business-analyti-8",
+      "universityId": "kbs",
+      "name": "Graduate Certificate in Business Analytics",
+      "nameAr": "شهادة دراسات عليا في Business Analytics",
+      "field": "business",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 8963,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Certificate in Business Analytics",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8963
+        }
+      ],
+      "totalTuitionFee": 8963,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-graduate-diploma-of-business-administrat-9",
+      "universityId": "kbs",
+      "name": "Graduate Diploma of Business Administration",
+      "nameAr": "Graduate Diploma of Business Administration",
+      "field": "business",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Diploma of Business Administration",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 19415,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-graduate-diploma-of-business-analytics-10",
+      "universityId": "kbs",
+      "name": "Graduate Diploma of Business Analytics",
+      "nameAr": "Graduate Diploma of Business Analytics",
+      "field": "business",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 17925,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Diploma of Business Analytics",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17925
+        }
+      ],
+      "totalTuitionFee": 17925,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-accounting-11",
+      "universityId": "kbs",
+      "name": "Master of Accounting",
+      "nameAr": "ماجستير Accounting",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17925,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Accounting",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17925
+        },
+        {
+          "year": 2,
+          "fee": 17925
+        }
+      ],
+      "totalTuitionFee": 35850,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-12",
+      "universityId": "kbs",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-two-sp-13",
+      "universityId": "kbs",
+      "name": "Master of Business Administration (Two Specialisations)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Two Specialisations)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration (Two Specialisations)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-data-d-14",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - Data-driven Leadership",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Data-Driven Leadership)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - Data-driven Leadership",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-digita-15",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - Digital Management",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Digital Management)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - Digital Management",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-entrep-16",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - Entrepreneurship",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Entrepreneurship)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - Entrepreneurship",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-health-17",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - Health Services Management",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Health Services Management)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - Health Services Management",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-intern-18",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - International Leadership",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (International Leadership)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - International Leadership",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-projec-19",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - Project Management",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Project Management)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - Project Management",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-touris-20",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - Tourism And Hospitality Leadership",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Tourism And Hospitality Leadership)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - Tourism And Hospitality Leadership",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-administration-women--21",
+      "universityId": "kbs",
+      "name": "Master of Business Administration - Women In Leadership",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (Women In Leadership)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19415,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Administration - Women In Leadership",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19415
+        },
+        {
+          "year": 2,
+          "fee": 19415
+        }
+      ],
+      "totalTuitionFee": 38830,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-analytics-22",
+      "universityId": "kbs",
+      "name": "Master of Business Analytics",
+      "nameAr": "ماجستير Business Analytics",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16133,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Analytics",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16133
+        },
+        {
+          "year": 2,
+          "fee": 16133
+        }
+      ],
+      "totalTuitionFee": 32266,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-analytics-extension-23",
+      "universityId": "kbs",
+      "name": "Master of Business Analytics (Extension)",
+      "nameAr": "ماجستير Business Analytics (Extension)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17800,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Analytics (Extension)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17800
+        },
+        {
+          "year": 2,
+          "fee": 17800
+        }
+      ],
+      "totalTuitionFee": 35600,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-business-analytics-information-24",
+      "universityId": "kbs",
+      "name": "Master of Business Analytics - Information Technology",
+      "nameAr": "ماجستير Business Analytics - Information Technology",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18275,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Business Analytics - Information Technology",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18275
+        },
+        {
+          "year": 2,
+          "fee": 18275
+        }
+      ],
+      "totalTuitionFee": 36550,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-professional-accounting-25",
+      "universityId": "kbs",
+      "name": "Master of Professional Accounting",
+      "nameAr": "ماجستير المحاسبة المهنية",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16133,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Professional Accounting",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16133
+        },
+        {
+          "year": 2,
+          "fee": 16133
+        }
+      ],
+      "totalTuitionFee": 32266,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-bachelor-of-business-hospitality-and-tou-26",
+      "universityId": "kbs",
+      "name": "Bachelor of Business (Hospitality and Tourism Management)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Hospitality And Tourism Management)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15184,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business (Hospitality and Tourism Management)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15184
+        },
+        {
+          "year": 2,
+          "fee": 15184
+        },
+        {
+          "year": 3,
+          "fee": 15184
+        }
+      ],
+      "totalTuitionFee": 45552,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "kbs-bachelor-of-information-technology-27",
+      "universityId": "kbs",
+      "name": "Bachelor of Information Technology",
+      "nameAr": "بكالوريوس تكنولوجيا المعلومات",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 16449,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "ACS accredited computing program focusing on software architecture, advanced algorithms, and hands-on technological innovation.",
+      "overviewAr": "برنامج تكنولوجي معتمد من جمعية الحاسوب الأسترالية (ACS)، يركز على هندسة البرمجيات وتطوير الحلول السحابية والذكية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Information Technology",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16449
+        },
+        {
+          "year": 2,
+          "fee": 16449
+        },
+        {
+          "year": 3,
+          "fee": 16449
+        }
+      ],
+      "totalTuitionFee": 49347,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ]
+      }
+    },
+    {
+      "id": "kbs-diploma-of-information-technology-28",
+      "universityId": "kbs",
+      "name": "Diploma of Information Technology",
+      "nameAr": "دبلوم Information Technology",
+      "field": "cs",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 16449,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "ACS accredited computing program focusing on software architecture, advanced algorithms, and hands-on technological innovation.",
+      "overviewAr": "برنامج تكنولوجي معتمد من جمعية الحاسوب الأسترالية (ACS)، يركز على هندسة البرمجيات وتطوير الحلول السحابية والذكية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Diploma of Information Technology",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16449
+        }
+      ],
+      "totalTuitionFee": 16449,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      }
+    },
+    {
+      "id": "kbs-graduate-certificate-in-information-tech-29",
+      "universityId": "kbs",
+      "name": "Graduate Certificate in Information Technology",
+      "nameAr": "شهادة دراسات عليا في Information Technology",
+      "field": "cs",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 9595,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "ACS accredited computing program focusing on software architecture, advanced algorithms, and hands-on technological innovation.",
+      "overviewAr": "برنامج تكنولوجي معتمد من جمعية الحاسوب الأسترالية (ACS)، يركز على هندسة البرمجيات وتطوير الحلول السحابية والذكية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Certificate in Information Technology",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9595
+        }
+      ],
+      "totalTuitionFee": 9595,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      }
+    },
+    {
+      "id": "kbs-graduate-diploma-of-information-technolo-30",
+      "universityId": "kbs",
+      "name": "Graduate Diploma of Information Technology",
+      "nameAr": "Graduate Diploma of Information Technology",
+      "field": "cs",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 19191,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "ACS accredited computing program focusing on software architecture, advanced algorithms, and hands-on technological innovation.",
+      "overviewAr": "برنامج تكنولوجي معتمد من جمعية الحاسوب الأسترالية (ACS)، يركز على هندسة البرمجيات وتطوير الحلول السحابية والذكية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Diploma of Information Technology",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19191
+        }
+      ],
+      "totalTuitionFee": 19191,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-information-technology-31",
+      "universityId": "kbs",
+      "name": "Master of Information Technology",
+      "nameAr": "ماجستير تكنولوجيا المعلومات",
+      "field": "cs",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17272,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "ACS accredited computing program focusing on software architecture, advanced algorithms, and hands-on technological innovation.",
+      "overviewAr": "برنامج تكنولوجي معتمد من جمعية الحاسوب الأسترالية (ACS)، يركز على هندسة البرمجيات وتطوير الحلول السحابية والذكية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Information Technology",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17272
+        },
+        {
+          "year": 2,
+          "fee": 17272
+        }
+      ],
+      "totalTuitionFee": 34544,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-master-of-information-technology-extensi-32",
+      "universityId": "kbs",
+      "name": "Master of Information Technology (Extension)",
+      "nameAr": "ماجستير تكنولوجيا المعلومات (Extension)",
+      "field": "cs",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18828,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "ACS accredited computing program focusing on software architecture, advanced algorithms, and hands-on technological innovation.",
+      "overviewAr": "برنامج تكنولوجي معتمد من جمعية الحاسوب الأسترالية (ACS)، يركز على هندسة البرمجيات وتطوير الحلول السحابية والذكية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Information Technology (Extension)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18828
+        },
+        {
+          "year": 2,
+          "fee": 18828
+        }
+      ],
+      "totalTuitionFee": 37656,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-non-award-study-single-subject-pg-33",
+      "universityId": "kbs",
+      "name": "Non-award study - Single subject PG",
+      "nameAr": "Non-award study - Single subject PG",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 5766,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Dynamic academic curriculum fostering critical inquiry, analytical communication, and creative global problem-solving.",
+      "overviewAr": "منهاج أكاديمي شامل ينمي مهارات التحليل النقدي والتواصل الفعال وحل المشكلات في بيئة متعددة الثقافات.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Non-award study - Single subject PG",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5766
+        },
+        {
+          "year": 2,
+          "fee": 5766
+        },
+        {
+          "year": 3,
+          "fee": 5766
+        }
+      ],
+      "totalTuitionFee": 17298,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-non-award-study-single-subject-ug-34",
+      "universityId": "kbs",
+      "name": "Non-award study - Single subject UG",
+      "nameAr": "Non-award study - Single subject UG",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 5766,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Dynamic academic curriculum fostering critical inquiry, analytical communication, and creative global problem-solving.",
+      "overviewAr": "منهاج أكاديمي شامل ينمي مهارات التحليل النقدي والتواصل الفعال وحل المشكلات في بيئة متعددة الثقافات.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Non-award study - Single subject UG",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5766
+        },
+        {
+          "year": 2,
+          "fee": 5766
+        },
+        {
+          "year": 3,
+          "fee": 5766
+        }
+      ],
+      "totalTuitionFee": 17298,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-study-abroad-postgraduate-35",
+      "universityId": "kbs",
+      "name": "Study Abroad (Postgraduate)",
+      "nameAr": "Study Abroad (Postgraduate)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 5694,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Dynamic academic curriculum fostering critical inquiry, analytical communication, and creative global problem-solving.",
+      "overviewAr": "منهاج أكاديمي شامل ينمي مهارات التحليل النقدي والتواصل الفعال وحل المشكلات في بيئة متعددة الثقافات.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Study Abroad (Postgraduate)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5694
+        },
+        {
+          "year": 2,
+          "fee": 5694
+        },
+        {
+          "year": 3,
+          "fee": 5694
+        }
+      ],
+      "totalTuitionFee": 17082,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      }
+    },
+    {
+      "id": "kbs-study-abroad-undergraduate-36",
+      "universityId": "kbs",
+      "name": "Study Abroad (Undergraduate)",
+      "nameAr": "Study Abroad (Undergraduate)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 5694,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Dynamic academic curriculum fostering critical inquiry, analytical communication, and creative global problem-solving.",
+      "overviewAr": "منهاج أكاديمي شامل ينمي مهارات التحليل النقدي والتواصل الفعال وحل المشكلات في بيئة متعددة الثقافات.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Study Abroad (Undergraduate)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5694
+        },
+        {
+          "year": 2,
+          "fee": 5694
+        },
+        {
+          "year": 3,
+          "fee": 5694
+        }
+      ],
+      "totalTuitionFee": 17082,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      }
+    }
+  ],
+  "programsCount": 36
+}

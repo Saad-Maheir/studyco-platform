@@ -1,0 +1,1170 @@
+{
+  "id": "kings",
+  "slug": "kings",
+  "name": "Kings University College Malaysia",
+  "arabicName": "كلية كينجز الجامعية (Kings University College)",
+  "city": "Petaling Jaya, Selangor",
+  "cityKey": "city_petaling_jaya",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-kings.png",
+  "image": "assets/photo/campus_kings.jpg",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/UyLUkL4wDxI",
+  "directWatchUrl": "https://www.youtube.com/watch?v=UyLUkL4wDxI",
+  "website": "https://kings.edu.my/",
+  "offerLetterType": "Direct Official University Offer",
+  "ranking": "Premier Career-Focused College, 5-Star Industry Employability",
+  "rankingBadgeKey": "kings_rank_badge",
+  "established": "2008",
+  "campusName": "PJ City Campus, Petaling Jaya, Selangor",
+  "studentCount": "3,500+ (Career-Ready Students)",
+  "intakes": "Jan, Mar, May, Jul, Sep, Oct",
+  "feeRangeMin": 12000,
+  "feeRangeMax": 49480,
+  "currency": "MYR",
+  "majors": [
+    "business",
+    "cs",
+    "hospitality",
+    "arts",
+    "logistics"
+  ],
+  "similarUniversities": [
+    "city",
+    "segi",
+    "lincoln",
+    "iukl"
+  ],
+  "totalProgramsCount": 22,
+  "description": "Kings University College is a dynamic career-focused institution situated in Petaling Jaya, Selangor. Specialized in business administration, information systems, logistics, and creative media, Kings is renowned for highly accessible tuition, practical industry attachments, and fast-track pathways to UK degrees.",
+  "descriptionAr": "كلية كينجز الجامعية (Kings University College) مؤسسة تعليم عالي مهنية رائدة تقع في مدينة بيتالينغ جايا بولاية سيلانجور. تتخصص في إدارة الأعمال، نظم المعلومات الحاسوبية، إدارة اللوجستيات، وفنون الإعلام الرقمي، وتتميز برسومها الاقتصادية المدروسة، والتدريب العملي الميداني، ومساراتها السريعة للشهادات البريطانية.",
+  "about": {
+    "ar": "تأسست كلية كينجز الجامعية (Kings University College) عام 2008 كمؤسسة تعليم عالي متطورة تركز على إعداد خريجين جاهزين لسوق العمل فور التخرج. يقع الحرم الجامعي في مدينة بيتالينغ جايا الحيوية بولاية سيلانجور الملاصقة للعاصمة كوالالمبور. تتميز الكلية ببرامج معتمدة من هيئة الاعتماد الماليزية (MQA) في تخصصات إدارة الأعمال والمحاسبة، نظم وتكنولوجيا المعلومات، إدارة سلاسل الإمداد واللوجستيات، والضيافة والسياحة. توفر كينجز رسوماً دراسية اقتصادية للغاية تناسب ميزانيات الطلاب الدوليين مع إمكانية التحويل لنيل شهادات جامعية بريطانية معتمدة وشراكات تدريب ميداني مع كبرى الشركات التجارية في ماليزيا.",
+    "en": "Established in 2008, Kings University College is an innovative, career-oriented higher education institution situated in the vibrant commercial hub of Petaling Jaya, Selangor. Fully accredited by the Malaysian Qualifications Agency (MQA), Kings specializes in delivering practical and industry-aligned programs across Business Administration, Accounting, Information Systems, Logistics & Supply Chain Management, and Creative Digital Media. Known for its affordable tuition, supportive faculty, and direct pathways to UK university degrees, Kings empowers international students with vital workplace competencies.",
+    "id": "Didirikan pada tahun 2008, Kings University College adalah perguruan tinggi swasta berorientasi karir yang terletak di Petaling Jaya, Selangor. Terakreditasi penuh oleh MQA, Kings berspesialisasi dalam Manajemen Bisnis, Sistem Informasi, Logistik, dan Perhotelan dengan biaya kuliah yang sangat terjangkau.",
+    "zh": "马来西亚金斯大学学院（Kings University College）成立于2008年，是一所获得马来西亚学术资格鉴定局（MQA）完全认证的应用型创新高等学府。校区坐落于雪兰莪州八打灵再也（Petaling Jaya）核心商业圈，交通四通八达。金斯大学学院深耕工商管理、会计金融、信息系统、供应链与现代物流管理及创意数字媒体等实用热门领域，以亲民超值的学费、充足的校企带薪实训机会以及衔接英国名校双学位的直通路径而深受国际学子青睐。",
+    "ru": "Kings University College, основанный в 2008 году, является динамично развивающимся вузом в Петалинг-Джае. Аккредитованный MQA, колледж специализируется на бизнесе, информационных системах, логистике и гостиничном деле, предлагая доступные цены и связь с индустрией.",
+    "fr": "Fondé en 2008, le Kings University College est un établissement axé sur l'employabilité situé à Petaling Jaya. Accrédité par la MQA, il propose des programmes abordables en commerce, systèmes d'information, logistique et hôtellerie.",
+    "es": "Establecido en 2008, Kings University College es un centro educativo de vanguardia en Petaling Jaya. Acreditado por MQA, destaca por sus grados accesibles en negocios, sistemas de información, logística y turismo.",
+    "ja": "2008年に設立されたキングス・ユニバーシティ・カレッジは、セランゴール州ペタリンジャヤに位置する実践的キャリア志向の高等教育機関です。MQA完全認定を受け、経営、IT情報システム、物流、観光などの専攻を手頃な学費で提供しています。",
+    "ko": "2008년에 설립된 킹스 유니버시티 칼리지(Kings University College)는 슬랑오르주 페탈링자야 중심부에 위치한 실무 중심 고등교육기관입니다. MQA의 정식 인가를 받았으며, 경영학, 정보시스템, 물류학 및 호텔관광 분야에서 매우 합리적인 학비와 영국 연계 학위 과정을 제공합니다."
+  },
+  "facilities": [
+    {
+      "icon": "🏫",
+      "title": {
+        "en": "Kings PJ City Modern Academic Centre & Air-Conditioned Lecture Halls",
+        "ar": "مركز كينجز الأكاديمي العصري وقاعات المحاضرات المكيفة في بيتالينغ جايا",
+        "id": "Pusat Akademik Modern & Ruang Kuliah Ber-AC Kings PJ",
+        "zh": "八打灵再也现代化教学综合体与全冷气多媒体阶梯研讨厅",
+        "ru": "Современный учебный комплекс Kings PJ",
+        "fr": "Centre académique moderne et amphithéâtres climatisés",
+        "es": "Centro académico moderno y aulas climatizadas en PJ",
+        "ja": "キングスPJモダンアカデミックセンター＆冷房完備講義ホール",
+        "ko": "킹스 PJ 최신 학술 센터 및 전면 에어컨 멀티미디어 강의실"
+      }
+    },
+    {
+      "icon": "💻",
+      "title": {
+        "en": "Advanced IT, Networking & Multimedia Computer Labs",
+        "ar": "مختبرات الحاسوب المتقدمة وشبكات المعلومات والوسائط الرقمية",
+        "id": "Lab Komputer IT, Jaringan & Multimedia Terkini",
+        "zh": "先进IT信息系统、高阶网络架构与数字创意多媒体实验室",
+        "ru": "Компьютерные лаборатории IT и мультимедиа",
+        "fr": "Laboratoires informatiques et multimédia de pointe",
+        "es": "Laboratorios informáticos de redes y multimedia",
+        "ja": "最新ITネットワーク＆マルチメディア実習室",
+        "ko": "최신 IT 네트워크 및 멀티미디어 전문 컴퓨터 실습실"
+      }
+    },
+    {
+      "icon": "📚",
+      "title": {
+        "en": "Kings Knowledge Resource Centre & Digital E-Library",
+        "ar": "مركز مصادر المعرفة والمكتبة الرقمية الإلكترونية بـ Kings",
+        "id": "Pusat Sumber Pengetahuan & E-Library Digital Kings",
+        "zh": "金斯知识资源中心、电子图书数据库与独立研讨自习区",
+        "ru": "Центр информационных ресурсов и электронная библиотека",
+        "fr": "Centre de ressources et bibliothèque numérique Kings",
+        "es": "Centro de recursos y biblioteca digital Kings",
+        "ja": "キングス学習リソースセンター＆電子図書館",
+        "ko": "킹스 학습 리소스 센터 및 대형 디지털 전자 도서관"
+      }
+    },
+    {
+      "icon": "☕",
+      "title": {
+        "en": "Student Lounge, Business Incubator & Cafeteria",
+        "ar": "استراحة الطلاب وحاضنة ريادة الأعمال وكافيتريا الكلية",
+        "id": "Lounge Mahasiswa, Inkubator Bisnis & Kafetaria",
+        "zh": "青年创客创新创业孵化器、多功能学生休闲沙龙与多风味餐厅",
+        "ru": "Студенческое пространство, бизнес-инкубатор и кафе",
+        "fr": "Espace étudiant, incubateur d'entreprises et cafétéria",
+        "es": "Sala de estudiantes, incubadora de negocios y cafetería",
+        "ja": "スチューデントラウンジ＆ビジネスインキュベーター・カフェ",
+        "ko": "학생 전용 라운지, 청년 창업 인큐베이터 및 교내 푸드 카페"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "💰",
+      "title": {
+        "en": "Highly Affordable & Transparent Tuition Structure",
+        "ar": "رسوم دراسية اقتصادية وشفافة في متناول جميع الطلاب",
+        "id": "Struktur Biaya Kuliah Sangat Terjangkau & Transparan",
+        "zh": "全马极具竞争力的高性价比透明学费体系",
+        "ru": "Очень доступная и прозрачная стоимость обучения",
+        "fr": "Frais de scolarité très abordables et transparents",
+        "es": "Estructura de tasas muy económica y transparente",
+        "ja": "留学生に寄り添った極めて手頃で明朗な学費体系",
+        "ko": "유학생 부담을 최소화한 합리적이고 투명한 학비 플랜"
+      },
+      "desc": {
+        "en": "Degrees starting from RM 12,000 - RM 16,000 per year, making international education accessible without compromising quality.",
+        "ar": "تبدأ الرسوم السنوية للدرجات من 12,000 إلى 16,000 رينجيت سنوياً، مما يتيح تعليماً دولياً معتمداً بجودة متميزة.",
+        "id": "Program sarjana mulai RM 12.000 - RM 16.000 per tahun dengan kualitas terjamin.",
+        "zh": "本科年学费仅需1.2万至1.6万马币起，使工薪家庭学子轻松圆梦正规海外高等教育。",
+        "ru": "Программы от 12 000 до 16 000 ринггитов в год без ущерба для качества.",
+        "fr": "Formations dès 12 000 à 16 000 RM par an avec un enseignement certifié.",
+        "es": "Grados desde 12.000 a 16.000 RM al año con excelente calidad formativa.",
+        "ja": "年間約12,000〜16,000リンギットから受講でき、費用対効果は抜群です。",
+        "ko": "연간 약 12,000 ~ 16,000 링깃(MYR) 수준의 실속 있는 학비로 공인 학위를 취득할 수 있습니다."
+      }
+    },
+    {
+      "icon": "💼",
+      "title": {
+        "en": "100% Industry Internship & Practical Employability Focus",
+        "ar": "تدريب عملي مضمون 100% في كبرى الشركات الماليزية",
+        "id": "Magang Industri 100% & Fokus Kesiapan Kerja Nyata",
+        "zh": "100%保障跨国企业带薪实习与实务就业导向",
+        "ru": "100% стажировки в компаниях и практическая ориентация",
+        "fr": "Stages en entreprise garantis à 100% et employabilité directe",
+        "es": "100% de prácticas en empresas e inserción laboral real",
+        "ja": "100％の実務インターンシップ提携＆高い就職即戦力",
+        "ko": "100% 실무 기업 인턴십 연계 및 현장 중심 취업 역량 강화"
+      },
+      "desc": {
+        "en": "Curriculum designed with corporate partners to ensure every graduate completes hands-on industry placement.",
+        "ar": "مناهج مصممة بالتعاون مع كبرى الشركات لضمان إتمام كل طالب لفترة تدريب ميداني تكسبه خبرة واقعية.",
+        "id": "Kurikulum dirancang bersama mitra industri untuk menjamin pengalaman kerja nyata.",
+        "zh": "课程由行业资深导师与企业高管联合指导设计，确保每位学子均参与企业实训并掌握一线实操技能。",
+        "ru": "Программа разработана совместно с компаниями для реального опыта работы.",
+        "fr": "Cursus conçu avec des partenaires professionnels pour une immersion directe.",
+        "es": "Planes de estudio diseñados junto a empresas líderes para adquirir experiencia real.",
+        "ja": "産業界のパートナーと共同設計したカリキュラムで実践的スキルを習得。",
+        "ko": "기업 파트너들과 공동 설계한 실무 커리큘럼으로 재학 중 실무 경험을 확실하게 쌓습니다."
+      }
+    },
+    {
+      "icon": "🏙️",
+      "title": {
+        "en": "Strategic Location in Petaling Jaya Commercial Hub",
+        "ar": "موقع حيوي في بيتالينغ جايا الملاصقة لقلب كوالالمبور",
+        "id": "Lokasi Strategis di Pusat Komersial Petaling Jaya",
+        "zh": "立足八打灵再也黄金商业城，畅享都市便捷生活",
+        "ru": "Стратегическое расположение в деловом центре Петалинг-Джая",
+        "fr": "Emplacement stratégique dans le pôle commercial de Petaling Jaya",
+        "es": "Ubicación estratégica en el distrito comercial de Petaling Jaya",
+        "ja": "クアラルンプール隣接の商業中枢ペタリンジャヤの抜群の立地",
+        "ko": "쿠알라룸푸르 인접 최대 상업 중심지 페탈링자야의 편리한 입지"
+      },
+      "desc": {
+        "en": "Surrounded by shopping complexes, tech startups, banks, and seamless public transit connected directly to KL.",
+        "ar": "تحيط بها المراكز التجارية والشركات الناشئة والمصارف ووسائل النقل السريعة التي تربطها مباشرة بوسط كوالالمبور.",
+        "id": "Dikelilingi pusat perbelanjaan, startup, bank, dan akses transportasi mudah ke KL.",
+        "zh": "周边汇聚大型购物商厦、高新创业园区、商业银行及直通吉隆坡市中心的轻轨地铁交通网络。",
+        "ru": "В окружении торговых центров, стартапов и прямого транспорта до Куала-Лумпура.",
+        "fr": "Entouré de centres commerciaux, banques et transports vers KL.",
+        "es": "Rodeado de centros comerciales, empresas y transporte directo a KL.",
+        "ja": "大型ショッピングモール、IT企業、銀行、市内直結の交通網に囲まれた快適な環境。",
+        "ko": "대형 쇼핑몰, IT 스타트업, 금융기관 및 시내 직결 대중교통이 밀집한 쾌적한 인프라."
+      }
+    },
+    {
+      "icon": "🇬🇧",
+      "title": {
+        "en": "Fast-Track Pathways to UK University Qualifications",
+        "ar": "مسارات سريعة للتحويل ونيل الشهادات البريطانية المعتمدة",
+        "id": "Jalur Cepat Menuju Kualifikasi Universitas Inggris",
+        "zh": "快速衔接英国名校官方学士学位的直通升学路径",
+        "ru": "Прямые пути к получению британских университетских степеней",
+        "fr": "Passerelles directes vers des diplômes universitaires britanniques",
+        "es": "Pasarelas directas a titulaciones universitarias británicas",
+        "ja": "英国提携大学へのスムーズな編入・学位取得パスウェイ",
+        "ko": "영국 명문 대학교 학위로 연계되는 패스트트랙 편입 진로"
+      },
+      "desc": {
+        "en": "Credit transfer agreements allow students to complete foundation or diploma years at Kings and articulate into UK degrees.",
+        "ar": "تتيح اتفاقيات معادلة الساعات إتمام التمهيدي أو الدبلوم في كينجز ثم الانتقال بسلاسة لاستكمال البكالوريوس البريطاني.",
+        "id": "Perjanjian transfer kredit memudahkan mahasiswa menyelesaikan gelar di Inggris.",
+        "zh": "支持学分互认豁免机制，学生可在金斯完成文凭或阶段课程后便捷升读英国合作名校本科学位。",
+        "ru": "Соглашения о зачете кредитов позволяют получить диплом вуза Великобритании.",
+        "fr": "Transfert de crédits pour poursuivre un cursus complet au Royaume-Uni.",
+        "es": "Los convenios de convalidación facilitan obtener el título en el Reino Unido.",
+        "ja": "単位認定制度により、キングス修了後に英国大学の学位取得へと無理なくステップアップ。",
+        "ko": "학점 인정 협약을 통해 킹스에서 디플로마 이수 후 영국 대학교로 원활하게 편입할 수 있습니다."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Kings University College Malaysia internationally accredited and recognized?",
+        "ar": "هل شهادات كلية كينجز الجامعية (Kings University College) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Kings University College Malaysia diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Kings University College Malaysia is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، كلية كينجز الجامعية (Kings University College) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Kings University College Malaysia terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Kings University College Malaysia?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في كلية كينجز الجامعية (Kings University College)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Kings University College Malaysia?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Kings University College Malaysia?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في كلية كينجز الجامعية (Kings University College)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Kings University College Malaysia?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Kings University College Malaysia without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "en": "Kings University College: Affordable Degrees & Career Pathways in Malaysia",
+        "ar": "كلية كينجز الجامعية: تعليم دولي اقتصادي ومسارات وظيفية واعدة في ماليزيا",
+        "id": "Panduan Kuliah Kings University College: Biaya Hemat & Karir Nyata",
+        "zh": "马来西亚金斯大学学院（Kings）报读全指南：超值学费、热门专业与全方位升学路径",
+        "ru": "Kings University College: доступное образование и карьерные перспективы",
+        "fr": "Kings University College : formations abordables et débouchés en Malaisie",
+        "es": "Kings University College: educación asequible y salidas profesionales",
+        "ja": "キングス・ユニバーシティ・カレッジ完全ガイド：費用を抑えて学ぶマレーシア留学の魅力",
+        "ko": "킹스 유니버시티 칼리지 입학 가이드: 실속형 학비와 실무 취업 중심 유학의 모든 것"
+      },
+      "summary": {
+        "en": "An in-depth breakdown of diploma and bachelor tuition fees, semester intakes, and entry qualifications for international students.",
+        "ar": "تحليل شامل لرسوم الدبلوم والبكالوريوس ومواعيد التسجيل السنوية وشروط القبول الميسرة للطلاب الدوليين.",
+        "id": "Ulasan mendalam biaya kuliah diploma dan sarjana, jadwal pendaftaran, dan syarat masuk.",
+        "zh": "详尽拆解大专文凭与本科各专业学费账单、入学申请月份门槛以及无雅思快速就读途径。",
+        "ru": "Подробный обзор цен на обучение, сроков поступления и вступительных требований.",
+        "fr": "Présentation détaillée des frais de diplôme et bachelor, rentrées et critères d'admission.",
+        "es": "Desglose de costes de diplomaturas y grados, fechas de inicio y requisitos de acceso.",
+        "ja": "ディプロマおよび学士課程の学費詳細、年間の入学時期、留学生向けの柔軟な入学条件を解説。",
+        "ko": "디플로마 및 학사 연간 학비 상세 분석, 학기별 모집 시기 및 유학생 맞춤형 입학 요건 안내."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "en": "Living in Petaling Jaya: Modern Urban Life, Budget Condos & Transit",
+        "ar": "المعيشة في بيتالينغ جايا: الحياة العصرية، الشقق الاقتصادية، وسهولة التنقل",
+        "id": "Tinggal di Petaling Jaya: Gaya Hidup Urban, Kondominium Hemat & Transportasi",
+        "zh": "八打灵再也（PJ）留学生宜居指南：高品质公寓租房、商圈配套与便捷轻轨生活圈",
+        "ru": "Жизнь в Петалинг-Джае: городская среда, доступное жилье и транспорт",
+        "fr": "Vivre à Petaling Jaya : vie urbaine moderne, appartements abordables et transports",
+        "es": "Vivir en Petaling Jaya: vida urbana, apartamentos asequibles y transporte",
+        "ja": "ペタリンジャヤでの生活ガイド：治安、手頃なコンドミニアム、クアラルンプールへの好アクセス",
+        "ko": "페탈링자야 거주 가이드: 도심 인프라, 가성비 콘도 렌트 및 편리한 대중교통망"
+      },
+      "summary": {
+        "en": "Find out why international students love living in PJ, featuring modern condominiums, malls, and delicious affordable street food.",
+        "ar": "اكتشف لماذا يفضل الطلاب السكن في بيتالينغ جايا بمجمعاتها السكنية ومراكزها التجارية ومطاعمها المتنوعة.",
+        "id": "Temukan mengapa mahasiswa menyukai PJ dengan kondominium modern dan makanan terjangkau.",
+        "zh": "带你深入了解为什么留学生青睐在PJ生活：安全舒适的现代化公寓租住选择、丰富的餐饮娱乐与直达市中心轻轨。",
+        "ru": "Почему студенты выбирают PJ: развитая инфраструктура, магазины и доступные цены.",
+        "fr": "Pourquoi les étudiants apprécient PJ : résidences modernes, centres commerciaux et cuisine variée.",
+        "es": "Por qué a los estudiantes les encanta PJ: apartamentos modernos y gastronomía asequible.",
+        "ja": "留学生に選ばれるPJエリアの住みやすさ、治安の良さ、ショッピングや食事環境を詳しく紹介。",
+        "ko": "유학생들이 페탈링자야를 선호하는 이유: 안전한 주거 환경, 풍부한 생활 편의시설 및 맛집 탐방."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "en": "Logistics, Business & IT: Practical Career Paths from Kings College",
+        "ar": "اللوجستيات وإدارة الأعمال والتقنية: مساراتك المهنية الواعدة من كلية كينجز",
+        "id": "Logistik, Bisnis & IT: Karir Praktis Lulusan Kings College",
+        "zh": "从金斯大学学院迈向高薪职场：物流供应链、数字媒体与IT商业毕业生的就业优势",
+        "ru": "Логистика, бизнес и IT: практические карьерные пути после Kings College",
+        "fr": "Logistique, commerce et informatique : débouchés pratiques après Kings",
+        "es": "Logística, negocios e informática: salidas profesionales prácticas desde Kings",
+        "ja": "物流・ビジネス・IT分野の即戦力：キングス修了生のキャリア形成と就職実績",
+        "ko": "물류, 경영 및 IT 실무: 킹스 칼리지 졸업생들의 탄탄한 현장 취업 성공 스토리"
+      },
+      "summary": {
+        "en": "How industrial training placements give Kings graduates an edge in Southeast Asia's burgeoning logistics and digital commerce sectors.",
+        "ar": "كيف يمنح التدريب الميداني خريجي كينجز ميزة تنافسية قوية في قطاعات سلاسل الإمداد والتجارة الإلكترونية.",
+        "id": "Bagaimana magang industri memberi keunggulan kompetitif bagi lulusan di Asia Tenggara.",
+        "zh": "深度剖析东南亚蓬勃发展的电商物流枢纽如何为金斯大学学院具备实操经验的毕业生提供海量优质就业岗位。",
+        "ru": "Как практический опыт помогает выпускникам найти работу в развивающейся сфере логистики.",
+        "fr": "Comment les stages donnent un avantage aux diplômés dans le commerce et la logistique.",
+        "es": "Cómo las prácticas profesionales otorgan ventaja a los graduados en comercio y logística.",
+        "ja": "東南アジアで急成長する物流・電子商取引業界で求められる実践力と卒業生の活躍ぶりをレポート。",
+        "ko": "동남아시아 전자상거래 및 물류 허브 시장에서 킹스 졸업생들이 누리는 실무 경쟁력 분석."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "PJ City Managed Student Residences (Walking Distance)",
+        "nameAr": "سكن الطلاب المدار بمدينة بيتالينغ جايا (PJ City Residences)",
+        "type": "Single & Shared Air-Conditioned Rooms",
+        "typeAr": "غرف مفردة ومزدوجة مكيفة ومجهزة بالكامل",
+        "priceRange": "RM 500 - RM 950 / month",
+        "priceRangeAr": "500 - 950 رينجيت / شهرياً",
+        "distance": "3-5 minutes walk to Kings Campus",
+        "distanceAr": "3 إلى 5 دقائق سيراً على الأقدام من الحرم",
+        "distanceEn": "3-5 minutes walk to campus",
+        "amenities": [
+          "24-Hour Security & CCTV Monitoring",
+          "High-Speed Wi-Fi & Electricity Included Options",
+          "Washing Machines & Shared Pantry Kitchen",
+          "Walking Distance to Food Courts & Convenience Marts"
+        ],
+        "amenitiesAr": [
+          "حراسة أمنية وكاميرات مراقبة على مدار الساعة",
+          "إنترنت سريع وخيارات شاملة لفواتير الخدمات",
+          "غسالات ملابس ومطبخ مشترك مجهز",
+          "قرب مباشر من المطاعم ومحلات البقالة"
+        ]
+      },
+      {
+        "name": "Park 51 Residency Condominium (Petaling Jaya)",
+        "nameAr": "أبراج بارك 51 السكنية الحديثة (Park 51 Residency)",
+        "type": "Modern Private Condominiums with Pool & Gym",
+        "typeAr": "شقق سكنية خاصة حديثة مع مسبح ونادٍ رياضي",
+        "priceRange": "RM 600 - RM 1,200 / month",
+        "priceRangeAr": "600 - 1,200 رينجيت / شهرياً",
+        "distance": "5 minutes by Bus / Grab to Campus",
+        "distanceAr": "5 دقائق بالحافلة أو سيارة الأجرة من الحرم",
+        "distanceEn": "5 minutes by transit",
+        "amenities": [
+          "Resort Swimming Pool & Fully-Equipped Gym",
+          "Access Card Security & Guardhouse",
+          "Mini Market & Cafeterias in the Complex",
+          "Quick Access to Federal Highway & LRT"
+        ],
+        "amenitiesAr": [
+          "مسبح منتجعي وصالة لياقة بدنية مجهزة",
+          "بوابات إلكترونية وحراسة 24 ساعة",
+          "ميني ماركت ومطاعم داخل المجمع السكني",
+          "وصول سريع للطريق السريع ومحطات المترو"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Accommodation (PJ Student House / Condo)",
+        "itemAr": "السكن (شقق الطلاب في بيتالينغ جايا)",
+        "cost": "RM 500 - RM 950",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Food & Daily Dining Outlets",
+        "itemAr": "الوجبات والطعام اليومي",
+        "cost": "RM 500 - RM 800",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Local Bus & LRT Transit",
+        "itemAr": "المواصلات والحافلات ومترو LRT",
+        "cost": "RM 60 - RM 130",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Mobile Internet & Wi-Fi",
+        "itemAr": "باقات الاتصالات والإنترنت",
+        "cost": "RM 60 - RM 100",
+        "itemKey": "living_exp_mobile"
+      },
+      {
+        "item": "Study Supplies & Personal Items",
+        "itemAr": "المستلزمات الدراسية والمصروف الشخصي",
+        "cost": "RM 80 - RM 160",
+        "itemKey": "living_exp_books"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-University",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية / التمهيدي",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 10,000 - RM 13,000"
+    },
+    {
+      "level": "Diploma Programmes (Business / IT / Logistics)",
+      "levelKey": "level_diploma",
+      "levelAr": "برامج الدبلوم المعتمدة (إدارة / حاسوب / لوجستيات)",
+      "duration": "2 - 2.5 Years",
+      "durationYears": 2,
+      "avgFeePerYear": "RM 11,000 - RM 14,000"
+    },
+    {
+      "level": "Bachelor's Degree Programmes",
+      "levelKey": "level_bachelor",
+      "levelAr": "درجة البكالوريوس المعتمدة",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 14,000 - RM 18,000"
+    },
+    {
+      "level": "Master's Degree (MBA / MSc)",
+      "levelKey": "level_master",
+      "levelAr": "درجة الماجستير (إدارة الأعمال / نظم المعلومات)",
+      "duration": "1.5 - 2 Years",
+      "durationYears": 2,
+      "avgFeePerYear": "RM 13,000 - RM 17,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "kings-diploma-in-information-system",
+      "universityId": "kings",
+      "name": "Diploma in Information System",
+      "nameAr": "دبلوم في Information System",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-foundation-in-information-technology",
+      "universityId": "kings",
+      "name": "Foundation in Information Technology",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 14400,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14400
+        }
+      ],
+      "totalTuitionFee": 14400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-bachelor-hons-of-science-in-artificial-intelligence",
+      "universityId": "kings",
+      "name": "Bachelor (Hons) of Science in Artificial Intelligence",
+      "nameAr": "بكالوريوس في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        },
+        {
+          "year": 3,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 37500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-bachelor-hons-of-computer-science-cyber-security",
+      "universityId": "kings",
+      "name": "Bachelor (Hons) of Computer Science (Cyber Security)",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        },
+        {
+          "year": 3,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 37500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-doctor-of-philosophy-phd-in-management-by-research",
+      "universityId": "kings",
+      "name": "Doctor of  Philosophy (PhD) in Management by Research",
+      "nameAr": "دكتوراه في Doctor of Philosophy (PhD) in Management by Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16750
+        },
+        {
+          "year": 2,
+          "fee": 16750
+        },
+        {
+          "year": 3,
+          "fee": 16750
+        }
+      ],
+      "totalTuitionFee": 50250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-doctor-of-business-administration-dba",
+      "universityId": "kings",
+      "name": "Doctor of Business Administration (DBA)",
+      "nameAr": "دكتوراه في Doctor of Business Administration (DBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        },
+        {
+          "year": 3,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 49500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-master-of-business-administration-mba",
+      "universityId": "kings",
+      "name": "Master of Business Administration (MBA)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في MBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-diploma-in-accounting",
+      "universityId": "kings",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-diploma-in-business-administration",
+      "universityId": "kings",
+      "name": "Diploma in Business Administration",
+      "nameAr": "دبلوم إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-diploma-in-hotel-management",
+      "universityId": "kings",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-master-of-business-administration-mba-dual-degree-uws",
+      "universityId": "kings",
+      "name": "Master of Business Administration (MBA) - dual degree UWS",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في MBA) - dual degree UWS",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 49480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49480
+        }
+      ],
+      "totalTuitionFee": 49480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-bachelors-of-arts-honours-in-business-administration",
+      "universityId": "kings",
+      "name": "Bachelors of Arts (Honours) In Business Administration",
+      "nameAr": "بكالوريوس في Bachelors of Arts (Honours) In Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        },
+        {
+          "year": 3,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 37500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-diploma-in-hotel-management-wbl",
+      "universityId": "kings",
+      "name": "Diploma in Hotel Management (WBL)",
+      "nameAr": "دبلوم في Hotel Management (WBL",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-foundation-in-arts",
+      "universityId": "kings",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 14400,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14400
+        }
+      ],
+      "totalTuitionFee": 14400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-bachelor-in-accounting-honours",
+      "universityId": "kings",
+      "name": "Bachelor in Accounting (Honours)",
+      "nameAr": "بكالوريوس في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        },
+        {
+          "year": 3,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 37500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-diploma-in-nursing",
+      "universityId": "kings",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-doctor-of-philosophy-phd-in-nursing",
+      "universityId": "kings",
+      "name": "Doctor of Philosophy (PhD) in Nursing",
+      "nameAr": "دكتوراه الفلسفة (PhD) في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, Jun, Aug, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-bachelor-of-psychology-hons",
+      "universityId": "kings",
+      "name": "Bachelor of Psychology (Hons)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        },
+        {
+          "year": 3,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 37500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-diploma-in-psychology",
+      "universityId": "kings",
+      "name": "Diploma in Psychology",
+      "nameAr": "دبلوم في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-master-of-education",
+      "universityId": "kings",
+      "name": "Master of Education",
+      "nameAr": "ماجستير في Master of Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 28500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28500
+        }
+      ],
+      "totalTuitionFee": 28500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-diploma-in-early-childhood-education",
+      "universityId": "kings",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 24000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "kings-bachelor-of-early-childhood-education-honours",
+      "universityId": "kings",
+      "name": "Bachelor of Early Childhood Education (Honours)",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, Jun, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        },
+        {
+          "year": 2,
+          "fee": 12500
+        },
+        {
+          "year": 3,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 37500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 22
+}

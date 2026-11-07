@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <rect width="280" height="80" rx="10" fill="#FFFFFF"/>
+  <g transform="translate(15, 14)">
+    <!-- Geo Icon -->
+    <circle cx="24" cy="26" r="22" fill="#0D9488"/>
+    <path d="M10 26 H38 M24 10 V42" stroke="#FFFFFF" stroke-width="2.5"/>
+    <!-- Text -->
+    <text x="58" y="27" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="19" fill="#0D9488" letter-spacing="0.5">GEOMATIKA</text>
+    <text x="58" y="44" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="10.5" fill="#D97706" letter-spacing="0.5">UNIVERSITI MALAYSIA</text>
+  </g>
+</svg>

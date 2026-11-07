@@ -1,0 +1,5069 @@
+{
+  "id": "inti",
+  "name": "INTI International University",
+  "arabicName": "جامعة إنتي الدولية (INTI)",
+  "city": "Nilai, Negeri Sembilan",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-inti.webp",
+  "image": "assets/photo/campus_inti.webp",
+  "website": "https://newinti.edu.my/",
+  "ranking": "Rank 516 QS World University Rankings 2025 (QS 5-Stars Rated)",
+  "established": "1986",
+  "campusName": "INTI International University Nilai Campus",
+  "studentCount": "13,000+ (80+ Countries)",
+  "intakes": "Jan, Apr, Aug",
+  "feeRangeMin": 9724,
+  "feeRangeMax": 47112,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/uKqtIEZp6xg",
+  "description": "INTI International University is one of the leading recognized higher education institutions located in Nilai, Negeri Sembilan. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة إنتي الدولية (INTI) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Nilai, Negeri Sembilan، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "INTI International University & Colleges didirikan pada tahun 1986 dan merupakan salah satu institusi pendidikan tinggi swasta paling terkemuka di Malaysia dengan kampus utama seluas 82 hektar di Nilai, Negeri Sembilan serta beberapa kampus kota di Subang Jaya, Penang, dan Sabah. Bekerja sama dengan universitas top dunia seperti University of Hertfordshire (Inggris) dan Southern New Hampshire University (AS), INTI menawarkan program gelar ganda bergengsi dan jalur transfer internasional.",
+    "en": "INTI International University & Colleges, established in 1986, is one of Malaysia’s most distinguished private education institutions, featuring an 82-acre flagship campus in Nilai and dynamic city campuses in Subang, Penang, and Sabah. Partnered with globally ranked institutions like the University of Hertfordshire (UK) and Southern New Hampshire University (USA), INTI delivers prestigious dual degrees and American Degree Transfer Programs (AUP).",
+    "ar": "تأسست جامعة إنتي الدولية (INTI) عام 1986، وتعد واحدة من كبرى المؤسسات الأكاديمية الخاصة وأكثرها عراقة في ماليزيا مع حرم رئيسي بمساحة 82 فداناً في نيلاي وفروع في سوبانج وبينانج وصباح. وتوفر شراكات أكاديمية عالمية مع جامعات كبرى مثل جامعة هيرتفوردشاير البريطانية، وتشتهر ببرنامج تحويل الدرجات الأمريكية (AUP).",
+    "zh": "英迪国际大学（INTI International University）创立于1986年，是马来西亚历史最悠久的五星级私立名校集团之一，总校占地82英亩坐落于森美兰汝来，并在梳邦、槟城及沙巴设有分校。英迪与英国赫特福德大学、美国南新罕布什尔大学等紧密合作，享有盛名卓著的美国学分转移课程（AUP）与全套英美双学位。",
+    "ru": "Международный университет INTI, основанный в 1986 году, является одним из лидеров частного образования Малайзии с кампусом в 82 акра в Нилаи и филиалами в Субанге и Пенанге, предлагая программы британского и американского двойного диплома.",
+    "fr": "Fondée en 1986, l'INTI International University est l'une des universités privées les plus renommées de Malaisie avec un campus de 82 acres à Nilai et des partenariats au Royaume-Uni et aux États-Unis.",
+    "es": "INTI International University, fundada en 1986, es una de las instituciones privadas más respetadas de Malasia con su campus de 82 acres en Nilai y programas de doble titulación con el Reino Unido y EE. UU.",
+    "ja": "インティ国際大学は1986年に設立されたマレーシア屈指の名門私立大学であり、ニライの82エーカーのキャンパスに加え、英国や米国の大学とのダブルディグリーや米国編入プログラム（AUP）で高い実績を誇ります。",
+    "ko": "인티 국제대학교(INTI)는 1986년에 설립된 말레이시아 대표 명문 사립대학교로, 닐라이의 82에이커 메인 캠퍼스와 수방 캠퍼스에서 영국 허트포드셔 대학교 복수학위 및 미국 명문대 편입 프로그램(AUP)을 운영합니다."
+  },
+  "facilities": [
+    {
+      "icon": "‍️",
+      "title": {
+        "id": "Kolam Renang Ukuran Olimpiade & Kompleks Olahraga Multi-Fungsi",
+        "en": "Olympic-Size Swimming Pool & Multi-Sport Arena",
+        "ar": "مسبح بمواصفات أولمبية ومجمع ملاعب رياضية متكامل",
+        "ko": "올림픽 규격 수영장 및 다목적 종합 스포츠 경기장",
+        "ja": "オリンピック規格プール＆多目的スポーツコンプレックス",
+        "zh": "奥林匹克标准游泳池与室内外大型综合多功能体育场馆",
+        "ru": "Олимпийский бассейн и многофункциональный спортивный комплекс",
+        "fr": "Piscine olympique et complexe sportif multidisciplinaire",
+        "es": "Piscina de tamaño olímpico y complejo deportivo multifuncional"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Apple Mac & Pusat Inovasi Komputasi Terdepan",
+        "en": "Apple Mac Labs & Advanced IT Innovations Hub",
+        "ar": "مختبرات حواسيب آبل ماك المتطورة ومركز ابتكار تقنية المعلومات",
+        "ko": "애플 맥 전용 실습 랩 및 차세대 IT 소프트웨어 혁신 허브",
+        "ja": "Apple Mac専用ラボ＆最先端ITイノベーションハブ",
+        "zh": "苹果Mac专业电脑实验室及下一代信息技术创新中心",
+        "ru": "Лаборатории Apple Mac и центр инноваций передовых ИТ-технологий",
+        "fr": "Laboratoires Apple Mac et pôle d'innovation informatique de pointe",
+        "es": "Laboratorios Apple Mac y centro de innovación tecnológica avanzada"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Laboratorium Teknik Mesin & Robotika Modern",
+        "en": "Mechanical & Robotics Engineering Laboratories",
+        "ar": "مختبرات الهندسة الميكانيكية وتطبيقات الروبوتات والذكاء الاصطناعي",
+        "ko": "기계 및 로봇 공학 첨단 정밀 엔지니어링 연구실",
+        "ja": "精密機械工学・ロボティクス高度専門実験ラボ",
+        "zh": "现代化机械与前沿机器人工程实践实训实验室",
+        "ru": "Лаборатории машиностроения, робототехники и автоматизации",
+        "fr": "Laboratoires de pointe en génie mécanique et robotique",
+        "es": "Laboratorios avanzados de ingeniería mecánica y robótica"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Perpustakaan Tan Sri Abdul Majid & Digital Commons 24/7",
+        "en": "Tan Sri Abdul Majid Comprehensive Library & Digital Commons",
+        "ar": "مكتبة تان سري عبد المجيد الرقمية الشاملة وقاعات الاستذكار الذكية",
+        "ko": "탄 스리 압둘 마지드 종합 학술 도서관 및 24시간 디지털 커먼스",
+        "ja": "タン・スリ・アブドゥル・マジド記念総合図書館＆24時間自習室",
+        "zh": "丹斯里阿卜杜勒马吉德大型综合数字化学术图书馆",
+        "ru": "Академическая библиотека Tan Sri Abdul Majid и цифровой центр",
+        "fr": "Bibliothèque universitaire Tan Sri Abdul Majid et centre de ressources",
+        "es": "Biblioteca académica Tan Sri Abdul Majid y centro de estudio digital"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "award",
+      "title": {
+        "id": "Peringkat Rank 516 Dunia QS World University Rankings 2025",
+        "en": "Rank 516 QS World University Rankings 2025 (QS 5-Stars Overall)",
+        "ar": "تصنيف Rank 516 عالمياً في تصنيف QS 2025 وخمس نجوم كاملة",
+        "ko": "2025 QS 세계 대학 랭킹 516위 (QS 5스타 종합 최고 등급)",
+        "ja": "2025年QS世界大学ランキング第516位（QS 5つ星総合最高評価）",
+        "zh": "2025年QS世界大学排名第516位（QS超五星卓越顶尖高校认证）",
+        "ru": "Топ-516 в мировом рейтинге университетов QS 2025 (5 звезд)",
+        "fr": "Classée 516e mondial au classement QS 2025 (5 étoiles QS)",
+        "es": "Clasificada Rank 516 del mundo en QS 2025 (Calificación 5 Estrellas)"
+      },
+      "desc": {
+        "id": "Meraih skor 5-Bintang QS dalam pengajaran, fasilitas, internasionalisasi, dan keterserapan kerja lulusan.",
+        "en": "Achieved full 5-Star QS ratings across teaching, facilities, internationalization, and graduate employability.",
+        "ar": "حاصلة على تقييم 5 نجوم في جودة التدريس وتوظيف الخريجين والمرافق الجامعية المتطورة والبيئة الدولية.",
+        "ko": "교육 품질, 최첨단 시설, 국제화 지수, 졸업생 취업률 전 분야에서 5스타 만점 획득.",
+        "ja": "教授陣の質、充実した設備、国際化、卒業生の高い就職率で最高5つ星を獲得。",
+        "zh": "在教学质量、硬件设施、国际化程度和毕业生高就业率方面均斩获QS满分五星评级。",
+        "ru": "Высшая оценка 5 звезд QS за качество преподавания, инфраструктуру и трудоустройство.",
+        "fr": "Score parfait de 5 étoiles pour l'enseignement, l'employabilité et les infrastructures.",
+        "es": "Puntuación perfecta de 5 estrellas en enseñanza, empleabilidad de egresados e infraestructura."
+      }
+    },
+    {
+      "icon": "🇺🇸",
+      "title": {
+        "id": "Pelopor Program Transfer Gelar Amerika Serikat (ADTP) Terbesar",
+        "en": "Pioneer American Degree Transfer Program (ADTP) in Malaysia",
+        "ar": "رائدة برنامج معادلة ونقل الدرجات إلى كبرى جامعات أمريكا (ADTP)",
+        "ko": "말레이시아 최대 규모 미국 대학 편입 학위 프로그램 (ADTP)의 선구자",
+        "ja": "マレーシア最大の米国名門大学編入プログラム（ADTP）のパイオニア",
+        "zh": "马来西亚历史最悠久、规模最大的全美学分转移学位课程(ADTP)先头高校",
+        "ru": "Ведущая программа перевода в университеты США (ADTP) в регионе",
+        "fr": "Programme pionnier de transfert de diplôme américain (ADTP)",
+        "es": "Programa pionero de transferencia de créditos a universidades de EE.UU. (ADTP)"
+      },
+      "desc": {
+        "id": "Memungkinkan mahasiswa menempuh 1-2 tahun di INTI dan transfer ke universitas Ivy League serta Top 100 di Amerika Serikat dan Kanada.",
+        "en": "Study 1-2 years at INTI and seamlessly transfer to Ivy League and Top 100 universities across the USA and Canada.",
+        "ar": "تمكن الطالب من دراسة سنة أو سنتين في ماليزيا ثم الانتقال مباشرة لأعرق جامعات رابطة اللبلاب (Ivy League) وأمريكا وكندا.",
+        "ko": "인티에서 1~2년 이수 후 미국 및 캐나다 아이비리그 및 세계 100대 명문대로 안전하게 편입 연계.",
+        "ja": "INTIで1〜2年間履修後、アメリカやカナダのアイビーリーグやトップ100大学へ直接編入可能。",
+        "zh": "学生可在英迪就读1至2年，随后无缝转入学分至美国常春藤名校及全美前100顶尖高校。",
+        "ru": "Возможность завершить 1-2 года обучения в INTI и перевестись в топовые вузы США и Канады.",
+        "fr": "Permet d'étudier 1 à 2 ans à INTI puis de transférer directement ses crédits vers les meilleures universités américaines.",
+        "es": "Estudia 1-2 años en INTI y transfiere tus créditos directamente a prestigiosas universidades de EE.UU. y Canadá."
+      }
+    },
+    {
+      "icon": "🇬🇧",
+      "title": {
+        "id": "Gelar Ganda Resmi Inggris & Australia (Dual Honours Award)",
+        "en": "UK & Australia Dual Honours Degrees (Hertfordshire & Coventry)",
+        "ar": "شهادات مزدوجة رسمية مع كبرى الجامعات البريطانية والأسترالية",
+        "ko": "영국 허트포드셔 & 코번트리 대학교 공식 복수 학위 수여",
+        "ja": "英国ハートフォードシャー大学およびコベントリー大学公式デュアル学位",
+        "zh": "英国赫特福德大学与考文垂大学官方双联荣誉学士学位认证",
+        "ru": "Двойные дипломы ведущих университетов Великобритании и Австралии",
+        "fr": "Doubles diplômes officiels d'universités britanniques et australiennes",
+        "es": "Doble titulación oficial con universidades líderes del Reino Unido y Australia"
+      },
+      "desc": {
+        "id": "Lulusan menerima dua ijazah terpisah dari INTI dan universitas mitra bergengsi Inggris tanpa biaya hidup mahal di luar negeri.",
+        "en": "Graduates earn two distinct degree certificates from INTI and renowned UK partners with substantial cost savings.",
+        "ar": "يتسلم الخريج شهادتين مستقلتين من جامعة إنتي والجامعة البريطانية الشريكة مع توفير هائل في نفقات السفر والمعيشة.",
+        "ko": "영국 현지에 가지 않고도 인티 캠퍼스에서 두 명문 대학의 정규 학위장을 동시에 취득.",
+        "ja": "イギリス現地と同等のカリキュラムで学び、2つの正式な学位記を効率的に取得可能。",
+        "zh": "在马来西亚本土修读完整纯正英国名校课程，毕业直接荣获两所大学颁发的正规学位证书。",
+        "ru": "Выпускники получают два полноценных диплома от INTI и британского университета-партнера.",
+        "fr": "Obtenez deux diplômes reconnus simultanément à des frais de scolarité très avantageux.",
+        "es": "Los graduados obtienen dos títulos universitarios oficiales con un ahorro económico muy significativo."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Mandiri Megah 82 Hektar di Nilai, Negeri Sembilan",
+        "en": "Sprawling 82-Acre Self-Contained Nilai Mega Campus",
+        "ar": "حرم جامعي متكامل ومستقل يمتد على مساحة 82 فداناً في نيلاي",
+        "ko": "82에이커 규모의 자족형 닐라이 종합 메가 캠퍼스",
+        "ja": "広大な82エーカーの自己完結型ニライ・総合メガキャンパス",
+        "zh": "占地82英亩设施完善、生机勃勃的汝来(Nilai)自足型大型大学城校区",
+        "ru": "Автономный мега-кампус площадью 82 акра в Нилаи со всеми удобствами",
+        "fr": "Superbe campus de 82 acres entièrement autonome à Nilai",
+        "es": "Espectacular campus autosuficiente de 82 acres en Nilai con todas las comodidades"
+      },
+      "desc": {
+        "id": "Dilengkapi asrama modern, pusat kuliner halal, shuttle bus gratis, dan atmosfer belajar hijau yang tenang.",
+        "en": "Features contemporary residential halls, halal food courts, free transit shuttles, and a serene green academic environment.",
+        "ar": "مجهز بسكنات طلابية راقية، مطاعم حلال، حافلات تنقل مجانية، وبيئة أكاديمية طبيعية هادئة ومحفزة للتعلم.",
+        "ko": "모던한 학생 기숙사, 다채로운 푸드코트, 무료 셔틀버스 및 쾌적하고 안전한 녹지 환경 완비.",
+        "ja": "最新の学生寮、ハラールフードコート、無料シャトルバス、緑豊かな学習環境を完備。",
+        "zh": "配备现代化学生公寓、多元清真美食广场、免费通勤校车及宜人宁静的生态绿化读书环境。",
+        "ru": "Современные резиденции, халяльные фуд-корты, бесплатные шаттлы и живописная природа.",
+        "fr": "Résidences modernes, cafétérias halal, navettes gratuites et cadre d'études verdoyant.",
+        "es": "Residencias modernas, zonas de restauración halal, autobuses gratuitos y un entorno verde idóneo."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "INTI International University Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة إنتي الدولية (INTI)",
+        "id": "Residensi Mahasiswa Resmi INTI International University"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from INTI International University internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة إنتي الدولية (INTI) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari INTI International University diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, INTI International University is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة إنتي الدولية (INTI) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, INTI International University terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to INTI International University?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة إنتي الدولية (INTI)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke INTI International University?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from INTI International University?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة إنتي الدولية (INTI)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke INTI International University?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to INTI International University without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Program Transfer Amerika (ADTP) ke Kampus Top USA di INTI",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for INTI International University",
+        "ar": "دليل البرنامج التحضيري الأمريكي (ADTP) والانتقال لكبرى جامعات أمريكا عبر إنتي",
+        "zh": "INTI International University 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в INTI International University",
+        "fr": "Guide complet d'admission et visa étudiant pour INTI International University",
+        "es": "Guía completa de admisión y visado de estudiante para INTI International University",
+        "ja": "INTI International University 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "INTI International University 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Mekanisme transfer kredit, daftar universitas mitra di AS/Kanada, dan estimasi hemat biaya kuliah.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شرح آلية معادلة الساعات، قائمة الجامعات الأمريكية والكندية الشريكة، ونسب التوفير المالي الكبيرة.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Fasilitas Mahasiswa Internasional di Kota Pelajar Nilai",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around INTI International University",
+        "ar": "تكاليف المعيشة والحياة الطلابية في مدينة نيلاي الجامعية المتكاملة",
+        "zh": "INTI International University 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле INTI International University",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de INTI International University",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en INTI International University",
+        "ja": "INTI International University 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "INTI International University 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Rincian sewa kamar asrama, pengeluaran makan, dan transportasi shuttle bus kampus INTI.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل إيجار السكن الجامعي الداخلي والمطاعم ووسائل التنقل والمرافق الترفيهية.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Program Gelar Ganda Resmi Inggris (Hertfordshire & Coventry) di INTI",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at INTI International University",
+        "ar": "تفاصيل الشهادة المزدوجة مع جامعتي هيرتفوردشاير وكوفنتري البريطانيتين في إنتي",
+        "zh": "INTI International University 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в INTI International University",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à INTI International University",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en INTI International University",
+        "ja": "INTI International University 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "INTI International University 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Keuntungan menerima 2 ijazah kelulusan sekaligus dengan biaya kuliah terjangkau di Malaysia.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "مميزات الحصول على شهادتين معتمدتين للتخرج برسوم دراسية منخفضة ومناهج بريطانية كاملة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "INTI On-Campus Halls of Residence (Nilai)",
+        "nameAr": "مجمع السكن الطلابي الداخلي بحرم نيلاي",
+        "type": "Single & Twin Ensuite Student Rooms",
+        "typeAr": "غرف طلابية فردية ومزدوجة بحمام خاص وتكييف",
+        "priceRange": "RM 500 - RM 1,000 / month",
+        "priceRangeAr": "500 - 1,000 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)",
+        "amenities": [
+          "Wi-Fi Cepat Tanpa Batas",
+          "Lounge Belajar Komunal",
+          "Keamanan 24 Jam & Kartu Akses",
+          "Kantin & Food Court Halal",
+          "Dekat Kompleks Olahraga"
+        ],
+        "amenitiesAr": [
+          "إنترنت غير محدود فائق السرعة",
+          "قاعات استذكار جماعية",
+          "أمن وبوابات ذكية 24 ساعة",
+          "مطاعم وكافتيريات حلال متنوعة",
+          "ملاصق للمجمع الرياضي والمسبح"
+        ]
+      },
+      {
+        "name": "Starz Valley Luxury Student Condominiums",
+        "nameAr": "أبراج ستارز فالي السكنية الفاخرة للطلاب",
+        "type": "Modern Serviced Apartments next to Campus",
+        "typeAr": "شقق فندقية مجهزة بالكامل وملاصقة لبوابة الحرم",
+        "priceRange": "RM 650 - RM 1,200 / month",
+        "priceRangeAr": "650 - 1,200 رينجيت / شهرياً",
+        "distance": "3 menit jalan kaki dari gerbang kampus",
+        "distanceAr": "3 دقائق سيراً على الأقدام من بوابة الجامعة",
+        "distanceEn": "3-minute walk from campus main gate",
+        "amenities": [
+          "Kolam Renang & Gym",
+          "Mini Market & Kafe 24 Jam",
+          "Perabot Lengkap & Dapur",
+          "Keamanan Ketat 24/7",
+          "Akses Kartu Lift Cerdas"
+        ],
+        "amenitiesAr": [
+          "مسبح وصالة ألعاب رياضية",
+          "سوبرماركت ومقاهي على مدار 24 ساعة",
+          "مفروشة بالكامل مع مطبخ متكامل",
+          "حراسة مشددة 24 ساعة",
+          "مصاعد إلكترونية مؤمنة"
+        ]
+      },
+      {
+        "name": "MesaHill Serviced Apartments (Direct Mall Link)",
+        "nameAr": "أبراج ميسا هيل الفندقية المتصلة بالمول التجاري",
+        "type": "Premium Lifestyle Condominiums",
+        "typeAr": "أبراج سكنية عصرية راقية متصلة بمركز تجاري متكامل",
+        "priceRange": "RM 700 - RM 1,300 / month",
+        "priceRangeAr": "700 - 1,300 رينجيت / شهرياً",
+        "distance": "5 menit via Shuttle Bus Kampus",
+        "distanceAr": "5 دقائق عبر حافلة النقل الجامعية المجانية",
+        "distanceEn": "5 mins via Free Campus Shuttle Bus",
+        "amenities": [
+          "Terhubung Langsung MesaMall (Bioskop & Restoran)",
+          "Infinity Pool & Sky Lounge",
+          "Pusat Kebugaran & Jogging Track",
+          "Shuttle Bus Terjadwal ke Kampus",
+          "Keamanan 3-Lapis 24 Jam"
+        ],
+        "amenitiesAr": [
+          "متصل بمول تجاري ضخم وسينما ومطاعم",
+          "مسبح إنفينيتي ولاونج ترفيهي",
+          "نادي لياقة ومضمار للمشي",
+          "باص نقل ترددي منتظم للحرم",
+          "نظام أمني ثلاثي الطبقات"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 500 - RM 1,100"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 500 - RM 800"
+      },
+      {
+        "item": "Transportasi & Shuttle Bus",
+        "itemAr": "المواصلات وحافلات التنقل",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 50 - RM 100"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 70 - RM 130"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 150 - RM 300"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,270 - RM 2,430"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في العلوم والآداب والأعمال",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 16,000 - RM 19,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم التطبيقي المعتمد (أعمال، حوسبة، هندسة)",
+      "duration": "2 - 2.5 Years",
+      "avgFeePerYear": "RM 15,000 - RM 18,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Dual Award / ADTP)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس المزدوج والبرنامج الأمريكي (إدارة، حوسبة، هندسة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 22,000 - RM 34,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في إدارة الأعمال وتقنية المعلومات والعلوم التطبيقية",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 24,000 - RM 32,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في إدارة الأعمال والبحوث الابتكارية المتقدمة",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 20,000 - RM 28,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=uKqtIEZp6xg",
+  "programs": [
+    {
+      "id": "inti-bachelor-of-computer-science",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science",
+      "nameAr": "بكالوريوس علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31867,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31867
+        },
+        {
+          "year": 2,
+          "fee": 31867
+        },
+        {
+          "year": 3,
+          "fee": 31867
+        }
+      ],
+      "totalTuitionFee": 95601,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-hons",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Hons)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28616,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28616
+        },
+        {
+          "year": 2,
+          "fee": 28616
+        },
+        {
+          "year": 3,
+          "fee": 28616
+        }
+      ],
+      "totalTuitionFee": 85848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-hons-major-in-business-analytics",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Hons) major in Business Analytics",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في major in Business Analytics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28616,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28616
+        },
+        {
+          "year": 2,
+          "fee": 28616
+        },
+        {
+          "year": 3,
+          "fee": 28616
+        }
+      ],
+      "totalTuitionFee": 85848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-hons-major-in-cloud-computing",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Hons) major in Cloud Computing",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الحوسبة السحابية",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28616,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28616
+        },
+        {
+          "year": 2,
+          "fee": 28616
+        },
+        {
+          "year": 3,
+          "fee": 28616
+        }
+      ],
+      "totalTuitionFee": 85848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-hons-major-in-mobile-computing",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Hons) major in Mobile Computing",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في major in Mobile Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28616,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28616
+        },
+        {
+          "year": 2,
+          "fee": 28616
+        },
+        {
+          "year": 3,
+          "fee": 28616
+        }
+      ],
+      "totalTuitionFee": 85848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-hons-major-in-network-and-security",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Hons) major in Network and Security",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في major in Network and Security",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28616,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28616
+        },
+        {
+          "year": 2,
+          "fee": 28616
+        },
+        {
+          "year": 3,
+          "fee": 28616
+        }
+      ],
+      "totalTuitionFee": 85848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-hons-major-in-software-engineering",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Hons) major in Software Engineering",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28616,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28616
+        },
+        {
+          "year": 2,
+          "fee": 28616
+        },
+        {
+          "year": 3,
+          "fee": 28616
+        }
+      ],
+      "totalTuitionFee": 85848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-information-technology-hons",
+      "universityId": "inti",
+      "name": "Bachelor of Information Technology (Hons)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25956,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25956
+        },
+        {
+          "year": 2,
+          "fee": 25956
+        },
+        {
+          "year": 3,
+          "fee": 25956
+        }
+      ],
+      "totalTuitionFee": 77868,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-hons-online-learning",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Hons) (online learning)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في online learning",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12917,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12917
+        },
+        {
+          "year": 2,
+          "fee": 12917
+        },
+        {
+          "year": 3,
+          "fee": 12917
+        }
+      ],
+      "totalTuitionFee": 38751,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-in-information-systems-mis",
+      "universityId": "inti",
+      "name": "Master in Information Systems (MIS)",
+      "nameAr": "ماجستير في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41410,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41410
+        }
+      ],
+      "totalTuitionFee": 41410,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-in-information-technology-mit",
+      "universityId": "inti",
+      "name": "Master in Information Technology (MIT)",
+      "nameAr": "ماجستير تقنية المعلومات في MIT",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41410,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41410
+        }
+      ],
+      "totalTuitionFee": 41410,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-in-information-technology-online-learning",
+      "universityId": "inti",
+      "name": "Master in Information Technology (Online Learning)",
+      "nameAr": "ماجستير تقنية المعلومات في Online Learning",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1.2,
+      "annualFee": 33330,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33330
+        }
+      ],
+      "totalTuitionFee": 33330,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-science-in-data-science-by-research",
+      "universityId": "inti",
+      "name": "Master of Science in Data Science (by Research)",
+      "nameAr": "ماجستير العلوم في علم البيانات (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16155,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16155
+        },
+        {
+          "year": 2,
+          "fee": 16155
+        }
+      ],
+      "totalTuitionFee": 32310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-philosophy-phd-information-systems-by-research",
+      "universityId": "inti",
+      "name": "Doctor of Philosophy (PhD) (Information Systems) (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في نظم المعلومات (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-philosophy-phd-innovation-and-technology-by-research",
+      "universityId": "inti",
+      "name": "Doctor of Philosophy (PhD) (Innovation and Technology) (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Innovation and Technology (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-philosophy-phd-in-data-science-by-research",
+      "universityId": "inti",
+      "name": "Doctor of Philosophy (PhD) in Data Science (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في علم البيانات (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-information-technology",
+      "universityId": "inti",
+      "name": "Foundation in Information Technology",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21931,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21931
+        }
+      ],
+      "totalTuitionFee": 21931,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-computer-science",
+      "universityId": "inti",
+      "name": "Diploma in Computer Science",
+      "nameAr": "دبلوم علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23450
+        },
+        {
+          "year": 2,
+          "fee": 23450
+        }
+      ],
+      "totalTuitionFee": 46900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-information-technology",
+      "universityId": "inti",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23240,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21923
+        },
+        {
+          "year": 2,
+          "fee": 21923
+        }
+      ],
+      "totalTuitionFee": 43846,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-information-technology-online-learning",
+      "universityId": "inti",
+      "name": "Diploma in Information Technology (Online Learning)",
+      "nameAr": "دبلوم تقنية المعلومات في Online Learning",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 10709,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10709
+        },
+        {
+          "year": 2,
+          "fee": 10709
+        }
+      ],
+      "totalTuitionFee": 21418,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-computer-science-honours-online-learning",
+      "universityId": "inti",
+      "name": "Bachelor of Computer Science (Honours) (Online Learning)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في Online Learning",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12917,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12917
+        },
+        {
+          "year": 2,
+          "fee": 12917
+        },
+        {
+          "year": 3,
+          "fee": 12917
+        }
+      ],
+      "totalTuitionFee": 38751,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-information-technology-1",
+      "universityId": "inti",
+      "name": "Foundation in Information Technology",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21931,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23218
+        }
+      ],
+      "totalTuitionFee": 23218,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-information-technology-2",
+      "universityId": "inti",
+      "name": "Foundation in Information Technology",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21931,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19591
+        }
+      ],
+      "totalTuitionFee": 19591,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-computer-science-1",
+      "universityId": "inti",
+      "name": "Diploma in Computer Science",
+      "nameAr": "دبلوم علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24410
+        },
+        {
+          "year": 2,
+          "fee": 24410
+        }
+      ],
+      "totalTuitionFee": 48820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-computer-science-2",
+      "universityId": "inti",
+      "name": "Diploma in Computer Science",
+      "nameAr": "دبلوم علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21450
+        },
+        {
+          "year": 2,
+          "fee": 21450
+        }
+      ],
+      "totalTuitionFee": 42900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-information-technology-1",
+      "universityId": "inti",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23240,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23240
+        },
+        {
+          "year": 2,
+          "fee": 23240
+        }
+      ],
+      "totalTuitionFee": 46480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-information-technology-2",
+      "universityId": "inti",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23240,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18780
+        },
+        {
+          "year": 2,
+          "fee": 18780
+        }
+      ],
+      "totalTuitionFee": 37560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-accountancy-honours",
+      "universityId": "inti",
+      "name": "Bachelor of Accountancy (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Accountancy (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24532,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24532
+        },
+        {
+          "year": 2,
+          "fee": 24532
+        },
+        {
+          "year": 3,
+          "fee": 24532
+        },
+        {
+          "year": 4,
+          "fee": 24532
+        }
+      ],
+      "totalTuitionFee": 98128,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-accounting-finance-honours",
+      "universityId": "inti",
+      "name": "Bachelor of Accounting & Finance (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29184,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29184
+        },
+        {
+          "year": 2,
+          "fee": 29184
+        },
+        {
+          "year": 3,
+          "fee": 29184
+        }
+      ],
+      "totalTuitionFee": 87552,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-accounting-and-finance",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Accounting and Finance",
+      "nameAr": "بكالوريوس الآداب في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29836,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29836
+        },
+        {
+          "year": 2,
+          "fee": 29836
+        },
+        {
+          "year": 3,
+          "fee": 29836
+        }
+      ],
+      "totalTuitionFee": 89508,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-accounting-and-finance-1",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Accounting and Finance",
+      "nameAr": "بكالوريوس الآداب في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29836,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25459
+        },
+        {
+          "year": 2,
+          "fee": 25459
+        },
+        {
+          "year": 3,
+          "fee": 25459
+        }
+      ],
+      "totalTuitionFee": 76377,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-accounting-and-finance-2",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Accounting and Finance",
+      "nameAr": "بكالوريوس الآداب في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29836,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22799
+        },
+        {
+          "year": 2,
+          "fee": 22799
+        },
+        {
+          "year": 3,
+          "fee": 22799
+        }
+      ],
+      "totalTuitionFee": 68397,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-business-administration",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Business Administration",
+      "nameAr": "بكالوريوس الآداب في Honours) Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29822,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29822
+        },
+        {
+          "year": 2,
+          "fee": 29822
+        },
+        {
+          "year": 3,
+          "fee": 29822
+        }
+      ],
+      "totalTuitionFee": 89466,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-business-administration-1",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Business Administration",
+      "nameAr": "بكالوريوس الآداب في Honours) Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29822,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25223
+        },
+        {
+          "year": 2,
+          "fee": 25223
+        },
+        {
+          "year": 3,
+          "fee": 25223
+        }
+      ],
+      "totalTuitionFee": 75669,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-business-administration-2",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Business Administration",
+      "nameAr": "بكالوريوس الآداب في Honours) Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29822,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22793
+        },
+        {
+          "year": 2,
+          "fee": 22793
+        },
+        {
+          "year": 3,
+          "fee": 22793
+        }
+      ],
+      "totalTuitionFee": 68379,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-finance",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Finance",
+      "nameAr": "بكالوريوس الآداب في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29822,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29822
+        },
+        {
+          "year": 2,
+          "fee": 29822
+        },
+        {
+          "year": 3,
+          "fee": 29822
+        }
+      ],
+      "totalTuitionFee": 89466,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-marketing",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Marketing",
+      "nameAr": "بكالوريوس الآداب في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29822,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29822
+        },
+        {
+          "year": 2,
+          "fee": 29822
+        },
+        {
+          "year": 3,
+          "fee": 29822
+        }
+      ],
+      "totalTuitionFee": 89466,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-banking-and-finance-honours",
+      "universityId": "inti",
+      "name": "Bachelor of Banking and Finance (Honours)",
+      "nameAr": "بكالوريوس في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28389,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28389
+        },
+        {
+          "year": 2,
+          "fee": 28389
+        },
+        {
+          "year": 3,
+          "fee": 28389
+        }
+      ],
+      "totalTuitionFee": 85167,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-accounting",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Accounting",
+      "nameAr": "بكالوريوس الأعمال في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-business-administration",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Business Administration",
+      "nameAr": "بكالوريوس الأعمال في Honours) Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-digital-enterprise-management",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Digital Enterprise Management",
+      "nameAr": "بكالوريوس الأعمال في Honours) Digital Enterprise Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-finance",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Finance",
+      "nameAr": "بكالوريوس الأعمال في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-human-resource-management",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Human Resource Management",
+      "nameAr": "بكالوريوس الأعمال في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-international-business",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) International Business",
+      "nameAr": "بكالوريوس الأعمال في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-logistics-and-supply-chain-management",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Logistics and Supply Chain Management",
+      "nameAr": "بكالوريوس الأعمال في اللوجستيات وإدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-management",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Management",
+      "nameAr": "بكالوريوس الأعمال في Honours) Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26483,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26483
+        },
+        {
+          "year": 2,
+          "fee": 26483
+        },
+        {
+          "year": 3,
+          "fee": 26483
+        }
+      ],
+      "totalTuitionFee": 79449,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-marketing",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) Marketing",
+      "nameAr": "بكالوريوس الأعمال في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-honours-with-psychology",
+      "universityId": "inti",
+      "name": "Bachelor of Business (Honours) with Psychology",
+      "nameAr": "بكالوريوس الأعمال في علم النفس",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27816,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27816
+        },
+        {
+          "year": 2,
+          "fee": 27816
+        },
+        {
+          "year": 3,
+          "fee": 27816
+        }
+      ],
+      "totalTuitionFee": 83448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-business-information-systems",
+      "universityId": "inti",
+      "name": "Bachelor of Business Information Systems",
+      "nameAr": "بكالوريوس الأعمال في نظم المعلومات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28967,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28967
+        },
+        {
+          "year": 2,
+          "fee": 28967
+        },
+        {
+          "year": 3,
+          "fee": 28967
+        }
+      ],
+      "totalTuitionFee": 86901,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-food-service-management-with-culinary-arts-honours",
+      "universityId": "inti",
+      "name": "Bachelor of Food Service Management with Culinary Arts (Honours)",
+      "nameAr": "بكالوريوس في فنون الطهي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31161,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31161
+        },
+        {
+          "year": 2,
+          "fee": 31161
+        },
+        {
+          "year": 3,
+          "fee": 31161
+        }
+      ],
+      "totalTuitionFee": 93483,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-science-in-business-administration",
+      "universityId": "inti",
+      "name": "Bachelor of Science in Business Administration",
+      "nameAr": "بكالوريوس العلوم في Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 25730,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25730
+        },
+        {
+          "year": 2,
+          "fee": 25730
+        },
+        {
+          "year": 3,
+          "fee": 25730
+        },
+        {
+          "year": 4,
+          "fee": 25730
+        }
+      ],
+      "totalTuitionFee": 102920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-in-education-management",
+      "universityId": "inti",
+      "name": "Master in Education Management",
+      "nameAr": "ماجستير في Master in Education Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41415,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41415
+        }
+      ],
+      "totalTuitionFee": 41415,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-in-education-management-online-learning",
+      "universityId": "inti",
+      "name": "Master in Education Management (Online Learning)",
+      "nameAr": "ماجستير في Master in Education Management (Online Learning",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.2,
+      "annualFee": 33220,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33220
+        }
+      ],
+      "totalTuitionFee": 33220,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-in-health-administration",
+      "universityId": "inti",
+      "name": "Master in Health Administration",
+      "nameAr": "ماجستير في Master in Health Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41398,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41398
+        }
+      ],
+      "totalTuitionFee": 41398,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-business-administration-business-analytics",
+      "universityId": "inti",
+      "name": "Master of Business Administration (Business Analytics)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Business Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41412,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41412
+        }
+      ],
+      "totalTuitionFee": 41412,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-business-administration-mba",
+      "universityId": "inti",
+      "name": "Master of Business Administration (MBA)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في MBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41405,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41405
+        }
+      ],
+      "totalTuitionFee": 41405,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-business-administration-online-learning",
+      "universityId": "inti",
+      "name": "Master of Business Administration (Online Learning)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Online Learning",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.2,
+      "annualFee": 33228,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33228
+        }
+      ],
+      "totalTuitionFee": 33228,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-entrepreneurship-e-commerce",
+      "universityId": "inti",
+      "name": "Master of Entrepreneurship (E-Commerce)",
+      "nameAr": "ماجستير في Master of Entrepreneurship (E-Commerce",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41412,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41412
+        }
+      ],
+      "totalTuitionFee": 41412,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-social-entrepreneurship",
+      "universityId": "inti",
+      "name": "Master of Social Entrepreneurship",
+      "nameAr": "ماجستير في Master of Social Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 40200,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40200
+        }
+      ],
+      "totalTuitionFee": 40200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-business-administration",
+      "universityId": "inti",
+      "name": "Doctor of Business Administration",
+      "nameAr": "دكتوراه في Doctor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-business-administration-online-learning",
+      "universityId": "inti",
+      "name": "Doctor of Business Administration (Online Learning)",
+      "nameAr": "دكتوراه في Doctor of Business Administration (Online Learning",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16800
+        },
+        {
+          "year": 2,
+          "fee": 16800
+        },
+        {
+          "year": 3,
+          "fee": 16800
+        }
+      ],
+      "totalTuitionFee": 50400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-philosophy-phd-financial-technology-by-research",
+      "universityId": "inti",
+      "name": "Doctor of Philosophy (PhD) (Financial Technology) (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Financial Technology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-philosophy-phd-management-by-research",
+      "universityId": "inti",
+      "name": "Doctor of Philosophy (PhD) (Management) (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-accounting",
+      "universityId": "inti",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 21040,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11998
+        },
+        {
+          "year": 2,
+          "fee": 11998
+        }
+      ],
+      "totalTuitionFee": 23996,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-business",
+      "universityId": "inti",
+      "name": "Diploma in Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20217,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21040
+        },
+        {
+          "year": 2,
+          "fee": 21040
+        }
+      ],
+      "totalTuitionFee": 42080,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-business",
+      "universityId": "inti",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 23218,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21931
+        }
+      ],
+      "totalTuitionFee": 21931,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-business-management-flexible-learning",
+      "universityId": "inti",
+      "name": "Diploma in Business Management – Flexible Learning",
+      "nameAr": "دبلوم في Business Management – Flexible Learning",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10891,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10891
+        },
+        {
+          "year": 2,
+          "fee": 10891
+        }
+      ],
+      "totalTuitionFee": 21782,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-financial-informatics",
+      "universityId": "inti",
+      "name": "Diploma In Financial Informatics",
+      "nameAr": "دبلوم في Financial Informatics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23644,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23644
+        },
+        {
+          "year": 2,
+          "fee": 23644
+        }
+      ],
+      "totalTuitionFee": 47288,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-hotel-management",
+      "universityId": "inti",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20071,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24061
+        },
+        {
+          "year": 2,
+          "fee": 24061
+        }
+      ],
+      "totalTuitionFee": 48122,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-marketing",
+      "universityId": "inti",
+      "name": "Diploma in Marketing",
+      "nameAr": "دبلوم في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 19297,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21252
+        },
+        {
+          "year": 2,
+          "fee": 21252
+        }
+      ],
+      "totalTuitionFee": 42504,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-business-administration-dual-award",
+      "universityId": "inti",
+      "name": "Master of Business Administration (Dual Award)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Dual Award",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 47112,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47112
+        }
+      ],
+      "totalTuitionFee": 47112,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-business-online-learning",
+      "universityId": "inti",
+      "name": "Diploma in Business (Online Learning)",
+      "nameAr": "دبلوم في Business (Online Learning",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 9724,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9724
+        },
+        {
+          "year": 2,
+          "fee": 9724
+        }
+      ],
+      "totalTuitionFee": 19448,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-business-management-flexible-learning-1",
+      "universityId": "inti",
+      "name": "Diploma in Business Management – Flexible Learning",
+      "nameAr": "دبلوم في Business Management – Flexible Learning",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10891,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21782
+        },
+        {
+          "year": 2,
+          "fee": 21782
+        }
+      ],
+      "totalTuitionFee": 43564,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-accounting-1",
+      "universityId": "inti",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 21040,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21040
+        },
+        {
+          "year": 2,
+          "fee": 21040
+        }
+      ],
+      "totalTuitionFee": 42080,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-business-1",
+      "universityId": "inti",
+      "name": "Diploma in Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20217,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20217
+        },
+        {
+          "year": 2,
+          "fee": 20217
+        }
+      ],
+      "totalTuitionFee": 40434,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-business-2",
+      "universityId": "inti",
+      "name": "Diploma in Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20217,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18434
+        },
+        {
+          "year": 2,
+          "fee": 18434
+        }
+      ],
+      "totalTuitionFee": 36868,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-business-3",
+      "universityId": "inti",
+      "name": "Diploma in Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20217,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11994
+        },
+        {
+          "year": 2,
+          "fee": 11994
+        }
+      ],
+      "totalTuitionFee": 23988,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-hotel-management-1",
+      "universityId": "inti",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 20071,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20071
+        },
+        {
+          "year": 2,
+          "fee": 20071
+        }
+      ],
+      "totalTuitionFee": 40142,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-marketing-1",
+      "universityId": "inti",
+      "name": "Diploma in Marketing",
+      "nameAr": "دبلوم في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 19297,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19297
+        },
+        {
+          "year": 2,
+          "fee": 19297
+        }
+      ],
+      "totalTuitionFee": 38594,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-business-1",
+      "universityId": "inti",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 23218,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23218
+        }
+      ],
+      "totalTuitionFee": 23218,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-business-2",
+      "universityId": "inti",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 23218,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19591
+        }
+      ],
+      "totalTuitionFee": 19591,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-business-3",
+      "universityId": "inti",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 23218,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-civil-engineering-with-honours",
+      "universityId": "inti",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24962,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24962
+        },
+        {
+          "year": 2,
+          "fee": 24962
+        },
+        {
+          "year": 3,
+          "fee": 24962
+        },
+        {
+          "year": 4,
+          "fee": 24962
+        }
+      ],
+      "totalTuitionFee": 99848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "inti",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24509,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24509
+        },
+        {
+          "year": 2,
+          "fee": 24509
+        },
+        {
+          "year": 3,
+          "fee": 24509
+        },
+        {
+          "year": 4,
+          "fee": 24509
+        }
+      ],
+      "totalTuitionFee": 98036,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-science-in-construction-management-building-information-modelling",
+      "universityId": "inti",
+      "name": "Master of Science in Construction Management (Building Information Modelling)",
+      "nameAr": "ماجستير العلوم في Construction Management (Building Information Modelling",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41415,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41415
+        }
+      ],
+      "totalTuitionFee": 41415,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-science-in-construction-management-building-information-modelling-online-learning",
+      "universityId": "inti",
+      "name": "Master of Science in Construction Management (Building Information Modelling) – (Online Learning)",
+      "nameAr": "ماجستير العلوم في Construction Management (Building Information Modelling) – (Online Learning",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 33220,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33220
+        }
+      ],
+      "totalTuitionFee": 33220,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-science-in-construction-management-facility-management",
+      "universityId": "inti",
+      "name": "Master of Science in Construction Management (Facility Management)",
+      "nameAr": "ماجستير العلوم في Construction Management (Facility Management",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41415,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41415
+        }
+      ],
+      "totalTuitionFee": 41415,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-science-in-innovation-and-technology-by-research",
+      "universityId": "inti",
+      "name": "Master of Science in Innovation and Technology (by Research)",
+      "nameAr": "ماجستير العلوم في Innovation and Technology (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19089,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19089
+        },
+        {
+          "year": 2,
+          "fee": 19089
+        }
+      ],
+      "totalTuitionFee": 38178,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-mechanical-engineering-full-time",
+      "universityId": "inti",
+      "name": "Diploma in Mechanical Engineering (Full Time)",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 23445,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23298
+        },
+        {
+          "year": 2,
+          "fee": 23298
+        }
+      ],
+      "totalTuitionFee": 46596,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-civil-engineering",
+      "universityId": "inti",
+      "name": "Diploma in Civil Engineering",
+      "nameAr": "دبلوم في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 24110,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24110
+        },
+        {
+          "year": 2,
+          "fee": 24110
+        }
+      ],
+      "totalTuitionFee": 48220,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-mechanical-engineering-full-time-1",
+      "universityId": "inti",
+      "name": "Diploma in Mechanical Engineering (Full Time)",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 23445,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23445
+        },
+        {
+          "year": 2,
+          "fee": 23445
+        }
+      ],
+      "totalTuitionFee": 46890,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-mechanical-engineering-full-time-2",
+      "universityId": "inti",
+      "name": "Diploma in Mechanical Engineering (Full Time)",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 23445,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20925
+        },
+        {
+          "year": 2,
+          "fee": 20925
+        }
+      ],
+      "totalTuitionFee": 41850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-science-hons-in-physiotherapy",
+      "universityId": "inti",
+      "name": "Bachelor of Science (Hons) in Physiotherapy",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26257,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26257
+        },
+        {
+          "year": 2,
+          "fee": 26257
+        },
+        {
+          "year": 3,
+          "fee": 26257
+        },
+        {
+          "year": 4,
+          "fee": 26257
+        }
+      ],
+      "totalTuitionFee": 105028,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-traditional-chinese-medicine-hons",
+      "universityId": "inti",
+      "name": "Bachelor of Traditional Chinese Medicine (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Traditional Chinese Medicine (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 28940,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28940
+        },
+        {
+          "year": 2,
+          "fee": 28940
+        },
+        {
+          "year": 3,
+          "fee": 28940
+        },
+        {
+          "year": 4,
+          "fee": 28940
+        },
+        {
+          "year": 5,
+          "fee": 28940
+        }
+      ],
+      "totalTuitionFee": 144700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-in-health-sciences-physiotherapy-by-research",
+      "universityId": "inti",
+      "name": "Master in Health Sciences (Physiotherapy) (by Research)",
+      "nameAr": "ماجستير في العلاج الطبيعي (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        },
+        {
+          "year": 2,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 39600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-science",
+      "universityId": "inti",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21931,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23218
+        }
+      ],
+      "totalTuitionFee": 23218,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-science-1",
+      "universityId": "inti",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21931,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21931
+        }
+      ],
+      "totalTuitionFee": 21931,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-science-2",
+      "universityId": "inti",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21931,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21229
+        }
+      ],
+      "totalTuitionFee": 21229,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-biosciences-degree-program-american-university-program",
+      "universityId": "inti",
+      "name": "Biosciences Degree Program (American University Program)",
+      "nameAr": "برنامج في Biosciences Degree Program (American University Program",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 23006,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23006
+        },
+        {
+          "year": 2,
+          "fee": 23006
+        }
+      ],
+      "totalTuitionFee": 46012,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-biosciences-degree-program-american-university-program-1",
+      "universityId": "inti",
+      "name": "Biosciences Degree Program (American University Program)",
+      "nameAr": "برنامج في Biosciences Degree Program (American University Program",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 23006,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24410
+        },
+        {
+          "year": 2,
+          "fee": 24410
+        }
+      ],
+      "totalTuitionFee": 48820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-in-psychology",
+      "universityId": "inti",
+      "name": "Bachelor of Arts in Psychology",
+      "nameAr": "بكالوريوس الآداب في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26330,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26330
+        },
+        {
+          "year": 2,
+          "fee": 26330
+        },
+        {
+          "year": 3,
+          "fee": 26330
+        },
+        {
+          "year": 4,
+          "fee": 26330
+        }
+      ],
+      "totalTuitionFee": 105320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-in-psychology-1",
+      "universityId": "inti",
+      "name": "Bachelor of Arts in Psychology",
+      "nameAr": "بكالوريوس الآداب في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26330,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20597
+        },
+        {
+          "year": 2,
+          "fee": 20597
+        },
+        {
+          "year": 3,
+          "fee": 20597
+        },
+        {
+          "year": 4,
+          "fee": 20597
+        }
+      ],
+      "totalTuitionFee": 82388,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-education-in-learning-design-and-technology-by-research",
+      "universityId": "inti",
+      "name": "Master of Education in Learning, Design and Technology (by Research)",
+      "nameAr": "ماجستير في Master of Education in Learning, Design and Technology (بالبحث العلمي)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19089,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19089
+        },
+        {
+          "year": 2,
+          "fee": 19089
+        }
+      ],
+      "totalTuitionFee": 38178,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-education",
+      "universityId": "inti",
+      "name": "Doctor of Education",
+      "nameAr": "دكتوراه في Doctor of Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-philosophy-education-by-research",
+      "universityId": "inti",
+      "name": "Doctor of Philosophy (Education) (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education (بالبحث العلمي)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-hons-graphic-design",
+      "universityId": "inti",
+      "name": "Bachelor (Hons) Graphic Design",
+      "nameAr": "بكالوريوس في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30275,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30275
+        },
+        {
+          "year": 2,
+          "fee": 30275
+        },
+        {
+          "year": 3,
+          "fee": 30275
+        }
+      ],
+      "totalTuitionFee": 90825,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-art-honours-interior-architecture-design",
+      "universityId": "inti",
+      "name": "Bachelor of Art (Honours) Interior Architecture & Design",
+      "nameAr": "بكالوريوس في الهندسة المعمارية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 32519,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32519
+        },
+        {
+          "year": 2,
+          "fee": 32519
+        },
+        {
+          "year": 3,
+          "fee": 32519
+        }
+      ],
+      "totalTuitionFee": 97557,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-arts",
+      "universityId": "inti",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 23218,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21931
+        }
+      ],
+      "totalTuitionFee": 21931,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-design",
+      "universityId": "inti",
+      "name": "Foundation in Design",
+      "nameAr": "برنامج تمهيدي في Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 23218,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23218
+        }
+      ],
+      "totalTuitionFee": 23218,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-culinary-arts",
+      "universityId": "inti",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23294,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26063
+        },
+        {
+          "year": 2,
+          "fee": 26063
+        }
+      ],
+      "totalTuitionFee": 52126,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-fashion-design",
+      "universityId": "inti",
+      "name": "Diploma in Fashion Design",
+      "nameAr": "دبلوم في Fashion Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 27191,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27191
+        },
+        {
+          "year": 2,
+          "fee": 27191
+        }
+      ],
+      "totalTuitionFee": 54382,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-graphic-design",
+      "universityId": "inti",
+      "name": "Diploma in Graphic Design",
+      "nameAr": "دبلوم في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 25955,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25955
+        },
+        {
+          "year": 2,
+          "fee": 25955
+        }
+      ],
+      "totalTuitionFee": 51910,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-immersive-design",
+      "universityId": "inti",
+      "name": "Diploma in Immersive Design",
+      "nameAr": "دبلوم في Immersive Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 26238,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26238
+        },
+        {
+          "year": 2,
+          "fee": 26238
+        }
+      ],
+      "totalTuitionFee": 52476,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-interior-design",
+      "universityId": "inti",
+      "name": "Diploma in Interior Design",
+      "nameAr": "دبلوم في التصميم الداخلي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 23319,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23319
+        },
+        {
+          "year": 2,
+          "fee": 23319
+        }
+      ],
+      "totalTuitionFee": 46638,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-culinary-arts-1",
+      "universityId": "inti",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23294,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23294
+        },
+        {
+          "year": 2,
+          "fee": 23294
+        }
+      ],
+      "totalTuitionFee": 46588,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-foundation-in-arts-1",
+      "universityId": "inti",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 23218,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23218
+        }
+      ],
+      "totalTuitionFee": 23218,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-mass-communications",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Mass Communications",
+      "nameAr": "بكالوريوس الآداب في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29499,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29499
+        },
+        {
+          "year": 2,
+          "fee": 29499
+        },
+        {
+          "year": 3,
+          "fee": 29499
+        }
+      ],
+      "totalTuitionFee": 88497,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-mass-communications-1",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Mass Communications",
+      "nameAr": "بكالوريوس الآداب في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29499,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25901
+        },
+        {
+          "year": 2,
+          "fee": 25901
+        },
+        {
+          "year": 3,
+          "fee": 25901
+        }
+      ],
+      "totalTuitionFee": 77703,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-in-communication",
+      "universityId": "inti",
+      "name": "Bachelor of Arts in Communication",
+      "nameAr": "بكالوريوس الآداب في Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 25730,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25730
+        },
+        {
+          "year": 2,
+          "fee": 25730
+        },
+        {
+          "year": 3,
+          "fee": 25730
+        },
+        {
+          "year": 4,
+          "fee": 25730
+        }
+      ],
+      "totalTuitionFee": 102920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-mass-communication-hons",
+      "universityId": "inti",
+      "name": "Bachelor of Mass Communication (Hons)",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26547,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26547
+        },
+        {
+          "year": 2,
+          "fee": 26547
+        },
+        {
+          "year": 3,
+          "fee": 26547
+        }
+      ],
+      "totalTuitionFee": 79641,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-media-and-communication",
+      "universityId": "inti",
+      "name": "Bachelor of Media and Communication",
+      "nameAr": "بكالوريوس في Bachelor of Media and Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31867,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31867
+        },
+        {
+          "year": 2,
+          "fee": 31867
+        },
+        {
+          "year": 3,
+          "fee": 31867
+        }
+      ],
+      "totalTuitionFee": 95601,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-media-and-communication-1",
+      "universityId": "inti",
+      "name": "Bachelor of Media and Communication",
+      "nameAr": "بكالوريوس في Bachelor of Media and Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31867,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25567
+        },
+        {
+          "year": 2,
+          "fee": 25567
+        },
+        {
+          "year": 3,
+          "fee": 25567
+        }
+      ],
+      "totalTuitionFee": 76701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-digital-media",
+      "universityId": "inti",
+      "name": "Diploma in Digital Media",
+      "nameAr": "دبلوم في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 22490,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24978
+        },
+        {
+          "year": 2,
+          "fee": 24978
+        }
+      ],
+      "totalTuitionFee": 49956,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-digital-media-design",
+      "universityId": "inti",
+      "name": "Diploma in Digital Media Design",
+      "nameAr": "دبلوم في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 25188,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25188
+        },
+        {
+          "year": 2,
+          "fee": 25188
+        }
+      ],
+      "totalTuitionFee": 50376,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-mass-communication",
+      "universityId": "inti",
+      "name": "Diploma in Mass Communication",
+      "nameAr": "دبلوم في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23067,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21124
+        },
+        {
+          "year": 2,
+          "fee": 21124
+        }
+      ],
+      "totalTuitionFee": 42248,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-arts-honours-digital-media",
+      "universityId": "inti",
+      "name": "Bachelor of Arts (Honours) Digital Media",
+      "nameAr": "بكالوريوس الآداب في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26547,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26547
+        },
+        {
+          "year": 2,
+          "fee": 26547
+        },
+        {
+          "year": 3,
+          "fee": 26547
+        }
+      ],
+      "totalTuitionFee": 79641,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-digital-media-1",
+      "universityId": "inti",
+      "name": "Diploma in Digital Media",
+      "nameAr": "دبلوم في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 22490,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22490
+        },
+        {
+          "year": 2,
+          "fee": 22490
+        }
+      ],
+      "totalTuitionFee": 44980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-mass-communication-1",
+      "universityId": "inti",
+      "name": "Diploma in Mass Communication",
+      "nameAr": "دبلوم في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23067,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23067
+        },
+        {
+          "year": 2,
+          "fee": 23067
+        }
+      ],
+      "totalTuitionFee": 46134,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-mass-communication-2",
+      "universityId": "inti",
+      "name": "Diploma in Mass Communication",
+      "nameAr": "دبلوم في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23067,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18962
+        },
+        {
+          "year": 2,
+          "fee": 18962
+        }
+      ],
+      "totalTuitionFee": 37924,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-hons-in-fashion-management-and-communication",
+      "universityId": "inti",
+      "name": "Bachelor (Hons) in Fashion Management and Communication",
+      "nameAr": "بكالوريوس في Bachelor (Hons) in Fashion Management and Communication",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30553,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30553
+        },
+        {
+          "year": 2,
+          "fee": 30553
+        },
+        {
+          "year": 3,
+          "fee": 30553
+        }
+      ],
+      "totalTuitionFee": 91659,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-diploma-in-quantity-surveying",
+      "universityId": "inti",
+      "name": "Diploma in Quantity Surveying",
+      "nameAr": "دبلوم في حساب الكميات وإدارة التشييد",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 23687,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23687
+        },
+        {
+          "year": 2,
+          "fee": 23687
+        }
+      ],
+      "totalTuitionFee": 47374,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-biotechnology-hons",
+      "universityId": "inti",
+      "name": "Bachelor of Biotechnology (Hons)",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30863,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30863
+        },
+        {
+          "year": 2,
+          "fee": 30863
+        },
+        {
+          "year": 3,
+          "fee": 30863
+        }
+      ],
+      "totalTuitionFee": 92589,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-bachelor-of-science-hons-quantity-surveying",
+      "universityId": "inti",
+      "name": "Bachelor of Science (Hons) Quantity Surveying",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في حساب الكميات وإدارة التشييد",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 29319,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29319
+        },
+        {
+          "year": 2,
+          "fee": 29319
+        },
+        {
+          "year": 3,
+          "fee": 29319
+        }
+      ],
+      "totalTuitionFee": 87957,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-australian-degree-transfer-programme-science",
+      "universityId": "inti",
+      "name": "Australian Degree Transfer Programme - Science",
+      "nameAr": "برنامج في Australian Degree Transfer Programme - Science",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 28591,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28591
+        },
+        {
+          "year": 2,
+          "fee": 28591
+        }
+      ],
+      "totalTuitionFee": 57182,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-master-of-biotechnological-innovations-and-application-by-research",
+      "universityId": "inti",
+      "name": "Master of Biotechnological Innovations and Application (by Research)",
+      "nameAr": "ماجستير في Master of Biotechnological Innovations and Application (بالبحث العلمي)",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        },
+        {
+          "year": 2,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 39600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "inti-doctor-of-philosophy-phd-applied-physics-by-research",
+      "universityId": "inti",
+      "name": "Doctor of Philosophy (PhD) (Applied Physics) (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Applied Physics (بالبحث العلمي)",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19932,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19932
+        },
+        {
+          "year": 2,
+          "fee": 19932
+        },
+        {
+          "year": 3,
+          "fee": 19932
+        }
+      ],
+      "totalTuitionFee": 59796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 136,
+  "totalProgramsCount": 136
+}

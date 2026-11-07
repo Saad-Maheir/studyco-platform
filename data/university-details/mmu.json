@@ -1,0 +1,3066 @@
+{
+  "id": "mmu",
+  "slug": "multimedia-university-mmu",
+  "name": "Multimedia University (MMU)",
+  "arabicName": "جامعة الوسائط المتعددة (MMU)",
+  "city": "Cyberjaya, Selangor",
+  "cityKey": "city_cyberjaya",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-mmu.webp",
+  "image": "assets/photo/campus_mmu.png",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/k2QUu4MYcpA",
+  "website": "https://www.mmu.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "Top 10 Private Universities in Malaysia (QS Ranked Leader in Digital Tech)",
+  "rankingBadgeKey": "mmu_rank_badge",
+  "established": "1996",
+  "campusName": "Cyberjaya Digital Tech Smart Campus",
+  "studentCount": "14,000+ (70+ Countries)",
+  "intakes": "Mar, Jul, Oct",
+  "feeRangeMin": 5325,
+  "feeRangeMax": 29000,
+  "currency": "MYR",
+  "majors": [
+    "cs",
+    "engineering",
+    "arts",
+    "business",
+    "design",
+    "cinematography"
+  ],
+  "similarUniversities": [
+    "apu",
+    "cyberjaya",
+    "taylors"
+  ],
+  "totalProgramsCount": 77,
+  "description": "Multimedia University (MMU) is Malaysia's first government-linked private university established by Telekom Malaysia (TM), spearheading digital economy education in AI, software engineering, creative multimedia, and cinematic arts.",
+  "descriptionAr": "تُعد جامعة الوسائط المتعددة (MMU) أول جامعة خاصة تابعة للحكومة الماليزية عبر شركة الاتصالات الوطنية (Telekom Malaysia)، وهي رائدة تعليم الاقتصاد الرقمي والذكاء الاصطناعي وهندسة البرمجيات والوسائط المتعددة وفنون السينما.",
+  "about": {
+    "id": "Multimedia University (MMU) didirikan pada tahun 1996 atas inisiatif pemerintah sebagai universitas swasta pertama di Malaysia yang berfokus pada Teknologi Informasi, Multimedia Kreatif, Rekayasa Telekomunikasi, dan Kecerdasan Buatan dengan kampus di Cyberjaya dan Melaka.",
+    "en": "Multimedia University (MMU), established in 1996 in Cyberjaya and Melaka, is Malaysia’s pioneer government-linked digital university, celebrated for Creative Multimedia, Computer Science, AI, and Telecommunications Engineering.",
+    "ar": "تأسست جامعة الوسائط المتعددة (MMU) عام 1996 بمبادرة حكومية لتكون أول جامعة خاصة متخصصة في تكنولوجيا المعلومات والوسائط الإبداعية وهندسة الاتصالات والذكاء الاصطناعي مع حرمين في سايبرجايا وملاكا.",
+    "zh": "多媒体大学（MMU）创立于1996年，是马来西亚政府直属创立的第一所高新数字科技名校，在赛城与马六甲建有双校区，创意多媒体设计、计算机科学与通信工程名列全马前茅。",
+    "ru": "Мультимедийный университет (MMU) с кампусами в Киберджае и Малакке — пионер цифрового образования Малайзии в области мультимедиа, IT и телекоммуникаций.",
+    "fr": "La Multimedia University (MMU) à Cyberjaya et Melaka est l'université numérique pionnière de Malaisie, réputée pour le multimédia créatif, l'informatique et les télécommunications.",
+    "es": "La Multimedia University (MMU), con sedes en Cyberjaya y Melaka, es la universidad digital pionera de Malasia, líder en multimedia creativo, informática y telecomunicaciones.",
+    "ja": "マルチメディア大学（MMU）は1996年に創立されたマレーシア初の公的デジタル情報大学であり、サイバージャヤとマラッカでクリエイティブ・マルチメディアや通信工学を牽引。",
+    "ko": "멀티미디어 대학교(MMU)는 1996년에 정부 주도로 설립된 말레이시아 최초의 디지털 IT 특성화 대학으로, 사이버자야와 멜라카 캠퍼스에서 창의 멀티미디어, 컴퓨터과학, AI 연구를 선도하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "ai",
+      "title": {
+        "id": "Pusat Riset Kecerdasan Buatan (AI) & Robotika TM",
+        "en": "Telekom Malaysia AI & Robotics Innovation Centre",
+        "ar": "مركز أبحاث الذكاء الاصطناعي والروبوتات المتقدم التابع لشركة تيليكوم ماليزيا",
+        "ko": "텔레콤 말레이시아 공인 AI 및 로봇 혁신 센터",
+        "ja": "テレコム・マレーシア公認AI・ロボティクス革新センター",
+        "zh": "马来西亚电讯公司(TM)人工智能与智能机器人前沿创新中心",
+        "ru": "Центр инноваций в сфере ИИ и робототехники Telekom Malaysia",
+        "fr": "Centre d'innovation en IA et robotique de Telekom Malaysia",
+        "es": "Centro de Innovación en IA y Robótica de Telekom Malaysia"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Panggung Produksi Sinematografi & Suara Digital",
+        "en": "Cinematic Arts Soundstages & Dolby Audio Production Suites",
+        "ar": "استوديوهات الإنتاج السينمائي الرقمي وأجنحة الصوت المعتمدة من دولبي",
+        "ko": "시네마틱 영화 촬영 스튜디오 및 돌비 디지털 오디오 믹싱 룸",
+        "ja": "映画芸術大型撮影スタジオおよびドルビー音響制作スイート",
+        "zh": "影视艺术全真摄影棚与杜比全景声专业级后期音频制作中心",
+        "ru": "Кинематографические съемочные павильоны и студии звука Dolby",
+        "fr": "Plateaux de tournage cinématographique et suites audio Dolby",
+        "es": "Plataformas de Rodaje Cinematográfico y Estudios de Audio Dolby"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Studio Motion Capture & Realitas Virtual (XR/VR)",
+        "en": "Motion Capture & Extended Reality (XR/VR) Lab",
+        "ar": "مختبرات التقاط الحركة ثلاثية الأبعاد واستوديوهات الواقع الافتراضي الممتد",
+        "ko": "모션 캡처 및 확장 현실(XR/VR) 전문 실습 랩",
+        "ja": "モーションキャプチャーおよび拡張現実（XR/VR）専門ラボ",
+        "zh": "动作捕捉系统与扩展现实(XR/VR)交互体验多媒体实验室",
+        "ru": "Лаборатория захвата движения (MoCap) и расширенной реальности (XR/VR)",
+        "fr": "Laboratoire de capture de mouvement et de réalité étendue (XR/VR)",
+        "es": "Laboratorio de Captura de Movimiento y Realidad Extendida (XR/VR)"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium FinTech & Inkubator Startup Digital",
+        "en": "FinTech Innovation Lab & Digital Startup Incubator",
+        "ar": "مختبر التكنولوجيا المالية وحاضنة الأعمال الرقمية والشركات الناشئة",
+        "ko": "핀테크 혁신 실험실 및 디지털 스타트업 육성 인큐베이터",
+        "ja": "フィンテック革新実験室およびデジタルスタートアップ孵化センター",
+        "zh": "金融科技创新应用实验室与数字化初创企业孵化基地",
+        "ru": "Лаборатория финтеха и инкубатор цифровых стартапов",
+        "fr": "Laboratoire d'innovation FinTech et incubateur de startups",
+        "es": "Laboratorio de Innovación FinTech e Incubadora de Startups Digitales"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Pionir Universitas Digital Pertama Milik Telekom Malaysia (TM)",
+        "en": "Malaysia's First Government-Linked Digital Tech University (TM)",
+        "ar": "أول صرح جامعي رقمي تابع لشركة الاتصالات الوطنية تيليكوم ماليزيا",
+        "ko": "말레이시아 국영 통신 대기업 TM 직영 최초의 디지털 기술 대학교",
+        "ja": "マレーシア最大手通信企業TM直営の第1号公的デジタル工科大学",
+        "zh": "由马来西亚国家电讯巨头(TM)全资创办的首所数码科技先锋大学",
+        "ru": "Первый цифровой университет Малайзии при поддержке Telekom Malaysia",
+        "fr": "Première université de technologie numérique liée à l'État malaisien (TM)",
+        "es": "Primera universidad tecnológica digital vinculada al gobierno de Malasia (TM)"
+      },
+      "desc": {
+        "id": "Melahirkan ribuan pemimpin industri teknologi, animator internasional, dan arsitek transformasi digital di Asia.",
+        "en": "Produced thousands of technology leaders, world-class animators, and digital pioneers across Asia.",
+        "ar": "خرّجت آلاف القادة في قطاع التكنولوجيا والمصممين العالميين ورواد التحول الرقمي.",
+        "ko": "아시아 전역의 수많은 IT 리더, 국제 애니메이터 및 디지털 혁신 전문가 배출.",
+        "ja": "アジア全域に数多くのITリーダー、世界的人気アニメクリエイターを輩出。",
+        "zh": "培育了数以千计的亚洲科技行业领袖、国际知名动画制作人与数码转型开拓者。",
+        "ru": "Выпустила тысячи технологических лидеров и всемирно известных аниматоров.",
+        "fr": "A formé des milliers de leaders de la tech et d'animateurs de renommée mondiale.",
+        "es": "Ha formado a miles de líderes tecnológicos y animadores de renombre mundial."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Fakultas Multimedia Kreatif & Seni Sinematik Paling Terkenal",
+        "en": "Globally Renowned Faculty of Creative Multimedia & Cinema",
+        "ar": "كلية الوسائط المتعددة الإبداعية وفنون السينما الأشهر عالمياً",
+        "ko": "세계적인 명성의 크리에이티브 멀티미디어 및 영화 예술 학부",
+        "ja": "世界的に高い評価を受けるクリエイティブ・マルチメディア・映画芸術学部",
+        "zh": "享誉全球的创意多媒体与电影艺术学院（亚洲数字艺术摇篮）",
+        "ru": "Всемирно известный факультет креативных мультимедиа и кинематографии",
+        "fr": "Faculté de renommée mondiale en multimédia créatif et cinéma",
+        "es": "Facultad de renombre mundial en multimedia creativa y artes cinematográficas"
+      },
+      "desc": {
+        "id": "Pusat lahirnya film animasi pemenang penghargaan dan karya kreatif digital yang mendunia.",
+        "en": "The powerhouse behind award-winning blockbuster animations and international digital creative works.",
+        "ar": "المصنع الحقيقي لأشهر أفلام الرسوم المتحركة والإنتاجات الرقمية الحائزة على جوائز دولية.",
+        "ko": "국제 유수 영화제 수상작 애니메이션과 글로벌 디지털 콘텐츠를 창작해내는 산실.",
+        "ja": "国際映画祭で数々の栄誉に輝く名作アニメーションやデジタル作品を生み出す拠点。",
+        "zh": "斩获多项国际大奖的知名商业动画作品与全球数字创意爆款的诞生地与孵化地。",
+        "ru": "Родина отмеченных наградами анимационных фильмов и цифрового контента.",
+        "fr": "Le berceau d'animations primées et de créations numériques internationales.",
+        "es": "Cuna de exitosas producciones de animación premiadas a nivel internacional."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kurikulum Komputer & Rekayasa Perangkat Lunak Berstandar Industri",
+        "en": "Industry-Driven Software Engineering & Computing Curricula",
+        "ar": "مناهج هندسة البرمجيات وعلوم الحاسوب المطابقة لأحدث معايير الشركات العالمية",
+        "ko": "글로벌 테크 기업 표준에 부합하는 최첨단 소프트웨어 공학 커리큘럼",
+        "ja": "世界基準のIT企業ニーズに直結した最新ソフトウェア工学カリキュラム",
+        "zh": "无缝对标全球科技巨头实战需求的软件工程与计算机科学培养体系",
+        "ru": "Практико-ориентированные программы по разработке ПО и вычислениям",
+        "fr": "Programmes de génie logiciel et d'informatique axés sur l'industrie",
+        "es": "Planes de estudio de ingeniería de software e informática orientados a la industria"
+      },
+      "desc": {
+        "id": "Bekerja sama erat dengan AWS, Cisco, Microsoft, dan Huawei untuk sertifikasi profesional langsung.",
+        "en": "Direct professional certifications integrated with AWS, Cisco, Microsoft, and Huawei.",
+        "ar": "شهادات احترافية مدمجة مباشرة بالشراكة مع أمازون AWS وسيسكو ومايكروسوفت وهواوي.",
+        "ko": "AWS, 시스코, 마이크로소프트, 화웨이와의 직통 공인 자격증 취득 과정 통합 운영.",
+        "ja": "AWS、シスコ、マイクロソフト、ファーウェイなどの国際認定資格をカリキュラムに完全統合。",
+        "zh": "深度整合AWS、思科、微软及华为官方权威行业认证，打造实战型技术专家。",
+        "ru": "Интегрированная сертификация от ведущих IT-гигантов: AWS, Cisco, Microsoft и Huawei.",
+        "fr": "Certifications professionnelles intégrées avec AWS, Cisco, Microsoft et Huawei.",
+        "es": "Certificaciones profesionales integradas con gigantes tecnológicos como AWS, Cisco y Microsoft."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Biaya Kuliah Ramah Kantong dengan Kualitas Pendidikan Top",
+        "en": "Highly Affordable Tuition with World-Class Academic Standards",
+        "ar": "رسوم دراسية ميسرة للغاية مع أعلى معايير الجودة الأكاديمية",
+        "ko": "합리적인 학비로 누리는 세계적 수준의 디지털 공학 및 미디어 교육",
+        "ja": "極めて良心的な学費で受講できるハイレベルなデジタル技術・メディア教育",
+        "zh": "以亲民经济的学费预算尊享世界级前沿数码科技与数字媒体高等教育",
+        "ru": "Доступная стоимость обучения при высоком академическом качестве",
+        "fr": "Frais de scolarité abordables pour une formation d'excellence mondiale",
+        "es": "Matrículas muy accesibles con estándares académicos de clase mundial"
+      },
+      "desc": {
+        "id": "Biaya kuliah tahunan yang terjangkau memberikan nilai investasi terbaik bagi mahasiswa internasional.",
+        "en": "Exceptional educational ROI with manageable living expenses in modern Cyberjaya.",
+        "ar": "أفضل عائد استثماري تعليمي مع مصاريف معيشية موفرة في مدينة سايبرجايا العصرية.",
+        "ko": "쾌적하고 안전한 사이버자야에서 최소한의 생활비로 최상의 교육 가치 실현.",
+        "ja": "快適なスマートシティ・サイバージャヤで費用対効果抜群の留学体験を提供。",
+        "zh": "在现代宜居的智能新城赛城，以极为可控的综合开销获取卓越的学业回报。",
+        "ru": "Высокая отдача от инвестиций в образование при умеренных расходах на жизнь.",
+        "fr": "Excellent retour sur investissement éducatif avec un coût de la vie maîtrisé.",
+        "es": "Excelente relación calidad-precio con un costo de vida asequible en Cyberjaya."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Multimedia University (MMU) internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة الوسائط المتعددة (MMU) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Multimedia University (MMU) diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Multimedia University (MMU) is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة الوسائط المتعددة (MMU) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Multimedia University (MMU) terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Multimedia University (MMU)?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة الوسائط المتعددة (MMU)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Multimedia University (MMU)?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Multimedia University (MMU)?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة الوسائط المتعددة (MMU)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Multimedia University (MMU)?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Multimedia University (MMU) without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Panduan Jurusan Teknologi Informasi, AI & Multimedia di MMU",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Multimedia University (MMU)",
+        "ar": "دليل تخصصات الذكاء الاصطناعي والحاسوب والوسائط في جامعة MMU",
+        "zh": "Multimedia University (MMU) 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Multimedia University (MMU)",
+        "fr": "Guide complet d'admission et visa étudiant pour Multimedia University (MMU)",
+        "es": "Guía completa de admisión y visado de estudiante para Multimedia University (MMU)",
+        "ja": "Multimedia University (MMU) 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Multimedia University (MMU) 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Mengapa MMU menjadi rujukan utama industri teknologi digital di Asia Tenggara.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "أسباب تفوق جامعة MMU كمركز لصناعة التكنولوجيا والاقتصاد الرقمي في آسيا.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Biaya Hidup & Akomodasi Mahasiswa di Sekitar Kampus MMU Cyberjaya",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Multimedia University (MMU)",
+        "ar": "تكاليف المعيشة وخيارات السكن حول حرم جامعة MMU في سايبرجايا",
+        "zh": "Multimedia University (MMU) 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Multimedia University (MMU)",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Multimedia University (MMU)",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Multimedia University (MMU)",
+        "ja": "Multimedia University (MMU) 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Multimedia University (MMU) 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Estimasi biaya sewa Cyberia Crescent, transportasi, dan kemudahan fasilitas di Cyberjaya.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل نفقات السكن في مجمع سايبريا والمطاعم والتنقل اليومي.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Peluang Beasiswa Telekom Malaysia (TM) & Potongan Biaya di MMU",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Multimedia University (MMU)",
+        "ar": "المنح الدراسية المقدمة من شركة TM وخصومات الرسوم في جامعة MMU",
+        "zh": "Multimedia University (MMU) 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Multimedia University (MMU)",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Multimedia University (MMU)",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Multimedia University (MMU)",
+        "ja": "Multimedia University (MMU) 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Multimedia University (MMU) 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Skema potongan biaya kuliah berdasarkan nilai ijazah dan prestasi akademik.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "فرص الحصول على منح جزئية وتخفيضات في الرسوم بناءً على التميز الدراسي.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "MMU On-Campus Student Hostels",
+        "nameAr": "السكن الطلابي الداخلي المعتمد بحرم MMU",
+        "type": "On-Campus Single & Twin Rooms",
+        "typeAr": "غرف فردية ومزدوجة آمنة داخل الحرم",
+        "priceRange": "RM 350 - RM 750 / month",
+        "priceRangeAr": "350 - 750 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "amenities": [
+          "Wi-Fi Kampus Cepat",
+          "Kantin Halal 24 Jam",
+          "Dekat Perpustakaan",
+          "Akses Lapangan Olahraga",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "إنترنت جامعي سريع",
+          "مطاعم حلال",
+          "قريب من المكتبة",
+          "ملاعب رياضية",
+          "حراسة 24 ساعة"
+        ],
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)"
+      },
+      {
+        "name": "Cyberia Crescent Condominiums",
+        "nameAr": "أبراج شقق سايبريا كريسنت السكنية",
+        "type": "Private Condominium Opposite Campus",
+        "typeAr": "أبراج سكنية طلابية مجهزة مقابل بوابة الحرم مباشرة",
+        "priceRange": "RM 450 - RM 950 / month",
+        "priceRangeAr": "450 - 950 رينجيت / شهرياً",
+        "distance": "2 menit jalan kaki dari gerbang MMU",
+        "amenities": [
+          "Kolam Renang",
+          "Pusat Gym",
+          "Perabot Lengkap",
+          "Minimarket & Kafe",
+          "Keamanan 24 Jam"
+        ],
+        "amenitiesAr": [
+          "مسبح",
+          "صالة لياقة",
+          "مفروشة بالكامل",
+          "سوبرماركت ومقاهي",
+          "أمن 24 ساعة"
+        ],
+        "distanceAr": "3 دقائق سيراً على الأقدام من بوابة الحرم",
+        "distanceEn": "3-minute walk from campus gate"
+      },
+      {
+        "name": "The Place Cyberjaya Modern Suites",
+        "nameAr": "أبراج ذا بليس الفندقية العصرية بسايبرجايا",
+        "type": "Modern Duplex & Studio Suites",
+        "typeAr": "استوديوهات ودوبلكس حديث فاخر",
+        "priceRange": "RM 700 - RM 1,300 / month",
+        "priceRangeAr": "700 - 1,300 رينجيت / شهرياً",
+        "distance": "4 menit jalan kaki dari kampus",
+        "amenities": [
+          "Desain Duplex Modern",
+          "Infinity Pool",
+          "Sky Garden",
+          "Akses Transportasi Mudah",
+          "Keamanan Kartu Akses"
+        ],
+        "amenitiesAr": [
+          "تصميم دوبلكس عصري",
+          "مسبح معلق",
+          "حديقة سماوية",
+          "مواصلات قريبة",
+          "بطاقات دخول ذكية"
+        ],
+        "distanceAr": "5 دقائق سيراً على الأقدام إلى الحرم الجامعي",
+        "distanceEn": "5-minute walk to campus"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 400 - RM 950",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 500 - RM 800",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi Lokal",
+        "itemAr": "المواصلات والتنقل",
+        "cost": "RM 50 - RM 100",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "cost": "RM 60 - RM 120",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "cost": "RM 150 - RM 300",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,160 - RM 2,270",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في تقنية المعلومات والوسائط الرقمية",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 16,000 - RM 19,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم الرقمي (أنيميشن، تقنية معلومات، وسائط)",
+      "duration": "2 - 2.5 Years",
+      "avgFeePerYear": "RM 15,000 - RM 18,000"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس (علوم حاسب، ذكاء اصطناعي، ألعاب، سينما)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 20,000 - RM 27,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في الوسائط المتعددة وهندسة الحاسوب وإدارة الأعمال",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 22,000 - RM 28,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في تقنية المعلومات وهندسة الوسائط الرقمية",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 18,000 - RM 24,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=k2QUu4MYcpA",
+  "programs": [
+    {
+      "id": "mmu-diploma-in-information-technology",
+      "universityId": "mmu",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 15500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 31000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-computer-science-hons-in-software-engineering",
+      "universityId": "mmu",
+      "name": "Bachelor of Computer Science (Hons.) in Software Engineering",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-information-technology-honours",
+      "universityId": "mmu",
+      "name": "Bachelor of Information Technology (Honours)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-information-technology-hons-data-communications-and-networking",
+      "universityId": "mmu",
+      "name": "Bachelor of Information Technology (Hons.) Data Communications and Networking",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في اتصالات البيانات والشبكات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-computer-science-hons-artificial-intelligence",
+      "universityId": "mmu",
+      "name": "Bachelor of Computer Science (Hons.) Artificial Intelligence",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-information-technology-hons-security-technology",
+      "universityId": "mmu",
+      "name": "Bachelor of Information Technology (Hons.) Security Technology",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في تقنية الأمن والحماية",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jun, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-information-technology-hons-business-intelligence-and-analytics",
+      "universityId": "mmu",
+      "name": "Bachelor of Information Technology (Hons.) Business Intelligence and Analytics",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في ذكاء الأعمال وتحليل البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-computer-science-hons-in-game-development",
+      "universityId": "mmu",
+      "name": "Bachelor of Computer Science (Hons.) in Game Development",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في تطوير الألعاب الإلكترونية",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-computer-science-hons-in-data-science",
+      "universityId": "mmu",
+      "name": "Bachelor of Computer Science (Hons.) in Data Science",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-computer-science-hons-cybersecurity",
+      "universityId": "mmu",
+      "name": "Bachelor of Computer Science (Hons.) Cybersecurity",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-engineering-science-by-research",
+      "universityId": "mmu",
+      "name": "Master of Engineering Science (BY RESEARCH)",
+      "nameAr": "ماجستير علوم الهندسة (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 6150,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6150
+        }
+      ],
+      "totalTuitionFee": 6150,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-computing-by-research",
+      "universityId": "mmu",
+      "name": "Master of Computing (By Research)",
+      "nameAr": "ماجستير في Master of Computing (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 6150,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6150
+        }
+      ],
+      "totalTuitionFee": 6150,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-doctor-of-philosophy-ph-d-in-computing-by-research",
+      "universityId": "mmu",
+      "name": "Doctor of Philosophy (Ph.D.) in Computing (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computing (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 6375,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6375
+        },
+        {
+          "year": 2,
+          "fee": 6375
+        }
+      ],
+      "totalTuitionFee": 12750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-science-honours-in-applied-artificial-intelligence",
+      "universityId": "mmu",
+      "name": "Bachelor of Science (Honours) in Applied Artificial Intelligence",
+      "nameAr": "بكالوريوس العلوم في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-foundation-in-computing",
+      "universityId": "mmu",
+      "name": "Foundation in Computing",
+      "nameAr": "برنامج تمهيدي في علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-information-technology-via-online-degree-by-coursework",
+      "universityId": "mmu",
+      "name": "Master of Information Technology via Online Degree (By Coursework)",
+      "nameAr": "ماجستير تقنية المعلومات في via أونلاين (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 9200,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9200
+        },
+        {
+          "year": 2,
+          "fee": 9200
+        }
+      ],
+      "totalTuitionFee": 18400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-in-computer-science-by-coursework",
+      "universityId": "mmu",
+      "name": "Master in Computer Science (By Coursework)",
+      "nameAr": "ماجستير علوم الحاسب (بالمقررات الدراسية)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29000
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-business-management-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Business Management (Hons.)",
+      "nameAr": "بكالوريوس الأعمال في Management (Hons.",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-foundation-in-management",
+      "universityId": "mmu",
+      "name": "Foundation in Management",
+      "nameAr": "برنامج تمهيدي في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-foundation-in-business",
+      "universityId": "mmu",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-digital-business",
+      "universityId": "mmu",
+      "name": "Diploma in Digital Business",
+      "nameAr": "دبلوم في Digital Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 14500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14500
+        },
+        {
+          "year": 2,
+          "fee": 14500
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-management",
+      "universityId": "mmu",
+      "name": "Diploma in Management",
+      "nameAr": "دبلوم في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 14500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14500
+        },
+        {
+          "year": 2,
+          "fee": 14500
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-finance",
+      "universityId": "mmu",
+      "name": "Diploma in Finance",
+      "nameAr": "دبلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 14500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14500
+        },
+        {
+          "year": 2,
+          "fee": 14500
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-accounting-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Accounting (Hons.)",
+      "nameAr": "بكالوريوس المحاسبة (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28667
+        },
+        {
+          "year": 2,
+          "fee": 28667
+        },
+        {
+          "year": 3,
+          "fee": 28667
+        }
+      ],
+      "totalTuitionFee": 86001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-marketing-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Marketing (Hons.)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-digital-enterprise-management-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Digital Enterprise Management (Hons.)",
+      "nameAr": "بكالوريوس في Bachelor of Digital Enterprise Management (Hons.",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-business-administration",
+      "universityId": "mmu",
+      "name": "Diploma in Business Administration",
+      "nameAr": "دبلوم إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 14500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14500
+        },
+        {
+          "year": 2,
+          "fee": 14500
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-accounting",
+      "universityId": "mmu",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 17500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17500
+        },
+        {
+          "year": 2,
+          "fee": 17500
+        }
+      ],
+      "totalTuitionFee": 35000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-business-administration-hons-banking-and-finance",
+      "universityId": "mmu",
+      "name": "Bachelor of Business Administration (Hons.) Banking and Finance",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-business-administration-hons-human-resource-management",
+      "universityId": "mmu",
+      "name": "Bachelor of Business Administration (Hons.) Human Resource Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-business-administration-hons-international-business",
+      "universityId": "mmu",
+      "name": "Bachelor of Business Administration (Hons.) International Business",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-business-administration-hons-marketing-management",
+      "universityId": "mmu",
+      "name": "Bachelor of Business Administration (Hons.) Marketing Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-business-administration-hons-digital-business-management",
+      "universityId": "mmu",
+      "name": "Bachelor of Business Administration (Hons.) Digital Business Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Digital Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-business-administration-by-coursework",
+      "universityId": "mmu",
+      "name": "Master of Business Administration (BY COURSEWORK)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 23600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Apr, Jul, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23600
+        }
+      ],
+      "totalTuitionFee": 23600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-business-administration-by-coursework-1",
+      "universityId": "mmu",
+      "name": "Master of Business Administration (BY COURSEWORK)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 23600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Apr, Jul, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23600
+        }
+      ],
+      "totalTuitionFee": 23600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-executive-master-of-business-administration-online-degree",
+      "universityId": "mmu",
+      "name": "Executive Master of Business Administration - Online Degree",
+      "nameAr": "الماجستير التنفيذي في إدارة الأعمال (EMBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Apr, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 16500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-philosophy-management-by-research",
+      "universityId": "mmu",
+      "name": "Master of Philosophy (Management) (BY RESEARCH)",
+      "nameAr": "ماجستير في Master of Philosophy (Management (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 8100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8100
+        }
+      ],
+      "totalTuitionFee": 8100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-doctor-of-philosophy-management-by-research",
+      "universityId": "mmu",
+      "name": "Doctor of Philosophy (Management) (BY RESEARCH)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 7350,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 7350
+        },
+        {
+          "year": 2,
+          "fee": 7350
+        }
+      ],
+      "totalTuitionFee": 14700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-doctor-of-business-administration-by-coursework-and-dissertation",
+      "universityId": "mmu",
+      "name": "Doctor of Business Administration (By Coursework and Dissertation)",
+      "nameAr": "دكتوراه في Doctor of Business Administration (By Coursework and Dissertation",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 9200,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Apr, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9200
+        },
+        {
+          "year": 2,
+          "fee": 9200
+        },
+        {
+          "year": 3,
+          "fee": 9200
+        }
+      ],
+      "totalTuitionFee": 27600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-management-hons-online-degree",
+      "universityId": "mmu",
+      "name": "Bachelor of Management (Hons.) – Online Degree",
+      "nameAr": "بكالوريوس في Management (Hons.) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 8400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8400
+        },
+        {
+          "year": 2,
+          "fee": 8400
+        },
+        {
+          "year": 3,
+          "fee": 8400
+        },
+        {
+          "year": 4,
+          "fee": 8400
+        },
+        {
+          "year": 5,
+          "fee": 8400
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-foundation-in-engineering",
+      "universityId": "mmu",
+      "name": "Foundation in Engineering",
+      "nameAr": "برنامج تمهيدي في الهندسة",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-science-hons-intelligent-robotics",
+      "universityId": "mmu",
+      "name": "Bachelor of Science (Hons.) Intelligent Robotics",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Intelligent Robotics",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-electrical-and-electronics-engineering-with-honour",
+      "universityId": "mmu",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honour",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        },
+        {
+          "year": 4,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 104000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-engineering-hons-electronics",
+      "universityId": "mmu",
+      "name": "Bachelor of Engineering (Hons.) Electronics",
+      "nameAr": "بكالوريوس الهندسة (مع مرتبة الشرف) في Electronics",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        },
+        {
+          "year": 4,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 104000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-engineering-hons-electronics-majoring-in-telecommunications",
+      "universityId": "mmu",
+      "name": "Bachelor of Engineering (Hons.) Electronics majoring in Telecommunications",
+      "nameAr": "بكالوريوس الهندسة (مع مرتبة الشرف) في هندسة الاتصالات",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        },
+        {
+          "year": 4,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 104000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-engineering-hons-electronics-majoring-in-computer",
+      "universityId": "mmu",
+      "name": "Bachelor of Engineering (Hons.) Electronics majoring in Computer",
+      "nameAr": "بكالوريوس الهندسة (مع مرتبة الشرف) في Electronics majoring in Computer",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        },
+        {
+          "year": 4,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 104000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-electronic-engineering",
+      "universityId": "mmu",
+      "name": "Diploma in Electronic Engineering",
+      "nameAr": "دبلوم في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.9,
+      "annualFee": 17000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17000
+        },
+        {
+          "year": 2,
+          "fee": 17000
+        }
+      ],
+      "totalTuitionFee": 34000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-mechanical-engineering",
+      "universityId": "mmu",
+      "name": "Diploma in Mechanical Engineering",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.9,
+      "annualFee": 17000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17000
+        },
+        {
+          "year": 2,
+          "fee": 17000
+        }
+      ],
+      "totalTuitionFee": 34000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-electronics-engineering-robotics-automation-with-honours",
+      "universityId": "mmu",
+      "name": "Bachelor of Electronics Engineering (Robotics & Automation) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        },
+        {
+          "year": 4,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 104000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-engineering-hons-mechanical",
+      "universityId": "mmu",
+      "name": "Bachelor of Engineering (Hons.) Mechanical",
+      "nameAr": "بكالوريوس الهندسة (مع مرتبة الشرف) في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        },
+        {
+          "year": 4,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 104000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-engineering-telecommunications-by-coursework",
+      "universityId": "mmu",
+      "name": "Master of Engineering (Telecommunications) (BY COURSEWORK)",
+      "nameAr": "ماجستير الهندسة في هندسة الاتصالات (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 25875,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Apr, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25875
+        }
+      ],
+      "totalTuitionFee": 25875,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-science-in-engineering-business-management-by-coursework",
+      "universityId": "mmu",
+      "name": "Master of Science in Engineering Business Management (BY COURSEWORK)",
+      "nameAr": "ماجستير العلوم في Engineering Business Management (بالمقررات الدراسية)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 25250,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Apr, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25250
+        }
+      ],
+      "totalTuitionFee": 25250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-doctor-of-philosophy-engineering-by-research",
+      "universityId": "mmu",
+      "name": "Doctor of Philosophy (Engineering) (BY RESEARCH)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 6375,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6375
+        },
+        {
+          "year": 2,
+          "fee": 6375
+        }
+      ],
+      "totalTuitionFee": 12750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-digital-technology-honours",
+      "universityId": "mmu",
+      "name": "Bachelor of Digital Technology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Digital Technology (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-foundation-in-science-and-technology",
+      "universityId": "mmu",
+      "name": "Foundation in Science and Technology",
+      "nameAr": "برنامج تمهيدي في العلوم في and Technology",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-analytical-economics-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Analytical Economics (Hons.)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-finance-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Finance (Hons.)",
+      "nameAr": "بكالوريوس المالية (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24667
+        },
+        {
+          "year": 2,
+          "fee": 24667
+        },
+        {
+          "year": 3,
+          "fee": 24667
+        }
+      ],
+      "totalTuitionFee": 74001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-laws-by-research",
+      "universityId": "mmu",
+      "name": "Master of Laws (BY RESEARCH)",
+      "nameAr": "ماجستير في القانون والحقوق (بالبحث العلمي)",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 6300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6300
+        },
+        {
+          "year": 2,
+          "fee": 6300
+        }
+      ],
+      "totalTuitionFee": 12600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-doctor-of-philosophy-laws-by-research",
+      "universityId": "mmu",
+      "name": "Doctor of Philosophy (Laws) (BY RESEARCH)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في القانون والحقوق (بالبحث العلمي)",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 6400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6400
+        },
+        {
+          "year": 2,
+          "fee": 6400
+        },
+        {
+          "year": 3,
+          "fee": 6400
+        }
+      ],
+      "totalTuitionFee": 19200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-foundation-in-creative-multimedia",
+      "universityId": "mmu",
+      "name": "Foundation in Creative Multimedia",
+      "nameAr": "برنامج تمهيدي في الوسائط المتعددة الإبداعية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-3d-modelling-animation",
+      "universityId": "mmu",
+      "name": "Diploma in 3D Modelling & Animation",
+      "nameAr": "دبلوم في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.3,
+      "annualFee": 17000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17000
+        },
+        {
+          "year": 2,
+          "fee": 17000
+        }
+      ],
+      "totalTuitionFee": 34000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-multimedia-hons-advertising-design",
+      "universityId": "mmu",
+      "name": "Bachelor of Multimedia (Hons.) Advertising Design",
+      "nameAr": "بكالوريوس الوسائط المتعددة (مع مرتبة الشرف) في تصميم الإعلانات",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-multimedia-hons-animation",
+      "universityId": "mmu",
+      "name": "Bachelor of Multimedia (Hons) Animation",
+      "nameAr": "بكالوريوس في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-multimedia-hons-visual-effects",
+      "universityId": "mmu",
+      "name": "Bachelor of Multimedia (Hons) Visual Effects",
+      "nameAr": "بكالوريوس في المؤثرات البصرية (VFX)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-cinematography",
+      "universityId": "mmu",
+      "name": "Diploma in Cinematography",
+      "nameAr": "دبلوم في Cinematography",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-cinematic-arts-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Cinematic Arts (Hons.)",
+      "nameAr": "بكالوريوس الفنون السينمائية (مع مرتبة الشرف)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-creative-multimedia-by-coursework",
+      "universityId": "mmu",
+      "name": "Master of Creative Multimedia (BY COURSEWORK)",
+      "nameAr": "ماجستير في الوسائط المتعددة الإبداعية (بالمقررات الدراسية)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24650,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Apr, Jul, Aug, Oct, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24650
+        }
+      ],
+      "totalTuitionFee": 24650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-science-creative-multimedia-by-research",
+      "universityId": "mmu",
+      "name": "Master of Science (Creative Multimedia) (BY RESEARCH)",
+      "nameAr": "ماجستير العلوم في الوسائط المتعددة الإبداعية (بالبحث العلمي)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 6150,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6150
+        }
+      ],
+      "totalTuitionFee": 6150,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-doctor-of-philosophy-creative-multimedia-by-research",
+      "universityId": "mmu",
+      "name": "Doctor of Philosophy (Creative Multimedia) (BY RESEARCH)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الوسائط المتعددة الإبداعية (بالبحث العلمي)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 6375,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 6375
+        },
+        {
+          "year": 2,
+          "fee": 6375
+        }
+      ],
+      "totalTuitionFee": 12750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-creative-multimedia",
+      "universityId": "mmu",
+      "name": "Diploma in Creative Multimedia",
+      "nameAr": "دبلوم في الوسائط المتعددة الإبداعية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-creative-audio",
+      "universityId": "mmu",
+      "name": "Diploma in Creative Audio",
+      "nameAr": "دبلوم في Creative Audio",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-immersive-media-design-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Immersive Media Design (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Immersive Media Design (Hons",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28333
+        },
+        {
+          "year": 2,
+          "fee": 28333
+        },
+        {
+          "year": 3,
+          "fee": 28333
+        }
+      ],
+      "totalTuitionFee": 84999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-foundation-in-communication",
+      "universityId": "mmu",
+      "name": "Foundation in Communication",
+      "nameAr": "برنامج تمهيدي في Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-diploma-in-applied-communication",
+      "universityId": "mmu",
+      "name": "Diploma in Applied Communication",
+      "nameAr": "دبلوم في Applied Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 14500,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14500
+        },
+        {
+          "year": 2,
+          "fee": 14500
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-bachelor-of-communication-strategic-communication-hons",
+      "universityId": "mmu",
+      "name": "Bachelor of Communication (Strategic Communication) (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Communication (Strategic Communication) (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23667
+        },
+        {
+          "year": 2,
+          "fee": 23667
+        },
+        {
+          "year": 3,
+          "fee": 23667
+        }
+      ],
+      "totalTuitionFee": 71001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-master-of-philosophy-communication-by-research",
+      "universityId": "mmu",
+      "name": "Master of Philosophy (Communication) (BY RESEARCH)",
+      "nameAr": "ماجستير في Master of Philosophy (Communication (بالبحث العلمي)",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5325,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5325
+        },
+        {
+          "year": 2,
+          "fee": 5325
+        }
+      ],
+      "totalTuitionFee": 10650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mmu-doctor-of-philosophy-communication-by-research",
+      "universityId": "mmu",
+      "name": "Doctor of Philosophy (Communication) (BY RESEARCH)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Communication (بالبحث العلمي)",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5750
+        },
+        {
+          "year": 2,
+          "fee": 5750
+        },
+        {
+          "year": 3,
+          "fee": 5750
+        }
+      ],
+      "totalTuitionFee": 17250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 77
+}

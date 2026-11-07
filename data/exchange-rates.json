@@ -1,0 +1,87 @@
+{
+  "baseCurrency": "USD",
+  "lastUpdated": "2026-09-07",
+  "rates": [
+    {
+      "code": "USD",
+      "symbol": "$",
+      "nameKey": "curr_usd",
+      "toUSD": 1.0,
+      "rateFromUSD": 1.0,
+      "rate": 0.225,
+      "decimals": 0
+    },
+    {
+      "code": "AUD",
+      "symbol": "A$",
+      "nameKey": "curr_aud",
+      "toUSD": 0.65,
+      "rateFromUSD": 1.54,
+      "rate": 0.347,
+      "decimals": 0
+    },
+    {
+      "code": "GBP",
+      "symbol": "£",
+      "nameKey": "curr_gbp",
+      "toUSD": 1.30,
+      "rateFromUSD": 0.77,
+      "rate": 0.173,
+      "decimals": 0
+    },
+    {
+      "code": "CAD",
+      "symbol": "C$",
+      "nameKey": "curr_cad",
+      "toUSD": 0.74,
+      "rateFromUSD": 1.35,
+      "rate": 0.304,
+      "decimals": 0
+    },
+    {
+      "code": "NZD",
+      "symbol": "NZ$",
+      "nameKey": "curr_nzd",
+      "toUSD": 0.60,
+      "rateFromUSD": 1.67,
+      "rate": 0.376,
+      "decimals": 0
+    },
+    {
+      "code": "SGD",
+      "symbol": "S$",
+      "nameKey": "curr_sgd",
+      "toUSD": 0.76,
+      "rateFromUSD": 1.32,
+      "rate": 0.297,
+      "decimals": 0
+    },
+    {
+      "code": "MYR",
+      "symbol": "RM",
+      "nameKey": "curr_myr",
+      "toUSD": 0.225,
+      "rateFromUSD": 4.44,
+      "rate": 1.0,
+      "decimals": 0
+    },
+    {
+      "code": "SAR",
+      "symbol": "SAR",
+      "nameKey": "curr_sar",
+      "toUSD": 0.266,
+      "rateFromUSD": 3.75,
+      "rate": 0.845,
+      "decimals": 0
+    },
+    {
+      "code": "IDR",
+      "symbol": "Rp",
+      "nameKey": "curr_idr",
+      "toUSD": 0.0000633,
+      "rateFromUSD": 15800.0,
+      "rate": 3550.0,
+      "decimals": 0
+    }
+  ]
+}

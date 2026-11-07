@@ -1,0 +1,4905 @@
+{
+  "id": "segi",
+  "name": "SEGi University",
+  "arabicName": "جامعة سيجي (SEGi University)",
+  "city": "Kota Damansara, Selangor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-segi.webp",
+  "image": "assets/photo/campus_segi.webp",
+  "website": "https://www.segi.edu.my/",
+  "ranking": "QS 5-Stars Plus (Pioneer in Business, Allied Health & Dentistry)",
+  "established": "1977",
+  "campusName": "SEGi Kota Damansara Main Campus",
+  "studentCount": "18,000+ (85+ Countries)",
+  "intakes": "Jan, Mar, May, Jul, Sep",
+  "feeRangeMin": 7746,
+  "feeRangeMax": 154465,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/1giuieQUdGA",
+  "description": "SEGi University is one of the leading recognized higher education institutions located in Kota Damansara, Selangor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة سيجي (SEGi University) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Kota Damansara, Selangor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "SEGi University & Colleges didirikan pada tahun 1977 dan berpusat di Kota Damansara, Selangor, di atas kampus modern seluas 10 hektar. SEGi diakui dengan predikat QS 5 Bintang untuk Pengajaran, Fasilitas, dan Penyerapan Lulusan, terkenal atas fakultas Kedokteran (MBBS), Kedokteran Gigi, Farmasi, Optometri, dan Bisnis dengan kemitraan resmi universitas Inggris.",
+    "en": "SEGi University, established in 1977, is centered at its flagship 10-acre campus in Kota Damansara, Selangor. Awarded QS 5 Stars across Teaching, Facilities, and Employability, SEGi is renowned for its faculties of Medicine (MBBS), Dentistry, Pharmacy, Optometry, and Business with prestigious UK degree partnerships.",
+    "ar": "تأسست جامعة سيجي (SEGi University) عام 1977، ويقع حرمها الرئيسي الحديث في كوتا دامنسارا بسيلانغور. وتصنف بـ 5 نجوم من QS في جودة التدريس والتوظيف، وتشتهر بتدريس الطب البشري (MBBS)، وطب الأسنان، والصيدلة، وفحص البصر، وإدارة الأعمال بالتعاون مع كبرى الجامعات البريطانية.",
+    "zh": "世纪大学（SEGi University）始建于1977年，总校坐落于雪兰莪州哥打白沙罗，荣获QS世界五星级卓越高等教育认证。世纪大学在全科医学（MBBS）、口腔医学、药剂学、验光配镜学及商科领域实力雄厚，与英国中央兰开夏大学等常年开设优质双联学位。",
+    "ru": "Университет SEGi, основанный в 1977 году в Кота Дамансара, имеет 5 звезд QS и славится медицинским, стоматологическим, фармацевтическим и бизнес-факультетами в партнерстве с вузами Великобритании.",
+    "fr": "Fondée en 1977 à Kota Damansara, SEGi University est notée 5 étoiles QS et excelle en médecine, dentisterie, pharmacie et gestion avec des diplômes britanniques conjoints.",
+    "es": "La Universidad SEGi, fundada en 1977 en Kota Damansara, cuenta con 5 estrellas QS y destaca en Medicina, Odontología, Farmacia y Empresa en cooperación con universidades británicas.",
+    "ja": "セギ大学（SEGi）は1977年創立の歴史ある名門校で、コタ・ダマンサラに最新キャンパスを構え、医学、歯学、薬学、視覚測定学、ビジネスで英国大学との学位提携を展開しています。",
+    "ko": "세기 대학교(SEGi)는 1977년에 설립된 QS 5스타 사립대학교로, 코타 다만사라 캠퍼스에서 의학(MBBS), 치의학, 약학, 검안학 및 영국 파트너십 학위 과정을 폭넓게 제공합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Rumah Sakit & Klinik Gigi Pendidikan SEGi Terbesar",
+        "en": "SEGi Premier Oral Health & Clinical Dental Hospital",
+        "ar": "مستشفى وعيادات طب وجراحة الأسنان التعليمية المتطورة",
+        "ko": "SEGi 최첨단 구강 보건 및 치과 종합 임상 교육 병원",
+        "ja": "SEGi付属最先端口腔医療・歯科総合臨床実習病院",
+        "zh": "世纪大学大型附属口腔健康与临床牙科综合教学医院",
+        "ru": "Клинический стоматологический госпиталь и учебный центр SEGi",
+        "fr": "Hôpital dentaire universitaire d'excellence et clinique SEGi",
+        "es": "Hospital odontológico y clínica dental universitaria avanzada SEGi"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Laboratorium Sains Biomedis, Farmasi & Anatomi Klinis",
+        "en": "Biomedical, Pharmaceutical & Clinical Anatomy Labs",
+        "ar": "مختبرات العلوم الطبية الحيوية والصيدلة والتشريح الإكلينيكي",
+        "ko": "생명 의학, 약학 및 임상 해부학 전문 연구 실험실",
+        "ja": "バイオメディカル・薬学・臨床解剖学専門研究ラボ",
+        "zh": "高标准生物医学、制药工程与临床人体解剖实训实验室",
+        "ru": "Лаборатории биомедицины, фармации и клинической анатомии",
+        "fr": "Laboratoires de biomédecine, de pharmacie et d'anatomie clinique",
+        "es": "Laboratorios de biomedicina, farmacia y anatomía clínica"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Studio Penyiaran, Green Screen & Rekaman Audio Dolby",
+        "en": "Broadcast Media Suites, Green Screen & Dolby Audio Studios",
+        "ar": "استوديوهات الإنتاج الإعلامي المتطورة والشاشات الخضراء وهندسة الصوت",
+        "ko": "방송 미디어 스위트, 그린스크린 및 돌비 오디오 레코딩 스튜디오",
+        "ja": "放送メディア制作スイート・グリーンスクリーン・Dolby音響スタジオ",
+        "zh": "广播电视媒体制作套件、绿幕摄影棚与杜比专业录音室",
+        "ru": "Телестудии, павильоны с зеленым экраном и студии звукозаписи",
+        "fr": "Studios de production audiovisuelle, fond vert et cabines audio",
+        "es": "Estudios de producción audiovisual, pantalla verde y sonido profesional"
+      }
+    },
+    {
+      "icon": "‍️",
+      "title": {
+        "id": "Kolam Renang Berstandar Olimpiade & Arena Olahraga Bertingkat",
+        "en": "Olympic-Standard Swimming Pool & Multi-Level Sports Complex",
+        "ar": "مسبح أولمبي ومجمع رياضي متكامل متعدد الطوابق للطلاب",
+        "ko": "올림픽 공인 규격 수영장 및 다층형 실내외 종합 스포츠 콤플렉스",
+        "ja": "オリンピック公認プール＆多層型屋内総合スポーツアリーナ",
+        "zh": "奥林匹克达标游泳池与多层大型现代化综合室内体育中心",
+        "ru": "Бассейн олимпийского стандарта и многоуровневый спортивный комплекс",
+        "fr": "Piscine aux normes olympiques et complexe sportif moderne",
+        "es": "Piscina de estándar olímpico y complejo deportivo multinivel"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "⭐",
+      "title": {
+        "id": "Peringkat QS 5-Stars Plus (Keunggulan Akademik Puncak)",
+        "en": "QS 5-Stars Plus Rating (Peak Global Educational Excellence)",
+        "ar": "تصنيف خمس نجوم بلس (QS 5-Stars Plus) للتميز الأكاديمي الشامل",
+        "ko": "QS 5스타 플러스(QS 5-Stars Plus) 글로벌 최고 등급 달성",
+        "ja": "QS 5スター・プラス（最高峰の教育品質と就職率評価）認定",
+        "zh": "荣膺QS超五星卓越评级(QS 5-Stars Plus)顶级大学殊荣",
+        "ru": "Рейтинг QS 5-Stars Plus — наивысшая категория качества обучения",
+        "fr": "Notation maximale QS 5-Stars Plus pour l'excellence académique",
+        "es": "Calificación máxima QS 5-Stars Plus en excelencia educativa"
+      },
+      "desc": {
+        "id": "Salah satu dari sedikit institusi di Asia Tenggara yang meraih penghargaan QS 5-Stars Plus dalam pengajaran, fasilitas, dan kelayakan kerja.",
+        "en": "One of the elite institutions in Southeast Asia to achieve QS 5-Stars Plus for teaching, facilities, and graduate employability.",
+        "ar": "إحدى الجامعات النخبوية القليلة في جنوب شرق آسيا الحائزة على تصنيف 5 نجوم بلس في جودة التدريس والمرافق ونسبة توظيف الخريجين.",
+        "ko": "교육 품질, 학생 복지 시설, 글로벌 취업 경쟁력에서 동남아 최고 수준의 5스타 플러스 획득.",
+        "ja": "教育・設備・卒業生就職率の全項目で東南アジア有数の最高評価「5スター・プラス」を獲得。",
+        "zh": "东南亚极少数在教学水准、校园设施及毕业生高就业能力方面均荣获QS超五星加冕的顶尖私立名校。",
+        "ru": "Один из немногих университетов региона, удостоенных высшей оценки QS 5-Stars Plus.",
+        "fr": "L'un des rares établissements d'Asie du Sud-Est à obtenir la prestigieuse distinction QS 5-Stars Plus.",
+        "es": "Una de las pocas instituciones del sudeste asiático con el prestigioso distintivo QS 5-Stars Plus."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Akses Langsung Stasiun MRT Kota Damansara di Depan Kampus",
+        "en": "Direct On-Site Access to Kota Damansara MRT Station",
+        "ar": "اتصال مباشر بمحطة قطار الأنفاق السريع (MRT) أمام بوابة الحرم",
+        "ko": "캠퍼스 정문 바로 앞 코타 다만사라 MRT 전철역 직결",
+        "ja": "コタ・ダマンサラMRT地下鉄駅に直結する抜群の交通アクセス",
+        "zh": "校门口无缝直通哥打白沙罗(Kota Damansara)MRT捷运地铁站",
+        "ru": "Прямой выход к станции метро MRT Kota Damansara прямо у кампуса",
+        "fr": "Accès direct à la station de métro MRT Kota Damansara devant le campus",
+        "es": "Acceso directo a la estación de metro MRT Kota Damansara frente al campus"
+      },
+      "desc": {
+        "id": "Konektivitas transportasi tanpa hambatan menuju pusat kota Kuala Lumpur, mall terkemuka, dan bandara internasional.",
+        "en": "Seamless transit directly connecting students to downtown Kuala Lumpur, mega shopping malls, and airports.",
+        "ar": "شبكة مواصلات سريعة ومكيفة تربط الطلاب مباشرة بقلب العاصمة كوالالمبور والمراكز التجارية الكبرى والمطار.",
+        "ko": "쿠알라룸푸르 도심 핵심 상권, 대형 쇼핑몰 및 공항까지 막힘없이 빠르고 편리하게 연결.",
+        "ja": "クアラルンプール中心部、巨大ショッピングモール、空港へ直通アクセスが可能。",
+        "zh": "学生可搭乘全冷气捷运轻快直达吉隆坡市中心双峰塔、大型购物中心及国际机场。",
+        "ru": "Быстрое и удобное сообщение с центром Куала-Лумпура, ТРЦ и аэропортами.",
+        "fr": "Connexion directe et rapide avec le centre-ville de Kuala Lumpur et les commodités.",
+        "es": "Conexión de transporte directa y rápida con el centro de Kuala Lumpur y centros comerciales."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Fakultas Kedokteran Gigi & Ilmu Kesehatan Unggulan",
+        "en": "Premier Faculty of Dentistry & Allied Health Sciences",
+        "ar": "كلية رائدة في طب وجراحة الأسنان والصيدلة والعلوم الطبية",
+        "ko": "최고 권위의 치의학부, 약학부 및 보건의료과학 대학",
+        "ja": "最高水準の歯学部・薬学部および統合ヘルスサイエンス学部",
+        "zh": "享有盛誉的牙科手术学院、药剂学院及综合健康科学学院",
+        "ru": "Ведущий факультет стоматологии, фармации и медицинских наук",
+        "fr": "Faculté d'excellence en médecine dentaire et sciences de la santé",
+        "es": "Facultad líder en odontología, farmacia y ciencias de la salud"
+      },
+      "desc": {
+        "id": "Dilengkapi klinik gigi modern dengan pasien nyata dan laboratorium simulasi berstandar Kementerian Kesehatan Malaysia.",
+        "en": "Houses modern dental clinics treating real patients alongside simulation suites approved by the Malaysian Ministry of Health.",
+        "ar": "تضم عيادات ومستشفى أسنان متكامل لاستقبال المرضى الحقيقيين، معتمدة بالكامل من وزارة الصحة والمجلس الطبي.",
+        "ko": "말레이시아 보건부 공인 시뮬레이션 연구실 및 실제 환자 임상 실습 치과 병원 운영.",
+        "ja": "マレーシア保健省認定の最新シミュレーション室および臨床実習歯科クリニックを併設。",
+        "zh": "拥有卫生部认证的先进模拟手术室，并设有对外开放的综合教学牙科医院提供临床实习。",
+        "ru": "Собственная стоматологическая клиника с реальными пациентами и передовые симуляторы.",
+        "fr": "Cliniques dentaires modernes traitant de vrais patients sous supervision spécialisée.",
+        "es": "Clínicas dentales avanzadas con pacientes reales e instalaciones de simulación clínica."
+      }
+    },
+    {
+      "icon": "🇬🇧",
+      "title": {
+        "id": "Gelar Ganda Resmi Inggris (UCLan & Sunderland UK)",
+        "en": "Official UK Dual Honours Degrees (UCLan & University of Sunderland)",
+        "ar": "شهادات مزدوجة رسمية مع جامعتي سنلدرلاند ويوكلان البريطانيتين",
+        "ko": "영국 센트럴 랭커셔(UCLan) & 선덜랜드 대학교 복수 학위 수여",
+        "ja": "英国セントラル・ランカシャー大学（UCLan）＆サンダーランド大学デュアル学位",
+        "zh": "英国中央兰开夏大学(UCLan)与桑德兰大学官方双联荣誉学位",
+        "ru": "Официальные двойные дипломы престижных университетов Великобритании (UCLan и Sunderland)",
+        "fr": "Doubles diplômes officiels d'universités britanniques (UCLan et Sunderland)",
+        "es": "Doble titulación oficial británica con UCLan y la Universidad de Sunderland"
+      },
+      "desc": {
+        "id": "Kurikulum standar Inggris yang diakui global dengan penghematan biaya hidup hingga 60% dibanding studi di UK.",
+        "en": "Globally recognized British curriculum offering up to 60% cost savings compared to studying in the UK.",
+        "ar": "مناهج بريطانية كاملة ومعتمدة دولياً تتيح توفيراً يصل إلى 60% من تكاليف الدراسة والمعيشة في بريطانيا.",
+        "ko": "영국 현지 유학 대비 학비 및 생활비를 최대 60% 절감하면서 영국 정규 학위 취득.",
+        "ja": "イギリス本国への留学と比較して学費・生活費を最大60％節約しながら同等の学位を取得。",
+        "zh": "全盘引进英国正统严谨教学大纲，与赴英本国留学相比可节约高达60%的学费与生活开销。",
+        "ru": "Британское образование мирового уровня с экономией до 60% расходов.",
+        "fr": "Programme britannique d'excellence permettant jusqu'à 60% d'économies.",
+        "es": "Currículo británico de prestigio con hasta un 60% de ahorro en costes."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "SEGi University Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة سيجي (SEGi University)",
+        "id": "Residensi Mahasiswa Resmi SEGi University"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from SEGi University internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة سيجي (SEGi University) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari SEGi University diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, SEGi University is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة سيجي (SEGi University) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, SEGi University terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to SEGi University?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة سيجي (SEGi University)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke SEGi University?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from SEGi University?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة سيجي (SEGi University)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke SEGi University?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to SEGi University without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Masuk Fakultas Kedokteran Gigi (BDS) di SEGi University",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for SEGi University",
+        "ar": "دليل القبول الشامل في كلية طب وجراحة الأسنان (BDS) بجامعة سيجي",
+        "zh": "SEGi University 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в SEGi University",
+        "fr": "Guide complet d'admission et visa étudiant pour SEGi University",
+        "es": "Guía completa de admisión y visado de estudiante para SEGi University",
+        "ja": "SEGi University 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "SEGi University 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Syarat nilai sains SMA, alur tes wawancara, dan fasilitas rumah sakit gigi pendidikan SEGi.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شروط درجات الثانوية العامة، خطوات المقابلة الشخصية، ومميزات مستشفى الأسنان التعليمي.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Gaya Hidup Mahasiswa & Biaya Hidup di Kota Damansara & Petaling Jaya",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around SEGi University",
+        "ar": "تكاليف المعيشة والحياة الطلابية في كوتا دامنسارا وبيتالينغ جايا",
+        "zh": "SEGi University 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле SEGi University",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de SEGi University",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en SEGi University",
+        "ja": "SEGi University 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "SEGi University 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Estimasi sewa apartemen Cova Suites, pengeluaran makan, dan kemudahan akses MRT.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل إيجار شقق كوفا السكنية، ميزانية المطاعم، وسهولة التنقل عبر مترو MRT السريع.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Program Beasiswa Prestasi & Potongan Biaya Kuliah Mahasiswa Internasional SEGi",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at SEGi University",
+        "ar": "المنح الدراسية وخصومات التميز الأكاديمي للطلاب الدوليين في جامعة سيجي",
+        "zh": "SEGi University 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в SEGi University",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à SEGi University",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en SEGi University",
+        "ja": "SEGi University 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "SEGi University 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Kriteria potongan uang kuliah berdasarkan prestasi nilai rapor SMA tahun 2026.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "معايير الحصول على خصومات دراسية بناءً على التفوق في درجات الثانوية العامة لعام 2026.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "SEGi On-Campus Residence Halls (Kota Damansara)",
+        "nameAr": "مجمع السكن الطلابي الداخلي بحرم كوتا دامنسارا",
+        "type": "Single & Twin Ensuite Student Rooms",
+        "typeAr": "غرف فردية ومزدوجة بحمام خاص وتكييف",
+        "priceRange": "RM 550 - RM 1,100 / month",
+        "priceRangeAr": "550 - 1,100 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)",
+        "amenities": [
+          "Wi-Fi Cepat Tanpa Batas",
+          "Lounge Belajar Komunal",
+          "Keamanan 24 Jam & Kartu Akses",
+          "Kafetaria & Food Court Halal",
+          "Akses Langsung Stasiun MRT"
+        ],
+        "amenitiesAr": [
+          "إنترنت غير محدود فائق السرعة",
+          "قاعات استذكار ومطالعة",
+          "أمن وبوابات إلكترونية 24 ساعة",
+          "مطاعم وكافتيريا حلال",
+          "ملاصق لمحطة قطار MRT"
+        ]
+      },
+      {
+        "name": "Cova Square & Cova Suites Condominiums",
+        "nameAr": "أبراج كوفا سكوير وكوفا سويتس المقابلة للحرم",
+        "type": "Fully Furnished Condominiums opposite Campus",
+        "typeAr": "شقق سكنية فندقية مجهزة بالكامل في الجهة المقابلة للبوابة",
+        "priceRange": "RM 700 - RM 1,400 / month",
+        "priceRangeAr": "700 - 1,400 رينجيت / شهرياً",
+        "distance": "2 menit jalan kaki (Tepat di seberang jalan)",
+        "distanceAr": "دقيقتان سيراً على الأقدام (في الجهة المقابلة مباشرة)",
+        "distanceEn": "2-minute walk (Directly across the street)",
+        "amenities": [
+          "Kolam Renang & Pusat Kebugaran Gym",
+          "Restoran, Kafe & Mini Market",
+          "Perabot Lengkap & Dapur Modern",
+          "Keamanan 24/7 & Kartu Akses Lift",
+          "Pemandangan Danau yang Indah"
+        ],
+        "amenitiesAr": [
+          "مسبح وصالة لياقة بدنية",
+          "مطاعم ومقاهي وسوبرماركت",
+          "مفروشة بالكامل ومطبخ متكامل",
+          "حراسة 24 ساعة وبطاقات للمصاعد",
+          "إطلالات بحرية وبحيرة خلابة"
+        ]
+      },
+      {
+        "name": "D'Rimba Resort Condominium Kota Damansara",
+        "nameAr": "مجمع دي ريمبا السكني الفاخر الهادئ",
+        "type": "Resort-Style Forest View Apartments",
+        "typeAr": "شقق فندقية ببيئة طبيعية هادئة وإطلالات خضراء",
+        "priceRange": "RM 650 - RM 1,200 / month",
+        "priceRangeAr": "650 - 1,200 رينجيت / شهرياً",
+        "distance": "5 menit via MRT / Bus Kampus",
+        "distanceAr": "5 دقائق عبر المترو / باص الجامعة",
+        "distanceEn": "5 mins via MRT / Campus Bus link",
+        "amenities": [
+          "Kolam Renang Gaya Resort Tropis",
+          "Clubhouse & Lapangan Tenis",
+          "Lingkungan Hijau Asri & Tenang",
+          "Shuttle Transit Mudah ke Kampus",
+          "Keamanan Ketat 24 Jam"
+        ],
+        "amenitiesAr": [
+          "مسبح استوائي فاخر",
+          "نادي وملاعب تنس",
+          "بيئة خضراء هادئة ومريحة",
+          "مواصلات سريعة للحرم",
+          "أمن وحراسة مشددة 24 ساعة"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 600 - RM 1,300"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 600 - RM 900"
+      },
+      {
+        "item": "Transportasi & MRT Listrik",
+        "itemAr": "المواصلات ومترو MRT السريع",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 70 - RM 130"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 80 - RM 140"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 180 - RM 350"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,530 - RM 2,820"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في العلوم والآداب والأعمال",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 14,000 - RM 17,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم الطبي والتمريضي والإداري المعتمد",
+      "duration": "2.5 Years",
+      "avgFeePerYear": "RM 13,000 - RM 17,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Dual Honours UK)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس المزدوج البريطاني (إدارة، حوسبة، تمريض، تربية)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 20,000 - RM 30,000"
+    },
+    {
+      "level": "Bachelor of Dental Surgery (BDS - Kedokteran Gigi)",
+      "levelKey": "level_bachelor",
+      "levelAr": "بكالوريوس طب وجراحة الأسنان (BDS) المعتمد دولياً",
+      "duration": "5 Years",
+      "durationYears": 5,
+      "avgFeePerYear": "RM 65,000 - RM 72,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في إدارة الأعمال والتربية والعلوم الطبية",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 22,000 - RM 28,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في إدارة الأعمال والعلوم التربوية والطبية",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 18,000 - RM 25,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=1giuieQUdGA",
+  "programs": [
+    {
+      "id": "segi-bachelor-of-computer-science-honours-in-cybersecurity",
+      "universityId": "segi",
+      "name": "Bachelor of Computer Science (Honours) in Cybersecurity",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20667
+        },
+        {
+          "year": 2,
+          "fee": 20667
+        },
+        {
+          "year": 3,
+          "fee": 20667
+        }
+      ],
+      "totalTuitionFee": 62001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-information-technology-hons-in-computer-networks",
+      "universityId": "segi",
+      "name": "Bachelor of Information Technology (Hons) in Computer Networks",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Computer Networks",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-information-technology-hons-in-software-engineering",
+      "universityId": "segi",
+      "name": "Bachelor of Information Technology (Hons) in Software Engineering",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-information-technology-hons-in-business-systems-design",
+      "universityId": "segi",
+      "name": "Bachelor of Information Technology (Hons) in Business Systems Design",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Business Systems Design",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computing",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computing",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17020
+        },
+        {
+          "year": 2,
+          "fee": 17020
+        },
+        {
+          "year": 3,
+          "fee": 17020
+        }
+      ],
+      "totalTuitionFee": 51060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computer-science-artificial-intelligence",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computer Science (Artificial Intelligence)",
+      "nameAr": "بكالوريوس في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19233
+        },
+        {
+          "year": 2,
+          "fee": 19233
+        },
+        {
+          "year": 3,
+          "fee": 19233
+        }
+      ],
+      "totalTuitionFee": 57699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computer-science-cyber-security-and-networks",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computer Science (Cyber Security and Networks)",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19233
+        },
+        {
+          "year": 2,
+          "fee": 19233
+        },
+        {
+          "year": 3,
+          "fee": 19233
+        }
+      ],
+      "totalTuitionFee": 57699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computing-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computing",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18508
+        },
+        {
+          "year": 2,
+          "fee": 18508
+        },
+        {
+          "year": 3,
+          "fee": 18508
+        }
+      ],
+      "totalTuitionFee": 55524,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computing-2",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computing",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15444
+        },
+        {
+          "year": 2,
+          "fee": 15444
+        },
+        {
+          "year": 3,
+          "fee": 15444
+        }
+      ],
+      "totalTuitionFee": 46332,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computer-science-artificial-intelligence-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computer Science (Artificial Intelligence)",
+      "nameAr": "بكالوريوس في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19233
+        },
+        {
+          "year": 2,
+          "fee": 19233
+        },
+        {
+          "year": 3,
+          "fee": 19233
+        }
+      ],
+      "totalTuitionFee": 57699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computer-science-cyber-security-and-networks-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computer Science (Cyber Security and Networks)",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19233
+        },
+        {
+          "year": 2,
+          "fee": 19233
+        },
+        {
+          "year": 3,
+          "fee": 19233
+        }
+      ],
+      "totalTuitionFee": 57699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-computer-science-cyber-security-and-networks-2",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Computer Science (Cyber Security and Networks)",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19233
+        },
+        {
+          "year": 2,
+          "fee": 19233
+        },
+        {
+          "year": 3,
+          "fee": 19233
+        }
+      ],
+      "totalTuitionFee": 57699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-science-honours-computer-science-cyber-security-and-networks",
+      "universityId": "segi",
+      "name": "Bachelor of Science (Honours) Computer Science (Cyber Security and Networks)",
+      "nameAr": "بكالوريوس العلوم في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19233
+        },
+        {
+          "year": 2,
+          "fee": 19233
+        },
+        {
+          "year": 3,
+          "fee": 19233
+        }
+      ],
+      "totalTuitionFee": 57699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-science-honours-computer-science-artificial-intelligence",
+      "universityId": "segi",
+      "name": "Bachelor of Science (Honours) Computer Science (Artificial Intelligence)",
+      "nameAr": "بكالوريوس العلوم في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19233
+        },
+        {
+          "year": 2,
+          "fee": 19233
+        },
+        {
+          "year": 3,
+          "fee": 19233
+        }
+      ],
+      "totalTuitionFee": 57699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-computer-science-honours-in-digital-transformation",
+      "universityId": "segi",
+      "name": "Bachelor of Computer Science (Honours) in Digital Transformation",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في Digital Transformation",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20667
+        },
+        {
+          "year": 2,
+          "fee": 20667
+        },
+        {
+          "year": 3,
+          "fee": 20667
+        }
+      ],
+      "totalTuitionFee": 62001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-computer-science-honours-in-data-science",
+      "universityId": "segi",
+      "name": "Bachelor of Computer Science (Honours) in Data Science",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20667
+        },
+        {
+          "year": 2,
+          "fee": 20667
+        },
+        {
+          "year": 3,
+          "fee": 20667
+        }
+      ],
+      "totalTuitionFee": 62001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-computer-science-honours-specializing-in-artificial-intelligence",
+      "universityId": "segi",
+      "name": "Bachelor of Computer Science (Honours) specializing in Artificial Intelligence",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20667
+        },
+        {
+          "year": 2,
+          "fee": 20667
+        },
+        {
+          "year": 3,
+          "fee": 20667
+        }
+      ],
+      "totalTuitionFee": 62001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-msc-in-information-technology-coursework",
+      "universityId": "segi",
+      "name": "MSc in Information Technology (Coursework)",
+      "nameAr": "برنامج في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 32000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32000
+        }
+      ],
+      "totalTuitionFee": 32000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-msc-information-technology-by-research",
+      "universityId": "segi",
+      "name": "MSc (Information Technology) by Research",
+      "nameAr": "برنامج في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 18237,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18237
+        },
+        {
+          "year": 2,
+          "fee": 18237
+        }
+      ],
+      "totalTuitionFee": 36474,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-philosophy-information-technology-by-research",
+      "universityId": "segi",
+      "name": "Doctor of Philosophy (Information Technology) by Research",
+      "nameAr": "دكتوراه الفلسفة (PhD) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16873,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16873
+        },
+        {
+          "year": 2,
+          "fee": 16873
+        },
+        {
+          "year": 3,
+          "fee": 16873
+        }
+      ],
+      "totalTuitionFee": 50619,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-in-information-technology-online-degree",
+      "universityId": "segi",
+      "name": "Diploma in Information Technology - Online Degree",
+      "nameAr": "دبلوم تقنية المعلومات أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.3,
+      "annualFee": 12885,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12885
+        },
+        {
+          "year": 2,
+          "fee": 12885
+        }
+      ],
+      "totalTuitionFee": 25770,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-information-technology-hons-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Information Technology (Hons) - Online Degree",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 14435,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14435
+        },
+        {
+          "year": 2,
+          "fee": 14435
+        },
+        {
+          "year": 3,
+          "fee": 14435
+        }
+      ],
+      "totalTuitionFee": 43305,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-computer-science-honours-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Computer Science (Honours) - Online Degree",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 16416,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16416
+        },
+        {
+          "year": 2,
+          "fee": 16416
+        },
+        {
+          "year": 3,
+          "fee": 16416
+        }
+      ],
+      "totalTuitionFee": 49248,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-science-in-information-technology-online-degree",
+      "universityId": "segi",
+      "name": "Master of Science in Information Technology - Online Degree",
+      "nameAr": "ماجستير العلوم في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 12068,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12068
+        }
+      ],
+      "totalTuitionFee": 12068,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-philosophy-in-information-technology-online-degree",
+      "universityId": "segi",
+      "name": "Doctor of Philosophy in Information Technology - Online Degree",
+      "nameAr": "دكتوراه الفلسفة (PhD) في تقنية المعلومات أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 8699,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8699
+        },
+        {
+          "year": 2,
+          "fee": 8699
+        },
+        {
+          "year": 3,
+          "fee": 8699
+        }
+      ],
+      "totalTuitionFee": 26097,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-business-management-honours-in-human-resource-management",
+      "universityId": "segi",
+      "name": "Bachelor of Business Management (Honours) in Human Resource Management",
+      "nameAr": "بكالوريوس الأعمال في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-business-management-honours-in-general-management",
+      "universityId": "segi",
+      "name": "Bachelor of Business Management (Honours) in General Management",
+      "nameAr": "بكالوريوس الأعمال في Management (Honours) in General Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-business-management-honours-in-financial-management",
+      "universityId": "segi",
+      "name": "Bachelor of Business Management (Honours) in Financial Management",
+      "nameAr": "بكالوريوس الأعمال في Management (Honours) in Financial Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-accounting-and-finance-honours",
+      "universityId": "segi",
+      "name": "Bachelor of Accounting and Finance (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21244,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21244
+        },
+        {
+          "year": 2,
+          "fee": 21244
+        },
+        {
+          "year": 3,
+          "fee": 21244
+        }
+      ],
+      "totalTuitionFee": 63732,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-hospitality-management-honours",
+      "universityId": "segi",
+      "name": "Bachelor of Hospitality Management (Honours)",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-human-resources-management",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Human Resources Management",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Human Resources Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17020
+        },
+        {
+          "year": 2,
+          "fee": 17020
+        },
+        {
+          "year": 3,
+          "fee": 17020
+        }
+      ],
+      "totalTuitionFee": 51060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-business-management",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Business Management",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17031
+        },
+        {
+          "year": 2,
+          "fee": 17031
+        },
+        {
+          "year": 3,
+          "fee": 17031
+        }
+      ],
+      "totalTuitionFee": 51093,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-business-and-human-resource-management",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Business and Human Resource Management",
+      "nameAr": "بكالوريوس في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18325,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18325
+        },
+        {
+          "year": 2,
+          "fee": 18325
+        },
+        {
+          "year": 3,
+          "fee": 18325
+        }
+      ],
+      "totalTuitionFee": 54975,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-business-management-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Business Management",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17020
+        },
+        {
+          "year": 2,
+          "fee": 17020
+        },
+        {
+          "year": 3,
+          "fee": 17020
+        }
+      ],
+      "totalTuitionFee": 51060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-business-management-2",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Business Management",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18325
+        },
+        {
+          "year": 2,
+          "fee": 18325
+        },
+        {
+          "year": 3,
+          "fee": 18325
+        }
+      ],
+      "totalTuitionFee": 54975,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-business-management-3",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Business Management",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17020,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18325
+        },
+        {
+          "year": 2,
+          "fee": 18325
+        },
+        {
+          "year": 3,
+          "fee": 18325
+        }
+      ],
+      "totalTuitionFee": 54975,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-advertising-and-digital-marketing-communications",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Advertising and Digital Marketing Communications",
+      "nameAr": "بكالوريوس في التسويق الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17031
+        },
+        {
+          "year": 2,
+          "fee": 17031
+        },
+        {
+          "year": 3,
+          "fee": 17031
+        }
+      ],
+      "totalTuitionFee": 51093,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-advertising-and-digital-marketing-communications-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Advertising and Digital Marketing Communications",
+      "nameAr": "بكالوريوس في التسويق الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14000
+        },
+        {
+          "year": 2,
+          "fee": 14000
+        },
+        {
+          "year": 3,
+          "fee": 14000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-accounting-and-finance",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Accounting and Finance",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17031
+        },
+        {
+          "year": 2,
+          "fee": 17031
+        },
+        {
+          "year": 3,
+          "fee": 17031
+        }
+      ],
+      "totalTuitionFee": 51093,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-accounting-and-finance-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Accounting and Finance",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16186
+        },
+        {
+          "year": 2,
+          "fee": 16186
+        },
+        {
+          "year": 3,
+          "fee": 16186
+        }
+      ],
+      "totalTuitionFee": 48558,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-accounting-and-finance-2",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Accounting and Finance",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14998
+        },
+        {
+          "year": 2,
+          "fee": 14998
+        },
+        {
+          "year": 3,
+          "fee": 14998
+        }
+      ],
+      "totalTuitionFee": 44994,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-business-management-honours-in-digital-marketing",
+      "universityId": "segi",
+      "name": "Bachelor of Business Management (Honours) in Digital Marketing",
+      "nameAr": "بكالوريوس الأعمال في التسويق الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22913,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22913
+        },
+        {
+          "year": 2,
+          "fee": 22913
+        },
+        {
+          "year": 3,
+          "fee": 22913
+        }
+      ],
+      "totalTuitionFee": 68739,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-business-management-honours-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Business Management (Honours) - Online Degree",
+      "nameAr": "بكالوريوس الأعمال في Management (Honours) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 14679,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, May, Jun, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14679
+        },
+        {
+          "year": 2,
+          "fee": 14679
+        },
+        {
+          "year": 3,
+          "fee": 14679
+        }
+      ],
+      "totalTuitionFee": 44037,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-accounting-and-finance-3",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Accounting and Finance",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17020
+        },
+        {
+          "year": 2,
+          "fee": 17020
+        },
+        {
+          "year": 3,
+          "fee": 17020
+        }
+      ],
+      "totalTuitionFee": 51060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-accountancy",
+      "universityId": "segi",
+      "name": "Master of Accountancy",
+      "nameAr": "ماجستير في Master of Accountancy",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42032,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42032
+        }
+      ],
+      "totalTuitionFee": 42032,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-finance",
+      "universityId": "segi",
+      "name": "Master of Business Administration (Finance)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 39043,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39043
+        }
+      ],
+      "totalTuitionFee": 39043,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-in-collaboration-with-university-of-hertfordshire-uk",
+      "universityId": "segi",
+      "name": "Master of Business Administration in Collaboration With University of Hertfordshire, UK",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Collaboration With University of Hertfordshire, UK",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 37790,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37790
+        }
+      ],
+      "totalTuitionFee": 37790,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-general-management",
+      "universityId": "segi",
+      "name": "Master of Business Administration (General Management)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في General Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 39043,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39043
+        }
+      ],
+      "totalTuitionFee": 39043,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-global-business",
+      "universityId": "segi",
+      "name": "Master of Business Administration (Global Business)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Global Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 39043,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39043
+        }
+      ],
+      "totalTuitionFee": 39043,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-human-resource-management",
+      "universityId": "segi",
+      "name": "Master of Business Administration (Human Resource Management)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 39043,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39043
+        }
+      ],
+      "totalTuitionFee": 39043,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-marketing",
+      "universityId": "segi",
+      "name": "Master of Business Administration (Marketing)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 39043,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39043
+        }
+      ],
+      "totalTuitionFee": 39043,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-financial-planning",
+      "universityId": "segi",
+      "name": "Master of Financial Planning",
+      "nameAr": "ماجستير في Master of Financial Planning",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 38805,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38805
+        }
+      ],
+      "totalTuitionFee": 38805,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-msc-management-by-research",
+      "universityId": "segi",
+      "name": "MSc (Management) by Research",
+      "nameAr": "برنامج في MSc (Management) by Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 18267,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18267
+        },
+        {
+          "year": 2,
+          "fee": 18267
+        }
+      ],
+      "totalTuitionFee": 36534,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-business-administration",
+      "universityId": "segi",
+      "name": "Doctor of Business Administration",
+      "nameAr": "دكتوراه في Doctor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 21029,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21029
+        },
+        {
+          "year": 2,
+          "fee": 21029
+        },
+        {
+          "year": 3,
+          "fee": 21029
+        }
+      ],
+      "totalTuitionFee": 63087,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-philosophy-management-by-research-online-degree",
+      "universityId": "segi",
+      "name": "Doctor of Philosophy (Management) by Research - Online Degree",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management) by Research أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 12967,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12967
+        },
+        {
+          "year": 2,
+          "fee": 12967
+        },
+        {
+          "year": 3,
+          "fee": 12967
+        }
+      ],
+      "totalTuitionFee": 38901,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-philosophy-management-by-research",
+      "universityId": "segi",
+      "name": "Doctor of Philosophy (Management) by Research",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management) by Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16873,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16873
+        },
+        {
+          "year": 2,
+          "fee": 16873
+        },
+        {
+          "year": 3,
+          "fee": 16873
+        }
+      ],
+      "totalTuitionFee": 50619,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-executive-diploma-in-business-administration-online-degree",
+      "universityId": "segi",
+      "name": "Executive Diploma in Business Administration - Online Degree",
+      "nameAr": "دبلوم في Executive Diploma in Business Administration أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 7746,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 7746
+        },
+        {
+          "year": 2,
+          "fee": 7746
+        }
+      ],
+      "totalTuitionFee": 15492,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-in-hotel-management-online-degree",
+      "universityId": "segi",
+      "name": "Diploma in Hotel Management - Online Degree",
+      "nameAr": "دبلوم إدارة الفنادق أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 12147,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12147
+        },
+        {
+          "year": 2,
+          "fee": 12147
+        },
+        {
+          "year": 3,
+          "fee": 12147
+        }
+      ],
+      "totalTuitionFee": 36441,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-in-business-administration-online-degree",
+      "universityId": "segi",
+      "name": "Diploma in Business Administration - Online Degree",
+      "nameAr": "دبلوم إدارة الأعمال أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 12123,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12123
+        },
+        {
+          "year": 2,
+          "fee": 12123
+        }
+      ],
+      "totalTuitionFee": 24246,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-of-accountancy-online-degree",
+      "universityId": "segi",
+      "name": "Diploma of Accountancy - Online Degree",
+      "nameAr": "دبلوم في Accountancy أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 12123,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12123
+        },
+        {
+          "year": 2,
+          "fee": 12123
+        }
+      ],
+      "totalTuitionFee": 24246,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-accounting-and-finance-honours-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Accounting and Finance (Honours) - Online Degree",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 13448,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, May, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13448
+        },
+        {
+          "year": 2,
+          "fee": 13448
+        },
+        {
+          "year": 3,
+          "fee": 13448
+        }
+      ],
+      "totalTuitionFee": 40344,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-hospitality-management-honours-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Hospitality Management (Honours) - Online Degree",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 14685,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14685
+        },
+        {
+          "year": 2,
+          "fee": 14685
+        },
+        {
+          "year": 3,
+          "fee": 14685
+        }
+      ],
+      "totalTuitionFee": 44055,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-general-management-blended-online-degree",
+      "universityId": "segi",
+      "name": "Master of Business Administration (General Management)  (BLENDED) - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في General Management) (BLENDED) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 27780,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27780
+        }
+      ],
+      "totalTuitionFee": 27780,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-global-business-blended-online-degree",
+      "universityId": "segi",
+      "name": "Master of Business Administration (Global Business)  (BLENDED) - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Global Business) (BLENDED) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 27780,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27780
+        }
+      ],
+      "totalTuitionFee": 27780,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-global-business-fully-online-online-degree",
+      "universityId": "segi",
+      "name": "Master of Business Administration (Global Business) (FULLY ONLINE) - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال العالمية (أونلاين بالكامل) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 14212,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14212
+        }
+      ],
+      "totalTuitionFee": 14212,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-business-administration-general-management-fully-online-online-degree",
+      "universityId": "segi",
+      "name": "Master of Business Administration (General Management)  (FULLY ONLINE) - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في General Management) (FULLY ONLINE) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 14212,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14212
+        }
+      ],
+      "totalTuitionFee": 14212,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-accountancy-online-degree",
+      "universityId": "segi",
+      "name": "Master of Accountancy - Online Degree",
+      "nameAr": "ماجستير في Accountancy أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 28310,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28310
+        }
+      ],
+      "totalTuitionFee": 28310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-phd-management-online-degree",
+      "universityId": "segi",
+      "name": "PhD (Management) - Online Degree",
+      "nameAr": "دكتوراه في الإدارة أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17412,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17412
+        },
+        {
+          "year": 2,
+          "fee": 17412
+        },
+        {
+          "year": 3,
+          "fee": 17412
+        }
+      ],
+      "totalTuitionFee": 52236,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-electrical-and-electronics-engineering-with-honours",
+      "universityId": "segi",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24225,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24225
+        },
+        {
+          "year": 2,
+          "fee": 24225
+        },
+        {
+          "year": 3,
+          "fee": 24225
+        },
+        {
+          "year": 4,
+          "fee": 24225
+        }
+      ],
+      "totalTuitionFee": 96900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "segi",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24225,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24225
+        },
+        {
+          "year": 2,
+          "fee": 24225
+        },
+        {
+          "year": 3,
+          "fee": 24225
+        },
+        {
+          "year": 4,
+          "fee": 24225
+        }
+      ],
+      "totalTuitionFee": 96900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-chemical-engineering-with-honours",
+      "universityId": "segi",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24225,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24225
+        },
+        {
+          "year": 2,
+          "fee": 24225
+        },
+        {
+          "year": 3,
+          "fee": 24225
+        },
+        {
+          "year": 4,
+          "fee": 24225
+        }
+      ],
+      "totalTuitionFee": 96900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-civil-engineering-with-honours",
+      "universityId": "segi",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24225,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24225
+        },
+        {
+          "year": 2,
+          "fee": 24225
+        },
+        {
+          "year": 3,
+          "fee": 24225
+        },
+        {
+          "year": 4,
+          "fee": 24225
+        }
+      ],
+      "totalTuitionFee": 96900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-mechanical-engineering",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Mechanical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19569,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19569
+        },
+        {
+          "year": 2,
+          "fee": 19569
+        },
+        {
+          "year": 3,
+          "fee": 19569
+        },
+        {
+          "year": 4,
+          "fee": 19569
+        }
+      ],
+      "totalTuitionFee": 78276,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-mechanical-engineering-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Mechanical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19569,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19569
+        },
+        {
+          "year": 2,
+          "fee": 19569
+        },
+        {
+          "year": 3,
+          "fee": 19569
+        },
+        {
+          "year": 4,
+          "fee": 19569
+        }
+      ],
+      "totalTuitionFee": 78276,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-electronics-and-electrical-engineering",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Electronics and Electrical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19569,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19569
+        },
+        {
+          "year": 2,
+          "fee": 19569
+        },
+        {
+          "year": 3,
+          "fee": 19569
+        },
+        {
+          "year": 4,
+          "fee": 19569
+        }
+      ],
+      "totalTuitionFee": 78276,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-electronics-and-electrical-engineering-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Electronics and Electrical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19569,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19569
+        },
+        {
+          "year": 2,
+          "fee": 19569
+        },
+        {
+          "year": 3,
+          "fee": 19569
+        },
+        {
+          "year": 4,
+          "fee": 19569
+        }
+      ],
+      "totalTuitionFee": 78276,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-msc-engineering-by-research",
+      "universityId": "segi",
+      "name": "MSc (Engineering) by Research",
+      "nameAr": "برنامج في MSc (Engineering) by Research",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 20965,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20965
+        },
+        {
+          "year": 2,
+          "fee": 20965
+        }
+      ],
+      "totalTuitionFee": 41930,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-philosophy-engineering-by-research",
+      "universityId": "segi",
+      "name": "Doctor of Philosophy (Engineering) by Research",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering) by Research",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19767,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19767
+        },
+        {
+          "year": 2,
+          "fee": 19767
+        },
+        {
+          "year": 3,
+          "fee": 19767
+        }
+      ],
+      "totalTuitionFee": 59301,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-medicine-and-bachelor-of-surgery-m-b-b-s",
+      "universityId": "segi",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (M.B.,B.S.)",
+      "nameAr": "بكالوريوس الطب البشري والجراحة (MBBS) في M.B.,B.S.",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 76373,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 76373
+        },
+        {
+          "year": 2,
+          "fee": 76373
+        },
+        {
+          "year": 3,
+          "fee": 76373
+        },
+        {
+          "year": 4,
+          "fee": 76373
+        },
+        {
+          "year": 5,
+          "fee": 76373
+        }
+      ],
+      "totalTuitionFee": 381865,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-biomedical-sciences-hons",
+      "universityId": "segi",
+      "name": "Bachelor of Biomedical Sciences (Hons)",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34278,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34278
+        },
+        {
+          "year": 2,
+          "fee": 34278
+        },
+        {
+          "year": 3,
+          "fee": 34278
+        }
+      ],
+      "totalTuitionFee": 102834,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-dental-surgery-bds",
+      "universityId": "segi",
+      "name": "Bachelor of Dental Surgery (BDS)",
+      "nameAr": "بكالوريوس في Bachelor of Dental Surgery (BDS",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 75202,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 75202
+        },
+        {
+          "year": 2,
+          "fee": 75202
+        },
+        {
+          "year": 3,
+          "fee": 75202
+        },
+        {
+          "year": 4,
+          "fee": 75202
+        },
+        {
+          "year": 5,
+          "fee": 75202
+        }
+      ],
+      "totalTuitionFee": 376010,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-optometry-hons",
+      "universityId": "segi",
+      "name": "Bachelor of Optometry (Hons)",
+      "nameAr": "بكالوريوس في بصريات العيون",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27581,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27581
+        },
+        {
+          "year": 2,
+          "fee": 27581
+        },
+        {
+          "year": 3,
+          "fee": 27581
+        },
+        {
+          "year": 4,
+          "fee": 27581
+        }
+      ],
+      "totalTuitionFee": 110324,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-pharmacy-hons",
+      "universityId": "segi",
+      "name": "Bachelor of Pharmacy (Hons)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 35929,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35929
+        },
+        {
+          "year": 2,
+          "fee": 35929
+        },
+        {
+          "year": 3,
+          "fee": 35929
+        },
+        {
+          "year": 4,
+          "fee": 35929
+        }
+      ],
+      "totalTuitionFee": 143716,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-foundation-in-science-online-degree",
+      "universityId": "segi",
+      "name": "Foundation in Science - Online Degree",
+      "nameAr": "برنامج تمهيدي في العلوم أونلاين",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 16650,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16650
+        }
+      ],
+      "totalTuitionFee": 16650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-in-psychology-online-degree",
+      "universityId": "segi",
+      "name": "Diploma in Psychology - Online Degree",
+      "nameAr": "دبلوم في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 12123,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12123
+        },
+        {
+          "year": 2,
+          "fee": 12123
+        }
+      ],
+      "totalTuitionFee": 24246,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-psychology-honours-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Psychology (Honours) - Online Degree",
+      "nameAr": "بكالوريوس علم النفس (مع مرتبة الشرف) أونلاين",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 16935,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16935
+        },
+        {
+          "year": 2,
+          "fee": 16935
+        },
+        {
+          "year": 3,
+          "fee": 16935
+        }
+      ],
+      "totalTuitionFee": 50805,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-education-hons-in-early-childhood-education",
+      "universityId": "segi",
+      "name": "Bachelor of Education (Hons) in Early Childhood Education",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24286,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24286
+        },
+        {
+          "year": 2,
+          "fee": 24286
+        },
+        {
+          "year": 3,
+          "fee": 24286
+        }
+      ],
+      "totalTuitionFee": 72858,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-education-hons-in-tesl",
+      "universityId": "segi",
+      "name": "Bachelor of Education (Hons) in TESL",
+      "nameAr": "بكالوريوس في Bachelor of Education (Hons) in TESL",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24286,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24286
+        },
+        {
+          "year": 2,
+          "fee": 24286
+        },
+        {
+          "year": 3,
+          "fee": 24286
+        }
+      ],
+      "totalTuitionFee": 72858,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-education-hons-in-special-needs-education",
+      "universityId": "segi",
+      "name": "Bachelor of Education (Hons) in Special Needs Education",
+      "nameAr": "بكالوريوس في Bachelor of Education (Hons) in Special Needs Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 154465,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 154465
+        },
+        {
+          "year": 2,
+          "fee": 154465
+        },
+        {
+          "year": 3,
+          "fee": 154465
+        }
+      ],
+      "totalTuitionFee": 463395,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-education-hons-in-guidance-and-counselling",
+      "universityId": "segi",
+      "name": "Bachelor of Education (Hons) in Guidance and Counselling",
+      "nameAr": "بكالوريوس في Bachelor of Education (Hons) in Guidance and Counselling",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24286,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24286
+        },
+        {
+          "year": 2,
+          "fee": 24286
+        },
+        {
+          "year": 3,
+          "fee": 24286
+        }
+      ],
+      "totalTuitionFee": 72858,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-early-years-education",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Early Years Education",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Early Years Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18508,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18508
+        },
+        {
+          "year": 2,
+          "fee": 18508
+        },
+        {
+          "year": 3,
+          "fee": 18508
+        }
+      ],
+      "totalTuitionFee": 55524,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-early-years-education-1",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Early Years Education",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Early Years Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18508,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17020
+        },
+        {
+          "year": 2,
+          "fee": 17020
+        },
+        {
+          "year": 3,
+          "fee": 17020
+        }
+      ],
+      "totalTuitionFee": 51060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-early-years-education-2",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Early Years Education",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Early Years Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18508,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15444
+        },
+        {
+          "year": 2,
+          "fee": 15444
+        },
+        {
+          "year": 3,
+          "fee": 15444
+        }
+      ],
+      "totalTuitionFee": 46332,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-early-years-education-3",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Early Years Education",
+      "nameAr": "بكالوريوس في Bachelor (Hons) Early Years Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18508,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17031
+        },
+        {
+          "year": 2,
+          "fee": 17031
+        },
+        {
+          "year": 3,
+          "fee": 17031
+        }
+      ],
+      "totalTuitionFee": 51093,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-education-by-research-online-degree",
+      "universityId": "segi",
+      "name": "Master of Education by Research - Online Degree",
+      "nameAr": "ماجستير التربية (بحثي) أونلاين",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17195,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17195
+        },
+        {
+          "year": 2,
+          "fee": 17195
+        }
+      ],
+      "totalTuitionFee": 34390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-education-by-research",
+      "universityId": "segi",
+      "name": "Master of Education by Research",
+      "nameAr": "ماجستير في Master of Education by Research",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16068,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16068
+        },
+        {
+          "year": 2,
+          "fee": 16068
+        }
+      ],
+      "totalTuitionFee": 32136,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-education-by-coursework",
+      "universityId": "segi",
+      "name": "Master of Education (by Coursework)",
+      "nameAr": "ماجستير في Master of Education (بالمقررات الدراسية)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31014,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31014
+        }
+      ],
+      "totalTuitionFee": 31014,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-philosophy-education-by-research-online-degree",
+      "universityId": "segi",
+      "name": "Doctor of Philosophy (Education) by Research - Online Degree",
+      "nameAr": "دكتوراه الفلسفة في التربية (بحثي) أونلاين",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13126,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13126
+        },
+        {
+          "year": 2,
+          "fee": 13126
+        },
+        {
+          "year": 3,
+          "fee": 13126
+        }
+      ],
+      "totalTuitionFee": 39378,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-doctor-of-philosophy-education-by-research",
+      "universityId": "segi",
+      "name": "Doctor of Philosophy (Education) by Research",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education) by Research",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19967,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19967
+        },
+        {
+          "year": 2,
+          "fee": 19967
+        },
+        {
+          "year": 3,
+          "fee": 19967
+        }
+      ],
+      "totalTuitionFee": 59901,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-in-early-childhood-education-online-degree",
+      "universityId": "segi",
+      "name": "Diploma in Early Childhood Education - Online Degree",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 9938,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9938
+        },
+        {
+          "year": 2,
+          "fee": 9938
+        }
+      ],
+      "totalTuitionFee": 19876,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-education-by-coursework-online-degree",
+      "universityId": "segi",
+      "name": "Master of Education (By Coursework) - Online Degree",
+      "nameAr": "ماجستير في Education أونلاين (بالمقررات الدراسية) أونلاين",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 20392,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20392
+        }
+      ],
+      "totalTuitionFee": 20392,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-laws",
+      "universityId": "segi",
+      "name": "Bachelor of Laws",
+      "nameAr": "بكالوريوس القانون",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 13680,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13680
+        },
+        {
+          "year": 2,
+          "fee": 13680
+        },
+        {
+          "year": 3,
+          "fee": 13680
+        }
+      ],
+      "totalTuitionFee": 41040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-laws-ll-m-in-advanced-legal-practice",
+      "universityId": "segi",
+      "name": "Master of Laws (LL.M) in Advanced Legal Practice",
+      "nameAr": "ماجستير في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 38805,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38805
+        }
+      ],
+      "totalTuitionFee": 38805,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-foundation-in-arts",
+      "universityId": "segi",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 17318,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17318
+        }
+      ],
+      "totalTuitionFee": 17318,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-arts-hons-visual-communication-design",
+      "universityId": "segi",
+      "name": "Bachelor of Arts (Hons) Visual Communication Design",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Visual Communication Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23018,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23018
+        },
+        {
+          "year": 2,
+          "fee": 23018
+        },
+        {
+          "year": 3,
+          "fee": 23018
+        }
+      ],
+      "totalTuitionFee": 69054,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-arts-hons-in-english-and-public-relations",
+      "universityId": "segi",
+      "name": "Bachelor of Arts (Hons) in English and Public Relations",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في العلاقات العامة",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22088,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22088
+        },
+        {
+          "year": 2,
+          "fee": 22088
+        },
+        {
+          "year": 3,
+          "fee": 22088
+        }
+      ],
+      "totalTuitionFee": 66264,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-arts-honours-in-interior-architecture",
+      "universityId": "segi",
+      "name": "Bachelor of Arts (Honours) in Interior Architecture",
+      "nameAr": "بكالوريوس الآداب في الهندسة المعمارية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25705,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25705
+        },
+        {
+          "year": 2,
+          "fee": 25705
+        },
+        {
+          "year": 3,
+          "fee": 25705
+        }
+      ],
+      "totalTuitionFee": 77115,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-foundation-in-arts-online-degree",
+      "universityId": "segi",
+      "name": "Foundation in Arts - Online Degree",
+      "nameAr": "برنامج تمهيدي في الآداب والعلوم الإنسانية أونلاين",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 14530,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14530
+        }
+      ],
+      "totalTuitionFee": 14530,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-in-multimedia-design-online-degree",
+      "universityId": "segi",
+      "name": "Diploma in Multimedia Design - Online Degree",
+      "nameAr": "دبلوم تصميم الوسائط المتعددة (الملتيميديا) أونلاين",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 8095,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8095
+        },
+        {
+          "year": 2,
+          "fee": 8095
+        },
+        {
+          "year": 3,
+          "fee": 8095
+        }
+      ],
+      "totalTuitionFee": 24285,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-diploma-in-graphic-design-online-degree",
+      "universityId": "segi",
+      "name": "Diploma in Graphic Design - Online Degree",
+      "nameAr": "دبلوم في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 8129,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8129
+        },
+        {
+          "year": 2,
+          "fee": 8129
+        },
+        {
+          "year": 3,
+          "fee": 8129
+        }
+      ],
+      "totalTuitionFee": 24387,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-in-multimedia-design-honours-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor in Multimedia Design (Honours) - Online Degree",
+      "nameAr": "بكالوريوس في Bachelor in Multimedia Design (Honours) أونلاين",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 14833,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14833
+        },
+        {
+          "year": 2,
+          "fee": 14833
+        },
+        {
+          "year": 3,
+          "fee": 14833
+        }
+      ],
+      "totalTuitionFee": 44499,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-arts-honours-visual-communication-design-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Arts (Honours) Visual Communication Design - Online Degree",
+      "nameAr": "بكالوريوس الآداب في Honours) Visual Communication Design أونلاين",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 14833,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14833
+        },
+        {
+          "year": 2,
+          "fee": 14833
+        },
+        {
+          "year": 3,
+          "fee": 14833
+        }
+      ],
+      "totalTuitionFee": 44499,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-arts-hons-multimedia-design",
+      "universityId": "segi",
+      "name": "Bachelor of Arts (Hons) Multimedia Design",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Multimedia Design",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23018,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23018
+        },
+        {
+          "year": 2,
+          "fee": 23018
+        },
+        {
+          "year": 3,
+          "fee": 23018
+        }
+      ],
+      "totalTuitionFee": 69054,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-mass-communication-hons-in-public-relations",
+      "universityId": "segi",
+      "name": "Bachelor of Mass Communication (Hons) in Public Relations",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19252,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19252
+        },
+        {
+          "year": 2,
+          "fee": 19252
+        },
+        {
+          "year": 3,
+          "fee": 19252
+        }
+      ],
+      "totalTuitionFee": 57756,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-mass-communication-hons-in-broadcasting",
+      "universityId": "segi",
+      "name": "Bachelor of Mass Communication (Hons) in Broadcasting",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19252,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19252
+        },
+        {
+          "year": 2,
+          "fee": 19252
+        },
+        {
+          "year": 3,
+          "fee": 19252
+        }
+      ],
+      "totalTuitionFee": 57756,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-mass-communication-hons-in-advertising",
+      "universityId": "segi",
+      "name": "Bachelor of Mass Communication (Hons) in Advertising",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19252,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19252
+        },
+        {
+          "year": 2,
+          "fee": 19252
+        },
+        {
+          "year": 3,
+          "fee": 19252
+        }
+      ],
+      "totalTuitionFee": 57756,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-advertising-and-digital-marketing-communications-2",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Advertising and Digital Marketing Communications",
+      "nameAr": "بكالوريوس في التسويق الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17020
+        },
+        {
+          "year": 2,
+          "fee": 17020
+        },
+        {
+          "year": 3,
+          "fee": 17020
+        }
+      ],
+      "totalTuitionFee": 51060,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-mass-communication-hons-online-degree",
+      "universityId": "segi",
+      "name": "Bachelor of Mass Communication (Hons) - Online Degree",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15366,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15366
+        },
+        {
+          "year": 2,
+          "fee": 15366
+        },
+        {
+          "year": 3,
+          "fee": 15366
+        }
+      ],
+      "totalTuitionFee": 46098,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-arts-in-corporate-communications",
+      "universityId": "segi",
+      "name": "Master of Arts in Corporate Communications",
+      "nameAr": "ماجستير في Master of Arts in Corporate Communications",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.6,
+      "annualFee": 30466,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30466
+        }
+      ],
+      "totalTuitionFee": 30466,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-foundation-in-science",
+      "universityId": "segi",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Other",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19078,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19078
+        }
+      ],
+      "totalTuitionFee": 19078,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-psychology-honours",
+      "universityId": "segi",
+      "name": "Bachelor of Psychology (Honours)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26172,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26172
+        },
+        {
+          "year": 2,
+          "fee": 26172
+        },
+        {
+          "year": 3,
+          "fee": 26172
+        }
+      ],
+      "totalTuitionFee": 78516,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-science-hons-architecture",
+      "universityId": "segi",
+      "name": "Bachelor of Science (Hons) Architecture",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في الهندسة المعمارية",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29696,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29696
+        },
+        {
+          "year": 2,
+          "fee": 29696
+        },
+        {
+          "year": 3,
+          "fee": 29696
+        }
+      ],
+      "totalTuitionFee": 89088,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-of-science-hons-quantity-surveying",
+      "universityId": "segi",
+      "name": "Bachelor of Science (Hons) Quantity Surveying",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في حساب الكميات وإدارة التشييد",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21484,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21484
+        },
+        {
+          "year": 2,
+          "fee": 21484
+        },
+        {
+          "year": 3,
+          "fee": 21484
+        }
+      ],
+      "totalTuitionFee": 64452,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-bachelor-hons-psychology",
+      "universityId": "segi",
+      "name": "Bachelor (Hons) Psychology",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17031,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17031
+        },
+        {
+          "year": 2,
+          "fee": 17031
+        },
+        {
+          "year": 3,
+          "fee": 17031
+        }
+      ],
+      "totalTuitionFee": 51093,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-master-of-science-pharmaceutical-science",
+      "universityId": "segi",
+      "name": "Master of Science (Pharmaceutical Science)",
+      "nameAr": "ماجستير العلوم في Pharmaceutical Science",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16513,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16513
+        },
+        {
+          "year": 2,
+          "fee": 16513
+        }
+      ],
+      "totalTuitionFee": 33026,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "segi-msc-vision-science-by-research",
+      "universityId": "segi",
+      "name": "MSc (Vision Science) by Research",
+      "nameAr": "برنامج في MSc (Vision Science) by Research",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 19629,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19629
+        },
+        {
+          "year": 2,
+          "fee": 19629
+        }
+      ],
+      "totalTuitionFee": 39258,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 126,
+  "totalProgramsCount": 126
+}

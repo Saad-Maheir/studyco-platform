@@ -1,0 +1,2054 @@
+{
+  "id": "monash",
+  "slug": "monash-university-malaysia",
+  "name": "Monash University Malaysia",
+  "arabicName": "جامعة موناش ماليزيا (Monash University)",
+  "city": "Bandar Sunway, Selangor",
+  "cityKey": "city_sunway",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-monash.webp",
+  "image": "assets/photo/campus_monash.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/Xlc3t6KevYM",
+  "website": "https://www.monash.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "Rank 37 QS World University Rankings 2025 (Australia Group of Eight Go8)",
+  "rankingBadgeKey": "monash_rank_badge",
+  "established": "1998",
+  "campusName": "Bandar Sunway Branch Campus",
+  "studentCount": "9,500+ (75+ Countries)",
+  "intakes": "Feb, Jul, Oct",
+  "feeRangeMin": 37080,
+  "feeRangeMax": 138720,
+  "currency": "MYR",
+  "majors": [
+    "business",
+    "cs",
+    "engineering",
+    "health",
+    "arts",
+    "science"
+  ],
+  "similarUniversities": [
+    "taylors",
+    "sunway",
+    "apu"
+  ],
+  "totalProgramsCount": 44,
+  "description": "Monash University Malaysia is the prestigious premier Asian campus of Australia's top-tier Group of Eight (Go8) Monash University, ranked Rank 37 globally. Students earn identical Australian degree parchments at a fraction of the cost with full transfer rights to Melbourne.",
+  "descriptionAr": "تُعد جامعة موناش ماليزيا الفرع الرسمي لجامعة موناش الأسترالية العريقة المصنفة رقم 37 عالمياً في QS وعضو تحالف جامعات النخبة الثمانية الأسترالية (Go8). يمنح الحرم الجامعي في ماليزيا شهادة أسترالية مطابقة 100% لشهادة ملبورن بتكلفة موفرة للغاية وإمكانية التحويل المباشر.",
+  "about": {
+    "id": "Monash University Malaysia didirikan pada tahun 1998 di Bandar Sunway sebagai kampus cabang internasional pertama dari Monash University Australia, anggota bergengsi Group of Eight (Go8) yang menduduki peringkat ke-37 di dunia dalam QS World University Rankings 2025.",
+    "en": "Monash University Malaysia, established in 1998 in Bandar Sunway, is the premier international branch campus of Monash University Australia, an elite Group of Eight (Go8) institution ranked Rank 37 globally in the QS World University Rankings 2025.",
+    "ar": "تأسس فرع جامعة موناش الأسترالية في ماليزيا عام 1998 في بندر صنواي، وهو الحرم الدولي الأول لجامعة موناش إحدى جامعات مجموعة الثماني (Go8) المرموقة المصنفة في المرتبة 37 على مستوى العالم في QS.",
+    "zh": "莫纳什大学马来西亚分校创办于1998年，坐落于雪兰莪州双威镇，是澳大利亚顶级八大名校联盟（Go8）核心成员莫纳什大学（2025年QS全球第37位）设立的第一所海外直属国际校区。",
+    "ru": "Малайзийский кампус Университета Монаша в Бандар-Санвей — первый международный филиал австралийского Monash University (Rank 37 в мире QS 2025, Group of Eight), выдающий дипломы мирового уровня.",
+    "fr": "Le campus de Monash University Malaysia à Bandar Sunway est l'antenne officielle de Monash University Australia (37e mondiale au QS 2025, Groupe des Huit), offrant des diplômes d'excellence.",
+    "es": "El campus de Monash University Malaysia en Bandar Sunway es la sede de Monash University de Australia (37.º mundial en QS 2025, Group of Eight), otorgando títulos oficiales australianos.",
+    "ja": "モナシュ大学マレーシア校は豪名門Group of Eightの一角であるモナシュ大学（QS世界第37位）の直営校であり、同一水準のオーストラリア正規学位を授与。",
+    "ko": "모나시 대학교 말레이시아 캠퍼스는 2025년 QS 세계 37위에 오른 호주 선도 8대 명문대학(Group of Eight) 모나시 대학교의 공식 직속 분교로 동일한 학위를 수여합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Fasilitas Riset Genomik & Laboratorium Medis Mutakhir",
+        "en": "Genomics Facility & Advanced Medical Laboratories",
+        "ar": "مختبرات بحوث الجينوم والعلوم الطبية الحيوية المتقدمة",
+        "ko": "유전체학 연구 시설 및 첨단 생명 의학 랩",
+        "ja": "ゲノミクス研究施設および最先端医科学実験室",
+        "zh": "基因组学前沿研究实验室与先进生物医学实训中心",
+        "ru": "Лаборатории геномики и передовых медицинских исследований",
+        "fr": "Laboratoires de recherche en génomique et sciences biomédicales",
+        "es": "Instalaciones de investigación genómica y laboratorios médicos avanzados"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Ruang Kelas Pembelajaran Aktif Terkoneksi Monash Australia",
+        "en": "Active Learning Spaces Connected to Monash Melbourne",
+        "ar": "قاعات التدريس الذكية التفاعلية المرتبطة بشبكة موناش ملبورن",
+        "ko": "호주 멜버른 본교 연동 스마트 액티브 러닝 강의실",
+        "ja": "豪州メルボルン本校と直結したアクティブ・ラーニング教室",
+        "zh": "与澳大利亚墨尔本总校实时互联的智慧主动式互动研讨厅",
+        "ru": "Интерактивные аудитории, подключенные к кампусу в Мельбурне",
+        "fr": "Salles d'apprentissage interactif connectées à Monash Melbourne",
+        "es": "Aulas interactivas de aprendizaje activo conectadas a Monash Melbourne"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Institut Penelitian Otak & Neurosains BRIMS",
+        "en": "Brain Research Institute Monash Sunway (BRIMS)",
+        "ar": "معهد بحوث الدماغ والأعصاب والعلوم العصبية (BRIMS)",
+        "ko": "BRIMS 모나쉬 선웨이 뇌·신경과학 연구소",
+        "ja": "BRIMSモナシュ・サンウェイ脳神経科学研究所",
+        "zh": "BRIMS莫纳什双威脑科学与神经科学卓越研究所",
+        "ru": "Институт исследования мозга и нейронаук BRIMS",
+        "fr": "Institut de recherche sur le cerveau et neurosciences BRIMS",
+        "es": "Instituto de Investigación Cerebral y Neurociencias BRIMS"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Studio Desain Rekayasa Teknik & Robotika Multi-Disiplin",
+        "en": "Multi-Disciplinary Engineering & Robotics Design Suites",
+        "ar": "أجنحة التصميم الهندسي المتعدد التخصصات وتطبيقات الروبوتات",
+        "ko": "다학제 공학 설계 및 로봇 종합 실습 스위트",
+        "ja": "学際的エンジニアリング設計およびロボティクス工房",
+        "zh": "多学科综合工程设计工坊与智能机器人研发中心",
+        "ru": "Мультидисциплинарные инженерные и робототехнические дизайн-студии",
+        "fr": "Suites de conception en ingénierie et robotique multidisciplinaire",
+        "es": "Estudios de diseño de ingeniería y robótica multidisciplinar"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇦🇺",
+      "title": {
+        "id": "Anggota Group of Eight (Go8) Australia (Peringkat Rank 37 Dunia QS)",
+        "en": "Australia Group of Eight Member (Rank 37 QS World Ranked)",
+        "ar": "عضو تحالف النخبة الأسترالي Group of Eight (المرتبة 37 عالمياً)",
+        "ko": "호주 최고 명문 대학 연합 Group of Eight (QS 세계 37위)",
+        "ja": "オーストラリア主要8大学（Go8）加盟校（QS世界第37位）",
+        "zh": "澳大利亚顶尖八校联盟(Group of Eight)成员，QS世界排名第37位",
+        "ru": "Член элитной австралийской ассоциации Group of Eight (№37 в мире QS)",
+        "fr": "Membre de l'alliance d'élite australienne Group of Eight (37e mondial QS)",
+        "es": "Miembro del exclusivo Group of Eight de Australia (Puesto 37 mundial QS)"
+      },
+      "desc": {
+        "id": "Diakui secara global sebagai salah satu universitas riset terbaik di dunia dengan reputasi alumni tertinggi.",
+        "en": "Globally recognized among the world's finest research universities with elite graduate employment outcomes.",
+        "ar": "معترف بها عالمياً كواحدة من أفضل الجامعات البحثية المرموقة، وتتمتع بأعلى معدلات التوظيف في كبرى الشركات العالمية.",
+        "ko": "세계 최고 수준의 연구 성과와 글로벌 기업들이 선호하는 졸업생 평판 보유.",
+        "ja": "世界トップクラスの研究水準と、国際機関やグローバル企業から極めて高い卒業生評価を誇る。",
+        "zh": "被公认为全球最顶尖的研究型大学之一，毕业生在全球跨国企业中享有极高的雇主声誉。",
+        "ru": "Всемирно признанный исследовательский университет с безупречной репутацией выпускников среди работодателей.",
+        "fr": "Reconnue mondialement comme l'une des meilleures universités de recherche avec d'excellents débouchés.",
+        "es": "Reconocida internacionalmente entre las mejores universidades de investigación del mundo con gran empleabilidad."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Ijazah Resmi Australia 100% Identik",
+        "en": "100% Identical Australian Monash Degree Parchment",
+        "ar": "شهادة تخرج رسمية أسترالية مطابقة بنسبة 100%",
+        "ko": "호주 멜버른 본교와 100% 동일한 공식 학위증 발급",
+        "ja": "豪州メルボルン本校と100%同一の正規学位記授与",
+        "zh": "颁发与澳大利亚墨尔本总校100%完全一致的正式学位证书",
+        "ru": "Официальный австралийский диплом, на 100% идентичный выданному в Мельбурне",
+        "fr": "Diplôme officiel australien 100% identique à celui délivré à Melbourne",
+        "es": "Título oficial australiano 100% idéntico al otorgado en Melbourne"
+      },
+      "desc": {
+        "id": "Ijazah dikeluarkan langsung oleh Monash University Australia tanpa mencantumkan kata kampus cabang.",
+        "en": "The degree scroll is conferred directly by Monash University Australia with identical academic standing.",
+        "ar": "تصدر شهادة التخرج مباشرة من جامعة موناش بأستراليا بنفس المعايير ودون أي اختلاف في الاعتماد الأكاديمي.",
+        "ko": "호주 본교 학위수여위원회에서 직접 발급하며 캠퍼스 구분 없이 동일한 학위로 공인됩니다.",
+        "ja": "オーストラリア本校から直接授与され、世界中どこでも同一の価値として認められます。",
+        "zh": "学位由澳大利亚莫纳什大学统一颁发，享有完全同等的全球学术地位与行业认可度。",
+        "ru": "Диплом выдается университетом Монаша в Австралии и имеет абсолютно равную юридическую силу.",
+        "fr": "Le diplôme est délivré directement par Monash Australie avec une reconnaissance internationale totale.",
+        "es": "El título es otorgado directamente por Monash University Australia con plena validez internacional."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Opsi Transfer & Study Abroad Fleksibel ke Melbourne",
+        "en": "Seamless Transfer & Exchange to Monash Melbourne",
+        "ar": "إمكانية الانتقال والدراسة في حرم ملبورن بأستراليا بسلاسة",
+        "ko": "호주 멜버른 캠퍼스로의 자유로운 편입 및 교환학생 기회",
+        "ja": "豪州メルボルン校へのスムーズな編入・交換留学プログラム",
+        "zh": "无缝衔接直接转学或赴澳大利亚墨尔本主校区进行学期交换",
+        "ru": "Возможность легкого перевода и обмена с кампусами в Мельбурне",
+        "fr": "Possibilité de transfert et d'échange fluide vers le campus de Melbourne",
+        "es": "Opciones de transferencia e intercambio fluidos a los campus de Melbourne"
+      },
+      "desc": {
+        "id": "Mahasiswa dapat memulai kuliah di Malaysia dan melanjutkan semester berikutnya di kampus Clayton atau Caulfield Melbourne.",
+        "en": "Students can seamlessly transition to Clayton or Caulfield campuses in Melbourne during their study period.",
+        "ar": "يستطيع الطالب بدء دراسته في ماليزيا واستكمال الفصول المتقدمة في فروع الجامعة بمدينة ملبورن الاسترالية.",
+        "ko": "학업 중 호주 멜버른의 클레이튼 또는 콜필드 캠퍼스로 학점을 그대로 인정받고 전환 가능.",
+        "ja": "在学中にメルボルンのクレイトンまたはコールフィールドキャンパスへ移行して学修を継続可能。",
+        "zh": "学生可在马来西亚校区开启学业，并在后续学年无缝转入墨尔本克莱顿(Clayton)或考菲尔德(Caulfield)校区。",
+        "ru": "Студенты могут начать обучение в Малайзии и перевестись в кампусы Clayton или Caulfield в Мельбурне.",
+        "fr": "Les étudiants peuvent commencer en Malaisie et poursuivre sur les campus de Clayton ou Caulfield à Melbourne.",
+        "es": "Los estudiantes pueden comenzar en Malasia y continuar en los campus de Clayton o Caulfield en Melbourne."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Hemat Hingga 65% Biaya Kuliah & Biaya Hidup",
+        "en": "Save Up to 65% in Tuition and Living Costs",
+        "ar": "توفير يصل حتى 65% في الرسوم الدراسية ومصاريف المعيشة",
+        "ko": "호주 유학 대비 학비 및 생활비 최대 65% 절감",
+        "ja": "オーストラリア本土留学と比較して学費・生活費を最大65%節約",
+        "zh": "相比赴澳本土留学节省高达65%的学费与生活开销",
+        "ru": "Экономия до 65% на стоимости обучения и проживания по сравнению с Австралией",
+        "fr": "Économisez jusqu'à 65% sur les frais de scolarité et de subsistance par rapport à l'Australie",
+        "es": "Ahorre hasta un 65% en matrícula y costo de vida en comparación con Australia"
+      },
+      "desc": {
+        "id": "Mendapatkan ijazah universitas top-40 dunia dengan biaya kuliah Malaysia dan gaya hidup terjangkau.",
+        "en": "Earn an elite top-40 global degree at affordable Malaysian tuition fees and cost-effective living standards.",
+        "ar": "الحصول على شهادة من أفضل 40 جامعة في العالم برسوم دراسية ماليزية وتكلفة معيشية ميسرة للغاية.",
+        "ko": "세계 40위권 최상위 명문대 학위를 합리적인 말레이시아 물가와 학비로 취득.",
+        "ja": "世界トップ40の名門学位を、リーズナブルなマレーシアの費用水準で取得可能。",
+        "zh": "以马来西亚高性价比的学费标准与生活成本，轻松斩获世界前40顶尖名校文凭。",
+        "ru": "Получение диплома из топ-40 лучших вузов планеты при доступных расходах в Малайзии.",
+        "fr": "Obtenez un diplôme du top 40 mondial avec les coûts avantageux de la Malaisie.",
+        "es": "Obtenga un título entre los 40 mejores del mundo con costos accesibles en Malasia."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Monash University Malaysia internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة موناش ماليزيا (Monash University) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Monash University Malaysia diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Monash University Malaysia is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة موناش ماليزيا (Monash University) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Monash University Malaysia terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Monash University Malaysia?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة موناش ماليزيا (Monash University)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Monash University Malaysia?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Monash University Malaysia?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة موناش ماليزيا (Monash University)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Monash University Malaysia?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Monash University Malaysia without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Pendaftaran Monash Malaysia & Jalur Transfer ke Melbourne",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Monash University Malaysia",
+        "ar": "دليل القبول في جامعة موناش ماليزيا وخطوات التحويل إلى ملبورن بأستراليا",
+        "zh": "Monash University Malaysia 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Monash University Malaysia",
+        "fr": "Guide complet d'admission et visa étudiant pour Monash University Malaysia",
+        "es": "Guía completa de admisión y visado de estudiante para Monash University Malaysia",
+        "ja": "Monash University Malaysia 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Monash University Malaysia 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Syarat nilai akademik, sertifikat IELTS, dan langkah pengajuan transfer kampus ke Monash Australia.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شرح شامل لشروط الدرجات الأكاديمية، متطلبات اللغة الإنجليزية، وإجراءات الانتقال لحرم أستراليا.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Perbandingan Biaya Kuliah Monash Malaysia vs Australia & Estimasi Biaya Hidup",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Monash University Malaysia",
+        "ar": "مقارنة تكاليف الدراسة في موناش ماليزيا مقابل أستراليا ونفقات المعيشة",
+        "zh": "Monash University Malaysia 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Monash University Malaysia",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Monash University Malaysia",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Monash University Malaysia",
+        "ja": "Monash University Malaysia 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Monash University Malaysia 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Analisis penghematan biaya kuliah dan rincian anggaran bulanan mahasiswa di kawasan Bandar Sunway.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "دراسة تحليلية لنسبة التوفير الكبيرة في الرسوم ومصروفات السكن والمطاعم في منطقة بندر صنواي.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Beasiswa Prestasi Internasional Monash High Achiever Award di Malaysia",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Monash University Malaysia",
+        "ar": "منح التميز الأكاديمي للطلاب الدوليين (Monash High Achiever Award)",
+        "zh": "Monash University Malaysia 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Monash University Malaysia",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Monash University Malaysia",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Monash University Malaysia",
+        "ja": "Monash University Malaysia 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Monash University Malaysia 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Kesempatan mendapatkan beasiswa potongan biaya kuliah hingga RM 10.000 per tahun.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "تفاصيل وشروط الحصول على منح التميز السنوية للطلاب الجدد المتفوقين في الثانوية العامة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Sunway-Monash Residence (SMR)",
+        "nameAr": "سكن صنواي-موناش الطلابي الفاخر (SMR)",
+        "type": "Premium Ensuite Single & Twin Rooms",
+        "typeAr": "غرف فردية ومزدوجة فاخرة بحمام خاص وتكييف كامل",
+        "priceRange": "RM 950 - RM 1,900 / month",
+        "priceRangeAr": "950 - 1,900 رينجيت / شهرياً",
+        "distance": "3 menit jalan kaki via jembatan khusus kampus",
+        "amenities": [
+          "Jembatan Khusus Terhubung ke Kampus",
+          "Kolam Renang Olimpiade & Gym",
+          "Ruang Diskusi & Wi-Fi Berkecepatan Tinggi",
+          "Keamanan 24 Jam & Akses Kartu Cerdas",
+          "Kafetaria & Minimarket di Lokasi"
+        ],
+        "amenitiesAr": [
+          "جسر مشاة خاص متصل مباشرة بحرم الجامعة",
+          "مسبح بمواصفات أولمبية وصالة لياقة بدنية",
+          "قاعات استذكار جماعية وإنترنت سريع",
+          "أمن إلكتروني وحراسة وبوابات ذكية 24 ساعة",
+          "كافتيريا ومطاعم وسوبرماركت داخلي"
+        ],
+        "distanceAr": "3 دقائق سيراً على الأقدام عبر جسر المشاة الخاص بالحرم",
+        "distanceEn": "3-minute walk via dedicated private canopy bridge"
+      },
+      {
+        "name": "Nadayu 28 Luxury Residences",
+        "nameAr": "أبراج شقق نادايو 28 الفندقية الفاخرة",
+        "type": "Modern Serviced Condominium",
+        "typeAr": "شقق فندقية عصرية فاخرة متكاملة الخدمات",
+        "priceRange": "RM 900 - RM 1,800 / month",
+        "priceRangeAr": "900 - 1,800 رينجيت / شهرياً",
+        "distance": "5 menit jalan kaki dari kampus",
+        "amenities": [
+          "Berada tepat di depan kampus Monash",
+          "Kolam Renang Infinity & Lapangan Tenis",
+          "Dapur Modern & Perabotan Lengkap",
+          "Restoran & Kafe Internasional di Bawah",
+          "Sistem Keamanan Multi-Tier 24 Jam"
+        ],
+        "amenitiesAr": [
+          "مقابل بوابات حرم جامعة موناش مباشرة (5 دقائق)",
+          "مسبح إنفينيتي وملاعب تنس واسكواش",
+          "مطبخ مجهز بالكامل ومفروشات راقية",
+          "مطاعم وكافيهات عالمية أسفل الأبراج",
+          "نظام حراسة أمنية متعدد المستويات 24 ساعة"
+        ],
+        "distanceAr": "5 دقائق سيراً على الأقدام من الحرم الجامعي",
+        "distanceEn": "5-minute walk to campus"
+      },
+      {
+        "name": "Lagoon View Resort Condominium",
+        "nameAr": "منتجع وشقق لاجون فيو الفاخرة",
+        "type": "Spacious Student Condominium",
+        "typeAr": "شقق سكنية طلابية واسعة ومريحة",
+        "priceRange": "RM 700 - RM 1,300 / month",
+        "priceRangeAr": "700 - 1,300 رينجيت / شهرياً",
+        "distance": "6 menit jalan kaki dari kampus",
+        "amenities": [
+          "Kawasan Hunian Tenang & Asri",
+          "Kolam Renang & Fasilitas Olahraga",
+          "Dekat Minimarket & Jalur BRT Sunway",
+          "Layanan Kebersihan & Manajemen Profesional",
+          "Keamanan 24 Jam"
+        ],
+        "amenitiesAr": [
+          "بيئة سكنية هادئة محاطة بالمساحات الخضراء",
+          "مسبح ومرافق لياقة بدنية وملاعب",
+          "قريبة من المتاجر ومحطة قطار BRT",
+          "خدمات نظافة وصيانة وإدارة احترافية",
+          "أمن وحراسة على مدار الساعة"
+        ],
+        "distanceAr": "6 دقائق سيراً على الأقدام من الحرم الجامعي",
+        "distanceEn": "6-minute walk to campus"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 850 - RM 1,700",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "المأكولات والمشتريات اليومية",
+        "cost": "RM 750 - RM 1,100",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi Lokal & BRT",
+        "itemAr": "المواصلات وحافلات BRT الكهربائية",
+        "cost": "RM 80 - RM 150",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "cost": "RM 90 - RM 160",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Buku, Akademik & Hiburan",
+        "itemAr": "الكتب والمصروفات الشخصية والترفيه",
+        "cost": "RM 250 - RM 500",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 2,020 - RM 3,610",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation (MUFY)",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية المعتمدة (MUFY)",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 30,000 - RM 34,000"
+    },
+    {
+      "level": "Monash College Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "دبلوم كلية موناش المباشر للجامعة",
+      "duration": "1 - 1.5 Years",
+      "avgFeePerYear": "RM 34,000 - RM 38,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Go8 Australia)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس الأسترالي المباشر (Group of Eight)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 45,000 - RM 62,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير الأسترالي المعتمد عالمياً",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 48,000 - RM 58,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه والبحوث العلمية الأسترالية المتقدمة",
+      "duration": "3 - 4 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 38,000 - RM 48,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=Xlc3t6KevYM",
+  "programs": [
+    {
+      "id": "monash-bachelor-of-computer-science",
+      "universityId": "monash",
+      "name": "Bachelor of Computer Science",
+      "nameAr": "بكالوريوس علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-computer-science-in-data-science",
+      "universityId": "monash",
+      "name": "Bachelor of Computer Science in Data Science",
+      "nameAr": "بكالوريوس علوم الحاسب في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-applied-data-science",
+      "universityId": "monash",
+      "name": "Bachelor of Applied Data Science",
+      "nameAr": "بكالوريوس في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 60480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60480
+        },
+        {
+          "year": 2,
+          "fee": 60480
+        },
+        {
+          "year": 3,
+          "fee": 60480
+        }
+      ],
+      "totalTuitionFee": 181440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-artificial-intelligence",
+      "universityId": "monash",
+      "name": "Master of Artificial Intelligence",
+      "nameAr": "ماجستير في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 37080,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37080
+        }
+      ],
+      "totalTuitionFee": 37080,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-business-information-systems-coursework",
+      "universityId": "monash",
+      "name": "Master of Business Information Systems(coursework)",
+      "nameAr": "ماجستير في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 37080,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37080
+        },
+        {
+          "year": 2,
+          "fee": 37080
+        }
+      ],
+      "totalTuitionFee": 74160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-data-science-coursework",
+      "universityId": "monash",
+      "name": "Master of Data Science(coursework)",
+      "nameAr": "ماجستير في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 37080,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37080
+        }
+      ],
+      "totalTuitionFee": 37080,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-philosophy-mphil-in-it-research",
+      "universityId": "monash",
+      "name": "Master of Philosophy (MPhil) in IT(Research)",
+      "nameAr": "ماجستير في Master of Philosophy (MPhil) in IT(Research",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 109440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-doctor-of-philosophy-phd-in-it-research",
+      "universityId": "monash",
+      "name": "Doctor of Philosophy (PhD) in IT(Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في IT(Research",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-business-and-commerce",
+      "universityId": "monash",
+      "name": "Bachelor of Business and Commerce",
+      "nameAr": "بكالوريوس الأعمال في and Commerce",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 51840,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51840
+        },
+        {
+          "year": 2,
+          "fee": 51840
+        },
+        {
+          "year": 3,
+          "fee": 51840
+        }
+      ],
+      "totalTuitionFee": 155520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-digital-business-coursework",
+      "universityId": "monash",
+      "name": "Master of Digital Business(Coursework)",
+      "nameAr": "ماجستير في Master of Digital Business(Coursework",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 37080,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37080
+        }
+      ],
+      "totalTuitionFee": 37080,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-digital-business",
+      "universityId": "monash",
+      "name": "Bachelor of Digital Business",
+      "nameAr": "بكالوريوس في Bachelor of Digital Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 51840,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51840
+        },
+        {
+          "year": 2,
+          "fee": 51840
+        },
+        {
+          "year": 3,
+          "fee": 51840
+        }
+      ],
+      "totalTuitionFee": 155520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-philosophy-in-business-research",
+      "universityId": "monash",
+      "name": "Master of Philosophy in Business(Research)",
+      "nameAr": "ماجستير في Master of Philosophy in Business(Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 109440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-doctor-of-philosophy-phd-in-business-research",
+      "universityId": "monash",
+      "name": "Doctor of Philosophy (PhD) in Business(Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business(Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-civil-engineering-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Civil Engineering (Honours)",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-chemical-engineering-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Chemical Engineering (Honours)",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-electrical-and-computer-systems-engineering-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Electrical and Computer Systems Engineering (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Electrical and Computer Systems Engineering (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-mechanical-engineering-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Mechanical Engineering (Honours)",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-robotics-and-mechatronics-engineering-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Robotics and Mechatronics Engineering (Honours)",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-software-engineering-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Software Engineering (Honours)",
+      "nameAr": "بكالوريوس هندسة البرمجيات في Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-materials-engineering-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Materials Engineering (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Materials Engineering (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-engineering-science-research",
+      "universityId": "monash",
+      "name": "Master of Engineering Science (Research)",
+      "nameAr": "ماجستير علوم الهندسة في Research",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 109440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-doctor-of-philosophy-phd-in-engineering-research",
+      "universityId": "monash",
+      "name": "Doctor of Philosophy (PhD) in Engineering(Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering(Research",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-pharmaceutical-science",
+      "universityId": "monash",
+      "name": "Master of Pharmaceutical Science",
+      "nameAr": "ماجستير في Master of Pharmaceutical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 109440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-medical-science-and-doctor-of-medicine",
+      "universityId": "monash",
+      "name": "Bachelor of Medical Science and Doctor of Medicine",
+      "nameAr": "بكالوريوس في Bachelor of Medical Science and Doctor of Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 5,
+      "annualFee": 138720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 138720
+        },
+        {
+          "year": 2,
+          "fee": 138720
+        },
+        {
+          "year": 3,
+          "fee": 138720
+        },
+        {
+          "year": 4,
+          "fee": 138720
+        },
+        {
+          "year": 5,
+          "fee": 138720
+        }
+      ],
+      "totalTuitionFee": 693600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-pharmacy-honours",
+      "universityId": "monash",
+      "name": "Bachelor of Pharmacy (Honours)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 71040,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 71040
+        },
+        {
+          "year": 2,
+          "fee": 71040
+        },
+        {
+          "year": 3,
+          "fee": 71040
+        },
+        {
+          "year": 4,
+          "fee": 71040
+        }
+      ],
+      "totalTuitionFee": 284160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-pharmaceutical-science",
+      "universityId": "monash",
+      "name": "Bachelor of Pharmaceutical Science",
+      "nameAr": "بكالوريوس في Bachelor of Pharmaceutical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 60480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60480
+        },
+        {
+          "year": 2,
+          "fee": 60480
+        },
+        {
+          "year": 3,
+          "fee": 60480
+        }
+      ],
+      "totalTuitionFee": 181440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-biomedical-science-research",
+      "universityId": "monash",
+      "name": "Master of Biomedical Science(Research)",
+      "nameAr": "ماجستير في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 109440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-professional-counselling-coursework",
+      "universityId": "monash",
+      "name": "Master of Professional Counselling(coursework)",
+      "nameAr": "ماجستير في Master of Professional Counselling(coursework",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 41760,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41760
+        },
+        {
+          "year": 2,
+          "fee": 41760
+        }
+      ],
+      "totalTuitionFee": 83520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-doctor-of-philosophy-phd-in-medicine-research",
+      "universityId": "monash",
+      "name": "Doctor of Philosophy (PhD) in Medicine(Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Medicine(Research",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-doctor-of-philosophy-phd-in-pharmacy-research",
+      "universityId": "monash",
+      "name": "Doctor of Philosophy (PhD) in Pharmacy(Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-science",
+      "universityId": "monash",
+      "name": "Bachelor of Science",
+      "nameAr": "بكالوريوس العلوم",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 60480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60480
+        },
+        {
+          "year": 2,
+          "fee": 60480
+        },
+        {
+          "year": 3,
+          "fee": 60480
+        }
+      ],
+      "totalTuitionFee": 181440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-arts-and-social-sciences",
+      "universityId": "monash",
+      "name": "Bachelor of Arts and Social Sciences",
+      "nameAr": "بكالوريوس الآداب في and Social Sciences",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49920,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jun, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49920
+        },
+        {
+          "year": 2,
+          "fee": 49920
+        },
+        {
+          "year": 3,
+          "fee": 49920
+        }
+      ],
+      "totalTuitionFee": 149760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-psychology",
+      "universityId": "monash",
+      "name": "Bachelor of Psychology",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49920,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49920
+        },
+        {
+          "year": 2,
+          "fee": 49920
+        },
+        {
+          "year": 3,
+          "fee": 49920
+        }
+      ],
+      "totalTuitionFee": 149760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-doctor-of-philosophy-phd-in-social-sciences-research",
+      "universityId": "monash",
+      "name": "Doctor of Philosophy (PhD) in Social Sciences(Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Social Sciences(Research",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-digital-media-and-communication",
+      "universityId": "monash",
+      "name": "Bachelor of Digital Media and Communication",
+      "nameAr": "بكالوريوس في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49920,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49920
+        },
+        {
+          "year": 2,
+          "fee": 49920
+        },
+        {
+          "year": 3,
+          "fee": 49920
+        }
+      ],
+      "totalTuitionFee": 149760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-communications-and-media-studies-coursework",
+      "universityId": "monash",
+      "name": "Master of Communications and Media Studies (Coursework)",
+      "nameAr": "ماجستير في Master of Communications and Media Studies (Coursework",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 46240,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46240
+        }
+      ],
+      "totalTuitionFee": 46240,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-business-and-commerce-and-bachelor-of-computer-science",
+      "universityId": "monash",
+      "name": "Bachelor of Business and Commerce and Bachelor of Computer Science",
+      "nameAr": "بكالوريوس الأعمال في and Commerce and Bachelor of Computer Science",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        },
+        {
+          "year": 4,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 218880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-business-and-commerce-and-bachelor-of-digital-media-and-communication",
+      "universityId": "monash",
+      "name": "Bachelor of Business and Commerce and Bachelor of Digital Media and Communication",
+      "nameAr": "بكالوريوس الأعمال في الإعلام الرقمي",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 51840,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51840
+        },
+        {
+          "year": 2,
+          "fee": 51840
+        },
+        {
+          "year": 3,
+          "fee": 51840
+        },
+        {
+          "year": 4,
+          "fee": 51840
+        }
+      ],
+      "totalTuitionFee": 207360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-psychology-and-business",
+      "universityId": "monash",
+      "name": "Bachelor of Psychology and Business",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 51840,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51840
+        },
+        {
+          "year": 2,
+          "fee": 51840
+        },
+        {
+          "year": 3,
+          "fee": 51840
+        }
+      ],
+      "totalTuitionFee": 155520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-human-nutrition",
+      "universityId": "monash",
+      "name": "Bachelor of Human Nutrition",
+      "nameAr": "بكالوريوس في Bachelor of Human Nutrition",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 60480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60480
+        },
+        {
+          "year": 2,
+          "fee": 60480
+        },
+        {
+          "year": 3,
+          "fee": 60480
+        }
+      ],
+      "totalTuitionFee": 181440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-food-science-and-technology",
+      "universityId": "monash",
+      "name": "Bachelor of Food Science and Technology",
+      "nameAr": "بكالوريوس في Bachelor of Food Science and Technology",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 60480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60480
+        },
+        {
+          "year": 2,
+          "fee": 60480
+        },
+        {
+          "year": 3,
+          "fee": 60480
+        }
+      ],
+      "totalTuitionFee": 181440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-bachelor-of-medical-bioscience",
+      "universityId": "monash",
+      "name": "Bachelor of Medical Bioscience",
+      "nameAr": "بكالوريوس في Bachelor of Medical Bioscience",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 60480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60480
+        },
+        {
+          "year": 2,
+          "fee": 60480
+        },
+        {
+          "year": 3,
+          "fee": 60480
+        }
+      ],
+      "totalTuitionFee": 181440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-master-of-science-research",
+      "universityId": "monash",
+      "name": "Master of Science (Research)",
+      "nameAr": "ماجستير العلوم في Research",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 109440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "monash-doctor-of-philosophy-phd-in-science-research",
+      "universityId": "monash",
+      "name": "Doctor of Philosophy (PhD) in Science (Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Science (Research",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54720
+        },
+        {
+          "year": 2,
+          "fee": 54720
+        },
+        {
+          "year": 3,
+          "fee": 54720
+        }
+      ],
+      "totalTuitionFee": 164160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 44
+}

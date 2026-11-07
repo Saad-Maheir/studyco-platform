@@ -1,0 +1,2846 @@
+{
+  "id": "utem",
+  "name": "Universiti Teknikal Malaysia Melaka (UTeM)",
+  "arabicName": "جامعة ملاكا التقنية (UTeM)",
+  "city": "Durian Tunggal, Melaka",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-utem.webp",
+  "image": "assets/photo/campus_utem.webp",
+  "website": "https://www.utem.edu.my/",
+  "ranking": "Top National Technical University (MTUN) for Advanced Engineering",
+  "established": "2000",
+  "campusName": "UTeM Green Technology Campus, Melaka",
+  "studentCount": "14,000+ (35+ Countries)",
+  "intakes": "Feb, Sep",
+  "feeRangeMin": 5513,
+  "feeRangeMax": 39103,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/QIdQ5SvKEns",
+  "description": "Universiti Teknikal Malaysia Melaka (UTeM) is one of the leading recognized higher education institutions located in Durian Tunggal, Melaka. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة ملاكا التقنية (UTeM) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Durian Tunggal, Melaka، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Universiti Teknikal Malaysia Melaka (UTeM) didirikan pada tahun 2000 dan merupakan universitas teknik negeri pertama di Malaysia (pelopor Malaysian Technical University Network - MTUN). Terletak di kampus hijau yang luas di Durian Tunggal, Melaka (negara bagian warisan dunia UNESCO), UTeM sangat diakui atas filosofi pendidikannya yang berorientasi pada praktik (Practice and Application-Oriented) dengan mengusung konsep Teaching Factory mutakhir, di mana mahasiswa mendapatkan lebih dari 60% pengalaman langsung di laboratorium dan bengkel industri canggih dalam bidang Manufaktur, Mekanikal, Mekatronika, dan Teknologi Informasi.",
+    "en": "Universiti Teknikal Malaysia Melaka (UTeM), established in 2000, is Malaysia’s premier and first technical public university (pioneer of the Malaysian Technical University Network - MTUN). Set within a scenic eco-campus in Durian Tunggal, Melaka (a historic UNESCO World Heritage state), UTeM is celebrated for its practice-and-application-oriented pedagogy and Industry 4.0 Teaching Factory concept, dedicating over 60% of curriculum hours to hands-on industrial labs across Manufacturing, Mechanical, Mechatronics, and ICT disciplines.",
+    "ar": "تأسست جامعة ملاكا التقنية الماليزية (Universiti Teknikal Malaysia Melaka - UTeM) عام 2000، وتعد أول جامعة تقنية حكومية متخصصة في ماليزيا ورائدة شبكة الجامعات التقنية الماليزية (MTUN). يقع حرمها البيئي الحديث في دوريان تونغال بولاية ملاكا التاريخية المدرجة في قائمة اليونسكو للتراث العالمي، وتشتهر الجامعة بنموذجها التعليمي التطبيقي القائم على الممارسة العملية (Teaching Factory)، حيث يقضي الطلاب أكثر من 60% من ساعات مناهجهم في ورش العمل والمختبرات الصناعية الحقيقية في الهندسة الميكانيكية، والتصنيع الذكي، والذكاء الاصطناعي.",
+    "zh": "马来西亚马六甲技术大学（Universiti Teknikal Malaysia Melaka，简称UTeM）创办于2000年，是全马第一所也是历史最悠久的公立技术型重点大学（马来西亚技术大学联盟MTUN领军学府）。大学坐落于联合国教科文组织世界文化遗产名城马六甲的榴莲洞葛（Durian Tunggal）绿色生态校园，首创工业4.0“教学工厂”（Teaching Factory）与“实践应用导向”工程教育范式，超过60%的教学课时全面倾注于工业级高端智能制造、机械机电及数字信息技术实验室实操。",
+    "ru": "Малаккский технический университет Малайзии (UTeM), основанный в 2000 году, является первым государственным техническим университетом страны (лидером сети MTUN). Расположенный в Дюриан Тунггал (Малакка, объект Всемирного наследия ЮНЕСКО), UTeM известен практико-ориентированным обучением и концепцией «Обучающей фабрики» (Teaching Factory), где более 60% времени отведено лабораторным практикумам.",
+    "fr": "Fondée en 2000, l'Universiti Teknikal Malaysia Melaka (UTeM) est la première université technique publique de Malaisie (pionnière du réseau MTUN). Située à Durian Tunggal à Melaka (patrimoine mondial de l'UNESCO), elle est réputée pour sa pédagogie appliquée et son concept d'« usine-école » (Teaching Factory), consacrant plus de 60 % du cursus aux travaux pratiques industriels.",
+    "es": "La Universiti Teknikal Malaysia Melaka (UTeM), fundada en 2000, es la primera universidad técnica pública de Malasia (pionera de la red MTUN). Ubicada en Durian Tunggal en Melaka (Patrimonio Mundial de la UNESCO), es célebre por su enfoque práctico y el concepto de «Fábrica de Enseñanza» (Teaching Factory), dedicando más del 60 % de las horas a laboratorios industriales.",
+    "ja": "マレーシア・マラッカ工科大学（UTeM）は2000年に設立されたマレーシア初の国立専門工科大学であり、マレーシア工科大学ネットワーク（MTUN）の先駆的学府です。ユネスコ世界遺産の古都マラッカの広大なキャンパスに位置し、カリキュラムの60%以上をプロ仕様の実験・実習に充てる「ティーチング・ファクトリー（教育工場）」コンセプトによる実践・応用重視の工学教育を展開しています。",
+    "ko": "말레이시아 멜라카 기술대학교(UTeM)는 2000년에 설립된 말레이시아 최초의 국립 기술 전문대학교(MTUN 기술대학 네트워크 선도 대학)입니다. 유네스코 세계문화유산 도시인 멜라카 두리안 퉁갈 친환경 캠퍼스에 자리잡고 있으며, 커리큘럼의 60% 이상을 현장 실무 실습에 배정하는 차세대 '티칭 팩토리(Teaching Factory)' 및 실전 실무 응용 중심 공학교육으로 정평이 나 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Kompleks Teaching Factory Industri 4.0 & Pusat Robotika Otomasi Manufaktur",
+        "en": "Industry 4.0 Teaching Factory Complex & Advanced Robotics Automation Center",
+        "ar": "مجمع مصنع التعليم (Teaching Factory) للثورة الصناعية الرابعة ومراكز الروبوتات والأتمتة",
+        "ko": "인더스트리 4.0 티칭 팩토리 복합단지 및 첨단 로봇 자동화 센터",
+        "ja": "インダストリー4.0対応ティーチング・ファクトリー棟＆先端ロボティクス自動化センター",
+        "zh": "工业4.0现代化教学工厂（Teaching Factory）实训集群与智能工业机器人自动化中心",
+        "ru": "Комплекс «Обучающая фабрика» Индустрии 4.0 и центр промышленной робототехники",
+        "fr": "Complexe d'usine-école Industrie 4.0 et centre de robotique et d'automatisation",
+        "es": "Complejo de Fábrica de Enseñanza Industria 4.0 y Centro de Automatización Robótica"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Laboratorium Pemesinan CNC Presisi, Fabrikasi Material & Desain CAD/CAM",
+        "en": "Precision CNC Machining Labs, Material Fabrication Suites & CAD/CAM Hub",
+        "ar": "مختبرات التصنيع الرقمي CNC فائق الدقة وهندسة المواد والتصميم بـ CAD/CAM",
+        "ko": "초정밀 CNC 공작기계 실습실, 첨단 신소재 가공 랩 및 CAD/CAM 설계 센터",
+        "ja": "超精密CNCマシニングセンター、材料加工ラボ＆CAD/CAM設計スタジオ",
+        "zh": "高精密五轴数控机床（CNC）加工实验室、材料成型工坊与CAD/CAM数字设计中心",
+        "ru": "Лаборатории прецизионной обработки на станках с ЧПУ и проектирования CAD/CAM",
+        "fr": "Laboratoires d'usinage CNC de précision, fabrication de matériaux et CAO/FAO",
+        "es": "Laboratorios de Mecanizado CNC de Precisión, Fabricación de Materiales y CAD/CAM"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Perpustakaan Laman Hikmah UTeM & Pusat Riset Teknologi Hijau Terbarukan",
+        "en": "Laman Hikmah Central Library & Green Renewable Energy Research Hub",
+        "ar": "مكتبة لامان حكمه المركزية المتطورة ومراكز أبحاث التكنولوجيا الخضراء والطاقة المتجددة",
+        "ko": "라만 힉마 중앙 도서관 및 친환경 그린 에너지 연구 혁신 센터",
+        "ja": "ラマン・ヒクマ中央図書館＆グリーン再生可能エネルギー先端研究棟",
+        "zh": "拉曼希克玛宏伟中央学术图书馆与绿色低碳新能源技术创新科研大楼",
+        "ru": "Центральная библиотека Ламан Хикма и центр исследований зеленой энергетики",
+        "fr": "Bibliothèque centrale Laman Hikmah et pôle de recherche en énergies renouvelables",
+        "es": "Biblioteca Central Laman Hikmah y Centro de Investigación en Energías Renovables"
+      }
+    },
+    {
+      "icon": "‍️",
+      "title": {
+        "id": "Kompleks Olahraga Mahasiswa, Kolam Renang & Danau Rekreasi Alam UTeM",
+        "en": "UTeM Sports Complex, Olympic Swimming Pool & Scenic Recreational Lakes",
+        "ar": "المجمع الرياضي الطلابي الشامل وحمام السباحة الأولمبي والبحيرات الترفيهية",
+        "ko": "UTM 종합 스포츠 콤플렉스, 올림픽 규격 수영장 및 친환경 생태 호수",
+        "ja": "UTeM総合スポーツ複合施設、オリンピックプール＆自然景観レクリエーション湖",
+        "zh": "大学综合体育运动中心、奥林匹克标准游泳池与环湖生态休闲绿道",
+        "ru": "Спортивный комплекс UTeM, олимпийский бассейн и природные озера",
+        "fr": "Complexe sportif UTeM, piscine olympique et lacs récréatifs naturels",
+        "es": "Complejo deportivo de UTeM, piscina olímpica y lagos recreativos naturales"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Universitas Teknik Negeri Pertama & Pelopor Jaringan MTUN di Malaysia",
+        "en": "First Public Technical University & Flagship Pioneer of MTUN in Malaysia",
+        "ar": "أول جامعة تقنية حكومية رائدة ومؤسسة شبكة الجامعات التقنية الماليزية (MTUN)",
+        "ko": "말레이시아 최초의 국립 기술대학이자 MTUN 기술대학 연합의 선도 플래그십",
+        "ja": "マレーシア初の国立専門工科大学＆技術大学連合（MTUN）のフラッグシップ校",
+        "zh": "马来西亚第一所国家级公立技术大学与马来西亚技术大学联盟（MTUN）旗舰学府",
+        "ru": "Первый государственный технический университет и флагман сети MTUN в Малайзии",
+        "fr": "Première université technique publique et fleuron du réseau MTUN en Malaisie",
+        "es": "Primera universidad técnica pública y buque insignia de la red MTUN en Malasia"
+      },
+      "desc": {
+        "id": "Didirikan khusus oleh pemerintah Malaysia untuk memenuhi kebutuhan insinyur dan teknolog berketerampilan tinggi di era Industri 4.0.",
+        "en": "Established by the government specifically to satisfy soaring industrial demand for elite, hands-on engineers and technologists.",
+        "ar": "أسستها الحكومة الماليزية خصيصاً لتلبية الطلب الصناعي المتزايد على نخبة المهندسين والتقنيين ذوي المهارات التطبيقية الرفيعة.",
+        "ko": "정부 주도로 설립되어 인더스트리 4.0 시대가 요구하는 실무형 핵심 엔지니어와 테크놀로지스트를 집중 양성합니다.",
+        "ja": "産業界の需要に応え、インダストリー4.0時代に即戦力となるプロフェッショナルエンジニアの育成に特化。",
+        "zh": "由马来西亚联邦政府特别创立，旨在为国家现代工业转型输送具备扎实实操功底的高精尖卓越工程师。",
+        "ru": "Основан государством для подготовки высококвалифицированных инженеров-практиков для Индустрии 4.0.",
+        "fr": "Créée par le gouvernement pour répondre à la forte demande industrielle d'ingénieurs de terrain qualifiés.",
+        "es": "Fundada por el gobierno para satisfacer la alta demanda industrial de ingenieros prácticos de primer nivel."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kurikulum Berorientasi Praktik Industri dengan 60% Jam Praktik Hands-On Lab",
+        "en": "Practice & Application-Oriented Curriculum with Over 60% Hands-On Lab Work",
+        "ar": "منهج تطبيقي عملي مكثف يخصص أكثر من 60% من ساعاته للتدريب والورش الميدانية",
+        "ko": "커리큘럼의 60% 이상을 차지하는 실전 중심 핸즈온 랩 및 공학 실습 교육",
+        "ja": "全カリキュラムの60%以上が最新ラボでのハンズオン実習で構成される実践重視教育",
+        "zh": "全方位推行应用实践导向教学，超过60%课时为工业级高端实验室全真实训操作",
+        "ru": "Практико-ориентированное обучение: более 60% учебного времени в реальных лабораториях",
+        "fr": "Pédagogie orientée pratique avec plus de 60 % d'heures en ateliers et laboratoires",
+        "es": "Plan de estudios práctico con más del 60 % de horas en talleres y laboratorios"
+      },
+      "desc": {
+        "id": "Model \"Teaching Factory\" menghadirkan mesin industri nyata, robot pabrik, dan jalur perakitan otomatis langsung ke dalam lingkungan kampus.",
+        "en": "The \"Teaching Factory\" model embeds authentic industrial machinery, smart robotics, and automated production lines directly on campus.",
+        "ar": "يجلب نموذج مصنع التعليم آلات التصنيع الحقيقية وروبوتات المصانع وخطوط التجميع المؤتمتة إلى قلب الحرم الجامعي.",
+        "ko": "'티칭 팩토리' 시스템을 통해 실제 산업용 기계, 스마트 로봇 공정, 자동화 조립 라인을 캠퍼스에서 매일 직접 다룹니다.",
+        "ja": "「ティーチング・ファクトリー」により、本物の産業機械、スマートロボット、自動化ラインを学内に完備。",
+        "zh": "独创“教学工厂”模式将跨国工业母机、智能流水线与工业级自动化装备直接搬入课堂，让学生毕业即具备数年工程师实战经验。",
+        "ru": "Концепция «Обучающей фабрики» воссоздает реальные производственные линии и роботов в кампусе.",
+        "fr": "Le concept d'« usine-école » intègre de véritables lignes de production et robots sur le campus.",
+        "es": "La «Fábrica de Enseñanza» incorpora maquinaria industrial real, robótica y líneas automatizadas en el campus."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Asri di Melaka: Kota Warisan Dunia UNESCO yang Aman & Tenang",
+        "en": "Serene Eco-Campus in Melaka: UNESCO World Heritage City with High Safety",
+        "ar": "حرم بيئي ساحر في ملاكا: مدينة التراث العالمي لليونسكو الهادئة والآمنة",
+        "ko": "유네스코 세계문화유산 도시 멜라카의 평화롭고 안전한 친환경 에코 캠퍼스",
+        "ja": "ユネスコ世界文化遺産の街マラッカ：安心・安全で穏やかな自然に恵まれたエコキャンパス",
+        "zh": "坐落于联合国教科文组织世界文化遗产名城马六甲：治安绝佳、环境安宁的生态大学城",
+        "ru": "Живописный эко-кампус в Малакке: городе наследия ЮНЕСКО с высоким уровнем безопасности",
+        "fr": "Éco-campus serein à Melaka : ville inscrite au patrimoine mondial de l'UNESCO",
+        "es": "Campus ecológico sereno en Melaka: ciudad Patrimonio de la Humanidad por la UNESCO"
+      },
+      "desc": {
+        "id": "Menawarkan lingkungan studi yang fokus, biaya hidup yang sangat ramah kantong, dan kekayaan budaya multikultural yang memesona.",
+        "en": "Offering a focused study atmosphere, remarkably affordable living expenses, and an enriching historical environment.",
+        "ar": "توفر بيئة دراسية هادئة للغاية تساعد على التركيز الأكاديمي، مع تكاليف معيشة اقتصادية وثراء تاريخي وثقافي عريق.",
+        "ko": "학업에 최적화된 차분한 면학 분위기, 매우 저렴한 현지 물가, 풍부한 역사 문화적 자산을 자랑합니다.",
+        "ja": "学習に集中できる落ち着いた環境、非常に良心的な生活費、歴史豊かな文化的多様性を享受できます。",
+        "zh": "提供极为专注纯粹的学术深造氛围、全马最亲民低廉的生活生活成本以及深厚多元的历史文化熏陶。",
+        "ru": "Спокойная обстановка для сосредоточенной учебы, крайне доступные расходы и богатая культура.",
+        "fr": "Atmosphère idéale pour les études, coût de la vie très bas et riche patrimoine culturel.",
+        "es": "Ambiente de estudio centrado, costo de vida sumamente económico y un enriquecedor entorno histórico."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Biaya Pendidikan Negeri Sangat Ekonomis dengan Rekor Penyerapan Kerja 96%+",
+        "en": "Subsidized Public University Fees with Over 96% Graduate Employment Rate",
+        "ar": "رسوم جامعية حكومية مدعومة ومنخفضة مع نسبة توظيف خريجين تتجاوز 96%",
+        "ko": "저렴한 국립대 등록금 혜택 및 96% 이상의 압도적인 졸업생 취업률 기록",
+        "ja": "国公立ならではの経済的な学費体系＆96%以上の圧倒的な就職内定率を記録",
+        "zh": "享受政府高额津贴的平价亲民学费与连续突破96%以上的傲人毕业生就业率",
+        "ru": "Низкая стоимость государственного вуза и уровень трудоустройства свыше 96%",
+        "fr": "Frais universitaires publics très réduits et taux d'insertion professionnelle supérieur à 96 %",
+        "es": "Matrículas públicas muy reducidas y una tasa de empleo de graduados superior al 96 %"
+      },
+      "desc": {
+        "id": "Lulusan teknik UTeM menjadi incaran utama perusahaan manufaktur multinasional semikonduktor, otomotif, dan dirgantara terkemuka.",
+        "en": "Graduates are actively recruited by top semiconductor, automotive, aerospace, and multinational industrial manufacturing giants.",
+        "ar": "يعد خريجو UTeM الخيار المفضل لكبريات الشركات الصناعية متعددة الجنسيات في قطاعات أشباه الموصلات، والسيارات، والطيران.",
+        "ko": "반도체, 스마트 모빌리티, 항공우주, 글로벌 제조 대기업들이 졸업 전부터 인재를 우선 채용하고 있습니다.",
+        "ja": "半導体、自動車、航空宇宙分野の多国籍メーカーから即戦力エンジニアとして高い評価を受け、直接採用が活発です。",
+        "zh": "毕业生深受全球半导体芯片巨头、跨国智能汽车制造商、精密航空制造企业的争先录用与竞相追逐。",
+        "ru": "Выпускников активно нанимают производители микрочипов, автомобильные и аэрокосмические концерны.",
+        "fr": "Les diplômés sont courtisés par les géants des semi-conducteurs, de l'automobile et de l'aérospatiale.",
+        "es": "Los graduados son altamente demandados por empresas de semiconductores, automoción y aeroespacial."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kolej Kediaman Mahasiswa UTeM Durian Tunggal & Kampus Teknologi",
+        "en": "UTeM Durian Tunggal & Technology Campus On-Campus Residential Colleges",
+        "ar": "الكليات السكنية الطلابية بحرم دوريان تونغال وحرم التكنولوجيا (UTeM Residential Colleges)",
+        "ko": "UTeM 두리안 퉁갈 및 테크놀로지 캠퍼스 공식 학생 기숙사",
+        "ja": "UTeMドゥリアン・トゥンガル校＆テクノロジーキャンパス学内学生寮",
+        "zh": "UTM马六甲榴莲洞葛总校与技术校区官方学生宿舍公馆群",
+        "ru": "Студенческие общежития кампуса Дюриан Тунггал и технологического кампуса UTeM",
+        "fr": "Résidences étudiantes du campus de Durian Tunggal et du campus technologique d'UTeM",
+        "es": "Colegios mayores del campus de Durian Tunggal y del campus tecnológico de UTeM"
+      },
+      "distance": {
+        "id": "Terletak di Dalam Kampus Hijau UTeM (Jalan Kaki 2-5 Menit ke Laboratorium & Bengkel Mesin)",
+        "en": "Located Within UTeM Eco-Campus (2 to 5 Minutes Walk to Labs & Machine Workshops)",
+        "ar": "داخل الحرم البيئي الجامعي مباشرة (2 إلى 5 دقائق مشياً للمختبرات وورش العمل الصناعية)",
+        "ko": "UTeM 에코 캠퍼스 내부 위치 (실습 랩 및 공작기계 실습장까지 도보 2~5분 거리)",
+        "ja": "UTeMエコキャンパス敷地内（各実験棟・工作機械実習工場まで徒歩2〜5分）",
+        "zh": "坐落于UTM绿色生态校园内部，步行2至5分钟即达所有工程实验室与智能制造工厂",
+        "ru": "На территории кампуса UTeM (2–5 минут пешком до лабораторий и цехов)",
+        "fr": "Situé sur le campus écologique d'UTeM (2 à 5 minutes à pied des laboratoires et ateliers)",
+        "es": "Ubicadas en el campus ecológico de UTeM (2 a 5 minutos a pie de laboratorios y talleres)"
+      },
+      "priceRange": "RM 220 - RM 450 / month",
+      "amenities": {
+        "id": [
+          "Sistem Keamanan Kampus 24 Jam dengan Kartu Pintar & Pengawasan CCTV",
+          "Akses Berjalan Kaki ke Danau Alam, Stadion Olahraga & Kolam Renang",
+          "Kantin Mahasiswa dengan Menu Makanan Halal Tradisional Murah Meriah",
+          "Koneksi WiFi Kampus Cepat & Ruang Belajar Kelompok Mandiri",
+          "Layanan Bus Shuttle Kampus Gratis Menghubungkan Semua Kampus Satelit"
+        ],
+        "en": [
+          "24/7 Security Patrols, Keycard Access Gates & Full CCTV Coverage",
+          "Walking Distance to Recreational Lakes, Sports Stadium & Swimming Pool",
+          "Diverse Student Cafeterias Offering Delicious Budget-Friendly Halal Meals",
+          "High-Speed Campus WiFi & Communal Air-Conditioned Study Lounges",
+          "Free Regular University Shuttle Buses Connecting All Satellite Campuses"
+        ],
+        "ar": [
+          "حراسة أمنية جامعية متواصلة 24/7 مع بوابات إلكترونية ومراقبة بالكاميرات",
+          "دخول مباشر ومشياً للبحيرات الطبيعية والملاعب الرياضية والمسبح الأولمبي",
+          "كافتيريات طلابية تقدم أشهى الوجبات الحلال التقليدية بأسعار اقتصادية رمزية",
+          "إنترنت جامعي سريع وقاعات دراسة مكيفة مخصصة للعمل الجماعي",
+          "حافلات نقل جامعية دورية ومجانية تربط مختلف الحرم والمرافق الجامعية"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian (Kantin & Durian Tunggal)",
+        "en": "Food & Daily Dining (Cafeterias & Durian Tunggal)",
+        "ar": "الطعام والمأكولات اليومية (كافتيريا الجامعة ودوريان تونغال)"
+      },
+      "cost": "RM 400 - RM 700"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi Shuttle Kampus & Melaka Bus",
+        "en": "Free Campus Shuttle & Melaka Transit",
+        "ar": "حافلات الجامعة المجانية ومواصلات ملاكا"
+      },
+      "cost": "RM 25 - RM 60"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas Asrama, Listrik & Internet",
+        "en": "Hostel Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت في السكن"
+      },
+      "cost": "RM 40 - RM 90"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Seragam Bengkel",
+        "en": "Personal Expenses & Workshop Coveralls",
+        "ar": "المستلزمات الشخصية وزي ورش العمل"
+      },
+      "cost": "RM 150 - RM 280"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Berapa biaya kuliah program Sarjana Teknik di Universiti Teknikal Malaysia Melaka?",
+        "en": "What are the undergraduate engineering tuition fees at UTeM Melaka?",
+        "ar": "كم تبلغ تكاليف ورسوم دراسة البكالوريوس في الهندسة في جامعة ملاكا التقنية (UTeM)؟",
+        "ko": "UTeM 멜라카 공과대학 학사 과정의 연간 학비는 얼마인가요?",
+        "ja": "UTMマラッカの工学部学士課程の年間学費はどのくらいですか？",
+        "zh": "在马来西亚马六甲技术大学（UTeM）攻读工程学士学位的全套学费大约是多少？",
+        "ru": "Какова стоимость обучения на программах бакалавриата по инженерии в UTeM?",
+        "fr": "Quels sont les frais de scolarité pour une licence en ingénierie à UTeM Melaka ?",
+        "es": "¿Cuáles son las tasas de matrícula para una licenciatura en ingeniería en UTeM Melaka?"
+      },
+      "a": {
+        "id": "Sebagai universitas negeri terkemuka, biaya kuliah sangat terjangkau berkisar antara $2.800 hingga $3.600 USD per tahun (sekitar RM 12.500 - RM 16.000 per tahun), menjadikannya salah satu investasi pendidikan teknik terbaik di Asia.",
+        "en": "As a leading public university, tuition fees are exceptionally budget-friendly at $2,800 to $3,600 USD per year (approx. RM 12,500 - RM 16,000/year), representing one of the finest value-driven technical engineering investments in Asia.",
+        "ar": "باعتبارها جامعة حكومية رائدة، فإن الرسوم ميسرة للغاية وتتراوح بين 2,800 إلى 3,600 دولار أمريكي سنوياً (حوالي 12,500 إلى 16,000 رينجيت)، مما يجعلها من أفضل فرص دراسة الهندسة ذات الجدوى الاقتصادية في آسيا.",
+        "ko": "우수 국립대학으로서 연간 약 2,800~3,600달러(연간 약 1,250만~1,600만 링깃) 수준의 매우 저렴한 등록금으로 최고 수준의 공학교육을 제공합니다.",
+        "ja": "国立工科大学のため非常にリーズナブルで、年間約2,800〜3,600米ドル（年間約RM 12,500〜16,000）となっており、アジアでも屈指の費用対効果を誇ります。",
+        "zh": "作为顶尖公立技术大学，学费极具亲民优势，年均仅约2,800至3,600美元（折合约12,500至16,000马币/年），是全亚洲最具性价比的顶尖工科高等学府之一。",
+        "ru": "Обучение в государственном техническом вузе стоит от 2 800 до 3 600 долларов США в год (12 500 – 16 000 ринггитов), что является одним из лучших предложений в Азии.",
+        "fr": "En tant qu'université publique de premier plan, les frais sont très avantageux : de 2 800 à 3 600 USD par an (environ 12 500 à 16 000 RM/an).",
+        "es": "Como universidad pública destacada, los precios son excelentes: entre 2.800 y 3.600 USD al año (aprox. 12.500 a 16.000 RM/año)."
+      }
+    },
+    {
+      "q": {
+        "id": "Bagaimana fasilitas asrama mahasiswa di kampus UTeM Durian Tunggal Melaka?",
+        "en": "What are the student accommodation choices at UTeM Durian Tunggal campus?",
+        "ar": "ما هي خيارات ومرافق السكن الطلابي المتاحة داخل حرم UTeM في دوريان تونغال بملاكا؟",
+        "ko": "UTeM 멜라카 두리안 퉁갈 캠퍼스 학생 기숙사의 주거 시설은 어떻게 구성되어 있나요?",
+        "ja": "UTeMドゥリアン・トゥンガル校の学生寮（レジデンス）の設備と費用は？",
+        "zh": "在UTM马六甲榴莲洞葛大学校园内，为国际留学生提供怎样的住宿配套与收费标准？",
+        "ru": "Каковы условия в студенческих общежитиях кампуса UTeM в Дюриан Тунггал?",
+        "fr": "Quelles sont les options d'hébergement étudiant sur le campus de Durian Tunggal à UTeM ?",
+        "es": "¿Cómo son las residencias para estudiantes en el campus de UTeM en Durian Tunggal?"
+      },
+      "a": {
+        "id": "Tersedia Kompleks Kolese Kediaman Pelajar (Residential Colleges) di dalam kampus dengan biaya sangat hemat berkisar RM 220 - RM 450 per bulan, dilengkapi fasilitas WiFi, kantin halal, minimarket, dan layanan shuttle internal.",
+        "en": "On-campus Residential Colleges offer safe accommodations at remarkably affordable rates of RM 220 to RM 450/month, fully equipped with high-speed WiFi, halal food courts, mini-marts, and free campus shuttles.",
+        "ar": "تتوفر كليات سكنية طلابية مجهزة بالكامل داخل الحرم الجامعي بأسعار رمزية وميسرة بين 220 إلى 450 رينجيت شهرياً، مع إنترنت سريع، ومطاعم حلال، ومتاجر مستلزمات، وحافلات نقل داخلية.",
+        "ko": "교내 기숙사 단지는 월 RM 220~450 선으로 매우 경제적이며, 초고속 와이파이, 할랄 푸드코트, 편의점 및 무료 교내 셔틀버스를 제공합니다.",
+        "ja": "学内学生寮は月額RM 220〜450と極めて手頃で、高速WiFi、ハラールフードコート、売店、学内無料シャトルバスが完備されています。",
+        "zh": "校内建有设施齐备的学生公馆宿舍楼，月租享受大幅补贴仅需220至450马币，全区覆盖高速无线网，内设清真美食广场、便利商超并有校车接送。",
+        "ru": "Общежития на территории кампуса стоят от 220 до 450 ринггитов в месяц с Wi-Fi, халяльными столовыми, магазинами и внутренним транспортом.",
+        "fr": "Les résidences sur le campus coûtent de 220 à 450 RM/mois avec Wi-Fi, cafétérias halal, commerces et navettes gratuites.",
+        "es": "Las residencias en el campus cuestan entre 220 y 450 RM al mes, con Wi-Fi, cafeterías halal, tiendas y transporte gratuito."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk mendaftar di Universiti Teknikal Malaysia Melaka?",
+        "en": "What are the minimum IELTS requirements for international admission at UTeM?",
+        "ar": "ما هي متطلبات درجة اختبار IELTS للقبول في جامعة ملاكا التقنية (UTeM)؟",
+        "ko": "UTeM 외국인 유학생 입학을 위한 공인 IELTS 성적 기준은 어떻게 되나요?",
+        "ja": "UTeMへの出願に必要なIELTS英語スコアの基準は？",
+        "zh": "申请入读马六甲技术大学需要具备怎样的雅思（IELTS）学术成绩？",
+        "ru": "Каков минимальный балл IELTS для поступления в UTeM?",
+        "fr": "Quel est le score minimum à l'IELTS requis pour les candidats internationaux à UTeM ?",
+        "es": "¿Cuáles son los requisitos mínimos de IELTS para ser admitido en UTeM?"
+      },
+      "a": {
+        "id": "Program Sarjana Teknik dan Komputer mensyaratkan skor IELTS 5.0 hingga 5.5. Bagi pelamar yang belum memenuhi syarat, tersedia program kursus persiapan bahasa Inggris di kampus.",
+        "en": "Undergraduate programmes in Engineering and Computing require an IELTS score of 5.0 to 5.5. Applicants without test certificates may enroll in on-campus intensive English preparatory courses.",
+        "ar": "تتطلب برامج البكالوريوس في الهندسة والحوسبة الحصول على درجة IELTS بين 5.0 إلى 5.5. وفي حال عدم توفرها، تتوفر دورات تأهيلية للغة الإنجليزية داخل الحرم الجامعي.",
+        "ko": "공학 및 컴퓨터 분야 학사 과정은 IELTS 5.0~5.5를 요구합니다. 점수가 없는 지원자는 대학 내 어학 연수 과정을 통해 입학이 가능합니다.",
+        "ja": "工学およびコンピュータ学部の学士課程ではIELTS 5.0〜5.5が必要です。スコアをお持ちでない方は学内の集中英語コースを受講可能です。",
+        "zh": "工程类及计算机学科本科学位课程要求雅思5.0至5.5分即可直接入读。暂无语言成绩者亦可参加大学开设的校内英语预备班。",
+        "ru": "Для бакалавриата по инженерии и IT требуется IELTS 5.0–5.5. При отсутствии сертификата доступны курсы подготовки при университете.",
+        "fr": "Les licences en ingénierie et informatique exigent un score IELTS de 5.0 à 5.5. Des cours préparatoires intensifs d'anglais sont proposés sur place.",
+        "es": "Los programas de grado en ingeniería e informática exigen entre 5.0 y 5.5 en IELTS. Quienes no dispongan de examen pueden cursar inglés en el campus."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan saja periode intake pendaftaran mahasiswa baru di UTeM Melaka?",
+        "en": "When are the primary academic intake periods at UTeM Melaka?",
+        "ar": "ما هي فصول ومواعيد بدء الدراسة والقبول الجامعي في جامعة UTeM؟",
+        "ko": "UTeM 멜라카의 주요 정규 입학 시기는 언제인가요?",
+        "ja": "UTeMマラッカの主な入学時期（インテイク）はいつですか？",
+        "zh": "马六甲技术大学每年有哪些主要的开学入学时间节点？",
+        "ru": "В какие месяцы проходит прием новых студентов в UTeM Melaka?",
+        "fr": "Quelles sont les principales périodes d'admission à UTeM Melaka ?",
+        "es": "¿Cuáles son las convocatorias de admisión en UTeM Melaka?"
+      },
+      "a": {
+        "id": "Intake utama untuk program Sarjana berlangsung pada Semester 1 (September/Oktober) dan Semester 2 (Maret). Program Pascasarjana jalur riset dapat menerima aplikasi sepanjang tahun.",
+        "en": "Undergraduate intakes occur primarily in Semester 1 (September/October) and Semester 2 (March). Postgraduate research programmes accept applications continuously throughout the year.",
+        "ar": "تبدأ الفصول الدراسية لبرامج البكالوريوس في الفصل الأول (سبتمبر/أكتوبر) والفصل الثاني (مارس). بينما تستقبل برامج الدراسات العليا البحثية الطلبات طوال العام.",
+        "ko": "학부 과정의 정규 입학은 1학기(9월/10월) 및 2학기(3월)에 열립니다. 대학원 연구과정은 연중 상시 지원할 수 있습니다.",
+        "ja": "学部課程の主な入学期は第1学期（9月/10月）および第2学期（3月）です。大学院の研究課程は年間を通して随時応募可能です。",
+        "zh": "本科学位课程正规入学开学时间为每年第一学期（9月/10月）及第二学期（3月）；研究生研究型学位全年无休接受投递。",
+        "ru": "Набор на программы бакалавриата проходит в 1-м семестре (сентябрь/октябрь) и во 2-м (март). На программы магистратуры и PhD заявки принимаются круглый год.",
+        "fr": "Les rentrées en licence ont lieu au semestre 1 (septembre/octobre) et au semestre 2 (mars). Les masters et doctorats en recherche recrutent toute l'année.",
+        "es": "Las admisiones de grado se realizan en el semestre 1 (septiembre/octubre) y semestre 2 (marzo). Los posgrados de investigación aceptan solicitudes todo el año."
+      }
+    },
+    {
+      "q": {
+        "id": "Mengapa lulusan model \"Teaching Factory\" UTeM sangat diminati industri manufaktur?",
+        "en": "Why are UTeM \"Teaching Factory\" graduates so highly sought after by manufacturing industries?",
+        "ar": "لماذا يحظى خريجو نموذج \"مصنع التعليم\" في UTeM بطلب استثنائي من المصانع العالمية؟",
+        "ko": "UTeM의 '티칭 팩토리' 출신 졸업생들이 글로벌 제조 산업에서 각광받는 이유는 무엇인가요?",
+        "ja": "UTMの「ティーチング・ファクトリー」卒業生が製造業から熱烈に求められる理由とは？",
+        "zh": "马六甲技术大学独创的“教学工厂”培养模式为何在智能制造与工业界享有极高用人赞誉？",
+        "ru": "Почему выпускники «Обучающей фабрики» UTeM так востребованы в промышленности?",
+        "fr": "Pourquoi les diplômés de l'« usine-école » d'UTeM sont-ils si recherchés par l'industrie ?",
+        "es": "¿Por qué los graduados de la «Fábrica de Enseñanza» de UTeM son tan cotizados en la industria?"
+      },
+      "a": {
+        "id": "Karena mahasiswa UTeM dilatih langsung dengan mesin CNC standar industri, lengan robotika otomatis, dan sistem SCADA pabrik, sehingga mereka tidak membutuhkan masa adaptasi yang lama dan langsung produktif sejak hari pertama bekerja.",
+        "en": "Because UTeM students master real industrial CNC machinery, robotic arms, and smart factory SCADA systems throughout their studies, eliminating on-the-job training lag and becoming immediately productive on Day 1.",
+        "ar": "لأن طلاب UTeM يتدربون عملياً وبشكل مكثف على ماكينات CNC الحقيقية، وأذرع الروبوتات الصناعية، وأنظمة SCADA الذكية، مما يجعلهم جاهزين للإنتاج الفوري من اليوم الأول دون الحاجة لفترات تدريب طويلة.",
+        "ko": "재학 중 실제 공장용 CNC 머신, 산업용 로봇 암, 스마트 팩토리 SCADA 제어 시스템을 능숙하게 다루므로 별도의 직무 연수 없이 첫날부터 현장에 즉시 투입 가능한 독보적 실전 경쟁력을 갖춥니다.",
+        "ja": "在学中に本物の産業用CNC機械、産業ロボット、スマートファクトリー制御システムを完全に習得するため、入社初日から即戦力として活躍できるからです。",
+        "zh": "因为UTM学子在校期间已全面精通真正的工业级五轴数控加工中心、工业机器人编程及智慧工厂自动化SCADA中枢系统，入职第一天即可无缝实战上岗。",
+        "ru": "Студенты осваивают реальные станки с ЧПУ, роботизированные комплексы и системы SCADA, становясь продуктивными инженерами с первого дня.",
+        "fr": "Les étudiants maîtrisant déjà les machines CNC réelles, les robots industriels et les systèmes SCADA, ils sont opérationnels dès le premier jour.",
+        "es": "Los estudiantes dominan maquinaria CNC real, brazos robóticos y sistemas SCADA, por lo que son productivos desde el primer día."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Mengenal Model Teaching Factory UTeM: Mengapa Lulusannya Langsung Siap Kerja di Industri 4.0",
+        "en": "Understanding UTeM’s Teaching Factory Model: Why Graduates are Instantly Industry 4.0 Ready",
+        "ar": "استكشاف نموذج مصنع التعليم في UTeM: كيف يتخرج مهندسو الثورة الصناعية الرابعة بجاهزية فورية",
+        "ko": "UTeM 티칭 팩토리 모델 집중 분석: 졸업생이 인더스트리 4.0 현장에 즉시 투입되는 이유",
+        "ja": "UTMの「ティーチング・ファクトリー」モデルの全貌：卒業生が産業界で即戦力となる秘密",
+        "zh": "深度解码马六甲技术大学“教学工厂”模式：如何培育直通工业4.0的顶尖实战派工程师",
+        "ru": "Модель «Обучающей фабрики» UTeM: почему выпускники сразу готовы к Индустрии 4.0",
+        "fr": "Comprendre l'usine-école d'UTeM : pourquoi ses diplômés sont prêts pour l'Industrie 4.0",
+        "es": "La «Fábrica de Enseñanza» de UTeM: por qué sus titulados están listos para la Industria 4.0"
+      },
+      "summary": {
+        "id": "Ulasan mendalam tentang integrasi mesin industri nyata, robotika otomasi pabrik, dan kurikulum hands-on 60% yang mencetak insinyur unggul siap kerja.",
+        "en": "An in-depth look at how real industrial machinery, factory automation robotics, and a 60% hands-on curriculum mold elite work-ready engineers.",
+        "ar": "نظرة متعمقة لكيفية دمج الآلات الصناعية الحقيقية وروبوتات الأتمتة ومنهج التدريب العملي بنسبة 60% لتخريج مهندسين أكفاء لسوق العمل.",
+        "ko": "실제 산업용 기계 설비, 공장 자동화 로봇 및 60% 이상의 실습 중심 커리큘럼이 만들어내는 실무형 공학 인재 양성 노하우.",
+        "ja": "本物の産業機械、自動化ロボティクス、60%以上の実践実習カリキュラムが拓く即戦力エンジニアへの道筋を詳解。",
+        "zh": "全面剖析工业级原厂设备进驻校园、工业机器人全真编程操作以及60%超高比重实战课时如何锻造出无可挑剔的实战硬核工科精英。",
+        "ru": "Анализ интеграции реального заводского оборудования, промышленной робототехники и 60% практики в учебный процесс.",
+        "fr": "Comment les équipements industriels réels, la robotique et 60 % de travaux pratiques forment des ingénieurs d'élite.",
+        "es": "Cómo el equipamiento industrial real, la robótica de fábrica y un 60 % de prácticas forman ingenieros de élite."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Kuliah di Universiti Teknikal Malaysia Melaka: Biaya, Asrama & Pendaftaran",
+        "en": "Complete Guide to UTeM Melaka: Affordable Public Fees, Hostels & Admission Roadmap",
+        "ar": "الدليل المتكامل للدراسة في جامعة ملاكا التقنية: الرسوم الحكومية والسكن وخطوات القبول",
+        "ko": "UTeM 멜라카 유학 완벽 가이드: 저렴한 국립대 등록금, 기숙사 및 입학 절차",
+        "ja": "UTMマラッカ留学完全マニュアル：良心的な学費、快適な学生寮＆出願手順",
+        "zh": "马六甲技术大学入学全套指南：极速申请通道、平价公立大学学费与优美学生公馆",
+        "ru": "Полный путеводитель по UTeM Melaka: доступные цены, общежития и пошаговое поступление",
+        "fr": "Guide pratique d'UTeM Melaka : frais universitaires publics bas, résidences et admission",
+        "es": "Guía práctica de UTeM Melaka: matrículas públicas económicas, residencias y admisión"
+      },
+      "summary": {
+        "id": "Panduan langkah demi langkah mendaftar ke UTeM, rincian biaya kuliah universitas negeri yang hemat, dan fasilitas hunian asrama di Durian Tunggal Melaka.",
+        "en": "Step-by-step roadmap covering UTeM technical application procedures, low public tuition structures, and tranquil hostel living in Durian Tunggal.",
+        "ar": "خريطة طريق تفصيلية تغطي إجراءات التسجيل الأكاديمي، وهيكل التكاليف الحكومية المخفضة، ومرافق السكن الطلابي في دوريان تونغال بملاكا.",
+        "ko": "단계별 입학 지원 절차 안내, 가성비 높은 국립대 학비 구조 및 두리안 퉁갈 캠퍼스 기숙사 생활 팁을 종합 제공합니다.",
+        "ja": "出願手続きの流れ、国立大学ならではの経済的な学費内訳、ドゥリアン・トゥンガル校の快適な寮生活のポイントを解説。",
+        "zh": "手把手详尽演示UTM技术大学申请全流程、公立大学极度亲民的费用预算以及榴莲洞葛花园式校区宿舍全景概览。",
+        "ru": "Пошаговый план поступления, доступные цены государственного вуза и жизнь в общежитиях кампуса.",
+        "fr": "Toutes les étapes d'admission, la structure des coûts très accessibles et la vie en résidence à Durian Tunggal.",
+        "es": "Itinerario de admisión, estructura de tarifas públicas accesibles y vida en el colegio mayor de Durian Tunggal."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Kehidupan Mahasiswa di Melaka: Belajar Tenang di Kota Warisan Dunia UNESCO dengan Biaya Hemat",
+        "en": "Student Living in Melaka: Peaceful Studies in a UNESCO World Heritage State at Modest Costs",
+        "ar": "الحياة الطلابية في ملاكا: هدوء الدراسة في مدينة التراث العالمي لليونسكو بتكلفة معيشة موفرة",
+        "ko": "멜라카에서 누리는 학생 라이프: 유네스코 세계문화유산 도시의 여유와 알뜰한 생활비",
+        "ja": "マラッカでの留学生ライフ：ユネスコ世界遺産の街で叶える穏やかな学業とスマートな生活費",
+        "zh": "在马六甲开启精彩留学生活：漫步世界文化遗产名城的悠然惬意与极低生活开支",
+        "ru": "Студенческая жизнь в Малакке: учеба в городе наследия ЮНЕСКО с низкими расходами",
+        "fr": "La vie étudiante à Melaka : des études sereines dans une ville UNESCO à petit budget",
+        "es": "Vida universitaria en Melaka: estudiar en una ciudad Patrimonio de la UNESCO a bajo costo"
+      },
+      "summary": {
+        "id": "Semua hal mengenai kuliner halal legendaris Melaka, suasana kota yang aman dan bersejarah, serta bagaimana hidup hemat dengan nyaman selama kuliah.",
+        "en": "Everything about Melaka’s legendary halal culinary heritage, exceptionally safe historic streets, and managing a relaxed, budget-conscious student lifestyle.",
+        "ar": "كل ما ترغب بمعرفته عن أشهر المأكولات الحلال في ملاكا، وأجوائها التاريخية والآمنة، وكيفية التمتع بمعيشة طلابية اقتصادية ومريحة.",
+        "ko": "멜라카의 유서 깊은 할랄 미식 문화, 안전한 치안 환경, 그리고 여유롭고 경제적인 학생 일상 관리법을 소개합니다.",
+        "ja": "マラッカの伝統的なハラールグルメ、治安良好で美しい歴史的街並み、賢く無理のない生活費管理法を詳しく紹介。",
+        "zh": "一览马六甲享誉国际的特色清真风味饮食、安宁祥和的历史街区人文环境以及轻松无负担的省心留学开销。",
+        "ru": "Легендарная халяльная кухня Малакки, безопасные исторические кварталы и комфортная жизнь с минимальными тратами.",
+        "fr": "Découverte de la gastronomie halal de Melaka, de ses rues historiques sûres et de la gestion facile d'un budget étudiant.",
+        "es": "La gastronomía halal de Melaka, sus calles históricas y seguras, y cómo disfrutar de una vida de estudiante económica y relajada."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Fakultas Teknik Mesin & Manufaktur Industri 4.0 (Teaching Factory)",
+        "en": "Faculty of Mechanical & Manufacturing Engineering (Industry 4.0)",
+        "ar": "كلية الهندسة الميكانيكية وهندسة التصنيع الذكي (مصنع التعليم)",
+        "ko": "기계공학 및 인더스트리 4.0 스마트 제조공학부 (티칭 팩토리 특성화)",
+        "ja": "機械工学＆インダストリー4.0スマート製造工学部（教育工場モデル）",
+        "zh": "机械工程与工业4.0智能制造工程学院（教学工厂实操旗舰专业）",
+        "ru": "Факультет машиностроения и промышленного производства 4.0",
+        "fr": "Génie Mécanique et Fabrication Industrielle 4.0 (Usine-école)",
+        "es": "Ingeniería Mecánica y Fabricación Industria 4.0 (Fábrica de Enseñanza)"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "4 Years",
+      "durationYears": 4,
+      "durationId": "4 Tahun",
+      "durationAr": "4 سنوات",
+      "feeUSD": "$2,900 - $3,600 / Year",
+      "avgFee": "RM 13,000 - RM 16,000",
+      "ielts": "5.0 - 5.5"
+    },
+    {
+      "faculty": {
+        "id": "Fakultas Teknik Elektro, Mekatronika & Otomasi Komputer",
+        "en": "Faculty of Electrical, Mechatronics & Computer Automation Engineering",
+        "ar": "كلية الهندسة الكهربائية والميكاترونكس وهندسة الأتمتة الحاسوبية",
+        "ko": "전기전자공학, 메카트로닉스 및 컴퓨터 자동화 제어공학부",
+        "ja": "電気電子工学、メカトロニクス＆コンピュータ自動制御工学部",
+        "zh": "电气电子工程、机电一体化与计算机自动化系统工程学院",
+        "ru": "Факультет электротехники, мехатроники и компьютерной автоматизации",
+        "fr": "Génie Électrique, Mécatronique et Automatismes Industriels",
+        "es": "Ingeniería Eléctrica, Mecatrónica y Automatización Informática"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "4 Years",
+      "durationYears": 4,
+      "durationId": "4 Tahun",
+      "durationAr": "4 سنوات",
+      "feeUSD": "$2,900 - $3,500 / Year",
+      "avgFee": "RM 13,000 - RM 15,500",
+      "ielts": "5.0 - 5.5"
+    },
+    {
+      "faculty": {
+        "id": "Fakultas Teknologi Informasi, Sains Komputer & AI",
+        "en": "Faculty of Information and Communication Technology (ICT & AI)",
+        "ar": "كلية تكنولوجيا المعلومات والاتصالات وعلوم الحاسب والذكاء الاصطناعي",
+        "ko": "정보통신기술(ICT), 컴퓨터과학 및 인공지능(AI) 학부",
+        "ja": "情報通信技術（ICT）、コンピュータ科学＆人工知能（AI）学部",
+        "zh": "信息与通信技术学院（ICT、计算机软件开发与人工智能AI）",
+        "ru": "Факультет информационно-коммуникационных технологий и ИИ",
+        "fr": "Technologies de l'Information et de la Communication (TIC et IA)",
+        "es": "Tecnologías de la Información y las Comunicaciones (TIC e IA)"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "3 - 3.5 Years",
+      "durationYears": 3,
+      "durationId": "3 - 3.5 Tahun",
+      "durationAr": "3 - 3.5 سنوات",
+      "feeUSD": "$2,800 - $3,400 / Year",
+      "avgFee": "RM 12,500 - RM 15,000",
+      "ielts": "5.0 - 5.5"
+    },
+    {
+      "faculty": {
+        "id": "Fakultas Manajemen Teknologi & Kewirausahaan Teknologi (Technopreneurship)",
+        "en": "Faculty of Technology Management & Technopreneurship",
+        "ar": "كلية إدارة التكنولوجيا وريادة الأعمال التكنولوجية (Technopreneurship)",
+        "ko": "기술경영 및 테크놀로지 창업학부 (테크노프러너십)",
+        "ja": "技術経営学部＆テクノプレナーシップ（技術起業学科）",
+        "zh": "科技创新管理与科技创业学院（Technopreneurship）",
+        "ru": "Факультет технологического менеджмента и технопредпринимательства",
+        "fr": "Management des Technologies et Entrepreneuriat Technologique",
+        "es": "Gestión Tecnológica y Emprendimiento Tecnológico"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "durationId": "3 Tahun",
+      "durationAr": "3 سنوات",
+      "feeUSD": "$2,700 - $3,300 / Year",
+      "avgFee": "RM 12,000 - RM 14,500",
+      "ielts": "5.0 - 5.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=QIdQ5SvKEns",
+  "programs": [
+    {
+      "id": "utem-bachelor-of-computer-science-computer-networking-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Science (Computer Networking) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في Computer Networking) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 19122,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19122
+        },
+        {
+          "year": 2,
+          "fee": 19122
+        },
+        {
+          "year": 3,
+          "fee": 19122
+        }
+      ],
+      "totalTuitionFee": 57366,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-computer-science-database-management-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Science (Database Management) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في Database Management) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 19122,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19122
+        },
+        {
+          "year": 2,
+          "fee": 19122
+        },
+        {
+          "year": 3,
+          "fee": 19122
+        }
+      ],
+      "totalTuitionFee": 57366,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-computer-science-artificial-intelligence-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Science (Artificial Intelligence) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 19122,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19122
+        },
+        {
+          "year": 2,
+          "fee": 19122
+        },
+        {
+          "year": 3,
+          "fee": 19122
+        }
+      ],
+      "totalTuitionFee": 57366,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-computer-science-interactive-media-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Science (Interactive Media) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في Interactive Media) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 19122,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19122
+        },
+        {
+          "year": 2,
+          "fee": 19122
+        },
+        {
+          "year": 3,
+          "fee": 19122
+        }
+      ],
+      "totalTuitionFee": 57366,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-computer-science-software-development-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Science (Software Development) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في Software Development) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 19122,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19122
+        },
+        {
+          "year": 2,
+          "fee": 19122
+        },
+        {
+          "year": 3,
+          "fee": 19122
+        }
+      ],
+      "totalTuitionFee": 57366,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-computer-science-computer-security-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Science (Computer Security) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في Computer Security) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 19122,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19122
+        },
+        {
+          "year": 2,
+          "fee": 19122
+        },
+        {
+          "year": 3,
+          "fee": 19122
+        }
+      ],
+      "totalTuitionFee": 57366,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-information-technology-games-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Information Technology (Games Technology) with Honours",
+      "nameAr": "بكالوريوس تقنية المعلومات في Games Technology) with Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 19122,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19122
+        },
+        {
+          "year": 2,
+          "fee": 19122
+        },
+        {
+          "year": 3,
+          "fee": 19122
+        }
+      ],
+      "totalTuitionFee": 57366,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-computer-science-internetworking-technology",
+      "universityId": "utem",
+      "name": "Master of Computer Science (Internetworking Technology)",
+      "nameAr": "ماجستير علوم الحاسب في Internetworking Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-computer-science-database-technology",
+      "universityId": "utem",
+      "name": "Master of Computer Science (Database Technology)",
+      "nameAr": "ماجستير علوم الحاسب في Database Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-computer-science-software-engineering",
+      "universityId": "utem",
+      "name": "Master of Computer Science (Software Engineering)",
+      "nameAr": "ماجستير علوم الحاسب في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-computer-science-security-science",
+      "universityId": "utem",
+      "name": "Master of Computer Science (Security Science)",
+      "nameAr": "ماجستير علوم الحاسب في Security Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-computer-science-multimedia-computing",
+      "universityId": "utem",
+      "name": "Master of Computer Science (Multimedia Computing)",
+      "nameAr": "ماجستير علوم الحاسب في Multimedia Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-technology-data-science-and-analytics",
+      "universityId": "utem",
+      "name": "Master of Technology (Data Science and Analytics)",
+      "nameAr": "ماجستير في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29255,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29255
+        }
+      ],
+      "totalTuitionFee": 29255,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-software-engineering-mobile-development",
+      "universityId": "utem",
+      "name": "Master of Software Engineering (Mobile Development)",
+      "nameAr": "ماجستير في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29255,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29255
+        }
+      ],
+      "totalTuitionFee": 29255,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-technovation-mtv",
+      "universityId": "utem",
+      "name": "Master of Technovation (MTV)",
+      "nameAr": "ماجستير في Master of Technovation (MTV",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 10000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-technopreneurship-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Technopreneurship with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Technopreneurship with Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-technology-management-with-honours-high-technology-marketing",
+      "universityId": "utem",
+      "name": "Bachelor of Technology Management with Honours (High Technology  Marketing)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-technology-management-supply-chain-management-and-logistics-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Technology Management (Supply Chain Management and Logistics) with Honours",
+      "nameAr": "بكالوريوس في إدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-technology-management-technology-innovation-with-honors",
+      "universityId": "utem",
+      "name": "Bachelor of Technology Management (Technology Innovation) with Honors",
+      "nameAr": "بكالوريوس في Bachelor of Technology Management (Technology Innovation) with Honors",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-engineering-business-management-miem",
+      "universityId": "utem",
+      "name": "Master of Engineering Business Management (MIEM)",
+      "nameAr": "ماجستير الهندسة في Business Management (MIEM",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 39103,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39103
+        }
+      ],
+      "totalTuitionFee": 39103,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-business-information-management-miim",
+      "universityId": "utem",
+      "name": "Master of Business Information Management (MIIM)",
+      "nameAr": "ماجستير في Master of Business Information Management (MIIM",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 39103,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39103
+        }
+      ],
+      "totalTuitionFee": 39103,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-business-administration-advanced-operations-management",
+      "universityId": "utem",
+      "name": "Master of Business Administration (Advanced Operations Management)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Advanced Operations Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 11625,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11625
+        },
+        {
+          "year": 2,
+          "fee": 11625
+        }
+      ],
+      "totalTuitionFee": 23250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-business-administration-technology-and-innovation-management",
+      "universityId": "utem",
+      "name": "Master of Business Administration (Technology and Innovation Management)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Technology and Innovation Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 11625,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11625
+        },
+        {
+          "year": 2,
+          "fee": 11625
+        }
+      ],
+      "totalTuitionFee": 23250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-doctor-of-technology-management-dtm",
+      "universityId": "utem",
+      "name": "DOCTOR OF TECHNOLOGY MANAGEMENT (DTM)",
+      "nameAr": "دكتوراه في DOCTOR OF TECHNOLOGY MANAGEMENT (DTM",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 35860,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35860
+        },
+        {
+          "year": 2,
+          "fee": 35860
+        },
+        {
+          "year": 3,
+          "fee": 35860
+        }
+      ],
+      "totalTuitionFee": 107580,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electrical-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electrical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-mechatronics-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Mechatronics Engineering with honours",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electrical-engineering-technology-industrial-automation-and-robotics-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electrical Engineering Technology (Industrial Automation and Robotics) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electrical-engineering-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electrical Engineering Technology with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-automotive-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Automotive Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Automotive Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-mechanical-engineering-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Mechanical Engineering Technology With Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-mechanical-engineering-technology-maintenance-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Mechanical Engineering Technology (Maintenance Technology) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-mechanical-engineering-technology-refrigeration-and-air-conditioning-systems-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Mechanical Engineering Technology (Refrigeration And Air-Conditioning Systems) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electrical-engineering-technology-industrial-power-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electrical Engineering Technology (Industrial Power) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-mechanical-engineering-technology-automotive-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Mechanical Engineering Technology (Automotive Technology) With Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electronic-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electronic Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-computer-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Computer Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electronics-engineering-technology-industrial-electronics-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electronics Engineering Technology (Industrial Electronics) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-computer-engineering-technology-computer-systems-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Computer Engineering Technology (Computer Systems) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Computer Engineering Technology (Computer Systems) with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electronics-engineering-technology-telecommunications-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electronics Engineering Technology (Telecommunications) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14218
+        },
+        {
+          "year": 2,
+          "fee": 14218
+        },
+        {
+          "year": 3,
+          "fee": 14218
+        },
+        {
+          "year": 4,
+          "fee": 14218
+        }
+      ],
+      "totalTuitionFee": 56872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-electronic-engineering-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Electronic Engineering Technology with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-manufacturing-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Manufacturing Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Manufacturing Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-industrial-engineering-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Industrial Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Industrial Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-manufacturing-engineering-technology-process-and-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Manufacturing Engineering Technology (Process and Technology) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Manufacturing Engineering Technology (Process and Technology) with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-manufacturing-engineering-technology-product-design-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Manufacturing Engineering Technology (Product Design) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Manufacturing Engineering Technology (Product Design) with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-bachelor-of-manufacturing-engineering-technology-with-honours",
+      "universityId": "utem",
+      "name": "Bachelor of Manufacturing Engineering Technology with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Manufacturing Engineering Technology with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17218,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17218
+        },
+        {
+          "year": 2,
+          "fee": 17218
+        },
+        {
+          "year": 3,
+          "fee": 17218
+        },
+        {
+          "year": 4,
+          "fee": 17218
+        }
+      ],
+      "totalTuitionFee": 68872,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-electronic-engineering-telecommunication-systems",
+      "universityId": "utem",
+      "name": "Master of Electronic Engineering (Telecommunication Systems)",
+      "nameAr": "ماجستير في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-electronic-engineering-electronic-systems",
+      "universityId": "utem",
+      "name": "Master of Electronic Engineering (Electronic Systems)",
+      "nameAr": "ماجستير في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-electronic-engineering-computer-engineering",
+      "universityId": "utem",
+      "name": "Master of Electronic Engineering (Computer Engineering)",
+      "nameAr": "ماجستير في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-electrical-engineering-mekh",
+      "universityId": "utem",
+      "name": "Master of Electrical Engineering (MEKH)",
+      "nameAr": "ماجستير في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechatronics-engineering-mekh",
+      "universityId": "utem",
+      "name": "Master of Mechatronics Engineering (MEKH)",
+      "nameAr": "ماجستير في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechanical-engineering-energy-engineering",
+      "universityId": "utem",
+      "name": "Master of Mechanical Engineering (Energy Engineering)",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 8500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8500
+        }
+      ],
+      "totalTuitionFee": 8500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechanical-engineering-automotive",
+      "universityId": "utem",
+      "name": "Master of Mechanical (Engineering Automotive)",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 8500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8500
+        }
+      ],
+      "totalTuitionFee": 8500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechanical-engineering-product-design",
+      "universityId": "utem",
+      "name": "Master of Mechanical Engineering (Product Design)",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 8500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8500
+        }
+      ],
+      "totalTuitionFee": 8500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechanical-engineering",
+      "universityId": "utem",
+      "name": "Master of Mechanical Engineering",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-manufacturing-engineering-manufacturing-system-engineering",
+      "universityId": "utem",
+      "name": "Master of Manufacturing Engineering ( Manufacturing System Engineering )",
+      "nameAr": "ماجستير في Master of Manufacturing Engineering ( Manufacturing System Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-manufacturing-engineering-quality-system-engineering",
+      "universityId": "utem",
+      "name": "Master of Manufacturing Engineering ( Quality System Engineering )",
+      "nameAr": "ماجستير في Master of Manufacturing Engineering ( Quality System Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-manufacturing-engineering-industrial-engineering",
+      "universityId": "utem",
+      "name": "Master of Manufacturing Engineering ( Industrial Engineering )",
+      "nameAr": "ماجستير في Master of Manufacturing Engineering ( Industrial Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-manufacturing-engineering-advanced-materials-processing",
+      "universityId": "utem",
+      "name": "Master of Manufacturing Engineering ( Advanced Materials & Processing )",
+      "nameAr": "ماجستير في Master of Manufacturing Engineering ( Advanced Materials & Processing",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-electrical-engineering-industrial-power-by-mixed-mode",
+      "universityId": "utem",
+      "name": "Master of Electrical Engineering (Industrial Power) BY MIXED MODE",
+      "nameAr": "ماجستير في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5513,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5513
+        },
+        {
+          "year": 2,
+          "fee": 5513
+        }
+      ],
+      "totalTuitionFee": 11026,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechanical-engineering-energy-by-mixed-mode",
+      "universityId": "utem",
+      "name": "Master of Mechanical Engineering (Energy) BY MIXED MODE",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5513,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5513
+        },
+        {
+          "year": 2,
+          "fee": 5513
+        }
+      ],
+      "totalTuitionFee": 11026,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechanical-engineering-applied-mechanics-mixed-mode",
+      "universityId": "utem",
+      "name": "Master of Mechanical Engineering (Applied Mechanics) MIXED MODE",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5513,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5513
+        },
+        {
+          "year": 2,
+          "fee": 5513
+        }
+      ],
+      "totalTuitionFee": 11026,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-mechanical-engineering-automotive-by-mixed-mode",
+      "universityId": "utem",
+      "name": "Master of Mechanical Engineering (Automotive) BY MIXED MODE",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5513,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5513
+        },
+        {
+          "year": 2,
+          "fee": 5513
+        }
+      ],
+      "totalTuitionFee": 11026,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-doctor-of-engineering-deng",
+      "universityId": "utem",
+      "name": "DOCTOR OF ENGINEERING (DEng)",
+      "nameAr": "دكتوراه في DOCTOR OF ENGINEERING (DEng",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 9008,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 9008
+        },
+        {
+          "year": 2,
+          "fee": 9008
+        },
+        {
+          "year": 3,
+          "fee": 9008
+        },
+        {
+          "year": 4,
+          "fee": 9008
+        }
+      ],
+      "totalTuitionFee": 36032,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-doctor-of-philosophy-phd",
+      "universityId": "utem",
+      "name": "DOCTOR OF PHILOSOPHY (PhD)",
+      "nameAr": "دكتوراه الفلسفة (PhD)",
+      "field": "business",
+      "category": "Other",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18404,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18404
+        },
+        {
+          "year": 2,
+          "fee": 18404
+        },
+        {
+          "year": 3,
+          "fee": 18404
+        }
+      ],
+      "totalTuitionFee": 55212,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utem-master-of-science-by-research",
+      "universityId": "utem",
+      "name": "Master of Science (By Research)",
+      "nameAr": "ماجستير العلوم (بالبحث العلمي)",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10428,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10428
+        },
+        {
+          "year": 2,
+          "fee": 10428
+        }
+      ],
+      "totalTuitionFee": 20856,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 66,
+  "totalProgramsCount": 66
+}

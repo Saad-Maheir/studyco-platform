@@ -1,0 +1,3131 @@
+{
+  "id": "um",
+  "name": "Universiti Malaya (UM)",
+  "arabicName": "جامعة مالايا الحكومية (UM)",
+  "city": "Kuala Lumpur",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-um.png",
+  "image": "assets/photo/campus_um.webp",
+  "website": "https://www.um.edu.my/",
+  "ranking": "Rank 60 QS World University Rankings 2025 (No. 1 University in Malaysia)",
+  "established": "1905",
+  "campusName": "Universiti Malaya Main Heritage Campus, KL",
+  "studentCount": "28,000+ (90+ Countries)",
+  "intakes": "Mar, Oct",
+  "feeRangeMin": 13075,
+  "feeRangeMax": 134640,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/2tlXQHKGmJc",
+  "description": "Universiti Malaya (UM) is one of the leading recognized higher education institutions located in Kuala Lumpur. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة مالايا الحكومية (UM) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Kuala Lumpur، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Universiti Malaya (UM) didirikan pada tahun 1905 dan merupakan universitas riset publik tertua, terbesar, dan paling bergengsi No. 1 di Malaysia, menempati peringkat ke-60 di dunia dalam QS World University Rankings 2025. Terletak di kampus rindang seluas 360 hektar di barat daya Kuala Lumpur, UM telah melahirkan sebagian besar Perdana Menteri, menteri kabinet, tokoh hukum, dan pemimpin bisnis Malaysia, dengan pusat medis rujukan nasional UMMC serta laboratorium riset tingkat dunia.",
+    "en": "Universiti Malaya (UM), founded in 1905, is Malaysia’s oldest, premier, and highest-ranked public research university, standing at Rank 60 globally in the QS World University Rankings 2025. Situated across 360 lush acres in southwest Kuala Lumpur, UM has educated the majority of Malaysia’s Prime Ministers, national leaders, and top scholars, boasting the renowned UMMC medical teaching center and world-class research institutes.",
+    "ar": "تأسست جامعة مالايا (Universiti Malaya - UM) عام 1905، وتعد الصرح الأكاديمي والبحثي الحكومي الأقدم والأعرق ورقم 1 في ماليزيا، حيث تحتل المرتبة 60 عالمياً في تصنيف QS لعام 2025. يمتد حرمها الجامعي التاريخي على مساحة 360 هكتاراً في كوالالمبور، وتفخر بتخريج معظم رؤساء وزراء ماليزيا وقادتها الوطنيين، وتضم المركز الطبي الجامعي المرجعي (UMMC) ومراكز أبحاث متقدمة عالمية.",
+    "zh": "马来亚大学（Universiti Malaya，简称UM）创校于1905年，是马来西亚历史最悠久、办学声望最卓著的公立研究型大学之首，在2025年QS世界大学排名中高居全球第60位。总校占地360公顷，坐落于吉隆坡西南黄金地段，历史上培育了马来西亚绝大多数政府总理、内阁部长及行业领袖，拥有国家级顶尖医学中心（UMMC）与世界一流的科研实验室矩阵。",
+    "ru": "Университет Малайя (UM), основанный в 1905 году, является старейшим, ведущим и наиболее престижным государственным исследовательским университетом Малайзии, занимающим 60-е место в мире в рейтинге QS 2025. Расположенный на 360 гектарах в Куала-Лумпуре, вуз воспитал большинство премьер-министров страны и располагает национальным медицинским центром UMMC.",
+    "fr": "Fondée en 1905, l'Universiti Malaya (UM) est la plus ancienne et la plus prestigieuse université publique de recherche de Malaisie, classée 60e mondiale au QS World University Rankings 2025. Établie sur 360 hectares à Kuala Lumpur, elle a formé la majorité des Premiers ministres malaisiens et abrite le grand centre hospitalier universitaire UMMC.",
+    "es": "La Universiti Malaya (UM), fundada en 1905, es la universidad pública de investigación más antigua y prestigiosa de Malasia, situada en el puesto 60 mundial en el QS World University Rankings 2025. Con un campus de 360 hectáreas en Kuala Lumpur, ha formado a la mayoría de los primeros ministros del país y cuenta con el prestigioso centro médico UMMC.",
+    "ja": "マラヤ大学（UM）は1905年に創立されたマレーシア最古・最高峰の国立総合研究大学であり、QS世界大学ランキング2025で世界第60位に輝く世界的名門校です。クアラルンプール南西部の緑豊かな360ヘクタールのキャンパスを有し、歴代首相をはじめとする数多くの国家指導者を輩出、国立中核医療センター（UMMC）や世界屈指の研究機関を擁しています。",
+    "ko": "말라야 대학교(UM)는 1905년에 설립된 말레이시아 최초이자 최고 1위의 국립 종합 연구대학교로, 2025년 QS 세계 대학 평가에서 글로벌 60위를 기록했습니다. 쿠알라룸푸르 남서부 360헥타르의 광활한 친환경 캠퍼스에 자리잡고 있으며, 말레이시아 역대 총리와 국가 지도자 대다수를 배출한 국립 의학센터(UMMC) 및 세계 최고 수준의 첨단 연구소를 보유하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Medis Universiti Malaya (UMMC) & Rumah Sakit Spesialis Rujukan Nasional",
+        "en": "Universiti Malaya Medical Centre (UMMC) National Referral Hospital",
+        "ar": "المركز الطبي لجامعة مالايا (UMMC) والمستشفى المرجعي التخصصي الوطني",
+        "ko": "말라야 대학교 메디컬 센터(UMMC) 국가 지정 최고 등급 종합 대학병원",
+        "ja": "マラヤ大学メディカルセンター（UMMC）国家中核専門教育病院",
+        "zh": "马来亚大学医学中心（UMMC）国家级顶尖专科转诊教学综合医院",
+        "ru": "Медицинский центр Университета Малайя (UMMC) — национальная клиническая больница",
+        "fr": "Centre médical de l'Université Malaya (UMMC) et hôpital national de référence",
+        "es": "Centro Médico de la Universidad de Malaya (UMMC) y Hospital Nacional de Referencia"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Perpustakaan Utama Memorial Za’ba & Jaringan Arsip Digital Terbesar",
+        "en": "Za’ba Memorial Central Library & Premier Research Archives",
+        "ar": "المكتبة المركزية التذكارية والأرشيف الأكاديمي الرقمي الأضخم بماليزيا",
+        "ko": "자바 기념 중앙 도서관 및 말레이시아 최대 규모 학술 아카이브 네트워크",
+        "ja": "ザバ記念中央図書館＆マレーシア最大規模の学術文献アーカイブ",
+        "zh": "扎巴纪念中央学术图书馆与全马馆藏最丰富的大型国家级文献检索网络",
+        "ru": "Центральная библиотека имени За’ба и крупнейший архив научных публикаций",
+        "fr": "Bibliothèque centrale Za'ba et plus grand réseau d'archives numériques de Malaisie",
+        "es": "Biblioteca Central Memorial Za'ba y el mayor archivo documental del país"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Institut Sains Nano & Material Canggih serta Pusat Bioteknologi Terpadu",
+        "en": "Nanotechnology, Advanced Materials & Integrated Biotechnology Institutes",
+        "ar": "معهد تكنولوجيا النانو والمواد المتقدمة ومراكز التقنية الحيوية المتكاملة",
+        "ko": "나노기술, 첨단 신소재 연구소 및 융합 생명공학 국가 핵심 센터",
+        "ja": "ナノテクノロジー・先端材料研究所＆統合バイオテクノロジー研究センター",
+        "zh": "纳米科学前沿技术研发中心与国家级综合生物科技重点科研大楼",
+        "ru": "Институт нанотехнологий, передовых материалов и биотехнологий",
+        "fr": "Institut des nanotechnologies, matériaux avancés et biotechnologies intégrées",
+        "es": "Instituto de Nanotecnología, Materiales Avanzados y Biotecnología"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Stadion Olahraga Internasional, Kolam Olimpiade & Arena Akuatik UM",
+        "en": "UM International Stadium, Olympic Swimming Pool & Aquatic Arena",
+        "ar": "استاد UM الرياضي الدولي، والمسبح الأولمبي ومجمع الألعاب المائية",
+        "ko": "UM 국제 스포츠 스타디움, 올림픽 규격 수영장 및 아쿠아틱 경기장",
+        "ja": "UM国際スポーツスタジアム、オリンピック規格プール＆アクアティックアリーナ",
+        "zh": "马来亚大学国际田径体育场、标准奥林匹克恒温游泳跳水综合水上运动中心",
+        "ru": "Международный стадион UM, олимпийский бассейн и водная арена",
+        "fr": "Stade international de l'UM, piscine olympique et complexe aquatique",
+        "es": "Estadio Internacional de UM, piscina olímpica y centro acuático"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Universitas Peringkat Rank 60 Dunia & Nomor 1 di Malaysia (QS World Rankings 2025)",
+        "en": "Ranked Rank 60 in the World & No. 1 in Malaysia (QS World Rankings 2025)",
+        "ar": "المرتبة Rank 60 عالمياً والجامعة رقم 1 في ماليزيا (تصنيف QS العالمي 2025)",
+        "ko": "세계 60위 및 말레이시아 부동의 1위 명문 국립대 (QS World 2025)",
+        "ja": "世界ランキング第60位・マレーシア最高峰第1位の国立名門校（QS 2025）",
+        "zh": "2025年QS世界大学排名第60位、蝉联全马公认第一最高学府",
+        "ru": "№60 в мировом рейтинге QS и университет №1 в Малайзии (QS 2025)",
+        "fr": "Classée 60e mondiale et 1re en Malaisie (Classement mondial QS 2025)",
+        "es": "Puesto 60 del mundo y número 1 de Malasia (Ranking Mundial QS 2025)"
+      },
+      "desc": {
+        "id": "Universitas tertua dan paling bergengsi di Malaysia, melahirkan perdana menteri, pemimpin bangsa, dan ilmuwan kelas dunia.",
+        "en": "The oldest and most prestigious university in Malaysia, educating prime ministers, national leaders, and global laureates.",
+        "ar": "أعرق وأقدم جامعة في تاريخ ماليزيا، خرجت رؤساء الوزراء وكبار قادة الدولة والعلماء المعترف بهم دولياً.",
+        "ko": "말레이시아에서 가장 유서 깊은 최고 권위의 대학으로 역대 총리, 국가 지도자 및 세계적 석학 배출.",
+        "ja": "マレーシア最古にして最高峰の権威を誇り、歴代首相、国家元首、世界的ノーベル賞学者を育成。",
+        "zh": "作为马来西亚历史最悠久、办学底蕴最深厚的国家旗舰公立研究型大学，走出多位政府总理与全球各界领袖。",
+        "ru": "Старейший и престижнейший университет страны, воспитавший премьер-министров и ведущих ученых.",
+        "fr": "La plus ancienne et prestigieuse université de Malaisie, ayant formé les premiers ministres et leaders.",
+        "es": "La universidad más antigua y prestigiosa de Malasia, alma mater de primeros ministros y líderes internacionales."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Akreditasi Bisnis Tiga Mahkota (Triple Crown: AACSB, AMBA, EQUIS)",
+        "en": "Triple Crown Accredited Business School (AACSB, AMBA, EQUIS)",
+        "ar": "اعتماد التاج الثلاثي العالمي لكليات الأعمال (AACSB وAMBA وEQUIS)",
+        "ko": "전 세계 상위 1% 경영대학의 상징 트리플 크라운(AACSB, AMBA, EQUIS) 획득",
+        "ja": "世界トップ1％のビジネススクールの証「トリプルクラウン（AACSB, AMBA, EQUIS）」取得",
+        "zh": "商学院荣获全球商科极高荣誉“三皇冠权威认证”（AACSB、AMBA、EQUIS）",
+        "ru": "Бизнес-школа с тройной короной аккредитаций (AACSB, AMBA, EQUIS)",
+        "fr": "École de commerce accréditée Triple Couronne (AACSB, AMBA, EQUIS)",
+        "es": "Escuela de negocios con acreditación de la Triple Corona (AACSB, AMBA, EQUIS)"
+      },
+      "desc": {
+        "id": "Fakultas Bisnis dan Ekonomi UM termasuk dalam jajaran 1% sekolah bisnis elit di seluruh dunia.",
+        "en": "Faculty of Business and Economics belongs to the elite 1% of business schools globally.",
+        "ar": "كلية الأعمال والاقتصاد بجامعة مالايا مصنفة ضمن نخبة 1% من كليات الأعمال في العالم بأسره.",
+        "ko": "경영경제학부는 전 세계 모든 경영대학 중 최정상 1%에 해당하는 엘리트 학부로 공인.",
+        "ja": "経営経済学部は、世界中に存在するビジネススクールの中で上位1％に位置付けられる超名門。",
+        "zh": "经管学院跻身全球仅有少数精英商学院方能获得的卓越三认证顶峰行列。",
+        "ru": "Факультет бизнеса и экономики входит в элитный 1% бизнес-школ мира.",
+        "fr": "La faculté de gestion et d'économie figure parmi le 1 % des écoles d'élite mondiales.",
+        "es": "La Facultad de Negocios y Economía se sitúa en el 1% de élite de las escuelas de negocios del mundo."
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Universitas Riset Publik Terbesar dengan Publikasi Ilmiah Nomor 1",
+        "en": "Malaysia’s Leading Public Research Giant with No. 1 Citation Impact",
+        "ar": "أكبر مجمع أبحاث حكومي في ماليزيا بأعلى معدل استشهاد علمي وأبحاث منشورة",
+        "ko": "말레이시아 최대 규모의 국립 연구중심 대학이자 학술 논문 인용도 압도적 1위",
+        "ja": "国内最大の国立研究型大学であり、論文引用数・学術出版数で圧倒的第1位",
+        "zh": "全马科研经费体量最大、国际高被引核心论文与专利成果产出蝉联第一",
+        "ru": "Крупнейший государственный исследовательский университет с индексом цитирования №1",
+        "fr": "Le plus grand géant de la recherche publique avec le plus fort impact de citations en Malaisie",
+        "es": "El principal centro de investigación pública del país con mayor índice de impacto"
+      },
+      "desc": {
+        "id": "Didukung oleh lebih dari 50 pusat riset spesialis, memimpin inovasi sains, medis, dan rekayasa di Asia.",
+        "en": "Driven by over 50 specialized research centres spearheading breakthroughs across Asia.",
+        "ar": "مدعومة بأكثر من 50 مركز أبحاث متخصص يقود الابتكارات الطبية والهندسية والعلمية في آسيا.",
+        "ko": "50개 이상의 국가 전문 연구 센터를 기반으로 아시아 전역의 과학, 의료 및 공학 혁신 주도.",
+        "ja": "50以上の専門研究機関を擁し、アジアにおける科学・医学・工学のブレークスルーをリード。",
+        "zh": "建有50余个国家重点前沿科学研究所，在基础科学、临床医学及高精尖工程领域引领全亚前沿。",
+        "ru": "Более 50 специализированных исследовательских центров совершают прорывы мирового уровня.",
+        "fr": "Soutenu par plus de 50 centres de recherche spécialisés menant l'innovation en Asie.",
+        "es": "Impulsado por más de 50 centros de investigación especializados líderes en Asia."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Hijau Bersejarah 900 Hektar di Jantung Metropolitan Kuala Lumpur",
+        "en": "Sprawling 900-Acre Historic Green Campus in the Heart of Kuala Lumpur",
+        "ar": "حرم جامعي تاريخي أخضر بمساحة 900 فدان في قلب العاصمة كوالالمبور",
+        "ko": "쿠알라룸푸르 도심 한복판에 자리한 900에이커 규모의 유서 깊은 숲속 명품 캠퍼스",
+        "ja": "クアラルンプール都心の中心部に広がる900エーカーの歴史ある緑豊かな大キャンパス",
+        "zh": "坐拥吉隆坡都会中心腹地占地900英亩典雅绿意葱茏的历史地标级大校园",
+        "ru": "Исторический зеленый кампус площадью 900 акров в самом сердце Куала-Лумпура",
+        "fr": "Vaste campus historique de 900 acres au cœur de la métropole de Kuala Lumpur",
+        "es": "Histórico y extenso campus verde de 900 acres en el centro de Kuala Lumpur"
+      },
+      "desc": {
+        "id": "Lokasi prima antara Kuala Lumpur dan Petaling Jaya, memiliki stasiun LRT Universiti dan stasiun MRT terdekat.",
+        "en": "Prime location straddling KL and Petaling Jaya, serviced directly by Universiti LRT station and MRT.",
+        "ar": "موقع استراتيجي يربط كوالالمبور ببيتالينغ جايا، وتخدمه مباشرة محطة مترو Universiti LRT وشبكات النقل السريع.",
+        "ko": "KL과 페탈링 자야 경계의 황금 입지로, Universiti LRT 지하철역이 캠퍼스 정문과 직결.",
+        "ja": "クアラルンプールとペタリンジャヤを結ぶ好立地にあり、Universiti LRT駅直結の抜群の利便性。",
+        "zh": "地处吉隆坡与八打灵再也双城黄金交汇处，校门直通Universiti轻轨站，轨道交通网络极速接驳全城。",
+        "ru": "Идеальная локация между Куала-Лумпуром и Петалинг Джая со станцией метро Universiti LRT.",
+        "fr": "Emplacement idéal entre KL et Petaling Jaya, desservi directement par le métro Universiti LRT.",
+        "es": "Ubicación privilegiada entre KL y Petaling Jaya, con acceso directo a la estación de metro Universiti LRT."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kolej Kediaman (Residential Colleges) Resmi Kampus Universiti Malaya",
+        "en": "Universiti Malaya Official On-Campus Residential Colleges",
+        "ar": "الكليات السكنية الطلابية الرسمية داخل حرم جامعة مالايا (Residential Colleges)",
+        "ko": "말라야 대학교 교내 공식 전통 레지덴셜 칼리지 (기숙사)",
+        "ja": "マラヤ大学学内公式レジデンシャル・カレッジ（学生寮群）",
+        "zh": "马来亚大学官方校内传统住宿学院集群（Kolej Kediaman）",
+        "ru": "Официальные жилые колледжи на кампусе Universiti Malaya",
+        "fr": "Collèges résidentiels officiels sur le campus de l'Université Malaya",
+        "es": "Colegios mayores oficiales en el campus de Universiti Malaya"
+      },
+      "distance": {
+        "id": "Terletak di Dalam Lingkungan Kampus (1-3 Menit ke Fakultas)",
+        "en": "Located Within Campus Grounds (1 to 3-Minute Walk to Faculties)",
+        "ar": "تقع مباشرة داخل حرم الجامعة (دقيقة إلى 3 دقائق سيراً إلى الكليات)",
+        "ko": "캠퍼스 부지 내 위치 (단과대 강의동까지 도보 1~3분)",
+        "ja": "キャンパス敷地内に立地（各学部まで徒歩1〜3分）",
+        "zh": "坐落于大学绿意盎然的校区腹地，步行1至3分钟即达各大教学学院",
+        "ru": "На территории кампуса (1–3 минуты пешком до факультетов)",
+        "fr": "Situé sur le campus (1 à 3 minutes à pied des facultés)",
+        "es": "Ubicados en el campus (a 1-3 minutos a pie de las facultades)"
+      },
+      "priceRange": "RM 400 - RM 850 / month",
+      "amenities": {
+        "id": [
+          "Keamanan Kampus 24 Jam dengan Pos Penjagaan Ketat",
+          "Kantin Mahasiswa Tradisional & Kafe Internasional On-Site",
+          "Fasilitas Olahraga Lengkap & Akses Kolam Olimpiade UM",
+          "WiFi Akademik Kecepatan Tinggi & Ruang Belajar Mandiri",
+          "Halte Bus Shuttle Gratis Keliling Kampus Tepat di Depan Pintu"
+        ],
+        "en": [
+          "24/7 Gated Security & Dedicated Campus Police Patrols",
+          "Traditional Malaysian & International Student Dining Halls",
+          "Full Sports Grounds & Access to UM Olympic Aquatic Complex",
+          "High-Speed Academic WiFi & Dedicated Study Halls",
+          "Direct Access to Free Internal Campus Shuttle Bus Network"
+        ],
+        "ar": [
+          "حراسة أمنية ودوريات شرطة جامعية مشددة 24/7",
+          "مطاعم كافتيريا طلابية تقليدية وعالمية متنوعة",
+          "ملاعب رياضية ودخول مباشر لمجمع السباحة الأولمبي",
+          "إنترنت أكاديمي فائق السرعة وقاعات مخصصة للمطالعة",
+          "مواقف حافلات الحرم المجانية الترددية أمام مبنى الكليات مباشرة"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian (Kantin Kampus)",
+        "en": "Food & Daily Dining (Campus Cafes)",
+        "ar": "الطعام والمأكولات اليومية (مطاعم الحرم)"
+      },
+      "cost": "RM 550 - RM 850"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus Shuttle Kampus Gratis / LRT",
+        "en": "Free Campus Shuttle & Universiti LRT",
+        "ar": "حافلات الحرم المجانية ومترو Universiti LRT"
+      },
+      "cost": "RM 40 - RM 110"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 60 - RM 130"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Buku Akademik",
+        "en": "Personal Expenses & Academic Books",
+        "ar": "المستلزمات الشخصية والكتب الأكاديمية"
+      },
+      "cost": "RM 200 - RM 400"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Seberapa kompetitif proses seleksi pendaftaran mahasiswa internasional di Universiti Malaya (UM)?",
+        "en": "How competitive is the international student admissions process at Universiti Malaya (UM)?",
+        "ar": "ما مدى تنافسية وصعوبة شروط القبول للطلاب الدوليين في جامعة مالايا (UM)؟",
+        "ko": "말라야 대학교(UM)의 외국인 유학생 입학 심사는 얼마나 치열한가요?",
+        "ja": "マラヤ大学（UM）の留学生入試の難易度や倍率はどれくらいですか？",
+        "zh": "作为马来西亚排名第一的公立大学，国际学生申请马来亚大学（UM）的竞争程度如何？",
+        "ru": "Насколько высок конкурс при поступлении иностранных студентов в Universiti Malaya?",
+        "fr": "Quel est le niveau de sélectivité pour les étudiants internationaux à l'Université Malaya (UM) ?",
+        "es": "¿Cómo de competitivo es el proceso de admisión para estudiantes internacionales en Universiti Malaya (UM)?"
+      },
+      "a": {
+        "id": "Sangat kompetitif. Sebagai universitas nomor 1 di Malaysia dan Rank 60 di dunia, pelamar sarjana umumnya memerlukan nilai A-Level / IB / SMA yang sangat tinggi (IPK 3.50+ atau setara) serta wawancara untuk jurusan tertentu.",
+        "en": "Highly competitive. As the No. 1 university in Malaysia and Rank 60 globally, applicants typically require top academic percentiles (GPA 3.50+ / straight As in A-Levels/IB) and faculty interviews for selective programmes.",
+        "ar": "تنافسية للغاية وصارمة. كونها الجامعة رقم 1 بماليزيا ورقم 60 عالمياً، تتطلب معدلات ثانوية ممتازة (معدل 3.50+ أو امتياز في A-Levels/IB) ومقابلات شخصية لبعض التخصصات.",
+        "ko": "매우 치열합니다. 세계 60위 명문대로서 고교 내신/수능 상위권 또는 A-Level/IB 최상위 성적(GPA 3.50 이상)이 요구되며, 주요 학과는 심층 인터뷰를 진행합니다.",
+        "ja": "非常に高難度です。国内第1位・世界第60位のトップ校のため、高校成績で最上位の評価（GPA 3.50以上やA-Levelでの高得点）が求められ、専攻によっては面接があります。",
+        "zh": "选拔标准极其严苛。作为全球第60位的大马公立第一翘楚，申请本科通常要求高中平时成绩达85分以上或A-Level获多门A等级（GPA 3.50+），热门院系还设有专家面试选拔。",
+        "ru": "Очень высокий конкурс. Требуется высокий средний балл (GPA от 3.50+ / отличные оценки в A-Levels/IB) и собеседование.",
+        "fr": "Très sélectif. En tant que n°1 en Malaisie et 60e mondiale, les candidats doivent présenter d'excellents résultats (GPA 3.50+) et passer des entretiens.",
+        "es": "Altamente competitivo. Exige un expediente académico sobresaliente (GPA de 3.50+ o calificaciones excelentes en A-Levels/IB) y entrevistas."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah program sarjana untuk mahasiswa internasional di UM?",
+        "en": "What are the bachelor degree tuition fees for international students at Universiti Malaya?",
+        "ar": "كم تبلغ تكاليف ورسوم دراسة البكالوريوس للطلاب الدوليين في جامعة مالايا؟",
+        "ko": "말라야 대학교의 외국인 유학생 학사 학위 과정 평균 학비는 얼마인가요?",
+        "ja": "マラヤ大学における留学生向けの学士課程の学費はどれくらいですか？",
+        "zh": "国际留学生在马来亚大学攻读正规本科学位的学费收费标准是多少？",
+        "ru": "Какова стоимость обучения на программах бакалавриата для иностранных студентов в UM?",
+        "fr": "Quels sont les frais de scolarité en licence pour les étudiants internationaux à l'UM ?",
+        "es": "¿Cuáles son las tasas de matrícula de grado para estudiantes internacionales en UM?"
+      },
+      "a": {
+        "id": "Program Seni, Bahasa, dan Bisnis berkisar antara $3.500 - $5.500 USD per tahun. Program Ilmu Komputer dan Rekayasa Teknik sekitar $4.800 - $6.500 USD per tahun, sangat efisien untuk universitas top 60 dunia.",
+        "en": "Arts, Humanities, and Business range between $3,500 and $5,500 USD/year. Computing and Engineering range from $4,800 to $6,500 USD/year, representing extraordinary global value for a Top 60 World University.",
+        "ar": "تتراوح الآداب واللغات والأعمال بين 3,500 إلى 5,500 دولار سنوياً. والحوسبة والهندسة بين 4,800 إلى 6,500 دولار سنوياً، وهي تكلفة رمزية جداً مقارنة بجامعة مصنفة ضمن أفضل 60 جامعة بالعالم.",
+        "ko": "인문, 어문, 경영학은 연간 약 3,500~5,500 달러, IT 및 공학부는 연간 약 4,800~6,500 달러로 세계 60위 명문대 중 전 세계에서 가장 경제적인 수준입니다.",
+        "ja": "人文・ビジネス系は年間約3,500〜5,500米ドル、IT＆工学部は年間約4,800〜6,500米ドルと、世界トップ60大学として破格の学費水准です。",
+        "zh": "文科与商学院年均学杂费约为3,500至5,500美元；计算机科学与工程各专业年均约4,800至6,500美元，放眼全球前60强世界顶尖学府，具有无可比拟的性价比。",
+        "ru": "Гуманитарные науки и бизнес: 3 500–5 500 $ в год; IT и инженерия: 4 800–6 500 $ в год для университета из топ-60 мира.",
+        "fr": "Lettres et commerce : 3 500 à 5 500 $ par an ; IT et ingénierie : 4 800 à 6 500 $ par an pour une université du top 60 mondial.",
+        "es": "Humanidades y Empresa: 3.500-5.500 $ al año; TI e Ingeniería: 4.800-6.500 $ anuales, inigualable para una universidad top 60 mundial."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk mendaftar program sarjana di UM?",
+        "en": "What are the required IELTS English scores for admission to Universiti Malaya?",
+        "ar": "ما هي متطلبات درجة آيلتس (IELTS) المطلوبة للالتحاق بجامعة مالايا؟",
+        "ko": "말라야 대학교 학부 입학을 위한 공식 IELTS 영어 성적 조건은 무엇인가요?",
+        "ja": "マラヤ大学の学部出願に必要なIELTS英語スコアの基準は？",
+        "zh": "申请入读马来亚大学本科学士学位课程对雅思（IELTS）有何具体要求？",
+        "ru": "Каков требуемый балл IELTS для поступления на бакалавриат в UM?",
+        "fr": "Quel score d'IELTS est exigé pour intégrer l'Université Malaya ?",
+        "es": "¿Qué nivel de IELTS se requiere para la admisión en Universiti Malaya?"
+      },
+      "a": {
+        "id": "Sebagian besar program sarjana memerlukan skor IELTS minimal 6.0. Program Kedokteran, Hukum, Bisnis, dan Bahasa Inggris memerlukan skor IELTS 6.5 hingga 7.0.",
+        "en": "Most degree programmes require a minimum IELTS score of 6.0. Medicine, Law, Business, and English Literature require IELTS 6.5 to 7.0.",
+        "ar": "تتطلب معظم برامج البكالوريوس درجة IELTS لا تقل عن 6.0. بينما تتطلب كليات الطب والقانون وإدارة الأعمال واللغة الإنجليزية درجة بين 6.5 إلى 7.0.",
+        "ko": "대부분의 전공은 최소 IELTS 6.0이 필요하며, 의학, 법학, 경영학 및 영문학과는 IELTS 6.5~7.0이 요구됩니다.",
+        "ja": "大半の学部課程でIELTS 6.0以上が必須です。医学、法学、ビジネス、英語学専攻は6.5〜7.0が必要です。",
+        "zh": "多数常规本科专业要求雅思总分不低于6.0分；法学院、商学院、临床医学及英语文学专业则要求雅思6.5至7.0分。",
+        "ru": "Для большинства программ требуется балл IELTS не ниже 6.0. Для медицины, права и бизнеса — 6.5–7.0.",
+        "fr": "La plupart des programmes demandent au moins 6.0 à l'IELTS. La médecine, le droit et le commerce exigent 6.5 à 7.0.",
+        "es": "La mayoría de grados exigen un IELTS mínimo de 6.0. Medicina, Derecho y Empresa solicitan entre 6.5 y 7.0."
+      }
+    },
+    {
+      "q": {
+        "id": "Apakah mahasiswa internasional dapat tinggal di asrama kampus (Residential Colleges) UM?",
+        "en": "Can international students secure housing in UM’s historic Residential Colleges?",
+        "ar": "هل يستطيع الطلاب الدوليون الحصول على سكن داخل الكليات السكنية التاريخية لجامعة مالايا؟",
+        "ko": "외국인 유학생도 말라야 대학교의 유서 깊은 교내 레지덴셜 칼리지(기숙사)에 거주할 수 있나요?",
+        "ja": "留学生もマラヤ大学の歴史ある学内レジデンシャル・カレッジ（学生寮）に入寮できますか？",
+        "zh": "国际留学生能否顺利申请入住马来亚大学校内的历史传统“住宿学院”（Residential Colleges）？",
+        "ru": "Могут ли иностранные студенты проживать в исторических университетских колледжах UM?",
+        "fr": "Les étudiants internationaux peuvent-ils être logés dans les collèges résidentiels historiques de l'UM ?",
+        "es": "¿Pueden los estudiantes internacionales alojarse en los colegios mayores históricos de UM?"
+      },
+      "a": {
+        "id": "Ya, UM memiliki 12 Residential Colleges di dalam kampus untuk mahasiswa baru dengan biaya sangat terjangkau (sekitar RM 450 - RM 800 per bulan) lengkap dengan kafetaria dan fasilitas olahraga.",
+        "en": "Yes, UM features 12 on-campus Residential Colleges accommodating international students at nominal rates (approx RM 450 - RM 800/month) with full dining and sports facilities.",
+        "ar": "نعم، تضم الجامعة 12 كلية سكنية داخل الحرم توفر إقامة بأسعار رمزية (حوالي 450 إلى 800 رينجيت شهرياً) مع مطاعم ومرافق رياضية متكاملة.",
+        "ko": "네, 교내에 12개의 전통 레지덴셜 칼리지가 마련되어 있어 유학생들에게 매우 저렴한 비용(월 약 RM 450~800)으로 기숙사를 지원합니다.",
+        "ja": "はい、キャンパス内に12の伝統あるカレッジ寮があり、月額RM 450〜800程度の手頃な費用で食堂やスポーツ施設も完備されています。",
+        "zh": "是的，马大校园内建有12所著名的住宿学院，为国际新生提供优先入宿保障，月租仅约450至800马币，配套餐厅、自习室及运动场地。",
+        "ru": "Да, в кампусе действует 12 жилых колледжей по доступным ценам (450–800 ринггитов в месяц) со столовыми и спортплощадками.",
+        "fr": "Oui, l'UM compte 12 collèges résidentiels sur le campus pour les étudiants (environ 450 à 800 RM par mois) avec cantines et terrains de sport.",
+        "es": "Sí, UM cuenta con 12 colegios mayores en el campus para estudiantes (unos 450 a 800 RM al mes) con comedores y canchas deportivas."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan saja jadwal intake resmi pendaftaran sarjana di Universiti Malaya?",
+        "en": "When are the official undergraduate intake cycles at Universiti Malaya?",
+        "ar": "ما هي مواعيد وفصول استقبال وتسجيل الطلاب في جامعة مالايا الحكومية؟",
+        "ko": "말라야 대학교의 정규 학부 신입생 모집 일정은 언제인가요?",
+        "ja": "マラヤ大学の学部課程における公式な入学時期はいつですか？",
+        "zh": "马来亚大学（UM）每年针对国际学生开放的正规本科入学批次在何时？",
+        "ru": "В какие сроки проходит официальный прием студентов на бакалавриат в UM?",
+        "fr": "Quand ont lieu les sessions d'admission officielles en licence à l'Université Malaya ?",
+        "es": "¿Cuáles son las convocatorias oficiales de admisión para grado en Universiti Malaya?"
+      },
+      "a": {
+        "id": "Intake utama untuk sarjana dibuka pada Semester 1 (bulan Oktober) setiap tahunnya. Beberapa jurusan juga membuka pendaftaran untuk Semester 2 (bulan Maret).",
+        "en": "The primary undergraduate intake is Semester 1 (October each year). Select faculties also admit for Semester 2 (March).",
+        "ar": "فترة القبول الرئيسية للبكالوريوس تبدأ في الفصل الدراسي الأول (أكتوبر من كل عام). كما تفتح بعض الكليات في الفصل الثاني (مارس).",
+        "ko": "주요 정규 학부 입학은 매년 10월(제1학기)에 진행되며, 일부 단과대학에 한해 3월(제2학기)에도 신입생을 모집합니다.",
+        "ja": "学部課程の主な公式入学期は毎年10月（第1学期）です。一部の学部では3月（第2学期）にも募集を行っています。",
+        "zh": "马大本科每年最核心的正规大批量录取季为秋季第一学期（每年10月开学）；部分指定专业在春季第二学期（每年3月）设有少量招生名额。",
+        "ru": "Основной набор на бакалавриат — Семестр 1 (октябрь). Некоторые факультеты также ведут прием на Семестр 2 (март).",
+        "fr": "L'admission principale a lieu au semestre 1 (octobre). Certaines facultés recrutent également au semestre 2 (mars).",
+        "es": "El periodo de admisión principal es el Semestre 1 (octubre). Determinadas facultades abren también en el Semestre 2 (marzo)."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Panduan Lengkap Masuk Universiti Malaya: Syarat, Seleksi & Biaya Mahasiswa Asing",
+        "en": "Comprehensive Guide to Universiti Malaya: Admissions, Selection & Fees",
+        "ar": "الدليل الكامل للقبول في جامعة مالايا: الشروط، مراحل المفاضلة والرسوم للطلاب الدوليين",
+        "ko": "말라야 대학교(UM) 완벽 입학 가이드: 선발 기준, 서류 심사 및 유학생 학비",
+        "ja": "マラヤ大学（UM）完全入学ガイド：出願要件、選考プロセス、留学生学費まとめ",
+        "zh": "马来亚大学（UM）全网权威申请通关指南：学术门槛、严苛筛选流程与留学生真实学杂费拆解",
+        "ru": "Полный гид по поступлению в Universiti Malaya: требования, отбор и стоимость",
+        "fr": "Guide complet pour intégrer l'Université Malaya : critères, sélection et frais",
+        "es": "Guía completa para ingresar a Universiti Malaya: requisitos, selección y tasas"
+      },
+      "summary": {
+        "id": "Strategi lolos seleksi universitas top 60 dunia, nilai minimum A-Level/IB, dan persiapan berkas resmi Kementerian.",
+        "en": "Proven strategies for cracking Top 60 admissions, high-school benchmark prerequisites, and Ministry portal guidelines.",
+        "ar": "استراتيجيات اجتياز معايير القبول لإحدى أفضل 60 جامعة عالمياً، والمعدلات المطلوبة وإجراءات بوابة الوزارة الرسمية.",
+        "ko": "세계 60위 명문대 합격 전략, 고교 성적/A-Level 기준 충족법 및 말레이시아 고등교육 포털 지원 요령.",
+        "ja": "世界トップ60校合格への戦略、高校成績基準、高等教育省公式ポータルでの申請手順を徹底解説。",
+        "zh": "揭秘攻克世界Top 60强名校申请的核心壁垒、预科成绩对标转换法、公立大学专属网申通道秘籍与加分要诀。",
+        "ru": "Стратегии успешного поступления в топ-60 вуз мира, минимальные баллы и оформление документов.",
+        "fr": "Stratégies pour réussir sa candidature dans un établissement du top 60 mondial, prérequis et démarches ministérielles.",
+        "es": "Estrategias para lograr la admisión en una universidad top 60 mundial, requisitos mínimos y trámites oficiales."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Kehidupan di Kampus 900 Hektar Universiti Malaya: Transportasi, Kuliner & Asrama",
+        "en": "Campus Living Across UM’s 900 Acres: Transit, Food & Residential Halls",
+        "ar": "الحياة في الحرم التاريخي بمساحة 900 فدان: شبكة المواصلات والمطاعم والكليات السكنية",
+        "ko": "900에이커 말라야대 캠퍼스 라이프: 무료 셔틀, 학생 식당 및 기숙사 칼리지 탐방",
+        "ja": "900エーカーのマラヤ大学キャンパスライフ：学内バス・学食・学生寮の全貌",
+        "zh": "玩转占地900英亩的马来亚大学百年学府：免费校内巴士环线、多国籍餐厅与住宿学院全解",
+        "ru": "Жизнь на 900 акрах кампуса UM: транспорт, питание и студенческие общежития",
+        "fr": "Vivre sur les 900 acres du campus de l'UM : navettes, gastronomie et résidences",
+        "es": "La vida en las 900 acres del campus de UM: transporte, gastronomía y residencias"
+      },
+      "summary": {
+        "id": "Semua informasi seputar stasiun LRT Universiti, bus kampus gratis shuttle UM, dan 12 Residential Colleges bersejarah.",
+        "en": "Practical navigation covering Universiti LRT station, free campus bus shuttles, and UM’s 12 historic Residential Colleges.",
+        "ar": "معلومات عملية تشمل محطة مترو Universiti LRT، وحافلات الحرم الجامعي المجانية، والكليات السكنية الاثنتي عشرة.",
+        "ko": "Universiti LRT역 연계, 무료 교내 순환 셔틀버스 노선, 12개 전통 기숙사 칼리지 생활 팁 총정리.",
+        "ja": "Universiti LRT駅へのアクセス、無料学内シャトルバス網、12の伝統あるカレッジ寮の生活情報。",
+        "zh": "实景解析直通Universiti轻轨站、免费高频校巴换乘路线图以及各大特色住宿学院（Kolej Kediaman）的日常作息与氛围。",
+        "ru": "Навигация по станции метро Universiti LRT, бесплатным шаттлам и 12 историческим жилым колледжам.",
+        "fr": "Guide pratique de la station Universiti LRT, des navettes gratuites et des 12 collèges résidentiels historiques.",
+        "es": "Información práctica sobre el metro Universiti LRT, autobuses gratuitos y los 12 colegios mayores históricos."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Fakultas Bisnis UM: Keunggulan Akreditasi Triple Crown AACSB, AMBA & EQUIS",
+        "en": "UM Faculty of Business: The Prestige of Triple Crown Accreditation",
+        "ar": "كلية الأعمال بجامعة مالايا: هيبة ومكانة اعتماد التاج الثلاثي العالمي",
+        "ko": "말라야대 경영대학의 위상: 전 세계 상위 1% 트리플 크라운 인가의 힘",
+        "ja": "マラヤ大学ビジネススクール：世界最高峰トリプルクラウン認定の権威",
+        "zh": "探秘全马顶尖马大商学院：三皇冠认证（AACSB/AMBA/EQUIS）背后的全球含金量",
+        "ru": "Бизнес-факультет UM: престиж тройной международной аккредитации Triple Crown",
+        "fr": "La faculté de gestion de l'UM : le prestige de l'accréditation Triple Couronne",
+        "es": "La Facultad de Negocios de UM: el prestigio de la Triple Corona de acreditaciones"
+      },
+      "summary": {
+        "id": "Mengapa lulusan bisnis UM menjadi incaran bank investasi, perusahaan multinasional, dan lembaga konsultasi tier-1.",
+        "en": "Why UM business graduates are prioritized by global investment banks, Fortune 500 MNCs, and top consultancy firms.",
+        "ar": "لماذا يحظى خريجو الأعمال في UM بأولوية التوظيف في بنوك الاستثمار العالمية وشركات الاستشارات الكبرى.",
+        "ko": "글로벌 투자은행, 포춘 500대 다국적 기업 및 글로벌 컨설팅 펌이 UM 출신을 최우선 선발하는 이유.",
+        "ja": "世界的投資銀行、フォーチュン500企業、トップコンサルティングファームがUM卒業生を採用する理由。",
+        "zh": "全面解构外资投行、波士顿咨询麦肯锡等顶级战略咨询公司与世界500强为何将马大商科列为独家优先录取名录。",
+        "ru": "Почему выпускники факультета востребованы в международных банках и консалтинговых агентствах.",
+        "fr": "Pourquoi les diplômés en gestion de l'UM sont courtisés par les banques d'investissement et les cabinets de conseil.",
+        "es": "Por qué los graduados de UM son prioritarios para la banca de inversión y consultoras internacionales."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Fakultas Bisnis & Ekonomi (Akreditasi Triple Crown)",
+        "en": "Faculty of Business & Economics (Triple Crown)",
+        "ar": "كلية الأعمال والاقتصاد (اعتماد التاج الثلاثي العالمي)",
+        "ko": "경영경제학부 (트리플 크라운 세계 최상위 1% 인증)",
+        "ja": "経営経済学部（世界最高峰トリプルクラウン認定）",
+        "zh": "商业与经济学院（全球三皇冠顶尖认证）",
+        "ru": "Факультет бизнеса и экономики (аккредитация Triple Crown)",
+        "fr": "Faculté de gestion et d'économie (accréditée Triple Couronne)",
+        "es": "Facultad de Negocios y Economía (Triple Corona)"
+      },
+      "degree": "Bachelor of Accounting / Business (Hons)",
+      "duration": "3 - 3.5 Years",
+      "feeUSD": "$14,500 - $18,000 Total",
+      "ielts": "6.5"
+    },
+    {
+      "faculty": {
+        "id": "Fakultas Ilmu Komputer & Teknologi Informasi",
+        "en": "Computer Science & Information Technology",
+        "ar": "كلية علوم الحاسوب وتكنولوجيا المعلومات",
+        "ko": "컴퓨터 과학 및 정보기술학부",
+        "ja": "コンピュータサイエンス＆情報技術学部",
+        "zh": "计算机科学与资讯科技学院（全马公立排头兵）",
+        "ru": "Факультет компьютерных наук и IT",
+        "fr": "Informatique et technologies de l'information",
+        "es": "Ciencias de la Computación y Tecnologías de la Información"
+      },
+      "degree": "Bachelor of Computer Science (Hons)",
+      "duration": "3.5 - 4 Years",
+      "feeUSD": "$17,000 - $21,000 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Fakultas Teknik & Ilmu Rekayasa (Tier-1 Washington Accord)",
+        "en": "Faculty of Engineering (Washington Accord Tier-1)",
+        "ar": "كلية الهندسة والعلوم التطبيقية (اتفاقية واشنطن المستوى الأول)",
+        "ko": "공과대학 (워싱턴 어코드 최상위 글로벌 인증)",
+        "ja": "工学部（ワシントン協定最高水準国際認定）",
+        "zh": "工程学院（土木/机械/电子/化学，华盛顿协议一级认证）",
+        "ru": "Инженерный факультет (Washington Accord)",
+        "fr": "Faculté d'ingénierie (Accord de Washington)",
+        "es": "Facultad de Ingeniería (Acuerdo de Washington)"
+      },
+      "degree": "Bachelor of Engineering (Hons)",
+      "duration": "4 Years",
+      "feeUSD": "$19,000 - $23,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Fakultas Seni & Ilmu Sosial (Humaniora & Komunikasi)",
+        "en": "Faculty of Arts & Social Sciences",
+        "ar": "كلية الآداب والعلوم الاجتماعية والاتصال الجماهيري",
+        "ko": "인문사회과학대학 (국제관계학, 미디어, 언어학)",
+        "ja": "文学部＆社会科学部（国際関係、メディア、言語学）",
+        "zh": "文学与社会科学学院（国际关系、新媒体传播、语言学）",
+        "ru": "Факультет искусств и социальных наук",
+        "fr": "Faculté des lettres et sciences sociales",
+        "es": "Facultad de Letras y Ciencias Sociales"
+      },
+      "degree": "Bachelor of Arts (Hons)",
+      "duration": "3 - 3.5 Years",
+      "feeUSD": "$12,500 - $15,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Fakultas Sains Murni (Bioteknologi, Fisika & Matematika)",
+        "en": "Faculty of Science (Biotech, Physics, Math)",
+        "ar": "كلية العلوم الأساسية (التقنية الحيوية، الفيزياء، الرياضيات)",
+        "ko": "자연과학대학 (생명공학, 물리학, 화학, 수학)",
+        "ja": "理学部（バイオテクノロジー、物理、化学、数学）",
+        "zh": "理学院（生物技术、物理、化学与精算应用数学）",
+        "ru": "Факультет естественных наук (биотех, физика, математика)",
+        "fr": "Faculté des sciences (biotechnologie, physique, maths)",
+        "es": "Facultad de Ciencias (Biotecnología, Física, Matemáticas)"
+      },
+      "degree": "Bachelor of Science (Hons)",
+      "duration": "3 - 3.5 Years",
+      "feeUSD": "$15,000 - $18,500 Total",
+      "ielts": "6.0"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=2tlXQHKGmJc",
+  "programs": [
+    {
+      "id": "um-bachelor-of-computer-science-computer-system-and-network",
+      "universityId": "um",
+      "name": "Bachelor of Computer Science (Computer System and Network)",
+      "nameAr": "بكالوريوس علوم الحاسب في Computer System and Network",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24567,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24567
+        },
+        {
+          "year": 2,
+          "fee": 24567
+        },
+        {
+          "year": 3,
+          "fee": 24567
+        }
+      ],
+      "totalTuitionFee": 73701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-computer-science-artificial-intelligence",
+      "universityId": "um",
+      "name": "Bachelor of Computer Science (Artificial Intelligence)",
+      "nameAr": "بكالوريوس علوم الحاسب في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24567,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24567
+        },
+        {
+          "year": 2,
+          "fee": 24567
+        },
+        {
+          "year": 3,
+          "fee": 24567
+        }
+      ],
+      "totalTuitionFee": 73701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-computer-science-information-systems",
+      "universityId": "um",
+      "name": "Bachelor of Computer Science (Information Systems)",
+      "nameAr": "بكالوريوس علوم الحاسب في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24567,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24567
+        },
+        {
+          "year": 2,
+          "fee": 24567
+        },
+        {
+          "year": 3,
+          "fee": 24567
+        }
+      ],
+      "totalTuitionFee": 73701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-computer-science-software-engineering",
+      "universityId": "um",
+      "name": "Bachelor of Computer Science (Software Engineering)",
+      "nameAr": "بكالوريوس علوم الحاسب في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24567,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24567
+        },
+        {
+          "year": 2,
+          "fee": 24567
+        },
+        {
+          "year": 3,
+          "fee": 24567
+        }
+      ],
+      "totalTuitionFee": 73701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-computer-science-multimedia-computing",
+      "universityId": "um",
+      "name": "Bachelor of Computer Science ( Multimedia Computing)",
+      "nameAr": "بكالوريوس علوم الحاسب في Multimedia Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24267,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24267
+        },
+        {
+          "year": 2,
+          "fee": 24267
+        },
+        {
+          "year": 3,
+          "fee": 24267
+        }
+      ],
+      "totalTuitionFee": 72801,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-real-estate",
+      "universityId": "um",
+      "name": "Bachelor of Real Estate",
+      "nameAr": "بكالوريوس في Bachelor of Real Estate",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 27300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27300
+        },
+        {
+          "year": 2,
+          "fee": 27300
+        },
+        {
+          "year": 3,
+          "fee": 27300
+        }
+      ],
+      "totalTuitionFee": 81900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-accounting-bacc",
+      "universityId": "um",
+      "name": "Bachelor of Accounting (BAcc)",
+      "nameAr": "بكالوريوس المحاسبة في BAcc",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 22700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22700
+        },
+        {
+          "year": 2,
+          "fee": 22700
+        },
+        {
+          "year": 3,
+          "fee": 22700
+        },
+        {
+          "year": 4,
+          "fee": 22700
+        }
+      ],
+      "totalTuitionFee": 90800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-business-administration-bba",
+      "universityId": "um",
+      "name": "Bachelor of Business Administration (BBA)",
+      "nameAr": "بكالوريوس إدارة الأعمال في BBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23800
+        },
+        {
+          "year": 2,
+          "fee": 23800
+        },
+        {
+          "year": 3,
+          "fee": 23800
+        }
+      ],
+      "totalTuitionFee": 71400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-economics-bec",
+      "universityId": "um",
+      "name": "Bachelor of Economics (BEc)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18267,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18267
+        },
+        {
+          "year": 2,
+          "fee": 18267
+        },
+        {
+          "year": 3,
+          "fee": 18267
+        }
+      ],
+      "totalTuitionFee": 54801,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-finance-bfin",
+      "universityId": "um",
+      "name": "Bachelor of Finance (BFin)",
+      "nameAr": "بكالوريوس المالية في BFin",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27700
+        },
+        {
+          "year": 2,
+          "fee": 27700
+        },
+        {
+          "year": 3,
+          "fee": 27700
+        }
+      ],
+      "totalTuitionFee": 83100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-building-surveying",
+      "universityId": "um",
+      "name": "Bachelor of Building Surveying",
+      "nameAr": "بكالوريوس في Bachelor of Building Surveying",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 20800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20800
+        },
+        {
+          "year": 2,
+          "fee": 20800
+        },
+        {
+          "year": 3,
+          "fee": 20800
+        }
+      ],
+      "totalTuitionFee": 62400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-quantity-surveying",
+      "universityId": "um",
+      "name": "Bachelor of Quantity Surveying",
+      "nameAr": "بكالوريوس في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 20550,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20550
+        },
+        {
+          "year": 2,
+          "fee": 20550
+        },
+        {
+          "year": 3,
+          "fee": 20550
+        }
+      ],
+      "totalTuitionFee": 61650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-urban-regional-planning",
+      "universityId": "um",
+      "name": "Bachelor of Urban & Regional Planning",
+      "nameAr": "بكالوريوس في Bachelor of Urban & Regional Planning",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21775,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21775
+        },
+        {
+          "year": 2,
+          "fee": 21775
+        },
+        {
+          "year": 3,
+          "fee": 21775
+        },
+        {
+          "year": 4,
+          "fee": 21775
+        }
+      ],
+      "totalTuitionFee": 87100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-civil-engineering",
+      "universityId": "um",
+      "name": "Bachelor of Civil Engineering",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24575,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24575
+        },
+        {
+          "year": 2,
+          "fee": 24575
+        },
+        {
+          "year": 3,
+          "fee": 24575
+        },
+        {
+          "year": 4,
+          "fee": 24575
+        }
+      ],
+      "totalTuitionFee": 98300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-biomedical-engineering",
+      "universityId": "um",
+      "name": "Bachelor of Biomedical Engineering",
+      "nameAr": "بكالوريوس في Bachelor of Biomedical Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 25325,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25325
+        },
+        {
+          "year": 2,
+          "fee": 25325
+        },
+        {
+          "year": 3,
+          "fee": 25325
+        },
+        {
+          "year": 4,
+          "fee": 25325
+        }
+      ],
+      "totalTuitionFee": 101300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-electrical-engineering",
+      "universityId": "um",
+      "name": "Bachelor of Electrical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-mechanical-engineering",
+      "universityId": "um",
+      "name": "Bachelor of Mechanical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24575,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24575
+        },
+        {
+          "year": 2,
+          "fee": 24575
+        },
+        {
+          "year": 3,
+          "fee": 24575
+        },
+        {
+          "year": 4,
+          "fee": 24575
+        }
+      ],
+      "totalTuitionFee": 98300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-chemical-engineering",
+      "universityId": "um",
+      "name": "Bachelor of Chemical Engineering",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24575,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24575
+        },
+        {
+          "year": 2,
+          "fee": 24575
+        },
+        {
+          "year": 3,
+          "fee": 24575
+        },
+        {
+          "year": 4,
+          "fee": 24575
+        }
+      ],
+      "totalTuitionFee": 98300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-medicine-and-bachelor-of-surgery",
+      "universityId": "um",
+      "name": "Bachelor of Medicine and Bachelor of Surgery",
+      "nameAr": "بكالوريوس الطب البشري والجراحة (MBBS)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 134640,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 134640
+        },
+        {
+          "year": 2,
+          "fee": 134640
+        },
+        {
+          "year": 3,
+          "fee": 134640
+        },
+        {
+          "year": 4,
+          "fee": 134640
+        },
+        {
+          "year": 5,
+          "fee": 134640
+        }
+      ],
+      "totalTuitionFee": 673200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-pharmacy-hons",
+      "universityId": "um",
+      "name": "Bachelor of Pharmacy (Hons.)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 60000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60000
+        },
+        {
+          "year": 2,
+          "fee": 60000
+        },
+        {
+          "year": 3,
+          "fee": 60000
+        },
+        {
+          "year": 4,
+          "fee": 60000
+        }
+      ],
+      "totalTuitionFee": 240000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-nursing-science",
+      "universityId": "um",
+      "name": "Bachelor of Nursing Science",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 33250,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33250
+        },
+        {
+          "year": 2,
+          "fee": 33250
+        },
+        {
+          "year": 3,
+          "fee": 33250
+        },
+        {
+          "year": 4,
+          "fee": 33250
+        }
+      ],
+      "totalTuitionFee": 133000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-biomedical-science",
+      "universityId": "um",
+      "name": "Bachelor of Biomedical Science",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 32150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32150
+        },
+        {
+          "year": 2,
+          "fee": 32150
+        },
+        {
+          "year": 3,
+          "fee": 32150
+        },
+        {
+          "year": 4,
+          "fee": 32150
+        }
+      ],
+      "totalTuitionFee": 128600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-in-environmental-management",
+      "universityId": "um",
+      "name": "Bachelor of Science in Environmental Management",
+      "nameAr": "بكالوريوس العلوم في Environmental Management",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13725,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13725
+        },
+        {
+          "year": 2,
+          "fee": 13725
+        },
+        {
+          "year": 3,
+          "fee": 13725
+        },
+        {
+          "year": 4,
+          "fee": 13725
+        }
+      ],
+      "totalTuitionFee": 54900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-chemistry",
+      "universityId": "um",
+      "name": "Bachelor of Science Chemistry",
+      "nameAr": "بكالوريوس العلوم في Chemistry",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15250,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15250
+        },
+        {
+          "year": 2,
+          "fee": 15250
+        },
+        {
+          "year": 3,
+          "fee": 15250
+        },
+        {
+          "year": 4,
+          "fee": 15250
+        }
+      ],
+      "totalTuitionFee": 61000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-ecology-biodiversity",
+      "universityId": "um",
+      "name": "Bachelor of Science Ecology & Biodiversity",
+      "nameAr": "بكالوريوس العلوم في Ecology & Biodiversity",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13650
+        },
+        {
+          "year": 2,
+          "fee": 13650
+        },
+        {
+          "year": 3,
+          "fee": 13650
+        },
+        {
+          "year": 4,
+          "fee": 13650
+        }
+      ],
+      "totalTuitionFee": 54600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-physics",
+      "universityId": "um",
+      "name": "Bachelor of Science Physics",
+      "nameAr": "بكالوريوس العلوم في Physics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13300
+        },
+        {
+          "year": 2,
+          "fee": 13300
+        },
+        {
+          "year": 3,
+          "fee": 13300
+        },
+        {
+          "year": 4,
+          "fee": 13300
+        }
+      ],
+      "totalTuitionFee": 53200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-applied-geology",
+      "universityId": "um",
+      "name": "Bachelor of Science Applied Geology",
+      "nameAr": "بكالوريوس العلوم في Applied Geology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14975,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14975
+        },
+        {
+          "year": 2,
+          "fee": 14975
+        },
+        {
+          "year": 3,
+          "fee": 14975
+        },
+        {
+          "year": 4,
+          "fee": 14975
+        }
+      ],
+      "totalTuitionFee": 59900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-biochemistry",
+      "universityId": "um",
+      "name": "Bachelor of Science Biochemistry",
+      "nameAr": "بكالوريوس العلوم في Biochemistry",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13575,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13575
+        },
+        {
+          "year": 2,
+          "fee": 13575
+        },
+        {
+          "year": 3,
+          "fee": 13575
+        },
+        {
+          "year": 4,
+          "fee": 13575
+        }
+      ],
+      "totalTuitionFee": 54300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-mathematics",
+      "universityId": "um",
+      "name": "Bachelor of Science Mathematics",
+      "nameAr": "بكالوريوس العلوم في Mathematics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15650,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15650
+        },
+        {
+          "year": 2,
+          "fee": 15650
+        },
+        {
+          "year": 3,
+          "fee": 15650
+        },
+        {
+          "year": 4,
+          "fee": 15650
+        }
+      ],
+      "totalTuitionFee": 62600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-biotechnology",
+      "universityId": "um",
+      "name": "Bachelor of Science Biotechnology",
+      "nameAr": "بكالوريوس العلوم في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13225,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13225
+        },
+        {
+          "year": 2,
+          "fee": 13225
+        },
+        {
+          "year": 3,
+          "fee": 13225
+        },
+        {
+          "year": 4,
+          "fee": 13225
+        }
+      ],
+      "totalTuitionFee": 52900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-actuarial",
+      "universityId": "um",
+      "name": "Bachelor of Science Actuarial",
+      "nameAr": "بكالوريوس العلوم في Actuarial",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15100
+        },
+        {
+          "year": 2,
+          "fee": 15100
+        },
+        {
+          "year": 3,
+          "fee": 15100
+        },
+        {
+          "year": 4,
+          "fee": 15100
+        }
+      ],
+      "totalTuitionFee": 60400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-microbiology-molecular-genetics",
+      "universityId": "um",
+      "name": "Bachelor of Science Microbiology & Molecular Genetics",
+      "nameAr": "بكالوريوس العلوم في Microbiology & Molecular Genetics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13075,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13075
+        },
+        {
+          "year": 2,
+          "fee": 13075
+        },
+        {
+          "year": 3,
+          "fee": 13075
+        },
+        {
+          "year": 4,
+          "fee": 13075
+        }
+      ],
+      "totalTuitionFee": 52300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-science-statistics",
+      "universityId": "um",
+      "name": "Bachelor of Science Statistics",
+      "nameAr": "بكالوريوس العلوم في Statistics",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 13800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13800
+        },
+        {
+          "year": 2,
+          "fee": 13800
+        },
+        {
+          "year": 3,
+          "fee": 13800
+        },
+        {
+          "year": 4,
+          "fee": 13800
+        }
+      ],
+      "totalTuitionFee": 55200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-arts-history",
+      "universityId": "um",
+      "name": "Bachelor of Arts History",
+      "nameAr": "بكالوريوس الآداب في History",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 16100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16100
+        },
+        {
+          "year": 2,
+          "fee": 16100
+        },
+        {
+          "year": 3,
+          "fee": 16100
+        }
+      ],
+      "totalTuitionFee": 48300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-spanish-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of Spanish Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of Spanish Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 18667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18667
+        },
+        {
+          "year": 2,
+          "fee": 18667
+        },
+        {
+          "year": 3,
+          "fee": 18667
+        }
+      ],
+      "totalTuitionFee": 56001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-tamil-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of Tamil Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of Tamil Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18667
+        },
+        {
+          "year": 2,
+          "fee": 18667
+        },
+        {
+          "year": 3,
+          "fee": 18667
+        }
+      ],
+      "totalTuitionFee": 56001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-english-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of English Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of English Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18933,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18933
+        },
+        {
+          "year": 2,
+          "fee": 18933
+        },
+        {
+          "year": 3,
+          "fee": 18933
+        }
+      ],
+      "totalTuitionFee": 56799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-geography",
+      "universityId": "um",
+      "name": "Bachelor of Geography",
+      "nameAr": "بكالوريوس في Bachelor of Geography",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18700
+        },
+        {
+          "year": 2,
+          "fee": 18700
+        },
+        {
+          "year": 3,
+          "fee": 18700
+        }
+      ],
+      "totalTuitionFee": 56100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-programme-of-arts-english",
+      "universityId": "um",
+      "name": "Bachelor Programme of Arts English",
+      "nameAr": "بكالوريوس في Bachelor Programme of Arts English",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18967,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18967
+        },
+        {
+          "year": 2,
+          "fee": 18967
+        },
+        {
+          "year": 3,
+          "fee": 18967
+        }
+      ],
+      "totalTuitionFee": 56901,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-environmental-studies",
+      "universityId": "um",
+      "name": "Bachelor of Environmental Studies",
+      "nameAr": "بكالوريوس في Bachelor of Environmental Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25300
+        },
+        {
+          "year": 2,
+          "fee": 25300
+        },
+        {
+          "year": 3,
+          "fee": 25300
+        }
+      ],
+      "totalTuitionFee": 75900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-programme-of-arts-international-and-strategic-studies",
+      "universityId": "um",
+      "name": "Bachelor Programme of Arts International and Strategic Studies",
+      "nameAr": "بكالوريوس في Bachelor Programme of Arts International and Strategic Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-programme-of-arts-southeast-asian-studies",
+      "universityId": "um",
+      "name": "Bachelor Programme of Arts Southeast Asian Studies",
+      "nameAr": "بكالوريوس في Bachelor Programme of Arts Southeast Asian Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15633,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15633
+        },
+        {
+          "year": 2,
+          "fee": 15633
+        },
+        {
+          "year": 3,
+          "fee": 15633
+        }
+      ],
+      "totalTuitionFee": 46899,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-arts-anthropology-and-sociology",
+      "universityId": "um",
+      "name": "Bachelor of Arts Anthropology and Sociology",
+      "nameAr": "بكالوريوس الآداب في Anthropology and Sociology",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15167,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15167
+        },
+        {
+          "year": 2,
+          "fee": 15167
+        },
+        {
+          "year": 3,
+          "fee": 15167
+        }
+      ],
+      "totalTuitionFee": 45501,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-programme-of-east-asian-studies",
+      "universityId": "um",
+      "name": "Bachelor Programme of East Asian Studies",
+      "nameAr": "بكالوريوس في Bachelor Programme of East Asian Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        },
+        {
+          "year": 3,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-programme-of-arts-indian-studies",
+      "universityId": "um",
+      "name": "Bachelor Programme of Arts Indian Studies",
+      "nameAr": "بكالوريوس في Bachelor Programme of Arts Indian Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18400
+        },
+        {
+          "year": 2,
+          "fee": 18400
+        },
+        {
+          "year": 3,
+          "fee": 18400
+        }
+      ],
+      "totalTuitionFee": 55200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-media-studies",
+      "universityId": "um",
+      "name": "Bachelor of Media Studies",
+      "nameAr": "بكالوريوس في Bachelor of Media Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18967,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18967
+        },
+        {
+          "year": 2,
+          "fee": 18967
+        },
+        {
+          "year": 3,
+          "fee": 18967
+        }
+      ],
+      "totalTuitionFee": 56901,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-programme-of-arts-chinese-studies",
+      "universityId": "um",
+      "name": "Bachelor Programme of Arts Chinese Studies",
+      "nameAr": "بكالوريوس في Bachelor Programme of Arts Chinese Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18900
+        },
+        {
+          "year": 2,
+          "fee": 18900
+        },
+        {
+          "year": 3,
+          "fee": 18900
+        }
+      ],
+      "totalTuitionFee": 56700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-social-administration",
+      "universityId": "um",
+      "name": "Bachelor of Social Administration",
+      "nameAr": "بكالوريوس في Bachelor of Social Administration",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 15100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15100
+        },
+        {
+          "year": 2,
+          "fee": 15100
+        },
+        {
+          "year": 3,
+          "fee": 15100
+        }
+      ],
+      "totalTuitionFee": 45300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-arabic-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of Arabic Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of Arabic Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18767,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18767
+        },
+        {
+          "year": 2,
+          "fee": 18767
+        },
+        {
+          "year": 3,
+          "fee": 18767
+        }
+      ],
+      "totalTuitionFee": 56301,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-japanese-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of Japanese Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of Japanese Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18667
+        },
+        {
+          "year": 2,
+          "fee": 18667
+        },
+        {
+          "year": 3,
+          "fee": 18667
+        }
+      ],
+      "totalTuitionFee": 56001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-chinese-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of Chinese Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of Chinese Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18667
+        },
+        {
+          "year": 2,
+          "fee": 18667
+        },
+        {
+          "year": 3,
+          "fee": 18667
+        }
+      ],
+      "totalTuitionFee": 56001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-french-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of French Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of French Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18667
+        },
+        {
+          "year": 2,
+          "fee": 18667
+        },
+        {
+          "year": 3,
+          "fee": 18667
+        }
+      ],
+      "totalTuitionFee": 56001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-german-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of German Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of German Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18667
+        },
+        {
+          "year": 2,
+          "fee": 18667
+        },
+        {
+          "year": 3,
+          "fee": 18667
+        }
+      ],
+      "totalTuitionFee": 56001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-italian-language-and-linguistics",
+      "universityId": "um",
+      "name": "Bachelor of Italian Language and Linguistics",
+      "nameAr": "بكالوريوس في Bachelor of Italian Language and Linguistics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18667
+        },
+        {
+          "year": 2,
+          "fee": 18667
+        },
+        {
+          "year": 3,
+          "fee": 18667
+        }
+      ],
+      "totalTuitionFee": 56001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-counselling",
+      "universityId": "um",
+      "name": "Bachelor of Counselling",
+      "nameAr": "بكالوريوس في Bachelor of Counselling",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        },
+        {
+          "year": 3,
+          "fee": 16500
+        },
+        {
+          "year": 4,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 66000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-education-teaching-english-as-a-second-language",
+      "universityId": "um",
+      "name": "Bachelor of Education Teaching English as a Second Language",
+      "nameAr": "بكالوريوس في Bachelor of Education Teaching English as a Second Language",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16850,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16850
+        },
+        {
+          "year": 2,
+          "fee": 16850
+        },
+        {
+          "year": 3,
+          "fee": 16850
+        },
+        {
+          "year": 4,
+          "fee": 16850
+        }
+      ],
+      "totalTuitionFee": 67400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-early-childhood-education",
+      "universityId": "um",
+      "name": "Bachelor of Early Childhood Education",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16075,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16075
+        },
+        {
+          "year": 2,
+          "fee": 16075
+        },
+        {
+          "year": 3,
+          "fee": 16075
+        },
+        {
+          "year": 4,
+          "fee": 16075
+        }
+      ],
+      "totalTuitionFee": 64300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-music",
+      "universityId": "um",
+      "name": "Bachelor of Music",
+      "nameAr": "بكالوريوس في Bachelor of Music",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20833,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20833
+        },
+        {
+          "year": 2,
+          "fee": 20833
+        },
+        {
+          "year": 3,
+          "fee": 20833
+        }
+      ],
+      "totalTuitionFee": 62499,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-drama",
+      "universityId": "um",
+      "name": "Bachelor Of Drama",
+      "nameAr": "بكالوريوس في Bachelor Of Drama",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20833,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20700
+        },
+        {
+          "year": 2,
+          "fee": 20700
+        },
+        {
+          "year": 3,
+          "fee": 20700
+        }
+      ],
+      "totalTuitionFee": 62100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-dance",
+      "universityId": "um",
+      "name": "Bachelor Of Dance",
+      "nameAr": "بكالوريوس في Bachelor Of Dance",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20833,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20833
+        },
+        {
+          "year": 2,
+          "fee": 20833
+        },
+        {
+          "year": 3,
+          "fee": 20833
+        }
+      ],
+      "totalTuitionFee": 62499,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-drama-1",
+      "universityId": "um",
+      "name": "Bachelor Of Drama",
+      "nameAr": "بكالوريوس في Bachelor Of Drama",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20833,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20833
+        },
+        {
+          "year": 2,
+          "fee": 20833
+        },
+        {
+          "year": 3,
+          "fee": 20833
+        }
+      ],
+      "totalTuitionFee": 62499,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-shariah",
+      "universityId": "um",
+      "name": "Bachelor of Shariah",
+      "nameAr": "بكالوريوس في Bachelor of Shariah",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19567,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19567
+        },
+        {
+          "year": 2,
+          "fee": 19567
+        },
+        {
+          "year": 3,
+          "fee": 19567
+        },
+        {
+          "year": 4,
+          "fee": 19567
+        }
+      ],
+      "totalTuitionFee": 78268,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-muamalat-management",
+      "universityId": "um",
+      "name": "Bachelor of Muamalat Management",
+      "nameAr": "بكالوريوس في Bachelor of Muamalat Management",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15125
+        },
+        {
+          "year": 2,
+          "fee": 15125
+        },
+        {
+          "year": 3,
+          "fee": 15125
+        },
+        {
+          "year": 4,
+          "fee": 15125
+        }
+      ],
+      "totalTuitionFee": 60500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-usuluddin",
+      "universityId": "um",
+      "name": "Bachelor-of-Usuluddin",
+      "nameAr": "بكالوريوس في Bachelor-of-Usuluddin",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19567,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19567
+        },
+        {
+          "year": 2,
+          "fee": 19567
+        },
+        {
+          "year": 3,
+          "fee": 19567
+        }
+      ],
+      "totalTuitionFee": 58701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-al-quran-and-al-hadith",
+      "universityId": "um",
+      "name": "Bachelor of Al-Quran and Al-Hadith",
+      "nameAr": "بكالوريوس في Bachelor of Al-Quran and Al-Hadith",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19567,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19567
+        },
+        {
+          "year": 2,
+          "fee": 19567
+        },
+        {
+          "year": 3,
+          "fee": 19567
+        }
+      ],
+      "totalTuitionFee": 58701,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-shariah-and-law",
+      "universityId": "um",
+      "name": "Bachelor of Shariah and Law",
+      "nameAr": "بكالوريوس في القانون والحقوق",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20625,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20625
+        },
+        {
+          "year": 2,
+          "fee": 20625
+        },
+        {
+          "year": 3,
+          "fee": 20625
+        }
+      ],
+      "totalTuitionFee": 61875,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-sports-management",
+      "universityId": "um",
+      "name": "Bachelor of Sports Management",
+      "nameAr": "بكالوريوس في Bachelor of Sports Management",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22000
+        },
+        {
+          "year": 2,
+          "fee": 22000
+        },
+        {
+          "year": 3,
+          "fee": 22000
+        }
+      ],
+      "totalTuitionFee": 66000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "um-bachelor-of-exercise-science",
+      "universityId": "um",
+      "name": "Bachelor of Exercise Science",
+      "nameAr": "بكالوريوس في Bachelor of Exercise Science",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22233,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22233
+        },
+        {
+          "year": 2,
+          "fee": 22233
+        },
+        {
+          "year": 3,
+          "fee": 22233
+        }
+      ],
+      "totalTuitionFee": 66699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 68,
+  "totalProgramsCount": 68
+}

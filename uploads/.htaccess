@@ -1,0 +1,13 @@
+# ==============================================================================
+# Security: Block ALL Direct HTTP Access to Uploaded Student Documents
+# All documents must only be accessed through the secure api/download.php gateway
+# ==============================================================================
+Options -Indexes -ExecCGI
+
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order Deny,Allow
+    Deny from all
+</IfModule>

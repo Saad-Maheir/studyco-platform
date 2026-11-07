@@ -1,0 +1,641 @@
+{
+  "id": "numed",
+  "name": "Newcastle University Medicine Malaysia (NUMed)",
+  "arabicName": "جامعة نيوكاسل البريطانية للطب في ماليزيا (NUMed)",
+  "city": "Iskandar Puteri, Johor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-numed.svg",
+  "image": "assets/photo/campus_numed.webp",
+  "website": "https://www.ncl.ac.uk/numed/",
+  "ranking": "Rank 129 QS World University Rankings 2025 (UK GMC Accredited Medicine)",
+  "established": "2009",
+  "campusName": "NUMed EduCity Medical Campus, Johor",
+  "studentCount": "1,200+ (25+ Countries)",
+  "intakes": "Sep",
+  "feeRangeMin": 33787,
+  "feeRangeMax": 126500,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/Pe4npz6u5QA",
+  "description": "Newcastle University Medicine Malaysia (NUMed) is one of the leading recognized higher education institutions located in Iskandar Puteri, Johor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة نيوكاسل البريطانية للطب في ماليزيا (NUMed) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Iskandar Puteri, Johor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Newcastle University Medicine Malaysia (NUMed) didirikan pada tahun 2009 di EduCity, Iskandar Puteri, Johor, sebagai kampus cabang internasional resmi dari Newcastle University UK (Rank 129 QS World). Menyediakan gelar Kedokteran (MBBS) dan Sains Biomedis Inggris asli.",
+    "en": "Newcastle University Medicine Malaysia (NUMed), established in 2009 in EduCity, Johor, is the exclusive international branch campus of Newcastle University UK (Rank 129 QS World), awarding identical prestigious UK Doctor of Medicine (MBBS) degrees.",
+    "ar": "تأسست جامعة نيوكاسل للطب في ماليزيا (NUMed) عام 2009 في إيدوسيتي بجوهور، وهي الحرم الدولي الحصري لجامعة نيوكاسل البريطانية العريقة (المرتبة 129 عالمياً)، وتمنح درجة بكالوريوس الطب والجراحة (MBBS) البريطانية الأصلية المعتمدة.",
+    "zh": "英国纽卡斯尔大学马来西亚医学院（NUMed）创立于2009年，坐落于柔佛依斯干达教育城（EduCity），是英国纽卡斯尔大学（QS全球129位）设立的直属医学院校区，授予100%纯正英国内外全科医学士（MBBS）学位。",
+    "ru": "NUMed в Джохоре — официальный филиал британского Newcastle University (Rank 129 QS), присуждающий подлинный британский диплом врача (MBBS).",
+    "fr": "NUMed est le campus de médecine exclusif de la prestigieuse Newcastle University britannique (129e mondial), délivrant le diplôme médical britannique d'origine (MBBS).",
+    "es": "NUMed es la sede médica internacional de Newcastle University del Reino Unido (129.º mundial), otorgando el título oficial de médico británico (MBBS).",
+    "ja": "ニューカッスル大学医学部マレーシア校（NUMed）は英国名門ニューカッスル大学（QS世界第129位）の直営校であり、同一の英国医学士（MBBS）学位を授与。",
+    "ko": "뉴캐슬 대학교 말레이시아 의과대학(NUMed)은 영국 명문 뉴캐슬 대학교(QS 세계 129위)의 공식 의과대학 분교로 영국 본토와 동일한 영국 의학사(MBBS) 학위를 수여합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Keterampilan Klinis & Simulasi Medis Rumah Sakit Standar Inggris",
+        "en": "UK-Standard Clinical Skills & Medical Simulation Centre",
+        "ar": "مركز المهارات السريرية والمحاكاة الطبية المطابق للمعايir البريطانية",
+        "ko": "영국 본교 표준 첨단 임상 술기 및 의학 시뮬레이션 종합 센터",
+        "ja": "英国本校基準の先端臨床スキル＆医療シミュレーション総合センター",
+        "zh": "对标英国GMC标准的先进高仿真临床技能模拟教学实训中心",
+        "ru": "Центр клинических навыков и медицинской симуляции по стандартам Великобритании",
+        "fr": "Centre de compétences cliniques et de simulation médicale aux normes britanniques",
+        "es": "Centro de habilidades clínicas y simulación médica de estándar británico"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Laboratorium Anatomi Manusia & Ilmu Biomedis Komparatif Canggih",
+        "en": "Human Anatomy & Advanced Biomedical Science Dissection Suites",
+        "ar": "أجنحة التشريح البشري ومختبرات العلوم الطبية الحيوية المتقدمة",
+        "ko": "인체 해부학 및 첨단 의생명과학 정밀 연구 실험실",
+        "ja": "人体解剖学＆先端バイオメディカルサイエンス専門実習室",
+        "zh": "人体解剖学形态教学大厅与高级生物医药微观科研实验室",
+        "ru": "Лаборатории анатомии человека и передовых биомедицинских наук",
+        "fr": "Laboratoires d'anatomie humaine et de sciences biomédicales avancées",
+        "es": "Laboratorios de anatomía humana y ciencias biomédicas avanzadas"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Perpustakaan Medis Terkoneksi ke Newcastle University Library UK",
+        "en": "Medical Library Linked Directly to Newcastle University UK",
+        "ar": "المكتبة الطبية المتصلة مباشرة بالشبكة الرقمية لجامعة نيوكاسل البريطانية",
+        "ko": "영국 뉴캐슬 대학교 본교 의학 도서관과 실시간 직결된 학술 정보관",
+        "ja": "英国ニューカッスル大学本校の医学図書館と直結した学術情報センター",
+        "zh": "实时无缝共享英国纽卡斯尔大学医学图书馆海量数据库的学术中心",
+        "ru": "Медицинская библиотека с прямым доступом к ресурсам Newcastle University UK",
+        "fr": "Bibliothèque médicale reliée directement à l'Université de Newcastle au Royaume-Uni",
+        "es": "Biblioteca médica vinculada directamente a la Universidad de Newcastle en el Reino Unido"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kompleks Olahraga Olimpiade EduCity & Stadion Olahraga Internasional",
+        "en": "EduCity Olympic-Grade Sports Complex & International Stadium",
+        "ar": "مجمع إديوسيتي الرياضي الأولمبي والاستاد الرياضي الدولي المتكامل",
+        "ko": "에듀시티(EduCity) 올림픽 규격 종합 스포츠 컴플렉스 및 국제 스타디움",
+        "ja": "エデュシティ（EduCity）オリンピック規格総合スポーツ複合施設＆競技場",
+        "zh": "EduCity教育城配套奥运标准室内综合体育馆与大型国际田径体育场",
+        "ru": "Спортивный комплекс олимпийского уровня EduCity и международный стадион",
+        "fr": "Complexe sportif olympique EduCity et stade international",
+        "es": "Complejo deportivo de nivel olímpico EduCity y estadio internacional"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇬🇧",
+      "title": {
+        "id": "Kampus Cabang Resmi Penuh Newcastle University UK (Russell Group)",
+        "en": "Full Branch Campus of Newcastle University UK (Russell Group Elite)",
+        "ar": "الفرع الرسمي الكامل لجامعة نيوكاسل البريطانية (عضو مجموعة راسل المرموقة)",
+        "ko": "영국 최고 명문 러셀 그룹(Russell Group) 뉴캐슬 대학교 공식 직영 의대",
+        "ja": "英国名門ラッセルグループ（Russell Group）ニューカッスル大学公式直営医科大学",
+        "zh": "英国顶尖“罗素大学集团”（Russell Group）名校纽卡斯尔大学官方直属全资医科大学",
+        "ru": "Полноценный филиал Университета Ньюкасла (элитная группа Russell Group, Великобритания)",
+        "fr": "Campus officiel de l'Université de Newcastle, Royaume-Uni (Groupe Russell)",
+        "es": "Campus oficial completo de la Universidad de Newcastle del Reino Unido (Russell Group)"
+      },
+      "desc": {
+        "id": "Gelar MBBS dan Biomedical Sciences yang diterbitkan 100% identik dengan kampus Newcastle di Inggris.",
+        "en": "Awarding degrees that are 100% equivalent to those conferred at Newcastle University in the UK.",
+        "ar": "تمنح نفس درجات الطب البشري MBBS والعلوم الطبية الحيوية الصادرة في بريطانيا بدون أي اختلاف.",
+        "ko": "영국 본교에서 수여하는 학위와 100% 동일한 법적 효력 및 국제적 권위를 지닌 정규 학위 수여.",
+        "ja": "英国ニューカッスル本校で授与される学位と100％同等かつ同一の国際的通用性を持つ正規学位。",
+        "zh": "毕业生所获内外全科医学士（MBBS）及生物医学学位，在法律及学术地位上与英国本土毕业生100%完全相同。",
+        "ru": "Выдает дипломы, на 100% эквивалентные тем, что присваиваются в Ньюкасле (Великобритания).",
+        "fr": "Délivre des diplômes 100 % équivalents à ceux conférés au Royaume-Uni.",
+        "es": "Otorga titulaciones 100% equivalentes a las conferidas en la sede del Reino Unido."
+      }
+    },
+    {
+      "icon": "🩺",
+      "title": {
+        "id": "Akreditasi Penuh General Medical Council (GMC) Inggris & MMC Malaysia",
+        "en": "Full Accreditation by the UK General Medical Council (GMC) & MMC",
+        "ar": "اعتماد رسمي كامل من المجلس الطبي العام البريطاني (GMC) والمجلس الطبي الماليزي",
+        "ko": "영국 의학총회(GMC) 및 말레이시아 의학위원회(MMC)의 공식 완전 인증",
+        "ja": "英国一般医療評議会（GMC）およびマレーシア医学評議会（MMC）による完全認可",
+        "zh": "获英国总医务委员会（GMC）及马来西亚医学理事会（MMC）双重最高法定权威认证",
+        "ru": "Полная аккредитация Генеральным медицинским советом Великобритании (GMC) и MMC",
+        "fr": "Pleine accréditation par le General Medical Council (GMC) du Royaume-Uni et le MMC",
+        "es": "Plena acreditación por el General Medical Council (GMC) del Reino Unido y el MMC"
+      },
+      "desc": {
+        "id": "Lulusan berhak langsung mendaftar untuk praktek medis UK Foundation Programme (UKFP) di Inggris.",
+        "en": "Graduates qualify directly to enter the UK Foundation Programme (UKFP) and practice across the UK NHS.",
+        "ar": "يحق للخريجين التقديم المباشر لبرنامج أطباء الامتياز البريطاني (UKFP) والممارسة في منظومة NHS ببريطانيا.",
+        "ko": "졸업생은 영국 인턴십 과정인 UK Foundation Programme(UKFP)에 직접 지원하여 영국 NHS 병원에서 수련 가능.",
+        "ja": "卒業生は英国初期臨床研修プログラム（UKFP）へ直接応募し、英国NHSで医師として勤務する資格を取得。",
+        "zh": "毕业生拥有直申英国国家医疗服务体系（NHS）初级医师培训计划（UKFP）并直接在英国行医执业的珍贵法定资质。",
+        "ru": "Выпускники могут напрямую поступать в британскую программу UK Foundation Programme (UKFP).",
+        "fr": "Les diplômés sont directement éligibles au UK Foundation Programme (UKFP) et au NHS britannique.",
+        "es": "Los graduados pueden optar directamente al UK Foundation Programme (UKFP) y ejercer en el NHS."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Hemat Lebih dari 50% Dibandingkan Kuliah Kedokteran di Inggris",
+        "en": "Over 50% Savings Compared to Studying Medicine in the UK",
+        "ar": "توفير أكثر من 50% من التكاليف مقارنة بدراسة نفس برنامج الطب في بريطانيا",
+        "ko": "영국 본토에서 의대를 다니는 것 대비 50% 이상의 파격적인 유학 비용 절감",
+        "ja": "イギリス本土で医学部へ留学する場合に比べ、50％以上の総費用を削減可能",
+        "zh": "相比在英国本土修读完全相同的医学课程，家庭综合学费生活开销节约超50%以上",
+        "ru": "Экономия более 50% по сравнению с обучением на медицинском факультете в Великобритании",
+        "fr": "Plus de 50 % d'économies par rapport aux études de médecine au Royaume-Uni",
+        "es": "Más de un 50% de ahorro en comparación con estudiar medicina en el Reino Unido"
+      },
+      "desc": {
+        "id": "Mendapatkan kurikulum, dosen, dan standar ujian medis Cambridge/Newcastle tanpa beban biaya hidup mahal di Inggris.",
+        "en": "Receive identical British medical training and examinations without the exorbitant living costs of the UK.",
+        "ar": "احصل على نفس التدريب الطبي والامتحانات الصارمة مع تجنب نفقات المعيشة الباهظة في بريطانيا.",
+        "ko": "영국의 비싼 물가 부담 없이 세계적 수준의 영국식 의학교육과 엄격한 임상 시험을 그대로 이수.",
+        "ja": "英国の割高な生活費をかけることなく、同一の英国式医学カリキュラムと厳格な試験を受験可能。",
+        "zh": "接受百分之百纯正严谨的英国皇家医学院级全英文医学教育，免除英国高昂的生活物价负担。",
+        "ru": "Получите британское медицинское образование без огромных расходов на проживание в Великобритании.",
+        "fr": "Bénéficiez d'une formation médicale britannique rigoureuse sans le coût de la vie élevé au Royaume-Uni.",
+        "es": "Accede a la formación médica británica sin los exorbitantes costes de manutención en el Reino Unido."
+      }
+    },
+    {
+      "icon": "🇸🇬",
+      "title": {
+        "id": "Lokasi Strategis di EduCity Iskandar: Hanya 15 Menit ke Singapura",
+        "en": "Prime EduCity Iskandar Hub: Only 15 Minutes to Singapore",
+        "ar": "موقع استراتيجي في إديوسيتي إسكندر بوتري: 15 دقيقة فقط إلى سنغافورة",
+        "ko": "에듀시티 이스칸다르 핵심 요충지: 싱가포르 국경까지 단 15분 거리",
+        "ja": "エデュシティ・イスカンダル中心地：シンガポール国境までわずか15分",
+        "zh": "坐落于柔佛依斯干达公主城EduCity教育城：驱车15分钟即可直通新加坡关卡",
+        "ru": "Локация в EduCity Искандар: всего 15 минут до границы с Сингапуром",
+        "fr": "Emplacement stratégique à EduCity Iskandar : à seulement 15 minutes de Singapour",
+        "es": "Ubicación estratégica en EduCity Iskandar: a solo 15 minutos de Singapur"
+      },
+      "desc": {
+        "id": "Terletak di kawasan pendidikan internasional kelas dunia EduCity dengan akses jembatan kedua (Tuas) ke Singapura.",
+        "en": "Situated within EduCity Iskandar with rapid access via the Second Link bridge straight into Singapore.",
+        "ar": "تقع ضمن مجمع إديوسيتي التعليمي الدولي المتطور مع وصول سريع عبر الجسر الرابط الثاني إلى سنغافورة.",
+        "ko": "싱가포르와 통하는 제2 연륙교(Tuas)를 통해 15분 만에 싱가포르로 연결되는 최첨단 국제 교육 허브.",
+        "ja": "シンガポールを結ぶセカンドリンク橋（トゥアス）を経て、わずか15分でシンガポールへアクセス可能。",
+        "zh": "地处依斯干达国际一流大学城生态集群，经由马新第二通道大桥往返新加坡各大医疗枢纽仅需一刻钟。",
+        "ru": "Расположен в международном кластере EduCity с быстрым доступом в Сингапур по мосту Second Link.",
+        "fr": "Situé au sein d'EduCity Iskandar avec un accès rapide à Singapour par le pont du Second Link.",
+        "es": "Situado en EduCity Iskandar con acceso rápido por el puente Second Link hacia Singapur."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kompleks Residensi Mahasiswa EduCity Student Village (ESV)",
+        "en": "EduCity Student Village (ESV) Official Luxury Residences",
+        "ar": "مجمع قرية إديوسيتي الطلابية السكنية الفاخرة (EduCity Student Village)",
+        "ko": "에듀시티 스튜던트 빌리지(ESV) 공식 프리미엄 학생 레지던스",
+        "ja": "エデュシティ・スチューデント・ヴィレッジ（ESV）公式ラグジュアリー学生寮",
+        "zh": "EduCity Student Village（ESV）教育城官方国际高端学生公寓社区",
+        "ru": "Официальный студенческий жилой комплекс EduCity Student Village (ESV)",
+        "fr": "Résidences officielles de standing EduCity Student Village (ESV)",
+        "es": "Residencia oficial de lujo EduCity Student Village (ESV)"
+      },
+      "distance": {
+        "id": "Terletak Langsung di Kompleks EduCity (3 Menit Jalan Kaki ke NUMed)",
+        "en": "Located Within EduCity Complex (3-Minute Walk to NUMed)",
+        "ar": "تقع مباشرة داخل مجمع إديوسيتي (3 دقائق سيراً على الأقدام إلى مبنى NUMed)",
+        "ko": "에듀시티 단지 내 위치 (NUMed 캠퍼스까지 도보 단 3분)",
+        "ja": "エデュシティ敷地内（NUMed校舎まで徒歩わずか3分）",
+        "zh": "坐落于依斯干达EduCity大学城核心区，步行3分钟即达NUMed医学院主教学大厦",
+        "ru": "На территории комплекса EduCity (3 минуты пешком до NUMed)",
+        "fr": "Situé dans le complexe d'EduCity (à 3 minutes à pied de NUMed)",
+        "es": "Ubicada dentro del complejo EduCity (a 3 minutos a pie de NUMed)"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam dengan Akses Kartu Pintar & CCTV",
+          "Kolam Renang 50 Meter Olimpiade & Lapangan Atletik",
+          "WiFi Berkecepatan Tinggi & Kamar AC Furnished",
+          "Kafetaria Mahasiswa Internasional & Dapur Komunal",
+          "Layanan Shuttle Bus Reguler ke Mall Sunway Big Box & CIQ"
+        ],
+        "en": [
+          "24/7 Gated Security Patrols with Smart Card Controls",
+          "Olympic-Sized 50m Swimming Pool & Athletic Stadium",
+          "High-Speed Dedicated WiFi & Fully Furnished Air-Con Rooms",
+          "International Student Cafeterias & Communal Kitchens",
+          "Regular Shuttle Bus Service to Sunway Big Box Mall & CIQ"
+        ],
+        "ar": [
+          "حراسة أمنية 24 ساعة مع بطاقات دخول ذكية ومراقبة كاميرات",
+          "حمام سباحة أولمبي بطول 50 متراً واستاد ألعاب قوى متكامل",
+          "إنترنت سريع وغرف مكيفة ومؤثثة بأرقى التجهيزات",
+          "كافتيريا طلابية عالمية ومطابخ مشتركة فسيحة",
+          "خدمة حافلات مكوكية منتظمة إلى مركز تسوق صنواي بيغ بوكس والحدود"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian",
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات اليومية"
+      },
+      "cost": "RM 700 - RM 1,100"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus Shuttle EduCity",
+        "en": "EduCity Shuttle & Local Transit",
+        "ar": "المواصلات وحافلات إديوسيتي الترددية"
+      },
+      "cost": "RM 50 - RM 130"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 90 - RM 180"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Buku Medis UK",
+        "en": "Personal Expenses & UK Medical Books",
+        "ar": "المستلزمات الشخصية والكتب الطبية البريطانية"
+      },
+      "cost": "RM 250 - RM 480"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apakah gelar MBBS dari NUMed diakui oleh GMC Inggris untuk langsung bekerja di NHS?",
+        "en": "Does the NUMed MBBS degree allow direct registration with the UK GMC to work in the NHS?",
+        "ar": "هل شهادة MBBS من جامعة NUMed تتيح التسجيل الفوري في المجلس الطبي البريطاني GMC والعمل في NHS؟",
+        "ko": "NUMed의 MBBS 학위는 영국 GMC 등록 및 영국 NHS 병원 취업이 바로 가능한가요?",
+        "ja": "NUMedのMBBS学位は、英国GMCへの直接登録およびNHS病院での勤務資格を満たしますか？",
+        "zh": "从NUMed毕业获得的内外全科医学士（MBBS）是否可直接向英国GMC注册并在NHS系统行医？",
+        "ru": "Позволяет ли диплом MBBS NUMed сразу регистрироваться в GMC и работать в британской NHS?",
+        "fr": "Le diplôme MBBS de NUMed permet-il une inscription directe auprès du GMC pour exercer au NHS ?",
+        "es": "¿Permite el título MBBS de NUMed registrarse directamente en el GMC para trabajar en el NHS?"
+      },
+      "a": {
+        "id": "Ya, gelar MBBS NUMed diakui penuh oleh General Medical Council (GMC) Inggris. Lulusan dapat mendaftar langsung untuk izin praktek sementara dan mengikuti UK Foundation Programme (UKFP) sama seperti lulusan sekolah medis di Inggris.",
+        "en": "Yes, NUMed MBBS is recognized by the UK General Medical Council (GMC). Graduates are eligible to apply directly for provisional registration and the UK Foundation Programme (UKFP) on par with UK-trained doctors.",
+        "ar": "نعم، معتمدة بالكامل من المجلس الطبي البريطاني (GMC). يحق للخريجين التقديم الفوري للتسجيل المؤقت والانضمام لبرنامج أطباء الامتياز البريطاني (UKFP) تماماً كالخريجين من بريطانيا.",
+        "ko": "네, 영국 의학총회(GMC)의 완전 인가를 받습니다. 졸업생은 영국 본토 졸업생과 동일한 자격으로 영국 인턴 수련 프로그램(UKFP)에 직접 지원할 수 있습니다.",
+        "ja": "はい、英国GMCから完全認定されています。卒業生は英国本国の医学生と全く同じ条件で初期研修（UKFP）に直接出願し、NHSでのキャリアを開始できます。",
+        "zh": "是的，NUMed的医学士学位获英国总医务委员会（GMC）全面承认。毕业生享有与英国本土医学院毕业生完全同等的权利，可免额外考核直接申请英国初级医生规培计划（UKFP）进驻NHS公立医院工作。",
+        "ru": "Да, диплом признается GMC. Выпускники подают документы в UKFP наравне с британскими выпускниками.",
+        "fr": "Oui, le diplôme est reconnu par le GMC. Les diplômés peuvent postuler au UKFP sur un pied d'égalité avec les diplômés britanniques.",
+        "es": "Sí, el título está plenamente reconocido por el GMC. Los graduados pueden postular directamente al UKFP en igualdad de condiciones."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah program Kedokteran (MBBS) di NUMed?",
+        "en": "What are the tuition fees for the Medicine (MBBS) programme at NUMed?",
+        "ar": "ما هي الرسوم الدراسية لبرنامج الطب البشري (MBBS) في جامعة نيوكاسل ماليزيا NUMed؟",
+        "ko": "NUMed 의과대학(MBBS)의 정규 학비는 얼마인가요?",
+        "ja": "NUMed医学部（MBBS）の学費はどれくらいですか？",
+        "zh": "在纽卡斯尔大学马来西亚分校攻读临床医学学士（MBBS）的全套学费是多少？",
+        "ru": "Какова стоимость обучения на программе медицины (MBBS) в NUMed?",
+        "fr": "Quels sont les frais de scolarité pour le programme de médecine (MBBS) à NUMed ?",
+        "es": "¿Cuáles son las tasas de matrícula para el programa de Medicina (MBBS) en NUMed?"
+      },
+      "a": {
+        "id": "Biaya kuliah MBBS sekitar RM 120.000 per tahun (sekitar $25.500 USD per tahun), jauh lebih hemat dibandingkan biaya kuliah kedokteran di Inggris yang mencapai £45.000+ per tahun.",
+        "en": "Tuition for MBBS is approximately RM 120,000 per year (approx $25,500 USD/year), which is less than half of UK domestic fees (£45,000+/year).",
+        "ar": "تبلغ الرسوم الدراسية حوالي 120,000 رينجيت سنوياً (نحو 25,500 دولار سنوياً)، وهو أقل من نصف تكلفة دراسة نفس التخصص في بريطانيا (والتي تتجاوز 45,000 جنيه إسترليني سنوياً).",
+        "ko": "MBBS 연간 학비는 약 RM 120,000(연간 약 25,500 달러)으로, 영국 본토 유학 학비(연간 45,000파운드 이상)의 절반 이하 수준입니다.",
+        "ja": "MBBSの年間学費は約RM 120,000（年間約25,500米ドル）であり、英国本土（年45,000ポンド以上）の半額以下に抑えられます。",
+        "zh": "临床医学（MBBS）每年学费约120,000马币（折合约25,500美元/年），不到英国本土医学院每年45,000英镑以上学杂费的一半。",
+        "ru": "Стоимость обучения на MBBS составляет около 120 000 ринггитов в год (около 25 500 $), что в 2 раза дешевле, чем в Великобритании.",
+        "fr": "Les frais de scolarité pour le MBBS sont d'environ 120 000 RM par an (environ 25 500 $ par an), soit moins de la moitié du coût au Royaume-Uni.",
+        "es": "La matrícula de MBBS es de unos 120.000 RM anuales (aprox. 25.500 $ al año), menos de la mitad del coste en el Reino Unido."
+      }
+    },
+    {
+      "q": {
+        "id": "Apakah mahasiswa NUMed berkesempatan belajar di kampus Newcastle di Inggris?",
+        "en": "Do NUMed students have the opportunity to study at the UK campus in Newcastle?",
+        "ar": "هل تتاح الفرصة لطلاب NUMed للدراسة في حرم نيوكاسل داخل بريطانيا؟",
+        "ko": "NUMed 학생들은 영국 뉴캐슬 본교 캠퍼스에서 수학할 기회가 주어지나요?",
+        "ja": "NUMedの学生は英国ニューカッスル本校で学ぶ機会がありますか？",
+        "zh": "NUMed在读医学生是否有机会赴英国纽卡斯尔大学本部交换或轮转学习？",
+        "ru": "Есть ли у студентов NUMed возможность учиться в кампусе Великобритании в Ньюкасле?",
+        "fr": "Les étudiants de NUMed ont-ils l'opportunité d'étudier sur le campus britannique de Newcastle ?",
+        "es": "¿Tienen los estudiantes de NUMed la oportunidad de cursar periodos en Newcastle (Reino Unido)?"
+      },
+      "a": {
+        "id": "Ya, mahasiswa program Ilmu Biomedis (Biomedical Sciences) dapat mengambil tahun kedua di kampus Newcastle di Inggris. Mahasiswa MBBS juga dapat memilih penempatan elektif klinis di Inggris.",
+        "en": "Yes, Biomedical Sciences students can spend their second year at Newcastle University in the UK. MBBS students can undertake elective clinical placements in the UK.",
+        "ar": "نعم، يمكن لطلاب العلوم الطبية الحيوية دراسة سنتهم الثانية كاملة في حرم نيوكاسل ببريطانيا، كما يمكن لطلاب الطب قضاء فترات التدريب الإكلينيكي الاختياري بالمستشفيات البريطانية.",
+        "ko": "네, 의생명과학과 학생들은 2학년 과정을 영국 뉴캐슬 본교에서 보낼 수 있으며, MBBS 의대생들도 영국 현지 선택 임상 실습을 이수할 수 있습니다.",
+        "ja": "はい、バイオメディカルサイエンス専攻の学生は2年次を英国ニューカッスル本校で履修可能で、MBBS医学生も英国での臨床選択実習を選択できます。",
+        "zh": "是的，生物医药科学专业的学生可自由选择在英国纽卡斯尔本部完成大二整年学业；临床医学（MBBS）学生亦可在高年级选择赴英开展临床选修见习轮转。",
+        "ru": "Да, студенты-биомедики могут провести 2-й курс в Великобритании, а студенты MBBS — пройти клиническую практику.",
+        "fr": "Oui, les étudiants en sciences biomédicales peuvent effectuer leur 2e année au Royaume-Uni et les étudiants en médecine des stages cliniques.",
+        "es": "Sí, los estudiantes de Biomedicina pueden cursar el segundo año en el Reino Unido y los de Medicina realizar estancias clínicas electivas."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk mendaftar program Kedokteran di NUMed?",
+        "en": "What are the IELTS English language requirements for Medicine at NUMed?",
+        "ar": "ما هي متطلبات اختبار IELTS للقبول في كلية الطب بجامعة NUMed؟",
+        "ko": "NUMed 의대 입학을 위해 요구되는 IELTS 영어 점수는 몇 점인가요?",
+        "ja": "NUMed医学部出願に必要なIELTSスコアの基準は？",
+        "zh": "申请入读NUMed临床医学（MBBS）专业对雅思（IELTS）语言成绩有何严格要求？",
+        "ru": "Каков требуемый балл IELTS для поступления на медицинский факультет NUMed?",
+        "fr": "Quel score d'IELTS est requis pour intégrer la médecine à NUMed ?",
+        "es": "¿Qué puntuación de IELTS se exige para cursar Medicina en NUMed?"
+      },
+      "a": {
+        "id": "Untuk program MBBS, pelamar memerlukan skor IELTS 7.0 secara keseluruhan dengan minimal 7.0 di setiap bagian (mendengarkan, membaca, menulis, dan berbicara). Program Biomedical Sciences memerlukan IELTS 6.5.",
+        "en": "For MBBS, an IELTS score of 7.0 overall with no band less than 7.0 is mandatory. The BSc Biomedical Sciences requires IELTS 6.5 overall.",
+        "ar": "لبرنامج الطب البشري (MBBS)، يُشترط الحصول على IELTS 7.0 إجمالي مع ما لا يقل عن 7.0 في كل المهارات الأربع. أما العلوم الطبية الحيوية فتتطلب 6.5 إجمالي.",
+        "ko": "MBBS 의학 과정은 전체 7.0 및 모든 영역(듣기, 읽기, 쓰기, 말하기) 7.0 이상이 필수입니다. 의생명과학 학사는 전체 6.5가 요구됩니다.",
+        "ja": "MBBS医学科はIELTS 7.0以上かつ全4技能すべて7.0以上が必須です。バイオメディカル学士課程は全体で6.5が必要です。",
+        "zh": "申请内外全科医学士（MBBS），必须满足雅思总分7.0且听、说、读、写四个单项均不低于7.0分；生物医学学士学位通常要求雅思总分6.5分。",
+        "ru": "Для MBBS требуется балл IELTS 7.0 (не менее 7.0 по каждому компоненту). Для биомедицинских наук — 6.5.",
+        "fr": "Pour le MBBS, un score IELTS de 7.0 global avec au moins 7.0 dans chaque épreuve est exigé. Les sciences biomédicales demandent 6.5.",
+        "es": "Para MBBS es obligatorio un IELTS de 7.0 global con al menos 7.0 en cada destreza. Biomedicina requiere un 6.5."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan saja periode intake pendaftaran mahasiswa di NUMed?",
+        "en": "What are the intake months at NUMed?",
+        "ar": "ما هي مواعيد وأشهر استقبال وتسجيل الطلاب في NUMed؟",
+        "ko": "NUMed의 공식 입학 시기는 몇 월인가요?",
+        "ja": "NUMedの主な入学期（インテイク）は何月ですか？",
+        "zh": "NUMed纽卡斯尔大学马来西亚分校全年的正规开学批次都在哪些月份？",
+        "ru": "В какие месяцы проходит прием студентов в NUMed?",
+        "fr": "Quelles sont les sessions d'admission à NUMed ?",
+        "es": "¿Cuáles son los periodos de admisión en NUMed?"
+      },
+      "a": {
+        "id": "Intake utama untuk Kedokteran (MBBS) dan Biomedical Sciences adalah pada bulan September setiap tahun (mengikuti kalender akademik Inggris). Program Foundation juga membuka intake pada bulan Mei.",
+        "en": "Primary intakes for Medicine (MBBS) and Biomedical Sciences occur in September each year (aligning with the UK academic calendar). Foundation programmes also open in May.",
+        "ar": "يبدأ الفصل الدراسي الرئيسي للطب البشري (MBBS) والعلوم الطبية الحيوية في شهر سبتمبر من كل عام (مطابقاً للتقويم الجامعي البريطاني). وتفتح السنة التمهيدية في مايو.",
+        "ko": "의학(MBBS) 및 의생명과학과의 정규 입학은 영국 학사 일정에 맞춰 매년 9월에 진행됩니다. 파운데이션 과정은 5월에도 개설됩니다.",
+        "ja": "医学科（MBBS）およびバイオメディカル専攻の入学は英国暦に合わせ毎年9月です。ファウンデーション課程は5月にも開講されます。",
+        "zh": "临床医学（MBBS）及生物医药科学专业紧随英国本土学年历，每年9月设立唯一的盛大正规开学季；医科大学基础预科另于每年5月增设一次入学批次。",
+        "ru": "Основной набор на медицину (MBBS) и биомедицинские науки открывается в сентябре. Подготовительное отделение (Foundation) стартует также в мае.",
+        "fr": "Les rentrées principales pour la médecine et les sciences biomédicales ont lieu en septembre. La filière préparatoire ouvre aussi en mai.",
+        "es": "Los ingresos principales de Medicina (MBBS) y Biomedicina son en septiembre. Los programas preparatorios abren también en mayo."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Panduan Lengkap Kedokteran di NUMed: Gelar Asli Russell Group & Karier NHS di Inggris",
+        "en": "Studying Medicine at NUMed: Elite Russell Group Degree & UK NHS Career Guide",
+        "ar": "الدليل الكامل لدراسة الطب في NUMed: شهادة مجموعة راسل البريطانية ومزاولة المهنة في NHS",
+        "ko": "NUMed 의과대학 종합 분석: 영국 러셀 그룹 의학 학위 및 영국 NHS 진출 로드맵",
+        "ja": "NUMed医学部完全ガイド：英国ラッセルグループ学位と英国NHS医師就職ルート",
+        "zh": "NUMed临床医学深度全景解析：入读英国顶级罗素集团医学院与执业英国NHS全攻略",
+        "ru": "Полный гид по медицине в NUMed: диплом Russell Group и карьера в NHS Великобритании",
+        "fr": "Étudier la médecine à NUMed : diplôme d'élite du Russell Group et carrière au NHS britannique",
+        "es": "Estudiar Medicina en NUMed: título de élite del Russell Group y carrera médica en el NHS"
+      },
+      "summary": {
+        "id": "Eksplorasi akreditasi GMC, proses seleksi wawancara MMI, penghematan biaya lebih dari 50%, dan jalur dokter di Inggris.",
+        "en": "Explore UK GMC accreditation, Multiple Mini Interview (MMI) selection, 50%+ fee savings, and UK doctor pathways.",
+        "ar": "استكشف اعتماد المجلس الطبي البريطاني GMC، ومراحل مقابلات MMI، وتوفير أكثر من 50% من التكاليف والعمل كطبيب في بريطانيا.",
+        "ko": "영국 GMC 인가 혜택, MMI 다중 미니 면접 선발 방식, 영국 대비 50% 이상 학비 절감 및 영국 의사 면허 진출 전략.",
+        "ja": "英国GMC認定の利点、MMI面接選考プロセス、英国本土比50％以上の学費節約、英国NHS医師への直通ルートを詳解。",
+        "zh": "深度拆解英国GMC执业医师资质互认、多站式迷你面试（MMI）真题与应试技巧、超50%综合资金节约实测及直通英国初级规培医生通道。",
+        "ru": "Обзор аккредитации GMC, собеседований MMI, экономии более 50% и работы врачом в Великобритании.",
+        "fr": "Décryptage de l'accréditation GMC, des entretiens MMI, de l'économie financière et des carrières au NHS.",
+        "es": "Descubre la acreditación del GMC, el proceso de entrevistas MMI, el 50% de ahorro y el ejercicio médico en el NHS."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Kehidupan Mahasiswa di EduCity Iskandar: Kawasan Pendidikan Internasional Kelas Dunia",
+        "en": "Student Life at EduCity Iskandar: World-Class International Education Township",
+        "ar": "حياة الطلاب في إديوسيتي إسكندر: مجمع تعليمي جامعي دولي متكامل بمستوى عالمي",
+        "ko": "에듀시티 이스칸다르 캠퍼스 라이프: 세계적 수준의 글로벌 교육 신도시 탐방",
+        "ja": "エデュシティ・イスカンダルでの学生ライフ：世界水準の国際教育複合都市の魅力",
+        "zh": "柔佛依斯干达EduCity教育城生活全景纪实：坐拥世界级配套设施的国际化留学校区",
+        "ru": "Студенческая жизнь в EduCity Iskandar: международный образовательный кластер мирового уровня",
+        "fr": "La vie étudiante à EduCity Iskandar : un pôle universitaire international de premier plan",
+        "es": "Vida estudiantil en EduCity Iskandar: un complejo educativo internacional de vanguardia"
+      },
+      "summary": {
+        "id": "Fasilitas olahraga Olimpiade, komplek residensi EduCity Village, keamanan tingkat tinggi, dan kedekatan ke Singapura.",
+        "en": "Olympic sports arena, EduCity Student Village housing, high security, and seamless proximity to Singapore.",
+        "ar": "المرافق الرياضية الأولمبية، وقرية إديوسيتي السكنية، ومنظومة الأمان الفائقة، والقرب المباشر من سنغافورة.",
+        "ko": "올림픽 규격 스포츠 아레나, 에듀시티 빌리지 기숙사, 최고 등급 보안 체계 및 싱가포르 접근성 완벽 정리.",
+        "ja": "オリンピック級スポーツアリーナ、エデュシティ・スチューデント・ヴィレッジ寮、最高水準の治安、シンガポールへの近接性。",
+        "zh": "全景呈现奥运规格综合室内体育馆与田径场、高品质EduCity Village学生公寓村、严密安防巡逻系统及直达新加坡的口岸优势。",
+        "ru": "Спортивная арена олимпийского уровня, студенческий городок EduCity Village, высокая безопасность и близость Сингапура.",
+        "fr": "Arène sportive olympique, logements d'EduCity Village, sécurité optimale et proximité immédiate de Singapour.",
+        "es": "Instalaciones deportivas olímpicas, residencias de EduCity Village, alta seguridad y proximidad a Singapur."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "BSc Biomedical Sciences di NUMed: Jalur Riset & Peluang Transfer ke Inggris",
+        "en": "BSc Biomedical Sciences at NUMed: Research Pathways & UK Transfer Year",
+        "ar": "بكالوريوس العلوم الطبية الحيوية في NUMed: مسارات البحث العلمي وفرصة التحويل لبريطانيا",
+        "ko": "NUMed 의생명과학 학사: 첨단 바이오 연구 및 영국 본교 2학년 트랜스퍼 가이드",
+        "ja": "NUMedバイオメディカルサイエンス：研究キャリアと英国本校2年次留学ルート",
+        "zh": "NUMed生物医学理学士专业解析：生命科学前沿科研通道与大二直赴英国本部交换留学",
+        "ru": "Бакалавриат по биомедицине в NUMed: научные исследования и семестр в Великобритании",
+        "fr": "Licence en sciences biomédicales à NUMed : recherche de pointe et transfert au Royaume-Uni",
+        "es": "Grado en Ciencias Biomédicas en NUMed: vías de investigación y traslado al Reino Unido"
+      },
+      "summary": {
+        "id": "Bagaimana mahasiswa biologi dan kedokteran menghabiskan tahun kedua di Newcastle Inggris dan prospek industri farmasi global.",
+        "en": "How students can complete Year 2 at Newcastle UK and launch careers in international pharmaceutical giants.",
+        "ar": "كيف يدرس الطلاب سنتهم الثانية في نيوكاسل ببريطانيا وآفاق العمل في كبرى شركات الأدوية العالمية.",
+        "ko": "영국 뉴캐슬 본교에서 2학년 과정을 이수하고 글로벌 다국적 제약사 및 바이오 연구소로 진출하는 노하우.",
+        "ja": "英国本校で2年次を修了し、世界的大手製薬企業やバイオ研究機関でキャリアを築くプロセスを解説。",
+        "zh": "详尽梳理大二直通英国纽卡斯尔本部校区完成学业的操作步骤，以及毕业后进驻辉瑞、阿斯利康等跨国药企的广阔前景。",
+        "ru": "Как провести 2-й год в кампусе Великобритании и построить карьеру в глобальных фармацевтических компаниях.",
+        "fr": "Comment passer la 2e année à Newcastle au Royaume-Uni et intégrer les géants pharmaceutiques mondiaux.",
+        "es": "Cómo cursar el 2.º año en Newcastle (Reino Unido) y acceder a las grandes farmacéuticas internacionales."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Kedokteran & Bedah MBBS (Gelar Asli Newcastle University UK)",
+        "en": "Medicine & Surgery MBBS (Newcastle University UK Degree)",
+        "ar": "الطب البشري والجراحة MBBS (شهادة جامعة نيوكاسل البريطانية الأصلية)",
+        "ko": "의학 및 외과학사 MBBS (영국 뉴캐슬 대학교 본교 정규 학위)",
+        "ja": "医学部・外科学士 MBBS（英国ニューカッスル大学本校正規学位）",
+        "zh": "内外全科医学士 MBBS（英国纽卡斯尔大学本部直属正规文凭）",
+        "ru": "Лечебное дело и хирургия MBBS (диплом Newcastle University UK)",
+        "fr": "Médecine et chirurgie MBBS (diplôme officiel Newcastle University UK)",
+        "es": "Medicina y Cirugía MBBS (Título oficial de Newcastle University UK)"
+      },
+      "degree": "Bachelor of Medicine, Bachelor of Surgery (GMC Accredited)",
+      "duration": "5 Years",
+      "feeUSD": "$125,000 - $135,000 Total",
+      "ielts": "7.0"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Biomedis (BSc Biomedical Sciences Hons UK)",
+        "en": "Biomedical Sciences (BSc Hons UK Degree)",
+        "ar": "العلوم الطبية الحيوية (بكالوريوس بريطاني مع مرتبة الشرف)",
+        "ko": "의생명과학부 (영국 본교 우수 이학사 학위)",
+        "ja": "バイオメディカルサイエンス学部（英国本校栄誉理学士学位）",
+        "zh": "生物医药科学荣誉理学士（可转赴英国纽卡斯尔本部完成大二）",
+        "ru": "Биомедицинские науки (BSc Hons, диплом Великобритании)",
+        "fr": "Sciences biomédicales (licence britannique avec mention)",
+        "es": "Ciencias Biomédicas (Grado oficial con honores del Reino Unido)"
+      },
+      "degree": "Bachelor of Science (Hons)",
+      "duration": "3 Years",
+      "feeUSD": "$31,000 - $35,000 Total",
+      "ielts": "6.5"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Biological & Biomedical Sciences",
+        "en": "Foundation in Biological & Biomedical Sciences",
+        "ar": "السنة التمهيدية في العلوم البيولوجية والطبية الحيوية",
+        "ko": "생물학 및 의생명과학 진학 파운데이션 예비과정",
+        "ja": "生物学・生体医工学進学ファウンデーション課程",
+        "zh": "生物与生物医学科学大学基础预科文凭课程（直通MBBS/生物医学）",
+        "ru": "Подготовительный курс (Foundation) по биологическим и биомедицинским наукам",
+        "fr": "Année préparatoire en sciences biologiques et biomédicales",
+        "es": "Fundamentos en Ciencias Biológicas y Biomédicas"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$6,800 - $7,500 Total",
+      "ielts": "5.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=Pe4npz6u5QA",
+  "programs": [
+    {
+      "id": "numed-bachelor-of-medicine-bachelor-of-surgery",
+      "universityId": "numed",
+      "name": "Bachelor of Medicine, Bachelor of Surgery",
+      "nameAr": "بكالوريوس في Bachelor of Medicine, Bachelor of Surgery",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 126500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 126500
+        },
+        {
+          "year": 2,
+          "fee": 126500
+        },
+        {
+          "year": 3,
+          "fee": 126500
+        },
+        {
+          "year": 4,
+          "fee": 126500
+        },
+        {
+          "year": 5,
+          "fee": 126500
+        }
+      ],
+      "totalTuitionFee": 632500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "numed-bsc-honours-biomedical-sciences",
+      "universityId": "numed",
+      "name": "BSc (Honours) Biomedical Sciences",
+      "nameAr": "برنامج في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 52900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52900
+        },
+        {
+          "year": 2,
+          "fee": 52900
+        }
+      ],
+      "totalTuitionFee": 105800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "numed-foundation-in-biological-and-biomedical-sciences",
+      "universityId": "numed",
+      "name": "Foundation in Biological and Biomedical Sciences",
+      "nameAr": "برنامج تمهيدي في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 33787,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33787
+        }
+      ],
+      "totalTuitionFee": 33787,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 3,
+  "totalProgramsCount": 3
+}

@@ -1,0 +1,587 @@
+{
+    "id":  "manipal",
+    "name":  "Manipal International University (MIU)",
+    "arabicName":  "جامعة مانيبال الدولية (MIU)",
+    "city":  "Nilai, Negeri Sembilan",
+    "country":  "malaysia",
+    "logo":  "assets/photo/uni-manipal.png",
+    "image":  "assets/photo/campus_manipal.webp",
+    "website":  "https://www.miu.edu.my/",
+    "ranking":  "Part of the Global Manipal Education Group with 142-Acre Green Campus",
+    "established":  "2011",
+    "campusName":  "MIU Lakeside Eco Campus, Nilai",
+    "studentCount":  "3,000+ (30+ Countries)",
+    "intakes":  "Jan, Mar, May, Sep",
+    "feeRangeMin":  15000,
+    "feeRangeMax":  40000,
+    "currency":  "MYR",
+    "description":  "Manipal International University (MIU) is one of the leading recognized higher education institutions located in Nilai, Negeri Sembilan. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+    "descriptionAr":  "تعتبر جامعة مانيبال الدولية (MIU) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Nilai, Negeri Sembilan، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+    "about":  {
+                  "id":  "Manipal International University (MIU) didirikan pada tahun 2011 di Nilai, Negeri Sembilan, sebagai bagian dari Manipal Academy of Higher Education (MAHE) global yang legendaris dengan sejarah lebih dari 70 tahun. Terletak di kampus hijau berkelanjutan seluas 142 hektar berakreditasi LEED Platinum, MIU menawarkan pendidikan berstandar dunia dalam bidang Ilmu Komputer, Kecerdasan Buatan (AI), Rekayasa Teknik, Bioteknologi, dan Bisnis dengan gelar ganda serta peluang transfer internasional.",
+                  "en":  "Manipal International University (MIU), established in 2011 in Nilai, Negeri Sembilan, is part of the legendary global Manipal Academy of Higher Education (MAHE) network with over 70 years of educational heritage. Set across a 142-acre LEED Platinum certified green campus, MIU delivers internationally benchmarked education in Computer Science, Artificial Intelligence, Engineering, Biotechnology, and Business, offering dual degree and global transfer pathways.",
+                  "ar":  "تأسست جامعة مانيبال الدولية (Manipal International University - MIU) عام 2011 في نيلاي بنيجري سمبيلان، وهي جزء من شبكة مانيبال الأكاديمية العالمية العريقة (MAHE) التي تمتد لأكثر من 70 عاماً. يمتد حرمها الأخضر الذكي الحاصل على شهادة LEED Platinum على مساحة 142 فداناً، وتقدم تعليماً بمعايير عالمية في علوم الحاسوب والذكاء الاصطناعي، والهندسة، والتكنولوجيا الحيوية، وإدارة الأعمال مع مسارات تحويل دولية.",
+                  "zh":  "马尼帕尔国际大学（Manipal International University，简称MIU）创办于2011年，坐落于森美兰州汝来（Nilai），隶属于拥有逾70年世界级办学传奇声誉的全球马尼帕尔教育集团（MAHE）。大学占地142英亩，荣获美国LEED绿色建筑白金级认证，在计算机科学、人工智能（AI）、电子工程、生物科技及商业管理领域提供卓越的英联邦认证本硕课程。",
+                  "ru":  "Международный университет Манипал (MIU), основанный в 2011 году в Нилаи, входит в глобальную сеть Manipal Academy of Higher Education с более чем 70-летней историей. Кампус площадью 142 акра с платиновым сертификатом LEED предлагает признанные в мире программы по IT, искусственному интеллекту, инженерии, биотехнологиям и бизнесу.",
+                  "fr":  "Établie en 2011 à Nilai, la Manipal International University (MIU) appartient au prestigieux réseau Manipal fort de plus de 70 ans de tradition éducative. Son campus écologique de 142 acres certifié LEED Platine propose des diplômes de rang mondial en informatique, intelligence artificielle, ingénierie, biotechnologie et gestion.",
+                  "es":  "La Manipal International University (MIU), fundada en 2011 en Nilai, forma parte del prestigioso grupo educativo global Manipal, con más de 70 años de trayectoria. Su campus ecológico de 142 acres con certificación LEED Platino ofrece titulaciones internacionales en Informática, Inteligencia Artificial, Ingeniería, Biotecnología y Administración.",
+                  "ja":  "マニパル国際大学（MIU）は2011年にヌグリ・スンビラン州ニライに設立され、70年以上の歴史を誇る世界的教育グループ「マニパル」の一角を担っています。米LEEDプラチナ認証を受けた142エーカーの環境調和型キャンパスで、コンピュータ科学、AI、工学、バイオテクノロジー、ビジネスにおいて世界水準の教育と学位を提供しています。",
+                  "ko":  "마니팔 국제대학교(MIU)는 2011년 느그리 슴빌란주 닐라이에 설립되었으며, 70년 이상의 유서 깊은 전통을 지닌 글로벌 마니팔 교육 그룹(MAHE)의 일원입니다. 미국 LEED 플래티넘 친환경 인증을 획득한 142에이커의 최첨단 스마트 캠퍼스에서 컴퓨터공학, 인공지능(AI), 공학, 생명공학 및 경영학 분야의 글로벌 학위 과정을 운영합니다."
+              },
+    "facilities":  [
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Kampus Hijau 142 Hektar Bersertifikasi Platinum Green Building Index",
+                                         "en":  "142-Acre Platinum GBI-Certified Green Eco-Campus",
+                                         "ar":  "حرم جامعي أخضر بمساحة 142 فداناً حائز على شهادة البناء الأخضر البلاتينية GBI",
+                                         "ko":  "142에이커 규모의 플래티넘 그린 빌딩 인덱스(GBI) 인증 친환경 스마트 캠퍼스",
+                                         "ja":  "142エーカーのプラチナGBI環境認証グリーンエコキャンパス",
+                                         "zh":  "占地142英亩荣获国家级白金绿色建筑指数（GBI）认证的生态湖畔大学城",
+                                         "ru":  "Эко-кампус площадью 142 акра с платиновым сертификатом Green Building Index",
+                                         "fr":  "Campus écologique de 142 acres certifié Platinum Green Building Index",
+                                         "es":  "Campus ecológico de 142 acres con certificación Platinum Green Building Index"
+                                     }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Laboratorium Rekayasa Teknik Sipil, Mekanik \u0026 Elektronika Modern",
+                                         "en":  "Civil, Mechanical \u0026 Electrical Engineering Heavy Labs",
+                                         "ar":  "مختبرات الهندسة المدنية والميكانيكية والكهربائية المتطورة",
+                                         "ko":  "토목, 기계 및 전기전자공학 대형 전문 실험 컴플렉스",
+                                         "ja":  "土木・機械＆電気電子工学専門実験コンプレックス",
+                                         "zh":  "土木工程重型结构、先进机械制造与微电子电气工程实验集群",
+                                         "ru":  "Лаборатории гражданского, механического и электротехнического инжиниринга",
+                                         "fr":  "Laboratoires d\u0027ingénierie civile, mécanique et électrique lourde",
+                                         "es":  "Laboratorios de ingeniería civil, mecánica y eléctrica pesada"
+                                     }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Pusat Keunggulan Bioteknologi Terapan \u0026 Penelitian Molekuler",
+                                         "en":  "Applied Biotechnology \u0026 Molecular Sciences Research Centre",
+                                         "ar":  "مركز التميز في أبحاث التقنية الحيوية التطبيقية والعلوم الجزيئية",
+                                         "ko":  "응용 생명공학 및 분자생명과학 최고 전문 연구 센터",
+                                         "ja":  "応用バイオテクノロジー＆分子科学研究センター",
+                                         "zh":  "应用生物技术研发中心与现代分子生物学前沿实验中心",
+                                         "ru":  "Центр исследований прикладной биотехнологии и молекулярных наук",
+                                         "fr":  "Centre d\u0027excellence en biotechnologie appliquée et sciences moléculaires",
+                                         "es":  "Centro de investigación en biotecnología aplicada y ciencias moleculares"
+                                     }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Laboratorium Sains Komputer, AI \u0026 Keamanan Jaringan Digital",
+                                         "en":  "Computer Science, AI \u0026 Cyber Network Security Suites",
+                                         "ar":  "مختبرات علوم الحاسوب والذكاء الاصطناعي وأمن الشبكات الرقمية",
+                                         "ko":  "컴퓨터 과학, 인공지능(AI) 및 사이버 네트워크 보안 랩",
+                                         "ja":  "コンピュータサイエンス・AI＆ネットワークセキュリティ実習室",
+                                         "zh":  "计算机科学前沿算法、人工智能与网络安全防护技术实验平台",
+                                         "ru":  "Лаборатории компьютерных наук, ИИ и кибербезопасности",
+                                         "fr":  "Laboratoires d\u0027informatique, d\u0027IA et de sécurité des réseaux",
+                                         "es":  "Laboratorios de ciencias de la computación, IA y seguridad de redes"
+                                     }
+                       }
+                   ],
+    "highlights":  [
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Bagian Resmi dari Manipal Global Education Services (Didirikan 1953)",
+                                         "en":  "Part of Manipal Global Education Services (Legacy Since 1953)",
+                                         "ar":  "جزء من منظومة مانيبال العالمية للتعليم العالي (إرث أكاديمي منذ 1953)",
+                                         "ko":  "1953년 설립된 세계적 명문 매니팔 글로벌 에듀케이션 네트워크의 공식 대학",
+                                         "ja":  "1953年創設の世界的教育コングロマリット「マニパル・グローバル」直営校",
+                                         "zh":  "依托始创于1953年享誉全球的国际高等教育集团“马尼帕尔（Manipal）”创办",
+                                         "ru":  "Часть всемирной образовательной сети Manipal Global Education (с 1953 года)",
+                                         "fr":  "Membre du réseau mondial Manipal Global Education Services (fondé en 1953)",
+                                         "es":  "Parte de la red mundial Manipal Global Education Services (fundada en 1953)"
+                                     },
+                           "desc":  {
+                                        "id":  "Manipal telah mendidik lebih dari 400.000 mahasiswa dari 85+ negara dengan jaringan kampus di India, Malaysia, Dubai, dan AS.",
+                                        "en":  "Manipal has educated over 400,000 alumni across 85+ nations with campuses spanning India, Malaysia, Dubai, and the US.",
+                                        "ar":  "خرجت شبكة مانيبال أكثر من 400,000 طالب من 85 دولة عبر فروعها في الهند وماليزيا ودبي وأمريكا.",
+                                        "ko":  "전 세계 85개국 40만 명 이상의 인재를 배출한 인도, 말레이시아, 두바이, 미국 캠퍼스 네트워크 보유.",
+                                        "ja":  "インド、マレーシア、ドバイ、米国に展開し、世界85カ国40万人以上の卒業生を輩出。",
+                                        "zh":  "在全球拥有逾40万名杰出校友，分校与教学机构遍布印度、马来西亚、迪拜及美国。",
+                                        "ru":  "Сеть Manipal подготовила более 400 000 выпускников из 85+ стран с кампусами в Индии, ОАЭ, США и Малайзии.",
+                                        "fr":  "Manipal a formé plus de 400 000 diplômés dans plus de 85 pays, avec des campus en Inde, à Dubaï et aux USA.",
+                                        "es":  "Manipal ha formado a más de 400.000 profesionales de más de 85 países con campus en India, Dubái y EE.UU."
+                                    }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Kampus Hijau Resor 142 Hektar Bersertifikasi Platinum Pertama",
+                                         "en":  "First Platinum-Certified Green University Campus in Malaysia",
+                                         "ar":  "أول حرم جامعي أخضر يحصل على شهادة البناء الأخضر البلاتينية في ماليزيا",
+                                         "ko":  "말레이시아 최초의 플래티넘 GBI 친환경 공인 대규모 스마트 캠퍼스",
+                                         "ja":  "マレーシア初となるプラチナGBI環境認証を取得した最先端キャンパス",
+                                         "zh":  "马来西亚第一座荣膺国家级“白金级绿色建筑（GBI）”殊荣的可持续校园",
+                                         "ru":  "Первый в Малайзии кампус с платиновым эко-сертификатом Green Building Index",
+                                         "fr":  "Premier campus universitaire de Malaisie certifié Platinum Green Building",
+                                         "es":  "Primer campus universitario de Malasia con certificación ecológica Platinum"
+                                     },
+                           "desc":  {
+                                        "id":  "Dibangun mengelilingi danau alami seluas 20 hektar dengan efisiensi energi mutakhir dan udara pegunungan segar.",
+                                        "en":  "Constructed around a 20-acre scenic lake featuring cutting-edge energy efficiency and pristine mountain air.",
+                                        "ar":  "بني حول بحيرة طبيعية بمساحة 20 فداناً بأنظمة متطورة لكفاءة الطاقة وتصميم بيئي مبهر.",
+                                        "ko":  "20에이커의 아름다운 천연 호수를 품고 첨단 에너지 절감 시스템과 청정 자연 환경 결합.",
+                                        "ja":  "20エーカーの美しい天然湖を中心に設計され、省エネルギーと大自然が調和。",
+                                        "zh":  "围绕20英亩天然原生湖泊匠心构筑，完美融合前沿节能建筑科技与纯净山林氧吧环境。",
+                                        "ru":  "Построен вокруг живописного озера площадью 20 акров с передовыми технологиями энергоэффективности.",
+                                        "fr":  "Bâti autour d\u0027un lac de 20 acres, avec une efficacité énergétique de pointe et un air pur.",
+                                        "es":  "Construido alrededor de un lago de 20 acres, con eficiencia energética de vanguardia y aire puro."
+                                    }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Akreditasi Lembaga Insinyur Malaysia (BEM) \u0026 Washington Accord",
+                                         "en":  "BEM Accredited Engineering Programmes Under Washington Accord",
+                                         "ar":  "برامج هندسية معتمدة من مجلس المهندسين بماليزيا (BEM) واتفاقية واشنطن",
+                                         "ko":  "말레이시아 공학위원회(BEM) 및 워싱턴 어코드 국제 통용성 공학 인가",
+                                         "ja":  "マレーシア技術者委員会（BEM）認可＆ワシントン協定加盟の工学教育",
+                                         "zh":  "工程学士学位受马来西亚工程师局（BEM）全面认证及华盛顿协议全球互认",
+                                         "ru":  "Аккредитация BEM и признание по Вашингтонскому соглашению",
+                                         "fr":  "Programmes d\u0027ingénierie accrédités par le BEM et l\u0027Accord de Washington",
+                                         "es":  "Carreras de ingeniería acreditadas por BEM bajo el Acuerdo de Washington"
+                                     },
+                           "desc":  {
+                                        "id":  "Lulusan program sarjana teknik sipil, mesin, dan elektro diakui untuk berpraktik di seluruh negara anggota Washington Accord.",
+                                        "en":  "Civil, mechanical, and electrical graduates qualify for professional practice globally under the Washington Accord.",
+                                        "ar":  "يتمتع خريجو الهندسة المدنية والميكانيكية والكهربائية بأهلية العمل والاعتماد في كافة دول العالم الموقعة على الاتفاقية.",
+                                        "ko":  "토목, 기계, 전기공학 졸업생은 워싱턴 어코드 가입국 어디서든 공인 전문 엔지니어로 인정.",
+                                        "ja":  "土木・機械・電気工学の卒業生は、ワシントン協定加盟国すべてでプロ技術者として通用。",
+                                        "zh":  "土木、机械及电气工程毕业生均享有直接在英国、美国、澳大利亚等国注册执业工程师的直通资格。",
+                                        "ru":  "Выпускники могут вести практику в странах Вашингтонского соглашения по всему миру.",
+                                        "fr":  "Les diplômés peuvent exercer comme ingénieurs dans tous les pays membres de l\u0027Accord de Washington.",
+                                        "es":  "Los graduados acceden al ejercicio profesional en todos los países signatarios del Acuerdo de Washington."
+                                    }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Akses Sangat Cepat ke Bandara KLIA (15 Menit) \u0026 Ibu Kota Kuala Lumpur",
+                                         "en":  "Strategic Connectivity: 15 Minutes to KLIA \u0026 Direct Highways to KL",
+                                         "ar":  "موقع حيوي متصل: 15 دقيقة فقط إلى مطار KLIA الدولي وطرق سريعة مباشرة إلى العاصمة",
+                                         "ko":  "쿠알라룸푸르 국제공항(KLIA) 15분 거리 및 도심 직결 고속도로망",
+                                         "ja":  "KLIA空港までわずか15分＆クアラルンプール都心直通の好立地",
+                                         "zh":  "枢纽优势：距吉隆坡国际机场仅需15分钟车程，南北高速公路直达吉隆坡市区",
+                                         "ru":  "15 минут до международного аэропорта KLIA и прямые трассы в Куала-Лумпур",
+                                         "fr":  "Connectivité stratégique : 15 minutes de KLIA et accès rapide à Kuala Lumpur",
+                                         "es":  "Conectividad estratégica: a 15 minutos de KLIA y autovías directas a Kuala Lumpur"
+                                     },
+                           "desc":  {
+                                        "id":  "Terletak di Nilai, Negeri Sembilan, dekat dengan stasiun kereta KTM dan pusat perbelanjaan AEON Nilai.",
+                                        "en":  "Located in education township Nilai, close to KTM commuter rail and regional amenities like AEON Mall.",
+                                        "ar":  "تقع في مدينة نيلاي التعليمية، بالقرب من قطار الضواحي ومراكز التسوق الكبرى مثل إيون مول.",
+                                        "ko":  "교육 특구 닐라이에 위치하여 KTM 통근 전철역 및 대형 복합 쇼핑몰 인접.",
+                                        "ja":  "文教都市ニライに位置し、KTMコミューター駅や大型イオンモールへ至近。",
+                                        "zh":  "坐落于雪兰莪与森美兰交界的高等教育核心圈汝来，毗邻KTM火车站及AEON大型商业综合体。",
+                                        "ru":  "Находится в городке Нилай рядом со станцией пригородных поездов KTM и ТЦ AEON.",
+                                        "fr":  "Situé dans le pôle de Nilai, à proximité du train KTM et du centre commercial AEON.",
+                                        "es":  "Ubicado en Nilai, cerca de la estación de cercanías KTM y del centro comercial AEON."
+                                    }
+                       }
+                   ],
+    "residences":  [
+                       {
+                           "name":  {
+                                        "id":  "Asrama Residensi Mahasiswa Kampus Danau Hijau MIU On-Campus Hostels",
+                                        "en":  "MIU Official On-Campus Lakeside Student Hostels",
+                                        "ar":  "السكن الجامعي الطلابي الرسمي الداخلي المطل على البحيرة في حرم MIU",
+                                        "ko":  "MIU 교내 공식 레이크사이드 프리미엄 학생 기숙사 (Hostels)",
+                                        "ja":  "MIU学内公式レイクサイド学生ホステル（寮）",
+                                        "zh":  "MIU大学官方校内全湖景生态学生公寓社区",
+                                        "ru":  "Официальные студенческие общежития у озера на кампусе MIU",
+                                        "fr":  "Résidences étudiantes officielles au bord du lac sur le campus de MIU",
+                                        "es":  "Residencias para estudiantes oficiales junto al lago en el campus de MIU"
+                                    },
+                           "distance":  {
+                                            "id":  "Terletak di Dalam Lingkungan Kampus (1 Menit Jalan Kaki ke Kelas)",
+                                            "en":  "Located On-Site Within Campus Grounds (1-Minute Walk to Classrooms)",
+                                            "ar":  "تقع مباشرة داخل حرم الجامعة (دقيقة واحدة سيراً على الأقدام إلى قاعات المحاضرات)",
+                                            "ko":  "캠퍼스 부지 내 위치 (강의동까지 도보 단 1분)",
+                                            "ja":  "キャンパス敷地内（講義棟まで徒歩わずか1分）",
+                                            "zh":  "坐落于绿意环抱的校区内部，步行1分钟即达工程实验大楼与图书馆",
+                                            "ru":  "Непосредственно на территории кампуса (1 минута пешком)",
+                                            "fr":  "Situé sur le campus (1 minute à pied des salles de cours)",
+                                            "es":  "Ubicadas en el campus (a 1 minuto a pie de las aulas)"
+                                        },
+                           "priceRange":  "RM 350 - RM 700 / month",
+                           "amenities":  {
+                                             "id":  [
+                                                        "Keamanan 24 Jam dengan Akses Kartu Cerdas \u0026 Pos Penjagaan",
+                                                        "Pemandangan Danau Alami yang Asri \u0026 Jalur Jogging",
+                                                        "Kamar AC Furnished \u0026 WiFi Kecepatan Tinggi",
+                                                        "Kafetaria Mahasiswa Aneka Menu \u0026 Dapur Bersama",
+                                                        "Fasilitas Binatu Otomatis \u0026 Minimarket Kampus"
+                                                    ],
+                                             "en":  [
+                                                        "24/7 Guarded Gated Security with Smart Card Controls",
+                                                        "Picturesque 20-Acre Natural Lake Views \u0026 Jogging Tracks",
+                                                        "Air-Conditioned Furnished Rooms \u0026 High-Speed Campus WiFi",
+                                                        "Diverse Multi-Cuisine Student Cafeterias \u0026 Shared Pantries",
+                                                        "Automated Laundry Facilities \u0026 On-Site Grocery Store"
+                                                    ],
+                                             "ar":  [
+                                                        "حراسة أمنية مشددة وبوابات إلكترونية ذكية 24/7",
+                                                        "إطلالات ساحرة على البحيرة الطبيعية ومسارات لممارسة رياضة الجري",
+                                                        "غرف مكيفة ومؤثثة بالكامل مع إنترنت سريع",
+                                                        "كافتيريا طلابية ومطابخ مشتركة فسيحة",
+                                                        "مغاسل ملابس آلية ذاتية الخدمة ومتاجر تموينية داخل المجمع"
+                                                    ]
+                                         }
+                       }
+                   ],
+    "livingExpenses":  [
+                           {
+                               "itemKey":  "living_exp_food",
+                               "item":  {
+                                            "id":  "Makan \u0026 Kuliner Harian (Kantin Kampus)",
+                                            "en":  "Food \u0026 Daily Dining (Campus Cafeteria)",
+                                            "ar":  "الطعام والمأكولات اليومية (كافتيريا الحرم)"
+                                        },
+                               "cost":  "RM 450 - RM 750"
+                           },
+                           {
+                               "itemKey":  "living_exp_transport",
+                               "item":  {
+                                            "id":  "Transportasi \u0026 Bus Shuttle Kampus",
+                                            "en":  "Free Campus Shuttle \u0026 Local Transit",
+                                            "ar":  "حافلات الحرم المجانية والمواصلات المحلية"
+                                        },
+                               "cost":  "RM 30 - RM 80"
+                           },
+                           {
+                               "itemKey":  "living_exp_utilities",
+                               "item":  {
+                                            "id":  "Utilitas, Listrik \u0026 Internet",
+                                            "en":  "Utilities, Electricity \u0026 WiFi",
+                                            "ar":  "الكهرباء والمياه والإنترنت"
+                                        },
+                               "cost":  "RM 60 - RM 120"
+                           },
+                           {
+                               "itemKey":  "living_exp_personal",
+                               "item":  {
+                                            "id":  "Kebutuhan Pribadi \u0026 Biaya Rekreasi",
+                                            "en":  "Personal Expenses \u0026 Recreation",
+                                            "ar":  "المستلزمات الشخصية والأنشطة الطلابية"
+                                        },
+                               "cost":  "RM 160 - RM 340"
+                           }
+                       ],
+    "videoUrl":  "https://www.youtube-nocookie.com/embed/hCLWe07KR8E",
+    "faqs":  [
+                 {
+                     "q":  {
+                               "id":  "Jurusan apa saja yang menjadi keunggulan utama di Manipal International University (MIU)?",
+                               "en":  "What are the main academic strengths and degree programmes at MIU?",
+                               "ar":  "ما هي أبرز البرامج الأكاديمية ونقاط القوة في جامعة مانيبال الدولية MIU؟",
+                               "ko":  "매니팔 국제대학교(MIU)의 대표 전공 및 학문적 강점은 무엇인가요?",
+                               "ja":  "マニパル国際大学（MIU）の主要な学部専攻と強みは何ですか？",
+                               "zh":  "马尼帕尔国际大学（MIU）最具代表性的优势学科与专业方向有哪些？",
+                               "ru":  "Каковы основные академические направления и преимущества MIU?",
+                               "fr":  "Quelles sont les filières d\u0027excellence de Manipal International University (MIU) ?",
+                               "es":  "¿Cuáles son las principales carreras y fortalezas de Manipal International University (MIU)?"
+                           },
+                     "a":  {
+                               "id":  "Teknik Sipil, Mesin, dan Elektro (terakreditasi BEM / Washington Accord), Bioteknologi, Ilmu Komputer \u0026 AI, serta Akuntansi dan Administrasi Bisnis.",
+                               "en":  "Civil, Mechanical \u0026 Electrical Engineering (BEM / Washington Accord accredited), Biotechnology, Computer Science \u0026 AI, and Accounting \u0026 Business.",
+                               "ar":  "الهندسة المدنية والميكانيكية والكهربائية (معتمدة من BEM واتفاقية واشنطن)، والتقنية الحيوية، وعلوم الحاسوب والذكاء الاصطناعي، والمحاسبة وإدارة الأعمال.",
+                               "ko":  "토목/기계/전기전자 공학부(BEM 및 워싱턴 어코드 인증), 생명공학, 컴퓨터 과학 및 AI, 그리고 회계학 및 경영학입니다.",
+                               "ja":  "土木・機械・電気電子工学（BEM・ワシントン協定認定）、バイオテクノロジー、コンピュータサイエンス＆AI、会計・経営学です。",
+                               "zh":  "土木工程、机械工程及电气电子工程（获BEM及华盛顿协议全面国际认证）、生物技术、计算机科学与人工智能、以及会计与工商管理。",
+                               "ru":  "Гражданская, механическая и электроинженерия (BEM / Washington Accord), биотехнология, IT и AI, бухучет и бизнес.",
+                               "fr":  "Génie civil, mécanique et électrique (accrédités BEM / Accord de Washington), biotechnologie, informatique, IA, comptabilité et gestion.",
+                               "es":  "Ingeniería Civil, Mecánica y Eléctrica (BEM / Washington Accord), Biotecnología, Informática e IA, Contabilidad y Empresa."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa biaya kuliah program sarjana (Bachelor) di MIU?",
+                               "en":  "What are the tuition fee rates for bachelor degrees at MIU?",
+                               "ar":  "ما هي الرسوم الدراسية لبرامج البكالوريوس في جامعة مانيبال الدولية MIU؟",
+                               "ko":  "MIU의 학사 학위 과정 평균 학비는 얼마인가요?",
+                               "ja":  "MIUの学士課程の年間学费レンジはどれくらいですか？",
+                               "zh":  "在MIU攻读本科学士学位各专业的平均学杂费是多少？",
+                               "ru":  "Какова стоимость обучения на бакалавриате в MIU?",
+                               "fr":  "Quels sont les frais de scolarité en licence à MIU ?",
+                               "es":  "¿Cuáles son las tarifas de matrícula para un grado en MIU?"
+                           },
+                     "a":  {
+                               "id":  "Program Bisnis dan Komputer berkisar antara $4.200 - $5.200 USD per tahun. Program Rekayasa Teknik dan Bioteknologi sekitar $5.000 - $6.200 USD per tahun.",
+                               "en":  "Business \u0026 Computing range from $4,200 to $5,200 USD/year. Engineering \u0026 Biotechnology average $5,000 to $6,200 USD/year.",
+                               "ar":  "تتراوح برامج الأعمال والحوسبة بين 4,200 إلى 5,200 دولار سنوياً. وبرامج الهندسة والتقنية الحيوية بين 5,000 إلى 6,200 دولار سنوياً.",
+                               "ko":  "경영 및 IT는 연간 약 4,200~5,200 달러, 공학 및 생명공학부는 연간 약 5,000~6,200 달러 선으로 매우 합리적입니다.",
+                               "ja":  "ビジネス＆ITは年間約4,200〜5,200米ドル、工学部＆バイオテクノロジーは年間約5,000〜6,200米ドルです。",
+                               "zh":  "商科及计算机专业每年学杂费约4,200至5,200美元；工科与生物技术专业年均约5,000至6,200美元，性价比极高。",
+                               "ru":  "Бизнес и IT: 4 200–5 200 $ в год; инженерия и биотехнология: 5 000–6 200 $ в год.",
+                               "fr":  "Commerce et informatique : 4 200 à 5 200 $ par an ; ingénierie et biotechnologie : 5 000 à 6 200 $ par an.",
+                               "es":  "Empresa e Informática: 4.200-5.200 $ al año; Ingeniería y Biotecnología: 5.000-6.200 $ al año."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa biaya sewa asrama mahasiswa di kampus MIU?",
+                               "en":  "What is the average student hostel rental cost on campus at MIU?",
+                               "ar":  "كم تبلغ تكلفة السكن الجامعي الداخلي للطلاب في حرم MIU؟",
+                               "ko":  "MIU 교내 기숙사의 월 평균 임대료는 어느 정도인가요?",
+                               "ja":  "MIU学内学生寮の月額家賃相場はどれくらいですか？",
+                               "zh":  "入住MIU大学校内现代化湖景学生公寓的月均住宿开支大概是多少？",
+                               "ru":  "Какова средняя стоимость проживания в общежитиях на кампусе MIU?",
+                               "fr":  "Quel est le loyer moyen d\u0027un logement étudiant sur le campus de MIU ?",
+                               "es":  "¿Cuál es el coste medio del alojamiento para estudiantes en el campus de MIU?"
+                           },
+                     "a":  {
+                               "id":  "Sangat hemat: berkisar antara RM 350 hingga RM 700 per bulan tergantung tipe kamar (twin sharing atau single room dengan AC), di dalam kampus hijau yang asri dan aman.",
+                               "en":  "Very affordable: ranging from RM 350 to RM 700 per month depending on room type (twin sharing or single AC room), within a secure eco-township.",
+                               "ar":  "اقتصادية جداً: تتراوح بين 350 إلى 700 رينجيت شهرياً حسب نوع الغرفة (مشتركة أو فردية مكيفة)، داخل حرم بيئي مسور وآمن.",
+                               "ko":  "월 RM 350~700 선으로 매우 경제적이며, 에어컨 완비 1인실 또는 2인실 선택 가능 및 안전한 에코 캠퍼스 환경 제공.",
+                               "ja":  "月額RM 350〜700と手頃で、相部屋またはエアコン付き個室を選べ、湖を望む静かで安全な環境です。",
+                               "zh":  "十分亲民：根据户型（双人间或独立空调单间），月租仅需350至700马币，坐享湖光山色与全天候安保。",
+                               "ru":  "Очень доступно: от 350 до 700 ринггитов в месяц (2-местные или 1-местные с кондиционером) на охраняемой эко-территории.",
+                               "fr":  "Très abordable : entre 350 et 700 RM par mois selon le type de chambre, dans un campus écologique sécurisé.",
+                               "es":  "Muy accesible: entre 350 y 700 RM al mes según la habitación, en un campus ecológico protegido."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa syarat skor IELTS untuk mendaftar program sarjana di MIU?",
+                               "en":  "What are the required IELTS English language scores for admission to MIU?",
+                               "ar":  "ما هي متطلبات درجة آيلتس (IELTS) للقبول في جامعة مانيبال الدولية MIU؟",
+                               "ko":  "MIU 입학을 위한 IELTS 성적 요건은 무엇인가요?",
+                               "ja":  "MIU出願に必要なIELTS英語スコア要件は？",
+                               "zh":  "国际学生申请入读MIU本科学士学位课程需要具备多少雅思（IELTS）成绩？",
+                               "ru":  "Каковы требования по IELTS для поступления в MIU?",
+                               "fr":  "Quelles sont les exigences linguistiques d\u0027IELTS à MIU ?",
+                               "es":  "¿Cuáles son los requisitos de nivel de inglés (IELTS) en MIU?"
+                           },
+                     "a":  {
+                               "id":  "Sebagian besar program sarjana memerlukan skor IELTS minimal 5.0 hingga 5.5, dengan tes penempatan bahasa internal tersedia bagi pelamar tanpa skor resmi.",
+                               "en":  "Most degree programmes require an IELTS score of 5.0 to 5.5, with on-campus English placement tests available for students without external scores.",
+                               "ar":  "تتطلب معظم البرامج درجة IELTS بين 5.0 إلى 5.5، ويتوفر اختبار تحديد مستوى لغوي في الحرم الجامعي لمن لا يملك شهادة دولية.",
+                               "ko":  "대부분의 전공은 IELTS 5.0~5.5를 요구하며, 공인 성적이 없는 경우 대학 자체 영어 레벨 테스트를 통한 조건부 입학이 가능합니다.",
+                               "ja":  "大部分のプログラムでIELTS 5.0〜5.5が必要ですが、学内プレースメントテストによる進学も可能です。",
+                               "zh":  "绝大多数本科学位要求雅思5.0至5.5分；未参加雅思考试的学生亦可直接参加校内英语测试直读语言班衔接。",
+                               "ru":  "Для большинства программ требуется IELTS 5.0–5.5; доступно внутреннее тестирование.",
+                               "fr":  "La plupart des cursus demandent un IELTS de 5.0 à 5.5 ; un test d\u0027anglais interne est également proposé.",
+                               "es":  "La mayoría de programas exigen entre 5.0 y 5.5 de IELTS; se ofrece prueba de nivel interna."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Kapan saja periode intake pendaftaran mahasiswa baru di MIU?",
+                               "en":  "When are the primary intake months open at MIU?",
+                               "ar":  "ما هي أشهر وفصول استقبال وتسجيل الطلاب الجدد في جامعة MIU؟",
+                               "ko":  "MIU의 신입생 모집 시기는 몇 월인가요?",
+                               "ja":  "MIUの主な入学時期（インテイク）はいつですか？",
+                               "zh":  "MIU大学面向全球招收新生的正规开学批次都在哪些月份？",
+                               "ru":  "В какие месяцы проходит основной набор в MIU?",
+                               "fr":  "Quelles sont les périodes de rentrée à MIU ?",
+                               "es":  "¿Cuáles son las convocatorias de nuevo ingreso en MIU?"
+                           },
+                     "a":  {
+                               "id":  "Intake utama untuk program sarjana dibuka pada bulan Maret, Juli, dan Oktober setiap tahun.",
+                               "en":  "Primary intakes occur in March, July, and October each academic year.",
+                               "ar":  "تبدأ الفصول الدراسية الرئيسية للبكالوريوس في أشهر مارس ويوليو وأكتوبر من كل عام.",
+                               "ko":  "학사 학위 과정의 주요 입학 시기는 매년 3월, 7월, 10월에 열립니다.",
+                               "ja":  "学士課程の主要な入学期は毎年3月、7月、10月です。",
+                               "zh":  "本科正规学士学位课程主要的招生开学季为每年3月、7月以及10月。",
+                               "ru":  "Основные наборы студентов проходят в марте, июле и октябре каждого учебного года.",
+                               "fr":  "Les rentrées principales se déroulent en mars, juillet et octobre.",
+                               "es":  "Las admisiones principales tienen lugar en marzo, julio y octubre."
+                           }
+                 }
+             ],
+    "articlesTab":  [
+                        {
+                            "readTime":  "5 min",
+                            "title":  {
+                                          "id":  "Keunggulan Global Manipal: Jaringan Multinasional 70 Tahun di Bidang Rekayasa \u0026 Sains",
+                                          "en":  "The Manipal Global Edge: A 70-Year Legacy in Engineering and Science",
+                                          "ar":  "ميزة مانيبال العالمية: إرث أكاديمي يمتد لأكثر من 70 عاماً في الهندسة والعلوم",
+                                          "ko":  "매니팔 글로벌의 힘: 공학 및 자연과학 분야 70년 명문 역사의 시너지",
+                                          "ja":  "マニパル・グローバルの真価：工学＆科学分野における70年の名門レガシー",
+                                          "zh":  "深度解析马尼帕尔全球教育集团：横跨70载的现代工程科学教育底蕴与跨国资源网络",
+                                          "ru":  "Глобальное преимущество Manipal: 70-летнее наследие в инженерии и науке",
+                                          "fr":  "L\u0027atout mondial de Manipal : 70 ans d\u0027excellence en ingénierie et en sciences",
+                                          "es":  "La ventaja global de Manipal: un legado de 70 años en ingeniería y ciencias"
+                                      },
+                            "summary":  {
+                                            "id":  "Eksplorasi reputasi internasional Manipal, kurikulum rekayasa BEM terakreditasi Washington Accord, dan jaringan alumni 400.000.",
+                                            "en":  "Explore Manipal’s international stature, Washington Accord engineering mobility, and global network of 400,000 alumni.",
+                                            "ar":  "استكشف مكانة مانيبال الدولية، والاعتماد الهندسي باتفاقية واشنطن، وشبكة الخريجين التي تضم 400,000 خريج حول العالم.",
+                                            "ko":  "매니팔의 세계적 명성, 워싱턴 어코드 공학 인증의 글로벌 위상 및 40만 동문 네트워크 분석.",
+                                            "ja":  "マニパルの国際的評価、ワシントン協定認定の通用性、40万人規模の同窓生ネットワークを徹底解剖。",
+                                            "zh":  "全面剖析马尼帕尔国际办学体量、华盛顿协议工科全球互通执业资质及全球40万菁英校友圈的赋能价值。",
+                                            "ru":  "Обзор престижа Manipal, аккредитации Вашингтонского соглашения и сети из 400 000 выпускников.",
+                                            "fr":  "Présentation de la réputation de Manipal, de la mobilité de l\u0027Accord de Washington et du réseau de 400 000 diplômés.",
+                                            "es":  "Descubre el prestigio internacional de Manipal, la movilidad del Acuerdo de Washington y la red de 400.000 antiguos alumnos."
+                                        }
+                        },
+                        {
+                            "readTime":  "4 min",
+                            "title":  {
+                                          "id":  "Kuliah di Kampus Hijau Resor Platinum 142 Hektar: Sehat, Tenang \u0026 Efisien",
+                                          "en":  "Studying on a 142-Acre Platinum Eco-Campus: Healthy, Peaceful \u0026 Smart",
+                                          "ar":  "الدراسة في حرم جامعي أخضر بمساحة 142 فداناً حائز على تصنيف بلاتيني: بيئة صحية ومصاريف معتدلة",
+                                          "ko":  "142에이커 플래티넘 에코 캠퍼스 유학 라이프: 호수 뷰와 건강하고 스마트한 학습 환경",
+                                          "ja":  "142エーカーのプラチナ・エコキャンパスでの生活：湖畔の景観とスマートな学習環境",
+                                          "zh":  "漫步142英亩白金级湖畔绿色生态校园：健康纯净的求学环境与极具竞争力的生活预算",
+                                          "ru":  "Учеба на платиновом эко-кампусе площадью 142 акра: экология, спокойствие и комфорт",
+                                          "fr":  "Étudier sur un campus écologique Platinum de 142 acres : sain, paisible et économique",
+                                          "es":  "Estudiar en un campus ecológico Platinum de 142 acres: saludable, tranquilo y eficiente"
+                                      },
+                            "summary":  {
+                                            "id":  "Pemandangan danau 20 hektar, gaya hidup aktif mahasiswa, biaya hidup hemat RM 800/bulan, dan hunian modern.",
+                                            "en":  "Scenic 20-acre lakes, active student lifestyle, budget-friendly living of RM 800/month, and modern amenities.",
+                                            "ar":  "إطلالات خلابة على بحيرة 20 فداناً، ونمط حياة طلابي نشط، وتكلفة معيشية بـ 800 رينجيت شهرياً ومرافق حديثة.",
+                                            "ko":  "20에이커 호수 조망, 활기찬 캠퍼스 레저, 월 RM 800의 알뜰 생활비 및 현대식 주거 시설 소개.",
+                                            "ja":  "20エーカーの広大な湖、充実のアクティビティ、月額RM 800の低生活費、最新の学内設備。",
+                                            "zh":  "20英亩清澈人工湖景、多元社团活动、月均仅需800马币的超低开支与现代化舒适生活设施全盘速览。",
+                                            "ru":  "Виды на озеро площадью 20 акров, активный студенческий досуг, бюджет 800 ринггитов в месяц.",
+                                            "fr":  "Vue sur le lac de 20 acres, vie étudiante active, budget modéré de 800 RM par mois et confort moderne.",
+                                            "es":  "Vistas al lago de 20 acres, vida estudiantil dinámica, presupuesto de 800 RM al mes y comodidades modernas."
+                                        }
+                        },
+                        {
+                            "readTime":  "4 min",
+                            "title":  {
+                                          "id":  "Panduan Transportasi Nilai ke Bandara KLIA \u0026 Pusat Kota Kuala Lumpur",
+                                          "en":  "Commuting from Nilai to KLIA and Downtown KL: Practical Student Guide",
+                                          "ar":  "دليل المواصلات من نيلاي إلى مطار KLIA ووسط كوالالمبور: نصائح عملية للطلاب",
+                                          "ko":  "닐라이에서 KLIA 공항 및 쿠알라룸푸르 도심 통근 가이드",
+                                          "ja":  "ニライからKLIA空港＆クアラルンプール市内へのアクセスガイド",
+                                          "zh":  "从汝来无缝通达吉隆坡国际机场与吉隆坡CBD中央商务区的高效出行宝典",
+                                          "ru":  "Транспорт из Нилая в аэропорт KLIA и центр Куала-Лумпура: советы студентам",
+                                          "fr":  "Se déplacer de Nilai à KLIA et au centre de KL : guide pratique pour les étudiants",
+                                          "es":  "Desplazarse de Nilai a KLIA y al centro de KL: guía práctica para estudiantes"
+                                      },
+                            "summary":  {
+                                            "id":  "Akses cepat ke stasiun KTM Nilai, jalan tol PLUS, pusat perbelanjaan AEON Mall, dan antar-jemput kampus.",
+                                            "en":  "Swift access to Nilai KTM station, PLUS Highway, regional retail at AEON Mall, and scheduled campus shuttles.",
+                                            "ar":  "الوصول السريع إلى محطة قطار KTM وطريق PLUS السريع ومول إيون نيلاي وحافلات الحرم المنتظمة.",
+                                            "ko":  "닐라이 KTM 전철역, PLUS 고속도로, 이온몰 쇼핑몰 및 정기 셔틀버스를 활용한 도심 이동법.",
+                                            "ja":  "ニライKTM駅、PLUS高速道路、イオンモール、定期シャトルバスを活用した快適移動ルート。",
+                                            "zh":  "便捷搭乘KTM通勤列车、南北高速干线直达、永旺购物中心休闲及校区定时穿梭接送车指引。",
+                                            "ru":  "Связь через станцию KTM Nilai, трассу PLUS, поездки в ТЦ AEON и расписание университетских шаттлов.",
+                                            "fr":  "Accès rapide à la gare KTM de Nilai, l\u0027autoroute PLUS, l\u0027AEON Mall et les navettes régulières.",
+                                            "es":  "Fácil acceso a la estación de cercanías KTM de Nilai, autopista PLUS, centro comercial AEON y autobuses del campus."
+                                        }
+                        }
+                    ],
+    "summaryFeeTable":  [
+                            {
+                                "faculty":  {
+                                                "id":  "Fakultas Teknik Rekayasa (Sipil, Mesin, Elektro BEM)",
+                                                "en":  "Engineering (Civil, Mechanical, Electrical - BEM)",
+                                                "ar":  "الهندسة (المدنية والميكانيكية والكهربائية - معتمدة من BEM)",
+                                                "ko":  "공과대학 (토목, 기계, 전기전자 - BEM/워싱턴 어코드)",
+                                                "ja":  "工学部（土木・機械・電気電子 - BEM認定）",
+                                                "zh":  "工程学院（土木、机械、电气电子工程 - 获BEM认证）",
+                                                "ru":  "Инженерия (гражданская, механическая, электрическая - BEM)",
+                                                "fr":  "Ingénierie (civile, mécanique, électrique - BEM)",
+                                                "es":  "Ingeniería (Civil, Mecánica, Eléctrica - BEM)"
+                                            },
+                                "degree":  "Bachelor of Engineering (Hons)",
+                                "duration":  "4 Years",
+                                "feeUSD":  "$20,000 - $24,000 Total",
+                                "ielts":  "5.0",
+                                "level":  "Bachelor of Engineering (Hons)",
+                                "levelName":  "Bachelor of Engineering (Hons)",
+                                "avgFee":  "$20,000 - $24,000 Total",
+                                "avgFeePerYear":  "$20,000 - $24,000 Total"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Bioteknologi Terapan \u0026 Sains Molekuler",
+                                                "en":  "Biotechnology \u0026 Molecular Sciences",
+                                                "ar":  "التقنية الحيوية التطبيقية والعلوم الجزيئية",
+                                                "ko":  "응용 생명공학 및 분자과학부",
+                                                "ja":  "応用バイオテクノロジー＆分子科学部",
+                                                "zh":  "应用生物技术与分子生命科学学院",
+                                                "ru":  "Прикладная биотехнология и молекулярные науки",
+                                                "fr":  "Biotechnologie appliquée et sciences moléculaires",
+                                                "es":  "Biotecnología Aplicada y Ciencias Moleculares"
+                                            },
+                                "degree":  "Bachelor of Science (Hons)",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$14,500 - $17,500 Total",
+                                "ielts":  "5.0",
+                                "level":  "Bachelor of Science (Hons)",
+                                "levelName":  "Bachelor of Science (Hons)",
+                                "avgFee":  "$14,500 - $17,500 Total",
+                                "avgFeePerYear":  "$14,500 - $17,500 Total"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Ilmu Komputer, Rekayasa Perangkat Lunak \u0026 AI",
+                                                "en":  "Computer Science \u0026 Software Engineering",
+                                                "ar":  "علوم الحاسوب وهندسة البرمجيات والذكاء الاصطناعي",
+                                                "ko":  "컴퓨터 과학 및 소프트웨어 공학부",
+                                                "ja":  "コンピュータサイエンス＆ソフトウェア工学部",
+                                                "zh":  "计算机科学与软件工程学院",
+                                                "ru":  "Компьютерные науки и инженерия ПО",
+                                                "fr":  "Informatique et génie logiciel",
+                                                "es":  "Ciencias de la Computación y Software"
+                                            },
+                                "degree":  "Bachelor of Computer Science (Hons)",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$13,500 - $16,500 Total",
+                                "ielts":  "5.0",
+                                "level":  "Bachelor of Computer Science (Hons)",
+                                "levelName":  "Bachelor of Computer Science (Hons)",
+                                "avgFee":  "$13,500 - $16,500 Total",
+                                "avgFeePerYear":  "$13,500 - $16,500 Total"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Administrasi Bisnis, Akuntansi \u0026 Manajemen",
+                                                "en":  "Business Administration \u0026 Accounting",
+                                                "ar":  "إدارة الأعمال والمحاسبة والإدارة المالية",
+                                                "ko":  "경영학, 회계학 및 경영관리",
+                                                "ja":  "経営学・会計学＆マネジメント学部",
+                                                "zh":  "工商管理、注册会计与商业管理学院",
+                                                "ru":  "Бизнес-администрирование и бухгалтерский учет",
+                                                "fr":  "Administration des affaires et comptabilité",
+                                                "es":  "Administración de Empresas y Contabilidad"
+                                            },
+                                "degree":  "Bachelor of Business Administration",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$12,500 - $15,000 Total",
+                                "ielts":  "5.0",
+                                "level":  "Bachelor of Business Administration",
+                                "levelName":  "Bachelor of Business Administration",
+                                "avgFee":  "$12,500 - $15,000 Total",
+                                "avgFeePerYear":  "$12,500 - $15,000 Total"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Foundation in Science / Business (Persiapan Sarjana MIU)",
+                                                "en":  "Foundation in Science / Business",
+                                                "ar":  "السنة التمهيدية في العلوم أو الأعمال (مسار جامعة مانيبال)",
+                                                "ko":  "이과 / 문과 대학 진학 파운데이션 예비과정",
+                                                "ja":  "理系・文系大学進学準備ファウンデーション",
+                                                "zh":  "理科/商科大学基础预科文凭课程",
+                                                "ru":  "Подготовительный курс (Foundation) по наукам/бизнесу",
+                                                "fr":  "Année préparatoire en sciences ou commerce",
+                                                "es":  "Fundamentos en Ciencias o Empresa"
+                                            },
+                                "degree":  "Pre-University / Foundation",
+                                "duration":  "1 Year",
+                                "feeUSD":  "$3,600 - $4,200 Total",
+                                "ielts":  "4.5",
+                                "level":  "Pre-University / Foundation",
+                                "levelName":  "Pre-University / Foundation",
+                                "avgFee":  "$3,600 - $4,200 Total",
+                                "avgFeePerYear":  "$3,600 - $4,200 Total"
+                            }
+                        ],
+    "directWatchUrl":  null
+}

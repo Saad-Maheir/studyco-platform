@@ -1,0 +1,3331 @@
+{
+  "id": "city",
+  "slug": "city-university-malaysia",
+  "name": "City University Malaysia",
+  "arabicName": "جامعة سيتي ماليزيا (City University)",
+  "city": "Petaling Jaya, Selangor",
+  "cityKey": "city_kuala_lumpur",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-city.webp",
+  "image": "assets/photo/campus_city.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/4cVOLFYPcmU",
+  "website": "https://www.city.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "Tier 5 Excellent SETARA Rating (Ministry of Higher Education)",
+  "rankingBadgeKey": "city_rank_badge",
+  "established": "1984",
+  "campusName": "Petaling Jaya Urban Central Campus",
+  "studentCount": "7,500+ (50+ Countries)",
+  "intakes": "Jan, Mar, May, Jul, Sep, Nov",
+  "feeRangeMin": 7100,
+  "feeRangeMax": 40000,
+  "currency": "MYR",
+  "majors": [
+    "business",
+    "cs",
+    "health",
+    "arts",
+    "design",
+    "education"
+  ],
+  "similarUniversities": [
+    "mahsa",
+    "cyberjaya",
+    "apu"
+  ],
+  "totalProgramsCount": 83,
+  "description": "City University Malaysia is a reputable institution with over 40 years of academic excellence, rated Tier-5 Excellent (SETARA), located right in Petaling Jaya next to the Asia Jaya LRT station, offering highly affordable tuition fees.",
+  "descriptionAr": "تُعد جامعة سيتي ماليزيا واحدة من أعرق الجامعات الخاصة بخبرة تزيد عن 40 عاماً والمصنفة ضمن فئة ممتاز (SETARA) من وزارة التعليم العالي. تقع في قلب بيتالينغ جايا بجوار محطة قطار Asia Jaya، وتتميز برسومها الدراسية الموفرة للغاية.",
+  "about": {
+    "id": "City University Malaysia didirikan pada tahun 1984 di Petaling Jaya, Selangor. Diakui dengan peringkat berdaya saing tinggi oleh Kementerian Pendidikan Tinggi, City University unggul dalam bidang Desain Grafis, Bisnis, Perhotelan, Arsitektur, dan Teknologi Informasi.",
+    "en": "City University Malaysia, established in 1984 in Petaling Jaya, Selangor, is celebrated for professional programmes across Creative Design, Business Administration, Hospitality, Architecture, and Information Technology with vibrant urban campus connectivity.",
+    "ar": "تأسست جامعة سيتي الماليزية (City University) عام 1984 في بيتالينغ جايا بسيلانغور، وتشتهر ببرامجها في التصميم الإبداعي وإدارة الأعمال، والضيافة، والعمارة، وتكنولوجيا المعلومات بأسعار ميسرة وموقع استراتيجي.",
+    "zh": "马来西亚城市大学（City University Malaysia）始建于1984年，坐落于雪兰莪州八打灵再也市中心，以创意设计、工商管理、酒店旅游、建筑与信息技术享誉全马，享有优越的轻轨交通网络。",
+    "ru": "Городской университет Малайзии (City University) в Петалинг-Джая предлагает востребованные программы по дизайну, бизнесу, гостеприимству и архитектуре.",
+    "fr": "La City University Malaysia, fondée en 1984 à Petaling Jaya, est reconnue pour ses cursus en design, gestion, hôtellerie et architecture au cœur de la métropole.",
+    "es": "City University Malaysia, fundada en 1984 en Petaling Jaya, destaca en Diseño Creativo, Administración de Empresas, Hostelería y Arquitectura en un entorno urbano inmejorable.",
+    "ja": "シティ大学マレーシアは1984年にペタリンジャヤに設立され、クリエイティブデザイン、経営管理、ホスピタリティ、建築、IT分野で実践的な教育を提供しています。",
+    "ko": "시티 대학교(City University Malaysia)는 1984년 페탈링자야에 설립된 도심형 명문 사립대학으로 디자인, 경영, 호텔경영, 건축학 분야에서 실무 중심 교육을 펼치고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Studio Produksi Penyiaran & Media Desain Digital",
+        "en": "Broadcasting & Digital Media Production Studios",
+        "ar": "استوديوهات الإنتاج الإعلامي الرقمي والتصميم والبث التلفزيوني",
+        "ko": "디지털 미디어 방송 제작 및 디자인 종합 스튜디오",
+        "ja": "デジタルメディア放送制作・デザイン総合スタジオ",
+        "zh": "数字媒体广播影视制作与创意设计专业实训演播厅",
+        "ru": "Студии вещания и производства цифровых медиа",
+        "fr": "Studios de production audiovisuelle et de médias numériques",
+        "es": "Estudios de Producción Audiovisual y Medios Digitales"
+      }
+    },
+    {
+      "icon": "🩺",
+      "title": {
+        "id": "Bangsal Simulasi Keperawatan & Sains Kesehatan",
+        "en": "Allied Health Sciences & Clinical Nursing Simulation Wards",
+        "ar": "أجنحة التدريب السريري التمريضي ومختبرات العلوم الصحية",
+        "ko": "임상 간호 시뮬레이션 병동 및 보건과학 실습 센터",
+        "ja": "臨床看護シミュレーション病棟および健康科学実習室",
+        "zh": "临床护理全真模拟病房与综合健康科学实训基地",
+        "ru": "Клинические симуляционные палаты для сестринского дела",
+        "fr": "Salles de simulation clinique et sciences de la santé",
+        "es": "Salas de Simulación Clínica y Ciencias de la Salud"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Ruang Sidang Simulasi Peradilan Semu (Moot Court)",
+        "en": "Moot Court Law Practice Chamber",
+        "ar": "قاعة المحكمة الصورية للتدريب العملي لطلاب القانون",
+        "ko": "실전 모의법정(Moot Court) 법학 실무 훈련실",
+        "ja": "実践型模擬法廷（ムートコート）法学演習室",
+        "zh": "标准模拟法庭(Moot Court)法学实训演练厅",
+        "ru": "Зал судебных заседаний для учебных процессов (Moot Court)",
+        "fr": "Chambre de simulation de procès pour étudiants en droit (Moot Court)",
+        "es": "Sala de Juicios Simulados (Moot Court) para Estudiantes de Derecho"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Komputer Kinerja Tinggi & Analitika Bisnis",
+        "en": "High-Performance Computing & Business Analytics Labs",
+        "ar": "مختبرات الحوسبة المتقدمة وتحليل بيانات الأعمال والذكاء التجاري",
+        "ko": "고성능 컴퓨팅 및 비즈니스 데이터 애널리틱스 랩",
+        "ja": "高性能コンピューティングおよびビジネスデータ分析ラボ",
+        "zh": "高性能计算机网络与商业大数据智能分析实验室",
+        "ru": "Лаборатории высокопроизводительных вычислений и бизнес-аналитики",
+        "fr": "Laboratoires de calcul haute performance et d'analyse commerciale",
+        "es": "Laboratorios de Computación de Alto Rendimiento y Analítica de Negocios"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "40+ Tahun Rekam Jejak Unggul (Berdiri Sejak 1984)",
+        "en": "40+ Years of Proven Academic Track Record (Est. 1984)",
+        "ar": "أكثر من 40 عاماً من العراقة والتميز الأكاديمي (تأسست عام 1984)",
+        "ko": "40년 이상의 전통과 역사를 자랑하는 명문 고등교육기관 (1984년 설립)",
+        "ja": "40年以上の伝統と実績を誇る総合高等教育機関（1984年創立）",
+        "zh": "拥有40余年深厚办学历史与卓越学术积淀（始建于1984年）",
+        "ru": "Более 40 лет академических традиций и признанного опыта (основан в 1984 г.)",
+        "fr": "Plus de 40 ans d'histoire et d'excellence académique (fondée en 1984)",
+        "es": "Más de 40 años de trayectoria y excelencia académica (fundada en 1984)"
+      },
+      "desc": {
+        "id": "Telah meluluskan lebih dari 35.000 alumni profesional yang bekerja di berbagai sektor industri di Asia dan dunia.",
+        "en": "Produced over 35,000 successful alumni working across major industries globally.",
+        "ar": "خرّجت الجامعة أكثر من 35 ألف مهني ومختص يعملون في كبرى الشركات والمؤسسات حول العالم.",
+        "ko": "글로벌 산업계 전역에서 활약하는 35,000명 이상의 성공적인 동문 배출.",
+        "ja": "世界各国の主要産業界で活躍する35,000人以上の優秀な卒業生を輩出。",
+        "zh": "累计培育超过35,000名全球杰出校友，广泛活跃于全球各领域跨国知名企业。",
+        "ru": "Более 35 000 выпускников успешно строят карьеру в международных компаниях.",
+        "fr": "Plus de 35 000 diplômés actifs dans de nombreux secteurs professionnels à travers le monde.",
+        "es": "Más de 35,000 egresados desempeñándose en empresas de primer nivel mundial."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Biaya Kuliah Paling Terjangkau & Opsi Cicilan Fleksibel",
+        "en": "Highly Economical Tuition Fees with Flexible Payment Plans",
+        "ar": "رسوم دراسية موفرة للغاية مع خطط سداد ميسرة ومرنة",
+        "ko": "최고의 가성비를 자랑하는 합리적 학비 및 유연한 분납 제도",
+        "ja": "高いコストパフォーマンスを誇る学費設定と柔軟な分割納入制度",
+        "zh": "极具竞争力的超高性价比学费标准与灵活的人性化分期缴费政策",
+        "ru": "Очень доступная стоимость обучения и гибкие графики оплаты",
+        "fr": "Frais de scolarité très avantageux avec facilités de paiement échelonné",
+        "es": "Matrículas muy accesibles con opciones flexibles de pago en cuotas"
+      },
+      "desc": {
+        "id": "Pilihan ideal bagi pelajar yang menginginkan gelar terakreditasi internasional dengan efisiensi biaya maksimal.",
+        "en": "The ideal option for students seeking internationally accredited qualifications at maximum cost efficiency.",
+        "ar": "الخيار المثالي للطلاب الراغبين في نيل شهادة معتمدة دولياً بأقصى قدر من التوفير الاقتصادي.",
+        "ko": "최소한의 유학 비용으로 국제 공인 학위를 취득하고자 하는 유학생들에게 최적의 선택.",
+        "ja": "費用対効果を重視しながら国際的に認められた正規学位を取得したい学生に最適。",
+        "zh": "希望以超高经济效益获得国际认可正规大学学历的国际学子的理想之选。",
+        "ru": "Идеальный выбор для тех, кто ищет международный диплом при разумных затратах.",
+        "fr": "Option parfaite pour obtenir un diplôme reconnu au niveau mondial à coût maîtrisé.",
+        "es": "La mejor opción para obtener un título reconocido internacionalmente a un costo accesible."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Lokasi Strategis di Sebelah Stasiun LRT Asia Jaya",
+        "en": "Prime Urban Location Next to Asia Jaya LRT Station",
+        "ar": "موقع استراتيجي حيوي ملاصق لمحطة قطار Asia Jaya LRT",
+        "ko": "아시아 자야(Asia Jaya) LRT 전철역 도보 1분 초역세권 캠퍼스",
+        "ja": "アジア・ジャヤ（Asia Jaya）LRT駅から徒歩すぐの好立地都市型キャンパス",
+        "zh": "坐拥吉隆坡大都会核心黄金区位，毗邻Asia Jaya轻快铁轻轨站",
+        "ru": "Удобное расположение рядом со станцией надземного метро Asia Jaya LRT",
+        "fr": "Emplacement urbain idéal à quelques pas de la station de métro LRT Asia Jaya",
+        "es": "Ubicación privilegiada junto a la estación de metro Asia Jaya LRT"
+      },
+      "desc": {
+        "id": "Hanya butuh 15 menit menggunakan kereta langsung ke pusat kota Kuala Lumpur (KLCC & KL Sentral).",
+        "en": "Only 15 minutes direct train ride into downtown Kuala Lumpur (KLCC and KL Sentral).",
+        "ar": "15 دقيقة فقط بالقطار المباشر للوصول إلى وسط العاصمة كوالالمبور ومحطة KL Sentral وبرجي بتروناس.",
+        "ko": "쿠알라룸푸르 도심(KLCC 및 KL Sentral)까지 전철로 직통 15분 거리.",
+        "ja": "クアラルンプール中心部（KLCCやKLセントラル）まで直通電車でわずか15分。",
+        "zh": "搭乘轻快铁仅需15分钟即可直达吉隆坡中央车站(KL Sentral)与双子塔市中心(KLCC)。",
+        "ru": "Всего 15 минут на прямом поезде до центра Куала-Лумпура (KLCC и KL Sentral).",
+        "fr": "Seulement 15 minutes en train direct pour rejoindre le centre-ville de Kuala Lumpur.",
+        "es": "A solo 15 minutos en tren directo del centro de Kuala Lumpur (KLCC y KL Sentral)."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Akreditasi Penuh MQA & Peringkat SETARA Tier 5",
+        "en": "Full MQA Accreditation & MOHE Tier-5 SETARA Excellent",
+        "ar": "اعتماد رسمي كامل من MQA وتصنيف ممتاز فئة 5 نجوم (SETARA)",
+        "ko": "말레이시아 고등교육부 MQA 전 학과 완전 공인 및 SETARA Tier 5 우수 등급",
+        "ja": "マレーシア高等教育省MQA完全認可＆SETARA Tier 5優秀評価",
+        "zh": "马来西亚教育部学术鉴定局(MQA)全面认证及SETARA第五等级优秀评级",
+        "ru": "Полная государственная аккредитация MQA и рейтинг SETARA Tier-5",
+        "fr": "Accréditation complète par la MQA et évaluation Tier-5 d'excellence SETARA",
+        "es": "Acreditación completa de la MQA y calificación Tier-5 de excelencia SETARA"
+      },
+      "desc": {
+        "id": "Ijazah diakui oleh pemerintah dan kementerian pendidikan di seluruh dunia untuk studi lanjut dan karier global.",
+        "en": "Degrees are globally accepted by governments and universities worldwide for employment and post-graduate pathways.",
+        "ar": "شهادات معترف بها من وزارات التعليم والجهات الحكومية عالمياً لمواصلة الدراسات العليا والعمل المهني.",
+        "ko": "세계 각국 교육부 및 정부 기관에서 공인되어 해외 취업 및 대학원 진학 완벽 보장.",
+        "ja": "世界各国の教育省や公的機関から認められており、海外大学院への進学や就職も安心。",
+        "zh": "文凭获得中国教育部留学服务中心及全球各国官方认证，升学与就业畅通无阻。",
+        "ru": "Дипломы признаются министерствами образования по всему миру для работы и магистратуры.",
+        "fr": "Titres officiellement reconnus dans le monde entier pour les études supérieures et l'emploi.",
+        "es": "Títulos reconocidos internacionalmente para inserción laboral y estudios de posgrado."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from City University Malaysia internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة سيتي ماليزيا (City University) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari City University Malaysia diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, City University Malaysia is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة سيتي ماليزيا (City University) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, City University Malaysia terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to City University Malaysia?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة سيتي ماليزيا (City University)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke City University Malaysia?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from City University Malaysia?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة سيتي ماليزيا (City University)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke City University Malaysia?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to City University Malaysia without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Panduan Kuliah Hemat di Kuala Lumpur Bersama City University Malaysia",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for City University Malaysia",
+        "ar": "دليل الدراسة الموفرة في كوالالمبور مع جامعة سيتي ماليزيا",
+        "zh": "City University Malaysia 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в City University Malaysia",
+        "fr": "Guide complet d'admission et visa étudiant pour City University Malaysia",
+        "es": "Guía completa de admisión y visado de estudiante para City University Malaysia",
+        "ja": "City University Malaysia 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "City University Malaysia 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Rincian biaya kuliah terjangkau, rincian biaya hidup bulanan, dan keuntungan lokasi dekat stasiun LRT.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "تفاصيل الرسوم الدراسية الاقتصادية، معدل المصروفات الشهرية، ومميزات السكن بجوار شبكة المترو.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Syarat Pendaftaran & Langkah Pengurusan Visa Pelajar di City University",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around City University Malaysia",
+        "ar": "شروط التسجيل وخطوات استخراج تأشيرة الطالب في جامعة سيتي",
+        "zh": "City University Malaysia 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле City University Malaysia",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de City University Malaysia",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en City University Malaysia",
+        "ja": "City University Malaysia 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "City University Malaysia 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Persyaratan berkas akademik, sertifikat bahasa Inggris, dan alur terbit Surat Penawaran Resmi.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "الأوراق المطلوبة للتقديم، متطلبات اللغة الإنجليزية، وخطوات صدور خطاب القبول الرسمي.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Daftar Jurusan Unggulan S1 & S2 Berakreditasi Penuh di City University",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at City University Malaysia",
+        "ar": "قائمة التخصصات المعتمدة لمرحلتي البكالوريوس والماجستير في جامعة سيتي",
+        "zh": "City University Malaysia 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в City University Malaysia",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à City University Malaysia",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en City University Malaysia",
+        "ja": "City University Malaysia 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "City University Malaysia 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Pilihan spesialisasi di bidang bisnis, teknologi informasi, multimedia kreatif, dan ilmu kesehatan.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "خيارات الدراسة في مجالات إدارة الأعمال، تكنولوجيا المعلومات، التصميم الإبداعي، والتمريض.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "City U Student Hostel & Apartments",
+        "nameAr": "السكن الطلابي المعتمد لجامعة سيتي",
+        "type": "Standard & Ensuite Shared Units",
+        "typeAr": "غرف فردية ومشتركة مجهزة ببيئة طلابية مريحة",
+        "priceRange": "RM 450 - RM 850 / month",
+        "priceRangeAr": "450 - 850 رينجيت / شهرياً",
+        "distance": "5 menit jalan kaki ke kampus",
+        "amenities": [
+          "Dekat Kampus & Akses LRT Asia Jaya",
+          "Koneksi Wi-Fi Berkecepatan Tinggi",
+          "Layanan Keamanan 24 Jam",
+          "Kafetaria & Minimarket Terdekat",
+          "Fasilitas Mesin Cuci Mandiri"
+        ],
+        "amenitiesAr": [
+          "قريب من الحرم ومحطة مترو Asia Jaya",
+          "إنترنت سريع",
+          "خدمات حراسة وأمن 24 ساعة",
+          "مطاعم وسوبرماركت في محيط السكن",
+          "غسالات ملابس ذاتية"
+        ],
+        "distanceAr": "5 دقائق سيراً على الأقدام إلى الحرم الجامعي",
+        "distanceEn": "5-minute walk to campus"
+      },
+      {
+        "name": "Menara PJ & Petaling Condominiums",
+        "nameAr": "أبراج مينارا بيتالينغ جايا السكنية",
+        "type": "Private Condominium with Facilities",
+        "typeAr": "شقق سكنية حديثة متكاملة الخدمات الترفيهية",
+        "priceRange": "RM 600 - RM 1,200 / month",
+        "priceRangeAr": "600 - 1,200 رينجيت / شهرياً",
+        "distance": "4 menit jalan kaki dari kampus",
+        "amenities": [
+          "Kolam Renang & Pusat Kebugaran Gym",
+          "Perabotan Lengkap & Dapur Modern",
+          "Akses Mudah ke Pusat Kuliner Petaling Jaya",
+          "Keamanan Kartu Akses 24/7",
+          "Area Bersantai Mahasiswa"
+        ],
+        "amenitiesAr": [
+          "مسبح وصالة لياقة بدنية",
+          "مفروشة بالكامل ومطبخ متكامل",
+          "قريبة من مجمعات المطاعم والخدمات",
+          "بطاقات دخول ذكية وأمن 24/7",
+          "صالات استراحة للطلاب"
+        ],
+        "distanceAr": "4 دقائق سيراً على الأقدام من الحرم الجامعي",
+        "distanceEn": "4-minute walk from campus"
+      },
+      {
+        "name": "Pinnacle PJ Luxury Suites",
+        "nameAr": "أجنحة بيناكل بيتالينغ جايا الفندقية الفاخرة",
+        "type": "High-Rise Luxury Studio & Suites",
+        "typeAr": "استوديوهات وأجنحة فندقية شاهقة راقية",
+        "priceRange": "RM 850 - RM 1,600 / month",
+        "priceRangeAr": "850 - 1,600 رينجيت / شهرياً",
+        "distance": "6 menit jalan kaki (Terhubung Mall & Restoran)",
+        "amenities": [
+          "Gaya Hidup Mewah & Pemandangan Kota",
+          "Sky Pool & Gym Lantai Atas",
+          "Terhubung Langsung ke Kafe & Restoran",
+          "Keamanan Super Ketat 24 Jam",
+          "Sangat Dekat Stasiun LRT"
+        ],
+        "amenitiesAr": [
+          "إطلالة بانورامية رائعة على المدينة",
+          "مسبح معلق ونادي لياقة بالأعلى",
+          "ملاصقة لمقاهي ومطاعم فخمة",
+          "حراسة مشددة على مدار الساعة",
+          "خطوات من محطة المترو السريع"
+        ],
+        "distanceAr": "6 دقائق مشياً (متصل بالمول التجاري والمطاعم)",
+        "distanceEn": "6-minute walk (Direct mall & dining link)"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 450 - RM 1,000",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 500 - RM 800",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi & Tiket LRT",
+        "itemAr": "المواصلات ومترو LRT",
+        "cost": "RM 60 - RM 120",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "الكهرباء والمياه والإنترنت",
+        "cost": "RM 70 - RM 130",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والترفيه",
+        "cost": "RM 150 - RM 300",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,230 - RM 2,350",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في الآداب والعلوم",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 14,000 - RM 16,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم المهني (تمريض، تصميم، أعمال)",
+      "duration": "2.5 Years",
+      "avgFeePerYear": "RM 13,000 - RM 16,000"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس (إدارة، حوسبة، تمريض، ضيافة)",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 18,000 - RM 24,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في إدارة الأعمال والتربية وتقنية المعلومات",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 20,000 - RM 25,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في إدارة الأعمال والعلوم التربوية",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 19,000 - RM 23,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=4cVOLFYPcmU",
+  "programs": [
+    {
+      "id": "city-bachelor-of-computer-science-software-engineering",
+      "universityId": "city",
+      "name": "Bachelor of Computer Science (Software Engineering)",
+      "nameAr": "بكالوريوس علوم الحاسب في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-information-technology-hons",
+      "universityId": "city",
+      "name": "Bachelor of Information Technology (Hons)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-information-technology",
+      "universityId": "city",
+      "name": "Foundation in Information Technology",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-information-technology",
+      "universityId": "city",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-information-technology",
+      "universityId": "city",
+      "name": "Master of Information Technology",
+      "nameAr": "ماجستير تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 16800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16800
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-in-information-technology",
+      "universityId": "city",
+      "name": "Doctor of Philosophy in Information Technology",
+      "nameAr": "دكتوراه الفلسفة (PhD) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-computer-science-artificial-intelligence-honours",
+      "universityId": "city",
+      "name": "Bachelor of Computer Science (Artificial Intelligence) (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-computer-science-cyber-security-with-honours",
+      "universityId": "city",
+      "name": "Bachelor of Computer Science (Cyber Security) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-artificial-intelligence",
+      "universityId": "city",
+      "name": "Master of Artificial Intelligence",
+      "nameAr": "ماجستير في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 40000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-cyber-security",
+      "universityId": "city",
+      "name": "Master of Cyber Security",
+      "nameAr": "ماجستير في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 40000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-business-administration-hons",
+      "universityId": "city",
+      "name": "Bachelor of Business Administration (Hons)",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-accounting-hons",
+      "universityId": "city",
+      "name": "Bachelor of Accounting (Hons)",
+      "nameAr": "بكالوريوس المحاسبة (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.6,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-science-accounting-finance",
+      "universityId": "city",
+      "name": "Bachelor of Science (Accounting & Finance)",
+      "nameAr": "بكالوريوس العلوم في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-business-administration-hons-online-degree",
+      "universityId": "city",
+      "name": "Bachelor of Business Administration (Hons) - Online Degree",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 8502,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8502
+        },
+        {
+          "year": 2,
+          "fee": 8502
+        },
+        {
+          "year": 3,
+          "fee": 8502
+        }
+      ],
+      "totalTuitionFee": 25506,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-in-hospitality-management-hons",
+      "universityId": "city",
+      "name": "Bachelor in Hospitality Management (Hons)",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-business",
+      "universityId": "city",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 10500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-management",
+      "universityId": "city",
+      "name": "Diploma in Management",
+      "nameAr": "دبلوم في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-accounting",
+      "universityId": "city",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.4,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-human-resource-management",
+      "universityId": "city",
+      "name": "Diploma in Human Resource Management",
+      "nameAr": "دبلوم في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-business-management",
+      "universityId": "city",
+      "name": "Diploma in Business Management",
+      "nameAr": "دبلوم في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-office-management",
+      "universityId": "city",
+      "name": "Diploma in Office Management",
+      "nameAr": "دبلوم في Office Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-islamic-banking",
+      "universityId": "city",
+      "name": "Diploma in Islamic Banking",
+      "nameAr": "دبلوم في Islamic Banking",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-hotel-management",
+      "universityId": "city",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-architecture-project-management",
+      "universityId": "city",
+      "name": "Master of Architecture Project Management",
+      "nameAr": "ماجستير في الهندسة المعمارية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-business-administration",
+      "universityId": "city",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 16800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16800
+        }
+      ],
+      "totalTuitionFee": 16800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-science-in-business-administration-by-research",
+      "universityId": "city",
+      "name": "Master of Science in Business Administration (By Research)",
+      "nameAr": "ماجستير العلوم في Business Administration (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-business-administration-online-degree",
+      "universityId": "city",
+      "name": "Master of Business Administration - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10500
+        },
+        {
+          "year": 2,
+          "fee": 10500
+        }
+      ],
+      "totalTuitionFee": 21000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-accounting",
+      "universityId": "city",
+      "name": "Master of Accounting",
+      "nameAr": "ماجستير في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 14580,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14580
+        }
+      ],
+      "totalTuitionFee": 14580,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-business-administration",
+      "universityId": "city",
+      "name": "Doctor of Philosophy (Business Administration)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-business-administration",
+      "universityId": "city",
+      "name": "Doctor of Business Administration",
+      "nameAr": "دكتوراه في Doctor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-science-hons-architectural-design",
+      "universityId": "city",
+      "name": "Bachelor of Science (Hons) (Architectural Design)",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Architectural Design",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-interior-design-hons",
+      "universityId": "city",
+      "name": "Bachelor of Interior Design (Hons)",
+      "nameAr": "بكالوريوس في التصميم الداخلي",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-engineering-management",
+      "universityId": "city",
+      "name": "Bachelor of Engineering Management",
+      "nameAr": "بكالوريوس الهندسة في Management",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "city",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        },
+        {
+          "year": 4,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 44000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-civil-engineering-with-honours",
+      "universityId": "city",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        },
+        {
+          "year": 4,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 44000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-architectural-technology",
+      "universityId": "city",
+      "name": "Diploma in Architectural Technology",
+      "nameAr": "دبلوم في Architectural Technology",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-civil-engineering",
+      "universityId": "city",
+      "name": "Diploma in Civil Engineering",
+      "nameAr": "دبلوم في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-mechanical-engineering",
+      "universityId": "city",
+      "name": "Diploma in Mechanical Engineering",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-architecture",
+      "universityId": "city",
+      "name": "Master of Architecture",
+      "nameAr": "ماجستير في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-mechanical-engineering",
+      "universityId": "city",
+      "name": "Master of Mechanical Engineering",
+      "nameAr": "ماجستير في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 16000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-phd-in-engineering",
+      "universityId": "city",
+      "name": "Doctor of Philosophy (PhD) in Engineering",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-nursing",
+      "universityId": "city",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-environmental-health-hons",
+      "universityId": "city",
+      "name": "Bachelor of Environmental Health (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Environmental Health (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        },
+        {
+          "year": 4,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 44000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-biomedical-sciences-hons",
+      "universityId": "city",
+      "name": "Bachelor of Biomedical Sciences (Hons)",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        },
+        {
+          "year": 4,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 44000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-occupational-safety-and-health-hons",
+      "universityId": "city",
+      "name": "Bachelor of Occupational Safety and Health (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Occupational Safety and Health (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        },
+        {
+          "year": 4,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 44000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-nursing-hons",
+      "universityId": "city",
+      "name": "Bachelor of Nursing (Hons)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        },
+        {
+          "year": 4,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 44000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-applied-psychology-hons",
+      "universityId": "city",
+      "name": "Bachelor of Applied Psychology (Hons)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-occupational-safety-and-health",
+      "universityId": "city",
+      "name": "Diploma in Occupational Safety and Health",
+      "nameAr": "دبلوم في Occupational Safety and Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-medical-laboratory-technology",
+      "universityId": "city",
+      "name": "Diploma in Medical Laboratory Technology",
+      "nameAr": "دبلوم في Medical Laboratory Technology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-environmental-health",
+      "universityId": "city",
+      "name": "Diploma in Environmental Health",
+      "nameAr": "دبلوم في Environmental Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-science",
+      "universityId": "city",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-education-hons-in-teaching-english-as-a-second-language-tesl",
+      "universityId": "city",
+      "name": "Bachelor of Education (Hons) in Teaching English as a Second Language (TESL)",
+      "nameAr": "بكالوريوس في Bachelor of Education (Hons) in Teaching English as a Second Language (TESL",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-education-early-childhood-education-honours",
+      "universityId": "city",
+      "name": "Bachelor of Education (Early Childhood Education) Honours",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-arts-english",
+      "universityId": "city",
+      "name": "Foundation in Arts (English)",
+      "nameAr": "برنامج تمهيدي في الآداب في English",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 10800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10800
+        }
+      ],
+      "totalTuitionFee": 10800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-early-childhood-education",
+      "universityId": "city",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-early-childhood-education-online-degree",
+      "universityId": "city",
+      "name": "Diploma in Early Childhood Education - Online Degree",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 7100,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 7100
+        },
+        {
+          "year": 2,
+          "fee": 7100
+        },
+        {
+          "year": 3,
+          "fee": 7100
+        }
+      ],
+      "totalTuitionFee": 21300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-education",
+      "universityId": "city",
+      "name": "Master of Education",
+      "nameAr": "ماجستير في Master of Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 14000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14000
+        }
+      ],
+      "totalTuitionFee": 14000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-education",
+      "universityId": "city",
+      "name": "Doctor of Education",
+      "nameAr": "دكتوراه في Doctor of Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-in-education",
+      "universityId": "city",
+      "name": "Doctor of Philosophy in Education",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-graphic-design-hons",
+      "universityId": "city",
+      "name": "Bachelor of Graphic Design (Hons)",
+      "nameAr": "بكالوريوس في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-fashion-design-hons",
+      "universityId": "city",
+      "name": "Bachelor of Fashion Design (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Fashion Design (Hons",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-arts-built-environment",
+      "universityId": "city",
+      "name": "Foundation in Arts (Built Environment)",
+      "nameAr": "برنامج تمهيدي في الآداب في Built Environment",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 10800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10800
+        }
+      ],
+      "totalTuitionFee": 10800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-arts-graphic-design-multimedia",
+      "universityId": "city",
+      "name": "Foundation in Arts (Graphic Design & Multimedia)",
+      "nameAr": "برنامج تمهيدي في الآداب في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 10800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10800
+        }
+      ],
+      "totalTuitionFee": 10800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-arts-fashion-design",
+      "universityId": "city",
+      "name": "Foundation in Arts (Fashion Design)",
+      "nameAr": "برنامج تمهيدي في الآداب في Fashion Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 10800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10800
+        }
+      ],
+      "totalTuitionFee": 10800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-interior-design",
+      "universityId": "city",
+      "name": "Diploma in Interior Design",
+      "nameAr": "دبلوم في التصميم الداخلي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-fashion-design",
+      "universityId": "city",
+      "name": "Diploma in Fashion Design",
+      "nameAr": "دبلوم في Fashion Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-graphic-design",
+      "universityId": "city",
+      "name": "Diploma in Graphic Design",
+      "nameAr": "دبلوم في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-in-performing-arts",
+      "universityId": "city",
+      "name": "Doctor of Philosophy in Performing Arts",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Performing Arts",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-in-design",
+      "universityId": "city",
+      "name": "Doctor of Philosophy in Design",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-animation-honours",
+      "universityId": "city",
+      "name": "Bachelor of Animation (Honours)",
+      "nameAr": "بكالوريوس في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-game-design-honours",
+      "universityId": "city",
+      "name": "Bachelor of Game Design (Honours)",
+      "nameAr": "بكالوريوس في تصميم الألعاب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-communication-journalism",
+      "universityId": "city",
+      "name": "Bachelor of Communication (Journalism)",
+      "nameAr": "بكالوريوس في الصحافة",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-mass-communication-hons",
+      "universityId": "city",
+      "name": "Bachelor of Mass Communication (Hons)",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-communication-hons-in-corporate-communication",
+      "universityId": "city",
+      "name": "Bachelor of Communication (Hons) in Corporate Communication",
+      "nameAr": "بكالوريوس في Bachelor of Communication (Hons) in Corporate Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-bachelor-of-multimedia-hons",
+      "universityId": "city",
+      "name": "Bachelor of Multimedia (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Multimedia (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        },
+        {
+          "year": 2,
+          "fee": 11000
+        },
+        {
+          "year": 3,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-foundation-in-arts-communication",
+      "universityId": "city",
+      "name": "Foundation in Arts (Communication)",
+      "nameAr": "برنامج تمهيدي في الآداب في Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 10800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10800
+        }
+      ],
+      "totalTuitionFee": 10800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-corporate-communication",
+      "universityId": "city",
+      "name": "Diploma in Corporate Communication",
+      "nameAr": "دبلوم في Corporate Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-mass-communication",
+      "universityId": "city",
+      "name": "Diploma in Mass Communication",
+      "nameAr": "دبلوم في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-creative-industries-and-communication",
+      "universityId": "city",
+      "name": "Master of Creative Industries and Communication",
+      "nameAr": "ماجستير في Master of Creative Industries and Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 15000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-master-of-sport-studies-by-research",
+      "universityId": "city",
+      "name": "Master of Sport Studies (By Research)",
+      "nameAr": "ماجستير في Master of Sport Studies (بالبحث العلمي)",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "master",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-in-sport-studies",
+      "universityId": "city",
+      "name": "Doctor of Philosophy in Sport Studies",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Sport Studies",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-diploma-in-culinary-arts",
+      "universityId": "city",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "city-doctor-of-philosophy-in-built-environment",
+      "universityId": "city",
+      "name": "Doctor of Philosophy in Built Environment",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Built Environment",
+      "field": "business",
+      "category": "Other",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        },
+        {
+          "year": 2,
+          "fee": 13000
+        },
+        {
+          "year": 3,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 39000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 83
+}

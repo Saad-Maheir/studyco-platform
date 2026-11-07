@@ -1,0 +1,1830 @@
+{
+  "id": "curtin",
+  "name": "Curtin University Malaysia",
+  "arabicName": "جامعة كيرتن الأسترالية في ماليزيا",
+  "city": "Miri, Sarawak",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-curtin.webp",
+  "image": "assets/photo/campus_curtin.webp",
+  "website": "https://curtin.edu.my/",
+  "ranking": "Rank 174 QS World University Rankings 2025 (Top Australian Branch)",
+  "established": "1999",
+  "campusName": "Curtin Sarawak International Campus",
+  "studentCount": "4,000+ (50+ Countries)",
+  "intakes": "Feb, Jul",
+  "feeRangeMin": 27000,
+  "feeRangeMax": 50700,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/5dy2dOFZn5Q",
+  "description": "Curtin University Malaysia is one of the leading recognized higher education institutions located in Miri, Sarawak. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة كيرتن الأسترالية في ماليزيا واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Miri, Sarawak، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Curtin University Malaysia didirikan pada tahun 1999 di Miri, Sarawak, sebagai kampus cabang internasional global pertama dari Curtin University Perth, Australia (Rank 174 QS World). Sangat terkenal atas keunggulannya dalam bidang Teknik Perminyakan, Teknik Kimia, dan Bisnis.",
+    "en": "Curtin University Malaysia, established in 1999 in Miri, Sarawak, is the largest global international branch campus of Curtin University Perth, Australia (Rank 174 QS World), delivering world-ranked engineering, petroleum sciences, and business degrees.",
+    "ar": "تأسس فرع جامعة كيرتن الأسترالية في ماليزيا عام 1999 في ميري بساراواك، وهو أكبر حرم دولي لجامعة كيرتن بيرث (المرتبة 174 عالمياً في QS)، وتتميز عالمياً بهندسة البترول والهندسة الكيميائية وإدارة الأعمال.",
+    "zh": "澳大利亚科廷大学马来西亚分校创立于1999年，总校坐落于砂拉越美里市，是西澳顶尖名校科廷大学（QS全球第174位）规模最大的全球直属国际校区，采矿矿业与石油工程高居世界学科前列。",
+    "ru": "Малайзийский филиал Университета Кёртин (Curtin University Malaysia) в Мири — крупнейший международный кампус австралийского Curtin Perth (Rank 174 QS) в области нефтегазового дела и бизнеса.",
+    "fr": "Curtin University Malaysia à Miri est la plus grande antenne internationale de Curtin Perth (Rank 174 QS), renommée pour le génie pétrolier, le génie chimique et le commerce.",
+    "es": "Curtin University Malaysia en Miri es el mayor campus internacional de Curtin University de Australia (Rank 174 QS), destacando en ingeniería de petróleo, química y negocios.",
+    "ja": "カーティン大学マレーシア校は西豪州パースの名門カーティン大学（QS世界第174位）最大の国際直営キャンパスであり、石油工学、化学工学、ビジネスで国際的に高く評価。",
+    "ko": "커틴 대학교 말레이시아 분교는 호주 퍼스 본교(QS 세계 174위)의 최대 글로벌 캠퍼스로, 석유공학, 화학공학 및 비즈니스 분야에서 세계적 명성을 자랑합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Ekologis 1.200 Hektar Dikelilingi Danau Alami & Hutan Hujan",
+        "en": "1,200-Acre Eco-Campus with Botanical Waterways",
+        "ar": "حرم إيكولوجي بمساحة 1,200 فدان وسط البحيرات الطبيعية والغابات الاستوائية",
+        "ko": "1,200에이커 규모의 보태니컬 수로 및 에코 호수 전망 자연 캠퍼스",
+        "ja": "美しい水路と熱帯雨林に囲まれた1,200エーカーのエコキャンパス",
+        "zh": "占地1200英亩被热带雨林与天然生态水系环抱的绿色巨型大学城",
+        "ru": "Экологический кампус площадью 1200 акров с ботаническими садами и озерами",
+        "fr": "Éco-campus spectaculaire de 1 200 acres avec voies navigables naturelles",
+        "es": "Espectacular campus ecológico de 1.200 acres con canales naturales y lagos"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Pabrik Percontohan Rekayasa Minyak & Pengolahan Kimia Canggih",
+        "en": "Petroleum & Chemical Processing Pilot Plant",
+        "ar": "محطة أبحاث وتجارب هندسة البترول ومعالجة الغاز والكيماويات",
+        "ko": "석유 및 화학 공정 파일럿 플랜트 첨단 산업 실습 센터",
+        "ja": "石油・化学プラント実習シミュレーション専用パイロット施設",
+        "zh": "重金打造的石油天然气开采与化学工业处理实训工业级示范工厂",
+        "ru": "Экспериментальная установка нефтегазопереработки и химической инженерии",
+        "fr": "Usine pilote de traitement pétrolier et d'ingénierie chimique avancée",
+        "es": "Planta piloto de procesamiento químico y extracción de petróleo"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Ruang Perdagangan Finansial Bloomberg & Bursa Saham Global",
+        "en": "Bloomberg Financial Markets Trading Room",
+        "ar": "قاعة التداول المالي المباشر المزودة بمنصات بلومبرغ العالمية",
+        "ko": "블룸버그 글로벌 금융 시장 실시간 트레이딩 룸",
+        "ja": "ブルームバーグ端末完備リアルタイム金融市場トレーディングルーム",
+        "zh": "配备彭博(Bloomberg)终端的国际金融证券实时模拟交易大厅",
+        "ru": "Торговый зал финансовых рынков с терминалами Bloomberg в реальном времени",
+        "fr": "Salle des marchés financiers en temps réel équipée de terminaux Bloomberg",
+        "es": "Sala de operaciones de mercados financieros en tiempo real con terminales Bloomberg"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Perpustakaan Digital 24/7 & Ruang Kolaborasi Cerdas",
+        "en": "24/7 Digital Library & Collaborative Learning Commons",
+        "ar": "المكتبة الرقمية وقاعات التعلم التفاعلي الذكية على مدار الساعة",
+        "ko": "24시간 스마트 디지털 도서관 및 협업 학습 커먼스",
+        "ja": "24時間利用可能なデジタル図書館＆コラボレーション自習スペース",
+        "zh": "24小时开放的全数字化智慧图书馆与高互动协作学习中心",
+        "ru": "Круглосуточная цифровая библиотека и центр совместного обучения",
+        "fr": "Bibliothèque numérique 24h/24 et espaces d'apprentissage collaboratifs",
+        "es": "Biblioteca digital 24/7 y espacios de aprendizaje colaborativo inteligente"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇦🇺",
+      "title": {
+        "id": "Ijazah Resmi Curtin University Australia Identik dengan Perth",
+        "en": "Genuine Australian Curtin Degree (Perth Western Australia)",
+        "ar": "شهادة تخرج أسترالية رسمية مطابقة تماماً لحرم بيرث في أستراليا",
+        "ko": "호주 퍼스 본교와 100% 동일한 정통 커틴 대학교 공식 학위 수여",
+        "ja": "豪州パース本校と全く同一のカーティン大学正規学位記を授与",
+        "zh": "毕业直接颁发与澳大利亚珀斯本部完全相同的正规学位证书",
+        "ru": "Подлинный австралийский диплом университета Curtin (Перт)",
+        "fr": "Diplôme australien officiel de Curtin identique au campus de Perth",
+        "es": "Título oficial australiano de Curtin idéntico al campus de Perth"
+      },
+      "desc": {
+        "id": "Kurikulum, silabus, dan kriteria kelulusan dinilai langsung oleh fakultas utama Curtin University di Western Australia.",
+        "en": "Identical Australian curriculum assessed directly by Curtin University Western Australia.",
+        "ar": "مناهج ومعايير تخرج معتمدة ومقيمة مباشرة من الحرم الرئيسي بجامعة كيرتن في بيرث.",
+        "ko": "호주 서호주 커틴 본교 교수진이 직접 감수하는 최고 수준의 글로벌 커리큘럼.",
+        "ja": "オーストラリア西オーストラリア州の本校が直接監修する同一カリキュラム。",
+        "zh": "全部教学大纲与考试评估标准均受澳大利亚西澳本部直接审核把控。",
+        "ru": "Обучение по стандартам ведущего университета Западной Австралии.",
+        "fr": "Curriculum australien rigoureux supervisé directement depuis l'Australie.",
+        "es": "Currículo australiano evaluado directamente por la Universidad Curtin en Australia."
+      }
+    },
+    {
+      "icon": "award",
+      "title": {
+        "id": "Peringkat Top 180 Dunia QS World University Rankings 2025",
+        "en": "Top 180 QS World University Rankings 2025 Global Prestige",
+        "ar": "تصنيف مرموق ضمن أفضل 180 جامعة على مستوى العالم في تصنيف QS",
+        "ko": "2025 QS 세계 대학 랭킹 Top 180위권 글로벌 명문 위상",
+        "ja": "2025年QS世界大学ランキングTop 180位入りの国際的評価",
+        "zh": "位列2025年QS世界大学前180强全球著名学术殿堂",
+        "ru": "Топ-180 в мировом рейтинге университетов QS 2025 года",
+        "fr": "Top 180 mondial au classement QS 2025 pour l'excellence académique",
+        "es": "Top 180 mundial en el ranking de universidades QS 2025"
+      },
+      "desc": {
+        "id": "Meraih peringkat top 1% universitas terbaik dunia dengan reputasi riset dan industri global.",
+        "en": "Ranked in the top 1% of universities globally with outstanding industry recognition.",
+        "ar": "مصنفة ضمن أفضل 1% من الجامعات عالمياً مع شراكات صناعية وبحثية ضخمة.",
+        "ko": "전 세계 상위 1% 대학에 랭크되며 글로벌 산업계에서 압도적 평판 보유.",
+        "ja": "世界の上位1%にランクインし、国際的な産学連携で絶大な信頼を獲得。",
+        "zh": "位居全球大学前1%精英梯队，在国际产学结合及应用科研领域享负盛名。",
+        "ru": "Входит в 1% лучших вузов мира с признанием ведущих компаний.",
+        "fr": "Parmi le premier 1% mondial des universités avec un fort impact industriel.",
+        "es": "Situada en el 1% de las mejores universidades del mundo por investigación."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Peringkat Top 2 Dunia untuk Rekayasa Mineral & Pertambangan",
+        "en": "Top 2 Worldwide for Mineral & Mining Engineering (QS By Subject)",
+        "ar": "المركز الثاني عالمياً في هندسة المعادن والتعدين والبترول",
+        "ko": "광물 및 자원 공학 분야 세계 2위 랭크 (QS 학과별 세계 랭킹)",
+        "ja": "資源・鉱山工学分野で世界第2位の最高峰評価（QS分野別ランキング）",
+        "zh": "矿物与采矿工程专业雄居QS学科排名全球第二位的绝对世界顶尖实力",
+        "ru": "Топ-2 в мире по горному делу и добыче полезных ископаемых (QS)",
+        "fr": "2e mondial en génie minier et des ressources au classement QS",
+        "es": "Top 2 mundial en ingeniería de minas y minerales según QS"
+      },
+      "desc": {
+        "id": "Pusat keunggulan global dalam eksplorasi energi, rekayasa minyak, geologi, dan transisi energi hijau.",
+        "en": "World center of excellence in energy exploration, petroleum engineering, and sustainability.",
+        "ar": "صرح عالمي متفوق في استكشاف الطاقة، هندسة النفط والغاز، وعلوم الأرض والتحول الأخضر.",
+        "ko": "글로벌 에너지 탐사, 석유 공학, 지구과학 및 친환경 에너지 전환의 허브.",
+        "ja": "エネルギー探査、石油工学、地球科学、グリーンエネルギー転換の世界的拠点。",
+        "zh": "能源勘探、石油天然气开采工程、地质科学与绿色新能源转型的国际卓越学术高地。",
+        "ru": "Мировой центр в области геологоразведки и нефтегазового дела.",
+        "fr": "Centre mondial d'excellence en exploration énergétique et ingénierie pétrolière.",
+        "es": "Centro mundial de excelencia en energía, petróleo y sostenibilidad."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Transfer Mudah ke Kampus Curtin Perth di Australia",
+        "en": "Seamless Inter-Campus Transfer to Curtin Perth Australia",
+        "ar": "إمكانية الانتقال السلس إلى حرم كيرتن في بيرث بأستراليا",
+        "ko": "호주 퍼스 본교로의 자유롭고 안전한 캠퍼스 간 편입 이동",
+        "ja": "豪州パース本校へのスムーズなキャンパス間トランスファー制度",
+        "zh": "随时自由无缝转学至澳大利亚西澳珀斯主校区修读后续学年",
+        "ru": "Беспрепятственный перевод в главный кампус Curtin в Перте",
+        "fr": "Transfert inter-campus facile vers le campus de Curtin Perth en Australie",
+        "es": "Transferencia directa al campus principal de Curtin en Perth, Australia"
+      },
+      "desc": {
+        "id": "Mulai kuliah di Malaysia dan selesaikan tahun terakhir di Australia untuk mendapatkan visa kerja pasca-studi (PSW).",
+        "en": "Start in Malaysia and complete your degree in Australia to access post-study work rights.",
+        "ar": "ابدأ دراستك في ماليزيا ثم أكمل سنتك الأخيرة في أستراليا للحصول على إقامة العمل بعد التخرج.",
+        "ko": "말레이시아에서 가성비 높게 시작하여 호주에서 졸업 후 현지 취업 비자(PSW) 취득 가능.",
+        "ja": "マレーシアで費用を抑えて開始し、豪州本校で修了して就労ビザの権利を獲得可能。",
+        "zh": "先在马来西亚分校打牢基础，后转往澳大利亚本土毕业即可申请PSW毕业生工作签证。",
+        "ru": "Начните в Малайзии и завершите в Австралии с правом на рабочую визу.",
+        "fr": "Commencez en Malaisie et terminez en Australie pour accéder au visa de travail.",
+        "es": "Comienza en Malasia y gradúate en Australia con acceso al visado de trabajo."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Curtin University Malaysia Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة كيرتن الأسترالية في ماليزيا",
+        "id": "Residensi Mahasiswa Resmi Curtin University Malaysia"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Curtin University Malaysia internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة كيرتن الأسترالية في ماليزيا معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Curtin University Malaysia diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Curtin University Malaysia is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة كيرتن الأسترالية في ماليزيا معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Curtin University Malaysia terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Curtin University Malaysia?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة كيرتن الأسترالية في ماليزيا؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Curtin University Malaysia?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Curtin University Malaysia?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة كيرتن الأسترالية في ماليزيا؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Curtin University Malaysia?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Curtin University Malaysia without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Kuliah Gelar Asli Australia di Curtin University Malaysia",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Curtin University Malaysia",
+        "ar": "دليل الحصول على الشهادة الأسترالية المعتمدة من جامعة كيرتن ماليزيا",
+        "zh": "Curtin University Malaysia 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Curtin University Malaysia",
+        "fr": "Guide complet d'admission et visa étudiant pour Curtin University Malaysia",
+        "es": "Guía completa de admisión y visado de estudiante para Curtin University Malaysia",
+        "ja": "Curtin University Malaysia 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Curtin University Malaysia 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Keuntungan ijazah resmi Curtin Perth Australia dengan biaya hidup terjangkau di Malaysia.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "مميزات الحصول على شهادة أسترالية عالمية بأقل من ثلث التكلفة في أستراليا.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Prospek Karir Global Lulusan Teknik Perminyakan & Geologi Curtin",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Curtin University Malaysia",
+        "ar": "فرص التوظيف العالمية لخريجي هندسة البترول والتعدين بجامعة كيرتن",
+        "zh": "Curtin University Malaysia 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Curtin University Malaysia",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Curtin University Malaysia",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Curtin University Malaysia",
+        "ja": "Curtin University Malaysia 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Curtin University Malaysia 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Peluang kerja di perusahaan energi internasional bagi lulusan program teknik berakreditasi Washington Accord.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "مسارات العمل في كبرى شركات النفط والغاز العالمية لخريجي كيرتن المعتمدين دولياً.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup Hemat & Kehidupan Mahasiswa di Kota Miri, Sarawak",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Curtin University Malaysia",
+        "ar": "تكاليف المعيشة المنخفضة وتفاصيل الحياة الطلابية في مدينة ميري بساراواك",
+        "zh": "Curtin University Malaysia 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Curtin University Malaysia",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Curtin University Malaysia",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Curtin University Malaysia",
+        "ja": "Curtin University Malaysia 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Curtin University Malaysia 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Rincian sewa kamar asrama tepi danau, biaya makan, dan gaya hidup alam yang asri.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "تفاصيل إيجار السكن الجامعي والمطاعم وميزانية المعيشة المنخفضة في ساراواك.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Curtin On-Campus Lakeside Student Village",
+        "nameAr": "قرية السكن الجامعي الداخلي على البحيرة بحرم كيرتن",
+        "type": "Single & Twin Ensuite Air-Conditioned Rooms",
+        "typeAr": "غرف فردية ومزدوجة بحمام خاص وتكييف وإطلالة على البحيرة",
+        "priceRange": "RM 500 - RM 950 / month",
+        "priceRangeAr": "500 - 950 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)",
+        "amenities": [
+          "Wi-Fi Cepat Tanpa Batas",
+          "Lounge Belajar Komunal",
+          "Keamanan 24 Jam & Kartu Akses",
+          "Kafetaria & Food Court Halal",
+          "Pemandangan Danau Asri"
+        ],
+        "amenitiesAr": [
+          "إنترنت سريع غير محدود",
+          "قاعات استذكار ومطالعة",
+          "أمن وبوابات إلكترونية 24 ساعة",
+          "مطاعم وكافتيريا حلال",
+          "إطلالات طبيعية على البحيرة"
+        ]
+      },
+      {
+        "name": "Curtin Water Eco-Residential Villas",
+        "nameAr": "مجمعات فلل كيرتن ووتر السكنية الراقية",
+        "type": "Modern Gated Eco-Villas for Students",
+        "typeAr": "فلل سكنية عصرية راقية في مجمع سكني مسوّر",
+        "priceRange": "RM 550 - RM 1,100 / month",
+        "priceRangeAr": "550 - 1,100 رينجيت / شهرياً",
+        "distance": "4 menit via Shuttle Bus Kampus",
+        "distanceAr": "4 دقائق عبر حافلة الجامعة المجانية",
+        "distanceEn": "4 mins via Free Campus Shuttle Bus",
+        "amenities": [
+          "Kompleks Hunian Berpagar Aman",
+          "Perabot Lengkap & Dapur",
+          "Taman Hijau & Jogging Track",
+          "Shuttle Bus Terjadwal",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "مجمع سكني مسور وآمن",
+          "مفروشة بالكامل ومطبخ",
+          "حدائق خضراء ومضمار للمشي",
+          "باص نقل ترددي منتظم",
+          "حراسة وأمن 24 ساعة"
+        ]
+      },
+      {
+        "name": "Desa Senadin Student Residences",
+        "nameAr": "مجمعات ديسا سنادين السكنية الاقتصادية",
+        "type": "Budget-Friendly Apartments near Campus",
+        "typeAr": "شقق سكنية اقتصادية مريحة بالقرب من الحرم",
+        "priceRange": "RM 400 - RM 800 / month",
+        "priceRangeAr": "400 - 800 رينجيت / شهرياً",
+        "distance": "6 menit jalan kaki dari gerbang kampus",
+        "distanceAr": "6 دقائق سيراً على الأقدام من بوابة الحرم",
+        "distanceEn": "6-minute walk from campus main gate",
+        "amenities": [
+          "Dekat Restoran & Supermarket",
+          "Kamar Berperabot Lengkap",
+          "Koneksi Internet Cepat",
+          "Biaya Hidup Sangat Hemat",
+          "Keamanan Lingkungan"
+        ],
+        "amenitiesAr": [
+          "قريب من المطاعم والمحلات",
+          "غرف مفروشة بالكامل",
+          "إنترنت عالي السرعة",
+          "تكلفة اقتصادية موفرة",
+          "حراسة وأمن حيوي"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 450 - RM 950"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 450 - RM 750"
+      },
+      {
+        "item": "Transportasi Shuttle & Bus",
+        "itemAr": "المواصلات وحافلات التنقل",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 40 - RM 80"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 60 - RM 120"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 140 - RM 280"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,140 - RM 2,180"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية الأسترالية في الهندسة والعلوم والتجارة",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 20,000 - RM 24,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم الأسترالي العالي في إدارة الأعمال وتقنية المعلومات",
+      "duration": "2 Years",
+      "durationYears": 2,
+      "avgFeePerYear": "RM 19,000 - RM 23,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Curtin Perth Degree)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس الأسترالي (هندسة بترول، كيمياء، حوسبة، محاسبة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 32,000 - RM 46,000"
+    },
+    {
+      "level": "Master Degree (S2 - Coursework & Research)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير الأسترالي في إدارة المشاريع وهندسة البترول و MBA",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 34,000 - RM 44,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في بحوث الطاقة والعلوم الهندسية والجيولوجية",
+      "duration": "3 - 4 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 26,000 - RM 34,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=5dy2dOFZn5Q",
+  "programs": [
+    {
+      "id": "curtin-diploma-of-information-technology",
+      "universityId": "curtin",
+      "name": "Diploma of Information Technology",
+      "nameAr": "دبلوم في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 54000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-computing-cyber-security",
+      "universityId": "curtin",
+      "name": "Bachelor of Computing (Cyber Security)",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 47600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47600
+        },
+        {
+          "year": 2,
+          "fee": 47600
+        },
+        {
+          "year": 3,
+          "fee": 47600
+        }
+      ],
+      "totalTuitionFee": 142800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-computing-software-engineering",
+      "universityId": "curtin",
+      "name": "Bachelor of Computing (Software Engineering)",
+      "nameAr": "بكالوريوس في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 47600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47600
+        },
+        {
+          "year": 2,
+          "fee": 47600
+        },
+        {
+          "year": 3,
+          "fee": 47600
+        }
+      ],
+      "totalTuitionFee": 142800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-technology-computer-systems-and-networking",
+      "universityId": "curtin",
+      "name": "Bachelor of Technology (Computer Systems and Networking)",
+      "nameAr": "بكالوريوس في Bachelor of Technology (Computer Systems and Networking",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 38200,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38200
+        },
+        {
+          "year": 2,
+          "fee": 38200
+        },
+        {
+          "year": 3,
+          "fee": 38200
+        }
+      ],
+      "totalTuitionFee": 114600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-diploma-of-commerce",
+      "universityId": "curtin",
+      "name": "Diploma of Commerce",
+      "nameAr": "دبلوم في Commerce",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 54000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-business-administration",
+      "universityId": "curtin",
+      "name": "Bachelor of Business Administration",
+      "nameAr": "بكالوريوس إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-accounting",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Accounting)",
+      "nameAr": "بكالوريوس في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-finance",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Finance)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-accounting-and-finance",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Accounting and Finance)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-finance-and-management",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Finance and Management)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-finance-and-marketing",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Finance and Marketing)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-management",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Management)",
+      "nameAr": "بكالوريوس في Bachelor of Commerce (Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-marketing",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Marketing)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-management-and-marketing",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Management and Marketing)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-management-and-human-resource-management",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Management and Human Resource Management)",
+      "nameAr": "بكالوريوس في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-marketing-and-tourism-and-hospitality",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Marketing and Tourism and Hospitality)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-commerce-tourism-and-hospitality",
+      "universityId": "curtin",
+      "name": "Bachelor of Commerce (Tourism and Hospitality)",
+      "nameAr": "بكالوريوس في Bachelor of Commerce (Tourism and Hospitality",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        },
+        {
+          "year": 2,
+          "fee": 37800
+        },
+        {
+          "year": 3,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 113400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-applied-science-construction-management-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Applied Science (Construction Management)-Honours",
+      "nameAr": "بكالوريوس في Bachelor of Applied Science (Construction Management)-Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 47600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47600
+        },
+        {
+          "year": 2,
+          "fee": 47600
+        },
+        {
+          "year": 3,
+          "fee": 47600
+        },
+        {
+          "year": 4,
+          "fee": 47600
+        }
+      ],
+      "totalTuitionFee": 190400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-master-of-science-project-management-by-coursework",
+      "universityId": "curtin",
+      "name": "Master of Science (Project Management) (By Coursework)",
+      "nameAr": "ماجستير العلوم في Project Management (بالمقررات الدراسية)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30600
+        },
+        {
+          "year": 2,
+          "fee": 30600
+        }
+      ],
+      "totalTuitionFee": 61200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-engineering-chemical-engineering-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Engineering (Chemical Engineering)-Honours",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        },
+        {
+          "year": 4,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 202400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-engineering-energy-engineering-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Engineering (Energy Engineering) - Honours",
+      "nameAr": "بكالوريوس الهندسة في Energy Engineering) - Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        },
+        {
+          "year": 4,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 202400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-engineering-civil-and-construction-engineering-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Engineering (Civil and Construction Engineering) -Honours",
+      "nameAr": "بكالوريوس الهندسة في Civil and Construction Engineering) -Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        },
+        {
+          "year": 4,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 202400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-engineering-electrical-and-electronic-engineering-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Engineering (Electrical and Electronic Engineering)-Honours",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        },
+        {
+          "year": 4,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 202400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-engineering-environmental-engineering-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Engineering (Environmental Engineering)-Honours",
+      "nameAr": "بكالوريوس الهندسة في Environmental Engineering)-Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        },
+        {
+          "year": 4,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 202400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-engineering-mechanical-engineering-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Engineering (Mechanical Engineering)-Honours",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        },
+        {
+          "year": 4,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 202400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-engineering-mechatronic-engineering-honours",
+      "universityId": "curtin",
+      "name": "Bachelor of Engineering (Mechatronic Engineering)-Honours",
+      "nameAr": "بكالوريوس الهندسة في Mechatronic Engineering)-Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        },
+        {
+          "year": 4,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 202400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-applied-geology",
+      "universityId": "curtin",
+      "name": "Bachelor of Applied Geology",
+      "nameAr": "بكالوريوس في Bachelor of Applied Geology",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 50600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50600
+        },
+        {
+          "year": 2,
+          "fee": 50600
+        },
+        {
+          "year": 3,
+          "fee": 50600
+        }
+      ],
+      "totalTuitionFee": 151800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-science-health-safety-and-environment",
+      "universityId": "curtin",
+      "name": "Bachelor of Science (Health, Safety and Environment)",
+      "nameAr": "بكالوريوس العلوم في Health, Safety and Environment",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43000
+        },
+        {
+          "year": 2,
+          "fee": 43000
+        },
+        {
+          "year": 3,
+          "fee": 43000
+        }
+      ],
+      "totalTuitionFee": 129000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-science-psychological-science",
+      "universityId": "curtin",
+      "name": "Bachelor of Science (Psychological Science)",
+      "nameAr": "بكالوريوس العلوم في Psychological Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43000
+        },
+        {
+          "year": 2,
+          "fee": 43000
+        },
+        {
+          "year": 3,
+          "fee": 43000
+        }
+      ],
+      "totalTuitionFee": 129000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-master-of-philosophy-by-research",
+      "universityId": "curtin",
+      "name": "Master of Philosophy (By Research)",
+      "nameAr": "ماجستير في Master of Philosophy (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 41900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41900
+        }
+      ],
+      "totalTuitionFee": 41900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-doctor-of-philosophy-by-research",
+      "universityId": "curtin",
+      "name": "Doctor of Philosophy (By Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) (بالبحث العلمي)",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 50700,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50700
+        },
+        {
+          "year": 2,
+          "fee": 50700
+        },
+        {
+          "year": 3,
+          "fee": 50700
+        },
+        {
+          "year": 4,
+          "fee": 50700
+        }
+      ],
+      "totalTuitionFee": 202800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-foundation-in-arts-commerce",
+      "universityId": "curtin",
+      "name": "Foundation in Arts & Commerce",
+      "nameAr": "برنامج تمهيدي في الآداب في & Commerce",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30300,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30300
+        }
+      ],
+      "totalTuitionFee": 30300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-diploma-of-media-studies",
+      "universityId": "curtin",
+      "name": "Diploma of Media Studies",
+      "nameAr": "دبلوم في Media Studies",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 54000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-bachelor-of-communications",
+      "universityId": "curtin",
+      "name": "Bachelor of Communications",
+      "nameAr": "بكالوريوس في Bachelor of Communications",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 38600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38600
+        },
+        {
+          "year": 2,
+          "fee": 38600
+        },
+        {
+          "year": 3,
+          "fee": 38600
+        }
+      ],
+      "totalTuitionFee": 115800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-foundation-in-engineering-science",
+      "universityId": "curtin",
+      "name": "Foundation in Engineering & Science",
+      "nameAr": "برنامج تمهيدي في الهندسة في & Science",
+      "field": "business",
+      "category": "Science",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30300,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30300
+        }
+      ],
+      "totalTuitionFee": 30300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "curtin-diploma-in-aquaculture",
+      "universityId": "curtin",
+      "name": "Diploma in Aquaculture",
+      "nameAr": "دبلوم في Aquaculture",
+      "field": "business",
+      "category": "Science",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 54000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 36,
+  "totalProgramsCount": 36
+}

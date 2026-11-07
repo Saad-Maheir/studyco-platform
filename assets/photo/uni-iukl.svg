@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <rect width="280" height="80" rx="10" fill="#FFFFFF"/>
+  <g transform="translate(15, 14)">
+    <!-- Bridge Icon -->
+    <rect x="0" y="4" width="48" height="44" rx="8" fill="#0F766E"/>
+    <path d="M8 36 C16 20 32 20 40 36" fill="none" stroke="#F97316" stroke-width="4" stroke-linecap="round"/>
+    <!-- Text -->
+    <text x="58" y="29" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="24" fill="#0F766E" letter-spacing="1">IU<tspan fill="#F97316">KL</tspan></text>
+    <text x="59" y="44" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="9.5" fill="#4B5563" letter-spacing="0.5">INFRASTRUCTURE UNIVERSITY</text>
+  </g>
+</svg>

@@ -1,0 +1,1570 @@
+{
+  "id": "essec-sg",
+  "name": "ESSEC Business School Asia-Pacific",
+  "arabicName": "كلية إيسيك لإدارة الأعمال (ESSEC Asia-Pacific)",
+  "city": "One-North, Singapore",
+  "cityEn": "One-North, Singapore",
+  "cityAr": "سنغافورة (ون نورث)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.essec.edu/en/asia/",
+  "ranking": "Top 5 Worldwide Business School (Financial Times MIM/MIF Ranked)",
+  "established": "1907",
+  "campusName": "One-North Campus",
+  "studentCount": "2,000+ (75+ Countries)",
+  "intakes": "Sep, Jan",
+  "feeRangeMin": 38500,
+  "feeRangeMax": 75000,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/iUz8VpqbKRA",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/iUz8VpqbKRA",
+  "directWatchUrl": "https://www.youtube.com/watch?v=iUz8VpqbKRA",
+  "photos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-essec-sg.svg",
+  "image": "assets/photo/campus_essec-sg.jpg",
+  "description": "Triple-Crown accredited (AACSB, AMBA, EQUIS) European business school offering world-leading Bachelor and Master in Management, Finance, and Business Analytics degrees in Singapore.",
+  "descriptionAr": "واحدة من أعرق كليات إدارة الأعمال الأوروبية الحاصلة على الاعتماد الثلاثي الدولي (AACSB/EQUIS/AMBA)، وتقدم برامج النخبة في إدارة الأعمال والتمويل والتحليلات الرقمية.",
+  "about": {
+    "ar": "تعد كلية إيسيك لإدارة الأعمال (ESSEC Asia-Pacific) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "ESSEC Business School Asia-Pacific is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "ESSEC Business School Asia-Pacific adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Top 5 Worldwide Business School (Financial Times MIM/MIF Ranked) - World-Renowned Excellence",
+        "ar": "Top 5 Worldwide Business School (Financial Times MIM/MIF Ranked) - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "ESSEC Business School Asia-Pacific Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ كلية إيسيك لإدارة الأعمال (ESSEC Asia-Pacific)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_diploma",
+      "levelName": "Diploma",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 12,000 - SGD 18,000"
+    },
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "2 - 3 Years",
+      "avgFee": "SGD 22,000 - SGD 36,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 1.5 Years",
+      "avgFee": "SGD 26,000 - SGD 42,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "essec-sg-gbba",
+      "universityId": "essec-sg",
+      "name": "Global BBA (Bachelor of Business Administration - 4 Years)",
+      "nameAr": "بكالوريوس إدارة الأعمال العالمي النخبوي (Global BBA - 4 سنوات)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 38500,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Global BBA (Bachelor of Business Administration - 4 Years) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس إدارة الأعمال العالمي النخبوي (Global BBA - 4 سنوات) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ],
+        "year4": [
+          "Corporate Governance, Risk & Ethics",
+          "Global Financial Strategy & Portfolio Management",
+          "Advanced Strategic Leadership Practicum",
+          "Applied Business Research Dissertation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ],
+        "year4": [
+          "الحوكمة المؤسسية وإدارة المخاطر والأخلاقيات",
+          "الاستراتيجية المالية الدولية وإدارة المحافظ",
+          "التدريب الميداني المتقدم في القيادة الاستراتيجية",
+          "أطروحة البحث التخصصي في دراسات الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38500
+        },
+        {
+          "year": 2,
+          "fee": 38500
+        },
+        {
+          "year": 3,
+          "fee": 38500
+        },
+        {
+          "year": 4,
+          "fee": 38500
+        }
+      ],
+      "totalTuitionFee": 154000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-mim",
+      "universityId": "essec-sg",
+      "name": "Master in Management (MIM - Top 5 Worldwide FT Ranked)",
+      "nameAr": "ماجستير الإدارة العامة النخبوي المصنف ضمن أفضل 5 عالمياً (MIM)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 46000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master in Management (MIM - Top 5 Worldwide FT Ranked) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الإدارة العامة النخبوي المصنف ضمن أفضل 5 عالمياً (MIM) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        },
+        {
+          "year": 2,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 92000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-mif",
+      "universityId": "essec-sg",
+      "name": "Master in Finance (MIF - Top 3 Worldwide FT Ranked)",
+      "nameAr": "ماجستير التمويل والاستثمار المصنف الثالث عالمياً من فاينانشال تايمز (MIF)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master in Finance (MIF - Top 3 Worldwide FT Ranked) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير التمويل والاستثمار المصنف الثالث عالمياً من فاينانشال تايمز (MIF) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-dsba",
+      "universityId": "essec-sg",
+      "name": "Master of Science in Data Sciences & Business Analytics (CentraleSupelec/ESSEC)",
+      "nameAr": "ماجستير العلوم في علوم البيانات وتحليلات الأعمال المشترك مع سنترال سوبيليك",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 51000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Data Sciences & Business Analytics (CentraleSupelec/ESSEC) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في علوم البيانات وتحليلات الأعمال المشترك مع سنترال سوبيليك إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51000
+        }
+      ],
+      "totalTuitionFee": 51000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-mktg-msc",
+      "universityId": "essec-sg",
+      "name": "Master of Science in Marketing Management & Digital",
+      "nameAr": "ماجستير العلوم في إدارة التسويق والتحول الرقمي",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 45000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Marketing Management & Digital provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في إدارة التسويق والتحول الرقمي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-smib-msc",
+      "universityId": "essec-sg",
+      "name": "Master of Science in Strategy & Management of International Business (SMIB)",
+      "nameAr": "ماجستير العلوم في استراتيجية وإدارة الأعمال الدولية (SMIB)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 47000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Strategy & Management of International Business (SMIB) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في استراتيجية وإدارة الأعمال الدولية (SMIB) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47000
+        }
+      ],
+      "totalTuitionFee": 47000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-imhi-msc",
+      "universityId": "essec-sg",
+      "name": "Master of Science in Hospitality Management (IMHI)",
+      "nameAr": "ماجستير العلوم في الإدارة الفندقية والضيافة العالمية الفاخرة (IMHI)",
+      "field": "hospitality",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 44000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Hospitality Management (IMHI) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الإدارة الفندقية والضيافة العالمية الفاخرة (IMHI) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Luxury Hotel & Integrated Resort Director, International MICE & Mega-Event Strategist, Hospitality Revenue & Asset Management Lead, Global Tourism Experience Developer",
+      "careerProspectsAr": "مدير عام فنادق ومنتجعات متكاملة فاخرة، مخطط مؤتمرات وفعاليات دولية كبرى (MICE)، مدير إدارة العائدات والأصول الفندقية، مطور وجهات وتجارب سياحية دولية رائدة",
+      "careerOpportunities": [
+        "Luxury Hotel & Integrated Resort Director",
+        "International MICE & Mega-Event Strategist",
+        "Hospitality Revenue & Asset Management Lead",
+        "Global Tourism Experience Developer"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير عام فنادق ومنتجعات متكاملة فاخرة",
+        "مخطط مؤتمرات وفعاليات دولية كبرى (MICE)",
+        "مدير إدارة العائدات والأصول الفندقية",
+        "مطور وجهات وتجارب سياحية دولية رائدة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Introduction to Global Hospitality & Tourism",
+          "Food & Beverage Operations Management",
+          "Service Quality Management & Customer Experience",
+          "Business Communication in Tourism"
+        ],
+        "year2": [
+          "Hotel Operations & Front Office Systems",
+          "Tourism Destination Planning & Development",
+          "Hospitality Financial Accounting & Revenue Control",
+          "Sustainable Tourism & Eco-Travel Practices"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في صناعة السياحة والضيافة العالمية",
+          "إدارة عمليات الأغذية والمشروبات الفندقية",
+          "إدارة جودة الخدمة وتجربة الضيوف والعملاء",
+          "الاتصال وإدارة الأعمال في قطاع السياحة"
+        ],
+        "year2": [
+          "إدارة العمليات الفندقية والمكاتب الأمامية",
+          "تخطيط وتطوير الوجهات والمقاصد السياحية",
+          "المحاسبة المالية للضيافة وإدارة الإيرادات",
+          "السياحة المستدامة وممارسات السفر البيئي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44000
+        },
+        {
+          "year": 2,
+          "fee": 44000
+        }
+      ],
+      "totalTuitionFee": 88000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-emba",
+      "universityId": "essec-sg",
+      "name": "Executive MBA Asia-Pacific",
+      "nameAr": "ماجستير إدارة الأعمال التنفيذي لمنطقة آسيا والمحيط الهادئ (Executive MBA)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 75000,
+      "currency": "SGD",
+      "ielts": "7.5",
+      "intakes": "October",
+      "intakesAr": "أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Executive MBA Asia-Pacific provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير إدارة الأعمال التنفيذي لمنطقة آسيا والمحيط الهادئ (Executive MBA) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 75000
+        },
+        {
+          "year": 2,
+          "fee": 75000
+        }
+      ],
+      "totalTuitionFee": 150000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-sust-msc",
+      "universityId": "essec-sg",
+      "name": "MSc in Sustainability Transformation & ESG Strategy",
+      "nameAr": "ماجستير العلوم في التحول المستدام واستراتيجيات الحوكمة البيئية والاجتماعية (ESG)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 46000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the MSc in Sustainability Transformation & ESG Strategy provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التحول المستدام واستراتيجيات الحوكمة البيئية والاجتماعية (ESG) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-lux-msc",
+      "universityId": "essec-sg",
+      "name": "MSc in Hospitality Management (Luxury Services & Brand Management)",
+      "nameAr": "ماجستير العلوم في إدارة الضيافة وإدارة العلامات الفندقية الفاخرة",
+      "field": "hospitality",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 45000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the MSc in Hospitality Management (Luxury Services & Brand Management) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في إدارة الضيافة وإدارة العلامات الفندقية الفاخرة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Luxury Hotel & Integrated Resort Director, International MICE & Mega-Event Strategist, Hospitality Revenue & Asset Management Lead, Global Tourism Experience Developer",
+      "careerProspectsAr": "مدير عام فنادق ومنتجعات متكاملة فاخرة، مخطط مؤتمرات وفعاليات دولية كبرى (MICE)، مدير إدارة العائدات والأصول الفندقية، مطور وجهات وتجارب سياحية دولية رائدة",
+      "careerOpportunities": [
+        "Luxury Hotel & Integrated Resort Director",
+        "International MICE & Mega-Event Strategist",
+        "Hospitality Revenue & Asset Management Lead",
+        "Global Tourism Experience Developer"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير عام فنادق ومنتجعات متكاملة فاخرة",
+        "مخطط مؤتمرات وفعاليات دولية كبرى (MICE)",
+        "مدير إدارة العائدات والأصول الفندقية",
+        "مطور وجهات وتجارب سياحية دولية رائدة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Introduction to Global Hospitality & Tourism",
+          "Food & Beverage Operations Management",
+          "Service Quality Management & Customer Experience",
+          "Business Communication in Tourism"
+        ],
+        "year2": [
+          "Hotel Operations & Front Office Systems",
+          "Tourism Destination Planning & Development",
+          "Hospitality Financial Accounting & Revenue Control",
+          "Sustainable Tourism & Eco-Travel Practices"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في صناعة السياحة والضيافة العالمية",
+          "إدارة عمليات الأغذية والمشروبات الفندقية",
+          "إدارة جودة الخدمة وتجربة الضيوف والعملاء",
+          "الاتصال وإدارة الأعمال في قطاع السياحة"
+        ],
+        "year2": [
+          "إدارة العمليات الفندقية والمكاتب الأمامية",
+          "تخطيط وتطوير الوجهات والمقاصد السياحية",
+          "المحاسبة المالية للضيافة وإدارة الإيرادات",
+          "السياحة المستدامة وممارسات السفر البيئي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45000
+        },
+        {
+          "year": 2,
+          "fee": 45000
+        }
+      ],
+      "totalTuitionFee": 90000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-corpfin-msc",
+      "universityId": "essec-sg",
+      "name": "Master in Finance (Corporate Finance & M&A Track)",
+      "nameAr": "ماجستير التمويل (مسار تمويل الشركات والاندماج والاستحواذ الاستثماري)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master in Finance (Corporate Finance & M&A Track) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير التمويل (مسار تمويل الشركات والاندماج والاستحواذ الاستثماري) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-finmkt-msc",
+      "universityId": "essec-sg",
+      "name": "Master in Finance (Financial Markets & Quantitative Trading Track)",
+      "nameAr": "ماجستير التمويل (مسار أسواق المال والتداول الكمي المتقدم)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master in Finance (Financial Markets & Quantitative Trading Track) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير التمويل (مسار أسواق المال والتداول الكمي المتقدم) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-ge-mim",
+      "universityId": "essec-sg",
+      "name": "Master in Management (Grande École - Singapore Asia Track)",
+      "nameAr": "ماجستير الإدارة العامة النخبوي (مسار سنغافورة وآسيا جراند إيكول)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 48000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master in Management (Grande École - Singapore Asia Track) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الإدارة العامة النخبوي (مسار سنغافورة وآسيا جراند إيكول) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48000
+        },
+        {
+          "year": 2,
+          "fee": 48000
+        }
+      ],
+      "totalTuitionFee": 96000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-tech-msc",
+      "universityId": "essec-sg",
+      "name": "Master of Science in Global Technology & Digital Business",
+      "nameAr": "ماجستير العلوم في التكنولوجيا العالمية وإدارة الأعمال الرقمية",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 47000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Global Technology & Digital Business provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التكنولوجيا العالمية وإدارة الأعمال الرقمية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47000
+        }
+      ],
+      "totalTuitionFee": 47000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-phd-biz",
+      "universityId": "essec-sg",
+      "name": "Doctor of Philosophy (PhD) in Business Administration",
+      "nameAr": "دكتوراه الفلسفة في إدارة الأعمال والعلوم المالية",
+      "field": "business",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 40000,
+      "currency": "SGD",
+      "ielts": "7.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Doctor of Philosophy (PhD) in Business Administration provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه الفلسفة في إدارة الأعمال والعلوم المالية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ],
+        "year4": [
+          "Corporate Governance, Risk & Ethics",
+          "Global Financial Strategy & Portfolio Management",
+          "Advanced Strategic Leadership Practicum",
+          "Applied Business Research Dissertation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ],
+        "year4": [
+          "الحوكمة المؤسسية وإدارة المخاطر والأخلاقيات",
+          "الاستراتيجية المالية الدولية وإدارة المحافظ",
+          "التدريب الميداني المتقدم في القيادة الاستراتيجية",
+          "أطروحة البحث التخصصي في دراسات الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        },
+        {
+          "year": 2,
+          "fee": 40000
+        },
+        {
+          "year": 3,
+          "fee": 40000
+        },
+        {
+          "year": 4,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 160000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "essec-sg-exec-lux",
+      "universityId": "essec-sg",
+      "name": "Global Executive Master in Hospitality Leadership",
+      "nameAr": "الماجستير التنفيذي العالمي في قيادة مؤسسات الضيافة الفاخرة",
+      "field": "hospitality",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 55000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "October",
+      "intakesAr": "أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Global Executive Master in Hospitality Leadership provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف الماجستير التنفيذي العالمي في قيادة مؤسسات الضيافة الفاخرة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Luxury Hotel & Integrated Resort Director, International MICE & Mega-Event Strategist, Hospitality Revenue & Asset Management Lead, Global Tourism Experience Developer",
+      "careerProspectsAr": "مدير عام فنادق ومنتجعات متكاملة فاخرة، مخطط مؤتمرات وفعاليات دولية كبرى (MICE)، مدير إدارة العائدات والأصول الفندقية، مطور وجهات وتجارب سياحية دولية رائدة",
+      "careerOpportunities": [
+        "Luxury Hotel & Integrated Resort Director",
+        "International MICE & Mega-Event Strategist",
+        "Hospitality Revenue & Asset Management Lead",
+        "Global Tourism Experience Developer"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير عام فنادق ومنتجعات متكاملة فاخرة",
+        "مخطط مؤتمرات وفعاليات دولية كبرى (MICE)",
+        "مدير إدارة العائدات والأصول الفندقية",
+        "مطور وجهات وتجارب سياحية دولية رائدة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Introduction to Global Hospitality & Tourism",
+          "Food & Beverage Operations Management",
+          "Service Quality Management & Customer Experience",
+          "Business Communication in Tourism"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في صناعة السياحة والضيافة العالمية",
+          "إدارة عمليات الأغذية والمشروبات الفندقية",
+          "إدارة جودة الخدمة وتجربة الضيوف والعملاء",
+          "الاتصال وإدارة الأعمال في قطاع السياحة"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 55000
+        }
+      ],
+      "totalTuitionFee": 55000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 16,
+  "totalProgramsCount": 16,
+  "campusNameAr": "حرم ون نورث الابتكاري",
+  "campusImage": "assets/photo/campus_essec-sg.jpg",
+  "nameAr": "كلية إيسيك لإدارة الأعمال (ESSEC Asia-Pacific)"
+}

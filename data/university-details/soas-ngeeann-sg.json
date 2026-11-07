@@ -1,0 +1,1625 @@
+{
+  "id": "soas-ngeeann-sg",
+  "name": "Ngee Ann Academy (SOAS Education Centre)",
+  "arabicName": "مركز نغي آن التعليمي (Ngee Ann Academy)",
+  "city": "Tank Road, Singapore",
+  "cityEn": "Tank Road, Singapore",
+  "cityAr": "سنغافورة (تانك رود)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.naa.edu.sg/",
+  "ranking": "Prestigious Partner Campus (King's College London & Adelaide Degree Centre)",
+  "established": "1998",
+  "campusName": "Tank Road Campus",
+  "studentCount": "2,000+ (25+ Countries)",
+  "intakes": "Jan, Jul, Oct",
+  "feeRangeMin": 27000,
+  "feeRangeMax": 35000,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/qIFlMRYSmjU",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/qIFlMRYSmjU",
+  "directWatchUrl": "https://www.youtube.com/watch?v=qIFlMRYSmjU",
+  "photos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-soas-ngeeann-sg.png",
+  "image": "assets/photo/campus_soas-ngeeann-sg.jpg",
+  "description": "Established educational foundation delivering high-caliber degree pathways in business, public policy, and healthcare with renowned UK universities.",
+  "descriptionAr": "مؤسسة تعليمية تقدم مسارات درجات جامعية بريطانية معتمدة بالتعاون مع جامعات مرموقة مثل كينغز كوليدج وجامعة أديليد في الإدارة والسياسات العامة.",
+  "about": {
+    "ar": "تعد مركز نغي آن التعليمي (Ngee Ann Academy) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "Ngee Ann Academy (SOAS Education Centre) is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "Ngee Ann Academy (SOAS Education Centre) adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Prestigious Partner Campus (King's College London & Adelaide Degree Centre) - World-Renowned Excellence",
+        "ar": "Prestigious Partner Campus (King's College London & Adelaide Degree Centre) - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Ngee Ann Academy (SOAS Education Centre) Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ مركز نغي آن التعليمي (Ngee Ann Academy)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_diploma",
+      "levelName": "Diploma",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 12,000 - SGD 18,000"
+    },
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "2 - 3 Years",
+      "avgFee": "SGD 22,000 - SGD 36,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 1.5 Years",
+      "avgFee": "SGD 26,000 - SGD 42,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "soas-ngeeann-sg-nurse-bsc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Science (Honours) in Nursing with Registration (King's College London)",
+      "nameAr": "بكالوريوس العلوم في التمريض السريري المعتمد (كينغز كوليدج لندن KCL)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 29500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, July",
+      "intakesAr": "يناير، يوليو",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Honours) in Nursing with Registration (King's College London) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في التمريض السريري المعتمد (كينغز كوليدج لندن KCL) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29500
+        },
+        {
+          "year": 2,
+          "fee": 29500
+        }
+      ],
+      "totalTuitionFee": 59000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-nurse-msc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Master of Science in Clinical Nursing Leadership (King's College London)",
+      "nameAr": "ماجستير العلوم في القيادة والتمريض السريري المتقدم (كينغز كوليدج لندن)",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 34000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "January, July",
+      "intakesAr": "يناير، يوليو",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Clinical Nursing Leadership (King's College London) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في القيادة والتمريض السريري المتقدم (كينغز كوليدج لندن) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34000
+        },
+        {
+          "year": 2,
+          "fee": 34000
+        }
+      ],
+      "totalTuitionFee": 68000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-adelaide-mba",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Master of Business Administration (University of Adelaide - Group of Eight)",
+      "nameAr": "ماجستير إدارة الأعمال من جامعة أديليد الأسترالية (تحالف جامعات الثماني G8)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 35000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, May, September",
+      "intakesAr": "يناير، مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Business Administration (University of Adelaide - Group of Eight) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير إدارة الأعمال من جامعة أديليد الأسترالية (تحالف جامعات الثماني G8) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35000
+        },
+        {
+          "year": 2,
+          "fee": 35000
+        }
+      ],
+      "totalTuitionFee": 70000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-adelaide-bcom",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Commerce (University of Adelaide - Group of Eight)",
+      "nameAr": "بكالوريوس التجارة الدولية والمحاسبة (جامعة أديليد الأسترالية)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "January, May, September",
+      "intakesAr": "يناير، مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Commerce (University of Adelaide - Group of Eight) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس التجارة الدولية والمحاسبة (جامعة أديليد الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        },
+        {
+          "year": 3,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 84000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-adelaide-mph",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Master of Public Health (University of Adelaide)",
+      "nameAr": "ماجستير الصحة العامة والسياسات الصحية الدولية (جامعة أديليد الأسترالية)",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 33000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, May, September",
+      "intakesAr": "يناير، مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Public Health (University of Adelaide) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الصحة العامة والسياسات الصحية الدولية (جامعة أديليد الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33000
+        },
+        {
+          "year": 2,
+          "fee": 33000
+        }
+      ],
+      "totalTuitionFee": 66000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-soas-mgmt-bsc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Science in Global Management (SOAS University of London)",
+      "nameAr": "بكالوريوس العلوم في الإدارة العالمية (كلية الدراسات الشرقية والإفريقية SOAS لندن)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Global Management (SOAS University of London) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في الإدارة العالمية (كلية الدراسات الشرقية والإفريقية SOAS لندن) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        },
+        {
+          "year": 3,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 81000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-gero-nurse-bsc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Science (Honours) in Nursing (Gerontological Care) (King's)",
+      "nameAr": "بكالوريوس العلوم في تمريض ورعاية المسنين (كينغز كوليدج لندن KCL)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 29500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, July",
+      "intakesAr": "يناير، يوليو",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Honours) in Nursing (Gerontological Care) (King's) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في تمريض ورعاية المسنين (كينغز كوليدج لندن KCL) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29500
+        },
+        {
+          "year": 2,
+          "fee": 29500
+        }
+      ],
+      "totalTuitionFee": 59000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-icu-nurse-bsc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Science (Honours) in Nursing (Critical Care) (King's)",
+      "nameAr": "بكالوريوس العلوم في تمريض العناية المركزة والطوارئ (كينغز كوليدج لندن KCL)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 29500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, July",
+      "intakesAr": "يناير، يوليو",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Honours) in Nursing (Critical Care) (King's) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في تمريض العناية المركزة والطوارئ (كينغز كوليدج لندن KCL) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29500
+        },
+        {
+          "year": 2,
+          "fee": 29500
+        }
+      ],
+      "totalTuitionFee": 59000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-clinres-msc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Master of Science in Clinical Research (King's College London)",
+      "nameAr": "ماجستير العلوم في الأبحاث والتجارب الإكلينيكية (كينغز كوليدج لندن)",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 34500,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "January, July",
+      "intakesAr": "يناير، يوليو",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Clinical Research (King's College London) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الأبحاث والتجارب الإكلينيكية (كينغز كوليدج لندن) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34500
+        },
+        {
+          "year": 2,
+          "fee": 34500
+        }
+      ],
+      "totalTuitionFee": 69000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-innov-bcom",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Innovation and Entrepreneurship (University of Adelaide)",
+      "nameAr": "بكالوريوس الابتكار وريادة الأعمال وتأسيس الشركات (جامعة أديليد الأسترالية)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "January, May, September",
+      "intakesAr": "يناير، مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Innovation and Entrepreneurship (University of Adelaide) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الابتكار وريادة الأعمال وتأسيس الشركات (جامعة أديليد الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        },
+        {
+          "year": 3,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 84000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-finmkt-bcom",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Finance and Financial Markets (University of Adelaide)",
+      "nameAr": "بكالوريوس التمويل وأسواق الأوراق المالية (جامعة أديليد الأسترالية)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "January, May, September",
+      "intakesAr": "يناير، مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Finance and Financial Markets (University of Adelaide) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس التمويل وأسواق الأوراق المالية (جامعة أديليد الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        },
+        {
+          "year": 3,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 84000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-appfin-msc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Master of Applied Finance (University of Adelaide)",
+      "nameAr": "ماجستير التمويل التطبيقي وتحليل الاستثمارات (جامعة أديليد الأسترالية)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 34000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, May, September",
+      "intakesAr": "يناير، مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Applied Finance (University of Adelaide) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير التمويل التطبيقي وتحليل الاستثمارات (جامعة أديليد الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34000
+        },
+        {
+          "year": 2,
+          "fee": 34000
+        }
+      ],
+      "totalTuitionFee": 68000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-pm-msc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Master of Project Management (University of Adelaide)",
+      "nameAr": "ماجستير إدارة المشاريع المؤسسية المتقدمة (جامعة أديليد الأسترالية)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 33500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, May, September",
+      "intakesAr": "يناير، مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Project Management (University of Adelaide) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير إدارة المشاريع المؤسسية المتقدمة (جامعة أديليد الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33500
+        },
+        {
+          "year": 2,
+          "fee": 33500
+        }
+      ],
+      "totalTuitionFee": 67000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-dev-ba",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Bachelor of Arts in Development Studies & Global Business (SOAS London)",
+      "nameAr": "بكالوريوس الآداب في دراسات التنمية وإدارة الأعمال العالمية (SOAS لندن)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts in Development Studies & Global Business (SOAS London) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في دراسات التنمية وإدارة الأعمال العالمية (SOAS لندن) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        },
+        {
+          "year": 3,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 81000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "soas-ngeeann-sg-intmgmt-msc",
+      "universityId": "soas-ngeeann-sg",
+      "name": "Master of Science in International Management (SOAS University of London)",
+      "nameAr": "ماجستير العلوم في الإدارة الدولية والدراسات الاقتصادية (SOAS لندن)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in International Management (SOAS University of London) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الإدارة الدولية والدراسات الاقتصادية (SOAS لندن) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31000
+        }
+      ],
+      "totalTuitionFee": 31000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 15,
+  "totalProgramsCount": 15,
+  "campusNameAr": "حرم تانك رود التاريخي",
+  "campusImage": "assets/photo/campus_soas-ngeeann-sg.jpg",
+  "nameAr": "مركز نغي آن التعليمي (Ngee Ann Academy)"
+}

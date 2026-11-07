@@ -1,0 +1,2431 @@
+{
+  "id": "swinburne",
+  "name": "Swinburne University of Technology Sarawak",
+  "arabicName": "جامعة سوينبرن التكنولوجية الأسترالية في ساراواك",
+  "city": "Kuching, Sarawak",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-swinburne.webp",
+  "image": "assets/photo/campus_swinburne.webp",
+  "website": "https://www.swinburne.edu.my/",
+  "ranking": "Rank 285 QS World University Rankings 2025 (Australian Branch Campus)",
+  "established": "2000",
+  "campusName": "Swinburne Kuching Innovation Campus",
+  "studentCount": "4,000+ (55+ Countries)",
+  "intakes": "Feb, Jul, Sep",
+  "feeRangeMin": 11320,
+  "feeRangeMax": 65520,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/5BcgrGpadNc",
+  "description": "Swinburne University of Technology Sarawak is one of the leading recognized higher education institutions located in Kuching, Sarawak. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة سوينبرن التكنولوجية الأسترالية في ساراواك واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Kuching, Sarawak، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Swinburne University of Technology Sarawak didirikan pada tahun 2000 di Kuching, Sarawak, sebagai kampus cabang internasional resmi dari Swinburne University of Technology Melbourne, Australia (Rank 291 QS World). Memberikan kurikulum dan ijazah asli Australia.",
+    "en": "Swinburne University of Technology Sarawak Campus, established in 2000 in Kuching, is the premier international branch campus of Swinburne Melbourne, Australia (Rank 291 QS World), awarding identical Australian degrees at affordable tuition.",
+    "ar": "تأسس فرع جامعة سوينبرن للتكنولوجيا في ساراواك عام 2000 بكوتشينغ، وهو الحرم الجامعي الدولي الرسمي لجامعة سوينبرن بملبورن أستراليا (المرتبة 291 عالمياً)، ويمنح الشهادة الأسترالية الأصلية المعتمدة.",
+    "zh": "斯威本科技大学砂拉越分校于2000年建立在古晋市，是澳大利亚墨尔本斯威本科技大学（QS全球291位）的官方直属国际校区，颁发与澳洲本部完全一致的纯正澳洲学士学位。",
+    "ru": "Кампус Технологического университета Суинберн в Сараваке (Кучинг) — официальный международный филиал австралийского Swinburne Melbourne (Rank 291 QS).",
+    "fr": "Le campus de Swinburne University à Sarawak (Kuching) est la branche officielle de Swinburne Melbourne (Rank 291 QS), délivrant des diplômes australiens identiques.",
+    "es": "El campus de Swinburne University en Sarawak (Kuching) es la sede internacional oficial de Swinburne Melbourne (Rank 291 QS), otorgando títulos australianos.",
+    "ja": "スウィンバーン工科大学サラワク校は豪州メルボルンの本校（QS世界第291位）の直営国際キャンパスであり、同一のオーストラリア学位を授与。",
+    "ko": "스윈번 공과대학교 사라왁 캠퍼스는 호주 멜버른 본교(QS 세계 291위)의 공식 글로벌 브랜치 캠퍼스로, 호주 본교와 동일한 학위를 수여합니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kompleks Laboratorium Rekayasa & Mekatronika Standar Australia",
+        "en": "Australian-Standard Engineering & Mechatronics Complexes",
+        "ar": "مجمع مختبرات الهندسة والميكاترونكس المتوافق مع المعايير الأسترالية",
+        "ko": "호주 본교 표준 공학 및 메카트로닉스 종합 첨단 실험 컴플렉스",
+        "ja": "オーストラリア本校基準の工学＆メカトロニクス総合実験施設",
+        "zh": "对标澳洲总校严苛工业标准的工程与微电子机电一体化实验综合大楼",
+        "ru": "Комплекс инженерных и мехатронных лабораторий по австралийским стандартам",
+        "fr": "Complexe de laboratoires d'ingénierie et mécatronique aux normes australiennes",
+        "es": "Complejo de laboratorios de ingeniería y mecatrónica de estándar australiano"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Keunggulan Keamanan Siber & Rekayasa Perangkat Lunak AWS",
+        "en": "Cybersecurity & AWS Cloud Software Engineering Centres",
+        "ar": "مراكز التميز في الأمن السيبراني وهندسة الحوسبة السحابية AWS",
+        "ko": "사이버 보안 및 AWS 클라우드 소프트웨어 엔지니어링 우수 센터",
+        "ja": "サイバーセキュリティ＆AWSクラウド・ソフトウェア工学センター",
+        "zh": "网络空间安全前沿防卫与亚马逊AWS云端软件工程研发中心",
+        "ru": "Центры кибербезопасности и облачной инженерии ПО AWS",
+        "fr": "Centres d'excellence en cybersécurité et génie logiciel cloud AWS",
+        "es": "Centros de ciberseguridad e ingeniería de software en la nube de AWS"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Studio Desain Grafis, Multimedia & Animasi Digital Kreatif",
+        "en": "Graphic Design, Digital Media & Creative Animation Studios",
+        "ar": "استوديوهات التصميم الجرافيكي والإعلام الرقمي والرسوم المتحركة",
+        "ko": "그래픽 디자인, 디지털 미디어 및 크리에이티브 애니메이션 스튜디오",
+        "ja": "グラフィックデザイン・デジタルメディア＆アニメーション制作スタジオ",
+        "zh": "专业视觉平面传达设计、数字新媒体艺术与三维数字动画工作室",
+        "ru": "Студии графического дизайна, цифровых медиа и креативной анимации",
+        "fr": "Studios de design graphique, de médias numériques et d'animation créative",
+        "es": "Estudios de diseño gráfico, medios digitales y animación creativa"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Penelitian Biodiversitas Hutan Tropis & Energi Terbarukan",
+        "en": "Tropical Rainforest Biodiversity & Renewable Energy Research",
+        "ar": "مراكز أبحاث التنوع البيولوجي للغابات الاستوائية والطاقة المتجددة",
+        "ko": "열대우림 생물다양성 및 재생에너지 첨단 연구 센터",
+        "ja": "熱帯雨林生物多様性＆再生可能エネルギー先端研究センター",
+        "zh": "砂拉越婆罗洲热带雨林生物多样性保护与绿色可再生清洁能源研究中心",
+        "ru": "Исследовательский центр биоразнообразия тропических лесов и возобновляемой энергии",
+        "fr": "Centre de recherche sur la biodiversité des forêts tropicales et les énergies renouvelables",
+        "es": "Centro de investigación en biodiversidad de selvas tropicales y energías renovables"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇦🇺",
+      "title": {
+        "id": "Kampus Cabang Resmi Swinburne Melbourne (Rank 291 QS World Rankings)",
+        "en": "Official Australian Branch Campus of Swinburne Melbourne (Rank 291 QS)",
+        "ar": "الفرع الرسمي المباشر لجامعة سوينبرن ملبورن الأسترالية (Rank 291 عالمياً)",
+        "ko": "호주 멜버른 명문 스윈번 공과대학교의 공식 직영 캠퍼스 (세계 291위)",
+        "ja": "オーストラリア・メルボルン名門スウィンバーン工科大学の直営キャンパス（QS世界291位）",
+        "zh": "QS世界排名第291位澳大利亚墨尔本斯威本科技大学的官方直属国际分校",
+        "ru": "Официальный филиал австралийского университета Swinburne Melbourne (Rank 291 в мире)",
+        "fr": "Campus officiel délocalisé de Swinburne Melbourne, Australie (Rank 291 mondial)",
+        "es": "Campus oficial en el extranjero de Swinburne Melbourne (Australia, Rank 291 QS)"
+      },
+      "desc": {
+        "id": "Menawarkan ijazah asli Australia yang 100% identik dengan kampus Melbourne dengan biaya kuliah sepertiga lebih hemat.",
+        "en": "Awarding identical, 100% authentic Australian degrees at one-third of the tuition and living cost of Melbourne.",
+        "ar": "تمنح نفس الشهادة الأسترالية الأصلية المعتمدة 100% بتكلفة دراسية ومعيشية تعادل ثلث تكاليف ملبورن.",
+        "ko": "멜버른 본교와 100% 동일한 호주 본교 정규 학위를 수여받으며, 학비와 생활비는 3분의 1 수준으로 절감.",
+        "ja": "メルボルン本校と100％同一の豪州正規学位を授与され、学費と生活費は本国の約3分の1に抑制可能。",
+        "zh": "颁发与澳大利亚墨尔本本部完全一致的正规学士学位，而学杂费及生活开支仅需澳洲本土的三分之一。",
+        "ru": "Выдает подлинные австралийские дипломы, идентичные кампусу в Мельбурне, при стоимости в 3 раза ниже.",
+        "fr": "Délivre des diplômes australiens 100 % identiques au campus de Melbourne pour un tiers du coût.",
+        "es": "Otorga títulos australianos 100% idénticos al campus de Melbourne por un tercio del coste."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Akreditasi Lembaga Insinyur Australia (Engineers Australia) & BEM",
+        "en": "Accredited by Engineers Australia & Washington Accord",
+        "ar": "معتمدة من مجلس المهندسين الأسترالي (Engineers Australia) واتفاقية واشنطن",
+        "ko": "호주 공학자협회(Engineers Australia) 및 워싱턴 어코드 국제 공식 인증",
+        "ja": "エンジニアズ・オーストラリア（Engineers Australia）およびワシントン協定国際認定",
+        "zh": "获澳大利亚工程师协会（Engineers Australia）全满贯国际工程认证及华盛顿协议认可",
+        "ru": "Аккредитация Института инженеров Австралии и Вашингтонского соглашения",
+        "fr": "Accrédité par Engineers Australia et l'Accord de Washington",
+        "es": "Acreditado por Engineers Australia y el Acuerdo de Washington"
+      },
+      "desc": {
+        "id": "Lulusan program sarjana teknik otomatis memenuhi syarat untuk berpraktik sebagai insinyur profesional di Australia dan global.",
+        "en": "Engineering graduates are immediately recognized for professional practice across Australia and worldwide.",
+        "ar": "يتمتع خريجو الهندسة بأهلية الممارسة المهنية الفورية كمهندسين معتمدين في أستراليا وكافة دول العالم.",
+        "ko": "공학부 졸업생은 호주 본국은 물론 전 세계에서 공인 프로페셔널 엔지니어로 즉시 활동 자격 획득.",
+        "ja": "工学部卒業生はオーストラリア本国をはじめ世界中で公認プロ技術者として即座に登録・活躍可能。",
+        "zh": "工科毕业生自动享有直接在澳大利亚及全球数十个发达经济体注册执业工程师的权威资格。",
+        "ru": "Выпускники инженерных специальностей сразу получают признание для работы в Австралии и по всему миру.",
+        "fr": "Les diplômés en ingénierie sont immédiatement habilités à exercer en Australie et dans le monde entier.",
+        "es": "Los graduados en ingeniería están habilitados de inmediato para ejercer en Australia y a nivel global."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Jalur Transfer Fleksibel ke Kampus Melbourne Tanpa Hambatan",
+        "en": "Seamless Inter-Campus Transfer to Swinburne Melbourne",
+        "ar": "مسار تحويل مرن وسلس لاستكمال الدراسة في ملبورن بأستراليا في أي وقت",
+        "ko": "호주 멜버른 본교로 자유롭게 학업을 이어가는 원활한 캠퍼스 트랜스퍼",
+        "ja": "メルボルン本校へのシームレスなキャンパス間トランスファー制度",
+        "zh": "随时自由申请无缝转校至澳大利亚墨尔本校区完成学业的双向直通机制",
+        "ru": "Беспрепятственный перевод между кампусами в Swinburne Melbourne",
+        "fr": "Transfert inter-campus fluide vers le campus de Swinburne Melbourne",
+        "es": "Traslado fluido entre campus hacia Swinburne Melbourne en Australia"
+      },
+      "desc": {
+        "id": "Mahasiswa dapat memulai kuliah 1-2 tahun di Sarawak dan mentransfer sisa masa studi ke Australia dengan kredit 100% sinkron.",
+        "en": "Start 1 or 2 years in Sarawak and transfer seamlessly to Australia with zero credit loss due to identical syllabi.",
+        "ar": "يمكنك دراسة سنة أو سنتين في ماليزيا ثم الانتقال مباشرة إلى أستراليا لمعادلة كافة المقررات دون أي فقدان للساعات.",
+        "ko": "말레이시아에서 1~2년을 이수한 후 동일한 커리큘럼을 바탕으로 학점 손실 없이 호주 본교로 직행 편입 가능.",
+        "ja": "サラワク校で1〜2年間学んだ後、同一のシラバスに基づき単位を100％移行して豪州本校へ編入可能。",
+        "zh": "在砂拉越校区修读1至2年后，依托完全相同的教学大纲，零学分损耗无缝平移至墨尔本总校冲刺毕业。",
+        "ru": "Начните учебу в Сараваке и переведитесь в Австралию без потери кредитов.",
+        "fr": "Commencez 1 ou 2 ans à Sarawak et transférez-vous en Australie sans perte de crédits.",
+        "es": "Cursa 1 o 2 años en Sarawak y trasládate a Australia sin pérdida de créditos."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Lokasi Damai & Eksotis di Kuching, Sarawak: Kota Paling Aman di Malaysia",
+        "en": "Vibrant & Safe Student Life in Kuching: Malaysia’s Most Peaceful City",
+        "ar": "حياة طلابية آمنة وهادئة في مدينة كوتشينغ الساحرة: المدينة الأكثر أماناً في ماليزيا",
+        "ko": "말레이시아에서 가장 안전하고 평화로운 도시, 쿠칭(Kuching)의 청정 캠퍼스 라이프",
+        "ja": "マレーシア屈指の治安の良さと平穏を誇るクチン市での快適な留学ライフ",
+        "zh": "坐落于全马公认最安全宜居的花园城市“古晋”：安宁舒适与国际化多元交融",
+        "ru": "Безопасная студенческая жизнь в Кучинге — самом спокойном городе Малайзии",
+        "fr": "Une vie étudiante paisible à Kuching, la ville la plus sûre de Malaisie",
+        "es": "Vida universitaria segura y acogedora en Kuching, la ciudad más tranquila de Malasia"
+      },
+      "desc": {
+        "id": "Kuching menawarkan keindahan alam Borneo yang menakjubkan, biaya hidup terjangkau, dan keramahan penduduk kelas dunia.",
+        "en": "Kuching offers stunning Borneo nature, affordable rentals, and internationally renowned warmth and safety.",
+        "ar": "تتميز كوتشينغ بجمال طبيعة جزيرة بورنيو الخلابة، وانخفاض تكاليف الإيجار والمعيشة، وأعلى درجات الأمان.",
+        "ko": "보르네오섬의 웅장한 대자연, 저렴한 주거비 및 친절하고 포용력 넘치는 치안 환경.",
+        "ja": "ボルネオ島の壮大な自然、非常に手頃な家賃、世界的に知られる治安と人々の温かさ。",
+        "zh": "尽享婆罗洲大自然的壮阔美景、极其低廉实惠的租房生活成本与热情包容的宜居环境。",
+        "ru": "Кучинг славится природой Борнео, доступным жильем и всемирно известным гостеприимством.",
+        "fr": "Kuching offre la nature spectaculaire de Bornéo, des loyers modérés et une sécurité exemplaire.",
+        "es": "Kuching combina la exuberante naturaleza de Borneo, alquileres asequibles y una seguridad excepcional."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Asrama Residensi Mahasiswa Kampus Swinburne On-Campus Hostel",
+        "en": "Swinburne Sarawak Official On-Campus Student Hostels",
+        "ar": "السكن الجامعي الطلابي الرسمي الداخلي لجامعة سوينبرن ساراواك",
+        "ko": "스윈번 사라왁 교내 공식 학생 호스텔 레지던스",
+        "ja": "スウィンバーン・サラワク校内公式学生ホステル",
+        "zh": "斯威本科技大学砂拉越校区官方内设学生公寓楼群",
+        "ru": "Официальные студенческие общежития на кампусе Swinburne Sarawak",
+        "fr": "Résidences étudiantes officielles sur le campus de Swinburne Sarawak",
+        "es": "Residencias de estudiantes en el campus oficial de Swinburne Sarawak"
+      },
+      "distance": {
+        "id": "Terletak di Dalam Lingkungan Kampus (1 Menit Jalan Kaki)",
+        "en": "Located On-Site Within Campus Grounds (1-Minute Walk)",
+        "ar": "تقع مباشرة داخل حرم الجامعة (دقيقة واحدة سيراً على الأقدام)",
+        "ko": "캠퍼스 내 위치 (도보 단 1분 거리)",
+        "ja": "キャンパス敷地内（徒歩1分）",
+        "zh": "坐落于大学校园绿地核心区，步行1分钟即达图书馆与实验大楼",
+        "ru": "На территории кампуса (1 минута пешком)",
+        "fr": "Situé directement sur le campus (1 minute à pied)",
+        "es": "Ubicadas dentro del propio campus (a 1 minuto a pie)"
+      },
+      "priceRange": "RM 350 - RM 800 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam & Sistem Kartu Akses",
+          "AC & WiFi Kampus Berkecepatan Tinggi",
+          "Dapur Bersama & Lounge Mahasiswa",
+          "Fasilitas Binatu Otomatis Lengkap",
+          "Dekat Kantin Kampus & Pusat Belanja The Spring"
+        ],
+        "en": [
+          "24/7 Security Patrols & Keycard Entry",
+          "Fully Air-Conditioned with High-Speed Campus WiFi",
+          "Shared Kitchens & Multi-Purpose Student Lounges",
+          "Fully Equipped In-House Laundromat",
+          "Adjacent to Campus Cafeteria & The Spring Mall"
+        ],
+        "ar": [
+          "حراسة أمنية 24 ساعة وبطاقات ذكية للمداخل",
+          "غرف مكيفة ومجهزة بإنترنت الحرم فائق السرعة",
+          "مطابخ مشتركة وقاعات استراحة طلابية فسيحة",
+          "مغاسل ملابس آلية ذاتية الخدمة متكاملة",
+          "ملاصقة لكافتيريا الجامعة ومركز ذا سبرينغ التجاري الشهير"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian (Sangat Terjangkau)",
+        "en": "Food & Daily Dining (Very Affordable)",
+        "ar": "الطعام والمأكولات اليومية (مناسب جداً)"
+      },
+      "cost": "RM 500 - RM 800"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus Kuching / Shuttle",
+        "en": "Local Transit, Campus Shuttle & Rideshare",
+        "ar": "المواصلات العامة وحافلات الجامعة"
+      },
+      "cost": "RM 40 - RM 100"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 70 - RM 130"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Biaya Rekreasi",
+        "en": "Personal Expenses & Recreation",
+        "ar": "المستلزمات الشخصية والأنشطة الترفيهية"
+      },
+      "cost": "RM 180 - RM 350"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apakah ijazah sarjana dari Swinburne Sarawak benar-benar sama dengan Swinburne Melbourne?",
+        "en": "Is the degree awarded by Swinburne Sarawak identical to Swinburne Melbourne?",
+        "ar": "هل الشهادة الجامعية الممنوحة من فرع ساراواك مطابقة تماماً لشهادة ملبورن الأسترالية؟",
+        "ko": "스윈번 사우스 사각 캠퍼스에서 수여하는 학위는 멜버른 본교 학위와 완벽히 동일한가요?",
+        "ja": "スウィンバーン・サラワク校の学位はメルボルン本校と全く同一ですか？",
+        "zh": "从斯威本科技大学砂拉越校区毕业所获得的学位证书，与墨尔本总校颁发的是否完全一致？",
+        "ru": "Идентичен ли диплом Swinburne Sarawak диплому кампуса в Мельбурне?",
+        "fr": "Le diplôme délivré par Swinburne Sarawak est-il identique à celui de Swinburne Melbourne ?",
+        "es": "¿Es el título otorgado por Swinburne Sarawak idéntico al de Swinburne Melbourne?"
+      },
+      "a": {
+        "id": "Ya, 100% sama persis. Ijazah dan transkrip resmi dikeluarkan langsung oleh Swinburne University of Technology di Australia tanpa menyebutkan kata \"cabang\" atau \"Sarawak\" pada nama universitas pemberi gelar.",
+        "en": "Yes, 100% identical. Parchments and official transcripts are issued directly by Swinburne University of Technology Australia without differentiating between campuses.",
+        "ar": "نعم، مطابقة بنسبة 100%. تصدر شهادة التخرج وسجل الدرجات الرسمي مباشرة من جامعة سوينبرن في أستراليا دون أي تمييز بين الفروع.",
+        "ko": "네, 100% 동일합니다. 공식 학위기와 성적증명서는 호주 본교에서 직접 발행되며, 캠퍼스 소재지에 따른 어떠한 차별 표기도 없습니다.",
+        "ja": "はい、100％同一です。公式学位記および成績証明書はオーストラリア本校から直接発行され、キャンパスによる違いの表記はありません。",
+        "zh": "是的，百分之百完全相同。所有毕业生的学位证书和官方成绩单均由澳大利亚墨尔本本部统一印制颁发，正文绝无“分校”或“海外校区”字样。",
+        "ru": "Да, на 100% идентичны. Официальные дипломы выдаются непосредственно Swinburne University в Австралии.",
+        "fr": "Oui, identique à 100 %. Les parchemins sont émis directement par l'université en Australie sans distinction de campus.",
+        "es": "Sí, 100% idénticos. Los títulos y expedientes son emitidos por Swinburne en Australia sin diferenciar campus."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah sarjana (Bachelor) di Swinburne Sarawak?",
+        "en": "What are the bachelor degree tuition fees at Swinburne Sarawak?",
+        "ar": "كم تبلغ الرسوم الدراسية لدراسة البكالوريوس في جامعة سوينبرن ساراواك؟",
+        "ko": "스윈번 사라왁 캠퍼스의 학부 과정 등록금은 얼마인가요?",
+        "ja": "スウィンバーン・サラワク校の学士課程の学費はどれくらいですか？",
+        "zh": "在斯威本科技大学砂拉越分校修读本科课程的学杂费标准是多少？",
+        "ru": "Каковы цены на программы бакалавриата в Swinburne Sarawak?",
+        "fr": "Quels sont les frais de scolarité en licence à Swinburne Sarawak ?",
+        "es": "¿Cuáles son las tarifas de matrícula para un grado en Swinburne Sarawak?"
+      },
+      "a": {
+        "id": "Program Bisnis dan Desain sekitar $6.800 - $7.800 USD per tahun. Program Ilmu Komputer dan Rekayasa Teknik sekitar $8.200 - $9.500 USD per tahun (jauh lebih hemat daripada kuliah di Australia yang mencapai $35.000+ USD/tahun).",
+        "en": "Business & Design range between $6,800 and $7,800 USD/year. Computing & Engineering range between $8,200 and $9,500 USD/year (compared to $35,000+ AUD/year in Australia).",
+        "ar": "تتراوح برامج الأعمال والتصميم بين 6,800 إلى 7,800 دولار سنوياً. والحوسبة والهندسة بين 8,200 إلى 9,500 دولار سنوياً (مقارنة بأكثر من 35,000 دولار سنوياً في أستراليا).",
+        "ko": "경영 및 디자인은 연간 약 6,800~7,800 달러, IT 및 공학부는 연간 약 8,200~9,500 달러로 호주 본국(연간 35,000달러 이상) 대비 3분의 1 수준입니다.",
+        "ja": "ビジネス＆デザインは年間約6,800〜7,800米ドル、IT＆工学部は年間約8,200〜9,500米ドルと、豪州本校（年35,000米ドル超）に比べ劇的に経済的です。",
+        "zh": "商科及设计专业每年约6,800至7,800美元；计算机及工程各专业每年约8,200至9,500美元（相比澳洲本土每年35,000美元以上的开销，大幅节省65%以上资金）。",
+        "ru": "Бизнес и дизайн: 6 800–7 800 $ в год; IT и инженерия: 8 200–9 500 $ в год (в Австралии — от 35 000 $).",
+        "fr": "Commerce et design : 6 800 à 7 800 $ par an ; IT et ingénierie : 8 200 à 9 500 $ par an (contre plus de 35 000 $ en Australie).",
+        "es": "Empresa y Diseño: 6.800-7.800 $ al año; Informática e Ingeniería: 8.200-9.500 $ anuales (frente a +35.000 $ en Australia)."
+      }
+    },
+    {
+      "q": {
+        "id": "Bagaimana syarat transfer ke kampus Swinburne di Melbourne?",
+        "en": "What are the conditions for transferring to the Melbourne campus?",
+        "ar": "ما هي شروط وإجراءات التحويل إلى حرم ملبورن بأستراليا؟",
+        "ko": "호주 멜버른 본교로 학점을 편입하기 위한 조건은 어떻게 되나요?",
+        "ja": "メルボルン本校へ編入するための条件や手続きは？",
+        "zh": "学生申请转入澳大利亚墨尔本本部继续修读，需要满足哪些基本条件？",
+        "ru": "Каковы условия перевода в кампус Мельбурна?",
+        "fr": "Quelles sont les conditions pour être transféré sur le campus de Melbourne ?",
+        "es": "¿Cuáles son las condiciones para trasladarse al campus de Melbourne?"
+      },
+      "a": {
+        "id": "Mahasiswa hanya perlu menyelesaikan setidaknya 1 tahun akademik di Sarawak dengan prestasi akademik memuaskan (Good Academic Standing), lalu dapat mengajukan visa pelajar Australia tanpa perlu mengulang mata kuliah.",
+        "en": "Students must complete at least 1 academic year in Sarawak in Good Academic Standing to apply for transfer and Australian student visa processing with full credit transfer.",
+        "ar": "يكفي أن ينهي الطالب سنة دراسية واحدة على الأقل في ساراواك بوضع أكاديمي جيد، ثم يتقدم بطلب التحويل والحصول على التأشيرة الأسترالية مع معادلة الساعات بالكامل.",
+        "ko": "사라왁 캠퍼스에서 최소 1개 학년을 양호한 학업 성적(Good Academic Standing)으로 수료하면 과목 손실 없이 호주 비자를 신청하여 편입할 수 있습니다.",
+        "ja": "サラワク校で1年以上を履修し良好な学業成績を維持していれば、取得単位をすべて引き継いで豪州留学ビザを申請・編入できます。",
+        "zh": "学生仅需在砂拉越校区完成至少1学年的课程且GPA处于良好学术状态（Good Standing），即可直接递交转校申请并办理澳大利亚学生签证。",
+        "ru": "Необходимо закончить минимум 1 учебный год с хорошей успеваемостью, после чего можно оформлять перевод и визу.",
+        "fr": "Il suffit d'avoir validé au moins une année universitaire avec de bons résultats pour demander son transfert en Australie.",
+        "es": "Completar al menos 1 año académico con buen expediente para solicitar el traslado y visado australiano."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk mendaftar di Swinburne Sarawak?",
+        "en": "What is the required IELTS score for admission at Swinburne Sarawak?",
+        "ar": "ما هي درجة اختبار IELTS المطلوبة للقبول في جامعة سوينبرن ساراواك؟",
+        "ko": "스윈번 사라왁 입학을 위한 IELTS 성적 기준은 무엇인가요?",
+        "ja": "スウィンバーン・サラワク校への入学に必要なIELTSスコアは？",
+        "zh": "申请入读斯威本科技大学砂拉越校区各专业需要达到多少雅思（IELTS）成绩？",
+        "ru": "Какой минимальный балл IELTS требуется для поступления?",
+        "fr": "Quel score à l'IELTS est demandé pour intégrer Swinburne Sarawak ?",
+        "es": "¿Qué puntuación de IELTS se solicita para ingresar en Swinburne Sarawak?"
+      },
+      "a": {
+        "id": "Sebagian besar program sarjana membutuhkan skor IELTS 6.0 (dengan tidak ada band individual di bawah 6.0) sesuai standar universitas Australia.",
+        "en": "Most undergraduate degree programmes require an IELTS score of 6.0 overall (with no individual band below 6.0) aligned with Australian standards.",
+        "ar": "تتطلب معظم برامج البكالوريوس الحصول على درجة IELTS 6.0 إجمالي (مع عدم وجود مهارة أقل من 6.0) وفقاً للمعايير الأسترالية.",
+        "ko": "호주 대학교 표준에 따라 대다수 학부 전공은 IELTS 6.0(전 영역 6.0 이상)이 요구됩니다.",
+        "ja": "オーストラリアの大学基準に準拠し、大部分の学部課程でIELTS 6.0（全セクション6.0以上）が必要です。",
+        "zh": "严格遵照澳大利亚本土高校录取标准，绝大多数本科专业要求雅思总分6.0（且各单项不得低于6.0分）。",
+        "ru": "Для большинства программ бакалавриата требуется общий балл IELTS 6.0 (не ниже 6.0 в каждом блоке).",
+        "fr": "La plupart des bachelors exigent un score IELTS de 6.0 (sans sous-score inférieur à 6.0) conforme aux normes australiennes.",
+        "es": "La mayoría de licenciaturas exigen un IELTS global de 6.0 (ninguna sección por debajo de 6.0)."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan bulan intake pendaftaran mahasiswa di Swinburne Sarawak?",
+        "en": "What are the intake months open for new students at Swinburne Sarawak?",
+        "ar": "ما هي فصول ومواعيد استقبال الطلاب الجدد في سوينبرن ساراواك؟",
+        "ko": "스윈번 사라왁의 주요 입학 시기는 언제인가요?",
+        "ja": "スウィンバーン・サラワク校の主な入学時期（インテイク）はいつですか？",
+        "zh": "斯威本科技大学砂拉越校区正规本科学位课程每年的开学批次是哪些月份？",
+        "ru": "В какие месяцы открыт прием новых студентов в Swinburne Sarawak?",
+        "fr": "Quelles sont les sessions d'admission ouvertes aux nouveaux étudiants ?",
+        "es": "¿Cuáles son las convocatorias de admisión en Swinburne Sarawak?"
+      },
+      "a": {
+        "id": "Intake utama untuk sarjana adalah pada bulan Maret dan September/Oktober. Program Foundation juga membuka intake pada bulan Juni.",
+        "en": "Primary undergraduate intakes occur in March and September/October. Foundation programmes also admit students in June.",
+        "ar": "تبدأ الفصول الدراسية الرئيسية لبرامج البكالوريوس في شهري مارس وسبتمبر/أكتوبر، وبرامج السنة التحضيرية تفتح أيضاً في يونيو.",
+        "ko": "학사 학위 과정의 주 입학 학기는 3월과 9월/10월이며, 파운데이션 과정은 6월에도 추가 모집합니다.",
+        "ja": "学部課程の主な入学期は3月と9月／10月です。ファウンデーション課程は6月にも開講されます。",
+        "zh": "本科正规学期开学通常为每年3月和9月/10月；大学预科课程另设有6月份入学节点。",
+        "ru": "Основные наборы на программы бакалавриата проходят в марте и сентябре/октябре. Программа Foundation стартует также в июне.",
+        "fr": "Les rentrées principales en licence ont lieu en mars et septembre/octobre. Le cursus préparatoire ouvre aussi en juin.",
+        "es": "Las entradas principales de grado son en marzo y septiembre/octubre. Los cursos preparatorios también inician en junio."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Gelar Asli Australia dari Malaysia: Panduan Lengkap Swinburne Sarawak",
+        "en": "An Authentic Australian Degree from Malaysia: Swinburne Sarawak Guide",
+        "ar": "شهادة أسترالية أصلية من ماليزيا: الدليل الشامل لجامعة سوينبرن ساراواك",
+        "ko": "말레이시아에서 취득하는 진짜 호주 명문 학위: 스윈번 사라왁 완벽 가이드",
+        "ja": "マレーシアで手に入れる正真正銘の豪州学位：スウィンバーン・サラワク完全ナビ",
+        "zh": "立足马来西亚尽享纯正澳洲名校教育：斯威本科技大学砂拉越分校权威择校指南",
+        "ru": "Подлинный австралийский диплом из Малайзии: полный гид по Swinburne Sarawak",
+        "fr": "Un diplôme australien authentique depuis la Malaisie : le guide Swinburne Sarawak",
+        "es": "Una auténtica titulación australiana desde Malasia: guía completa de Swinburne Sarawak"
+      },
+      "summary": {
+        "id": "Ulasan lengkap penghematan biaya kuliah hingga 65%, kurikulum identik Melbourne, akreditasi Washington Accord, dan transisi karier.",
+        "en": "Complete review of 65% tuition savings, Melbourne-identical curriculum, Washington Accord engineering mobility, and careers.",
+        "ar": "مراجعة شاملة لتوفير 65% من النفقات، والمناهج المتطابقة مع ملبورن، والاعتماد الهندسي باتفاقية واشنطن والوظائف.",
+        "ko": "학비 65% 절감 효과, 멜버른 본교와 동일한 학사 과정, 워싱턴 어코드 공학 인증 및 글로벌 취업 전략 심층 분석.",
+        "ja": "学費65％削減のメリット、メルボルンと全く同じシラバス、ワシントン協定による世界での通用性を徹底解説。",
+        "zh": "全方位评析相比澳洲本土节省逾65%教育资金、与墨尔本总校无缝同步的教学大纲、华盛顿协议工科互认及跨国就业机遇。",
+        "ru": "Обзор 65%-й экономии расходов, идентичной учебной программы, аккредитации инженерии и карьерных перспектив.",
+        "fr": "Bilan complet : 65 % d'économies sur la scolarité, cursus identique à Melbourne et accréditations internationales.",
+        "es": "Análisis del 65% de ahorro en costes, plan de estudios idéntico a Melbourne y acreditación de ingeniería."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Kuliah di Kuching: Menikmati Kehidupan Kota Teraman & Terbersih di Malaysia",
+        "en": "Studying in Kuching: Experience the Safest and Cleanest City in Malaysia",
+        "ar": "الدراسة في كوتشينغ: استمتع بالحياة في أنظف وأأمن مدن ماليزيا الساحرة",
+        "ko": "쿠칭 유학 생활: 말레이시아에서 가장 깨끗하고 안전한 도시에서 누리는 캠퍼스 라이프",
+        "ja": "クチンでの留学ライフ：マレーシアで最も清潔で安全な都市を満喫する方法",
+        "zh": "求学砂拉越古晋：沉浸体验全马最干净整洁、最安全祥和的“猫城”留学慢生活",
+        "ru": "Учеба в Кучинге: жизнь в самом безопасном и чистом городе Малайзии",
+        "fr": "Étudier à Kuching : vivre dans la ville la plus propre et sécurisée de Malaisie",
+        "es": "Estudiar en Kuching: descubre la ciudad más limpia y segura de Malasia"
+      },
+      "summary": {
+        "id": "Panduan biaya hidup hemat RM 900/bulan, kuliner legendaris Sarawak Laksa, kawasan waterfront Kuching, dan sewa apartemen.",
+        "en": "Budgeting on RM 900/month, the famous Sarawak Laksa dining culture, scenic Kuching Waterfront, and condo rentals.",
+        "ar": "ميزانية معيشة بـ 900 رينجيت شهرياً، وتجربة أشهر المأكولات المحلية كـ Sarawak Laksa، وكورنيش كوتشينغ وخيارات السكن.",
+        "ko": "월 RM 900으로 가능한 여유로운 생활비, 사라왁 락사 등 유명 미식 문화, 아름다운 워터프론트 및 기숙사 렌트 팁.",
+        "ja": "月額RM 900の低予算ライフ、名物サラワク・ラクサ、美しいクチン・ウォーターフロント、周辺アパート情報。",
+        "zh": "深度盘点月均仅需900马币的高性价比慢调生活、享誉世界的砂拉越叻沙美食文化、水滨步道及校外精选公寓测评。",
+        "ru": "Бюджет 900 ринггитов в месяц, гастрономия (саравак лакса), набережная Кучинга и варианты аренды.",
+        "fr": "Budget de 900 RM par mois, gastronomie locale, front de mer de Kuching et logements étudiants.",
+        "es": "Presupuesto de 900 RM al mes, la gastronomía local, el paseo marítimo de Kuching y alojamientos."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Jalur Transfer ke Melbourne: Cara Kuliah di Australia dengan Anggaran Pintar",
+        "en": "The Melbourne Transfer Pathway: Smart-Budget Journey to Australia",
+        "ar": "مسار التحويل إلى ملبورن: كيف تدرس في أستراليا بأذكى ميزانية تعليمية ممكنة",
+        "ko": "멜버른 본교 편입 패스웨이: 가장 스마트한 예산으로 떠나는 호주 유학",
+        "ja": "メルボルン編入ルート：最もスマートな予算で実現するオーストラリア留学",
+        "zh": "直通墨尔本转学绿色通道：最具智慧资金规划的赴澳留学高分通关策略",
+        "ru": "Путь перевода в Мельбурн: экономное обучение в Австралии",
+        "fr": "La passerelle de transfert vers Melbourne : étudier en Australie avec un budget maîtrisé",
+        "es": "La ruta de traslado a Melbourne: estudiar en Australia con un presupuesto inteligente"
+      },
+      "summary": {
+        "id": "Panduan skema 1+2 atau 2+1: mulai kuliah di Malaysia dan tamatkan gelar bergengsi di Melbourne.",
+        "en": "Navigating the 1+2 or 2+1 model: start your degree in Malaysia and graduate with honours in Melbourne.",
+        "ar": "دليل كامل لنظام 1+2 أو 2+1: ابدأ دراستك في ماليزيا وتخرج بأعلى درجات الشرف في قلب ملبورن.",
+        "ko": "1+2 또는 2+1 편입 모델 활용법: 말레이시아에서 기초를 다지고 멜버른에서 우등 학위로 졸업하는 방법.",
+        "ja": "1+2または2+1編入モデルの活用法：マレーシアで開始しメルボルン本校で名誉学位を取得して卒業。",
+        "zh": "手把手带你玩转1+2或2+1双向跨国修读模型：前期在大马以极低成本夯实基础，后期赴墨尔本总校斩获名校荣耀。",
+        "ru": "Модели обучения 1+2 и 2+1: начните в Малайзии и получите диплом в Мельбурне.",
+        "fr": "Fonctionnement des modèles 1+2 et 2+1 : débuter en Malaisie et obtenir son diplôme à Melbourne.",
+        "es": "Cómo aprovechar el esquema 1+2 o 2+1: empieza en Malasia y gradúate con honores en Melbourne."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Fakultas Teknik & Ilmu Rekayasa (Ijazah Australia)",
+        "en": "Engineering & Technology (Australian Degree)",
+        "ar": "الهندسة والتكنولوجيا المتقدمة (شهادة أسترالية)",
+        "ko": "공학 및 기술학부 (호주 본교 학위)",
+        "ja": "工学＆テクノロジー学部（オーストラリア本校学位）",
+        "zh": "工程与先进制造技术学院（澳洲本部直属学位）",
+        "ru": "Инженерия и технологии (австралийский диплом)",
+        "fr": "Ingénierie et technologie (diplôme australien)",
+        "es": "Ingeniería y Tecnología (Título Australiano)"
+      },
+      "degree": "Bachelor of Engineering (Hons) (Engineers Australia)",
+      "duration": "4 Years",
+      "feeUSD": "$33,000 - $37,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Komputer, Rekayasa Perangkat Lunak & AI",
+        "en": "Computer Science, Software & AI (Australian Degree)",
+        "ar": "علوم الحاسوب والبرمجيات والذكاء الاصطناعي (أسترالية)",
+        "ko": "컴퓨터 과학, 소프트웨어 및 AI (호주 학위)",
+        "ja": "コンピュータサイエンス・ソフトウェア＆AI（豪州学位）",
+        "zh": "计算机科学、软件工程与人工智能学院（澳洲学位）",
+        "ru": "Компьютерные науки, программное обеспечение и ИИ",
+        "fr": "Informatique, génie logiciel et IA (diplôme australien)",
+        "es": "Ciencias de la Computación, Software e IA"
+      },
+      "degree": "Bachelor of Computer Science",
+      "duration": "3 Years",
+      "feeUSD": "$24,500 - $28,000 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Bisnis, Akuntansi & Keuangan Internasional",
+        "en": "Business, Accounting & International Finance",
+        "ar": "الأعمال والمحاسبة والمالية الدولية (أسترالية)",
+        "ko": "비즈니스, 회계학 및 국제 금융학부 (호주 학위)",
+        "ja": "ビジネス・会計学＆国際金融学部（豪州学位）",
+        "zh": "商业、会计与国际金融学院（澳洲三皇冠权威认证）",
+        "ru": "Бизнес, бухгалтерский учет и международные финансы",
+        "fr": "Commerce, comptabilité et finance internationale",
+        "es": "Negocios, Contabilidad y Finanzas Internacionales"
+      },
+      "degree": "Bachelor of Business",
+      "duration": "3 Years",
+      "feeUSD": "$21,000 - $24,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Desain Grafis & Media Komunikasi Digital Kreatif",
+        "en": "Design & Creative Media Communication",
+        "ar": "التصميم الجرافيكي والوسائط الرقمية الإبداعية",
+        "ko": "디자인 및 크리에이티브 미디어 커뮤니케이션",
+        "ja": "デザイン＆クリエイティブメディア学部",
+        "zh": "设计与数字创意多媒体传播学院",
+        "ru": "Дизайн и креативные медиакоммуникации",
+        "fr": "Design et communication par les médias créatifs",
+        "es": "Diseño y Comunicación en Medios Creativos"
+      },
+      "degree": "Bachelor of Design",
+      "duration": "3 Years",
+      "feeUSD": "$22,500 - $25,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation Studies in Engineering / Business / Design",
+        "en": "Foundation Studies (Engineering/Business/Design)",
+        "ar": "السنة التمهيدية الأسترالية في الهندسة أو الأعمال أو التصميم",
+        "ko": "호주 대학교 진학 파운데이션 예비과정",
+        "ja": "オーストラリア大学進学ファウンデーション課程",
+        "zh": "澳大利亚斯威本大学直属大学基础预科文凭课程",
+        "ru": "Подготовительный курс (Foundation) по инженерии/бизнесу/дизайну",
+        "fr": "Année préparatoire en ingénierie / commerce / design",
+        "es": "Curso de Fundamentos en Ingeniería / Empresa / Diseño"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$5,200 - $6,000 Total",
+      "ielts": "5.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=5BcgrGpadNc",
+  "programs": [
+    {
+      "id": "swinburne-swinburne-foundation-studies-information-technology-multimedia",
+      "universityId": "swinburne",
+      "name": "Swinburne Foundation Studies (Information Technology/Multimedia)",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28160,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28160
+        }
+      ],
+      "totalTuitionFee": 28160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-diploma-of-information-technology",
+      "universityId": "swinburne",
+      "name": "Diploma of Information Technology",
+      "nameAr": "دبلوم في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 48150,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48150
+        },
+        {
+          "year": 2,
+          "fee": 48150
+        }
+      ],
+      "totalTuitionFee": 96300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-information-and-communication-technology",
+      "universityId": "swinburne",
+      "name": "Bachelor of Information and Communication Technology",
+      "nameAr": "بكالوريوس في Bachelor of Information and Communication Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37920,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37920
+        },
+        {
+          "year": 2,
+          "fee": 37920
+        },
+        {
+          "year": 3,
+          "fee": 37920
+        }
+      ],
+      "totalTuitionFee": 113760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-computer-science",
+      "universityId": "swinburne",
+      "name": "Bachelor of Computer Science",
+      "nameAr": "بكالوريوس علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37920,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37920
+        },
+        {
+          "year": 2,
+          "fee": 37920
+        },
+        {
+          "year": 3,
+          "fee": 37920
+        }
+      ],
+      "totalTuitionFee": 113760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-software",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Software)",
+      "nameAr": "بكالوريوس الهندسة في Honours) (Software",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 48160,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48160
+        },
+        {
+          "year": 2,
+          "fee": 48160
+        },
+        {
+          "year": 3,
+          "fee": 48160
+        },
+        {
+          "year": 4,
+          "fee": 48160
+        }
+      ],
+      "totalTuitionFee": 192640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-master-of-information-technology",
+      "universityId": "swinburne",
+      "name": "Master of Information Technology",
+      "nameAr": "ماجستير تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 65280,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 65280
+        }
+      ],
+      "totalTuitionFee": 65280,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-graduate-diploma-of-information-technology",
+      "universityId": "swinburne",
+      "name": "Graduate Diploma of Information Technology",
+      "nameAr": "دبلوم في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 1.3,
+      "annualFee": 48960,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48960
+        }
+      ],
+      "totalTuitionFee": 48960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-graduate-certificate-of-information-technology",
+      "universityId": "swinburne",
+      "name": "Graduate Certificate of Information Technology",
+      "nameAr": "برنامج في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 32640,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32640
+        }
+      ],
+      "totalTuitionFee": 32640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-science-environmental-science",
+      "universityId": "swinburne",
+      "name": "Bachelor of Science (Environmental Science)",
+      "nameAr": "بكالوريوس العلوم في Environmental Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48960,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48960
+        },
+        {
+          "year": 2,
+          "fee": 48960
+        },
+        {
+          "year": 3,
+          "fee": 48960
+        }
+      ],
+      "totalTuitionFee": 146880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-cyber-security",
+      "universityId": "swinburne",
+      "name": "Bachelor of Cyber Security",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48160
+        },
+        {
+          "year": 2,
+          "fee": 48160
+        },
+        {
+          "year": 3,
+          "fee": 48160
+        }
+      ],
+      "totalTuitionFee": 144480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-data-science",
+      "universityId": "swinburne",
+      "name": "Bachelor of Data Science",
+      "nameAr": "بكالوريوس في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48160
+        },
+        {
+          "year": 2,
+          "fee": 48160
+        },
+        {
+          "year": 3,
+          "fee": 48160
+        }
+      ],
+      "totalTuitionFee": 144480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-design-bachelor-of-business",
+      "universityId": "swinburne",
+      "name": "Bachelor of Design/Bachelor of Business",
+      "nameAr": "بكالوريوس في Bachelor of Design/Bachelor of Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 45040,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45040
+        },
+        {
+          "year": 2,
+          "fee": 45040
+        },
+        {
+          "year": 3,
+          "fee": 45040
+        },
+        {
+          "year": 4,
+          "fee": 45040
+        }
+      ],
+      "totalTuitionFee": 180160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-swinburne-foundation-studies-business",
+      "universityId": "swinburne",
+      "name": "Swinburne Foundation Studies (Business)",
+      "nameAr": "برنامج تمهيدي في Swinburne Foundation Studies (Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28160,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28160
+        }
+      ],
+      "totalTuitionFee": 28160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-diploma-of-business-management",
+      "universityId": "swinburne",
+      "name": "Diploma of Business Management",
+      "nameAr": "دبلوم في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 46440,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46440
+        },
+        {
+          "year": 2,
+          "fee": 46440
+        }
+      ],
+      "totalTuitionFee": 92880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-diploma-of-accountancy",
+      "universityId": "swinburne",
+      "name": "Diploma of Accountancy",
+      "nameAr": "دبلوم في Accountancy",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 48150,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48150
+        },
+        {
+          "year": 2,
+          "fee": 48150
+        }
+      ],
+      "totalTuitionFee": 96300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-accounting",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (Accounting)",
+      "nameAr": "بكالوريوس الأعمال في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 36880,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36880
+        },
+        {
+          "year": 2,
+          "fee": 36880
+        },
+        {
+          "year": 3,
+          "fee": 36880
+        }
+      ],
+      "totalTuitionFee": 110640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-accounting-and-finance",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (Accounting and Finance)",
+      "nameAr": "بكالوريوس الأعمال في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 36880,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36880
+        },
+        {
+          "year": 2,
+          "fee": 36880
+        },
+        {
+          "year": 3,
+          "fee": 36880
+        }
+      ],
+      "totalTuitionFee": 110640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-finance",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (Finance)",
+      "nameAr": "بكالوريوس الأعمال في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business",
+      "nameAr": "بكالوريوس الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-human-resource-management",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (Human Resource Management)",
+      "nameAr": "بكالوريوس الأعمال في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-international-business",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (International Business)",
+      "nameAr": "بكالوريوس الأعمال في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-management",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (Management)",
+      "nameAr": "بكالوريوس الأعمال في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-marketing",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (Marketing)",
+      "nameAr": "بكالوريوس الأعمال في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-management-and-digital-media",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business (Management and Digital Media)",
+      "nameAr": "بكالوريوس الأعمال في الإعلام الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 36880,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36880
+        },
+        {
+          "year": 2,
+          "fee": 36880
+        },
+        {
+          "year": 3,
+          "fee": 36880
+        }
+      ],
+      "totalTuitionFee": 110640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-business-bachelor-of-information-and-communication-technology",
+      "universityId": "swinburne",
+      "name": "Bachelor of Business/Bachelor of Information and Communication Technology",
+      "nameAr": "بكالوريوس الأعمال في /Bachelor of Information and Communication Technology",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 36880,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36880
+        },
+        {
+          "year": 2,
+          "fee": 36880
+        },
+        {
+          "year": 3,
+          "fee": 36880
+        },
+        {
+          "year": 4,
+          "fee": 36880
+        }
+      ],
+      "totalTuitionFee": 147520,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-master-of-human-resource-management",
+      "universityId": "swinburne",
+      "name": "Master of Human Resource Management",
+      "nameAr": "ماجستير في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 52200,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52200
+        },
+        {
+          "year": 2,
+          "fee": 52200
+        }
+      ],
+      "totalTuitionFee": 104400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-master-of-business-administration-international",
+      "universityId": "swinburne",
+      "name": "Master of Business Administration (International)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في International",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 56960,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56960
+        },
+        {
+          "year": 2,
+          "fee": 56960
+        }
+      ],
+      "totalTuitionFee": 113920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-graduate-diploma-of-business-administration-international",
+      "universityId": "swinburne",
+      "name": "Graduate Diploma of Business Administration (International)",
+      "nameAr": "دبلوم في Graduate Diploma of Business Administration (International",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 1.6,
+      "annualFee": 42720,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42720
+        }
+      ],
+      "totalTuitionFee": 42720,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-graduate-certificate-of-business-administration-international",
+      "universityId": "swinburne",
+      "name": "Graduate Certificate of Business Administration (International)",
+      "nameAr": "برنامج في Graduate Certificate of Business Administration (International",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 28480,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Jul, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28480
+        }
+      ],
+      "totalTuitionFee": 28480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-master-of-construction-management-practice",
+      "universityId": "swinburne",
+      "name": "Master of Construction Management Practice",
+      "nameAr": "ماجستير في Master of Construction Management Practice",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 51840,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51840
+        }
+      ],
+      "totalTuitionFee": 51840,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-swinburne-foundation-studies-engineering-science",
+      "universityId": "swinburne",
+      "name": "Swinburne Foundation Studies (Engineering/Science)",
+      "nameAr": "برنامج تمهيدي في Swinburne Foundation Studies (Engineering/Science",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28160,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28160
+        }
+      ],
+      "totalTuitionFee": 28160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-diploma-of-quantity-surveying",
+      "universityId": "swinburne",
+      "name": "Diploma of Quantity Surveying",
+      "nameAr": "دبلوم في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 65520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 65520
+        },
+        {
+          "year": 2,
+          "fee": 65520
+        },
+        {
+          "year": 3,
+          "fee": 65520
+        }
+      ],
+      "totalTuitionFee": 196560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-civil",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Civil)",
+      "nameAr": "بكالوريوس الهندسة في Honours) (Civil",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 48160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48160
+        },
+        {
+          "year": 2,
+          "fee": 48160
+        },
+        {
+          "year": 3,
+          "fee": 48160
+        },
+        {
+          "year": 4,
+          "fee": 48160
+        }
+      ],
+      "totalTuitionFee": 192640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-electrical-and-electronic-bachelor-of-computer-science",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Electrical and Electronic) /Bachelor of Computer Science",
+      "nameAr": "بكالوريوس الهندسة في Honours) (Electrical and Electronic) /Bachelor of Computer Science",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 46640,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46640
+        },
+        {
+          "year": 2,
+          "fee": 46640
+        },
+        {
+          "year": 3,
+          "fee": 46640
+        },
+        {
+          "year": 4,
+          "fee": 46640
+        },
+        {
+          "year": 5,
+          "fee": 46640
+        }
+      ],
+      "totalTuitionFee": 233200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-mechanical-bachelor-of-business",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Mechanical) /Bachelor of Business",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 46640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46640
+        },
+        {
+          "year": 2,
+          "fee": 46640
+        },
+        {
+          "year": 3,
+          "fee": 46640
+        },
+        {
+          "year": 4,
+          "fee": 46640
+        },
+        {
+          "year": 5,
+          "fee": 46640
+        }
+      ],
+      "totalTuitionFee": 233200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-robotics-and-mechatronics-bachelor-of-computer-science",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Robotics and Mechatronics)/Bachelor of Computer Science",
+      "nameAr": "بكالوريوس الهندسة في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 46640,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46640
+        },
+        {
+          "year": 2,
+          "fee": 46640
+        },
+        {
+          "year": 3,
+          "fee": 46640
+        },
+        {
+          "year": 4,
+          "fee": 46640
+        },
+        {
+          "year": 5,
+          "fee": 46640
+        }
+      ],
+      "totalTuitionFee": 233200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-chemical",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Chemical)",
+      "nameAr": "بكالوريوس الهندسة في Honours) (Chemical",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 48160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48160
+        },
+        {
+          "year": 2,
+          "fee": 48160
+        },
+        {
+          "year": 3,
+          "fee": 48160
+        },
+        {
+          "year": 4,
+          "fee": 48160
+        }
+      ],
+      "totalTuitionFee": 192640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-mechanical",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Mechanical)",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 48160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48160
+        },
+        {
+          "year": 2,
+          "fee": 48160
+        },
+        {
+          "year": 3,
+          "fee": 48160
+        },
+        {
+          "year": 4,
+          "fee": 48160
+        }
+      ],
+      "totalTuitionFee": 192640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-robotics-and-mechatronics",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Robotics and Mechatronics)",
+      "nameAr": "بكالوريوس الهندسة في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 48160,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48160
+        },
+        {
+          "year": 2,
+          "fee": 48160
+        },
+        {
+          "year": 3,
+          "fee": 48160
+        },
+        {
+          "year": 4,
+          "fee": 48160
+        }
+      ],
+      "totalTuitionFee": 192640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-quantity-surveying-honours",
+      "universityId": "swinburne",
+      "name": "Bachelor of Quantity Surveying (Honours)",
+      "nameAr": "بكالوريوس في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 31840,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31840
+        },
+        {
+          "year": 2,
+          "fee": 31840
+        },
+        {
+          "year": 3,
+          "fee": 31840
+        },
+        {
+          "year": 4,
+          "fee": 31840
+        }
+      ],
+      "totalTuitionFee": 127360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-civil-bachelor-of-business",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Civil)/Bachelor of Business",
+      "nameAr": "بكالوريوس الهندسة في Honours) (Civil)/Bachelor of Business",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 46640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46640
+        },
+        {
+          "year": 2,
+          "fee": 46640
+        },
+        {
+          "year": 3,
+          "fee": 46640
+        },
+        {
+          "year": 4,
+          "fee": 46640
+        },
+        {
+          "year": 5,
+          "fee": 46640
+        }
+      ],
+      "totalTuitionFee": 233200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-civil-bachelor-of-computer-science",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Civil)/Bachelor of Computer Science",
+      "nameAr": "بكالوريوس الهندسة في Honours) (Civil)/Bachelor of Computer Science",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 46640,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46640
+        },
+        {
+          "year": 2,
+          "fee": 46640
+        },
+        {
+          "year": 3,
+          "fee": 46640
+        },
+        {
+          "year": 4,
+          "fee": 46640
+        },
+        {
+          "year": 5,
+          "fee": 46640
+        }
+      ],
+      "totalTuitionFee": 233200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-engineering-honours-mechanical-bachelor-of-computer-science",
+      "universityId": "swinburne",
+      "name": "Bachelor of Engineering (Honours) (Mechanical)/Bachelor of Computer Science",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 46640,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46640
+        },
+        {
+          "year": 2,
+          "fee": 46640
+        },
+        {
+          "year": 3,
+          "fee": 46640
+        },
+        {
+          "year": 4,
+          "fee": 46640
+        },
+        {
+          "year": 5,
+          "fee": 46640
+        }
+      ],
+      "totalTuitionFee": 233200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-science-biotechnology",
+      "universityId": "swinburne",
+      "name": "Bachelor of Science (Biotechnology)",
+      "nameAr": "بكالوريوس العلوم في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48960,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48960
+        },
+        {
+          "year": 2,
+          "fee": 48960
+        },
+        {
+          "year": 3,
+          "fee": 48960
+        }
+      ],
+      "totalTuitionFee": 146880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-diploma-of-early-childhood-education",
+      "universityId": "swinburne",
+      "name": "Diploma of Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 46440,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46440
+        },
+        {
+          "year": 2,
+          "fee": 46440
+        }
+      ],
+      "totalTuitionFee": 92880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-master-of-arts-teaching-english-to-speakers-of-other-languages",
+      "universityId": "swinburne",
+      "name": "Master of Arts (Teaching English to Speakers of Other Languages)",
+      "nameAr": "ماجستير في Master of Arts (Teaching English to Speakers of Other Languages",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 45280,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45280
+        },
+        {
+          "year": 2,
+          "fee": 45280
+        }
+      ],
+      "totalTuitionFee": 90560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-graduate-diploma-of-arts-teaching-english-to-speakers-of-other-languages",
+      "universityId": "swinburne",
+      "name": "Graduate Diploma of Arts (Teaching English to Speakers of Other Languages)",
+      "nameAr": "دبلوم في Graduate Diploma of Arts (Teaching English to Speakers of Other Languages",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 22640,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22640
+        }
+      ],
+      "totalTuitionFee": 22640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-graduate-certificate-of-arts-teaching-english-to-speakers-of-other-languages",
+      "universityId": "swinburne",
+      "name": "Graduate Certificate of Arts (Teaching English to Speakers of Other Languages)",
+      "nameAr": "برنامج في Graduate Certificate of Arts (Teaching English to Speakers of Other Languages",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "certificate",
+      "duration": 0.6,
+      "annualFee": 11320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11320
+        }
+      ],
+      "totalTuitionFee": 11320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-swinburne-foundation-studies-design",
+      "universityId": "swinburne",
+      "name": "Swinburne Foundation Studies (Design)",
+      "nameAr": "برنامج تمهيدي في Swinburne Foundation Studies (Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28160,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28160
+        }
+      ],
+      "totalTuitionFee": 28160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-diploma-of-digital-media-design",
+      "universityId": "swinburne",
+      "name": "Diploma of Digital Media Design",
+      "nameAr": "دبلوم في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 48150,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48150
+        },
+        {
+          "year": 2,
+          "fee": 48150
+        }
+      ],
+      "totalTuitionFee": 96300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-design-with-a-major-in-graphic-design",
+      "universityId": "swinburne",
+      "name": "Bachelor of Design with a major in Graphic Design",
+      "nameAr": "بكالوريوس في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 45040,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45040
+        },
+        {
+          "year": 2,
+          "fee": 45040
+        },
+        {
+          "year": 3,
+          "fee": 45040
+        }
+      ],
+      "totalTuitionFee": 135120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-design-multimedia-design",
+      "universityId": "swinburne",
+      "name": "Bachelor of Design (Multimedia Design)",
+      "nameAr": "بكالوريوس في Bachelor of Design (Multimedia Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 45040,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45040
+        },
+        {
+          "year": 2,
+          "fee": 45040
+        },
+        {
+          "year": 3,
+          "fee": 45040
+        }
+      ],
+      "totalTuitionFee": 135120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "swinburne-bachelor-of-media-and-communication",
+      "universityId": "swinburne",
+      "name": "Bachelor of Media and Communication",
+      "nameAr": "بكالوريوس في Bachelor of Media and Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 36880,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36880
+        },
+        {
+          "year": 2,
+          "fee": 36880
+        },
+        {
+          "year": 3,
+          "fee": 36880
+        }
+      ],
+      "totalTuitionFee": 110640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 53,
+  "totalProgramsCount": 53
+}

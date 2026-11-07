@@ -1,0 +1,2755 @@
+{
+  "id": "lasalle-sg",
+  "name": "LASALLE College of the Arts",
+  "arabicName": "كلية لاسال للفنون (LASALLE College of the Arts)",
+  "city": "McNally Street, Singapore",
+  "cityEn": "McNally Street, Singapore",
+  "cityAr": "سنغافورة (شارع ماكنالي)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.lasalle.edu.sg/",
+  "ranking": "Top 150 Worldwide in Art & Design (QS World University Rankings by Subject)",
+  "established": "1984",
+  "campusName": "McNally Campus",
+  "studentCount": "4,000+ (40+ Countries)",
+  "intakes": "Aug",
+  "feeRangeMin": 17500,
+  "feeRangeMax": 33000,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/1yncX2oUDrg",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/1yncX2oUDrg",
+  "directWatchUrl": "https://www.youtube.com/watch?v=1yncX2oUDrg",
+  "photos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-lasalle-sg.png",
+  "image": "assets/photo/campus_lasalle-sg.jpg",
+  "description": "Asia's leading contemporary arts and design institution, awarding degrees validated by the University of the Arts London (UAL) and the University of the Arts Singapore (UAS).",
+  "descriptionAr": "المؤسسة الرائدة في آسيا لتعليم الفنون والتصميم المعاصر والإعلام الرقمي، وتمنح شهاداتها بالتعاون مع جامعة سنغافورة للفنون وجامعة لندن للفنون (UAL).",
+  "about": {
+    "ar": "تعد كلية لاسال للفنون (LASALLE College of the Arts) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "LASALLE College of the Arts is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "LASALLE College of the Arts adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Top 150 Worldwide in Art & Design (QS World University Rankings by Subject) - World-Renowned Excellence",
+        "ar": "Top 150 Worldwide in Art & Design (QS World University Rankings by Subject) - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "LASALLE College of the Arts Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ كلية لاسال للفنون (LASALLE College of the Arts)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_diploma",
+      "levelName": "Diploma",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 12,000 - SGD 18,000"
+    },
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "2 - 3 Years",
+      "avgFee": "SGD 22,000 - SGD 36,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 1.5 Years",
+      "avgFee": "SGD 26,000 - SGD 42,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "lasalle-sg-anim-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Animation Art",
+      "nameAr": "بكالوريوس الآداب في فنون الرسوم المتحركة والإنتاج الرقمي (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Animation Art provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في فنون الرسوم المتحركة والإنتاج الرقمي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-designcomm-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Design Communication",
+      "nameAr": "بكالوريوس الآداب في تصميم الاتصال البصري والهوية المؤسسية (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Design Communication provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في تصميم الاتصال البصري والهوية المؤسسية (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        },
+        {
+          "year": 3,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 81000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-fashion-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Fashion Design and Textiles",
+      "nameAr": "بكالوريوس الآداب في تصميم الأزياء وصناعة المنسوجات (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Fashion Design and Textiles provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في تصميم الأزياء وصناعة المنسوجات (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        },
+        {
+          "year": 3,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 84000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-film-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Film and Cinematography",
+      "nameAr": "بكالوريوس الآداب في صناعة الأفلام والإخراج السينمائي (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Film and Cinematography provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في صناعة الأفلام والإخراج السينمائي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28500
+        },
+        {
+          "year": 2,
+          "fee": 28500
+        },
+        {
+          "year": 3,
+          "fee": 28500
+        }
+      ],
+      "totalTuitionFee": 85500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-fineart-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Fine Arts",
+      "nameAr": "بكالوريوس الآداب في الفنون الجميلة والمعاصرة (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Fine Arts provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في الفنون الجميلة والمعاصرة (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26500
+        },
+        {
+          "year": 2,
+          "fee": 26500
+        },
+        {
+          "year": 3,
+          "fee": 26500
+        }
+      ],
+      "totalTuitionFee": 79500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-interior-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Interior Design",
+      "nameAr": "بكالوريوس الآداب في التصميم الداخلي والعمارة المكانية (مرتبة الشرف)",
+      "field": "architecture",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Interior Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في التصميم الداخلي والعمارة المكانية (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-product-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Product Design",
+      "nameAr": "بكالوريوس الآداب في تصميم وتطوير المنتجات الصناعية (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Product Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في تصميم وتطوير المنتجات الصناعية (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        },
+        {
+          "year": 3,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 81000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-music-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Music Performance",
+      "nameAr": "بكالوريوس الآداب في الأداء والتأليف الموسيقي (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Music Performance provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في الأداء والتأليف الموسيقي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        },
+        {
+          "year": 3,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 81000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-acting-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Acting and Theatre Production",
+      "nameAr": "بكالوريوس الآداب في التمثيل وفنون الأداء المسرحي (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Acting and Theatre Production provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في التمثيل وفنون الأداء المسرحي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        },
+        {
+          "year": 3,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 81000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-fineart-ma",
+      "universityId": "lasalle-sg",
+      "name": "Master of Arts in Fine Arts",
+      "nameAr": "ماجستير الآداب في الفنون الجميلة المعاصرة والبحث البصري",
+      "field": "arts",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 31000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Arts in Fine Arts provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الآداب في الفنون الجميلة المعاصرة والبحث البصري إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31000
+        },
+        {
+          "year": 2,
+          "fee": 31000
+        }
+      ],
+      "totalTuitionFee": 62000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-design-ma",
+      "universityId": "lasalle-sg",
+      "name": "Master of Arts in Design Innovation and Management",
+      "nameAr": "ماجستير الآداب في ابتكار وإدارة التصميم الإبداعي",
+      "field": "arts",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 31000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Arts in Design Innovation and Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الآداب في ابتكار وإدارة التصميم الإبداعي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31000
+        },
+        {
+          "year": 2,
+          "fee": 31000
+        }
+      ],
+      "totalTuitionFee": 62000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-arttherapy-ma",
+      "universityId": "lasalle-sg",
+      "name": "Master of Arts in Art Therapy (Clinical Psychotherapy)",
+      "nameAr": "ماجستير الآداب في العلاج بالفن والتأهيل النفسي السريري",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 33000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Arts in Art Therapy (Clinical Psychotherapy) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الآداب في العلاج بالفن والتأهيل النفسي السريري إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33000
+        },
+        {
+          "year": 2,
+          "fee": 33000
+        }
+      ],
+      "totalTuitionFee": 66000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-arthist-ma",
+      "universityId": "lasalle-sg",
+      "name": "Master of Arts in Asian Art Histories and Curation",
+      "nameAr": "ماجستير الآداب في تاريخ الفنون الآسيوية وإدارة المتاحف",
+      "field": "arts",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 29000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Arts in Asian Art Histories and Curation provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الآداب في تاريخ الفنون الآسيوية وإدارة المتاحف إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29000
+        },
+        {
+          "year": 2,
+          "fee": 29000
+        }
+      ],
+      "totalTuitionFee": 58000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-anim-dip",
+      "universityId": "lasalle-sg",
+      "name": "Diploma in Animation Art",
+      "nameAr": "دبلوم كلية لاسال في فنون الرسوم المتحركة والتصميم الرقمي",
+      "field": "arts",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 17500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Animation Art provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم كلية لاسال في فنون الرسوم المتحركة والتصميم الرقمي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17500
+        },
+        {
+          "year": 2,
+          "fee": 17500
+        },
+        {
+          "year": 3,
+          "fee": 17500
+        }
+      ],
+      "totalTuitionFee": 52500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-interior-dip",
+      "universityId": "lasalle-sg",
+      "name": "Diploma in Interior Design",
+      "nameAr": "دبلوم كلية لاسال في التصميم الداخلي والديكور المعماري",
+      "field": "architecture",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 17500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Interior Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم كلية لاسال في التصميم الداخلي والديكور المعماري إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17500
+        },
+        {
+          "year": 2,
+          "fee": 17500
+        },
+        {
+          "year": 3,
+          "fee": 17500
+        }
+      ],
+      "totalTuitionFee": 52500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-music-contemp-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Contemporary Music Performance",
+      "nameAr": "بكالوريوس الآداب في أداء الموسيقى المعاصرة والتأليف (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Contemporary Music Performance provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في أداء الموسيقى المعاصرة والتأليف (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-dance-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Dance Performance",
+      "nameAr": "بكالوريوس الآداب في أداء وتدريب الرقص المعاصر (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Dance Performance provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في أداء وتدريب الرقص المعاصر (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        },
+        {
+          "year": 3,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 81000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-musical-theatre-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Musical Theatre",
+      "nameAr": "بكالوريوس الآداب في المسرح الغنائي والاستعراضي (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Musical Theatre provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في المسرح الغنائي والاستعراضي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-writing-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Creative Writing & Dramatic Arts",
+      "nameAr": "بكالوريوس الآداب في الكتابة الإبداعية وفنون التأليف الدرامي",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Creative Writing & Dramatic Arts provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في الكتابة الإبداعية وفنون التأليف الدرامي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26500
+        },
+        {
+          "year": 2,
+          "fee": 26500
+        },
+        {
+          "year": 3,
+          "fee": 26500
+        }
+      ],
+      "totalTuitionFee": 79500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-artmgmt-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Arts Management",
+      "nameAr": "بكالوريوس الآداب في إدارة المؤسسات والفعاليات الفنية والثقافية",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Arts Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في إدارة المؤسسات والفعاليات الفنية والثقافية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26500
+        },
+        {
+          "year": 2,
+          "fee": 26500
+        },
+        {
+          "year": 3,
+          "fee": 26500
+        }
+      ],
+      "totalTuitionFee": 79500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-spatial-ba",
+      "universityId": "lasalle-sg",
+      "name": "Bachelor of Arts (Honours) in Spatial Design & Environmental Arts",
+      "nameAr": "بكالوريوس الآداب في التصميم المكاني وفنون البيئة المعمارية",
+      "field": "architecture",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Spatial Design & Environmental Arts provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في التصميم المكاني وفنون البيئة المعمارية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-creative-ma",
+      "universityId": "lasalle-sg",
+      "name": "Master of Arts in Creative Writing",
+      "nameAr": "ماجستير الآداب في الكتابة الإبداعية والتأليف الأدبي والنقدي",
+      "field": "arts",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Arts in Creative Writing provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الآداب في الكتابة الإبداعية والتأليف الأدبي والنقدي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30500
+        },
+        {
+          "year": 2,
+          "fee": 30500
+        }
+      ],
+      "totalTuitionFee": 61000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-cultmgmt-ma",
+      "universityId": "lasalle-sg",
+      "name": "Master of Arts in Arts and Cultural Management",
+      "nameAr": "ماجستير الآداب في إدارة الفنون والقيادة الثقافية الدولية",
+      "field": "arts",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 31000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Arts in Arts and Cultural Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الآداب في إدارة الفنون والقيادة الثقافية الدولية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31000
+        },
+        {
+          "year": 2,
+          "fee": 31000
+        }
+      ],
+      "totalTuitionFee": 62000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-acting-dip",
+      "universityId": "lasalle-sg",
+      "name": "Diploma in Performance (Acting, Voice & Movement)",
+      "nameAr": "دبلوم كلية لاسال في فنون الأداء والتمثيل وحركة الجسد",
+      "field": "arts",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 17500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Performance (Acting, Voice & Movement) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم كلية لاسال في فنون الأداء والتمثيل وحركة الجسد إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17500
+        },
+        {
+          "year": 2,
+          "fee": 17500
+        },
+        {
+          "year": 3,
+          "fee": 17500
+        }
+      ],
+      "totalTuitionFee": 52500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "lasalle-sg-techprod-dip",
+      "universityId": "lasalle-sg",
+      "name": "Diploma in Technical and Production Management",
+      "nameAr": "دبلوم كلية لاسال في إدارة الإنتاج الفني والتقني للمسارح والعروض",
+      "field": "arts",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 17500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Technical and Production Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم كلية لاسال في إدارة الإنتاج الفني والتقني للمسارح والعروض إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17500
+        },
+        {
+          "year": 2,
+          "fee": 17500
+        },
+        {
+          "year": 3,
+          "fee": 17500
+        }
+      ],
+      "totalTuitionFee": 52500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 25,
+  "totalProgramsCount": 25,
+  "campusNameAr": "حرم ماكنالي للفنون المعاصرة",
+  "campusImage": "assets/photo/campus_lasalle-sg.jpg",
+  "nameAr": "كلية لاسال للفنون (LASALLE College of the Arts)"
+}

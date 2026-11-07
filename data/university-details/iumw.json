@@ -1,0 +1,1379 @@
+{
+  "id": "iumw",
+  "name": "International University of Malaya-Wales (IUMW)",
+  "arabicName": "الجامعة الدولية لمالايا-ويلز (IUMW)",
+  "city": "Kuala Lumpur",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-iumw.webp",
+  "image": "assets/photo/campus_iumw.webp",
+  "website": "https://iumw.edu.my/",
+  "ranking": "Joint Venture of Universiti Malaya (UM) & University of Wales UK",
+  "established": "2012",
+  "campusName": "IUMW City Campus, Kuala Lumpur",
+  "studentCount": "3,500+ (35+ Countries)",
+  "intakes": "Feb, Jun, Sep",
+  "feeRangeMin": 13380,
+  "feeRangeMax": 33390,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/FnFc9Ogzr24",
+  "description": "International University of Malaya-Wales (IUMW) is one of the leading recognized higher education institutions located in Kuala Lumpur. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر الجامعة الدولية لمالايا-ويلز (IUMW) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Kuala Lumpur، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "International University of Malaya-Wales (IUMW) didirikan sebagai kemitraan historis antara Universiti Malaya (UM) dan University of Wales Trinity Saint David (Inggris), memberikan gelar ganda resmi Malaysia & Inggris.",
+    "en": "International University of Malaya-Wales (IUMW) was established as a premier historic joint venture between Universiti Malaya (UM) and the University of Wales Trinity Saint David (UK), offering authentic dual-award degrees.",
+    "ar": "تأسست جامعة مالايا-ويلز الدولية (IUMW) كشراكة تاريخية بين جامعة مالايا الحكومية (UM) وجامعة ويلز البريطانية العريقة، وتمنح خريجيها شهادة مزدوجة بريطانية وماليزية معتمدة.",
+    "zh": "马来亚威尔士国际大学（IUMW）由马来西亚第一公立大学马来亚大学（UM）与英国百年名校威尔士大学三一圣大卫联合创办，毕业生尊享全马英双重官方正式学位。",
+    "ru": "Международный университет Малайя-Уэльс (IUMW) — совместное предприятие Университета Малайя и Уэльского университета, предлагающее программы двойного диплома.",
+    "fr": "L'International University of Malaya-Wales (IUMW) est issue d'un partenariat historique entre l'Université Malaya et l'Université du Pays de Galles, offrant des doubles diplômes complets.",
+    "es": "La International University of Malaya-Wales (IUMW) nace de la alianza entre Universiti Malaya y la Universidad de Gales, ofreciendo doble titulación oficial.",
+    "ja": "マラヤ・ウェールズ国際大学（IUMW）はマラヤ大学（UM）と英国ウェールズ大学の歴史的提携により設立され、マレーシアと英国の正規ダブルディグリーを提供。",
+    "ko": "말라야-웨일스 국제대학교(IUMW)는 말레이시아 1위 말라야 대학교(UM)와 영국 웨일스 대학교의 역사적 합작으로 설립되어 영국과 말레이시아 공식 복수학위를 수여합니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Heritage Bersejarah di Jantung Kota Kuala Lumpur",
+        "en": "Historic Urban Heritage Campus in Central Kuala Lumpur",
+        "ar": "حرم تراثي تاريخي عريق في قلب العاصمة كوالالمبور",
+        "ko": "쿠알라룸푸르 도심의 역사 깊은 어반 헤리티지 캠퍼스",
+        "ja": "クアラルンプール中心部に佇む歴史ある都市型ヘリテージキャンパス",
+        "zh": "坐落于吉隆坡市中心兼具英伦古典与现代气息的大学城校区",
+        "ru": "Исторический городской кампус в центре Куала-Лумпура",
+        "fr": "Campus urbain historique au cœur de Kuala Lumpur",
+        "es": "Campus histórico urbano en el centro de Kuala Lumpur"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Perpustakaan Akademik Terhubung dengan Universiti Malaya (UM)",
+        "en": "Academic Library Network Linked with Universiti Malaya (UM)",
+        "ar": "المكتبة الأكاديمية المتصلة بشبكة مكتبات جامعة مالايا (UM)",
+        "ko": "말라야 대학교(UM)와 직접 연계된 학술 정보 도서관 네트워크",
+        "ja": "マラヤ大学（UM）直結の学術情報・文献データベース図書館",
+        "zh": "全面打通并共享马来亚大学（UM）顶尖学术文献与数字资源图书馆",
+        "ru": "Академическая библиотека, объединенная с сетью Университета Малайя (UM)",
+        "fr": "Bibliothèque universitaire reliée au réseau de l'Université Malaya (UM)",
+        "es": "Biblioteca académica vinculada a la red de la Universidad de Malaya (UM)"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Komputasi Awan, Analisis Data & Rekayasa Perangkat Lunak",
+        "en": "Cloud Computing, Data Analytics & Software Labs",
+        "ar": "مختبرات الحوسبة السحابية وتحليل البيانات وهندسة البرمجيات",
+        "ko": "클라우드 컴퓨팅, 데이터 분석 및 첨단 소프트웨어 랩",
+        "ja": "クラウドコンピューティング・データ分析＆ソフトウェア実習ラボ",
+        "zh": "云计算前沿应用、大数据商业分析与软件工程开发实训实验室",
+        "ru": "Лаборатории облачных вычислений, анализа данных и разработки ПО",
+        "fr": "Laboratoires de cloud computing, d'analyse de données et de génie logiciel",
+        "es": "Laboratorios de computación en la nube, analítica de datos y software"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Studio Penyiaran Media Komunikasi, Podcast & Produksi Digital",
+        "en": "Mass Communication Broadcast Studio & Digital Media Suites",
+        "ar": "استوديوهات البث الإعلامي والبودكاست والإنتاج الرقمي المتطورة",
+        "ko": "매스컴 방송 스튜디오, 팟캐스트 및 디지털 미디어 제작 스위트",
+        "ja": "マスコミ放送スタジオ・ポッドキャスト＆デジタルメディア制作室",
+        "zh": "大众传播专业全景广播电视演播厅与数字新媒体采编制作室",
+        "ru": "Студия вещания, подкастов и цифрового медиапроизводства",
+        "fr": "Studio de diffusion audiovisuelle et de production de médias numériques",
+        "es": "Estudio de radiodifusión, podcast y producción de medios digitales"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Kolaborasi Unik Dua Raksasa: Universiti Malaya & University of Wales UK",
+        "en": "Historic Joint-Venture: Universiti Malaya (UM) & University of Wales UK",
+        "ar": "شراكة تاريخية فريدة بين جامعة مالايا الأولى وUniversity of Wales البريطانية",
+        "ko": "말레이시아 1위 말라야대(UM)와 영국 명문 웨일스 대학교의 역사적 합작 설립",
+        "ja": "国内最高峰マラヤ大学（UM）と英国名門ウェールズ大学による歴史的共同設立",
+        "zh": "由马来西亚公立最高学府马来亚大学（UM）与英国威尔士大学联合创办",
+        "ru": "Уникальное совместное предприятие: Университет Малайя (UM) и Университет Уэльса (Великобритания)",
+        "fr": "Partenariat historique : Université Malaya (UM) et Université du Pays de Galles (Royaume-Uni)",
+        "es": "Alianza histórica: Universiti Malaya (UM) y University of Wales (Reino Unido)"
+      },
+      "desc": {
+        "id": "Merupakan universitas pertama di Malaysia yang didirikan bersama oleh universitas riset terbaik Malaysia (Rank 60 Dunia) dan universitas bergengsi Inggris.",
+        "en": "The first university in Southeast Asia jointly established by Malaysia’s premier university (Rank 60 QS World) and the historic University of Wales.",
+        "ar": "أول جامعة في جنوب شرق آسيا يتم تأسيسها رسمياً بالشراكة بين الجامعة الأولى في ماليزيا (رقم 60 عالمياً) وجامعة ويلز الملكية العريقة.",
+        "ko": "말레이시아 최고 명문대(세계 60위 UM)와 영국의 유서 깊은 왕립 웨일스 대학교가 공동 설립한 최초의 대학.",
+        "ja": "世界第60位のマラヤ大学と英国の歴史あるウェールズ大学が東南アジアで初めて共同設立した正規大学。",
+        "zh": "作为全马首家由本土排名第一的公立研究型大学（QS世界第60位）与英国百年名校深度联合办学的国际化高等学府。",
+        "ru": "Первый вуз в Малайзии, созданный ведущим национальным университетом (Rank 60 в мире) и вузом Великобритании.",
+        "fr": "Première université fondée conjointement par l'université numéro 1 de Malaisie (Rank 60 mondial) et l'université britannique.",
+        "es": "Primera universidad fundada conjuntamente por la institución líder de Malasia (Rank 60 mundial) y una prestigiosa universidad británica."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pilihan Gelar Ganda (Dual Award) dari Malaysia & Inggris",
+        "en": "Dual Award Degree Options: Malaysia & UK Qualifications",
+        "ar": "خيار الحصول على شهادتين معتمدتين (Dual Award) من ماليزيا وبريطانيا",
+        "ko": "말레이시아 & 영국 학위를 동시에 취득하는 듀얼 어워드(Dual Award) 프로그램",
+        "ja": "マレーシア＆イギリス双方の学位を同時取得可能なデュアルディグリー制度",
+        "zh": "修读即可同步荣获马来西亚与英国双重正规学士学位的双联卓越项目",
+        "ru": "Программы двойного диплома (Dual Award): квалификации Малайзии и Великобритании",
+        "fr": "Possibilité d'obtenir un double diplôme (Dual Award) malaisien et britannique",
+        "es": "Opción de doble titulación oficial (Dual Award) de Malasia y el Reino Unido"
+      },
+      "desc": {
+        "id": "Lulusan dapat menerima dua ijazah sarjana terpisah: satu dari IUMW dan satu langsung dari University of Wales Trinity Saint David (Inggris).",
+        "en": "Graduates can receive two separate degrees upon graduation: one from IUMW and one directly from University of Wales TSD (UK).",
+        "ar": "يحصل الخريج على شهادتين جامعيتين منفصلتين: واحدة من IUMW وواحدة مباشرة من جامعة ويلز البريطانية العريقة.",
+        "ko": "졸업 시 IUMW 학위와 영국 웨일스 대학교(UWTSD) 학위 등 2개의 공식 학위를 수여받아 글로벌 취업 경쟁력 극대화.",
+        "ja": "卒業時にIUMWの学位と英国ウェールズ大学（UWTSD）の正規学位の2通が授与され、国際的評価を獲得。",
+        "zh": "顺利毕业可同时斩获IUMW学位与英国威尔士三一圣大卫大学（UWTSD）独立颁发的正规学位证书。",
+        "ru": "Выпускники получают два отдельных диплома: от IUMW и Университета Уэльса (Великобритания).",
+        "fr": "Les diplômés obtiennent deux diplômes distincts : un de l'IUMW et un de l'Université du Pays de Galles.",
+        "es": "Los graduados obtienen dos títulos independientes: uno de IUMW y otro de University of Wales."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Program Mobilitas Satu Semester di Kampus Inggris Tanpa Biaya Tambahan",
+        "en": "One-Semester UK Campus Study Mobility Without Added Tuition",
+        "ar": "فرصة دراسة فصل كامل في حرم بريطانيا الجامعي بنفس الرسوم الدراسية",
+        "ko": "추가 등록금 없이 영국 캠퍼스에서 한 학기 수학하는 글로벌 모빌리티",
+        "ja": "追加学費なしで英国本校へ1学期間留学できる交換モビリティ制度",
+        "zh": "无需补缴额外英国学费即可直赴英国本校交换学习一个学期的交换项目",
+        "ru": "Семестр обучения в кампусе Великобритании без дополнительной платы за обучение",
+        "fr": "Mobilité d'un semestre sur le campus britannique sans frais de scolarité supplémentaires",
+        "es": "Movilidad de un semestre en Reino Unido sin coste adicional de matrícula"
+      },
+      "desc": {
+        "id": "Mahasiswa berkesempatan merasakan kehidupan akademik di Inggris dengan tetap membayar tarif biaya kuliah Malaysia.",
+        "en": "Experience genuine UK student life while continuing to pay the local Malaysian tuition rate.",
+        "ar": "عش تجربة الحياة الطلابية البريطانية الحقيقية في المملكة المتحدة مع الاستمرار في دفع نفس الرسوم الماليزية المحلية.",
+        "ko": "말레이시아의 경제적인 학비를 그대로 납부하면서 영국 현지 캠퍼스 유학을 직접 경험하는 특권.",
+        "ja": "マレーシアの割安な学費を支払ったまま、英国現地でのリアルな学生生活を体験可能。",
+        "zh": "按马来西亚本地学费标准，即可亲身体验纯正英国大学校园学术沉浸式学习。",
+        "ru": "Погрузитесь в студенческую жизнь Великобритании, оплачивая обучение по малайзийским тарифам.",
+        "fr": "Vivez une expérience universitaire au Royaume-Uni tout en conservant le tarif des études en Malaisie.",
+        "es": "Disfruta de la vida universitaria en Reino Unido manteniendo las tasas económicas de Malasia."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Lokasi Strategis di Pusat Kuala Lumpur Dikelilingi Stasiun LRT & KTM",
+        "en": "Prime Central KL Location Connected by LRT & KTM Commuter Rail",
+        "ar": "موقع حيوي ممتاز في قلب كوالالمبور متصل مباشرة بمحطات LRT وKTM",
+        "ko": "쿠알라룸푸르 도심 핵심 위치, LRT 및 KTM 통근 철도망 직결",
+        "ja": "KL都心の一等地、LRT＆KTMコミューター鉄道網に直結した抜群の利便性",
+        "zh": "地处吉隆坡城市中心黄金腹地，轻轨（LRT）与城际火车（KTM）双轨道环伺",
+        "ru": "Идеальное расположение в центре Куала-Лумпура рядом со станциями LRT и KTM",
+        "fr": "Emplacement central privilégié à KL, desservi par le métro LRT et le train KTM",
+        "es": "Ubicación céntrica privilegiada en KL conectada con estaciones de tren LRT y KTM"
+      },
+      "desc": {
+        "id": "Hanya beberapa menit dari stasiun Putra KTM dan PWTC LRT, memberikan akses mudah ke seluruh penjuru kota.",
+        "en": "Minutes from Putra KTM and PWTC LRT stations, offering seamless connectivity across Kuala Lumpur.",
+        "ar": "على بعد خطوات من محطة بوترا KTM ومحطة PWTC LRT، مما يوفر وصولاً سريعاً لكافة معالم العاصمة.",
+        "ko": "푸트라 KTM역과 PWTC LRT역에서 도보 거리에 위치해 도시 전역으로 손쉽게 이동 가능.",
+        "ja": "プトラKTM駅およびPWTC LRT駅から徒歩圏内で、クアラルンプール市内全域へのアクセスが極めてスムーズ。",
+        "zh": "步行数分钟即达Putra火车站及PWTC轻轨站，轻松通达吉隆坡各个主要商业区。",
+        "ru": "Несколько минут до станций Putra KTM и PWTC LRT, обеспечивающих связь со всем городом.",
+        "fr": "À quelques minutes des gares Putra KTM et PWTC LRT pour une connectivité idéale dans la capitale.",
+        "es": "A pocos minutos de las estaciones de tren Putra y metro PWTC, facilitando el transporte urbano."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kondominium Residensi Mahasiswa Villa Puteri & Regalia KL",
+        "en": "Villa Puteri & Regalia Premier Student Residences KL",
+        "ar": "مجمعات فيلا بوتري وريجاليا السكنية الفاخرة لطلاب IUMW كوالالمبور",
+        "ko": "빌라 푸테리 & 레갈리아 프리미엄 학생 콘도미니엄 (KL 도심)",
+        "ja": "ヴィラ・プテリ＆レガリア プレミアム学生コンドミニアム（KL都心）",
+        "zh": "Villa Puteri与Regalia吉隆坡市中心高端学生公寓",
+        "ru": "Студенческий жилой комплекс Villa Puteri & Regalia в центре Куала-Лумпура",
+        "fr": "Résidences étudiantes haut de gamme Villa Puteri & Regalia KL",
+        "es": "Residencias de estudiantes Villa Puteri & Regalia en el centro de KL"
+      },
+      "distance": {
+        "id": "Hanya 3-5 Menit Jalan Kaki ke Kampus IUMW & Stasiun LRT",
+        "en": "3 to 5-Minute Direct Walk to IUMW Campus & PWTC LRT",
+        "ar": "3 إلى 5 دقائق سيراً على الأقدام إلى حرم IUMW ومحطة مترو PWTC",
+        "ko": "IUMW 캠퍼스 및 PWTC LRT역까지 도보 단 3~5분",
+        "ja": "IUMWキャンパスおよびPWTC LRT駅まで徒歩わずか3〜5分",
+        "zh": "步行仅需3至5分钟即可直达IUMW校区主楼与PWTC轻轨站",
+        "ru": "3–5 минут пешком до кампуса IUMW и станции метро PWTC",
+        "fr": "À 3-5 minutes à pied du campus IUMW et du métro PWTC",
+        "es": "A solo 3-5 minutos a pie del campus IUMW y del metro PWTC"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam & Kartu Akses Khusus",
+          "Kolam Renang Rooftop Infinity & Gym",
+          "Akses Seberang Jalan ke Mall Sunway Putra",
+          "WiFi Kecepatan Tinggi & Kamar AC Furnished",
+          "Akses Langsung ke Stasiun Kereta Putra KTM"
+        ],
+        "en": [
+          "24/7 Gated Security & Smart Access Cards",
+          "Rooftop Infinity Swimming Pool & Fitness Gym",
+          "Direct Pedestrian Link to Sunway Putra Shopping Mall",
+          "High-Speed WiFi & Fully Furnished Air-Con Rooms",
+          "Direct Linkage to Putra KTM Commuter Station"
+        ],
+        "ar": [
+          "حراسة أمنية مشددة 24/7 وبطاقات دخول ذكية",
+          "حمام سباحة إنفينيتي على السطح وصالة ألعاب رياضية",
+          "جسر مشاة مباشر إلى مركز صنواي بوترا التجاري",
+          "إنترنت فائق السرعة وغرف مكيفة ومؤثثة بالكامل",
+          "اتصال مباشر بمحطة قطار بوترا KTM"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian",
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات اليومية"
+      },
+      "cost": "RM 650 - RM 1,000"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus / LRT / KTM",
+        "en": "Local Public Transit, LRT & KTM",
+        "ar": "المواصلات العامة ومترو LRT وKTM"
+      },
+      "cost": "RM 60 - RM 140"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 80 - RM 160"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Biaya Hiburan Kota",
+        "en": "Personal Expenses & Urban Living",
+        "ar": "المستلزمات الشخصية ونفقات المعيشة الحضرية"
+      },
+      "cost": "RM 220 - RM 420"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Bagaimana hubungan resmi antara IUMW, Universiti Malaya, dan University of Wales?",
+        "en": "What is the official relationship between IUMW, Universiti Malaya, and the University of Wales?",
+        "ar": "ما هي الطبيعة الرسمية للشراكة بين IUMW وجامعة مالايا وجامعة ويلز؟",
+        "ko": "IUMW와 말라야 대학교(UM), 영국 웨일스 대학교 간의 공식 관계는 무엇인가요?",
+        "ja": "IUMWとマラヤ大学（UM）、英国ウェールズ大学の公式な関係性とは？",
+        "zh": "IUMW、马来亚大学（UM）与英国威尔士大学（University of Wales）之间是怎样的法定办学关系？",
+        "ru": "Каковы официальные отношения между IUMW, Университетом Малайя и Университетом Уэльса?",
+        "fr": "Quel est le statut officiel liant l'IUMW, l'Université Malaya et l'Université du Pays de Galles ?",
+        "es": "¿Cuál es el vínculo oficial entre IUMW, Universiti Malaya y University of Wales?"
+      },
+      "a": {
+        "id": "IUMW dimiliki bersama secara setara (50:50) oleh Universiti Malaya (universitas nomor 1 di Malaysia) dan University of Wales (Inggris). Hal ini menjamin standar kurikulum, tata kelola akademik, dan mutu lulusan berstandar tinggi.",
+        "en": "IUMW is a 50:50 joint venture established by Universiti Malaya and the University of Wales UK, ensuring British academic excellence infused with Malaysia’s top research heritage.",
+        "ar": "تأسست IUMW كمشروع مشترك بنسبة 50:50 بين جامعة مالايا الحكومية وجامعة ويلز البريطانية، مما يضمن معايير أكاديمية بريطانية وبحثية صارمة.",
+        "ko": "IUMW는 말라야 대학교(UM)와 영국 웨일스 대학교가 50:50으로 공동 설립한 공식 법인으로, 영국의 교육 표준과 UM의 학문적 명성이 결합되어 있습니다.",
+        "ja": "IUMWはマラヤ大学と英国ウェールズ大学が50:50で共同設立した大学であり、英国の教育水準とマレーシア屈指の研究実績が融合しています。",
+        "zh": "IUMW是由马来西亚公立第一名校马来亚大学（UM）与英国威尔士大学各持股50%联合成立的独立实体综合大学，课程大纲与学术质素受到英马两所顶级母体高校的双重监控。",
+        "ru": "IUMW — совместное предприятие 50:50 между Университетом Малайя и Университетом Уэльса, гарантирующее высокие британские стандарты.",
+        "fr": "L'IUMW est une coentreprise 50:50 entre l'Université Malaya et l'Université du Pays de Galles, garantissant l'excellence académique britannique.",
+        "es": "IUMW es una empresa conjunta al 50% entre Universiti Malaya y University of Wales, garantizando los más altos estándares británicos."
+      }
+    },
+    {
+      "q": {
+        "id": "Bagaimana cara kerja program Dual Award Inggris di IUMW?",
+        "en": "How does the UK Dual Award degree mechanism operate at IUMW?",
+        "ar": "كيف تعمل آلية الحصول على الشهادة المزدوجة البريطانية والماليزية (Dual Award)؟",
+        "ko": "IUMW의 영국 듀얼 어워드 학위 제도는 구체적으로 어떻게 운영되나요?",
+        "ja": "IUMWにおける英国デュアルアワード学位制度の仕組みは？",
+        "zh": "在IUMW就读双联学位（UK Dual Award）具体是通过何种形式毕业授位的？",
+        "ru": "Как устроен механизм получения двойного диплома Великобритании в IUMW?",
+        "fr": "Comment fonctionne le double diplôme britannique à l'IUMW ?",
+        "es": "¿Cómo funciona la doble titulación británica en IUMW?"
+      },
+      "a": {
+        "id": "Mahasiswa yang memilih jalur Dual Award terdaftar di IUMW sekaligus di University of Wales Trinity Saint David (Inggris). Setelah menyelesaikan mata kuliah yang dimoderasi bersama, mahasiswa menerima dua ijazah resmi.",
+        "en": "Students enrolled in the Dual Award stream are simultaneously registered with IUMW and University of Wales TSD. Upon completing co-moderated modules, two distinct degree certificates are awarded.",
+        "ar": "يتم تسجيل الطالب تلقائياً في كلتا الجامعتين معاً. وعند إنهاء المقررات التي يشرف عليها أساتذة بريطانيون وماليزيون، يتم منح الطالب شهادتين أصليتين منفصلتين.",
+        "ko": "듀얼 어워드 과정 등록생은 IUMW와 영국 UWTSD 양쪽에 동시 등록되며, 공동 검증된 커리큘럼을 이수한 후 2개의 학위증을 수여받습니다.",
+        "ja": "受講生はIUMWと英国UWTSDの両方に同時登録され、両校の基準を満たした科目履修後に2通の正規学位記が授与されます。",
+        "zh": "选择双学位的学生将同时拥有马方IUMW与英方UWTSD双重学籍。完成英方联合质检的学术学分后，毕业将分别获得两份完全独立的大学学位证书。",
+        "ru": "Студенты регистрируются одновременно в IUMW и Университете Уэльса TSD, получая два диплома по окончании.",
+        "fr": "Les étudiants sont inscrits à l'IUMW et à l'Université du Pays de Galles TSD, et reçoivent deux diplômes officiels distincts.",
+        "es": "Los alumnos quedan inscritos simultáneamente en IUMW y en la University of Wales TSD, obteniendo dos títulos oficiales."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah rata-rata program sarjana di IUMW?",
+        "en": "What is the average bachelor degree tuition fee at IUMW?",
+        "ar": "كم تبلغ تكلفة دراسة البكالوريوس في جامعة IUMW؟",
+        "ko": "IUMW의 학사 과정 평균 학비는 어느 정도인가요?",
+        "ja": "IUMWの学部課程の平均学費はどれくらいですか？",
+        "zh": "在IUMW攻读本科学士学位课程的平均学费大概是多少？",
+        "ru": "Какова средняя стоимость обучения на бакалавриате в IUMW?",
+        "fr": "Quel est le coût moyen des frais de scolarité en licence à l'IUMW ?",
+        "es": "¿Cuál es el precio medio de matrícula para un grado en IUMW?"
+      },
+      "a": {
+        "id": "Program Bisnis dan Komunikasi berkisar antara $4.200 - $5.200 USD per tahun. Program Komputer dan Sains sekitar $4.800 - $5.800 USD per tahun, sangat ekonomis untuk kualifikasi Inggris.",
+        "en": "Business and Communication programmes range from $4,200 to $5,200 USD per year. IT and Science programmes average $4,800 to $5,800 USD per year, providing exceptional value for UK-partnered degrees.",
+        "ar": "تتراوح تكاليف برامج إدارة الأعمال والإعلام بين 4,200 إلى 5,200 دولار سنوياً، وتكنولوجيا المعلومات والعلوم بين 4,800 إلى 5,800 دولار سنوياً، وهو سعر اقتصادي جداً لشهادة بريطانية.",
+        "ko": "경영 및 커뮤니케이션 전공은 연간 약 4,200~5,200 달러, IT 및 과학 전공은 연간 약 4,800~5,800 달러로 영국 파트너십 학위 중 가장 합리적입니다.",
+        "ja": "ビジネスおよびマスコミ専攻は年間約4,200〜5,200米ドル、IT・科学系は年間約4,800〜5,800米ドルと、英国提携校として破格の設定です。",
+        "zh": "商科及传媒类专业每年学费约在4,200至5,200美元之间；计算机IT及理科类每年约4,800至5,800美元，以极实惠的预算即可坐享英国名校联办教育。",
+        "ru": "Бизнес и медиа: 4 200–5 200 $ в год; IT и науки: 4 800–5 800 $ в год.",
+        "fr": "Commerce et communication : 4 200 à 5 200 $ par an ; IT et sciences : 4 800 à 5 800 $ par an.",
+        "es": "Negocios y Comunicación: de 4.200 a 5.200 $ al año; TI y Ciencias: de 4.800 a 5.800 $ anuales."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat IELTS untuk pendaftaran mahasiswa internasional di IUMW?",
+        "en": "What are the IELTS English requirements at IUMW?",
+        "ar": "ما هو الحد الأدنى المطلوب لدرجة IELTS للالتحاق بجامعة IUMW؟",
+        "ko": "IUMW 입학에 필요한 IELTS 영어 성적 조건은 어떻게 되나요?",
+        "ja": "IUMW出願に必要なIELTS英語スコアの基準は？",
+        "zh": "申请进入IUMW国际大学本科需要具备怎样的雅思（IELTS）英语水平？",
+        "ru": "Каковы требования по IELTS для поступления в IUMW?",
+        "fr": "Quelles sont les conditions de score IELTS requises à l'IUMW ?",
+        "es": "¿Cuáles son los requisitos de nivel de inglés (IELTS) en IUMW?"
+      },
+      "a": {
+        "id": "Sebagian besar program sarjana mensyaratkan skor IELTS 5.0 hingga 5.5, dengan tes penempatan bahasa internal tersedia bagi siswa yang belum mengambil tes resmi.",
+        "en": "Most bachelor programmes require an IELTS score between 5.0 and 5.5, with on-campus English placement tests available for students without external test scores.",
+        "ar": "تتطلب غالبية برامج البكالوريوس الحصول على درجة IELTS تتراوح بين 5.0 إلى 5.5، ويتوفر اختبار تحديد مستوى داخلي لمن لم يقدم الاختبار الدولي.",
+        "ko": "대부분의 학부 과정은 IELTS 5.0~5.5를 요구하며, 공인 성적이 없는 경우 대학 자체 영어 레벨 테스트를 통해 어학 연수 후 입학 가능합니다.",
+        "ja": "大部分の専攻でIELTS 5.0〜5.5が必要ですが、スコアがない場合でも学内英語プレースメントテストを受験可能です。",
+        "zh": "绝大多数本科学位课程要求雅思5.0至5.5分即可录取；若尚未取得雅思成绩，学生亦可参加校内英语内测直读语言班衔接。",
+        "ru": "Для большинства программ требуется IELTS 5.0–5.5; доступно внутреннее языковое тестирование.",
+        "fr": "La plupart des programmes demandent un score IELTS de 5.0 à 5.5 ; un test d'anglais interne est également proposé.",
+        "es": "La mayoría de grados exigen un IELTS de entre 5.0 y 5.5; existe prueba de nivel interna."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan bulan intake pendaftaran mahasiswa baru di IUMW?",
+        "en": "When are the intake months open for new students at IUMW?",
+        "ar": "ما هي مواعيد وفصول استقبال الطلاب الجدد في IUMW؟",
+        "ko": "IUMW 신입생 입학 학기는 몇 월에 개설되나요?",
+        "ja": "IUMWの入学時期（インテイク）は何月ですか？",
+        "zh": "IUMW大学面向国际生开设的入学招生批次分别安排在哪些月份？",
+        "ru": "В какие месяцы открыт прием новых студентов в IUMW?",
+        "fr": "Quelles sont les sessions d'admission ouvertes aux nouveaux étudiants à l'IUMW ?",
+        "es": "¿Cuáles son los meses de admisión para nuevos estudiantes en IUMW?"
+      },
+      "a": {
+        "id": "Intake utama berlangsung pada bulan Februari, Juli, dan September/Oktober setiap tahunnya.",
+        "en": "Primary intakes occur in February, July, and September/October each year.",
+        "ar": "تفتح فترات التسجيل والقبول الرئيسية في أشهر فبراير ويوليو وسبتمبر/أكتوبر من كل عام.",
+        "ko": "주요 입학 시기는 매년 2월, 7월, 9월/10월에 진행됩니다.",
+        "ja": "主要な入学時期は毎年2月、7月、9月／10月です。",
+        "zh": "主要的入学月份为每年的2月、7月以及9月/10月。",
+        "ru": "Основные наборы студентов проходят в феврале, июле и сентябре/октябре каждого года.",
+        "fr": "Les sessions principales ont lieu en février, juillet et septembre/octobre.",
+        "es": "Las convocatorias principales tienen lugar en febrero, julio y septiembre/octubre."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Dua Gelar Sekaligus dari Malaysia & Inggris: Mengapa IUMW Pilihan Tepat",
+        "en": "Dual Award Qualifications: Why IUMW Bridges Two Global Giants",
+        "ar": "شهادتان من ماليزيا وبريطانيا: لماذا تعد IUMW الخيار الأمثل للطلاب الطموحين",
+        "ko": "말레이시아와 영국 학위를 동시에: 왜 IUMW가 글로벌 유학의 스마트한 해답인가",
+        "ja": "マレーシアと英国の学位を同時に獲得：IUMWが選ばれる理由",
+        "zh": "修读一次获英马两张名校文凭：为何IUMW是追求高含金量海归学位的明智首选",
+        "ru": "Два диплома из Малайзии и Великобритании: почему IUMW — верный выбор",
+        "fr": "Double diplôme malaisien et britannique : pourquoi choisir l'IUMW",
+        "es": "Doble titulación de Malasia y Reino Unido: por qué IUMW es la mejor opción"
+      },
+      "summary": {
+        "id": "Membedah keunggulan gelar ganda Universiti Malaya dan University of Wales, efisiensi biaya, dan pengakuan karier multinasional.",
+        "en": "Deconstructing the advantages of UM and Wales dual certifications, financial savings, and multinational employability.",
+        "ar": "تحليل دقيق لمزايا الشهادة المشتركة بين جامعة مالايا وجامعة ويلز، والتوفير المالي الهائل وفرص التوظيف العالمية.",
+        "ko": "말라야대와 웨일스대의 듀얼 학위 혜택, 학비 절감 효과 및 다국적 기업에서의 인정 가치 심층 분석.",
+        "ja": "マラヤ大とウェールズ大の共同学位の利点、学費の圧倒的な節約効果、国際的キャリアでの通用性を解説。",
+        "zh": "深度解析由大马公立顶流马来亚大学与英国百年威尔士大学双轨赋能的学业优势、家庭资金节省方案及外企优先录取壁垒。",
+        "ru": "Преимущества двойного диплома, экономия средств и международное признание работодателями.",
+        "fr": "Décryptage des atouts du double diplôme UM-Wales, de l'économie financière et de l'insertion professionnelle.",
+        "es": "Ventajas de la doble certificación oficial UM-Gales, ahorro económico y reconocimiento internacional."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Mobilitas Satu Semester di Wales UK: Kuliah di Inggris dengan Tarif Malaysia",
+        "en": "One-Semester Exchange in Wales UK: Experience Britain at Local Rates",
+        "ar": "فصل دراسي كامل في ويلز البريطانية: تجربة بريطانيا بنفس الرسوم المحلية",
+        "ko": "영국 웨일스 본교 한 학기 교환학생: 말레이시아 학비로 누리는 영국 유학",
+        "ja": "英国ウェールズ本校での1学期留学：マレーシア学費のままイギリス生活を満喫",
+        "zh": "赴英国威尔士大学交换一个学期：以马来西亚原版学费畅享纯正英伦留学",
+        "ru": "Семестр по обмену в Уэльсе: британское образование по малайзийским расценкам",
+        "fr": "Un semestre d'échange au Pays de Galles : étudier au Royaume-Uni au tarif local",
+        "es": "Intercambio de un semestre en Gales: vive la experiencia británica con tarifa local"
+      },
+      "summary": {
+        "id": "Panduan langkah demi langkah cara mengikuti program pertukaran pelajar ke kampus Inggris tanpa beban biaya kuliah tambahan.",
+        "en": "Step-by-step application advice on qualifying for a semester at the UK Wales campus without paying overseas fees.",
+        "ar": "خطوات وإرشادات التقديم للسفر وقضاء فصل دراسي في حرم جامعة ويلز بالمملكة المتحدة دون تحمل رسوم دراسية إضافية.",
+        "ko": "추가 학비 부담 없이 영국 현지 웨일스 캠퍼스에서 한 학기를 보낼 수 있는 교환학생 선발 기준 및 팁.",
+        "ja": "追加学費なしで英国ウェールズ校へ1学期間交換留学するための応募条件と準備手続きをガイド。",
+        "zh": "详尽梳理赴英交换申请条件、签证办理指引、学分无缝兑换机制，助你零额外学费完成赴英留学梦想。",
+        "ru": "Пошаговое руководство по участию в программе семестра в Великобритании без доплаты за обучение.",
+        "fr": "Guide pratique pour participer au programme d'échange au Royaume-Uni sans frais universitaires supplémentaires.",
+        "es": "Guía paso a paso para cursar un semestre en el campus británico de Gales sin tasas adicionales."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Panduan Hidup Mahasiswa di Kota KL: Transportasi, Kuliner & Hunian Sekitar IUMW",
+        "en": "Student Living in Central KL: Transport, Food & Housing Near IUMW",
+        "ar": "دليل المعيشة الطلابية في وسط كوالالمبور: المواصلات والمطاعم والسكن قرب IUMW",
+        "ko": "쿠알라룸푸르 도심 유학 생활 백서: IUMW 주변 대중교통, 맛집 및 주거지 정보",
+        "ja": "KL都心での学生ライフガイド：IUMW周辺の交通・グルメ・住まい情報",
+        "zh": "吉隆坡核心都会区求学生活指南：IUMW周边轨道交通、多元美食与精选住宿盘点",
+        "ru": "Жизнь студента в центре Куала-Лумпура: транспорт, еда и аренда рядом с IUMW",
+        "fr": "La vie étudiante au centre de KL : transports, gastronomie et logement près de l'IUMW",
+        "es": "Vida estudiantil en el centro de KL: transporte, comida y alojamiento cerca de IUMW"
+      },
+      "summary": {
+        "id": "Semua informasi seputar stasiun KTM Putra, PWTC LRT, kondominium Regalia & Villa Puteri, dan pusat perbelanjaan Sunway Putra.",
+        "en": "Practical navigation covering Putra KTM, PWTC LRT, modern condos (Regalia & Villa Puteri), and Sunway Putra Mall.",
+        "ar": "معلومات عملية تشمل محطة بوترا ومحطة PWTC ومجمعات ريجاليا السكنية الشهيرة ومركز صنواي بوترا التجاري.",
+        "ko": "푸트라 KTM역, PWTC LRT역 연계, 레갈리아 및 빌라 푸테리 인기 콘도 기숙사, 선웨이 푸트라 몰 생활권 완벽 정리.",
+        "ja": "プトラKTM駅、PWTC LRT駅、人気コンドミニアム（レガリア、ヴィラ・プテリ）、サンウェイ・プトラ・モール情報。",
+        "zh": "一网打尽Putra城铁站、PWTC轻轨站、著名网红公寓Regalia与Villa Puteri租住评测，以及对街双威普特拉大型购物商城。",
+        "ru": "Практическая информация: станции Putra KTM и PWTC LRT, апартаменты Regalia и торговый центр Sunway Putra.",
+        "fr": "Guide pratique : stations Putra KTM et PWTC LRT, résidences Regalia et Villa Puteri, et centre Sunway Putra Mall.",
+        "es": "Información práctica sobre las estaciones Putra KTM y PWTC LRT, condominios Regalia y el centro comercial Sunway Putra."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Fakultas Bisnis & Manajemen (Gelar Ganda UK)",
+        "en": "Business & Management (UK Dual Award)",
+        "ar": "إدارة الأعمال والإدارة (شهادة بريطانية مزدوجة)",
+        "ko": "경영 및 매니지먼트 학부 (영국 듀얼 학위)",
+        "ja": "ビジネス＆マネジメント学部（英国デュアル学位）",
+        "zh": "商业与管理学院（英马双学士学位）",
+        "ru": "Факультет бизнеса и менеджмента (двойной диплом Великобритании)",
+        "fr": "Commerce et gestion (double diplôme Royaume-Uni)",
+        "es": "Negocios y Gestión (Doble Grado con Reino Unido)"
+      },
+      "degree": "Bachelor Degree (Dual Award)",
+      "duration": "3 Years",
+      "feeUSD": "$13,500 - $16,000 Total",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Teknologi Informasi, Sains Komputer & AI (UK Dual Award)",
+        "en": "Computer Science & AI (UK Dual Award)",
+        "ar": "علوم الحاسوب والذكاء الاصطناعي (شهادة بريطانية مزدوجة)",
+        "ko": "컴퓨터 과학 및 인공지능학부 (영국 듀얼 학위)",
+        "ja": "コンピュータサイエンス＆AI学部（英国デュアル学位）",
+        "zh": "计算机科学与人工智能学院（英马双学士学位）",
+        "ru": "Компьютерные науки и ИИ (двойной диплом Великобритании)",
+        "fr": "Informatique et IA (double diplôme Royaume-Uni)",
+        "es": "Ciencias de la Computación e IA (Doble Grado Reino Unido)"
+      },
+      "degree": "Bachelor Degree (Dual Award)",
+      "duration": "3 Years",
+      "feeUSD": "$14,500 - $17,500 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Komunikasi Massa & Media Digital",
+        "en": "Professional Communication & Digital Media",
+        "ar": "الاتصال الجماهيري والإعلام الرقمي الاحترافي",
+        "ko": "매스 커뮤니케이션 및 디지털 미디어 학부",
+        "ja": "プロフェッショナル・コミュニケーション＆デジタルメディア学部",
+        "zh": "大众传播与专业新媒体艺术学院",
+        "ru": "Профессиональные коммуникации и цифровые медиа",
+        "fr": "Communication professionnelle et médias numériques",
+        "es": "Comunicación Profesional y Medios Digitales"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$13,000 - $15,500 Total",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Psikologi & Ilmu Perilaku Manusia (Hons)",
+        "en": "Psychology & Behavioural Sciences (Hons)",
+        "ar": "علم النفس والعلوم السلوكية (مع مرتبة الشرف)",
+        "ko": "심리학 및 행동과학부 (우수 학사 학위)",
+        "ja": "心理学＆行動科学部（栄誉学士学位）",
+        "zh": "心理学与行为科学学院（荣誉学士学位）",
+        "ru": "Психология и поведенческие науки (с отличием)",
+        "fr": "Psychologie et sciences comportementales (avec mention)",
+        "es": "Psicología y Ciencias del Comportamiento (con honores)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$14,000 - $16,500 Total",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Arts / Science (Persiapan Sarjana IUMW)",
+        "en": "Foundation in Arts / Science",
+        "ar": "السنة التمهيدية في الآداب أو العلوم (مسار IUMW)",
+        "ko": "인문 / 이공계 대학 진학 준비 파운데이션",
+        "ja": "文系・理系大学進学準備ファウンデーション",
+        "zh": "文学/理科大学预科文凭课程",
+        "ru": "Подготовительный курс (Foundation) по искусствам и науке",
+        "fr": "Année préparatoire en lettres ou sciences",
+        "es": "Fundamentos en Artes o Ciencias"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$3,600 - $4,400 Total",
+      "ielts": "4.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=FnFc9Ogzr24",
+  "programs": [
+    {
+      "id": "iumw-foundation-in-science",
+      "universityId": "iumw",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 19800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-computer-science-honours",
+      "universityId": "iumw",
+      "name": "Bachelor of Computer Science (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21617,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21617
+        },
+        {
+          "year": 2,
+          "fee": 21617
+        },
+        {
+          "year": 3,
+          "fee": 21617
+        }
+      ],
+      "totalTuitionFee": 64851,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-information-technology-honours",
+      "universityId": "iumw",
+      "name": "Bachelor of Information Technology (Honours)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-doctor-of-philosophy-computer-science",
+      "universityId": "iumw",
+      "name": "Doctor of Philosophy (Computer Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18993,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18993
+        },
+        {
+          "year": 2,
+          "fee": 18993
+        },
+        {
+          "year": 3,
+          "fee": 18993
+        }
+      ],
+      "totalTuitionFee": 56979,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-master-of-science-in-project-management",
+      "universityId": "iumw",
+      "name": "Master of Science in Project Management",
+      "nameAr": "ماجستير العلوم في Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 33390,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33390
+        }
+      ],
+      "totalTuitionFee": 33390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-doctor-of-business-administration",
+      "universityId": "iumw",
+      "name": "Doctor of Business Administration",
+      "nameAr": "دكتوراه في Doctor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19753,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19753
+        },
+        {
+          "year": 2,
+          "fee": 19753
+        },
+        {
+          "year": 3,
+          "fee": 19753
+        }
+      ],
+      "totalTuitionFee": 59259,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-in-accounting-honours",
+      "universityId": "iumw",
+      "name": "Bachelor in Accounting (Honours)",
+      "nameAr": "بكالوريوس في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 24617,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24617
+        },
+        {
+          "year": 2,
+          "fee": 24617
+        },
+        {
+          "year": 3,
+          "fee": 24617
+        }
+      ],
+      "totalTuitionFee": 73851,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-business-administration-honours-in-finance",
+      "universityId": "iumw",
+      "name": "Bachelor of Business Administration (Honours) in Finance",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19887,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19887
+        },
+        {
+          "year": 2,
+          "fee": 19887
+        },
+        {
+          "year": 3,
+          "fee": 19887
+        }
+      ],
+      "totalTuitionFee": 59661,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-business-administration-honours-in-human-resources",
+      "universityId": "iumw",
+      "name": "Bachelor of Business Administration (Honours) in Human Resources",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Human Resources",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19887,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19887
+        },
+        {
+          "year": 2,
+          "fee": 19887
+        },
+        {
+          "year": 3,
+          "fee": 19887
+        }
+      ],
+      "totalTuitionFee": 59661,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-business-administration-honours-in-international-business",
+      "universityId": "iumw",
+      "name": "Bachelor of Business Administration (Honours) in International Business",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19887,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19887
+        },
+        {
+          "year": 2,
+          "fee": 19887
+        },
+        {
+          "year": 3,
+          "fee": 19887
+        }
+      ],
+      "totalTuitionFee": 59661,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-business-administration-honours-in-international-business-online-degree",
+      "universityId": "iumw",
+      "name": "Bachelor of Business Administration (Honours) in International Business - Online Degree",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 13380,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13380
+        },
+        {
+          "year": 2,
+          "fee": 13380
+        },
+        {
+          "year": 3,
+          "fee": 13380
+        }
+      ],
+      "totalTuitionFee": 40140,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-business-administration-honours-in-entrepreneurship",
+      "universityId": "iumw",
+      "name": "Bachelor of Business Administration (Honours) in Entrepreneurship",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19887,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19887
+        },
+        {
+          "year": 2,
+          "fee": 19887
+        },
+        {
+          "year": 3,
+          "fee": 19887
+        }
+      ],
+      "totalTuitionFee": 59661,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-business-administration-hons-in-digital-business",
+      "universityId": "iumw",
+      "name": "Bachelor of Business Administration (Hons) in Digital Business",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Digital Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19887,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19887
+        },
+        {
+          "year": 2,
+          "fee": 19887
+        },
+        {
+          "year": 3,
+          "fee": 19887
+        }
+      ],
+      "totalTuitionFee": 59661,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-business-administration-hons-in-digital-business-online-degree",
+      "universityId": "iumw",
+      "name": "Bachelor of Business Administration (Hons) in Digital Business - Online Degree",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Digital Business أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 13380,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13380
+        },
+        {
+          "year": 2,
+          "fee": 13380
+        },
+        {
+          "year": 3,
+          "fee": 13380
+        }
+      ],
+      "totalTuitionFee": 40140,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-master-of-business-administration-online-degree",
+      "universityId": "iumw",
+      "name": "Master of Business Administration - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 16485,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16485
+        }
+      ],
+      "totalTuitionFee": 16485,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-doctor-of-philosophy-project-management",
+      "universityId": "iumw",
+      "name": "Doctor of Philosophy (Project Management)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18680,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18680
+        },
+        {
+          "year": 2,
+          "fee": 18680
+        },
+        {
+          "year": 3,
+          "fee": 18680
+        }
+      ],
+      "totalTuitionFee": 56040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-real-estate-management-and-auction-hons",
+      "universityId": "iumw",
+      "name": "Bachelor of Real Estate Management and Auction (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Real Estate Management and Auction (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22937,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22937
+        },
+        {
+          "year": 2,
+          "fee": 22937
+        },
+        {
+          "year": 3,
+          "fee": 22937
+        }
+      ],
+      "totalTuitionFee": 68811,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-science-honours-in-psychology",
+      "universityId": "iumw",
+      "name": "Bachelor of Science (Honours) in Psychology",
+      "nameAr": "بكالوريوس العلوم في علم النفس",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3.3,
+      "annualFee": 20617,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20617
+        },
+        {
+          "year": 2,
+          "fee": 20617
+        },
+        {
+          "year": 3,
+          "fee": 20617
+        }
+      ],
+      "totalTuitionFee": 61851,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-foundation-in-science-open-and-distance-learning",
+      "universityId": "iumw",
+      "name": "Foundation in Science (Open and Distance Learning)",
+      "nameAr": "برنامج تمهيدي في العلوم في Open and Distance Learning",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 17700,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17700
+        }
+      ],
+      "totalTuitionFee": 17700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-foundation-in-arts",
+      "universityId": "iumw",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 18350,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18350
+        }
+      ],
+      "totalTuitionFee": 18350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-foundation-in-arts-open-and-distance-learning",
+      "universityId": "iumw",
+      "name": "Foundation in Arts (Open and Distance Learning)",
+      "nameAr": "برنامج تمهيدي في الآداب في Open and Distance Learning",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 16361,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16361
+        }
+      ],
+      "totalTuitionFee": 16361,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-bachelor-of-professional-communication-honours",
+      "universityId": "iumw",
+      "name": "Bachelor of Professional Communication (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Professional Communication (Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19933,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19933
+        },
+        {
+          "year": 2,
+          "fee": 19933
+        },
+        {
+          "year": 3,
+          "fee": 19933
+        }
+      ],
+      "totalTuitionFee": 59799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-master-of-arts-professional-communication-online-degree",
+      "universityId": "iumw",
+      "name": "Master of Arts (Professional Communication) - Online Degree",
+      "nameAr": "ماجستير الآداب في التواصل المهني أونلاين",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 20820,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20820
+        }
+      ],
+      "totalTuitionFee": 20820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "iumw-doctor-of-philosophy-professional-communication",
+      "universityId": "iumw",
+      "name": "Doctor of Philosophy (Professional Communication)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Professional Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18573,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18573
+        },
+        {
+          "year": 2,
+          "fee": 18573
+        },
+        {
+          "year": 3,
+          "fee": 18573
+        }
+      ],
+      "totalTuitionFee": 55719,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 24,
+  "totalProgramsCount": 24
+}

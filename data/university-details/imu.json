@@ -1,0 +1,1888 @@
+{
+  "id": "imu",
+  "name": "International Medical University (IMU)",
+  "arabicName": "الجامعة الطبية الدولية (IMU)",
+  "city": "Bukit Jalil, Kuala Lumpur",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-imu.webp",
+  "image": "assets/photo/campus_imu.webp",
+  "website": "https://www.imu.edu.my/",
+  "ranking": "No. 1 Premier Specialized Medical University in Malaysia (QS 5-Stars)",
+  "established": "1992",
+  "campusName": "IMU Bukit Jalil Healthcare Complex",
+  "studentCount": "4,500+ (45+ Countries)",
+  "intakes": "Feb, Sep",
+  "feeRangeMin": 10966,
+  "feeRangeMax": 143400,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/0mlBL8rmn3Q",
+  "description": "International Medical University (IMU) is one of the leading recognized higher education institutions located in Bukit Jalil, Kuala Lumpur. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر الجامعة الطبية الدولية (IMU) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Bukit Jalil, Kuala Lumpur، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "International Medical University (IMU) didirikan pada tahun 1992 dan merupakan universitas kedokteran dan ilmu kesehatan swasta pertama dan paling terkemuka No. 1 di Malaysia. Berlokasi di Bukit Jalil, Kuala Lumpur, IMU diakui secara global atas jaringan kemitraan internasionalnya yang luas dengan lebih dari 30 universitas kedokteran terkemuka di Inggris, Australia, Selandia Baru, Irlandia, dan Kanada.",
+    "en": "International Medical University (IMU), established in 1992, is Malaysia’s first and premier private healthcare and medical university. Located in Bukit Jalil, Kuala Lumpur, IMU is globally celebrated for its international Credit Transfer partnership network with over 30 top medical schools across the UK, Australia, New Zealand, Ireland, and Canada.",
+    "ar": "تأسست جامعة الطب الدولية (IMU) عام 1992، وتعد أول وأعرق جامعة خاصة متخصصة في الطب والعلوم الصحية في ماليزيا. يقع حرمها الرئيسي في بوكيت جليل بكوالالمبور، وتشتهر عالمياً بشبكة شراكات دولية لتحويل الساعات المعتمدة تضم أكثر من 30 كلية طب عالمية في بريطانيا وأستراليا ونيوزيلندا وأيرلندا وكندا.",
+    "zh": "国际医药大学（IMU）创办于1992年，是马来西亚第一所且声誉最为卓著的私立医药与健康科学大学。主校区位于吉隆坡武吉加里尔，以开创性的“国际学分转移体系”（Credit Transfer System）闻名于世，与英国、澳洲、新西兰、爱尔兰及加拿大逾30所全球顶尖医学院建立了稳固的联合培养伙伴关系。",
+    "ru": "Международный медицинский университет (IMU), основанный в 1992 году в Куала-Лумпуре, является первым и ведущим частным медицинским вузом Малайзии с сетью партнерских соглашений с более чем 30 медицинскими школами Великобритании, Австралии, Новой Зеландии и Канады.",
+    "fr": "Fondée en 1992 à Kuala Lumpur, l'International Medical University (IMU) est la première université médicale privée de Malaisie, réputée pour ses partenariats de transfert de crédits avec plus de 30 facultés de médecine au Royaume-Uni, en Australie, en Irlande et au Canada.",
+    "es": "La International Medical University (IMU), fundada en 1992 en Kuala Lumpur, es la primera universidad médica privada de Malasia, famosa por sus convenios con más de 30 facultades de medicina del Reino Unido, Australia, Nueva Zelanda, Irlanda y Canadá.",
+    "ja": "国際医科大学（IMU）は1992年に設立されたマレーシア初の医療系私立大学であり、英国、豪州、NZ、アイルランド、カナダの30以上の名門医学校との単位認定編入ネットワークで世界的に知られています。",
+    "ko": "국제 의과대학교(IMU)는 1992년에 설립된 말레이시아 최초의 보건의료 특성화 사립대학으로, 영국, 호주, 뉴질랜드, 아일랜드, 캐나다의 30여 개 세계적 의과대학과의 공식 학점 연계 프로그램을 운영하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Simulasi Klinis & Bangsal Pasien Standar Rumah Sakit",
+        "en": "Clinical Skills & Simulation Healthcare Hospital Ward",
+        "ar": "مركز المهارات السريرية وأجنحة المحاكاة الطبية المتقدمة",
+        "ko": "첨단 임상 술기 시뮬레이션 센터 및 병원 모의 병동",
+        "ja": "臨床スキル＆シミュレーション医療トレーニング病棟",
+        "zh": "高仿真实战临床技能模拟中心与标准化教学医院病房",
+        "ru": "Центр клинических навыков и больничные симуляционные палаты",
+        "fr": "Centre de compétences cliniques et salles de simulation hospitalière",
+        "es": "Centro de habilidades clínicas y salas de simulación médica"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Laboratorium Penelitian Biomedis & Patologi Anatomi Modern",
+        "en": "Advanced Biomedical Science & Pathology Research Laboratories",
+        "ar": "مختبرات أبحاث العلوم الطبية الحيوية والتشريح المرضي المتقدمة",
+        "ko": "첨단 의생명과학 및 병리학 전문 연구 실험실",
+        "ja": "先端バイオメディカルサイエンス＆病理学研究ラボ",
+        "zh": "高级生物医药科学研究与病理解剖专业实验室",
+        "ru": "Лаборатории биомедицинских исследований и патологии",
+        "fr": "Laboratoires de recherche biomédicale et de pathologie avancée",
+        "es": "Laboratorios de ciencias biomédicas y patología avanzada"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Perawatan Gigi & Klinik Bedah Mulut Gigi Oral Care",
+        "en": "Oral Health & Dedicated Dental Surgery Training Centre",
+        "ar": "مركز التدريب على جراحة وطب الأسنان وصحة الفم المتطور",
+        "ko": "구강 건강 및 전문 치과의학 수술 트레이닝 센터",
+        "ja": "口腔医療・歯科外科専門トレーニングセンター",
+        "zh": "专业口腔健康管理与牙科临床外科手术实训中心",
+        "ru": "Центр стоматологической хирургии и здоровья полости рта",
+        "fr": "Centre de soins bucco-dentaires et de chirurgie dentaire",
+        "es": "Centro de formación en cirugía dental y salud bucal"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pabrik Formulasi Farmasi & Apotek Pengeluaran Obat Praktik",
+        "en": "Pharmaceutical Formulation Plant & Practice Dispensing Suites",
+        "ar": "وحدات تركيب المستحضرات الصيدلانية والصيدليات التدريبية",
+        "ko": "의약품 제형 연구 파일럿 플랜트 및 조제 실습 스위트",
+        "ja": "製剤パイロットプラント＆模擬調剤薬局実習施設",
+        "zh": "药物制剂工程试验车间与仿真医院调剂药房实训室",
+        "ru": "Фармацевтический комплекс и учебные аптечные кабинеты",
+        "fr": "Usine de formulation pharmaceutique et pharmacie d'application",
+        "es": "Planta de formulación farmacéutica y farmacia de prácticas"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Universitas Medis Swasta Nomor 1 & Terkemuka di Malaysia",
+        "en": "Malaysia’s Premier & No. 1 Specialized Healthcare University",
+        "ar": "الجامعة الطبية والصحية المتخصصة الأولى والرائدة في ماليزيا",
+        "ko": "말레이시아 최고의 넘버원 보건의료 전문 명문 의과대학",
+        "ja": "マレーシア最高峰・医療ヘルスケア専門私立大学第1位",
+        "zh": "马来西亚第一及公认顶尖的专业医学与健康科学大学",
+        "ru": "Ведущий медицинский университет №1 в Малайзии",
+        "fr": "Première université médicale et de santé spécialisée de Malaisie",
+        "es": "Universidad médica especializada número 1 de Malasia"
+      },
+      "desc": {
+        "id": "Memiliki reputasi global luar biasa dengan akreditasi QS 5-Stars untuk pendidikan kedokteran dan farmasi.",
+        "en": "Renowned worldwide with QS 5-Stars rating for elite medical and health science education.",
+        "ar": "تحظى بسمعة دولية فائقة وحاصلة على تصنيف 5 نجوم من QS في التميز الطبي والصيدلاني.",
+        "ko": "의학 및 약학 분야에서 최고 등급의 QS 5스타를 획득한 세계적 수준의 의료 교육.",
+        "ja": "医学および薬学教育において世界水準のQS 5スターを獲得した名門校。",
+        "zh": "拥有QS世界大学五星级卓越评级，在医学、牙科和药学领域享誉国际。",
+        "ru": "Обладает мировым признанием и 5 звездами QS за медицинское образование высшего уровня.",
+        "fr": "Reconnue mondialement avec 5 étoiles QS pour l'excellence de ses formations médicales.",
+        "es": "Reconocida mundialmente con 5 estrellas QS por la excelencia en educación médica."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Jaringan Kemitraan Medis Internasional di UK, Australia & Irlandia",
+        "en": "Global Partner Medical Schools Across UK, Australia & Ireland",
+        "ar": "شبكة شراكات طبية عالمية مع كليات بريطانيا وأستراليا وإيرلندا",
+        "ko": "영국, 호주, 아일랜드 명문 의과대학과의 글로벌 트랜스퍼 파트너십",
+        "ja": "英国・豪州・アイルランド名門医科大学との国際提携ネットワーク",
+        "zh": "与英国、澳大利亚、爱尔兰等世界顶尖医学院校深度学分互认",
+        "ru": "Международное партнерство с медицинскими школами Великобритании, Австралии и Ирландии",
+        "fr": "Partenariats avec des facultés de médecine au Royaume-Uni, en Australie et en Irlande",
+        "es": "Red de facultades de medicina asociadas en Reino Unido, Australia e Irlanda"
+      },
+      "desc": {
+        "id": "Mahasiswa dapat menyelesaikan program kedokteran di lebih dari 30 universitas mitra medis bergengsi di dunia.",
+        "en": "Transfer seamlessly to complete your clinical training with over 30 top global partner universities.",
+        "ar": "إمكانية استكمال دراسة الطب السريري في أكثر من 30 جامعة شريكة حول العالم.",
+        "ko": "전 세계 30개 이상의 파트너 명문 의대에서 임상 실습 및 학위를 취득할 수 있는 경로 제공.",
+        "ja": "世界30校以上の名門提携大学へ編入し臨床トレーニングを修了可能。",
+        "zh": "学生可无缝衔接至全球超过30所顶尖医学院校完成临床轮转及双边执业深造。",
+        "ru": "Возможность завершить клиническую практику в более чем 30 партнерских вузах мира.",
+        "fr": "Poursuivez votre formation clinique dans plus de 30 facultés partenaires à l'international.",
+        "es": "Posibilidad de completar la formación clínica en más de 30 prestigiosas universidades asociadas."
+      }
+    },
+    {
+      "icon": "🩺",
+      "title": {
+        "id": "Rumah Sakit Pendidikan Mandiri & Pusat Layanan Kesehatan Terpadu",
+        "en": "IMU Dedicated Teaching Hospital & Multi-Disciplinary Healthcare",
+        "ar": "مستشفى IMU الجامعي التعليمي ومراكز الرعاية الصحية المتعددة",
+        "ko": "IMU 부속 대학병원 및 다학제 의료 전문 헬스케어 단지",
+        "ja": "IMU直属の大学病院＆総合ヘルスケア・クリニカルセンター",
+        "zh": "IMU直属专业教学综合医院及多元专科临床医疗护理中心",
+        "ru": "Собственная университетская больница IMU и клинический центр",
+        "fr": "Hôpital universitaire IMU et centre de santé multidisciplinaire",
+        "es": "Hospital universitario propio de IMU y centro de salud multidisciplinar"
+      },
+      "desc": {
+        "id": "Memberikan pengalaman langsung merawat pasien di bawah supervisi konsultan dan dokter spesialis ternama.",
+        "en": "Immersive patient-centered clinical immersion under the guidance of leading consultant specialists.",
+        "ar": "تدريب سريري حقيقي ومباشر مع المرضى تحت إشراف نخبة من كبار الأطباء والاستشاريين.",
+        "ko": "저명한 전문의의 지도 아래 환자 중심의 실질적인 현장 임상 경험 체득.",
+        "ja": "著名な専門医の直接指導の下で、患者中心の実践的な臨床経験を積むことが可能。",
+        "zh": "在顶尖专科顾问医生与教授直接指导下，全面沉浸于以患者为中心的实景诊疗轮转。",
+        "ru": "Клиническая практика с пациентами под руководством ведущих врачей-специалистов.",
+        "fr": "Immersion clinique directe auprès des patients encadrée par des spécialistes réputés.",
+        "es": "Inmersión clínica directa con pacientes bajo la supervisión de médicos especialistas."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Tingkat Kelulusan Ujian Lisensi & Penerimaan Kerja 100%",
+        "en": "Near 100% Medical Licensing Exam Pass Rate & Employability",
+        "ar": "معدل اجتياز شبه تام لامتحانات مزاولة المهنة والتوظيف الطبي",
+        "ko": "의사 면허 시험 최상위 합격률 및 100%에 달하는 취업 경쟁력",
+        "ja": "医療国家試験・免許試験における極めて高い合格率と就職率",
+        "zh": "极高的执业医师资格考试通过率与全球医疗系统100%就业认可",
+        "ru": "Почти 100% сдача лицензионных медицинских экзаменов и трудоустройство",
+        "fr": "Taux de réussite exceptionnel aux examens d'autorisation d'exercer",
+        "es": "Tasa de aprobación casi del 100% en exámenes de colegiación médica"
+      },
+      "desc": {
+        "id": "Alumni IMU diakui dan berpraktik sebagai dokter di Malaysia, Singapura, Inggris, Australia, dan AS.",
+        "en": "IMU medical graduates are practicing doctors across Malaysia, Singapore, the UK, Australia, and the US.",
+        "ar": "خريجو الجامعة أطباء ممارسون معترف بهم في ماليزيا وسنغافورة وبريطانيا وأمريكا وأستراليا.",
+        "ko": "졸업생들은 말레이시아뿐 아니라 싱가포르, 영국, 호주, 미국 등지에서 전문의로 활약.",
+        "ja": "卒業生はマレーシア国内外、シンガポール、英国、豪州、米国で医師として活躍。",
+        "zh": "毕业生在全球备受青睐，已在马来西亚、新加坡、英国、澳大利亚及美国执业从医。",
+        "ru": "Выпускники успешно практикуют в Малайзии, Сингапуре, Великобритании, Австралии и США.",
+        "fr": "Les diplômés exercent en tant que médecins en Malaisie, à Singapour, au Royaume-Uni et aux USA.",
+        "es": "Los graduados ejercen como médicos en Malasia, Singapur, Reino Unido, Australia y EE.UU."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kondominium Residensi Mahasiswa Vista Komanwel Bukit Jalil",
+        "en": "Vista Komanwel Premium Student Residences Bukit Jalil",
+        "ar": "مجمع فيستا كومانويل السكني الفاخر لطلاب جامعة IMU بوكيت جليل",
+        "ko": "비스타 코만웰 IMU 전용 프리미엄 학생 콘도미니엄",
+        "ja": "ビスタ・コモンウェルス IMU専用プレミアム学生レジデンス",
+        "zh": "Vista Komanwel IMU专属高品质学生公寓（武吉加里尔）",
+        "ru": "Студенческий жилой комплекс Vista Komanwel в Букит Джалил",
+        "fr": "Résidence étudiante de qualité Vista Komanwel Bukit Jalil",
+        "es": "Residencia de estudiantes Vista Komanwel Bukit Jalil"
+      },
+      "distance": {
+        "id": "Hanya 3 Menit Jalan Kaki ke Pintu Gerbang Kampus IMU",
+        "en": "3-Minute Direct Walk to IMU Campus Gates",
+        "ar": "3 دقائق سيراً على الأقدام إلى بوابات الحرم الجامعي مباشرة",
+        "ko": "IMU 캠퍼스 정문까지 도보 단 3분 거리",
+        "ja": "IMUキャンパス正門まで徒歩わずか3分",
+        "zh": "步行仅需3分钟即可抵达IMU大学主校门",
+        "ru": "3 минуты пешком до входа в кампус IMU",
+        "fr": "À 3 minutes à pied des portes du campus IMU",
+        "es": "A solo 3 minutos a pie de la entrada del campus IMU"
+      },
+      "priceRange": "RM 700 - RM 1,600 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam & Kartu Akses",
+          "Kolam Renang & Gym Kebugaran",
+          "AC & WiFi Kecepatan Tinggi",
+          "Pantry & Dapur Bersama",
+          "Kafetaria & Minimarket 24 Jam"
+        ],
+        "en": [
+          "24/7 Security & Access Card Control",
+          "Swimming Pool & Fitness Gym",
+          "Fully Air-Conditioned & High-Speed WiFi",
+          "Shared Kitchen & Laundry Facilities",
+          "On-Site Cafeteria & 24h Convenience Store"
+        ],
+        "ar": [
+          "حراسة أمنية وبطاقات دخول إلكترونية 24/7",
+          "حمام سباحة وصالة لياقة بدنية متكاملة",
+          "مكيف هواء وإنترنت فائق السرعة",
+          "مطبخ مشترك ومغسلة ملابس متطورة",
+          "كافتيريا ومطاعم وسوبرماركت 24 ساعة"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian",
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات اليومية"
+      },
+      "cost": "RM 750 - RM 1,100"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus / LRT",
+        "en": "Local Public Transit & LRT",
+        "ar": "المواصلات العامة والتنقل"
+      },
+      "cost": "RM 60 - RM 140"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 90 - RM 170"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Buku Medis",
+        "en": "Personal Expenses & Medical Books",
+        "ar": "المستلزمات الشخصية والكتب الطبية"
+      },
+      "cost": "RM 250 - RM 450"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apakah gelar kedokteran (MBBS) dari IMU diakui secara internasional?",
+        "en": "Is the IMU Medical Degree (MBBS) recognized internationally?",
+        "ar": "هل شهادة الطب البشري (MBBS) من جامعة IMU معترف بها دولياً؟",
+        "ko": "IMU 의과대학(MBBS) 학위는 국제적으로 공인되나요?",
+        "ja": "IMUの医学部（MBBS）学位は国際的に認められていますか？",
+        "zh": "IMU国际医药大学的医学士学位（MBBS）是否获得国际认证？",
+        "ru": "Признается ли медицинский диплом (MBBS) IMU на международном уровне?",
+        "fr": "Le diplôme de médecine (MBBS) de l'IMU est-il reconnu à l'international ?",
+        "es": "¿Está el título de medicina (MBBS) de IMU reconocido internacionalmente?"
+      },
+      "a": {
+        "id": "Ya, gelar MBBS IMU terakreditasi penuh oleh Dewan Medis Malaysia (MMC) dan terdaftar di Direktori Medis Dunia (World Directory of Medical Schools), memungkinkan lulusan mengambil ujian lisensi seperti PLAB (Inggris) dan USMLE (Amerika Serikat).",
+        "en": "Yes, IMU MBBS is fully accredited by the Malaysian Medical Council (MMC) and listed in the World Directory of Medical Schools, qualifying graduates for UK PLAB, USMLE, and global licensing.",
+        "ar": "نعم، الشهادة معتمدة من المجلس الطبي الماليزي (MMC) ومدرجة في الدليل العالمي لكليات الطب (WDOMS)، مما يتيح التقديم لاختبارات PLAB البريطاني وUSMLE الأمريكي.",
+        "ko": "네, IMU의 MBBS는 말레이시아 의학위원회(MMC)의 완전 인가를 받았으며 세계 의대 명단(WDOMS)에 등재되어 영국 PLAB, 미국 USMLE 응시 자격을 갖춥니다.",
+        "ja": "はい、マレーシア医学評議会（MMC）の完全認可を受け、世界医学部名簿（WDOMS）に登録されており、英国PLABや米国USMLEを受験可能です。",
+        "zh": "是的，IMU医学士学位获马来西亚医学理事会（MMC）全面认证，并列入世界医学院校名录（WDOMS），毕业生有资格报考英国PLAB及美国USMLE执业医师考试。",
+        "ru": "Да, программа аккредитована MMC и включена во Всемирный справочник медицинских школ (WDOMS), что дает право сдавать PLAB (Великобритания) и USMLE (США).",
+        "fr": "Oui, le diplôme est agréé par le MMC et répertorié dans le WDOMS, permettant de passer les examens du PLAB britannique et de l'USMLE américain.",
+        "es": "Sí, está plenamente acreditado por el MMC y listado en el Directorio Mundial de Escuelas de Medicina (WDOMS), habilitando para el PLAB y el USMLE."
+      }
+    },
+    {
+      "q": {
+        "id": "Bagaimana sistem transfer program medis mitra IMU ke luar negeri bekerja?",
+        "en": "How does the IMU Partner Medical School (PMS) credit transfer program work?",
+        "ar": "كيف يعمل برنامج التحويل والابتعاث لكليات الطب الدولية الشريكة مع IMU؟",
+        "ko": "IMU 해외 명문 파트너 의과대학 학점 편입 프로그램은 어떻게 진행되나요?",
+        "ja": "IMUの海外提携医科大学（PMS）への編入プログラムはどのように行われますか？",
+        "zh": "IMU海外合作医学院校（PMS）学分转移临床项目是如何运作的？",
+        "ru": "Как устроена программа трансфера в партнерские медицинские школы (PMS) за рубежом?",
+        "fr": "Comment fonctionne le programme de transfert vers les facultés de médecine partenaires ?",
+        "es": "¿Cómo funciona el programa de transferencia a facultades asociadas (PMS)?"
+      },
+      "a": {
+        "id": "Mahasiswa menyelesaikan 2,5 tahun pertama fase pra-klinis di kampus IMU Bukit Jalil, kemudian dapat memilih untuk mentransfer sisa pendidikan klinis mereka ke universitas mitra ternama di Inggris, Australia, atau Selandia Baru.",
+        "en": "Students spend the first 2.5 years covering pre-clinical sciences at IMU Bukit Jalil, and then transfer to prestigious partner medical schools across the UK, Australia, or New Zealand for clinical training.",
+        "ar": "يدرس الطالب أول سنتين ونصف في حرم IMU في بوكيت جليل، ثم ينتقل لاستكمال السنوات السريرية في إحدى الجامعات الشريكة في بريطانيا أو أستراليا أو نيوزيلندا.",
+        "ko": "학생들은 첫 2.5년간 IMU 부킷 잘릴 캠퍼스에서 기초 의학 과정을 이수한 후, 영국, 호주, 뉴질랜드의 명문 파트너 의대로 편입해 임상 실습을 완수합니다.",
+        "ja": "学生は最初の2.5年間をIMUブキット・ジャリル校で基礎医学を学び、その後イギリス、豪州、NZの提携医科大学へ編入して臨床医学を修了します。",
+        "zh": "学生前2.5年在IMU武吉加里尔校区完成基础医学与前期临床理论，随后可选择转入英国、澳大利亚或新西兰顶尖医学院完成临床实训并获取外方学位。",
+        "ru": "Первые 2,5 года студенты изучают доклинические дисциплины в кампусе IMU, после чего переводятся в партнерские медицинские школы Великобритании, Австралии или Новой Зеландии.",
+        "fr": "Les étudiants effectuent les 2,5 premières années à l'IMU, puis peuvent transférer leurs études cliniques vers des facultés au Royaume-Uni ou en Australie.",
+        "es": "Los estudiantes cursan 2,5 años en IMU Bukit Jalil y luego pueden transferirse a universidades de Reino Unido, Australia o Nueva Zelanda."
+      }
+    },
+    {
+      "q": {
+        "id": "Apa saja syarat kemahiran bahasa Inggris (IELTS) untuk pendaftaran kedokteran?",
+        "en": "What are the English language (IELTS) requirements for Medical programmes?",
+        "ar": "ما هي متطلبات اللغة الإنجليزية (IELTS) للقبول في برامج الطب وطب الأسنان؟",
+        "ko": "의학 및 치의학 프로그램 입학을 위한 영어 성적(IELTS) 기준은 무엇인가요?",
+        "ja": "医学科および歯学科への出願に必要な英語スコア（IELTS）の基準は？",
+        "zh": "报考医学与牙科等专业需要达到怎样的英语水平（IELTS雅思要求）？",
+        "ru": "Каковы требования к английскому языку (IELTS) для медицинских программ?",
+        "fr": "Quelles sont les exigences linguistiques en anglais (IELTS) pour la médecine ?",
+        "es": "¿Cuáles son los requisitos de inglés (IELTS) para medicina y odontología?"
+      },
+      "a": {
+        "id": "Untuk program MBBS dan Kedokteran Gigi, pelamar internasional umumnya memerlukan skor IELTS minimal 7.0 (dengan tidak ada band di bawah 6.5). Program farmasi dan ilmu kesehatan lain memerlukan IELTS 6.0 - 6.5.",
+        "en": "For MBBS and Dentistry, an IELTS score of 7.0 overall (minimum 6.5 per band) is standard. Pharmacy and other health sciences typically require IELTS 6.0 to 6.5.",
+        "ar": "لبرامج الطب والجراحة وطب الأسنان، يُشترط الحصول على IELTS 7.0 إجمالي (بحد أدنى 6.5 في كل مهارة). أما الصيدلة والعلوم الصحية فتتطلب 6.0 إلى 6.5.",
+        "ko": "의학(MBBS) 및 치의학은 IELTS 7.0(모든 영역 6.5 이상)이 필요하며, 약학 및 기타 보건과학은 IELTS 6.0~6.5가 요구됩니다.",
+        "ja": "医学（MBBS）および歯科学はIELTS 7.0以上（各セクション6.5以上）が標準です。薬学やその他の医療系学部は6.0〜6.5が必要です。",
+        "zh": "医学士（MBBS）及牙科学士通常要求雅思总分7.0（各单项不低于6.5）；药剂学及其他健康科学专业通常要求雅思6.0至6.5分。",
+        "ru": "Для MBBS и стоматологии требуется общий балл IELTS 7.0 (не ниже 6.5 в каждом блоке). Для фармации и других программ достаточно 6.0–6.5.",
+        "fr": "Pour le MBBS et la dentisterie, un score IELTS de 7.0 (avec un minimum de 6.5) est requis. La pharmacie demande 6.0 à 6.5.",
+        "es": "Para MBBS y odontología se requiere un IELTS global de 7.0 (mínimo 6.5 por banda). Para farmacia y otras ciencias suele ser 6.0 a 6.5."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan periode intake mahasiswa baru dibuka di IMU?",
+        "en": "When are the major intake dates open at IMU?",
+        "ar": "متى تفتح مواعيد وبدايات الفصول الدراسية الرئيسية للطلاب في IMU؟",
+        "ko": "IMU의 주요 신입생 입학 시기(Intake)는 언제인가요?",
+        "ja": "IMUの主な入学時期（インテイク）はいつですか？",
+        "zh": "IMU国际医药大学的主要开学招生批次（Intakes）安排在哪些月份？",
+        "ru": "В какие месяцы открыт основной набор студентов в IMU?",
+        "fr": "Quelles sont les dates principales de rentrée universitaire à l'IMU ?",
+        "es": "¿Cuáles son los períodos de ingreso principales en IMU?"
+      },
+      "a": {
+        "id": "Intake utama untuk Kedokteran (MBBS) dan Kedokteran Gigi adalah pada bulan Februari dan September. Program Ilmu Kesehatan lain juga menerima mahasiswa pada bulan Juli dan Oktober.",
+        "en": "The primary intakes for Medicine (MBBS) and Dentistry are in February and September. Allied Health Sciences also offer intakes in July and October.",
+        "ar": "مواعيد القبول الرئيسية لبرامج الطب وطب الأسنان تكون في شهري فبراير وسبتمبر. كما تتوفر فترات قبول للعلوم الصحية في يوليو وأكتوبر.",
+        "ko": "의학(MBBS) 및 치의학의 주 입학 시기는 2월과 9월입니다. 보건과학 계열 프로그램은 7월과 10월에도 입학이 가능합니다.",
+        "ja": "医学科（MBBS）および歯学科の主な入学期は2月と9月です。関連医療系プログラムは7月や10月にも募集があります。",
+        "zh": "医学（MBBS）与牙科学的主要开学批次为每年2月和9月；其他健康科学与药剂学专业还设有7月与10月入学节点。",
+        "ru": "Основные наборы на медицину (MBBS) и стоматологию открываются в феврале и сентябре. Другие специальности также набирают в июле и октябре.",
+        "fr": "Les rentrées principales pour la médecine et la dentisterie ont lieu en février et septembre. Les autres filières ouvrent aussi en juillet et octobre.",
+        "es": "Los ingresos principales para Medicina y Odontología son en febrero y septiembre. Otras ciencias de la salud también admiten en julio y octubre."
+      }
+    },
+    {
+      "q": {
+        "id": "Apakah tersedia fasilitas akomodasi mahasiswa yang dekat dengan kampus?",
+        "en": "Is there convenient student accommodation near IMU Bukit Jalil?",
+        "ar": "هل يتوفر سكن طلابي مريح وقريب من حرم جامعة IMU في بوكيت جليل؟",
+        "ko": "IMU 부킷 잘릴 캠퍼스 인근에 편리한 학생 기숙사가 마련되어 있나요?",
+        "ja": "IMUブキット・ジャリル校の近くに便利な学生寮はありますか？",
+        "zh": "在IMU武吉加里尔校区附近是否配有便捷舒适的学生公寓住宿？",
+        "ru": "Предоставляется ли студенческое жилье рядом с кампусом IMU?",
+        "fr": "Un hébergement étudiant est-il disponible à proximité du campus ?",
+        "es": "¿Hay alojamiento para estudiantes cerca del campus de IMU?"
+      },
+      "a": {
+        "id": "Ya, IMU mengelola dan bermitra dengan kondominium modern seperti Vista Komanwel dan Covillea yang berjarak hanya 3-5 menit jalan kaki dari kampus dengan keamanan 24 jam.",
+        "en": "Yes, IMU arranges modern residences at adjacent condominiums such as Vista Komanwel and Covillea, within a 3 to 5-minute walk from campus with 24/7 security.",
+        "ar": "نعم، توفر الجامعة وتتعاون مع مجمعات سكنية راقية مثل Vista Komanwel وCovillea على بعد 3 إلى 5 دقائق سيراً على الأقدام مع حراسة مشددة على مدار الساعة.",
+        "ko": "네, 캠퍼스에서 도보 3~5분 거리의 Vista Komanwel 및 Covillea 등 현대적인 콘도미니엄과 연계하여 24시간 보안 기숙사를 지원합니다.",
+        "ja": "はい、キャンパスから徒歩3〜5分のVista KomanwelやCovilleaなど、24時間セキュリティ完備の提携コンドミニアム寮が利用可能です。",
+        "zh": "是的，IMU为学生协调提供距离校区仅需步行3至5分钟的高品质现代化学生公寓（如Vista Komanwel与Covillea），配备24小时保安巡逻。",
+        "ru": "Да, IMU предоставляет современные апартаменты (например, Vista Komanwel и Covillea) в 3–5 минутах ходьбы от кампуса с круглосуточной охраной.",
+        "fr": "Oui, l'IMU propose des logements modernes situés à 3-5 minutes à pied du campus (Vista Komanwel, Covillea) avec sécurité 24h/24.",
+        "es": "Sí, IMU coordina residencias modernas como Vista Komanwel y Covillea, a solo 3-5 minutos a pie del campus con seguridad 24 horas."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Panduan Lengkap Masuk Fakultas Kedokteran IMU: Syarat, Wawancara & Biaya",
+        "en": "Comprehensive Guide to IMU Medicine: Admissions, Interviews & Fees",
+        "ar": "دليل القبول الشامل في كلية الطب بجامعة IMU: الشروط والمقابلات والرسوم",
+        "ko": "IMU 의과대학 입학 완벽 가이드: 입학 요건, MMI 면접 준비 및 학비",
+        "ja": "IMU医学部完全入学ガイド：出願要件・面接対策・学費まとめ",
+        "zh": "IMU国际医药大学临床医学专业深度申请指南：录取标准、MMI面试与费用",
+        "ru": "Полный гид по поступлению на медицинский факультет IMU: требования, интервью и стоимость",
+        "fr": "Guide complet pour intégrer la faculté de médecine de l'IMU",
+        "es": "Guía completa para ingresar a la Facultad de Medicina de IMU"
+      },
+      "summary": {
+        "id": "Pelajari secara mendalam proses seleksi Multiple Mini Interview (MMI), kualifikasi nilai A-Level / IB, dan rincian pembiayaan MBBS.",
+        "en": "A step-by-step breakdown of the Multiple Mini Interview (MMI) process, high-school academic benchmarks, and total MBBS fee structures.",
+        "ar": "تفاصيل دقيقة لمراحل المقابلات المصغرة المتعددة (MMI)، والمعدلات المطلوبة للشهادات الثانوية وتكاليف دراسة الطب كاملة.",
+        "ko": "다중 미니 면접(MMI) 평가 방식, 고교 내신/A-Level 학력 기준 및 MBBS 등록금 세부 분석.",
+        "ja": "マルチプル・ミニ・インタビュー（MMI）のプロセス、高校成績基準、MBBSの学費構造を徹底解説。",
+        "zh": "全方位梳理多站式迷你面试（MMI）应试要点、A-Level与高中文凭学术标准及临床医学总体投资预算。",
+        "ru": "Подробный разбор многоэтапного собеседования (MMI), академических требований и стоимости обучения.",
+        "fr": "Explications détaillées sur les entretiens MMI, les critères académiques et le coût des études.",
+        "es": "Desglose detallado del proceso de entrevistas MMI, requisitos académicos y estructura de tasas."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Jalur Transfer Medis PMS IMU: Cara Kuliah Klinis di UK & Australia",
+        "en": "IMU Partner Medical School Pathways: Studying Medicine in the UK & Australia",
+        "ar": "مسارات التحويل الطبي الدولي: كيف تدرس المرحلة السريرية في بريطانيا وأستراليا",
+        "ko": "IMU 파트너 의대 트랜스퍼 패스웨이: 영국 및 호주 의학 학위 취득 전략",
+        "ja": "IMU提携海外医科大学編入ルート：英国・豪州での臨床留学ナビ",
+        "zh": "IMU海外合作医学院临床双轨制：如何直升英国与澳洲顶尖大学医学院",
+        "ru": "Программа медицинского трансфера IMU: клиническая практика в Великобритании и Австралии",
+        "fr": "Passerelles médicales partenaires de l'IMU : étudier au Royaume-Uni et en Australie",
+        "es": "Rutas de transferencia médica de IMU: estudiar medicina en Reino Unido y Australia"
+      },
+      "summary": {
+        "id": "Temukan cara menghemat biaya pendidikan kedokteran global dengan memulai pra-klinis di Malaysia sebelum transfer ke luar negeri.",
+        "en": "Learn how to substantially reduce international medical tuition fees by completing pre-clinical studies in Malaysia prior to transfer.",
+        "ar": "اكتشف كيف توفر أكثر من 50% من تكاليف دراسة الطب الدولية عبر دراسة المرحلة قبل السريرية بماليزيا ثم التحويل للغرب.",
+        "ko": "말레이시아에서 기초 의학을 먼저 이수하여 해외 의대 총 유학 비용을 대폭 절감하는 스마트 편입 전략.",
+        "ja": "マレーシアで基礎医学を修めてから編入することで、海外医学部留学の学費を大幅に抑える方法を解説。",
+        "zh": "深入了解先在马来西亚完成前期基础医科、后转入英澳名校深造的超高性价比国际医学留学校径。",
+        "ru": "Узнайте, как сэкономить на зарубежном медицинском образовании, начав обучение в Малайзии.",
+        "fr": "Découvrez comment réduire les frais de scolarité en débutant votre cursus médical en Malaisie.",
+        "es": "Descubra cómo optimizar costes cursando las ciencias preclínicas en Malasia antes del traslado."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Kehidupan Mahasiswa Medis di Bukit Jalil: Biaya Hidup & Fasilitas",
+        "en": "Student Life in Bukit Jalil: Living Costs, Transport & Housing Guide",
+        "ar": "حياة طالب الطب في بوكيت جليل: دليل السكن والمصاريف والمعيشة اليومية",
+        "ko": "부킷 잘릴에서의 의대생 캠퍼스 라이프: 생활비, 대중교통 및 기숙사 가이드",
+        "ja": "ブキット・ジャリルでの医学生ライフ：生活費・交通・住まい完全ガイド",
+        "zh": "武吉加里尔医学生活探索：学生公寓住宿、生活消费与轨道交通实用指南",
+        "ru": "Студенческая жизнь в Букит Джалил: стоимость жизни, транспорт и жилье",
+        "fr": "Vie étudiante à Bukit Jalil : guide du logement, des transports et du coût de la vie",
+        "es": "Vida estudiantil en Bukit Jalil: costes de vida, transporte y alojamiento"
+      },
+      "summary": {
+        "id": "Semua yang perlu diketahui mahasiswa internasional tentang stasiun LRT Sri Petaling, pilihan kuliner halal, dan fasilitas olahraga.",
+        "en": "Everything international students need to know about the Sri Petaling LRT, culinary dining options, and sports facilities around Bukit Jalil.",
+        "ar": "كل ما يحتاجه الطالب الدولي من معلومات حول محطة قطار LRT والمطاعم المتنوعة والمنشآت الرياضية الأولمبية.",
+        "ko": "스리 페탈링 LRT 지하철역 접근성, 다양한 할랄 식음료, 올림픽 경기장 인근 체육 시설 정보 총망라.",
+        "ja": "スリ・プタリンLRT駅へのアクセス、多国籍グルメ、オリンピック級のスポーツ施設情報まで網羅。",
+        "zh": "全景呈现紧邻斯里八打灵轻轨站的便捷通勤、周边国际美食及国家级综合体育中心的活力生活圈。",
+        "ru": "Все, что нужно знать о станции метро LRT, ресторанах и спортивных комплексах Букит Джалил.",
+        "fr": "Tout ce que les étudiants internationaux doivent savoir sur le métro LRT, les restaurants et les installations sportives.",
+        "es": "Todo lo que el estudiante internacional necesita saber sobre el metro LRT, gastronomía e instalaciones deportivas."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Kedokteran & Bedah (Medicine MBBS)",
+        "en": "Medicine & Surgery (MBBS)",
+        "ar": "الطب البشري والجراحة (MBBS)",
+        "ko": "의학 및 외과학 (MBBS)",
+        "ja": "医学部・外科学士（MBBS）",
+        "zh": "内外全科医学士（MBBS）",
+        "ru": "Лечебное дело и хирургия (MBBS)",
+        "fr": "Médecine et chirurgie (MBBS)",
+        "es": "Medicina y Cirugía (MBBS)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "5 Years",
+      "feeUSD": "$120,000 - $145,000 Total",
+      "ielts": "7.0"
+    },
+    {
+      "faculty": {
+        "id": "Kedokteran Gigi (Bachelor of Dental Surgery)",
+        "en": "Dental Surgery (BDS)",
+        "ar": "جراحة وطب الأسنان (BDS)",
+        "ko": "치의학 및 치과외과 (BDS)",
+        "ja": "歯学部・歯科外科学士（BDS）",
+        "zh": "牙科外科学士（BDS）",
+        "ru": "Стоматологическая хирургия (BDS)",
+        "fr": "Chirurgie dentaire (BDS)",
+        "es": "Cirugía Dental (BDS)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "5 Years",
+      "feeUSD": "$110,000 - $130,000 Total",
+      "ielts": "7.0"
+    },
+    {
+      "faculty": {
+        "id": "Farmasi (Bachelor of Pharmacy Hons)",
+        "en": "Pharmacy (BPharm Hons)",
+        "ar": "الصيدلة (بكالوريوس مع مرتبة الشرف)",
+        "ko": "약학 학사 (BPharm Hons)",
+        "ja": "薬学部・薬学士（栄誉学位）",
+        "zh": "药剂学荣誉学士（BPharm Hons）",
+        "ru": "Фармация (с отличием)",
+        "fr": "Pharmacie (avec mention)",
+        "es": "Farmacia (con honores)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "4 Years",
+      "feeUSD": "$42,000 - $48,000 Total",
+      "ielts": "6.5"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Biomedis & Bioteknologi Medis",
+        "en": "Biomedical Science & Medical Biotech",
+        "ar": "العلوم الطبية الحيوية والتقنية الحيوية",
+        "ko": "의생명과학 및 의료 생명공학",
+        "ja": "バイオメディカルサイエンス＆医療生命工学",
+        "zh": "生物医药科学与医用生物技术",
+        "ru": "Биомедицинские науки и биотехнологии",
+        "fr": "Sciences biomédicales et biotechnologies",
+        "es": "Ciencias biomédicas y biotecnología médica"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$28,000 - $34,000 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Keperawatan & Ilmu Gizi Nutrisi (Dietetics)",
+        "en": "Nursing & Nutrition Dietetics",
+        "ar": "التمريض والتغذية العلاجية والحميات",
+        "ko": "간호학 및 영양식이요법학",
+        "ja": "看護学＆栄養食事療法学",
+        "zh": "护理学与临床营养饮食学",
+        "ru": "Сестринское дело и диетология",
+        "fr": "Soins infirmiers et diététique",
+        "es": "Enfermería y Dietética y Nutrición"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 - 4 Years",
+      "feeUSD": "$22,000 - $29,000 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Science (Jalur Kedokteran & Kesehatan)",
+        "en": "Foundation in Science (Medical Track)",
+        "ar": "السنة التمهيدية في العلوم (المسار الطبي والصحي)",
+        "ko": "이과 파운데이션 (의학/보건 진학 트랙)",
+        "ja": "理系ファウンデーション（医学・医療進学コース）",
+        "zh": "理科预科文凭课程（直通医学与健康专业）",
+        "ru": "Подготовительный курс по естественным наукам (медицинский профиль)",
+        "fr": "Année préparatoire scientifique (filière médicale)",
+        "es": "Fundamentos de Ciencias (Vía Médica)"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$6,500 - $7,800 Total",
+      "ielts": "5.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=0mlBL8rmn3Q",
+  "programs": [
+    {
+      "id": "imu-master-in-health-informatics-and-analytics",
+      "universityId": "imu",
+      "name": "Master in Health Informatics and Analytics",
+      "nameAr": "ماجستير في Master in Health Informatics and Analytics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 50000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-business-administration-with-healthcare-management-honours",
+      "universityId": "imu",
+      "name": "Bachelor of Business Administration with Healthcare Management (Honours)",
+      "nameAr": "بكالوريوس إدارة الأعمال في with Healthcare Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39220,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39220
+        },
+        {
+          "year": 2,
+          "fee": 39220
+        },
+        {
+          "year": 3,
+          "fee": 39220
+        }
+      ],
+      "totalTuitionFee": 117660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-master-in-business-administration-in-healthcare-management",
+      "universityId": "imu",
+      "name": "Master in Business Administration in Healthcare Management",
+      "nameAr": "ماجستير في Master in Business Administration in Healthcare Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 66700,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 66700
+        }
+      ],
+      "totalTuitionFee": 66700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-doctor-of-philosophy-phd-in-healthcare-management",
+      "universityId": "imu",
+      "name": "Doctor of Philosophy (PhD) in Healthcare Management",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Healthcare Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 28100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28100
+        },
+        {
+          "year": 2,
+          "fee": 28100
+        },
+        {
+          "year": 3,
+          "fee": 28100
+        }
+      ],
+      "totalTuitionFee": 84300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-business-administration-with-healthcare-management-honours-1",
+      "universityId": "imu",
+      "name": "Bachelor of Business Administration with Healthcare Management (Honours)",
+      "nameAr": "بكالوريوس إدارة الأعمال في with Healthcare Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39220,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39220
+        },
+        {
+          "year": 2,
+          "fee": 39220
+        },
+        {
+          "year": 3,
+          "fee": 39220
+        }
+      ],
+      "totalTuitionFee": 117660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-medical-sciences-honours",
+      "universityId": "imu",
+      "name": "Bachelor of Medical Sciences (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Medical Sciences (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 134500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 134500
+        },
+        {
+          "year": 2,
+          "fee": 134500
+        },
+        {
+          "year": 3,
+          "fee": 134500
+        }
+      ],
+      "totalTuitionFee": 403500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-dentistry-degree",
+      "universityId": "imu",
+      "name": "Bachelor of Dentistry Degree",
+      "nameAr": "بكالوريوس في Bachelor of Dentistry Degree",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 143400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 143400
+        },
+        {
+          "year": 2,
+          "fee": 143400
+        },
+        {
+          "year": 3,
+          "fee": 143400
+        },
+        {
+          "year": 4,
+          "fee": 143400
+        },
+        {
+          "year": 5,
+          "fee": 143400
+        }
+      ],
+      "totalTuitionFee": 717000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-pharmacy-hons",
+      "universityId": "imu",
+      "name": "Bachelor of Pharmacy (Hons)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 54000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54000
+        },
+        {
+          "year": 2,
+          "fee": 54000
+        },
+        {
+          "year": 3,
+          "fee": 54000
+        },
+        {
+          "year": 4,
+          "fee": 54000
+        }
+      ],
+      "totalTuitionFee": 216000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-hons-in-pharmaceutical-chemistry",
+      "universityId": "imu",
+      "name": "Bachelor of Science (Hons) in Pharmaceutical Chemistry",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Pharmaceutical Chemistry",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44000
+        },
+        {
+          "year": 2,
+          "fee": 44000
+        },
+        {
+          "year": 3,
+          "fee": 44000
+        }
+      ],
+      "totalTuitionFee": 132000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-hons-in-biomedical-science",
+      "universityId": "imu",
+      "name": "Bachelor of Science (Hons) in Biomedical Science",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 47000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47000
+        },
+        {
+          "year": 2,
+          "fee": 47000
+        },
+        {
+          "year": 3,
+          "fee": 47000
+        }
+      ],
+      "totalTuitionFee": 141000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-hons-in-dietetics-with-nutrition",
+      "universityId": "imu",
+      "name": "Bachelor of Science (Hons) in Dietetics with Nutrition",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Dietetics with Nutrition",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        },
+        {
+          "year": 4,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 200000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-applied-science-hons-in-medical-biotechnology",
+      "universityId": "imu",
+      "name": "Bachelor of Applied Science (Hons) in Medical Biotechnology",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44000
+        },
+        {
+          "year": 2,
+          "fee": 44000
+        },
+        {
+          "year": 3,
+          "fee": 44000
+        }
+      ],
+      "totalTuitionFee": 132000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-nursing-hons",
+      "universityId": "imu",
+      "name": "Bachelor of Nursing (Hons)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24750
+        },
+        {
+          "year": 2,
+          "fee": 24750
+        },
+        {
+          "year": 3,
+          "fee": 24750
+        },
+        {
+          "year": 4,
+          "fee": 24750
+        }
+      ],
+      "totalTuitionFee": 99000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-nursing-hons-online-degree",
+      "universityId": "imu",
+      "name": "Bachelor of Nursing (Hons) - Online Degree",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 10966,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10966
+        },
+        {
+          "year": 2,
+          "fee": 10966
+        },
+        {
+          "year": 3,
+          "fee": 10966
+        },
+        {
+          "year": 4,
+          "fee": 10966
+        }
+      ],
+      "totalTuitionFee": 43864,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-hons-in-nutrition",
+      "universityId": "imu",
+      "name": "Bachelor of Science (Hons) in Nutrition",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Nutrition",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 47000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47000
+        },
+        {
+          "year": 2,
+          "fee": 47000
+        },
+        {
+          "year": 3,
+          "fee": 47000
+        }
+      ],
+      "totalTuitionFee": 141000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-hons-in-chinese-medicine",
+      "universityId": "imu",
+      "name": "Bachelor of Science (Hons) in Chinese Medicine",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Chinese Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 32000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32000
+        },
+        {
+          "year": 2,
+          "fee": 32000
+        },
+        {
+          "year": 3,
+          "fee": 32000
+        },
+        {
+          "year": 4,
+          "fee": 32000
+        },
+        {
+          "year": 5,
+          "fee": 32000
+        }
+      ],
+      "totalTuitionFee": 160000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-hons-in-chiropractic",
+      "universityId": "imu",
+      "name": "Bachelor of Science (Hons) in Chiropractic",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Chiropractic",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 70600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 70600
+        },
+        {
+          "year": 2,
+          "fee": 70600
+        },
+        {
+          "year": 3,
+          "fee": 70600
+        },
+        {
+          "year": 4,
+          "fee": 70600
+        },
+        {
+          "year": 5,
+          "fee": 70600
+        }
+      ],
+      "totalTuitionFee": 353000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-in-digital-health-hons",
+      "universityId": "imu",
+      "name": "Bachelor in Digital Health (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Digital Health (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35000
+        },
+        {
+          "year": 2,
+          "fee": 35000
+        },
+        {
+          "year": 3,
+          "fee": 35000
+        }
+      ],
+      "totalTuitionFee": 105000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-hons-in-psychology",
+      "universityId": "imu",
+      "name": "Bachelor of Science (Hons) in Psychology",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35000
+        },
+        {
+          "year": 2,
+          "fee": 35000
+        },
+        {
+          "year": 3,
+          "fee": 35000
+        }
+      ],
+      "totalTuitionFee": 105000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-master-of-science-msc-in-medical-and-health-sciences",
+      "universityId": "imu",
+      "name": "Master of Science (MSc) in Medical and Health Sciences",
+      "nameAr": "ماجستير العلوم في MSc) in Medical and Health Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 21500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21500
+        }
+      ],
+      "totalTuitionFee": 21500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-phd-in-medical-health-sciences",
+      "universityId": "imu",
+      "name": "PhD in Medical & Health Sciences",
+      "nameAr": "دكتوراه في Medical & Health Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 28100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28100
+        },
+        {
+          "year": 2,
+          "fee": 28100
+        },
+        {
+          "year": 3,
+          "fee": 28100
+        }
+      ],
+      "totalTuitionFee": 84300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-molecular-medicine-master-of-science",
+      "universityId": "imu",
+      "name": "Molecular Medicine (Master of Science)",
+      "nameAr": "ماجستير في Molecular Medicine (Master of Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-master-in-pharmacy-practice",
+      "universityId": "imu",
+      "name": "Master in Pharmacy Practice",
+      "nameAr": "ماجستير في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-public-health-master-of-sciences",
+      "universityId": "imu",
+      "name": "Public Health (Master of Sciences)",
+      "nameAr": "ماجستير في Public Health (Master of Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-master-of-counselling",
+      "universityId": "imu",
+      "name": "Master of Counselling",
+      "nameAr": "ماجستير في Master of Counselling",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 67500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 67500
+        },
+        {
+          "year": 2,
+          "fee": 67500
+        }
+      ],
+      "totalTuitionFee": 135000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-master-of-clinical-psychology",
+      "universityId": "imu",
+      "name": "Master of Clinical Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 81000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 81000
+        },
+        {
+          "year": 2,
+          "fee": 81000
+        }
+      ],
+      "totalTuitionFee": 162000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-public-health-master-of-sciences-online-degree",
+      "universityId": "imu",
+      "name": "Public Health (Master of Sciences) - Online Degree",
+      "nameAr": "ماجستير العلوم في الصحة العامة أونلاين",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 37800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37800
+        }
+      ],
+      "totalTuitionFee": 37800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-science-in-bioveterinary-science-honours",
+      "universityId": "imu",
+      "name": "Bachelor of Science in Bioveterinary Science (Honours)",
+      "nameAr": "بكالوريوس العلوم في Bioveterinary Science (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 72080,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 72080
+        },
+        {
+          "year": 2,
+          "fee": 72080
+        },
+        {
+          "year": 3,
+          "fee": 72080
+        }
+      ],
+      "totalTuitionFee": 216240,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-medicine-degree",
+      "universityId": "imu",
+      "name": "Medicine Degree",
+      "nameAr": "برنامج في Medicine Degree",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 134500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 134500
+        },
+        {
+          "year": 2,
+          "fee": 134500
+        },
+        {
+          "year": 3,
+          "fee": 134500
+        },
+        {
+          "year": 4,
+          "fee": 134500
+        },
+        {
+          "year": 5,
+          "fee": 134500
+        }
+      ],
+      "totalTuitionFee": 672500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-molecular-medicine-master-of-science-online-degree",
+      "universityId": "imu",
+      "name": "Molecular Medicine (Master of Science) - Online Degree",
+      "nameAr": "ماجستير في Molecular Medicine (Master of Science) أونلاين",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 40000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 40000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-master-in-health-professions-education",
+      "universityId": "imu",
+      "name": "Master in Health Professions Education",
+      "nameAr": "ماجستير في Master in Health Professions Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 47250,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47250
+        },
+        {
+          "year": 2,
+          "fee": 47250
+        }
+      ],
+      "totalTuitionFee": 94500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-doctor-of-philosophy-phd-in-health-professions-education",
+      "universityId": "imu",
+      "name": "Doctor of Philosophy (PhD) in Health Professions Education",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Health Professions Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 28100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28100
+        },
+        {
+          "year": 2,
+          "fee": 28100
+        },
+        {
+          "year": 3,
+          "fee": 28100
+        }
+      ],
+      "totalTuitionFee": 84300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-pg-dip-in-diabetes-management-and-education-online-degree",
+      "universityId": "imu",
+      "name": "PG Dip in Diabetes Management and Education - Online Degree",
+      "nameAr": "برنامج في PG Dip in Diabetes Management and Education أونلاين",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 27000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 27000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-foundation-in-arts-fia",
+      "universityId": "imu",
+      "name": "Foundation in Arts (FIA)",
+      "nameAr": "برنامج تمهيدي في الآداب في FIA",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30900,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30900
+        }
+      ],
+      "totalTuitionFee": 30900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-bachelor-of-communication-with-health-honours",
+      "universityId": "imu",
+      "name": "Bachelor of Communication with Health (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Communication with Health (Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39220,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39220
+        },
+        {
+          "year": 2,
+          "fee": 39220
+        },
+        {
+          "year": 3,
+          "fee": 39220
+        }
+      ],
+      "totalTuitionFee": 117660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-msc-in-analytical-pharmaceutical-chemistry-master-of-science",
+      "universityId": "imu",
+      "name": "MSc in Analytical & Pharmaceutical Chemistry (Master of Science)",
+      "nameAr": "ماجستير في MSc in Analytical & Pharmaceutical Chemistry (Master of Science",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 44830,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44830
+        }
+      ],
+      "totalTuitionFee": 44830,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-foundation-in-science",
+      "universityId": "imu",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Science",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30900,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30900
+        }
+      ],
+      "totalTuitionFee": 30900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "imu-msc-in-analytical-pharmaceutical-chemistry-master-of-science-online-degree",
+      "universityId": "imu",
+      "name": "MSc in Analytical & Pharmaceutical Chemistry (Master of Science) - Online Degree",
+      "nameAr": "ماجستير العلوم في الكيمياء التحليلية والدوائية أونلاين",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 43100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Mar, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43100
+        }
+      ],
+      "totalTuitionFee": 43100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 38,
+  "totalProgramsCount": 38
+}

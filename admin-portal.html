@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="id">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="assets/js/lang-init.js?v=20261105_v4"></script>
+<title data-i18n="admin_portal_title">لوحة تحكم إدارة StudyCo المركزية — Super Admin</title>
+<meta content="لوحة الإدارة المركزية الرسمية لمنصة StudyCo Education Services: إدارة واعتماد الوكلاء، معالجة ملفات الطلاب، وإصدار القرارات الأكاديمية والتأشيرات." name="description"/>
+<meta content="website" property="og:type"/>
+<link href="assets/photo/favicon.png" rel="icon" type="image/png"/>
+<meta name="robots" content="noindex, nofollow"/>
+<!-- Local Web Fonts -->
+<link href="assets/css/fonts.css?v=20261105_v4" rel="stylesheet"/>
+<!-- Main Stylesheet -->
+<link href="assets/css/main.css?v=20261105_v4" rel="stylesheet"/>
+<!-- Admin Portal Stylesheet -->
+<link href="assets/css/admin-portal.css?v=20261105_v4" rel="stylesheet"/>
+<style id="standalone-portal-critical-css">
+/* ==============================================================================
+   Unified Light Brand Portal Theme (100% Matching index.html Identity)
+   ============================================================================== */
+.sc-portal-topbar {
+  background: #ffffff !important;
+  border-bottom: 1px solid #e2e8f0 !important;
+  height: 70px !important;
+  width: 100% !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1000 !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04) !important;
+}
+.sc-portal-topbar-inner {
+  max-width: 1280px !important;
+  height: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 1.5rem !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 1rem !important;
+}
+.sc-portal-brand {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 14px !important;
+}
+.sc-portal-logo {
+  display: flex !important;
+  align-items: center !important;
+  text-decoration: none !important;
+}
+.sc-portal-logo img {
+  height: 42px !important;
+  width: auto !important;
+  display: block !important;
+}
+.sc-portal-divider {
+  width: 1px !important;
+  height: 26px !important;
+  background: #e2e8f0 !important;
+  display: inline-block !important;
+}
+.sc-portal-badge {
+  background: linear-gradient(180deg, #ffffff 0%, #fffbeb 50%, #fef3c7 100%) !important;
+  border: 1px solid #fde68a !important;
+  color: #92400e !important;
+  font-size: 0.8rem !important;
+  font-weight: 700 !important;
+  padding: 0.35rem 0.85rem !important;
+  border-radius: 999px !important;
+  white-space: nowrap !important;
+  box-shadow: 0 2px 8px rgba(217, 119, 6, 0.08), inset 0 1px 0 #ffffff !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+}
+.sc-portal-badge.admin-badge-head {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 50%, #eff6ff 100%) !important;
+  border: 1px solid #bfdbfe !important;
+  color: #1e3a8a !important;
+  box-shadow: 0 2px 8px rgba(30, 58, 138, 0.06), inset 0 1px 0 #ffffff !important;
+}
+.sc-portal-actions {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 12px !important;
+}
+.sc-portal-lang-select {
+  background: #ffffff !important;
+  color: #1e293b !important;
+  border: 1.5px solid #cbd5e1 !important;
+  border-radius: 999px !important;
+  padding: 0.42rem 1rem !important;
+  font-size: 0.84rem !important;
+  font-family: inherit !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  outline: none !important;
+  transition: all 0.2s ease !important;
+}
+.sc-portal-lang-select:focus, .sc-portal-lang-select:hover {
+  border-color: #f5b000 !important;
+}
+.sc-portal-lang-select option {
+  background: #ffffff !important;
+  color: #1e293b !important;
+}
+.sc-portal-back-btn {
+  display: inline-flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 6px !important;
+  background: #f5b000 !important;
+  color: #07101e !important;
+  border: none !important;
+  padding: 0.45rem 1.15rem !important;
+  border-radius: 999px !important;
+  font-size: 0.84rem !important;
+  font-weight: 800 !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+  box-shadow: 0 2px 8px rgba(245, 176, 0, 0.25) !important;
+  transition: all 0.2s ease !important;
+}
+.sc-portal-back-btn:hover {
+  background: #e6a100 !important;
+  transform: translateY(-1px) !important;
+  color: #07101e !important;
+}
+
+/* Layout Constraints & Light Clean Cards */
+.portal-container, .sc-container {
+  max-width: 1280px !important;
+  margin: 0 auto !important;
+  padding: 0 1.5rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+.portal-main {
+  min-height: calc(100vh - 70px) !important;
+  background-color: #f8fafc !important;
+  padding: 1.25rem 0 2.5rem !important;
+  box-sizing: border-box !important;
+}
+.portal-header-banner {
+  max-width: 1280px !important;
+  margin: 0 auto 1.25rem auto !important;
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  border-inline-start: 4px solid #f5b000 !important;
+  border-radius: 14px !important;
+  padding: 1.25rem 1.75rem !important;
+  color: #0f172a !important;
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.04) !important;
+  box-sizing: border-box !important;
+}
+.admin-header-banner {
+  border-inline-start-color: #1d4ed8 !important;
+}
+.portal-badge-partner {
+  background: linear-gradient(180deg, #ffffff 0%, #fffdfa 45%, #fef3c7 100%) !important;
+  border: 1px solid #fde68a !important;
+  box-shadow: 0 4px 14px rgba(217, 119, 6, 0.1), 0 1px 3px rgba(0, 0, 0, 0.04), inset 0 1px 0 #ffffff, inset 0 -1px 2px rgba(217, 119, 6, 0.07) !important;
+  color: #92400e !important;
+  font-size: 0.82rem !important;
+  font-weight: 800 !important;
+  padding: 0.35rem 1rem !important;
+  border-radius: 999px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  margin-bottom: 0.4rem !important;
+  transition: all 0.25s ease !important;
+}
+.portal-badge-partner:hover {
+  box-shadow: 0 6px 18px rgba(217, 119, 6, 0.16), inset 0 1px 0 #ffffff !important;
+  transform: translateY(-1px) !important;
+}
+.admin-badge {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 45%, #eff6ff 100%) !important;
+  border: 1px solid #bfdbfe !important;
+  box-shadow: 0 4px 14px rgba(30, 58, 138, 0.08), 0 1px 3px rgba(15, 23, 42, 0.04), inset 0 1px 0 #ffffff, inset 0 -1px 2px rgba(30, 58, 138, 0.06) !important;
+  color: #1e3a8a !important;
+  font-size: 0.82rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.2px !important;
+  padding: 0.35rem 1rem !important;
+  border-radius: 999px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  margin-bottom: 0.4rem !important;
+  transition: all 0.25s ease !important;
+}
+.admin-badge:hover {
+  box-shadow: 0 6px 18px rgba(30, 58, 138, 0.14), inset 0 1px 0 #ffffff !important;
+  transform: translateY(-1px) !important;
+}
+.emblem-3d {
+  flex-shrink: 0 !important;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.14)) !important;
+  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1) !important;
+  vertical-align: middle !important;
+}
+.admin-badge:hover .emblem-3d,
+.portal-badge-partner:hover .emblem-3d,
+.sc-portal-badge:hover .emblem-3d {
+  transform: scale(1.1) rotate(4deg) !important;
+}
+.portal-header-banner .portal-title {
+  font-size: 1.45rem !important;
+  font-weight: 800 !important;
+  color: #0f172a !important;
+  margin: 0.2rem 0 0.35rem 0 !important;
+  line-height: 1.25 !important;
+}
+.portal-header-banner .portal-subtitle {
+  font-size: 0.88rem !important;
+  color: #64748b !important;
+  margin: 0 !important;
+  line-height: 1.5 !important;
+}
+.portal-auth-card {
+  max-width: 500px !important;
+  margin: 0 auto !important;
+  background: #ffffff !important;
+  border-radius: 14px !important;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06) !important;
+  border: 1px solid #e2e8f0 !important;
+  overflow: hidden !important;
+}
+.portal-auth-nav {
+  display: flex !important;
+  border-bottom: 1px solid #e2e8f0 !important;
+  background: #f8fafc !important;
+}
+.portal-auth-tab {
+  flex: 1 !important;
+  padding: 0.85rem !important;
+  font-size: 0.9rem !important;
+  font-weight: 700 !important;
+  border: none !important;
+  background: transparent !important;
+  color: #64748b !important;
+  cursor: pointer !important;
+  transition: all 0.2s !important;
+}
+.portal-auth-tab.active {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border-bottom: 2px solid #f5b000 !important;
+}
+.portal-auth-body {
+  padding: 1.5rem 1.75rem !important;
+}
+.portal-form-group {
+  margin-bottom: 1rem !important;
+}
+.portal-form-label {
+  display: block !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  color: #334155 !important;
+  margin-bottom: 0.35rem !important;
+}
+.portal-form-input {
+  width: 100% !important;
+  padding: 0.65rem 0.85rem !important;
+  border: 1.5px solid #cbd5e1 !important;
+  border-radius: 8px !important;
+  font-size: 0.9rem !important;
+  color: #0f172a !important;
+  box-sizing: border-box !important;
+  outline: none !important;
+}
+.portal-form-input:focus {
+  border-color: #f5b000 !important;
+  box-shadow: 0 0 0 3px rgba(245, 176, 0, 0.15) !important;
+}
+.btn-portal-primary {
+  width: 100% !important;
+  padding: 0.75rem 1.25rem !important;
+  background: #f5b000 !important;
+  color: #07101e !important;
+  font-weight: 800 !important;
+  font-size: 0.92rem !important;
+  border: none !important;
+  border-radius: 8px !important;
+  cursor: pointer !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 8px !important;
+  transition: all 0.2s ease !important;
+}
+.btn-portal-primary:hover {
+  background: #d99b00 !important;
+}
+.portal-standalone-footer, .admin-standalone-footer {
+  background: #ffffff !important;
+  border-top: 1px solid #e2e8f0 !important;
+  padding: 1.5rem 0 !important;
+  text-align: center !important;
+  color: #64748b !important;
+  font-size: 0.82rem !important;
+  margin-top: 2rem !important;
+}
+
+@media (max-width: 768px) {
+  .sc-portal-divider { display: none !important; }
+  .sc-portal-badge { display: none !important; }
+  .sc-portal-topbar-inner { padding: 0 1rem !important; }
+  .sc-portal-logo img { height: 34px !important; }
+  .sc-portal-actions { gap: 8px !important; }
+  .sc-portal-lang-select { padding: 0.35rem 0.5rem !important; font-size: 0.78rem !important; }
+  .sc-portal-back-btn { padding: 0.35rem 0.65rem !important; font-size: 0.78rem !important; }
+  .portal-header-banner { padding: 1rem 1.25rem !important; margin-bottom: 1rem !important; }
+  .portal-header-banner .portal-title { font-size: 1.25rem !important; }
+  .portal-auth-body { padding: 1.25rem !important; }
+}
+
+/* Hide browser default password reveal icons so custom eye stays fixed and never disappears */
+input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear,
+input[type="text"]::-ms-reveal,
+input[type="text"]::-ms-clear {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+.password-input-wrapper {
+  position: relative !important;
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+}
+.password-input-wrapper .portal-form-input {
+  width: 100% !important;
+  padding-inline-end: 2.75rem !important;
+}
+.btn-toggle-password {
+  position: absolute !important;
+  inset-inline-end: 0.65rem !important;
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+  background: transparent !important;
+  border: none !important;
+  padding: 0.35rem !important;
+  margin: 0 !important;
+  cursor: pointer !important;
+  color: #64748b !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 6px !important;
+  z-index: 10 !important;
+  outline: none !important;
+  transition: color 0.15s ease, background-color 0.15s ease !important;
+}
+.btn-toggle-password:hover {
+  color: #0f172a !important;
+  background-color: #f1f5f9 !important;
+}
+
+</style>
+</head>
+<body data-meta-key="admin-portal">
+
+<!-- ========================================================================= -->
+<!-- Standalone Central Administration Console Topbar                          -->
+<!-- ========================================================================= -->
+<header class="sc-portal-topbar">
+  <div class="sc-portal-topbar-inner">
+    <div class="sc-portal-brand">
+      <a href="index.html" class="sc-portal-logo" aria-label="StudyCo Education Services">
+        <img alt="StudyCo Education Services" height="42" src="assets/photo/logo.webp" width="135" decoding="async"/>
+      </a>
+      <span class="sc-portal-divider"></span>
+      <span class="sc-portal-badge admin-badge-head">
+        <svg class="emblem-3d" width="16" height="16" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <defs>
+            <linearGradient id="scAdminRim" x1="4" y1="4" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#fffbeb"/>
+              <stop offset="25%" stop-color="#fde047"/>
+              <stop offset="50%" stop-color="#f59e0b"/>
+              <stop offset="80%" stop-color="#b45309"/>
+              <stop offset="100%" stop-color="#78350f"/>
+            </linearGradient>
+            <radialGradient id="scAdminCore" cx="40%" cy="35%" r="65%">
+              <stop offset="0%" stop-color="#1e3a8a"/>
+              <stop offset="55%" stop-color="#0f172a"/>
+              <stop offset="100%" stop-color="#020617"/>
+            </radialGradient>
+            <linearGradient id="scCrownLight" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#ffffff"/>
+              <stop offset="30%" stop-color="#fef08a"/>
+              <stop offset="70%" stop-color="#fbbf24"/>
+              <stop offset="100%" stop-color="#d97706"/>
+            </linearGradient>
+            <linearGradient id="scCrownShadow" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#f59e0b"/>
+              <stop offset="60%" stop-color="#b45309"/>
+              <stop offset="100%" stop-color="#78350f"/>
+            </linearGradient>
+            <linearGradient id="scAdminGloss" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#ffffff" stop-opacity="0.65"/>
+              <stop offset="60%" stop-color="#ffffff" stop-opacity="0.15"/>
+              <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+            </linearGradient>
+            <filter id="sc3dShadow" x="-20%" y="-20%" width="140%" height="140%">
+              <feDropShadow dx="0" dy="1.5" stdDeviation="1.2" flood-color="#000000" flood-opacity="0.4"/>
+            </filter>
+          </defs>
+          <circle cx="18" cy="18" r="16.5" fill="url(#scAdminRim)"/>
+          <circle cx="18" cy="18" r="14.2" fill="url(#scAdminCore)"/>
+          <circle cx="18" cy="18" r="13.2" stroke="#fef08a" stroke-width="0.75" stroke-opacity="0.45" fill="none"/>
+          <path d="M18 10L14 16L18 19L22 16L18 10Z" fill="url(#scCrownLight)"/>
+          <circle cx="18" cy="10" r="1.5" fill="#fde047"/>
+          <path d="M4 17.5C4.5 10 10.5 4.5 18 4.5C25.5 4.5 31.5 10 32 17.5C26 13.5 10 13.5 4 17.5Z" fill="url(#scAdminGloss)"/>
+        </svg>
+        <span data-i18n="admin_header_badge">لوحة الإدارة المركزية</span>
+      </span>
+      </span>
+    </div>
+    <div class="sc-portal-actions">
+      <select id="admin-lang-select" class="sc-portal-lang-select" aria-label="Language">
+        <option value="ar">العربية (AR)</option>
+        <option value="en">English (EN)</option>
+        <option value="id">Bahasa Indonesia (ID)</option>
+        <option value="zh">简体中文 (ZH)</option>
+        <option value="ja">日本語 (JA)</option>
+        <option value="ko">한국어 (KO)</option>
+        <option value="fr">Français (FR)</option>
+        <option value="es">Español (ES)</option>
+        <option value="ru">Русский (RU)</option>
+      </select>
+      <a href="index.html" class="sc-portal-back-btn" target="_blank">
+        <span data-i18n="admin_back_to_site">الموقع الرسمي</span>
+        <span>↗</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+<main class="portal-main">
+<div class="portal-container">
+
+  <!-- Header Banner -->
+  <div class="portal-header-banner admin-header-banner">
+    <h1 class="portal-title" data-i18n="admin_portal_title">لوحة التحكم المركزية لإدارة الوكلاء والقبولات</h1>
+    <p class="portal-subtitle" data-i18n="admin_portal_subtitle">منظومة الإدارة والمتابعة الفورية لشركاء StudyCo، تدقيق وفحص ملفات الطلاب، وإصدار قرارات القبول الرسمية.</p>
+  </div>
+
+ <!-- ======================================================================= -->
+ <!-- View 1: Admin Authentication Form                                      -->
+ <!-- ======================================================================= -->
+ <div id="admin-auth-section" style="display:block;">
+  <div class="portal-auth-card">
+   <div class="portal-auth-nav">
+    <button class="portal-auth-tab active" type="button" style="cursor:default;" data-i18n="admin_login_title">
+     تسجيل دخول إدارة المنصة
+    </button>
+   </div>
+
+   <div class="portal-auth-body">
+    <!-- Feedback Alert -->
+    <div id="admin-auth-alert" style="display:none; padding:0.85rem 1.1rem; border-radius:10px; font-size:0.88rem; margin-bottom:1.25rem;"></div>
+
+    <form onsubmit="return false;" id="admin-login-form">
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="admin-email" data-i18n="admin_label_email">البريد الإلكتروني المعتمد للإدارة *</label>
+      <input class="portal-form-input" id="admin-email" placeholder="أدخل بريد الإدارة المعتمد" data-i18n-placeholder="admin_placeholder_email" required type="email" autocomplete="username"/>
+     </div>
+
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="admin-password" data-i18n="admin_label_password">كلمة المرور الإدارية *</label>
+      <div class="password-input-wrapper">
+      <input class="portal-form-input" id="admin-password" placeholder="أدخل كلمة المرور الإدارية" data-i18n-placeholder="admin_placeholder_password" required type="password" autocomplete="current-password"/>
+      <button type="button" class="btn-toggle-password" data-target="admin-password" aria-label="Toggle password visibility" tabindex="-1">
+       <svg class="eye-open" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+        <circle cx="12" cy="12" r="3"></circle>
+       </svg>
+       <svg class="eye-closed" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;">
+        <path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path>
+        <line x1="1" y1="1" x2="23" y2="23"></line>
+       </svg>
+      </button>
+     </div>
+     </div>
+
+     <button class="btn-portal-primary" type="submit" id="btn-admin-login-submit">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"></path><polyline points="10 17 15 12 10 7"></polyline><line x1="15" y1="12" x2="3" y2="12"></line></svg>
+      <span data-i18n="admin_btn_login">الدخول إلى لوحة التحكم المركزية</span>
+     </button>
+
+     
+
+     
+    </form>
+   </div>
+  </div>
+ </div>
+
+ <!-- ======================================================================= -->
+ <!-- View 2: Central Admin Dashboard (When Authenticated)                   -->
+ <!-- ======================================================================= -->
+ <div id="admin-dashboard-section" style="display:none;">
+  
+  <!-- Officer Welcome & Action Bar -->
+  <div style="background:#ffffff; border-radius:var(--portal-radius); padding:1.2rem 1.6rem; border:1px solid var(--portal-border); box-shadow:var(--portal-shadow); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.5rem;">
+   <div>
+    <div style="font-size:0.82rem; color:#64748b;">جلسة المسؤول المفوض:</div>
+    <div style="font-size:1.25rem; font-weight:800; color:var(--portal-navy); display:flex; align-items:center; gap:8px;">
+     <span id="admin-officer-name">إدارة StudyCo المركزية</span>
+     <span class="admin-badge">
+      <svg class="emblem-3d" width="18" height="18" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <circle cx="18" cy="18" r="16.5" fill="url(#scAdminRim)"/>
+        <circle cx="18" cy="18" r="14.2" fill="url(#scAdminCore)"/>
+        <circle cx="18" cy="18" r="13.2" stroke="#fef08a" stroke-width="0.75" stroke-opacity="0.45" fill="none"/>
+        <path d="M10 20.5L9 14.5L13.5 17.5L14.5 20.5H10Z" fill="url(#scCrownLight)"/>
+        <path d="M26 20.5L27 14.5L22.5 17.5L21.5 20.5H26Z" fill="url(#scCrownShadow)"/>
+        <path d="M18 11.5L13.5 17.5L18 20.5V11.5Z" fill="url(#scCrownLight)"/>
+        <path d="M18 11.5L22.5 17.5L18 20.5V11.5Z" fill="url(#scCrownShadow)"/>
+        <circle cx="18" cy="11" r="1.5" fill="#fde047"/>
+        <path d="M4 17.5C4.5 10 10.5 4.5 18 4.5C25.5 4.5 31.5 10 32 17.5C26 13.5 10 13.5 4 17.5Z" fill="url(#scAdminGloss)"/>
+      </svg>
+      Super Admin
+     </span>
+    </div>
+    <div style="font-size:0.8rem; color:#94a3b8;" id="admin-officer-email">admin@studyco.com</div>
+   </div>
+
+   <div style="display:flex; align-items:center; gap:0.75rem;">
+    <a href="agent-portal.html" target="_blank" class="btn-portal-secondary" style="padding:0.5rem 1rem; font-size:0.82rem; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
+     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+     معاينة واجهة الوكلاء
+    </a>
+    <button class="btn-portal-secondary" id="btn-admin-logout" type="button" style="padding:0.5rem 1rem; font-size:0.82rem; color:#b91c1c; border-color:#fecaca;">
+     تسجيل الخروج
+    </button>
+   </div>
+  </div>
+
+  <!-- 5 Top KPI Cards -->
+  <div class="portal-stat-grid" style="grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); margin-bottom:1.5rem;">
+   <div class="portal-stat-card">
+    <div class="portal-stat-val" id="stat-total-agents">0</div>
+    <div class="portal-stat-lbl" data-i18n="admin_kpi_total_agents">إجمالي الوكلاء</div>
+   </div>
+   <div class="portal-stat-card kpi-pending-card">
+    <div class="portal-stat-val" id="stat-pending-agents" style="color:#b45309;">0</div>
+    <div class="portal-stat-lbl" style="color:#92400e; font-weight:800;" data-i18n="admin_kpi_pending_agents">بانتظار الاعتماد</div>
+   </div>
+   <div class="portal-stat-card">
+    <div class="portal-stat-val" id="stat-total-students">0</div>
+    <div class="portal-stat-lbl" data-i18n="admin_kpi_total_students">إجمالي طلبات الطلاب</div>
+   </div>
+   <div class="portal-stat-card">
+    <div class="portal-stat-val" id="stat-in-review" style="color:#0284c7;">0</div>
+    <div class="portal-stat-lbl" data-i18n="admin_kpi_in_review">قيد المراجعة والتدقيق</div>
+   </div>
+   <div class="portal-stat-card">
+    <div class="portal-stat-val" id="stat-accepted-enrolled" style="color:#15803d;">0</div>
+    <div class="portal-stat-lbl" data-i18n="admin_kpi_accepted_enrolled">مقبولون وملتحقون</div>
+   </div>
+  </div>
+
+  <!-- Main Navigation Tabs -->
+  <div class="admin-main-tabs">
+   <button class="admin-tab-btn active" id="tab-btn-students" type="button">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+    <span data-i18n="admin_tab_students">إدارة طلبات الطلاب والمراحل</span>
+   </button>
+   <button class="admin-tab-btn" id="tab-btn-agents" type="button">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
+    <span data-i18n="admin_tab_agents">إدارة الوكلاء وطلبات الشراكة</span>
+    <span class="pending-pulse-badge" id="badge-pending-agents-count" style="display:none;">0</span>
+   </button>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- Tab Panel 1: Students Management                                      -->
+  <!-- ===================================================================== -->
+  <div id="panel-students" style="display:block;">
+   <!-- Filter & Search Bar -->
+   <div class="portal-filter-bar">
+    <div class="portal-search-box">
+     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+     <input class="portal-form-input" id="admin-search-students" placeholder="بحث باسم الطالب، الرقم المرجعي، الجواز، الجامعة، الوكيل..." type="text"/>
+    </div>
+    
+    <select class="portal-form-select" id="admin-filter-student-status" style="width:auto; min-width:180px;">
+     <option value="all">جميع الحالات</option>
+     <option value="submitted">تم الإرسال (Submitted)</option>
+     <option value="under_review">قيد التدقيق (Under Review)</option>
+     <option value="conditional_offer">قبول مشروط (Conditional)</option>
+     <option value="unconditional_offer">قبول نهائي (Full Offer)</option>
+     <option value="awaiting_payment">سداد الرسوم (Payment)</option>
+     <option value="visa_processing">معالجة التأشيرة (Visa)</option>
+     <option value="enrolled">ملتحق بالجامعة (Enrolled)</option>
+     <option value="rejected">مرفوض (Rejected)</option>
+    </select>
+
+    <select class="portal-form-select" id="admin-filter-student-agent" style="width:auto; min-width:180px;">
+     <option value="all">كافة الوكلاء</option>
+     <!-- Dynamically filled with agent options -->
+    </select>
+   </div>
+
+   <!-- Students Table -->
+   <div class="portal-table-container">
+    <table class="portal-table">
+     <thead>
+      <tr>
+       <th data-i18n="admin_th_ref">الرقم المرجعي</th>
+       <th data-i18n="admin_th_student">اسم الطالب والبيانات</th>
+       <th data-i18n="admin_th_agency">الوكالة المحيلة</th>
+       <th data-i18n="admin_th_destination">الوجهة والجامعة</th>
+       <th data-i18n="admin_th_docs">المستندات</th>
+       <th data-i18n="admin_th_stage">المرحلة الحالية</th>
+       <th data-i18n="admin_th_date">التاريخ</th>
+       <th data-i18n="admin_th_action">الإجراء</th>
+      </tr>
+     </thead>
+     <tbody id="admin-students-tbody">
+      <!-- Injected by JavaScript -->
+     </tbody>
+    </table>
+   </div>
+
+   <div id="admin-students-empty" style="display:none; text-align:center; padding:3rem 1rem; color:#94a3b8;">
+    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin-bottom:0.75rem;"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle></svg>
+    <div style="font-weight:700; font-size:1rem; color:#475569;">لا توجد طلبات طلاب مطابقة لهذا البحث أو الفلتر</div>
+   </div>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- Tab Panel 2: Agents Management                                        -->
+  <!-- ===================================================================== -->
+  <div id="panel-agents" style="display:none;">
+   <!-- Filter & Search Bar -->
+   <div class="portal-filter-bar">
+    <div class="portal-search-box">
+     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+     <input class="portal-form-input" id="admin-search-agents" placeholder="بحث باسم الوكالة، الشخص المسؤول، البريد، الواتساب، الدولة..." type="text"/>
+    </div>
+    
+    <button class="btn-portal-primary" id="btn-admin-open-create-agent" type="button" style="width:auto; padding:0.55rem 1.15rem; font-size:0.85rem; display:inline-flex; align-items:center; gap:6px; white-space:nowrap;">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+      + إضافة وإنشاء حساب وكيل معتمد مباشرة
+     </button>
+     <select class="portal-form-select" id="admin-filter-agent-status" style="width:auto; min-width:180px;">
+     <option value="all">جميع حالات الوكلاء</option>
+     <option value="pending">بانتظار الاعتماد (Pending)</option>
+     <option value="active">وكيل معتمد نشط (Active)</option>
+     <option value="suspended">موقوف مؤقتاً (Suspended)</option>
+     <option value="rejected">مرفوض (Rejected)</option>
+    </select>
+   </div>
+
+   <!-- Agents Table -->
+   <div class="portal-table-container">
+    <table class="portal-table">
+     <thead>
+      <tr>
+       <th data-i18n="admin_th_agency_name">اسم الوكالة</th>
+       <th data-i18n="admin_th_contact_loc">المسؤول والمقر</th>
+       <th data-i18n="admin_th_contact_wa">التواصل والواتساب</th>
+       <th data-i18n="admin_th_exp_est">الخبرة / التقدير السنوي</th>
+       <th data-i18n="admin_th_referred_stu">الطلاب المحالين</th>
+       <th data-i18n="admin_th_status">الحالة</th>
+       <th data-i18n="admin_th_actions">الإجراءات والقرارات</th>
+      </tr>
+     </thead>
+     <tbody id="admin-agents-tbody">
+      <!-- Injected by JavaScript -->
+     </tbody>
+    </table>
+   </div>
+
+   <div id="admin-agents-empty" style="display:none; text-align:center; padding:3rem 1rem; color:#94a3b8;">
+    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin-bottom:0.75rem;"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
+    <div style="font-weight:700; font-size:1rem; color:#475569;">لا توجد حسابات وكلاء مطابقة للبحث</div>
+   </div>
+  </div>
+
+ </div>
+</div>
+</main>
+
+<!-- ========================================================================= -->
+<!-- Modal 1: Admin Student Review & Pipeline Management                       -->
+<!-- ========================================================================= -->
+<div class="portal-modal-backdrop" id="modal-admin-student">
+ <div class="portal-modal-dialog" style="max-width:800px;">
+  <div class="portal-modal-header">
+   <div>
+    <h3 class="portal-modal-title" id="adm-modal-student-name" data-i18n="admin_modal_review_student">مراجعة ملف الطالب والقرار الإداري</h3>
+    <div style="font-size:0.8rem; color:#64748b;">
+     الرقم المرجعي: <span id="adm-modal-student-ref" style="font-family:monospace; font-weight:bold; color:var(--portal-navy);"></span>
+    </div>
+   </div>
+   <button class="portal-modal-close" aria-label="إغلاق">&times;</button>
+  </div>
+
+  <div class="portal-modal-body">
+   
+   <!-- Student Quick Overview Strip -->
+   <div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:0.9rem 1.1rem; display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:0.75rem; font-size:0.82rem; margin-bottom:1.5rem;">
+    <div><span style="color:#64748b;">الجنسية والجواز:</span> <strong id="adm-modal-nat-pass"></strong></div>
+    <div><span style="color:#64748b;">الوجهة:</span> <strong id="adm-modal-dest"></strong></div>
+    <div><span style="color:#64748b;">الجامعة:</span> <strong id="adm-modal-uni"></strong></div>
+    <div><span style="color:#64748b;">البرنامج:</span> <strong id="adm-modal-program"></strong></div>
+   </div>
+
+   <!-- Referring Agent Card with Direct WhatsApp -->
+   <div style="background:#f0fdf4; border:1px solid #bbf7d0; border-radius:10px; padding:0.9rem 1.1rem; margin-bottom:1.5rem; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.75rem;">
+    <div>
+     <div style="font-size:0.78rem; color:#166534; font-weight:700;">الوكيل المحيل للطلب:</div>
+     <div style="font-weight:800; color:#14532d; font-size:0.95rem;" id="adm-modal-agency-name">---</div>
+     <div style="font-size:0.8rem; color:#15803d;" id="adm-modal-agent-contact">---</div>
+    </div>
+    <a href="#" target="_blank" id="adm-modal-wa-agent-btn" class="btn-wa-direct">
+     <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.006c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.86s.275.072.376-.043c.101-.116.433-.506.549-.68.116-.173.231-.145.39-.087s1.011.477 1.184.564.289.13.332.202c.045.072.045.419-.1.824zm-3.423-14.416c-6.627 0-12 5.373-12 12 0 2.159.57 4.185 1.564 5.939l-1.564 5.889 6.079-1.595c1.691.921 3.633 1.447 5.698 1.447 6.627 0 12-5.373 12-12 0-6.627-5.373-12-12-12z"></path></svg>
+     مراسلة الوكيل عبر واتساب
+    </a>
+   </div>
+
+   <!-- Form: Update Status, Feedback, & Log Note -->
+   <div style="background:#ffffff; border:1.5px solid var(--portal-gold); border-radius:12px; padding:1.25rem; margin-bottom:1.75rem; box-shadow:0 4px 15px rgba(245, 176, 0, 0.08);">
+    <div style="font-weight:800; font-size:0.95rem; color:var(--portal-navy); margin-bottom:0.75rem; display:flex; align-items:center; gap:6px;">
+     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+     القرار الإداري وتحديث مرحلة معالجة الملف
+    </div>
+
+    <form onsubmit="return false;" id="form-adm-update-status">
+     <div class="portal-form-row">
+      <div class="portal-form-group">
+       <label class="portal-form-label" for="adm-status-select" data-i18n="admin_label_new_stage">المرحلة الأكاديمية الجديدة للطلب *</label>
+       <select class="portal-form-select" id="adm-status-select" required>
+        <option value="submitted">تم الإرسال (Submitted)</option>
+        <option value="under_review">قيد التدقيق الأكاديمي (Under Review)</option>
+        <option value="conditional_offer">صدور قبول مشروط (Conditional Offer)</option>
+        <option value="unconditional_offer">صدور قبول نهائي غير مشروط (Full Offer)</option>
+        <option value="awaiting_payment">بانتظار سداد الرسوم (Awaiting Payment)</option>
+        <option value="visa_processing">معالجة تأشيرة الطالب (Visa Processing)</option>
+        <option value="enrolled">تم الالتحاق وبدء الدراسة (Enrolled)</option>
+        <option value="rejected">تم الرفض (Rejected)</option>
+        <option value="cancelled">ملغي (Cancelled)</option>
+       </select>
+      </div>
+
+      <div class="portal-form-group">
+       <label class="portal-form-label" for="adm-status-comment" data-i18n="admin_comment_label">ملاحظة توثيقية لسجل التتبع (Timeline)</label>
+       <input class="portal-form-input" id="adm-status-comment" placeholder="مثال: تم تدقيق الشهادة وإرسالها لعمادة القبول..."/>
+      </div>
+     </div>
+
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="adm-status-feedback" data-i18n="admin_feedback_label">توجيهات وملاحظات الإدارة للوكيل (تظهر في لوحة الوكيل مباشرة)</label>
+      <textarea class="portal-form-textarea" id="adm-status-feedback" placeholder="اكتب التعليمات للوكيل هنا (مثال: تم إصدار القبول المشروط ومرفق في المستندات أدناه، بانتظار شهادة الآيلتس)..." rows="2"></textarea>
+     </div>
+
+     <button class="btn-portal-primary" id="btn-adm-save-status" type="submit" style="width:auto; padding:0.6rem 1.6rem; font-size:0.88rem;">
+      حفظ التحديث واعتماد المرحلة
+     </button>
+    </form>
+   </div>
+
+   <!-- Documents Vault (View + Admin Uploader) -->
+   <div style="margin-bottom:1.75rem;">
+    <div style="font-weight:800; font-size:0.92rem; color:var(--portal-navy); margin-bottom:0.75rem;">
+     المستندات والأوراق الرسمية لملف الطالب
+    </div>
+
+    <!-- Admin Document Upload Box -->
+    <div class="portal-inline-upload-card" style="background:#f8fafc; border:1px dashed #cbd5e1; border-radius:10px; padding:0.9rem; margin-bottom:1rem;">
+     <div style="font-weight:700; font-size:0.82rem; color:var(--portal-navy); margin-bottom:0.5rem; display:flex; align-items:center; gap:6px;">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+      <span data-i18n="admin_upload_doc_title">رفع مستند أو قرار رسمي لملف الطالب</span>
+     </div>
+     <form onsubmit="return false;" id="form-adm-inline-upload" style="display:flex; flex-wrap:wrap; gap:0.5rem; align-items:center;">
+      <select class="portal-form-select" id="adm-inline-doc-type" style="width:auto; min-width:140px; padding:0.4rem 0.6rem; font-size:0.8rem;" required>
+       <option value="other">خطاب القبول / قرار رسمي</option>
+       <option value="passport">جواز السفر</option>
+       <option value="transcript">كشف الدرجات</option>
+       <option value="english_cert">شهادة اللغة</option>
+       <option value="bachelor_cert">وثيقة التخرج</option>
+      </select>
+      <input class="portal-form-input" id="adm-inline-doc-file" type="file" accept=".pdf,.jpg,.jpeg,.png,.webp" style="flex:1; min-width:160px; padding:0.35rem 0.5rem; font-size:0.8rem;" required />
+      <button class="btn-portal-primary" id="btn-adm-inline-upload" type="submit" style="width:auto; padding:0.45rem 1.2rem; font-size:0.8rem;">
+       رفع لملف الطالب
+      </button>
+     </form>
+    </div>
+
+    <div id="adm-student-docs-list">
+     <!-- Rendered dynamically -->
+    </div>
+   </div>
+
+   <!-- Audit Timeline History -->
+   <div>
+    <div style="font-weight:800; font-size:0.92rem; color:var(--portal-navy); margin-bottom:0.75rem;">
+     سجل التتبع والتدقيق الزمني (Audit Timeline)
+    </div>
+    <div id="adm-student-timeline-list" style="max-height:180px; overflow-y:auto; padding-inline-start:0.5rem;">
+     <!-- Rendered dynamically -->
+    </div>
+   </div>
+
+   <div style="display:flex; justify-content:flex-end; margin-top:1.5rem; border-top:1px solid #e2e8f0; padding-top:1rem;">
+    <button class="btn-portal-secondary btn-modal-cancel" type="button" data-i18n="portal_btn_close">إغلاق</button>
+   </div>
+
+  </div>
+ </div>
+</div>
+
+<!-- ========================================================================= -->
+<!-- Modal 2: Admin Agent Review & Approval Modal                             -->
+<!-- ========================================================================= -->
+<div class="portal-modal-backdrop" id="modal-admin-agent">
+ <div class="portal-modal-dialog" style="max-width:650px;">
+  <div class="portal-modal-header">
+   <div>
+    <h3 class="portal-modal-title" id="adm-agent-modal-title" data-i18n="admin_modal_review_agent">مراجعة واعتماد طلب وكيل</h3>
+    <div style="font-size:0.8rem; color:#64748b;" id="adm-agent-modal-sub">---</div>
+   </div>
+   <button class="portal-modal-close" aria-label="إغلاق">&times;</button>
+  </div>
+
+  <div class="portal-modal-body">
+   <!-- Agent Info Grid -->
+   <div style="background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:1rem; display:grid; grid-template-columns:1fr 1fr; gap:0.75rem; font-size:0.85rem; margin-bottom:1.1rem;">
+    <div><span style="color:#64748b;">اسم الوكالة:</span> <strong id="det-agent-agency">---</strong></div>
+    <div><span style="color:#64748b;">الشخص المسؤول:</span> <strong id="det-agent-contact">---</strong></div>
+    <div><span style="color:#64748b;">اسم المستخدم (اليوزر):</span> <strong id="det-agent-username" style="font-family:monospace; color:var(--portal-gold-hover);">---</strong></div>
+    <div><span style="color:#64748b;">البريد الإلكتروني:</span> <strong id="det-agent-email">---</strong></div>
+    <div><span style="color:#64748b;">الدولة والمدينة:</span> <strong id="det-agent-location">---</strong></div>
+    <div><span style="color:#64748b;">الواتساب:</span> <strong id="det-agent-whatsapp">---</strong></div>
+    <div><span style="color:#64748b;">الموقع / السوشيال:</span> <strong id="det-agent-website">---</strong></div>
+    <div><span style="color:#64748b;">سنوات الخبرة / الطلاب:</span> <strong id="det-agent-exp">---</strong></div>
+   </div>
+
+   <!-- Company Bio Box -->
+   <div style="background:#f1f5f9; border-radius:10px; padding:0.85rem 1rem; margin-bottom:1.1rem; font-size:0.85rem;">
+    <div style="font-weight:700; color:var(--portal-navy); margin-bottom:0.35rem;">نبذة عن الشركة ونشاطها التعليمي:</div>
+    <div id="det-agent-bio" style="color:#334155; line-height:1.5; white-space:pre-wrap;">---</div>
+   </div>
+
+   <!-- Company Uploaded Docs Section -->
+   <div style="margin-bottom:1.25rem;">
+    <div style="font-weight:700; font-size:0.88rem; color:var(--portal-navy); margin-bottom:0.6rem;">وثائق وملفات الشركة المرفوعة:</div>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.75rem;">
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:0.85rem; display:flex; flex-direction:column; justify-content:space-between; gap:0.5rem;">
+        <div>
+          <div style="font-weight:700; font-size:0.82rem; color:var(--portal-navy);">بروفايل الشركة (Company Profile)</div>
+          <div id="det-agent-profile-name" style="font-size:0.75rem; color:#64748b; text-overflow:ellipsis; overflow:hidden; white-space:nowrap;">---</div>
+        </div>
+        <div style="display:flex; gap:0.4rem; align-items:center;">
+          <a id="btn-view-agent-profile" href="#" target="_blank" class="btn-portal-secondary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">معاينة ↗</a>
+          <a id="btn-download-agent-profile" href="#" download class="btn-portal-primary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">تحميل ↓</a>
+          <span id="no-agent-profile-label" style="font-size:0.75rem; color:#94a3b8;">غير مرفوع</span>
+        </div>
+      </div>
+
+      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:0.85rem; display:flex; flex-direction:column; justify-content:space-between; gap:0.5rem;">
+        <div>
+          <div style="font-weight:700; font-size:0.82rem; color:var(--portal-navy);">أوراق وترخيص الشركة / السجل التجاري</div>
+          <div id="det-agent-docs-name" style="font-size:0.75rem; color:#64748b; text-overflow:ellipsis; overflow:hidden; white-space:nowrap;">---</div>
+        </div>
+        <div style="display:flex; gap:0.4rem; align-items:center;">
+          <a id="btn-view-agent-docs" href="#" target="_blank" class="btn-portal-secondary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">معاينة ↗</a>
+          <a id="btn-download-agent-docs" href="#" download class="btn-portal-primary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">تحميل ↓</a>
+          <span id="no-agent-docs-label" style="font-size:0.75rem; color:#94a3b8;">غير مرفوع</span>
+        </div>
+      </div>
+    </div>
+   </div>
+
+   <!-- Section: Issue & Assign Username & Password upon Approval -->
+   <div style="background:#fffbeb; border:1.5px solid var(--portal-gold); border-radius:12px; padding:1.1rem; margin-bottom:1.25rem;">
+     <div style="font-weight:800; font-size:0.92rem; color:var(--portal-navy); margin-bottom:0.4rem; display:flex; align-items:center; gap:6px;">
+       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+       إصدار وتعيين بيانات دخول الوكيل (اليوزر والباسورد المعتمد)
+     </div>
+     <div style="font-size:0.8rem; color:#78350f; margin-bottom:0.85rem; line-height:1.4;">
+       حدد اسم المستخدم وكلمة المرور الخاصة بهذا الوكيل، واضغط على "اعتماد وتفعيل الحساب" لإصدارها وتشفيرها، ثم أرسلها للوكيل فوراً عبر واتساب.
+     </div>
+     <div class="portal-form-row">
+       <div class="portal-form-group">
+         <label class="portal-form-label" for="adm-agent-username-input">اسم المستخدم (اليوزر المعتمد للدخول) *</label>
+         <input class="portal-form-input" id="adm-agent-username-input" placeholder="مثال: agent_riyadh" style="font-family:monospace; font-weight:700;"/>
+       </div>
+       <div class="portal-form-group">
+         <label class="portal-form-label" for="adm-agent-password-input">كلمة المرور المخصصة للوكيل *</label>
+         <div style="display:flex; gap:0.4rem;">
+           <input class="portal-form-input" id="adm-agent-password-input" placeholder="أدخل أو ولّد باسورد" style="font-family:monospace; font-weight:700;"/>
+           <button class="btn-portal-secondary" id="btn-gen-agent-pass" type="button" style="white-space:nowrap; padding:0.4rem 0.8rem; font-size:0.78rem;" title="توليد كلمة مرور قوية">🎲 توليد</button>
+         </div>
+       </div>
+     </div>
+   </div>
+
+   <!-- Success Credential Share Card -->
+   <div id="adm-agent-cred-card" style="display:none; background:#ecfdf5; border:1.5px solid #10b981; border-radius:12px; padding:1.1rem; margin-bottom:1.25rem;">
+     <div style="font-weight:800; font-size:0.92rem; color:#065f46; margin-bottom:0.5rem; display:flex; align-items:center; gap:6px;">
+       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"></polyline></svg>
+       تم إصدار واعتماد بيانات دخول الوكيل بنجاح!
+     </div>
+     <div style="background:#ffffff; border:1px solid #a7f3d0; border-radius:8px; padding:0.75rem 1rem; font-family:monospace; font-size:0.85rem; margin-bottom:0.75rem; color:#0f172a;">
+       <div><strong>اليوزر المعتمد:</strong> <span id="cred-display-user" style="color:var(--portal-navy); font-weight:bold;"></span></div>
+       <div><strong>كلمة المرور:</strong> <span id="cred-display-pass" style="color:var(--portal-gold-hover); font-weight:bold;"></span></div>
+     </div>
+     <div style="display:flex; gap:0.6rem; flex-wrap:wrap;">
+       <button class="btn-portal-secondary" id="btn-copy-agent-cred" type="button" style="font-size:0.82rem; padding:0.45rem 1rem;">
+         📋 نسخ بيانات الدخول
+       </button>
+       <a id="btn-wa-send-cred" href="#" target="_blank" class="btn-wa-direct" style="font-size:0.82rem; padding:0.45rem 1.1rem; text-decoration:none;">
+         <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.006c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.86s.275.072.376-.043c.101-.116.433-.506.549-.68.116-.173.231-.145.39-.087s1.011.477 1.184.564.289.13.332.202c.045.072.045.419-.1.824zm-3.423-14.416c-6.627 0-12 5.373-12 12 0 2.159.57 4.185 1.564 5.939l-1.564 5.889 6.079-1.595c1.691.921 3.633 1.447 5.698 1.447 6.627 0 12-5.373 12-12 0-6.627-5.373-12-12-12z"></path></svg>
+         إرسال اليوزر والباسورد للوكيل عبر واتساب فوراً
+       </a>
+     </div>
+   </div>
+
+   <!-- Decision Buttons -->
+   <div style="margin-bottom:1.5rem;">
+    <div style="font-weight:700; font-size:0.88rem; color:var(--portal-navy); margin-bottom:0.6rem;">
+     القرار الإداري على حالة الحساب:
+    </div>
+    <div style="display:flex; gap:0.6rem; flex-wrap:wrap;">
+     <button class="btn-action-approve" id="btn-decision-approve" type="button" style="padding:0.6rem 1.2rem; font-size:0.85rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="vertical-align:middle; margin-inline-end:4px;"><polyline points="20 6 9 17 4 12"></polyline></svg> اعتماد الوكيل وإصدار بيانات الدخول (Active)
+     </button>
+     <button class="btn-action-suspend" id="btn-decision-suspend" type="button" style="padding:0.6rem 1.2rem; font-size:0.85rem;">
+      ⏸ إيقاف الحساب مؤقتاً (Suspend)
+     </button>
+     <button class="btn-action-reject" id="btn-decision-reject" type="button" style="padding:0.6rem 1.2rem; font-size:0.85rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="vertical-align:middle; margin-inline-end:4px;"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> رفض طلب الوكيل (Reject)
+     </button>
+    </div>
+   </div>
+
+   <!-- Internal Admin Notes -->
+   <div style="margin-bottom:1rem;">
+    <label class="portal-form-label" for="adm-agent-notes-input">ملاحظات الإدارة الداخلية على الوكيل (خاصة بالفريق فقط)</label>
+    <textarea class="portal-form-textarea" id="adm-agent-notes-input" placeholder="اكتب أي ملاحظات تقييمية أو شروط خاصة بالوكيل..." rows="3"></textarea>
+    <button class="btn-portal-secondary" id="btn-save-agent-notes" type="button" style="margin-top:0.5rem; font-size:0.82rem; padding:0.4rem 1rem;">
+     حفظ الملاحظات فقط
+    </button>
+   </div>
+
+   <div style="display:flex; justify-content:flex-end; margin-top:1.5rem; border-top:1px solid #e2e8f0; padding-top:1rem;">
+    <button class="btn-portal-secondary btn-modal-cancel" type="button" data-i18n="portal_btn_close">إغلاق</button>
+   </div>
+  </div>
+ </div>
+</div>
+
+<!-- ========================================================================= -->
+<!-- Footer                                                                    -->
+<!-- ========================================================================= -->
+<footer class="admin-standalone-footer">
+  <div class="portal-container">
+    <p data-i18n="admin_footer_copy">© 2026 StudyCo Central Administration Console. Restricted Access.</p>
+  </div>
+</footer>
+
+
+<!-- ========================================================================= -->
+<!-- Modal 3: Admin Directly Create Agent Modal                                -->
+<!-- ========================================================================= -->
+<div class="portal-modal-backdrop" id="modal-admin-create-agent">
+ <div class="portal-modal-dialog" style="max-width:650px;">
+  <div class="portal-modal-header">
+   <div>
+    <h3 class="portal-modal-title">إضافة وإنشاء حساب وكيل معتمد مباشرة</h3>
+    <div style="font-size:0.8rem; color:#64748b;">إنشاء حساب وكيل مفعل مباشرة مع تعيين اليوزر والباسورد من الإدارة</div>
+   </div>
+   <button class="portal-modal-close" aria-label="إغلاق">&times;</button>
+  </div>
+
+  <div class="portal-modal-body">
+   <div id="adm-create-agent-alert" style="display:none; padding:0.75rem 1rem; border-radius:8px; font-size:0.85rem; margin-bottom:1rem;"></div>
+
+   <form onsubmit="return false;" id="form-adm-create-agent">
+    <div class="portal-form-row">
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-agency-name">اسم الوكالة / المكتب التعليمي *</label>
+      <input class="portal-form-input" id="ca-agency-name" placeholder="اسم الشركة أو المكتب" required type="text"/>
+     </div>
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-contact-name">اسم الشخص المسؤول *</label>
+      <input class="portal-form-input" id="ca-contact-name" placeholder="اسم الوكيل كاملاً" required type="text"/>
+     </div>
+    </div>
+
+    <div class="portal-form-row">
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-email">البريد الإلكتروني للوكيل *</label>
+      <input class="portal-form-input" id="ca-email" placeholder="contact@agency.com" required type="email"/>
+     </div>
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-whatsapp">رقم الواتساب مع رمز الدولة *</label>
+      <input class="portal-form-input" id="ca-whatsapp" placeholder="+966501234567" required type="text"/>
+     </div>
+    </div>
+
+    <div class="portal-form-row">
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-username">اسم المستخدم (اليوزر للدخول) *</label>
+      <input class="portal-form-input" id="ca-username" placeholder="agent_riyadh" required type="text" style="font-family:monospace; font-weight:700;"/>
+     </div>
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-password">كلمة المرور للوكيل *</label>
+      <div style="display:flex; gap:0.4rem;">
+       <input class="portal-form-input" id="ca-password" placeholder="كلمة المرور" required type="text" style="font-family:monospace; font-weight:700;"/>
+       <button class="btn-portal-secondary" id="btn-ca-gen-pass" type="button" style="white-space:nowrap; padding:0.4rem 0.8rem; font-size:0.78rem;">🎲 توليد</button>
+      </div>
+     </div>
+    </div>
+
+    <div class="portal-form-row">
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-country">دولة المقر *</label>
+      <input class="portal-form-input" id="ca-country" placeholder="السعودية، الإمارات..." required type="text"/>
+     </div>
+     <div class="portal-form-group">
+      <label class="portal-form-label" for="ca-city">المدينة</label>
+      <input class="portal-form-input" id="ca-city" placeholder="الرياض، جدة..." type="text"/>
+     </div>
+    </div>
+
+    <div class="portal-form-group">
+     <label class="portal-form-label" for="ca-bio">نبذة عن الشركة</label>
+     <textarea class="portal-form-textarea" id="ca-bio" placeholder="نبذة مختصرة عن نشاط الوكيل..." rows="2"></textarea>
+    </div>
+
+    <div style="display:flex; justify-content:flex-end; gap:0.75rem; margin-top:1.25rem; border-top:1px solid #e2e8f0; padding-top:1rem;">
+     <button class="btn-portal-secondary btn-modal-cancel" type="button" data-i18n="portal_btn_close">إلغاء</button>
+     <button class="btn-portal-primary" id="btn-ca-submit" type="submit" style="width:auto; padding:0.55rem 1.4rem;">
+      تأكيد إنشاء وتفعيل حساب الوكيل
+     </button>
+    </div>
+   </form>
+  </div>
+ </div>
+</div>
+
+<!-- Standalone Admin Scripts -->
+<script type="module">
+  import { i18n } from './assets/js/i18n.js?v=20261105_v4';
+  const lang = i18n.detectLanguage();
+  await i18n.loadLanguage(lang);
+  window.StudyCo_i18n = i18n;
+  window.dispatchEvent(new CustomEvent('studyco:i18n-ready', { detail: { lang } }));
+</script>
+<script src="assets/js/admin-portal.js?v=20261105_v4"></script>
+</body>
+</html>

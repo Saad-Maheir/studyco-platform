@@ -1,0 +1,5091 @@
+{
+  "id": "taylors",
+  "slug": "taylor-university-malaysia",
+  "name": "Taylor's University",
+  "arabicName": "جامعة تايلور (Taylor's University)",
+  "city": "Subang Jaya, Selangor",
+  "cityKey": "city_subang_jaya",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-taylors.svg",
+  "image": "assets/photo/campus_taylors.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/YCYUgTcmOb8",
+  "website": "https://university.taylors.edu.my/",
+  "offerLetterType": "free",
+  "ranking": "Rank 251 QS World University Rankings 2025",
+  "rankingBadgeKey": "taylors_rank_badge",
+  "established": "1969",
+  "campusName": "Lakeside Campus, Subang Jaya",
+  "studentCount": "12,000+ (80+ Countries)",
+  "intakes": "Feb, Apr, Jun, Aug, Sep, Nov",
+  "feeRangeMin": 11868,
+  "feeRangeMax": 91728,
+  "currency": "MYR",
+  "majors": [
+    "business",
+    "cs",
+    "engineering",
+    "hospitality",
+    "health",
+    "arts",
+    "architecture",
+    "law",
+    "education"
+  ],
+  "similarUniversities": [
+    "sunway",
+    "apu",
+    "monash"
+  ],
+  "totalProgramsCount": 130,
+  "description": "Taylor's University is ranked Rank 251 in the world and No. 1 private university in Southeast Asia by QS World University Rankings 2025. Known for its world-class Lakeside Campus, globally dual-awarded degrees with UK & Australia, and strong 99% graduate employability rate.",
+  "descriptionAr": "تأسست جامعة تايلور (Taylor's University) عام 1969، وتُعد الجامعة الخاصة الأولى في جنوب شرق آسيا والمصنفة رقم 251 عالمياً في تصنيف QS لعام 2025. يمتد حرمها الجامعي الحديث (Lakeside Campus) في سوبانج جايا بولاية سيلانجور على مساحة 27 فداناً، ويحتضن بحيرة مميزة ومختبرات عالمية متطورة وشراكات دولية تمنح شهادات ثنائية مع جامعات بريطانية وأسترالية مرموقة.",
+  "stats": {
+    "qsRanking": "Rank 251 QS World University Rankings 2025",
+    "establishedYear": "1969",
+    "campusLocation": "Lakeside Campus, Subang Jaya",
+    "internationalStudents": "12,000+ (80+ Countries)",
+    "totalProgramsCount": "130 Programs",
+    "intakesSchedule": "Feb, Apr, Jun, Aug, Sep, Nov"
+  },
+  "campusShowcase": {
+    "videoUrl": "https://www.youtube-nocookie.com/embed/YCYUgTcmOb8",
+    "directWatchUrl": "https://www.youtube.com/watch?v=YCYUgTcmOb8",
+    "title": "Taylor's Lakeside Campus Virtual Experience",
+    "titleAr": "جولة الحرم الجامعي المميز (Lakeside Campus)",
+    "facilities": [
+      {
+        "icon": "",
+        "name": "Lakeside 27-Acre Campus",
+        "nameAr": "حرم لايك سايد بمساحة 27 فداناً حول بحيرة طبيعية خلابة"
+      },
+      {
+        "icon": "",
+        "name": "Next-Gen AI & Engineering Labs",
+        "nameAr": "مختبرات الذكاء الاصطناعي والهندسة وتطوير البرمجيات المتقدمة"
+      },
+      {
+        "icon": "",
+        "name": "World-Class Culinary & Hospitality Suites",
+        "nameAr": "أجنحة فندقية ومطابخ تجريبية فندقية مصنفة Rank 16 عالمياً"
+      },
+      {
+        "icon": "",
+        "name": "Multi-Storey Automated Digital Library",
+        "nameAr": "مكتبة رقمية تفاعلية ضخمة مزودة بغرف دراسة جماعية وفردية"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-University",
+      "levelAr": "السنة التحضيرية / التمهيدي",
+      "duration": "1 Year",
+      "avgFeePerYear": "RM 28,000 - RM 32,000",
+      "durationAr": "سنة واحدة"
+    },
+    {
+      "level": "Diploma Programmes",
+      "levelAr": "برامج الدبلوم المعتمدة",
+      "duration": "2 Years",
+      "avgFeePerYear": "RM 24,000 - RM 29,000",
+      "durationAr": "سنتان"
+    },
+    {
+      "level": "Bachelor's Degree (Undergraduate)",
+      "levelAr": "درجة البكالوريوس (المرحلة الجامعية)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 40,000 - RM 55,000",
+      "durationAr": "3 إلى 4 سنوات"
+    },
+    {
+      "level": "Master's Degree (Postgraduate)",
+      "levelAr": "درجة الماجستير والدراسات العليا",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 35,000 - RM 48,000",
+      "durationAr": "سنة إلى سنتين"
+    },
+    {
+      "level": "Doctor of Philosophy (PhD)",
+      "levelAr": "درجة الدكتوراه البحثية",
+      "duration": "3 Years",
+      "avgFeePerYear": "RM 22,000 - RM 30,000",
+      "durationAr": "3 سنوات"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "id": "Peringkat Rank 251 Dunia QS & Bintang 5",
+        "en": "QS Rank 251 Worldwide & 5-Star Rating",
+        "ar": "المرتبة 251 عالمياً و 5 نجوم QS",
+        "ko": "QS 세계 251위 및 5스타 최고 등급",
+        "ja": "QS世界大学ランキング第251位＆5つ星評価",
+        "zh": "QS全球大学排名前251位与五星级评级",
+        "ru": "Топ-251 в мире по рейтингу QS и 5 звезд",
+        "fr": "Classé 251e mondial au QS et 5 étoiles",
+        "es": "Puesto Rank 251 del mundo en QS y 5 estrellas"
+      },
+      "desc": {
+        "id": "Top 1% universitas dunia dan universitas swasta No. 1 di Asia Tenggara.",
+        "en": "Top 1% universities globally and No. 1 private university in Southeast Asia.",
+        "ar": "مصنفة ضمن أفضل 1% من جامعات العالم والجامعة الخاصة الأولى في جنوب شرق آسيا.",
+        "ko": "전 세계 상위 1% 대학이자 동남아시아 사립 대학교 1위입니다.",
+        "ja": "世界の上位1％の大学であり、東南アジアの私立大学で第1位を誇ります。",
+        "zh": "位列全球前1%顶尖高校，蝉联东南亚私立大学第一。",
+        "ru": "Входит в 1% лучших вузов мира и является частным университетом No. 1 в ЮВА.",
+        "fr": "Fait partie du top 1% mondial et 1ère université privée d'Asie du Sud-Est.",
+        "es": "Top 1% de universidades globales y universidad privada No. 1 del sudeste asiático."
+      }
+    },
+    {
+      "icon": "award",
+      "title": {
+        "id": "Gelar Ganda Resmi Inggris & Australia",
+        "en": "Dual Award Degrees with UK & Australia",
+        "ar": "شهادات ثنائية دولية مع بريطانيا وأستراليا",
+        "ko": "영국 및 호주 명문대 복수 학위 수여",
+        "ja": "英国・オーストラリアの名門大学デュアルディグリー",
+        "zh": "英国与澳大利亚名校官方双学位认证",
+        "ru": "Программы двойных дипломов с вузами Великобритании и Австралии",
+        "fr": "Doubles diplômes officiels avec le Royaume-Uni et l'Australie",
+        "es": "Titulaciones dobles oficiales con el Reino Unido y Australia"
+      },
+      "desc": {
+        "id": "Dapatkan dua ijazah resmi sekaligus dari Taylor's dan universitas mitra ternama di Inggris/Australia.",
+        "en": "Graduate with dual certifications from Taylor's and prestigious UK or Australian partner institutions.",
+        "ar": "شهادتين معتمدتين إحداهما من جامعة تايلور والأخرى من كبرى جامعات بريطانيا أو أستراليا.",
+        "ko": "테일러스 대학교와 영국/호주 파트너 대학의 공식 학위를 동시에 취득합니다.",
+        "ja": "テイラーズ大学と提携する英国・豪州の大学から2つの学位を取得可能です。",
+        "zh": "毕业同时获得泰莱大学及英澳顶尖合作大学颁发的两份官方学位证书。",
+        "ru": "Выпускники получают два диплома: от Taylor's и престижных вузов-партнеров.",
+        "fr": "Obtenez simultanément deux diplômes reconnus de Taylor et d'universités partenaires.",
+        "es": "Gradúate con dos títulos reconocidos de Taylor y prestigiosas universidades asociadas."
+      }
+    },
+    {
+      "icon": "briefcase",
+      "title": {
+        "id": "Tingkat Keterserapan Kerja 99%",
+        "en": "99% Graduate Employability Rate",
+        "ar": "معدل توظيف استثنائي 99%",
+        "ko": "99%에 달하는 높은 졸업생 취업률",
+        "ja": "99％を誇る圧倒的な就職内定率",
+        "zh": "99% 毕业生高就业率与行业口碑",
+        "ru": "99% уровень трудоустройства выпускников",
+        "fr": "Taux d'employabilité des diplômés de 99%",
+        "es": "99% de tasa de empleabilidad de graduados"
+      },
+      "desc": {
+        "id": "Lebih dari 99% lulusan mendapatkan pekerjaan profesional dalam waktu 6 bulan setelah kelulusan.",
+        "en": "Over 99% of graduates secure professional employment within 6 months of graduation.",
+        "ar": "أكثر من 99% من الخريجين يحصلون على وظائف مرموقة في كبرى الشركات خلال 6 أشهر.",
+        "ko": "졸업생의 99% 이상이 졸업 후 6개월 이내에 글로벌 우수 기업에 취업합니다.",
+        "ja": "99％以上の卒業生が卒業後6ヶ月以内に優良企業への就職を果たしています。",
+        "zh": "超过99%的毕业生在毕业后6个月内顺利进入跨国名企与知名机构就职。",
+        "ru": "Более 99% выпускников находят работу по специальности в течение 6 месяцев.",
+        "fr": "Plus de 99% des diplômés décrochent un emploi qualifié dans les 6 mois.",
+        "es": "Más del 99% de los graduados obtienen empleo cualificado en menos de 6 meses."
+      }
+    },
+    {
+      "icon": "hotel",
+      "title": {
+        "id": "Peringkat Rank 16 Dunia Manajemen Perhotelan",
+        "en": "Rank 16 Worldwide in Hospitality Management",
+        "ar": "المرتبة 16 عالمياً في إدارة الضيافة",
+        "ko": "호텔경영 및 조리예술 분야 세계 16위",
+        "ja": "ホスピタリティ・観光学分野で世界第16位",
+        "zh": "款待与休闲管理专业位列全球第16位",
+        "ru": "Rank 16 в мире по направлению «Гостиничный менеджмент»",
+        "fr": "Rank 16 mondial en gestion hôtelière et tourisme",
+        "es": "Rank 16 mondial en gestión de hotelería y turismo"
+      },
+      "desc": {
+        "id": "Pemimpin global dalam bidang Manajemen Perhotelan, Pariwisata, dan Seni Kuliner.",
+        "en": "Recognized global leader in Hospitality, Tourism, and Culinary Arts education.",
+        "ar": "رائدة عالمياً في تخصصات الضيافة والسياحة وفنون الطهي بشراكات مع أشهر سلاسل الفنادق.",
+        "ko": "호텔, 관광 및 조리 예술 교육 분야에서 세계적인 명성을 인정받고 있습니다.",
+        "ja": "ホスピタリティ、観光、料理芸術の分野において世界的な評価を得ています。",
+        "zh": "国际公认的酒店管理、旅游管理与烹饪艺术教育领军名校。",
+        "ru": "Признанный мировой лидер в области гостеприимства, туризма и кулинарии.",
+        "fr": "Leader mondial reconnu dans l'enseignement de l'hôtellerie et des arts culinaires.",
+        "es": "Líder global reconocido en hotelería, turismo y formación en artes culinarias."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apakah ijazah dari Taylor’s University diakui secara internasional dan di luar negeri?",
+        "en": "Is a degree from Taylor’s University officially accredited and recognized internationally?",
+        "ar": "هل شهادات جامعة تايلورز معترف بها رسمياً ودولياً وفي الدول العربية؟",
+        "ko": "테일러스 대학교의 학위는 국제적으로 공식 인정받나요?",
+        "ja": "テイラーズ大学の学位は国際的に公認され、世界で通用しますか？",
+        "zh": "泰莱大学（Taylor’s University）颁发的学士及硕士学位是否获国际广泛认可？",
+        "ru": "Признаются ли дипломы Тейлорс Университета на международном уровне?",
+        "fr": "Le diplôme de Taylor's University est-il officiellement reconnu à l'international ?",
+        "es": "¿Están los títulos de Taylor’s University oficialmente reconocidos a nivel internacional?"
+      },
+      "a": {
+        "id": "Ya, Taylor’s University terakreditasi penuh oleh Malaysian Qualifications Agency (MQA) dan Kementerian Pendidikan Tinggi Malaysia, serta diakui secara global di Inggris, negara-negara Commonwealth, Amerika Serikat, dan kementerian pendidikan di seluruh dunia.",
+        "en": "Yes, Taylor’s University is fully accredited by the Malaysian Qualifications Agency (MQA) and the Ministry of Higher Education Malaysia, with degrees recognized across the UK, Commonwealth, USA, and ministries worldwide.",
+        "ar": "نعم، جامعة تايلورز معتمدة بالكامل من هيئة المؤهلات الماليزية (MQA) ووزارة التعليم العالي، وشهاداتها معترف بها ومصادق عليها في بريطانيا والولايات المتحدة وكافة الدول العربية وعالمياً.",
+        "ko": "네, 테일러스 대학교는 말레이시아 고등교육부 및 MQA의 완전 인가를 받았으며, 영국, 미국, 영연방 및 전 세계 유수 교육부에서 정식 인정받습니다.",
+        "ja": "はい、テイラーズ大学はマレーシア国家資格認定機関（MQA）および高等教育省の完全認可を受けており、英国、米国、英連邦諸国など世界中で通用します。",
+        "zh": "是的，泰莱大学获马来西亚学术资格鉴定局（MQA）及高等教育部最高官方认证，其颁发的学位在英联邦、欧美及全球绝大多数国家教育部门均获权威认证。",
+        "ru": "Да, университет аккредитован MQA и Министерством высшего образования Малайзии, а его дипломы признаются в Великобритании, США и по всему миру.",
+        "fr": "Oui, Taylor's University est pleinement accréditée par la MQA et reconnue au Royaume-Uni, aux États-Unis, dans le Commonwealth et dans le monde entier.",
+        "es": "Sí, Taylor’s University está plenamente acreditada por la MQA y sus títulos son reconocidos en el Reino Unido, EE. UU., la Commonwealth y el resto del mundo."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor kemampuan bahasa Inggris (IELTS/TOEFL) untuk masuk ke Taylor’s?",
+        "en": "What are the English language proficiency requirements for admission at Taylor’s?",
+        "ar": "ما هي متطلبات إتقان اللغة الإنجليزية (IELTS/TOEFL) للقبول في جامعة تايلورز؟",
+        "ko": "테일러스 대학교 입학을 위한 공인 영어(IELTS/TOEFL) 성적 기준은 어떻게 되나요?",
+        "ja": "テイラーズ大学への入学に必要な英語能力（IELTS/TOEFL）のスコア基準は？",
+        "zh": "申请入读泰莱大学需要满足怎样的雅思（IELTS）或托福英语语言成绩？",
+        "ru": "Каковы требования к знанию английского языка (IELTS/TOEFL) для поступления в Тейлорс?",
+        "fr": "Quelles sont les exigences de niveau d'anglais (IELTS/TOEFL) pour intégrer Taylor's ?",
+        "es": "¿Cuáles son los requisitos de inglés (IELTS/TOEFL) para ser admitido en Taylor’s?"
+      },
+      "a": {
+        "id": "Sebagian besar program Sarjana mensyaratkan skor IELTS 5.5 hingga 6.0 (atau TOEFL iBT setara). Mahasiswa yang belum memiliki sertifikat bahasa resmi dapat mengikuti tes penempatan bahasa Inggris di kampus (Center for Languages).",
+        "en": "Most Bachelor degree programmes require an overall IELTS score of 5.5 to 6.0 (or equivalent TOEFL iBT). Applicants without valid test results can take the on-campus English Placement Test and enroll in the Center for Languages.",
+        "ar": "تتطلب معظم برامج البكالوريوس الحصول على درجة IELTS بين 5.5 إلى 6.0 (أو ما يعادلها في TOEFL). وفي حال عدم توفرها، يمكن للطالب خوض اختبار تحديد المستوى الداخلي والالتحاق بمركز اللغات بالجامعة.",
+        "ko": "대부분의 학부 과정은 IELTS 5.5~6.0(또는 이에 상응하는 TOEFL iBT)을 요구합니다. 점수가 없는 경우 교내 어학 센터에서 자체 배치 고사를 치르고 집중 영어 과정을 수강할 수 있습니다.",
+        "ja": "大半の学部課程ではIELTS 5.5〜6.0（または同等のTOEFL）が必要です。スコアをお持ちでない方は学内のプレイスメントテストを受け、語学センターで研修を受講できます。",
+        "zh": "绝大多数本科学位课程要求雅思5.5至6.0分（或同等托福iBT成绩）。暂无语言成绩的同学可参加校内英语水平测试并配读大学下设的语言强化课程。",
+        "ru": "Для большинства программ бакалавриата требуется балл IELTS 5.5–6.0. При отсутствии сертификата можно сдать внутренний тест и пройти курс в языковом центре.",
+        "fr": "La plupart des licences demandent un score IELTS de 5.5 à 6.0. Les candidats sans test peuvent passer le test interne et suivre des cours au centre de langues.",
+        "es": "La mayoría de grados requieren entre 5.5 y 6.0 en IELTS. Quienes no dispongan de certificado pueden realizar la prueba de nivel en el campus y cursar inglés."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa perkiraan biaya kuliah tahunan untuk program Sarjana di Taylor’s University?",
+        "en": "What are the estimated annual tuition fees for undergraduate degrees at Taylor’s?",
+        "ar": "كم تبلغ التكاليف والرسوم الدراسية السنوية التقديرية لدرجة البكالوريوس في تايلورز؟",
+        "ko": "테일러스 대학교 학사 학위 과정의 연간 평균 학비는 얼마인가요?",
+        "ja": "テイラーズ大学の学部課程における年間学費の目安はどのくらいですか？",
+        "zh": "在泰莱大学攻读本科学位的全套年度学费大约在什么区间？",
+        "ru": "Какова ориентировочная годовая стоимость обучения на бакалавриате в Тейлорс?",
+        "fr": "Quels sont les frais de scolarité annuels estimés pour une licence à Taylor's University ?",
+        "es": "¿Cuáles son las tarifas anuales estimadas de matrícula para una licenciatura en Taylor’s?"
+      },
+      "a": {
+        "id": "Biaya kuliah sarjana bervariasi menurut fakultas: Bisnis, Komputer, dan Komunikasi sekitar $7.500 - $9.800 USD per tahun. Manajemen Perhotelan sekitar $8.500 - $11.000 USD per tahun. Kedokteran (MBBS) sekitar $24.000 USD per tahun.",
+        "en": "Tuition fees vary by faculty: Business, Computing, and Media range from $7,500 to $9,800 USD/year. Hospitality Management ranges from $8,500 to $11,000 USD/year. Medicine (MBBS) is approximately $24,000 USD/year.",
+        "ar": "تتفاوت الرسوم حسب الكلية: تتراوح برامج إدارة الأعمال وعلوم الحاسب والإعلام بين 7,500 إلى 9,800 دولار سنوياً. وإدارة الضيافة والفنادق بين 8,500 إلى 11,000 دولار سنوياً. والطب البشري (MBBS) حوالي 24,000 دولار سنوياً.",
+        "ko": "전공에 따라 차이가 있습니다: 상경, 컴퓨터, 미디어는 연간 약 7,500~9,800달러, 호텔경영학은 연간 약 8,500~11,000달러, 의과대학(MBBS)은 연간 약 24,000달러 선입니다.",
+        "ja": "学部により異なります：ビジネス、IT、メディア系は年間約7,500〜9,800米ドル、ホスピタリティ経営学科は年間約8,500〜11,000米ドル、医学部（MBBS）は年間約24,000米ドルです。",
+        "zh": "学费因专业学院而异：商科、计算机软件及传媒艺术专业年均约7,500至9,800美元；顶级酒店管理专业年均约8,500至11,000美元；临床医学（MBBS）年均约24,000美元。",
+        "ru": "Стоимость зависит от факультета: бизнес, IT и медиа — 7 500–9 800 $ в год; отельный бизнес — 8 500–11 000 $ в год; медицина (MBBS) — около 24 000 $ в год.",
+        "fr": "Les frais varient selon les filières : commerce, informatique et médias de 7 500 à 9 800 USD/an ; hôtellerie de 8 500 à 11 000 USD/an ; médecine (MBBS) environ 24 000 USD/an.",
+        "es": "La matrícula varía según la facultad: Empresa, Informática y Medios entre 7.500 y 9.800 USD/año; Hostelería entre 8.500 y 11.000 USD/año; Medicina (MBBS) unos 24.000 USD/año."
+      }
+    },
+    {
+      "q": {
+        "id": "Apa saja pilihan tempat tinggal dan akomodasi asrama yang tersedia di Taylor’s Lakeside?",
+        "en": "What on-campus and off-campus accommodation options are available at Taylor’s?",
+        "ar": "ما هي خيارات السكن والإقامة الطلابية المتوفرة في حرم تايلورز ليك سايد؟",
+        "ko": "테일러스 레이크사이드 캠퍼스에서 이용 가능한 기숙사 및 주거 옵션은 무엇인가요?",
+        "ja": "テイラーズ・レイクサイド校で利用できる学内寮および近隣レジデンスは？",
+        "zh": "泰莱大学湖畔校区为在校学生提供哪些校内宿舍及校外优质居住公寓选择？",
+        "ru": "Какие варианты проживания доступны студентам в кампусе Тейлорс Лейксайд?",
+        "fr": "Quelles sont les options de logement disponibles sur le campus de Taylor's Lakeside ?",
+        "es": "¿Qué opciones de alojamiento hay para estudiantes en Taylor’s Lakeside?"
+      },
+      "a": {
+        "id": "Taylor’s Hostel Management menyediakan U-Residence dan Ru-Neem di dalam kampus Lakeside, serta apartemen mitra D’Latour di seberang kampus dengan harga RM 800 - RM 1.800 per bulan, dilengkapi kolam renang, gym, dan keamanan 24 jam.",
+        "en": "Taylor’s Hostel Management operates the on-campus U-Residence and Ru-Neem residences, plus off-campus partner condos like D’Latour across the bridge, ranging from RM 800 to RM 1,800/month with Olympic pools, fitness gyms, and 24/7 security.",
+        "ar": "توفر إدارة السكن بجامعة تايلورز مباني U-Residence و Ru-Neem داخل الحرم الجامعي، وشقق D'Latour الراقية المقابلة للحرم بأسعار بين 800 إلى 1,800 رينجيت شهرياً مع حمامات سباحة ونوادٍ رياضية وحراسة 24/7.",
+        "ko": "테일러스 기숙사 관리처에서 운영하는 교내 U-Residence 및 Ru-Neem과 캠퍼스 맞은편 D'Latour 아파트가 월 RM 800~1,800 선에 제공되며 수영장, 헬스장, 24시간 보안을 갖추고 있습니다.",
+        "ja": "学内直営のU-ResidenceおよびRu-Neem、キャンパス隣接の高級コンドミニアムD'Latourが月額RM 800〜1,800で利用可能で、プールやジム、24時間セキュリティを完備。",
+        "zh": "大学直属的校内湖景宿舍楼U-Residence和Ru-Neem，以及天桥直通的高端合作公寓D'Latour月租约800至1,800马币，泳池、健身房、门禁卡安保设施一应俱全。",
+        "ru": "Студентам доступны общежития U-Residence и Ru-Neem на территории кампуса, а также кондоминиум D’Latour от 800 до 1 800 ринггитов в месяц с бассейном и охраной.",
+        "fr": "L'université gère les résidences U-Residence et Ru-Neem sur le campus, ainsi que des appartements comme D'Latour (800 à 1 800 RM/mois) avec piscine, salle de sport et sécurité 24h/24.",
+        "es": "Taylor’s gestiona las residencias U-Residence y Ru-Neem en el campus y apartamentos como D’Latour (800 a 1.800 RM/mes) con piscina, gimnasio y seguridad 24/7."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan saja periode intake penerimaan mahasiswa baru di Taylor’s University setiap tahun?",
+        "en": "When are the primary academic intake periods at Taylor’s University each year?",
+        "ar": "ما هي مواعيد وفصول بدء الدراسة والقبول الجامعي في جامعة تايلورز سنوياً؟",
+        "ko": "테일러스 대학교의 매년 주요 정규 입학 시기(Intake)는 언제인가요?",
+        "ja": "テイラーズ大学の年間を通じた主な入学時期（インテイク）はいつですか？",
+        "zh": "泰莱大学每年常规各学期的主要招生开学时间点分别在几月？",
+        "ru": "В какие месяцы проходит зачисление студентов в Taylor’s University?",
+        "fr": "Quelles sont les principales sessions d'admission chaque année à Taylor's University ?",
+        "es": "¿Cuáles son las principales convocatorias de ingreso en Taylor’s University cada año?"
+      },
+      "a": {
+        "id": "Intake utama untuk program Sarjana berlangsung pada bulan Januari, Maret, dan Agustus/September. Mahasiswa internasional dianjurkan mendaftar setidaknya 2 hingga 3 bulan sebelumnya untuk proses persetujuan visa EMGS.",
+        "en": "The primary intakes for undergraduate degree programmes occur in January, March, and August/September. International applicants are advised to apply 2 to 3 months in advance to complete EMGS visa processing smoothly.",
+        "ar": "تبدأ الفصول الدراسية الرئيسية لبرامج البكالوريوس في أشهر يناير ومارس وأغسطس/سبتمبر. ويُنصح المتقدمون الدوليون بتقديم أوراقهم قبل شهرين إلى 3 أشهر لإصدار تأشيرة الطالب EMGS.",
+        "ko": "학사 과정의 주요 입학 시기는 매년 1월, 3월, 8월/9월입니다. EMGS 학생 비자 심사 기간을 고려하여 개강 최소 2~3개월 전에 원서를 접수하는 것이 좋습니다.",
+        "ja": "学部課程の主な入学期は毎年1月、3月、8月/9月です。留学生は学生ビザ（EMGS）の取得手続きのため、開講の2〜3ヶ月前までに出願することをお勧めします。",
+        "zh": "本科学位课程每年的主要招生开学月份为1月、3月以及8月/9月。强烈建议国际留学生提前2至3个月递交完整的申请材料，以确保顺利获批EMGS学生签证。",
+        "ru": "Основные наборы на программы бакалавриата проходят в январе, марте и августе/сентябре. Иностранным студентам рекомендуется подавать документы за 2–3 месяца для оформления визы EMGS.",
+        "fr": "Les rentrées principales en licence se déroulent en janvier, mars et août/septembre. Il est conseillé de postuler 2 à 3 mois à l'avance pour le visa étudiant EMGS.",
+        "es": "Las convocatorias principales de grado tienen lugar en enero, marzo y agosto/septiembre. Se recomienda postular con 2-3 meses de antelación para tramitar el visado EMGS."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Complete Admissions & Student Visa Guide for Taylor's University",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Taylor's University",
+        "ar": "دليل القبول والتسجيل والتأشيرة الدراسية الشامل في جامعة تايلور",
+        "zh": "Taylor's University 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Taylor's University",
+        "fr": "Guide complet d'admission et visa étudiant pour Taylor's University",
+        "es": "Guía completa de admisión y visado de estudiante para Taylor's University",
+        "ja": "Taylor's University 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Taylor's University 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Everything international students need to know about entry requirements, certified document translation, EMGS approval, and student visa processing.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "كل ما يحتاجه الطالب الدولي لمعرفة خطوات التقديم، متطلبات الشهادات، إجراءات تأشيرة الـ EMGS، والوثائق المطلوبة للقبول الفوري.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Cost of Living & Student Budget Guide around Subang Jaya & Taylor's Lakeside",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Taylor's University",
+        "ar": "دليل تكاليف المعيشة والسكن الطلابي حول حرم تايلور لايك سايد",
+        "zh": "Taylor's University 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Taylor's University",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Taylor's University",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Taylor's University",
+        "ja": "Taylor's University 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Taylor's University 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Detailed breakdown of monthly rent, food, dining at Lakeside restaurants, Grab transport, utilities, and budgeting tips for students.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل تقديرية لمصروفات السكن والمطاعم والتنقلات والمستلزمات الشهرية للطلاب في منطقة سوبانج جايا مع نصائح إدارة الميزانية.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Taylor's University Merit Scholarships & Fee Waiver Opportunities",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Taylor's University",
+        "ar": "المنح الدراسية والخصومات المتاحة للطلاب الجدد في جامعة تايلور",
+        "zh": "Taylor's University 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Taylor's University",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Taylor's University",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Taylor's University",
+        "ja": "Taylor's University 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Taylor's University 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "How to qualify for up to 30% tuition fee discounts based on academic high school grades and early application via StudyCo.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "فرص الحصول على منح جزئية وتخفيضات في الرسوم الدراسية تصل إلى 30% بناءً على المعدلات الأكاديمية والتميز الدراسي.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "U-Residence (On-Campus Lakeside)",
+        "nameAr": "سكن U-Residence (داخل الحرم الجامعي بإطلالة على البحيرة)",
+        "type": "Single & Twin Ensuite Luxury Rooms",
+        "typeAr": "غرف فردية ومزدوجة فاخرة بحمام خاص وتكييف",
+        "priceRange": "RM 850 - RM 1,600 / month",
+        "priceRangeAr": "850 - 1,600 رينجيت / شهرياً",
+        "distance": "0 mins (Inside Lakeside Campus)",
+        "distanceAr": "0 دقيقة (داخل الحرم الجامعي مباشرة)",
+        "amenities": [
+          "Wi-Fi High Speed",
+          "Air Conditioning & En-suite Bathroom",
+          "24/7 Security & Keycard Access",
+          "Swimming Pool & Fitness Centre",
+          "Common Kitchen & Lounge Areas",
+          "Lakeside Dining & Cafes"
+        ],
+        "amenitiesAr": [
+          "إنترنت فائق السرعة",
+          "تكييف وحمام خاص مستقل",
+          "حراسة وأمن وبوابات إلكترونية ذكية 24/7",
+          "مسبح وصالة لياقة بدنية وجيم",
+          "مطابخ مشتركة وصالات استراحة طلابية",
+          "مقاهي ومطاعم متكاملة حول البحيرة"
+        ],
+        "image": "assets/photo/campus_taylors.jpg"
+      },
+      {
+        "name": "Ruemz Residence (On-Campus Hotel Style)",
+        "nameAr": "سكن Ruemz الفندقي (داخل الحرم الجامعي)",
+        "type": "Hotel-Style Single / Twin Rooms",
+        "typeAr": "غرف فندقية مجهزة بالكامل بنظام راقٍ",
+        "priceRange": "RM 950 - RM 1,800 / month",
+        "priceRangeAr": "950 - 1,800 رينجيت / شهرياً",
+        "distance": "1 min walk to faculty buildings",
+        "distanceAr": "دقيقة واحدة سيراً إلى الكليات والمحاضرات",
+        "amenities": [
+          "Housekeeping Service",
+          "Smart Card Access",
+          "Gym & Recreation Area",
+          "Study Lounges",
+          "Direct Lake View"
+        ],
+        "amenitiesAr": [
+          "خدمة تنظيف دورية",
+          "دخول ذكي بالبطاقات المشفرة",
+          "صالة ألعاب وترفيه وجيم",
+          "قاعات مخصصة للمذاكرة الهادئة",
+          "إطلالة بانورامية على البحيرة"
+        ],
+        "image": "assets/photo/campus_taylors.jpg"
+      },
+      {
+        "name": "D'Latour Bandar Sunway Condominium",
+        "nameAr": "أبراج دي لاتور الفاخرة (D'Latour Bandar Sunway)",
+        "type": "Modern Serviced Condo & Duplex Apartments",
+        "typeAr": "شقق فندقية ودوبلكس حديثة ومفروشة بالكامل",
+        "priceRange": "RM 900 - RM 2,000 / month",
+        "priceRangeAr": "900 - 2,000 رينجيت / شهرياً",
+        "distance": "5 mins walk / Free Shuttle Bus",
+        "distanceAr": "5 دقائق سيراً / حافلة نقل مجانية دورية",
+        "amenities": [
+          "Infinity Pool with Elevated Pavilion",
+          "State-of-the-art Gym & Sauna",
+          "Sky Garden & BBQ Area",
+          "Near Sunway Pyramid Mall",
+          "24-hour Strict Security"
+        ],
+        "amenitiesAr": [
+          "مسبح لا متناهي بتصميم عصري وجاكوزي",
+          "صالة رياضية متطورة وساونا",
+          "حدائق معلقة ومنطقة شواء",
+          "قرب مجمع صنواي بيراميد الشهير",
+          "حراسة أمنية مشددة على مدار الساعة"
+        ],
+        "image": "assets/photo/campus_taylors.jpg"
+      },
+      {
+        "name": "Casa Tiara & Saujana Residences",
+        "nameAr": "مجمع كاسا تيارا وسوجانا السكني (Casa Tiara)",
+        "type": "Spacious Multi-Room Student Condos",
+        "typeAr": "شقق سكنية عائلية وطلابية واسعة 3-4 غرف",
+        "priceRange": "RM 700 - RM 1,400 / month",
+        "priceRangeAr": "700 - 1,400 رينجيت / شهرياً",
+        "distance": "8 mins by LRT / Campus Shuttle",
+        "distanceAr": "8 دقائق بالمترو أو باص الجامعة المجاني",
+        "amenities": [
+          "Next to Subang Parade Mall & LRT Station",
+          "Squash & Tennis Courts",
+          "Full Kitchen & Laundry in Unit",
+          "Budget-Friendly Sharing Options"
+        ],
+        "amenitiesAr": [
+          "بجوار محطة القطار والمترو ومول سوبانج باريد",
+          "ملاعب إسكواش وتنس",
+          "مطبخ متكامل وغسالة داخل الشقة",
+          "خيارات سكن اقتصادي ومريح"
+        ],
+        "image": "assets/photo/campus_taylors.jpg"
+      }
+    ]
+  },
+  "about": {
+    "id": "Taylor’s University didirikan pada tahun 1969 dan merupakan universitas swasta No. 1 di Malaysia dan Asia Tenggara, menempati peringkat ke-251 di dunia dalam QS World University Rankings 2025. Terletak di Lakeside Campus Subang Jaya seluas 27 hektar yang indah, Taylor’s terkenal di seluruh dunia atas keunggulannya dalam Manajemen Perhotelan & Kenyamanan (peringkat Rank 19 di dunia QS), Bisnis, Arsitektur, Hukum, Kedokteran, dan Ilmu Komputer dengan fasilitas mutakhir berstandar global.",
+    "en": "Taylor’s University, founded in 1969, is the No. 1 private university in Malaysia and Southeast Asia, ranked Rank 251 globally in the QS World University Rankings 2025. Set around an iconic 27-acre Lakeside Campus in Subang Jaya, Taylor’s is world-renowned for Hospitality & Leisure Management (Top 20 worldwide in QS by Subject), Business, Architecture, Law, and Computing with cutting-edge global teaching facilities.",
+    "ar": "تأسست جامعة تايلورز (Taylor's University) عام 1969، وتعد الجامعة الخاصة الأولى في ماليزيا وجنوب شرق آسيا، حيث تحتل المرتبة 251 عالمياً في تصنيف QS لعام 2025. يمتد حرمها الجامعي الأيقوني البحيري على مساحة 27 فداناً في سوبانج جايا، وتشتهر عالمياً بإدارة الضيافة والفنادق (ضمن أفضل 20 جامعة عالمياً)، وإدارة الأعمال، والعمارة، والحقوق، وعلوم الحاسب.",
+    "zh": "泰莱大学（Taylor’s University）创立于1969年，是马来西亚及东南亚公认排名第1的顶尖私立大学，在2025年QS世界大学排名中荣列全球第251位。大学坐拥占地27英亩的花园式湖畔校区（Lakeside Campus），其酒店与休闲管理专业高居QS世界学科排名前20强，商学、建筑学、法学、医学及计算机学科均享誉全球。",
+    "ru": "Университет Тейлорс (Taylor's University), основанный в 1969 году, является частным университетом №1 в Малайзии и Юго-Восточной Азии (Rank 251 QS World 2025) с живописным кампусом Lakeside Campus в Субанг-Джая, входя в топ-20 мира по гостиничному менеджменту.",
+    "fr": "Fondée en 1969, Taylor's University est la 1re université privée de Malaisie et d'Asie du Sud-Est, classée 251e mondiale au QS 2025. Son campus au bord du lac à Subang Jaya est célèbre pour sa gestion hôtelière (Top 20 mondial) et ses formations d'excellence.",
+    "es": "Taylor’s University, fundada en 1969, es la universidad privada número 1 de Malasia y del Sudeste Asiático (Rank 251 en QS World 2025). Su emblemático campus Lakeside en Subang Jaya destaca en el Top 20 mundial en Gestión Hotelera y de Ocio.",
+    "ja": "テイラーズ大学は1969年創立のマレーシアおよび東南アジアNo.1私立大学であり、QS世界大学ランキング2025で世界第251位にランクイン。スバンジャヤの美しいレイクサイドキャンパスを有し、ホスピタリティ＆レジャーマネジメントで世界トップ20に選出されています。",
+    "ko": "테일러스 대학교(Taylor’s University)는 1969년에 설립된 말레이시아 및 동남아시아 1위의 최고 명문 사립대학교로, 2025 QS 세계 251위에 올랐습니다. 수방자야의 아름다운 호수 캠퍼스에서 운영되며 호텔경영학 분야 전 세계 Top 20에 빛나는 독보적 교육을 제공합니다."
+  },
+  "facilities": [
+    {
+      "icon": "lake",
+      "title": {
+        "id": "Kampus Tepi Danau Seluas 27 Hektar",
+        "en": "27-Acre Lakeside Campus & Waterfront Boulevard",
+        "ar": "حرم جامعي فاخر على ضفاف البحيرة بمساحة 27 فداناً",
+        "ko": "27에이커 규모의 레이크사이드 캠퍼스 및 수변 산책로",
+        "ja": "27エーカーの広大なレイクサイドキャンパスとウォーターフロント",
+        "zh": "27英亩湖畔生态智慧校园与滨水林荫大道",
+        "ru": "Живописный кампус у озера площадью 27 акров",
+        "fr": "Campus de 27 hectares au bord du lac",
+        "es": "Campus de 27 hectáreas junto al lago"
+      }
+    },
+    {
+      "icon": "robot",
+      "title": {
+        "id": "Laboratorium AI, Robotika & Rekayasa Modern",
+        "en": "Next-Gen AI, Robotics & Engineering Labs",
+        "ar": "مختبرات الذكاء الاصطناعي والروبوتات والهندسة المتطورة",
+        "ko": "차세대 AI, 로봇 공학 및 엔지니어링 첨단 연구실",
+        "ja": "次世代AI・ロボティクス・工学専門研究ラボ",
+        "zh": "下一代人工智能、机器人与工程前沿实验室",
+        "ru": "Лаборатории ИИ, робототехники и современной инженерии",
+        "fr": "Laboratoires d'IA, de robotique et d'ingénierie avancée",
+        "es": "Laboratorios avanzados de IA, robótica e ingeniería"
+      }
+    },
+    {
+      "icon": "chef",
+      "title": {
+        "id": "Suite Kuliner & Perhotelan Berstandar Dunia (Rank 16 Global)",
+        "en": "World-Class Culinary & Hospitality Suites (Rank 16 Worldwide)",
+        "ar": "أجنحة فندقية ومطابخ تجريبية فندقية مصنفة Rank 16 عالمياً",
+        "ko": "세계 16위 수준의 최고급 호텔 및 조리 실습 스위트",
+        "ja": "世界第16位の最高峰ホスピタリティ・調理実習スイート",
+        "zh": "世界排名前16顶尖酒店管理与烹饪艺术实训套房",
+        "ru": "Кулинарные и гостиничные комплексы мирового уровня (Rank 16 в мире)",
+        "fr": "Suites hôtelières et culinaires de classe mondiale (Rank 16 mondial)",
+        "es": "Suites de hotelería y artes culinarias de clase mundial (Rank 16 global)"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Perpustakaan Digital Multi-Lantai Otomatis",
+        "en": "Multi-Storey Automated Digital Library",
+        "ar": "مكتبة رقمية تفاعلية ضخمة مزودة بغرف دراسة وقاعات بحث",
+        "ko": "최첨단 자동화 다층 디지털 도서관 및 스터디 라운지",
+        "ja": "最新の自動化マルチフロア・デジタル図書館",
+        "zh": "多层现代化智能数字图书馆与静音研讨室",
+        "ru": "Многоэтажная автоматизированная цифровая библиотека",
+        "fr": "Bibliothèque numérique automatisée sur plusieurs étages",
+        "es": "Biblioteca digital automatizada de varios niveles"
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Taylor's University Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة تايلور (Taylor's University)",
+        "id": "Residensi Mahasiswa Resmi Taylor's University"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=YCYUgTcmOb8",
+  "programs": [
+    {
+      "id": "taylors-bachelor-of-computer-science-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Computer Science (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48912,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48912
+        },
+        {
+          "year": 2,
+          "fee": 48912
+        },
+        {
+          "year": 3,
+          "fee": 48912
+        }
+      ],
+      "totalTuitionFee": 146736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-software-engineering-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Software Engineering (Honours)",
+      "nameAr": "بكالوريوس هندسة البرمجيات في Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48912,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48912
+        },
+        {
+          "year": 2,
+          "fee": 48912
+        },
+        {
+          "year": 3,
+          "fee": 48912
+        }
+      ],
+      "totalTuitionFee": 146736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-information-technology-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Information Technology (Honours)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44736,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44736
+        },
+        {
+          "year": 2,
+          "fee": 44736
+        },
+        {
+          "year": 3,
+          "fee": 44736
+        }
+      ],
+      "totalTuitionFee": 134208,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-applied-computing-coursework",
+      "universityId": "taylors",
+      "name": "Master of Applied Computing (Coursework)",
+      "nameAr": "ماجستير في Master of Applied Computing (Coursework",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 50676,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50676
+        }
+      ],
+      "totalTuitionFee": 50676,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-applied-computing-online-degree",
+      "universityId": "taylors",
+      "name": "Master of Applied Computing – Online Degree",
+      "nameAr": "ماجستير الحوسبة التطبيقية أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15601,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15601
+        },
+        {
+          "year": 2,
+          "fee": 15601
+        }
+      ],
+      "totalTuitionFee": 31202,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-computer-science",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Computer Science",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-foundation-in-computing",
+      "universityId": "taylors",
+      "name": "Foundation in Computing",
+      "nameAr": "برنامج تمهيدي في علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 27950,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27950
+        }
+      ],
+      "totalTuitionFee": 27950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-information-technology",
+      "universityId": "taylors",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 31112,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31112
+        },
+        {
+          "year": 2,
+          "fee": 31112
+        }
+      ],
+      "totalTuitionFee": 62224,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-computer-science-research",
+      "universityId": "taylors",
+      "name": "Master of Computer Science (Research)",
+      "nameAr": "ماجستير علوم الحاسب في Research",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-computer-science-honours-data-science",
+      "universityId": "taylors",
+      "name": "Bachelor of Computer Science (Honours) - Data Science",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48912,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48912
+        },
+        {
+          "year": 2,
+          "fee": 48912
+        },
+        {
+          "year": 3,
+          "fee": 48912
+        }
+      ],
+      "totalTuitionFee": 146736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-computer-science-honours-cyber-security",
+      "universityId": "taylors",
+      "name": "Bachelor of Computer Science (Honours) - Cyber Security",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48912,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48912
+        },
+        {
+          "year": 2,
+          "fee": 48912
+        },
+        {
+          "year": 3,
+          "fee": 48912
+        }
+      ],
+      "totalTuitionFee": 146736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-computer-science-honours-mobile-computing",
+      "universityId": "taylors",
+      "name": "Bachelor of Computer Science (Honours) - Mobile Computing",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في Mobile Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48912,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48912
+        },
+        {
+          "year": 2,
+          "fee": 48912
+        },
+        {
+          "year": 3,
+          "fee": 48912
+        }
+      ],
+      "totalTuitionFee": 146736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-computer-science-honours-artificial-intelligence",
+      "universityId": "taylors",
+      "name": "Bachelor of Computer Science (Honours) - Artificial Intelligence",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48912,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48912
+        },
+        {
+          "year": 2,
+          "fee": 48912
+        },
+        {
+          "year": 3,
+          "fee": 48912
+        }
+      ],
+      "totalTuitionFee": 146736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-information-technology-honours-internet-technologies",
+      "universityId": "taylors",
+      "name": "Bachelor of Information Technology (Honours) - Internet Technologies",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Internet Technologies",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44736,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44736
+        },
+        {
+          "year": 2,
+          "fee": 44736
+        },
+        {
+          "year": 3,
+          "fee": 44736
+        }
+      ],
+      "totalTuitionFee": 134208,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-information-technology-honours-business-intelligence-and-analytics",
+      "universityId": "taylors",
+      "name": "Bachelor of Information Technology (Honours) - Business Intelligence and Analytics",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في ذكاء الأعمال وتحليل البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44736,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44736
+        },
+        {
+          "year": 2,
+          "fee": 44736
+        },
+        {
+          "year": 3,
+          "fee": 44736
+        }
+      ],
+      "totalTuitionFee": 134208,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-information-technology-honours-game-design",
+      "universityId": "taylors",
+      "name": "Bachelor of Information Technology (Honours) - Game Design",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في تصميم الألعاب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44736,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44736
+        },
+        {
+          "year": 2,
+          "fee": 44736
+        },
+        {
+          "year": 3,
+          "fee": 44736
+        }
+      ],
+      "totalTuitionFee": 134208,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-information-technology-honours-digital-transformation",
+      "universityId": "taylors",
+      "name": "Bachelor of Information Technology (Honours) - Digital Transformation",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Digital Transformation",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44736,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44736
+        },
+        {
+          "year": 2,
+          "fee": 44736
+        },
+        {
+          "year": 3,
+          "fee": 44736
+        }
+      ],
+      "totalTuitionFee": 134208,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-american-degree-transfer-program-computer-science",
+      "universityId": "taylors",
+      "name": "American Degree Transfer Program (Computer Science)",
+      "nameAr": "برنامج في American Degree Transfer Program (Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16576,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16576
+        },
+        {
+          "year": 2,
+          "fee": 16576
+        },
+        {
+          "year": 3,
+          "fee": 16576
+        },
+        {
+          "year": 4,
+          "fee": 16576
+        }
+      ],
+      "totalTuitionFee": 66304,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-in-applied-computing-bridging-module",
+      "universityId": "taylors",
+      "name": "Master in Applied Computing (BRIDGING MODULE)",
+      "nameAr": "ماجستير في Master in Applied Computing (BRIDGING MODULE",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 53148,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53148
+        }
+      ],
+      "totalTuitionFee": 53148,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-in-applied-computing-double-specialisations",
+      "universityId": "taylors",
+      "name": "Master in Applied Computing (DOUBLE SPECIALISATIONS)",
+      "nameAr": "ماجستير في Master in Applied Computing (DOUBLE SPECIALISATIONS",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 60564,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60564
+        }
+      ],
+      "totalTuitionFee": 60564,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-in-applied-computing-double-specialisations-bridging-module",
+      "universityId": "taylors",
+      "name": "Master in Applied Computing (DOUBLE SPECIALISATIONS - BRIDGING MODULE)",
+      "nameAr": "ماجستير في Master in Applied Computing (DOUBLE SPECIALISATIONS - BRIDGING MODULE",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 63036,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 63036
+        }
+      ],
+      "totalTuitionFee": 63036,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-actuarial-studies-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Actuarial Studies (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Actuarial Studies (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42592,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42592
+        },
+        {
+          "year": 2,
+          "fee": 42592
+        },
+        {
+          "year": 3,
+          "fee": 42592
+        }
+      ],
+      "totalTuitionFee": 127776,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-business-honours-in-international-business-and-marketing",
+      "universityId": "taylors",
+      "name": "Bachelor of Business (Honours) in International Business and Marketing",
+      "nameAr": "بكالوريوس الأعمال في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42660,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42660
+        },
+        {
+          "year": 2,
+          "fee": 42660
+        },
+        {
+          "year": 3,
+          "fee": 42660
+        }
+      ],
+      "totalTuitionFee": 127980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-in-accounting-fintech-honours",
+      "universityId": "taylors",
+      "name": "Bachelor in Accounting (FinTech) (Honours)",
+      "nameAr": "بكالوريوس في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 36560,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36560
+        },
+        {
+          "year": 2,
+          "fee": 36560
+        },
+        {
+          "year": 3,
+          "fee": 36560
+        }
+      ],
+      "totalTuitionFee": 109680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-in-entrepreneurship-honours-in-team-entrepreneurship",
+      "universityId": "taylors",
+      "name": "Bachelor in Entrepreneurship (Honours) in Team Entrepreneurship",
+      "nameAr": "بكالوريوس في Bachelor in Entrepreneurship (Honours) in Team Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 37704,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37704
+        },
+        {
+          "year": 2,
+          "fee": 37704
+        },
+        {
+          "year": 3,
+          "fee": 37704
+        }
+      ],
+      "totalTuitionFee": 113112,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-foundation-in-business",
+      "universityId": "taylors",
+      "name": "Foundation In Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30950,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30950
+        }
+      ],
+      "totalTuitionFee": 30950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-business",
+      "universityId": "taylors",
+      "name": "Diploma In Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 25912,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25912
+        },
+        {
+          "year": 2,
+          "fee": 25912
+        }
+      ],
+      "totalTuitionFee": 51824,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-business-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Business (Honours)",
+      "nameAr": "بكالوريوس الأعمال في Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42660,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42660
+        },
+        {
+          "year": 2,
+          "fee": 42660
+        },
+        {
+          "year": 3,
+          "fee": 42660
+        }
+      ],
+      "totalTuitionFee": 127980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-banking-and-finance-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Banking and Finance (Honours)",
+      "nameAr": "بكالوريوس في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39500
+        },
+        {
+          "year": 2,
+          "fee": 39500
+        },
+        {
+          "year": 3,
+          "fee": 39500
+        }
+      ],
+      "totalTuitionFee": 118500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-finance-and-economics-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Finance and Economics (Honours)",
+      "nameAr": "بكالوريوس المالية في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39888,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39888
+        },
+        {
+          "year": 2,
+          "fee": 39888
+        },
+        {
+          "year": 3,
+          "fee": 39888
+        }
+      ],
+      "totalTuitionFee": 119664,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-business-administration-coursework",
+      "universityId": "taylors",
+      "name": "Master of Business Administration (Coursework)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Coursework",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 56920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56920
+        }
+      ],
+      "totalTuitionFee": 56920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-management-coursework",
+      "universityId": "taylors",
+      "name": "Master of Management (Coursework)",
+      "nameAr": "ماجستير في Master of Management (Coursework",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 56920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56920
+        }
+      ],
+      "totalTuitionFee": 56920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-international-hospitality-management-coursework",
+      "universityId": "taylors",
+      "name": "Master of International Hospitality Management (Coursework)",
+      "nameAr": "ماجستير في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 44610,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44610
+        }
+      ],
+      "totalTuitionFee": 44610,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-business-administration-online-degree",
+      "universityId": "taylors",
+      "name": "Master of Business Administration – Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20600
+        },
+        {
+          "year": 2,
+          "fee": 20600
+        }
+      ],
+      "totalTuitionFee": 41200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-global-hospitality-management-online-degree",
+      "universityId": "taylors",
+      "name": "Master of Global Hospitality Management – Online Degree",
+      "nameAr": "ماجستير في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20600
+        },
+        {
+          "year": 2,
+          "fee": 20600
+        }
+      ],
+      "totalTuitionFee": 41200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-science-in-tourism-research",
+      "universityId": "taylors",
+      "name": "Master of Science in Tourism (Research)",
+      "nameAr": "ماجستير العلوم في Tourism (Research",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-business",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Business",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-hospitality-and-tourism",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy In Hospitality and Tourism",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Hospitality and Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-accounting",
+      "universityId": "taylors",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 31112,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31112
+        },
+        {
+          "year": 2,
+          "fee": 31112
+        }
+      ],
+      "totalTuitionFee": 62224,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-business-administration",
+      "universityId": "taylors",
+      "name": "Doctor of Business Administration",
+      "nameAr": "دكتوراه في Doctor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 24640,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24640
+        },
+        {
+          "year": 2,
+          "fee": 24640
+        },
+        {
+          "year": 3,
+          "fee": 24640
+        }
+      ],
+      "totalTuitionFee": 73920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-american-degree-transfer-program-business",
+      "universityId": "taylors",
+      "name": "American Degree Transfer Program (Business)",
+      "nameAr": "برنامج في American Degree Transfer Program (Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27726,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27726
+        },
+        {
+          "year": 2,
+          "fee": 27726
+        },
+        {
+          "year": 3,
+          "fee": 27726
+        },
+        {
+          "year": 4,
+          "fee": 27726
+        }
+      ],
+      "totalTuitionFee": 110904,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-accounting-finance-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Accounting (Finance) (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 40704,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40704
+        },
+        {
+          "year": 2,
+          "fee": 40704
+        },
+        {
+          "year": 3,
+          "fee": 40704
+        }
+      ],
+      "totalTuitionFee": 122112,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-accounting-with-fintech-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Accounting with FinTech (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في with FinTech (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44412,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44412
+        },
+        {
+          "year": 2,
+          "fee": 44412
+        },
+        {
+          "year": 3,
+          "fee": 44412
+        }
+      ],
+      "totalTuitionFee": 133236,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-actuarial-studies-honours-4-year",
+      "universityId": "taylors",
+      "name": "Bachelor of Actuarial Studies (Honours) (4 Year)",
+      "nameAr": "بكالوريوس في Bachelor of Actuarial Studies (Honours) (4 Year",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 42304,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42304
+        },
+        {
+          "year": 2,
+          "fee": 42304
+        },
+        {
+          "year": 3,
+          "fee": 42304
+        },
+        {
+          "year": 4,
+          "fee": 42304
+        }
+      ],
+      "totalTuitionFee": 169216,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-management-online-degree",
+      "universityId": "taylors",
+      "name": "Master of Management – Online Degree",
+      "nameAr": "ماجستير الإدارة أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 20600,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20600
+        },
+        {
+          "year": 2,
+          "fee": 20600
+        }
+      ],
+      "totalTuitionFee": 41200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 47392,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47392
+        },
+        {
+          "year": 2,
+          "fee": 47392
+        },
+        {
+          "year": 3,
+          "fee": 47392
+        },
+        {
+          "year": 4,
+          "fee": 47392
+        }
+      ],
+      "totalTuitionFee": 189568,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-science-honours-in-architecture",
+      "universityId": "taylors",
+      "name": "Bachelor of Science (Honours) in Architecture",
+      "nameAr": "بكالوريوس العلوم في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48768,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48768
+        },
+        {
+          "year": 2,
+          "fee": 48768
+        },
+        {
+          "year": 3,
+          "fee": 48768
+        }
+      ],
+      "totalTuitionFee": 146304,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-arts-honours-in-interior-architecture",
+      "universityId": "taylors",
+      "name": "Bachelor of Arts (Honours) in Interior Architecture",
+      "nameAr": "بكالوريوس الآداب في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 47200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47200
+        },
+        {
+          "year": 2,
+          "fee": 47200
+        },
+        {
+          "year": 3,
+          "fee": 47200
+        }
+      ],
+      "totalTuitionFee": 141600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-quantity-surveying-hons",
+      "universityId": "taylors",
+      "name": "Bachelor of Quantity Surveying (Hons)",
+      "nameAr": "بكالوريوس في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 36108,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36108
+        },
+        {
+          "year": 2,
+          "fee": 36108
+        },
+        {
+          "year": 3,
+          "fee": 36108
+        }
+      ],
+      "totalTuitionFee": 108324,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-science-honours-in-sustainable-digital-construction-management",
+      "universityId": "taylors",
+      "name": "Bachelor of Science (Honours) in Sustainable Digital Construction Management",
+      "nameAr": "بكالوريوس العلوم في Honours) in Sustainable Digital Construction Management",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43116,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43116
+        },
+        {
+          "year": 2,
+          "fee": 43116
+        },
+        {
+          "year": 3,
+          "fee": 43116
+        }
+      ],
+      "totalTuitionFee": 129348,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-foundation-in-engineering",
+      "universityId": "taylors",
+      "name": "Foundation in Engineering",
+      "nameAr": "برنامج تمهيدي في الهندسة",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 33950,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33950
+        }
+      ],
+      "totalTuitionFee": 33950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-chemical-engineering-with-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Chemical Engineering With Honours",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 42240,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42240
+        },
+        {
+          "year": 2,
+          "fee": 42240
+        },
+        {
+          "year": 3,
+          "fee": 42240
+        },
+        {
+          "year": 4,
+          "fee": 42240
+        }
+      ],
+      "totalTuitionFee": 168960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-electrical-electronic-engineering-with-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Electrical & Electronic Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 47392,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47392
+        },
+        {
+          "year": 2,
+          "fee": 47392
+        },
+        {
+          "year": 3,
+          "fee": 47392
+        },
+        {
+          "year": 4,
+          "fee": 47392
+        }
+      ],
+      "totalTuitionFee": 189568,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-architecture-coursework",
+      "universityId": "taylors",
+      "name": "Master of Architecture (Coursework)",
+      "nameAr": "ماجستير في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 31155,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31155
+        },
+        {
+          "year": 2,
+          "fee": 31155
+        }
+      ],
+      "totalTuitionFee": 62310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-science-in-virtual-design-and-construction-coursework",
+      "universityId": "taylors",
+      "name": "Master of Science in Virtual Design and Construction (Coursework)",
+      "nameAr": "ماجستير العلوم في Virtual Design and Construction (Coursework",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 48680,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48680
+        }
+      ],
+      "totalTuitionFee": 48680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-science-in-engineering-research",
+      "universityId": "taylors",
+      "name": "Master of Science in Engineering (Research)",
+      "nameAr": "ماجستير العلوم في Engineering (Research",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-architecture",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Architecture",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-engineering",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Engineering",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-foundation-in-natural-and-built-environments",
+      "universityId": "taylors",
+      "name": "Foundation in Natural and Built Environments",
+      "nameAr": "برنامج تمهيدي في Natural and Built Environments",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30950,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30950
+        }
+      ],
+      "totalTuitionFee": 30950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-mechatronics-engineering-with-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Mechatronics Engineering with Honours",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 47392,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47392
+        },
+        {
+          "year": 2,
+          "fee": 47392
+        },
+        {
+          "year": 3,
+          "fee": 47392
+        },
+        {
+          "year": 4,
+          "fee": 47392
+        }
+      ],
+      "totalTuitionFee": 189568,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-american-degree-transfer-program-engineering",
+      "universityId": "taylors",
+      "name": "American Degree Transfer Program (Engineering)",
+      "nameAr": "برنامج في American Degree Transfer Program (Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16562,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16562
+        },
+        {
+          "year": 2,
+          "fee": 16562
+        },
+        {
+          "year": 3,
+          "fee": 16562
+        },
+        {
+          "year": 4,
+          "fee": 16562
+        }
+      ],
+      "totalTuitionFee": 66248,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-pharmacy-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Pharmacy (Honours)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 52404,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52404
+        },
+        {
+          "year": 2,
+          "fee": 52404
+        },
+        {
+          "year": 3,
+          "fee": 52404
+        },
+        {
+          "year": 4,
+          "fee": 52404
+        }
+      ],
+      "totalTuitionFee": 209616,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-medicine-bachelor-of-surgery-mbbs",
+      "universityId": "taylors",
+      "name": "Bachelor of Medicine, Bachelor of Surgery (MBBS)",
+      "nameAr": "بكالوريوس في Bachelor of Medicine, Bachelor of Surgery (MBBS",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 91728,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 91728
+        },
+        {
+          "year": 2,
+          "fee": 91728
+        },
+        {
+          "year": 3,
+          "fee": 91728
+        },
+        {
+          "year": 4,
+          "fee": 91728
+        },
+        {
+          "year": 5,
+          "fee": 91728
+        }
+      ],
+      "totalTuitionFee": 458640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-psychology-honors",
+      "universityId": "taylors",
+      "name": "Bachelor of Psychology (Honors)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 41376,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41376
+        },
+        {
+          "year": 2,
+          "fee": 41376
+        },
+        {
+          "year": 3,
+          "fee": 41376
+        }
+      ],
+      "totalTuitionFee": 124128,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-foundation-in-science",
+      "universityId": "taylors",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 33950,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33950
+        }
+      ],
+      "totalTuitionFee": 33950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-science-research",
+      "universityId": "taylors",
+      "name": "Master of Science (Research)",
+      "nameAr": "ماجستير العلوم في Research",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-philosophy-in-pharmaceutical-science-research",
+      "universityId": "taylors",
+      "name": "Master of Philosophy in Pharmaceutical Science (Research)",
+      "nameAr": "ماجستير في Master of Philosophy in Pharmaceutical Science (Research",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-philosophy-in-pharmacy-research",
+      "universityId": "taylors",
+      "name": "Master of Philosophy in Pharmacy (Research)",
+      "nameAr": "ماجستير في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-science-in-medical-science-research",
+      "universityId": "taylors",
+      "name": "Master of Science in Medical Science (Research)",
+      "nameAr": "ماجستير العلوم في Medical Science (Research",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-science",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Science",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-pharmaceutical-science",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Pharmaceutical Science",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Pharmaceutical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-medical-science",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Medical Science",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Medical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-pharmaceutical-science-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Pharmaceutical Science (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Pharmaceutical Science (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43104,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43104
+        },
+        {
+          "year": 2,
+          "fee": 43104
+        },
+        {
+          "year": 3,
+          "fee": 43104
+        }
+      ],
+      "totalTuitionFee": 129312,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-applied-health-sciences-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Applied Health Sciences (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Applied Health Sciences (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 51176,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51176
+        },
+        {
+          "year": 2,
+          "fee": 51176
+        },
+        {
+          "year": 3,
+          "fee": 51176
+        }
+      ],
+      "totalTuitionFee": 153528,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-biomedical-science-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Biomedical Science (Honours)",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 49352,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49352
+        },
+        {
+          "year": 2,
+          "fee": 49352
+        },
+        {
+          "year": 3,
+          "fee": 49352
+        }
+      ],
+      "totalTuitionFee": 148056,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-food-science-hons",
+      "universityId": "taylors",
+      "name": "Bachelor of Food Science (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Food Science (Hons",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48912,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48912
+        },
+        {
+          "year": 2,
+          "fee": 48912
+        },
+        {
+          "year": 3,
+          "fee": 48912
+        }
+      ],
+      "totalTuitionFee": 146736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-biotechnology-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Biotechnology (Honours)",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49312,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49312
+        },
+        {
+          "year": 2,
+          "fee": 49312
+        },
+        {
+          "year": 3,
+          "fee": 49312
+        }
+      ],
+      "totalTuitionFee": 147936,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-accounting-and-finance-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Accounting and Finance (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39888,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39888
+        },
+        {
+          "year": 2,
+          "fee": 39888
+        },
+        {
+          "year": 3,
+          "fee": 39888
+        }
+      ],
+      "totalTuitionFee": 119664,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-international-hospitality-management-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of International Hospitality Management (Honours)",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 47448,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47448
+        },
+        {
+          "year": 2,
+          "fee": 47448
+        },
+        {
+          "year": 3,
+          "fee": 47448
+        }
+      ],
+      "totalTuitionFee": 142344,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-international-events-management-honors",
+      "universityId": "taylors",
+      "name": "Bachelor of International Events Management (Honors)",
+      "nameAr": "بكالوريوس في Bachelor of International Events Management (Honors",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44000
+        },
+        {
+          "year": 2,
+          "fee": 44000
+        },
+        {
+          "year": 3,
+          "fee": 44000
+        }
+      ],
+      "totalTuitionFee": 132000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-international-tourism-management-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of International Tourism Management (Honours)",
+      "nameAr": "بكالوريوس في إدارة السياحة والسفر",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44000
+        },
+        {
+          "year": 2,
+          "fee": 44000
+        },
+        {
+          "year": 3,
+          "fee": 44000
+        }
+      ],
+      "totalTuitionFee": 132000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-counselling-coursework",
+      "universityId": "taylors",
+      "name": "Master of Counselling (Coursework)",
+      "nameAr": "ماجستير في Master of Counselling (Coursework",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 34238,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34238
+        },
+        {
+          "year": 2,
+          "fee": 34238
+        }
+      ],
+      "totalTuitionFee": 68476,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-clinical-psychology-coursework",
+      "universityId": "taylors",
+      "name": "Master of Clinical Psychology (Coursework)",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 43068,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43068
+        },
+        {
+          "year": 2,
+          "fee": 43068
+        }
+      ],
+      "totalTuitionFee": 86136,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-social-sciences",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Social Sciences",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Social Sciences",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-american-degree-transfer-program-liberal-arts",
+      "universityId": "taylors",
+      "name": "American Degree Transfer Program (Liberal Arts)",
+      "nameAr": "برنامج في American Degree Transfer Program (Liberal Arts",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11868,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11868
+        },
+        {
+          "year": 2,
+          "fee": 11868
+        },
+        {
+          "year": 3,
+          "fee": 11868
+        },
+        {
+          "year": 4,
+          "fee": 11868
+        }
+      ],
+      "totalTuitionFee": 47472,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-social-science-honours-in-international-relations",
+      "universityId": "taylors",
+      "name": "Bachelor of Social Science (Honours) in International Relations",
+      "nameAr": "بكالوريوس في Bachelor of Social Science (Honours) in International Relations",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44232,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44232
+        },
+        {
+          "year": 2,
+          "fee": 44232
+        },
+        {
+          "year": 3,
+          "fee": 44232
+        }
+      ],
+      "totalTuitionFee": 132696,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-education-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Education (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Education (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39744,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39744
+        },
+        {
+          "year": 2,
+          "fee": 39744
+        },
+        {
+          "year": 3,
+          "fee": 39744
+        }
+      ],
+      "totalTuitionFee": 119232,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-teaching-and-learning-coursework",
+      "universityId": "taylors",
+      "name": "Master of Teaching and Learning (Coursework)",
+      "nameAr": "ماجستير في Master of Teaching and Learning (Coursework",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 28704,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28704
+        }
+      ],
+      "totalTuitionFee": 28704,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-teaching-and-learning-online-degree",
+      "universityId": "taylors",
+      "name": "Master of Teaching and Learning - Online Degree",
+      "nameAr": "ماجستير التعليم والتعلم أونلاين",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 14820,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14820
+        },
+        {
+          "year": 2,
+          "fee": 14820
+        }
+      ],
+      "totalTuitionFee": 29640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-education-research",
+      "universityId": "taylors",
+      "name": "Master of Education (Research)",
+      "nameAr": "ماجستير في Master of Education (Research",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-education",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy In Education",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-early-childhood-education",
+      "universityId": "taylors",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 22352,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22352
+        },
+        {
+          "year": 2,
+          "fee": 22352
+        }
+      ],
+      "totalTuitionFee": 44704,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-education-honours-early-childhood-education",
+      "universityId": "taylors",
+      "name": "Bachelor of Education (Honours) Early Childhood Education",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39744,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39744
+        },
+        {
+          "year": 2,
+          "fee": 39744
+        },
+        {
+          "year": 3,
+          "fee": 39744
+        }
+      ],
+      "totalTuitionFee": 119232,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-education-honours-special-educational-needs",
+      "universityId": "taylors",
+      "name": "Bachelor of Education (Honours) Special Educational Needs",
+      "nameAr": "بكالوريوس في Bachelor of Education (Honours) Special Educational Needs",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39744,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39744
+        },
+        {
+          "year": 2,
+          "fee": 39744
+        },
+        {
+          "year": 3,
+          "fee": 39744
+        }
+      ],
+      "totalTuitionFee": 119232,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-education-honours-teaching-of-english",
+      "universityId": "taylors",
+      "name": "Bachelor of Education (Honours) Teaching of English",
+      "nameAr": "بكالوريوس في Bachelor of Education (Honours) Teaching of English",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39744,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39744
+        },
+        {
+          "year": 2,
+          "fee": 39744
+        },
+        {
+          "year": 3,
+          "fee": 39744
+        }
+      ],
+      "totalTuitionFee": 119232,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-postgraduate-certificate-in-education-online-degree",
+      "universityId": "taylors",
+      "name": "Postgraduate Certificate in Education – Online Degree",
+      "nameAr": "شهادة الدراسات العليا في التربية أونلاين",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 15580,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15580
+        }
+      ],
+      "totalTuitionFee": 15580,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-laws-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Laws (Honours)",
+      "nameAr": "بكالوريوس القانون في Honours",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49500
+        },
+        {
+          "year": 2,
+          "fee": 49500
+        },
+        {
+          "year": 3,
+          "fee": 49500
+        }
+      ],
+      "totalTuitionFee": 148500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-laws-in-healthcare-and-medical-law-coursework",
+      "universityId": "taylors",
+      "name": "Master of Laws in Healthcare and Medical Law (Coursework)",
+      "nameAr": "ماجستير في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 46144,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46144
+        }
+      ],
+      "totalTuitionFee": 46144,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-laws-coursework",
+      "universityId": "taylors",
+      "name": "Master of Laws (Coursework)",
+      "nameAr": "ماجستير في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 46144,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46144
+        }
+      ],
+      "totalTuitionFee": 46144,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-law",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Law",
+      "nameAr": "دكتوراه الفلسفة (PhD) في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17083,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17083
+        },
+        {
+          "year": 2,
+          "fee": 17083
+        },
+        {
+          "year": 3,
+          "fee": 17083
+        }
+      ],
+      "totalTuitionFee": 51249,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-in-philosophy-politics-and-economics-honours",
+      "universityId": "taylors",
+      "name": "Bachelor in Philosophy, Politics, and Economics (Honours)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44128,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44128
+        },
+        {
+          "year": 2,
+          "fee": 44128
+        },
+        {
+          "year": 3,
+          "fee": 44128
+        }
+      ],
+      "totalTuitionFee": 132384,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-laws-in-healthcare-and-medical-law-bridging-module",
+      "universityId": "taylors",
+      "name": "Master of Laws in Healthcare and Medical Law (BRIDGING MODULE)",
+      "nameAr": "ماجستير في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 46144,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46144
+        }
+      ],
+      "totalTuitionFee": 46144,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-interactive-spatial-design-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Interactive Spatial Design (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Interactive Spatial Design (Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46932,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46932
+        },
+        {
+          "year": 2,
+          "fee": 46932
+        },
+        {
+          "year": 3,
+          "fee": 46932
+        }
+      ],
+      "totalTuitionFee": 140796,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-design-honours-in-creative-media",
+      "universityId": "taylors",
+      "name": "Bachelor of Design (Honours) In Creative Media",
+      "nameAr": "بكالوريوس في Bachelor of Design (Honours) In Creative Media",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 45136,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45136
+        },
+        {
+          "year": 2,
+          "fee": 45136
+        },
+        {
+          "year": 3,
+          "fee": 45136
+        }
+      ],
+      "totalTuitionFee": 135408,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-foundation-in-arts",
+      "universityId": "taylors",
+      "name": "Foundation In Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30950,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30950
+        }
+      ],
+      "totalTuitionFee": 30950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-foundation-in-design",
+      "universityId": "taylors",
+      "name": "Foundation in Design",
+      "nameAr": "برنامج تمهيدي في Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30950,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30950
+        }
+      ],
+      "totalTuitionFee": 30950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-interior-design",
+      "universityId": "taylors",
+      "name": "Diploma in Interior Design",
+      "nameAr": "دبلوم في التصميم الداخلي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 29739,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29739
+        },
+        {
+          "year": 2,
+          "fee": 29739
+        }
+      ],
+      "totalTuitionFee": 59478,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-fashion-design-technology-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Fashion Design Technology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Fashion Design Technology (Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42272,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42272
+        },
+        {
+          "year": 2,
+          "fee": 42272
+        },
+        {
+          "year": 3,
+          "fee": 42272
+        }
+      ],
+      "totalTuitionFee": 126816,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-performing-arts-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Performing Arts (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Performing Arts (Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39712,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39712
+        },
+        {
+          "year": 2,
+          "fee": 39712
+        },
+        {
+          "year": 3,
+          "fee": 39712
+        }
+      ],
+      "totalTuitionFee": 119136,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-design-research",
+      "universityId": "taylors",
+      "name": "Master of Design (Research)",
+      "nameAr": "ماجستير في Master of Design (Research",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-design-management",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy In Design Management",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Design Management",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-communication",
+      "universityId": "taylors",
+      "name": "Diploma in Communication",
+      "nameAr": "دبلوم في Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 31156,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31156
+        },
+        {
+          "year": 2,
+          "fee": 31156
+        }
+      ],
+      "totalTuitionFee": 62312,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-mass-communication-honours-in-advertising-and-brand-management",
+      "universityId": "taylors",
+      "name": "Bachelor of Mass Communication (Honours) in Advertising and Brand Management",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42528,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42528
+        },
+        {
+          "year": 2,
+          "fee": 42528
+        },
+        {
+          "year": 3,
+          "fee": 42528
+        }
+      ],
+      "totalTuitionFee": 127584,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-mass-communication-honours-digital-media-production",
+      "universityId": "taylors",
+      "name": "Bachelor of Mass Communication (Honours) Digital Media Production",
+      "nameAr": "بكالوريوس في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42528,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42528
+        },
+        {
+          "year": 2,
+          "fee": 42528
+        },
+        {
+          "year": 3,
+          "fee": 42528
+        }
+      ],
+      "totalTuitionFee": 127584,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-mass-communication-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Mass Communication (Honours)",
+      "nameAr": "بكالوريوس في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 42528,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42528
+        },
+        {
+          "year": 2,
+          "fee": 42528
+        },
+        {
+          "year": 3,
+          "fee": 42528
+        }
+      ],
+      "totalTuitionFee": 127584,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-mass-communication-hons-in-public-relations-and-event-management",
+      "universityId": "taylors",
+      "name": "Bachelor of Mass Communication (Hons) in Public Relations and Event Management",
+      "nameAr": "بكالوريوس في إدارة الفعاليات والمؤتمرات",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44416,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44416
+        },
+        {
+          "year": 2,
+          "fee": 44416
+        },
+        {
+          "year": 3,
+          "fee": 44416
+        }
+      ],
+      "totalTuitionFee": 133248,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-mass-communication-hons-in-public-relations-and-marketing",
+      "universityId": "taylors",
+      "name": "Bachelor of Mass Communication (Hons) in Public Relations and Marketing",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44416,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44416
+        },
+        {
+          "year": 2,
+          "fee": 44416
+        },
+        {
+          "year": 3,
+          "fee": 44416
+        }
+      ],
+      "totalTuitionFee": 133248,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-communication-coursework",
+      "universityId": "taylors",
+      "name": "Master of Communication (Coursework)",
+      "nameAr": "ماجستير في Master of Communication (Coursework",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 33432,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33432
+        }
+      ],
+      "totalTuitionFee": 33432,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-media-and-communication-studies",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy in Media and Communication Studies",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Media and Communication Studies",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        },
+        {
+          "year": 3,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 53760,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-food-studies-and-gastronomy-coursework",
+      "universityId": "taylors",
+      "name": "Master of Food Studies and Gastronomy (Coursework)",
+      "nameAr": "ماجستير في Master of Food Studies and Gastronomy (Coursework",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 46944,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Jun, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46944
+        },
+        {
+          "year": 2,
+          "fee": 46944
+        }
+      ],
+      "totalTuitionFee": 93888,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-master-of-food-studies-research",
+      "universityId": "taylors",
+      "name": "Master of Food Studies (Research)",
+      "nameAr": "ماجستير في Master of Food Studies (Research",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-doctor-of-philosophy-in-food-studies-phd",
+      "universityId": "taylors",
+      "name": "Doctor of Philosophy In Food Studies PhD",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Food Studies PhD",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 17920,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17920
+        },
+        {
+          "year": 2,
+          "fee": 17920
+        }
+      ],
+      "totalTuitionFee": 35840,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-hotel-management",
+      "universityId": "taylors",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 32482,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32482
+        },
+        {
+          "year": 2,
+          "fee": 32482
+        }
+      ],
+      "totalTuitionFee": 64964,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-diploma-in-culinary-arts",
+      "universityId": "taylors",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 36442,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36442
+        },
+        {
+          "year": 2,
+          "fee": 36442
+        }
+      ],
+      "totalTuitionFee": 72884,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-advanced-diploma-in-patisserie-and-gastronomic-cuisine",
+      "universityId": "taylors",
+      "name": "Advanced Diploma in Patisserie and Gastronomic Cuisine",
+      "nameAr": "دبلوم في Advanced Diploma in Patisserie and Gastronomic Cuisine",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 38320,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38320
+        }
+      ],
+      "totalTuitionFee": 38320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-culinary-management-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Culinary Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Culinary Management (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39916,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39916
+        },
+        {
+          "year": 2,
+          "fee": 39916
+        },
+        {
+          "year": 3,
+          "fee": 39916
+        }
+      ],
+      "totalTuitionFee": 119748,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-science-honours-in-culinology",
+      "universityId": "taylors",
+      "name": "Bachelor of Science (Honours) in Culinology",
+      "nameAr": "بكالوريوس العلوم في Honours) in Culinology",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 41736,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41736
+        },
+        {
+          "year": 2,
+          "fee": 41736
+        },
+        {
+          "year": 3,
+          "fee": 41736
+        }
+      ],
+      "totalTuitionFee": 125208,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-bachelor-of-patisserie-arts-honours",
+      "universityId": "taylors",
+      "name": "Bachelor of Patisserie Arts (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Patisserie Arts (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 38264,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38264
+        },
+        {
+          "year": 2,
+          "fee": 38264
+        },
+        {
+          "year": 3,
+          "fee": 38264
+        }
+      ],
+      "totalTuitionFee": 114792,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-cambridge-a-level-3-subjects",
+      "universityId": "taylors",
+      "name": "Cambridge  A Level (3 SUBJECTS)",
+      "nameAr": "برنامج في Cambridge A Level (3 SUBJECTS",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 37806,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37806
+        }
+      ],
+      "totalTuitionFee": 37806,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "taylors-cambridge-a-level-4-subjects",
+      "universityId": "taylors",
+      "name": "Cambridge A Level (4 SUBJECTS)",
+      "nameAr": "برنامج في Cambridge A Level (4 SUBJECTS",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 50409,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50409
+        }
+      ],
+      "totalTuitionFee": 50409,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 130
+}

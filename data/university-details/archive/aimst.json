@@ -1,0 +1,584 @@
+{
+    "id":  "aimst",
+    "name":  "AIMST University",
+    "arabicName":  "جامعة أيمست (AIMST University)",
+    "city":  "Semeling, Kedah",
+    "country":  "malaysia",
+    "logo":  "assets/photo/uni-aimst.webp",
+    "image":  "assets/photo/campus_aimst.webp",
+    "website":  "https://aimst.edu.my/",
+    "ranking":  "Leading Medical, Dental \u0026 Pharmacy Green Campus in Northern Malaysia",
+    "established":  "2001",
+    "campusName":  "AIMST Semeling Mega Medical Campus",
+    "studentCount":  "4,500+ (30+ Countries)",
+    "intakes":  "Mar, Sep, Oct",
+    "feeRangeMin":  16000,
+    "feeRangeMax":  80000,
+    "currency":  "MYR",
+    "description":  "AIMST University is one of the leading recognized higher education institutions located in Semeling, Kedah. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+    "descriptionAr":  "تعتبر جامعة أيمست (AIMST University) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Semeling, Kedah، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+    "about":  {
+                  "id":  "AIMST University (Asian Institute of Medicine, Science and Technology) didirikan pada tahun 2001 di Semeling, Kedah, di atas lahan kampus hijau mandiri seluas 230 hektar. Didirikan oleh Maju Institute of Educational Development (MIED), AIMST merupakan institusi pendidikan tinggi swasta terdepan di Malaysia utara yang berfokus pada Kedokteran (MBBS), Kedokteran Gigi (BDS), Farmasi, Bioteknologi, dan Fisioterapi, dengan rumah sakit pendidikan dan klinik spesialis terpadu.",
+                  "en":  "AIMST University (Asian Institute of Medicine, Science and Technology), founded in 2001 in Semeling, Kedah, spans a self-contained 230-acre eco-campus. Established by the Maju Institute of Educational Development (MIED), AIMST is northern Malaysia’s premier private healthcare institution, renowned for Medicine (MBBS), Dentistry (BDS), Pharmacy, Biotechnology, and Physiotherapy with fully integrated clinical dental clinics and medical training suites.",
+                  "ar":  "تأسست جامعة إيمست (AIMST University) عام 2001 في سيملينغ بولاية قداح على مساحة 230 فداناً من الطبيعة الخضراء. وتعد الصرح الطبي والصحي الخاص الأول في شمال ماليزيا، حيث تتميز عالمياً بتدريس الطب البشري (MBBS)، وجراحة الأسنان (BDS)، والصيدلة، والتقنية الحيوية، والعلاج الطبيعي، وتضم مراكز تدريب وعيادات أسنان تخصصية متكاملة تخدم آلاف المرضى سنوياً.",
+                  "zh":  "亚洲医药与科技大学（AIMST University）创办于2001年，总校坐落于吉打州双溪大年西岭（Semeling），占地230英亩，是一座设施完善的花园式生态大学城。AIMST由马来西亚大型教育发展机构全资创办，是全马北部首屈一指的顶级医学与健康科学学府，在临床医学（MBBS）、口腔牙科外科学（BDS）、药剂学、生物科技领域享有崇高行业声誉。",
+                  "ru":  "Университет AIMST (Азиатский институт медицины, науки и технологий), основанный в 2001 году в Кедахе, расположен на зеленом кампусе площадью 230 акров. Это ведущий частный медицинский вуз на севере Малайзии, специализирующийся на лечебном деле (MBBS), стоматологии (BDS), фармации, биотехнологиях и физиотерапии с собственной клинической базой.",
+                  "fr":  "Fondée en 2001 dans l\u0027État de Kedah sur un campus verdoyant de 230 acres, l\u0027Université AIMST est l\u0027établissement privé de santé de référence dans le nord de la Malaisie. Elle est réputée pour ses formations en médecine (MBBS), chirurgie dentaire (BDS), pharmacie, biotechnologie et kinésithérapie avec des cliniques intégrées.",
+                  "es":  "La Universidad AIMST, fundada en 2001 en Kedah sobre un campus ecológico de 230 acres, es la institución privada de salud líder en el norte de Malasia. Destaca por sus titulaciones en Medicina (MBBS), Odontología (BDS), Farmacia, Biotecnología y Fisioterapia, equipada con clínicas dentales universitarias y centros de simulación.",
+                  "ja":  "AIMST大学（アジア医科工科大学）は2001年にケダ州に設立され、230エーカーの広大な自然に囲まれたエコキャンパスを構えています。マレーシア北部屈指の医療系名門私立大学として、医学（MBBS）、歯学（BDS）、薬学、バイオテクノロジー、理学療法に特化し、学内教育クリニックや先端シミュレーション設備を備えています。",
+                  "ko":  "AIMST 대학교(아시아 의과·과학기술대학교)는 2001년 케다주 세멜링의 230에이커 친환경 캠퍼스에 설립되었습니다. 말레이시아 북부를 대표하는 최정상급 의료·보건 특성화 사립대학으로, 의예과(MBBS), 치의학(BDS), 약학, 생명공학 및 물리치료 분야에서 자체 부속 치과 클리닉과 임상 실습 병원 네트워크를 운영하고 있습니다."
+              },
+    "facilities":  [
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Rumah Sakit Gigi \u0026 Klinik Bedah Mulut Gigi Mandiri AIMST",
+                                         "en":  "AIMST Dedicated Dental Hospital \u0026 Oral Health Surgery Clinics",
+                                         "ar":  "مستشفى وعيادات جراحة وطب الأسنان الجامعي التخصصي في AIMST",
+                                         "ko":  "AIMST 부속 치과종합병원 및 구강악안면외과 전문 클리닉",
+                                         "ja":  "AIMST直属歯科総合病院＆口腔外科専門クリニック",
+                                         "zh":  "AIMST大学直属高规格口腔牙科综合教学医院与颌面外科临床诊疗中心",
+                                         "ru":  "Специализированная стоматологическая больница AIMST и клиники хирургии",
+                                         "fr":  "Hôpital dentaire dédié d\u0027AIMST et cliniques de chirurgie maxillo-faciale",
+                                         "es":  "Hospital odontológico propio de AIMST y clínicas de cirugía oral"
+                                     }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Pusat Keterampilan Klinis Kedokteran \u0026 Lab Simulasi Pasien",
+                                         "en":  "Clinical Skills Medical Centre \u0026 High-Fidelity Simulation Suites",
+                                         "ar":  "مركز المهارات السريرية الطبية وأجنحة المحاكاة عالية الدقة",
+                                         "ko":  "임상 술기 의학 센터 및 고성능 모의 환자 시뮬레이션 랩",
+                                         "ja":  "臨床スキル医療センター＆高精度患者シミュレーション施設",
+                                         "zh":  "临床医疗技能实训大楼与高保真模拟人危重症监护培训中心",
+                                         "ru":  "Центр клинических навыков и высокотехнологичных симуляций",
+                                         "fr":  "Centre de compétences cliniques et salles de simulation haute fidélité",
+                                         "es":  "Centro de habilidades clínicas médicas y simulación de alta fidelidad"
+                                     }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Institut Penelitian Bioteknologi Molekuler \u0026 Farmakogenomik",
+                                         "en":  "Molecular Biotechnology \u0026 Pharmacogenomics Research Complex",
+                                         "ar":  "مجمع أبحاث التقنية الحيوية الجزيئية وعلم الجينوم الصيدلاني المتقدم",
+                                         "ko":  "분자 생명공학 및 약물유전체학 첨단 연구 단지",
+                                         "ja":  "分子バイオテクノロジー＆ファーマコゲノミクス研究コンプレックス",
+                                         "zh":  "分子生物技术重点实验室与药物基因组学微观科研大楼",
+                                         "ru":  "Комплекс молекулярной биотехнологии и фармакогеномики",
+                                         "fr":  "Complexe de recherche en biotechnologie moléculaire et pharmacogénomique",
+                                         "es":  "Complejo de investigación en biotecnología molecular y farmacogenómica"
+                                     }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Kampus Hijau Resor 230 Hektar di Kaki Gunung Jerai yang Sejuk",
+                                         "en":  "Expansive 230-Acre Resort-Style Eco-Campus at Mount Jerai Foothills",
+                                         "ar":  "حرم جامعي طبيعي بمساحة 230 فداناً عند سفوح جبل جيراي الساحر في قدح",
+                                         "ko":  "제라이산 기슭에 펼쳐진 230에이커 규모의 장엄한 리조트형 에코 캠퍼스",
+                                         "ja":  "ジェライ山麓に広がる壮大な230エーカーのリゾート型エコキャンパス",
+                                         "zh":  "依傍著名日莱峰麓（Mount Jerai）占地230英亩开阔秀丽的花园式大学城",
+                                         "ru":  "Масштабный курортный эко-кампус площадью 230 акров у подножия горы Джерай",
+                                         "fr":  "Grand campus écologique de 230 acres au pied du mont Jerai",
+                                         "es":  "Extenso campus ecológico de 230 acres al pie del monte Jerai"
+                                     }
+                       }
+                   ],
+    "highlights":  [
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Pusat Keunggulan Pendidikan Kedokteran Gigi \u0026 Kedokteran (MBBS)",
+                                         "en":  "Premier Centre of Excellence in Dentistry (BDS) \u0026 Medicine (MBBS)",
+                                         "ar":  "مركز التميز الرائد في طب وجراحة الأسنان (BDS) والطب البشري (MBBS)",
+                                         "ko":  "치의학(BDS) 및 의학(MBBS) 분야의 독보적인 최고 명문 센터",
+                                         "ja":  "歯科学（BDS）および医学（MBBS）教育における国内屈指の中核拠点",
+                                         "zh":  "享誉全马的牙科外科学士（BDS）与内外全科医学士（MBBS）旗舰名校",
+                                         "ru":  "Ведущий центр передового опыта в стоматологии (BDS) и медицине (MBBS)",
+                                         "fr":  "Centre d\u0027excellence de référence en dentisterie (BDS) et médecine (MBBS)",
+                                         "es":  "Centro de excelencia líder en odontología (BDS) y medicina (MBBS)"
+                                     },
+                           "desc":  {
+                                        "id":  "Menjadi salah satu sekolah kedokteran gigi swasta terbaik di Asia dengan rumah sakit gigi berkapasitas ratusan kursi.",
+                                        "en":  "One of the finest private dental schools in Asia, operating its own hospital with hundreds of dental clinical chairs.",
+                                        "ar":  "تعد واحدة من أرقى كليات طب الأسنان في آسيا، وتدير مستشفى خاصاً بمئات كراسي المعالجة السنية.",
+                                        "ko":  "수백 대의 치과 임상 체어를 갖춘 자체 대형 치과병원을 운영하는 아시아 최고 수준의 치과대학.",
+                                        "ja":  "数百台の歯科ユニットを備えた直属の歯科教育病院を運営する、アジア屈指の歯科名門校。",
+                                        "zh":  "全亚洲规模最大的私立牙学院之一，拥有配备数百台专业牙椅的现代化教学附属口腔医院。",
+                                        "ru":  "Одна из лучших частных стоматологических школ Азии с собственной больницей на сотни мест.",
+                                        "fr":  "L\u0027une des meilleures facultés dentaires privées d\u0027Asie avec son propre hôpital de centaines de fauteuils.",
+                                        "es":  "Una de las mejores facultades privadas de odontología de Asia, con hospital propio de cientos de sillones."
+                                    }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Akreditasi Dewan Medis \u0026 Dewan Gigi Malaysia (MMC \u0026 MDC)",
+                                         "en":  "Fully Accredited by Malaysian Medical \u0026 Dental Councils (MMC \u0026 MDC)",
+                                         "ar":  "معتمدة بالكامل من المجلس الطبي ومجلس طب الأسنان بماليزيا (MMC وMDC)",
+                                         "ko":  "말레이시아 의학위원회(MMC) 및 치과의학위원회(MDC)의 공식 완전 인가",
+                                         "ja":  "マレーシア医学評議会（MMC）および歯科評議会（MDC）による完全認可",
+                                         "zh":  "获马来西亚医学理事会（MMC）与马来西亚牙医理事会（MDC）最高法定认证",
+                                         "ru":  "Полная аккредитация Медицинским и Стоматологическим советами Малайзии",
+                                         "fr":  "Pleine accréditation par les conseils médicaux et dentaires de Malaisie (MMC \u0026 MDC)",
+                                         "es":  "Plenamente acreditada por los Consejos Médico y Odontológico de Malasia (MMC y MDC)"
+                                     },
+                           "desc":  {
+                                        "id":  "Lulusan diakui penuh untuk berpraktik dan terdaftar di direktori medis dan gigi internasional.",
+                                        "en":  "Graduates are fully recognized for professional medical and dental practice across the Commonwealth and globally.",
+                                        "ar":  "الخريجون معترف بهم بالكامل لمزاولة مهنتي الطب وطب الأسنان في دول الكومنولث والعالم.",
+                                        "ko":  "졸업생은 영연방 국가를 비롯한 전 세계 의료계에서 공인 의료인으로 완벽히 활동 가능.",
+                                        "ja":  "卒業生は英連邦諸国をはじめ世界各国で医師および歯科医師として活躍する資格を保持。",
+                                        "zh":  "毕业生广受英联邦及全球数十个国家医疗主管机构认可，享有直接注册从医的崇高声誉。",
+                                        "ru":  "Выпускники имеют право на врачебную и стоматологическую практику в странах Содружества и в мире.",
+                                        "fr":  "Les diplômés sont reconnus pour exercer la médecine et la dentisterie dans le Commonwealth et le monde entier.",
+                                        "es":  "Los graduados están reconocidos para el ejercicio médico y odontológico en la Commonwealth y a nivel global."
+                                    }
+                       },
+                       {
+                           "icon":  "",
+                           "title":  {
+                                         "id":  "Biaya Pendidikan Kedokteran Gigi \u0026 Kedokteran Paling Terjangkau di Kawasan",
+                                         "en":  "Most Affordable Dentistry \u0026 Medical Degrees in the Region",
+                                         "ar":  "أفضل قيمة وأقل رسوم دراسية لطب الأسنان والطب البشري في جنوب شرق آسيا",
+                                         "ko":  "동남아시아 전역에서 가장 경제적이고 합리적인 치의학 및 의학 등록금",
+                                         "ja":  "東南アジア全域で最もリーズナブルな歯学部＆医学部の学費設定",
+                                         "zh":  "整个东南亚地区收费最为厚道公道且文凭极具含金量的牙医及临床医学专业",
+                                         "ru":  "Самые доступные программы по стоматологии и медицине в регионе",
+                                         "fr":  "Les diplômes de dentisterie et de médecine les plus abordables de la région",
+                                         "es":  "Las carreras de Odontología y Medicina más asequibles de toda la región"
+                                     },
+                           "desc":  {
+                                        "id":  "Memberikan akses pendidikan dokter dan dokter gigi berstandar global dengan biaya yang sangat terjangkau.",
+                                        "en":  "Opening doors to international healthcare education without excessive financial burden.",
+                                        "ar":  "تتيح تحقيق حلم دراسة الطب البشري وطب الأسنان بجودة عالمية وتكلفة لا ترهق ميزانية الأسرة.",
+                                        "ko":  "과도한 학비 부담 없이 세계적 수준의 의사 및 치과의사의 꿈을 실현할 수 있는 기회 제공.",
+                                        "ja":  "過度な学費負担を負うことなく、世界水準の医師・歯科医師を目指せる唯一無二の環境。",
+                                        "zh":  "打破昂贵私立医科收费门槛，圆万千寒窗学子成为国际注册执业医师与牙科专家的崇高梦想。",
+                                        "ru":  "Открывает путь к мировому медицинскому образованию без непомерных финансовых затрат.",
+                                        "fr":  "Rend accessibles les études de médecine et dentisterie de niveau mondial sans surcoût financier.",
+                                        "es":  "Facilita el acceso a la formación médica y odontológica internacional sin sobrecargas económicas."
+                                    }
+                       },
+                       {
+                           "icon":  "️",
+                           "title":  {
+                                         "id":  "Kampus Mandiri Lengkap Bertaraf Resor: Fasilitas Olahraga Olimpiade",
+                                         "en":  "Self-Contained 230-Acre Resort Campus with Olympic Sports Facilities",
+                                         "ar":  "مدينة جامعية مكتفية ذاتياً بمساحة 230 فداناً تضم مرافق رياضية أولمبية ومسابح",
+                                         "ko":  "올림픽 규격 스포츠 설비를 완비한 230에이커 자족형 리조트 스마트 캠퍼스",
+                                         "ja":  "オリンピック規格スポーツ設備を備えた230エーカーの完全自足型リゾートキャンパス",
+                                         "zh":  "占地230英亩全功能自给自足花园大学城：配备奥运标准综合体育中心及泳池",
+                                         "ru":  "Автономный курортный кампус площадью 230 акров с олимпийскими спортивными объектами",
+                                         "fr":  "Campus resort autonome de 230 acres avec installations sportives olympiques",
+                                         "es":  "Campus autosuficiente tipo resort de 230 acres con instalaciones deportivas olímpicas"
+                                     },
+                           "desc":  {
+                                        "id":  "Memiliki asrama di dalam kampus, kolam renang ukuran Olimpiade, lapangan atletik, dan kafetaria lengkap.",
+                                        "en":  "Features on-campus residential halls, Olympic-sized swimming pools, athletics stadiums, and diverse cafeterias.",
+                                        "ar":  "تضم سكناً جامعياً داخلياً، ومسابح بالحجم الأولمبي، واستادات رياضية، ومطاعم متنوعة في بيئة طبيعية نقية.",
+                                        "ko":  "교내 대규모 학생 기숙사, 올림픽 수영장, 육상 트랙 및 다채로운 식당가를 모두 갖춘 청정 환경.",
+                                        "ja":  "学内直営寮、オリンピック規格競泳プール、陸上競技場、多彩な食堂街を内包する理想郷。",
+                                        "zh":  "内建大型学生宿舍楼群、50米标准奥林匹克水上中心、全塑胶田径场及琳琅满目的多元美食广场。",
+                                        "ru":  "Включает общежития, олимпийский бассейн, легкоатлетический стадион и столовые.",
+                                        "fr":  "Comprend des résidences, une piscine olympique, un stade d\u0027athlétisme et des cantines variées.",
+                                        "es":  "Incluye residencias en el campus, piscina olímpica, estadio de atletismo y variados comedores."
+                                    }
+                       }
+                   ],
+    "residences":  [
+                       {
+                           "name":  {
+                                        "id":  "Asrama Residensi Mahasiswa Kampus Hijau AIMST On-Campus Hostels",
+                                        "en":  "AIMST University Official On-Campus Student Residential Hostels",
+                                        "ar":  "السكن الطلابي الجامعي الرسمي الداخلي في حرم جامعة AIMST الخلاب",
+                                        "ko":  "AIMST 대학교 교내 공식 대단지 학생 기숙사 (Hostels)",
+                                        "ja":  "AIMST大学学内公式学生ホステル（寮）群",
+                                        "zh":  "AIMST大学官方校内全封闭花园式学生公寓社区群",
+                                        "ru":  "Официальные студенческие общежития на кампусе AIMST University",
+                                        "fr":  "Résidences étudiantes officielles sur le campus d\u0027AIMST University",
+                                        "es":  "Residencias de estudiantes oficiales en el campus de AIMST University"
+                                    },
+                           "distance":  {
+                                            "id":  "Terletak di Dalam Kampus AIMST (1-2 Menit Jalan Kaki ke Ruang Kuliah)",
+                                            "en":  "Located Inside Campus Grounds (1 to 2-Minute Walk to Dental/Med School)",
+                                            "ar":  "داخل الحرم الجامعي مباشرة (دقيقة إلى دقيقتين سيراً إلى كلية الطب والأسنان)",
+                                            "ko":  "캠퍼스 부지 내 위치 (의대/치대 강의동까지 도보 단 1~2분)",
+                                            "ja":  "キャンパス敷地内に立地（医歯学部講義棟まで徒歩わずか1〜2分）",
+                                            "zh":  "坐落于大学核心区，步行1至2分钟即达牙学院与医学院主教学楼",
+                                            "ru":  "На территории кампуса (1–2 минуты пешком до учебных корпусов)",
+                                            "fr":  "Situé sur le campus (1 à 2 minutes à pied des facultés de médecine et dentisterie)",
+                                            "es":  "Ubicadas en el campus (a 1-2 minutos a pie de las facultades de Medicina y Odontología)"
+                                        },
+                           "priceRange":  "RM 300 - RM 600 / month",
+                           "amenities":  {
+                                             "id":  [
+                                                        "Keamanan Kampus 24 Jam dengan Pintu Gerbang Khusus",
+                                                        "Kamar AC Pilihan \u0026 Single / Twin Sharing dengan Meja Belajar",
+                                                        "Kolam Renang Ukuran Olimpiade \u0026 Fasilitas Olahraga Lengkap",
+                                                        "Kafetaria Mahasiswa Aneka Menu \u0026 Minimarket On-Site",
+                                                        "WiFi Kampus Cepat \u0026 Ruang Belajar Mandiri"
+                                                    ],
+                                             "en":  [
+                                                        "24/7 Guarded Gated Security \u0026 Strict Wardens",
+                                                        "Air-Conditioned Single / Twin Options with Study Furniture",
+                                                        "Access to Olympic-Sized Swimming Pool \u0026 Sports Stadiums",
+                                                        "Diverse Multi-Cuisine Student Cafeterias \u0026 On-Site Grocery",
+                                                        "Fast Campus Internet \u0026 Dedicated Communal Study Lounges"
+                                                    ],
+                                             "ar":  [
+                                                        "حراسة أمنية مشددة وبوابات إلكترونية 24/7",
+                                                        "خيارات غرف فردية وثنائية مكيفة ومؤثثة بمكاتب دراسية",
+                                                        "دخول مجاني للمسبح الأولمبي والملاعب والاستادات الرياضية",
+                                                        "مطاعم كافتيريا طلابية متنوعة ومتاجر بقالة داخل المجمع",
+                                                        "إنترنت سريع وصالات استذكار ومطالعة هادئة"
+                                                    ]
+                                         }
+                       }
+                   ],
+    "livingExpenses":  [
+                           {
+                               "itemKey":  "living_exp_food",
+                               "item":  {
+                                            "id":  "Makan \u0026 Kuliner Harian (Kantin Kampus Murah)",
+                                            "en":  "Food \u0026 Daily Dining (Low Cost Campus Dining)",
+                                            "ar":  "الطعام والمأكولات اليومية (كافتيريا الحرم الاقتصادية)"
+                                        },
+                               "cost":  "RM 400 - RM 700"
+                           },
+                           {
+                               "itemKey":  "living_exp_transport",
+                               "item":  {
+                                            "id":  "Transportasi \u0026 Bus Shuttle Kampus",
+                                            "en":  "Free Campus Shuttle \u0026 Local Transit",
+                                            "ar":  "حافلات الحرم المجانية والمواصلات"
+                                        },
+                               "cost":  "RM 25 - RM 70"
+                           },
+                           {
+                               "itemKey":  "living_exp_utilities",
+                               "item":  {
+                                            "id":  "Utilitas, Listrik \u0026 Internet",
+                                            "en":  "Utilities, Electricity \u0026 WiFi",
+                                            "ar":  "الكهرباء والمياه والإنترنت"
+                                        },
+                               "cost":  "RM 50 - RM 110"
+                           },
+                           {
+                               "itemKey":  "living_exp_personal",
+                               "item":  {
+                                            "id":  "Kebutuhan Pribadi \u0026 Bahan Medis",
+                                            "en":  "Personal Expenses \u0026 Medical Supplies",
+                                            "ar":  "المستلزمات الشخصية والمعدات الطبية"
+                                        },
+                               "cost":  "RM 160 - RM 320"
+                           }
+                       ],
+    "videoUrl":  "https://www.youtube-nocookie.com/embed/2YqCcCxtSOY",
+    "faqs":  [
+                 {
+                     "q":  {
+                               "id":  "Apakah program Kedokteran Gigi (BDS) AIMST memiliki rumah sakit pendidikan sendiri?",
+                               "en":  "Does the AIMST Dentistry (BDS) programme operate its own dental hospital?",
+                               "ar":  "هل يمتلك برنامج طب الأسنان (BDS) في جامعة AIMST مستشفى تعليمياً خاصاً به؟",
+                               "ko":  "AIMST 치의학(BDS) 과정은 자체 직영 치과종합병원을 운영하고 있나요?",
+                               "ja":  "AIMST歯学部（BDS）は直属の歯科教育病院を保有していますか？",
+                               "zh":  "AIMST大学的牙科外科学士（BDS）专业是否拥有完全自主产权的口腔教学医院？",
+                               "ru":  "Имеет ли программа стоматологии (BDS) в AIMST собственную стоматологическую больницу?",
+                               "fr":  "Le programme de dentisterie (BDS) d\u0027AIMST dispose-t-il de son propre hôpital dentaire ?",
+                               "es":  "¿Cuenta el programa de Odontología (BDS) de AIMST con su propio hospital dental?"
+                           },
+                     "a":  {
+                               "id":  "Ya, AIMST memiliki Dental Hospital terbesar di wilayah utara Malaysia dengan ratusan dental chair tempat mahasiswa melayani pasien nyata di bawah bimbingan profesor spesialis.",
+                               "en":  "Yes, AIMST operates the largest specialized Dental Hospital in Northern Malaysia, featuring hundreds of patient chairs where students treat cases under specialist supervision.",
+                               "ar":  "نعم، تمتلك AIMST أضخم مستشفى لطب الأسنان في شمال ماليزيا بمئات كراسي المعالجة حيث يعالج الطلاب المرضى تحت إشراف كبار الاستشاريين.",
+                               "ko":  "네, 말레이시아 북부 최대 규모의 직영 치과종합병원을 운영하며, 수백 대의 유닛 체어에서 전문의 지도 하에 실제 환자 진료 실습을 진행합니다.",
+                               "ja":  "はい、マレーシア北部最大級の直属歯科病院を運営し、数百台のユニットで専門医の指導を受けながら実際の患者の治療実習を行います。",
+                               "zh":  "是的，AIMST拥有马来西亚北部规模最大的直属专科口腔教学医院，配备数百台全数字化牙科综合治疗台，学生在各科权威专家督导下接诊实战病例。",
+                               "ru":  "Да, AIMST управляет крупнейшей стоматологической больницей на севере страны с сотнями кресел для практики.",
+                               "fr":  "Oui, AIMST gère le plus grand hôpital dentaire du nord de la Malaisie avec des centaines de fauteuils pour la pratique clinique.",
+                               "es":  "Sí, AIMST opera el mayor hospital odontológico del norte de Malasia con cientos de sillones para prácticas clínicas reales."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa biaya kuliah Kedokteran Gigi (BDS) dan Kedokteran (MBBS) di AIMST?",
+                               "en":  "What are the tuition fees for Dentistry (BDS) and Medicine (MBBS) at AIMST?",
+                               "ar":  "كم تبلغ تكاليف ورسوم دراسة طب الأسنان (BDS) والطب البشري (MBBS) في AIMST؟",
+                               "ko":  "AIMST의 치의학(BDS) 및 의학(MBBS) 5년 정규 학비는 얼마인가요?",
+                               "ja":  "AIMSTの歯学部（BDS）および医学部（MBBS）の学費はどれくらいですか？",
+                               "zh":  "在AIMST大学攻读牙科外科学士（BDS）及内外全科医学士（MBBS）的全套学费大约是多少？",
+                               "ru":  "Какова стоимость обучения на стоматологии (BDS) и медицине (MBBS) в AIMST?",
+                               "fr":  "Quels sont les frais de scolarité en dentisterie (BDS) et médecine (MBBS) à AIMST ?",
+                               "es":  "¿Cuáles son las tarifas de matrícula para Odontología (BDS) y Medicina (MBBS) en AIMST?"
+                           },
+                     "a":  {
+                               "id":  "Kedokteran Gigi (BDS 5 tahun) sekitar $75.000 USD total. Kedokteran (MBBS 5 tahun) sekitar $68.000 USD total, menjadikannya salah satu yang paling terjangkau di Asia.",
+                               "en":  "Dentistry (5-year BDS) is approx $75,000 USD total. Medicine (5-year MBBS) is approx $68,000 USD total, making them among the most competitive in Asia.",
+                               "ar":  "طب الأسنان (5 سنوات) حوالي 75,000 دولار إجمالي، والطب البشري (5 سنوات) حوالي 68,000 دولار إجمالي، وهي التكلفة الأكثر تنافسية في آسيا.",
+                               "ko":  "치의학(5년제 BDS)은 총 약 75,000 달러, 의학(5년제 MBBS)은 총 약 68,000 달러로 아시아 전역에서 가장 가성비가 뛰어납니다.",
+                               "ja":  "歯学部（5年制BDS）は総額約75,000米ドル、医学部（5年制MBBS）は総額約68,000米ドルと、アジア屈指の良心的な設定です。",
+                               "zh":  "牙科外科学士（5年制BDS）全程总学费约75,000美元；临床医学士（5年制MBBS）全程总学费约68,000美元，放眼全亚同类顶尖医学院极具资金优势。",
+                               "ru":  "Стоматология (BDS 5 лет) — около 75 000 $; медицина (MBBS 5 лет) — около 68 000 $ за весь курс.",
+                               "fr":  "Dentisterie (BDS 5 ans) : environ 75 000 $ au total ; médecine (MBBS 5 ans) : environ 68 000 $ au total, parmi les plus abordables d\u0027Asie.",
+                               "es":  "Odontología (BDS 5 años): unos 75.000 $ en total; Medicina (MBBS 5 años): unos 68.000 $ en total, las más competitivas de Asia."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa biaya sewa akomodasi asrama mahasiswa di kampus AIMST?",
+                               "en":  "What are the on-campus student accommodation rates at AIMST?",
+                               "ar":  "كم تبلغ تكاليف السكن الجامعي الداخلي للطلاب في حرم AIMST؟",
+                               "ko":  "AIMST 교내 학생 기숙사의 월 이용료는 얼마인가요?",
+                               "ja":  "AIMSTの学内直営寮の費用相場はどれくらいですか？",
+                               "zh":  "入住AIMST大学校内花园学生公寓的月度房费开支是多少？",
+                               "ru":  "Каковы цены на проживание в общежитиях на кампусе AIMST?",
+                               "fr":  "Quels sont les tarifs du logement étudiant sur le campus d\u0027AIMST ?",
+                               "es":  "¿Cuáles son los precios del alojamiento para estudiantes en el campus de AIMST?"
+                           },
+                     "a":  {
+                               "id":  "Sangat terjangkau: berkisar antara RM 300 hingga RM 600 per bulan tergantung pilihan kamar (twin sharing atau single room dengan AC), di dalam kawasan kampus aman dengan keamanan 24 jam.",
+                               "en":  "Extremely economical: ranging from RM 300 to RM 600 per month depending on room type (twin sharing or single AC), within a safe 24/7 guarded township.",
+                               "ar":  "اقتصادية للغاية: تتراوح بين 300 إلى 600 رينجيت شهرياً حسب نوع الغرفة (ثنائية مشتركة أو فردية مكيفة)، داخل حرم مسور وآمن 24 ساعة.",
+                               "ko":  "월 RM 300~600 선으로 극도로 저렴하며, 에어컨 완비 1인실 또는 2인실 선택 가능 및 24시간 삼엄한 보안 체계 완비.",
+                               "ja":  "月額RM 300〜600と非常に安価で、相部屋またはエアコン付き個室を選べ、24時間ガードマン常駐の安全な環境です。",
+                               "zh":  "极为实惠：按房型（双人合租或独立空调单间），月租仅需300至600马币，全封闭式安全管理，配专职保安24小时巡逻。",
+                               "ru":  "Очень выгодно: от 300 до 600 ринггитов в месяц (2-местные или одноместные с кондиционером) с охраной 24/7.",
+                               "fr":  "Très économique : de 300 à 600 RM par mois selon la chambre (partagée ou individuelle climatisée), dans un campus sécurisé 24h/24.",
+                               "es":  "Muy asequible: entre 300 y 600 RM al mes según la habitación, en un recinto cerrado y protegido 24 horas."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Berapa syarat skor IELTS untuk mendaftar program Kedokteran Gigi \u0026 Medis di AIMST?",
+                               "en":  "What are the required IELTS scores for Dentistry and Medicine at AIMST?",
+                               "ar":  "ما هي متطلبات درجة اختبار IELTS للقبول في طب الأسنان والطب البشري في AIMST؟",
+                               "ko":  "AIMST 치의학 및 의예과 입학을 위한 IELTS 성적 기준은 무엇인가요?",
+                               "ja":  "AIMSTの歯学部および医学部出願に必要なIELTSスコアは？",
+                               "zh":  "报考AIMST大学牙科学及临床医学专业需要满足怎样的雅思（IELTS）硬性指标？",
+                               "ru":  "Каковы требования по IELTS для стоматологии и медицины в AIMST?",
+                               "fr":  "Quelles sont les exigences d\u0027IELTS pour la dentisterie et la médecine à AIMST ?",
+                               "es":  "¿Qué puntuación de IELTS se exige para Odontología y Medicina en AIMST?"
+                           },
+                     "a":  {
+                               "id":  "Untuk program Kedokteran Gigi (BDS) dan Kedokteran (MBBS), pelamar memerlukan skor IELTS minimal 6.5 (dengan tidak ada band di bawah 6.0). Program Farmasi dan Bioteknologi memerlukan IELTS 5.5 - 6.0.",
+                               "en":  "Dentistry (BDS) and Medicine (MBBS) require an IELTS score of 6.5 minimum (no component under 6.0). Pharmacy and Biotech require IELTS 5.5 to 6.0.",
+                               "ar":  "لطب الأسنان والطب البشري، يُشترط الحصول على IELTS 6.5 كحد أدنى (بما لا يقل عن 6.0 في كل مهارة). أما الصيدلة والتقنية الحيوية فتتطلب 5.5 إلى 6.0.",
+                               "ko":  "치의학(BDS)과 의학(MBBS)은 최소 IELTS 6.5(전 영역 6.0 이상)가 필수이며, 약학 및 생명공학은 IELTS 5.5~6.0이 필요합니다.",
+                               "ja":  "歯学科（BDS）および医学科（MBBS）はIELTS 6.5以上（各セクション6.0以上）が必須です。薬学およびバイオは5.5〜6.0が必要です。",
+                               "zh":  "牙科外科学士（BDS）与内外全科医学士（MBBS）要求雅思总分不低于6.5分（各单项不低于6.0分）；药剂学及生物技术专业要求雅思5.5至6.0分。",
+                               "ru":  "Для стоматологии и медицины требуется IELTS от 6.5 (не ниже 6.0 в каждом блоке). Для фармации и биотеха — 5.5–6.0.",
+                               "fr":  "La dentisterie (BDS) et la médecine (MBBS) demandent au moins 6.5 à l\u0027IELTS (minimum 6.0 par épreuve). La pharmacie demande 5.5 à 6.0.",
+                               "es":  "Odontología (BDS) y Medicina (MBBS) exigen al menos 6.5 de IELTS (mínimo 6.0 por destreza). Farmacia y Biotecnología piden 5.5 a 6.0."
+                           }
+                 },
+                 {
+                     "q":  {
+                               "id":  "Kapan bulan intake pendaftaran mahasiswa baru di AIMST?",
+                               "en":  "When are the major intake periods open at AIMST University?",
+                               "ar":  "ما هي فصول ومواعيد استقبال الطلاب الجدد في جامعة AIMST؟",
+                               "ko":  "AIMST 대학교의 주요 신입생 모집 시기는 언제인가요?",
+                               "ja":  "AIMST大学の主要な入学時期（インテイク）はいつですか？",
+                               "zh":  "AIMST大学全年的主要招生开学批次都在哪些月份？",
+                               "ru":  "В какие месяцы проходит прием новых студентов в AIMST?",
+                               "fr":  "Quelles sont les périodes de rentrée principales à AIMST University ?",
+                               "es":  "¿Cuáles son los periodos de admisión en AIMST University?"
+                           },
+                     "a":  {
+                               "id":  "Intake utama untuk Kedokteran Gigi (BDS) dan Kedokteran (MBBS) adalah pada bulan September/Oktober. Program lain seperti Bisnis, IT, dan Foundation juga membuka intake pada bulan April dan Juli.",
+                               "en":  "Primary intakes for Dentistry (BDS) and Medicine (MBBS) occur in September/October. Other programmes also offer intakes in April and July.",
+                               "ar":  "مواعيد القبول الرئيسية لطب الأسنان والطب البشري تكون في شهري سبتمبر وأكتوبر. كما تتوفر فترات قبول في أبريل ويوليو للتخصصات الأخرى والسنة التمهيدية.",
+                               "ko":  "치의학(BDS) 및 의학(MBBS)의 정규 입학은 매년 9월/10월에 열립니다. 경영, IT 및 파운데이션은 4월과 7월에도 입학 가능합니다.",
+                               "ja":  "歯学科（BDS）および医学科（MBBS）の主要入学期は毎年9月／10月です。ビジネスやIT、ファウンデーションは4月や7月にも開講されます。",
+                               "zh":  "牙科外科学士及临床医学士的旗舰开学批次为每年9月/10月；商科、IT技术及大学预科在每年4月与7月亦开设有开学通道。",
+                               "ru":  "Основные наборы на стоматологию и медицину проходят в сентябре/октябре. Другие программы стартуют также в апреле и июле.",
+                               "fr":  "Les rentrées pour la dentisterie et la médecine ont lieu en septembre/octobre. D\u0027autres cursus ouvrent aussi en avril et juillet.",
+                               "es":  "Las admisiones para Odontología y Medicina son en septiembre/octubre. Otras carreras abren también en abril y julio."
+                           }
+                 }
+             ],
+    "articlesTab":  [
+                        {
+                            "readTime":  "6 min",
+                            "title":  {
+                                          "id":  "Panduan Lengkap Kedokteran Gigi di AIMST: Rumah Sakit Sendiri, Syarat \u0026 Biaya",
+                                          "en":  "Complete Guide to Dentistry at AIMST: Hospital Facilities, Admissions \u0026 Fees",
+                                          "ar":  "الدليل الكامل لدراسة طب الأسنان في AIMST: المستشفى الجامعي، الشروط والرسوم",
+                                          "ko":  "AIMST 치과대학 완벽 분석: 대형 직영 치과병원, 입학 요건 및 학비 가이드",
+                                          "ja":  "AIMST歯学部完全ガイド：直属歯科病院、出願要件、学費まとめ",
+                                          "zh":  "AIMST牙科医学深度全景指南：直属大型口腔教学医院实训、录取硬指标与学费全盘剖析",
+                                          "ru":  "Полный гид по стоматологии в AIMST: собственная больница, требования и стоимость",
+                                          "fr":  "Guide complet pour étudier la dentisterie à AIMST : hôpital dédié, critères et frais",
+                                          "es":  "Guía completa de Odontología en AIMST: hospital propio, requisitos y costes"
+                                      },
+                            "summary":  {
+                                            "id":  "Eksplorasi rumah sakit gigi terbesar, ratusan dental chair, akreditasi MDC, dan praktik menangani pasien nyata.",
+                                            "en":  "Explore Northern Malaysia’s premier dental hospital, clinical chair capacities, MDC accreditation, and patient immersion.",
+                                            "ar":  "استكشف أضخم مستشفى لطب الأسنان، ومئات كراسي المعالجة، واعتماد MDC والممارسة الإكلينيكية الحقيقية مع المرضى.",
+                                            "ko":  "말레이시아 북부 최고 치과병원 시설, 수백 대의 유닛 체어, MDC 공식 인가 및 실전 임상 수련 프로세스.",
+                                            "ja":  "北部最大の歯科病院、数百台のユニット、MDC認定、豊富な臨床症例を扱う実践教育を徹底検証。",
+                                            "zh":  "实地探秘大马北部顶级口腔医院硬件设施、上百台先进诊疗牙椅、国家MDC认证及真实接诊实训体系。",
+                                            "ru":  "Обзор стоматологической больницы, сотен кресел, аккредитации MDC и клинической практики с пациентами.",
+                                            "fr":  "Découverte du grand hôpital dentaire, des centaines de fauteuils, de l\u0027accréditation MDC et de la pratique clinique.",
+                                            "es":  "Descubre el hospital odontológico más grande, cientos de sillones, acreditación MDC y prácticas con pacientes reales."
+                                        }
+                        },
+                        {
+                            "readTime":  "5 min",
+                            "title":  {
+                                          "id":  "Kehidupan di Kampus Resor 230 Hektar di Kedah: Sejuk, Bersih \u0026 Hemat",
+                                          "en":  "Living on a 230-Acre Resort Eco-Campus in Kedah: Clean, Scenic \u0026 Affordable",
+                                          "ar":  "الحياة في الحرم الجامعي بمساحة 230 فداناً في قدح: طبيعة جبلية نقية وتكاليف زهيدة",
+                                          "ko":  "케다 230에이커 리조트 에코 캠퍼스 라이프: 맑은 공기, 수려한 풍경과 초저렴 생활비",
+                                          "ja":  "ケダ州230エーカーのリゾートキャンパス：澄んだ空気、壮大な自然、破格の低生活費",
+                                          "zh":  "吉打230英亩度假村式绿色生态学府生活记：背倚日莱峰、山青水秀与极为低廉的生活开销",
+                                          "ru":  "Жизнь на курортном эко-кампусе площадью 230 акров в Кедахе: чистота, природа и доступность",
+                                          "fr":  "Vivre sur un campus resort écologique de 230 acres à Kedah : air pur, verdure et économies",
+                                          "es":  "Vivir en un campus resort ecológico de 230 acres en Kedah: aire puro, naturaleza y ahorro"
+                                      },
+                            "summary":  {
+                                            "id":  "Panduan anggaran hidup bulanan RM 700 - RM 900, kolam renang Olimpiade, dan ketenangan belajar di bawah Gunung Jerai.",
+                                            "en":  "Monthly budget guide of RM 700 - RM 900, Olympic swimming pool recreation, and serene focus beneath Mount Jerai.",
+                                            "ar":  "دليل ميزانية شهرية بين 700 إلى 900 رينجيت، والسباحة في المسابح الأولمبية، والهدوء الأكاديمي تحت جبل جيراي.",
+                                            "ko":  "월 RM 700~900의 알뜰 생활비, 올림픽 규격 수영장 레저 및 제라이산 아래에서의 쾌적한 학업 몰입 환경.",
+                                            "ja":  "月額RM 700〜900の生活費、オリンピックプールでのリフレッシュ、ジェライ山を望む抜群の学習環境。",
+                                            "zh":  "月均综合支出仅需700至900马币的超高幸福感生活、奥林匹克恒温泳池日常锻炼及日莱峰下的治学圣地。",
+                                            "ru":  "Бюджет 700–900 ринггитов в месяц, олимпийский бассейн и умиротворенная учеба у подножия горы.",
+                                            "fr":  "Budget de 700 à 900 RM par mois, piscine olympique et sérénité au pied du mont Jerai.",
+                                            "es":  "Presupuesto de 700 a 900 RM al mes, piscina olímpica y máxima serenidad al pie del monte Jerai."
+                                        }
+                        },
+                        {
+                            "readTime":  "4 min",
+                            "title":  {
+                                          "id":  "Bioteknologi Molekuler di AIMST: Peluang Karier di Industri Farmasi Global",
+                                          "en":  "Molecular Biotechnology at AIMST: Fast-Tracking into Global Pharma Careers",
+                                          "ar":  "التقنية الحيوية الجزيئية في AIMST: بوابتك السريعة لمهن الأدوية العالمية",
+                                          "ko":  "AIMST 분자 생명공학: 글로벌 다국적 제약 바이오 산업 진출 패스웨이",
+                                          "ja":  "AIMST分子バイオテクノロジー：世界的大手製薬企業へのキャリアパス",
+                                          "zh":  "AIMST分子生物技术与制药科学：直通全球跨国药企高薪研发职场的金色跳板",
+                                          "ru":  "Молекулярная биотехнология в AIMST: старт карьеры в мировой фармацевтике",
+                                          "fr":  "La biotechnologie moléculaire à AIMST : tremplin vers l\u0027industrie pharmaceutique mondiale",
+                                          "es":  "Biotecnología Molecular en AIMST: puerta de entrada a la industria farmacéutica global"
+                                      },
+                            "summary":  {
+                                            "id":  "Fasilitas riset bioteknologi terapan, penempatan magang di laboratorium riset terkemuka, dan karier biofarma.",
+                                            "en":  "Applied biotechnology labs, research internships in leading institutes, and careers in biopharmaceutical manufacturing.",
+                                            "ar":  "مختبرات التقنية الحيوية التطبيقية، وفترات التدريب في كبرى مراكز الأبحاث وشركات التصنيع الدوائي.",
+                                            "ko":  "첨단 생명공학 연구실, 유명 바이오 연구소 인턴십 연계 및 바이오의약품 제조 기업 취업 경로.",
+                                            "ja":  "応用バイオ研究室、主要研究機関でのインターンシップ、バイオ医薬品製造業界でのキャリアを解説。",
+                                            "zh":  "先进分子生物学仪器平台、国内外知名药物研究院所定向实训及生物制药高新技术产业就业通道。",
+                                            "ru":  "Лаборатории прикладного биотеха, научные стажировки и карьера в биофармацевтике.",
+                                            "fr":  "Laboratoires de recherche de pointe, stages dans des instituts renommés et carrières en biopharmacie.",
+                                            "es":  "Laboratorios de biotecnología aplicada, prácticas en centros de investigación y salidas en la industria biofarmacéutica."
+                                        }
+                        }
+                    ],
+    "summaryFeeTable":  [
+                            {
+                                "faculty":  {
+                                                "id":  "Kedokteran Gigi (Bachelor of Dental Surgery BDS)",
+                                                "en":  "Dental Surgery (BDS 5-Year Professional)",
+                                                "ar":  "طب وجراحة الأسنان (بكالوريوس BDS لمدة 5 سنوات)",
+                                                "ko":  "치의학 및 치과외과학사 (BDS 5년 정규 학위)",
+                                                "ja":  "歯学部・歯科外科学士（BDS 5年制正規学位）",
+                                                "zh":  "牙科外科学士（BDS 5年制，获MDC与国际认证）",
+                                                "ru":  "Стоматологическая хирургия (BDS, 5 лет)",
+                                                "fr":  "Chirurgie dentaire (BDS 5 ans)",
+                                                "es":  "Cirugía Dental (BDS de 5 años)"
+                                            },
+                                "degree":  "Bachelor of Dental Surgery (MDC Accredited)",
+                                "duration":  "5 Years",
+                                "feeUSD":  "$72,000 - $78,000 Total",
+                                "ielts":  "6.5"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Kedokteran \u0026 Bedah (Bachelor of Medicine MBBS)",
+                                                "en":  "Medicine \u0026 Surgery (MBBS 5-Year Professional)",
+                                                "ar":  "الطب البشري والجراحة (بكالوريوس MBBS لمدة 5 سنوات)",
+                                                "ko":  "의학 및 외과학사 (MBBS 5년 정규 의과 학위)",
+                                                "ja":  "医学部・外科学士（MBBS 5年制正規医学位）",
+                                                "zh":  "内外全科医学士（MBBS 5年制，获MMC与WDOMS认证）",
+                                                "ru":  "Лечебное дело и хирургия (MBBS, 5 лет)",
+                                                "fr":  "Médecine et chirurgie (MBBS 5 ans)",
+                                                "es":  "Medicina y Cirugía (MBBS de 5 años)"
+                                            },
+                                "degree":  "Bachelor Degree (MMC \u0026 WDOMS Accredited)",
+                                "duration":  "5 Years",
+                                "feeUSD":  "$65,000 - $70,000 Total",
+                                "ielts":  "6.5"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Farmasi (Bachelor of Pharmacy Hons)",
+                                                "en":  "Pharmacy (BPharm Hons)",
+                                                "ar":  "الصيدلة (بكالوريوس الصيدلة مع مرتبة الشرف)",
+                                                "ko":  "약학 학사 (BPharm Hons)",
+                                                "ja":  "薬学部・薬学士（栄誉学位）",
+                                                "zh":  "药剂学荣誉学士学位（BPharm Hons）",
+                                                "ru":  "Фармация (с отличием)",
+                                                "fr":  "Pharmacie (avec mention)",
+                                                "es":  "Farmacia (con honores)"
+                                            },
+                                "degree":  "Bachelor Degree",
+                                "duration":  "4 Years",
+                                "feeUSD":  "$23,500 - $27,000 Total",
+                                "ielts":  "6.0"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Bioteknologi Molekuler \u0026 Sains Terapan",
+                                                "en":  "Biotechnology \u0026 Applied Molecular Science",
+                                                "ar":  "التقنية الحيوية الجزيئية والعلوم التطبيقية",
+                                                "ko":  "생명공학 및 응용 분자과학부",
+                                                "ja":  "バイオテクノロジー＆応用分子科学部",
+                                                "zh":  "生物技术与应用分子科学学院",
+                                                "ru":  "Биотехнология и прикладные молекулярные науки",
+                                                "fr":  "Biotechnologie et sciences moléculaires appliquées",
+                                                "es":  "Biotecnología y Ciencias Moleculares Aplicadas"
+                                            },
+                                "degree":  "Bachelor of Science (Hons)",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$12,500 - $15,000 Total",
+                                "ielts":  "5.5"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Ilmu Komputer, Rekayasa Perangkat Lunak \u0026 Bisnis",
+                                                "en":  "Computer Science, Software Engineering \u0026 Business",
+                                                "ar":  "علوم الحاسوب وهندسة البرمجيات وإدارة الأعمال",
+                                                "ko":  "컴퓨터 과학, 소프트웨어 공학 및 경영학부",
+                                                "ja":  "コンピュータサイエンス・ソフトウェア工学＆ビジネス",
+                                                "zh":  "计算机科学、软件工程与商业管理学院",
+                                                "ru":  "Компьютерные науки, инженерия ПО и бизнес",
+                                                "fr":  "Informatique, génie logiciel et commerce",
+                                                "es":  "Ciencias de la Computación, Software y Negocios"
+                                            },
+                                "degree":  "Bachelor Degree",
+                                "duration":  "3 Years",
+                                "feeUSD":  "$11,000 - $13,500 Total",
+                                "ielts":  "5.0"
+                            },
+                            {
+                                "faculty":  {
+                                                "id":  "Foundation in Science (Jalur Kedokteran Gigi \u0026 Kedokteran)",
+                                                "en":  "Foundation in Science (Medical/Dental Track)",
+                                                "ar":  "السنة التمهيدية في العلوم (المسار الطبي وطب الأسنان)",
+                                                "ko":  "이과 파운데이션 (의대/치대 진학 전문 트랙)",
+                                                "ja":  "理系ファウンデーション（医学・歯学進学コース）",
+                                                "zh":  "理科基础预科文凭课程（直通牙医与临床医学）",
+                                                "ru":  "Подготовительный курс (Foundation) по наукам (медицинский/стоматологический)",
+                                                "fr":  "Année préparatoire en sciences (filière médicale/dentaire)",
+                                                "es":  "Fundamentos en Ciencias (Vía Médica/Odontológica)"
+                                            },
+                                "degree":  "Pre-University / Foundation",
+                                "duration":  "1 Year",
+                                "feeUSD":  "$3,800 - $4,500 Total",
+                                "ielts":  "5.0"
+                            }
+                        ],
+    "directWatchUrl":  null
+}

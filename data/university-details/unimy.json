@@ -1,0 +1,1123 @@
+{
+  "id": "unimy",
+  "name": "University Malaysia of Computer Science & Engineering (UNIMY)",
+  "arabicName": "جامعة ماليزيا لعلوم الحاسوب والهندسة (UNIMY)",
+  "city": "Cyberjaya, Selangor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-unimy.webp",
+  "image": "assets/photo/campus_unimy.webp",
+  "website": "https://www.unimy.edu.my/",
+  "ranking": "Boutique Technology University specialized in AI, Big Data & Cybersecurity",
+  "established": "2012",
+  "campusName": "UNIMY Tech Campus, Cyberjaya",
+  "studentCount": "2,000+ (30+ Countries)",
+  "intakes": "Jan, May, Sep",
+  "feeRangeMin": 11933,
+  "feeRangeMax": 30000,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/1PhsJV6TM0w",
+  "description": "University Malaysia of Computer Science & Engineering (UNIMY) is one of the leading recognized higher education institutions located in Cyberjaya, Selangor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة ماليزيا لعلوم الحاسوب والهندسة (UNIMY) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Cyberjaya, Selangor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "University Malaysia of Computer Science & Engineering (UNIMY) didirikan pada tahun 2012 di Cyberjaya, ibu kota teknologi Malaysia. UNIMY merupakan universitas butik teknologi yang berfokus pada AI, Keamanan Siber, Big Data, dan Rekayasa Perangkat Lunak.",
+    "en": "University Malaysia of Computer Science & Engineering (UNIMY), founded in 2012 in Cyberjaya, is Malaysia’s specialized boutique digital technology university, excelling in AI, Cybersecurity, Big Data, and Game Development.",
+    "ar": "تأسست جامعة ماليزيا لعلوم الحاسب والهندسة (UNIMY) عام 2012 في سايبرجايا، عاصمة التكنولوجيا الماليزية، وتتخصص في الذكاء الاصطناعي، والأمن السيبراني، والحوسبة السحابية، وتطوير الألعاب.",
+    "zh": "马来西亚计算机科学与工程大学（UNIMY）创办于2012年，坐落于马来西亚硅谷赛城（Cyberjaya），是一所专注于人工智能、网络安全、大数据与游戏开发的高端数字科技大学。",
+    "ru": "Малайзийский университет компьютерных наук и инженерии (UNIMY) в Киберджае — специализированный IT-вуз в области ИИ, кибербезопасности и разработки ПО.",
+    "fr": "L'UNIMY, fondée en 2012 à Cyberjaya, est une université spécialisée dans l'intelligence artificielle, la cybersécurité et l'ingénierie logicielle.",
+    "es": "La UNIMY, fundada en 2012 en Cyberjaya, es una universidad tecnológica especializada en inteligencia artificial, ciberseguridad y desarrollo de software.",
+    "ja": "マレーシア・コンピュータサイエンス工科大学（UNIMY）はサイバージャヤに位置し、AI、サイバーセキュリティ、ゲーム開発に特化したブティック工科大学です。",
+    "ko": "말레이시아 컴퓨터공학 대학교(UNIMY)는 말레이시아의 실리콘밸리 사이버자야에 위치한 디지털 IT 특성화 대학으로 AI, 정보보안, 빅데이터 분야에 집중하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "shield",
+      "title": {
+        "id": "Pusat Operasi Keamanan Siber (SOC) & Lab Forensik Digital",
+        "en": "Cybersecurity Operations Centre (SOC) & Digital Forensics Labs",
+        "ar": "مركز عمليات الأمن السيبراني (SOC) ومختبرات الأدلة الجنائية الرقمية",
+        "ko": "사이버 보안 관제 센터(SOC) 및 디지털 포렌식 전문 실험실",
+        "ja": "サイバーセキュリティ・オペレーションセンター（SOC）＆デジタルフォレンジック実習室",
+        "zh": "网络空间安全应急运营响应中心（SOC）与电子数据数字取证实验室",
+        "ru": "Центр управления кибербезопасностью (SOC) и лаборатория цифровой криминалистики",
+        "fr": "Centre d'opérations de sécurité (SOC) et laboratoires de criminalistique numérique",
+        "es": "Centro de Operaciones de Ciberseguridad (SOC) y laboratorios forenses digitales"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Studio Pengembangan Game Interaktif & Motion Capture VR/AR",
+        "en": "Game Development Studios & Motion Capture VR/AR XR Suites",
+        "ar": "استوديوهات تطوير ألعاب الفيديو والتقاط الحركة والواقع الافتراضي XR",
+        "ko": "인터랙티브 게임 개발 스튜디오 및 모션 캡처 VR/AR XR 융합 실습실",
+        "ja": "インタラクティブ・ゲーム開発スタジオ＆モーションキャプチャVR/AR XR施設",
+        "zh": "沉浸式互动游戏开发引擎实训工坊与高精度动作捕捉VR/AR扩展现实中心",
+        "ru": "Студии разработки видеоигр и захвата движения (MoCap) VR/AR",
+        "fr": "Studios de développement de jeux vidéo et capture de mouvement VR/AR",
+        "es": "Estudios de desarrollo de videojuegos y captura de movimiento VR/AR"
+      }
+    },
+    {
+      "icon": "ai",
+      "title": {
+        "id": "Laboratorium Rekayasa Robotika, IoT & Kecerdasan Buatan Terapan",
+        "en": "Robotics Engineering, IoT & Applied Artificial Intelligence Labs",
+        "ar": "مختبرات هندسة الروبوتات وإنترنت الأشياء (IoT) والذكاء الاصطناعي التطبيقي",
+        "ko": "로봇 공학, 사물인터넷(IoT) 및 응용 인공지능(AI) 첨단 랩",
+        "ja": "ロボティクス工学・IoT＆応用人工知能（AI）研究開発ラボ",
+        "zh": "智能机器人工程、物联网系统集成（IoT）与应用型人工智能实验室",
+        "ru": "Лаборатории робототехники, Интернета вещей (IoT) и прикладного ИИ",
+        "fr": "Laboratoires de robotique, d'IoT et d'intelligence artificielle appliquée",
+        "es": "Laboratorios de robótica, IoT e inteligencia artificial aplicada"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Pusat Analitik Big Data & Rekayasa Perangkat Lunak Cloud Native",
+        "en": "Big Data Analytics & Cloud-Native Software Engineering Suites",
+        "ar": "أجنحة تحليلات البيانات الضخمة وهندسة البرمجيات السحابية الأصلية",
+        "ko": "빅데이터 분석 및 클라우드 네이티브 소프트웨어 엔지니어링 스위트",
+        "ja": "ビッグデータ分析＆クラウドネイティブ・ソフトウェアエンジニアリング施設",
+        "zh": "海量大数据实时分析中心与云原生微服务软件工程综合实战基地",
+        "ru": "Комплекс аналитики больших данных и облачной инженерии ПО",
+        "fr": "Suites d'analyse de mégadonnées et de génie logiciel cloud-native",
+        "es": "Suites de análisis de Big Data e ingeniería de software en la nube"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Universitas Butik Khusus Ilmu Komputer & Rekayasa Teknologi Cyberjaya",
+        "en": "Premier Boutique Digital Technology & Computing University in Cyberjaya",
+        "ar": "الجامعة الرقمية المتخصصة الرائدة في علوم الحاسوب وهندسة التكنولوجيا بسايبرجايا",
+        "ko": "사이버자야에 위치한 프리미엄 부티크 컴퓨터 과학 및 디지털 테크 전문 대학",
+        "ja": "サイバージャヤに位置するコンピュータ科学＆デジタルテクノロジー専門大学",
+        "zh": "坐落于马来西亚硅谷“赛城”的高端精品计算机与数字科技专门大学",
+        "ru": "Специализированный технологический университет в Киберджае",
+        "fr": "Université boutique d'excellence en informatique et technologies à Cyberjaya",
+        "es": "Universidad especializada en informática y tecnología digital en Cyberjaya"
+      },
+      "desc": {
+        "id": "Didirikan dengan misi melahirkan talenta digital masa depan yang memimpin revolusi Industri 4.0 di Silicon Valley Malaysia.",
+        "en": "Established to cultivate elite digital leaders driving the Industry 4.0 revolution right within Malaysia’s Silicon Valley.",
+        "ar": "تأسست برؤية وطنية لتخريج قادة الثورة الصناعية الرابعة (IR 4.0) في قلب وادي السيليكون الماليزي.",
+        "ko": "말레이시아의 실리콘밸리에서 4차 산업혁명을 주도할 최고의 디지털 엘리트 인재 양성.",
+        "ja": "マレーシアのシリコンバレーで、第4次産業革命を牽引するデジタルリーダーを育成。",
+        "zh": "植根于全马高新科技产业心脏“赛城”，旨在为第四次工业革命精准孵化高水准数字技术顶尖领航人才。",
+        "ru": "Создан для подготовки цифровых лидеров Индустрии 4.0 в «Кремниевой долине» Малайзии.",
+        "fr": "Fondée pour former les leaders de la révolution numérique 4.0 dans la Silicon Valley malaisienne.",
+        "es": "Fundada para formar a los líderes de la Industria 4.0 en el corazón tecnológico de Malasia."
+      }
+    },
+    {
+      "icon": "shield",
+      "title": {
+        "id": "Kemitraan Strategis Keamanan Siber dengan EC-Council, AWS & CompTIA",
+        "en": "Elite Cybersecurity Industry Partnerships: EC-Council, AWS & CompTIA",
+        "ar": "شراكات سيبرانية مرموقة مع EC-Council وAWS الحوسبة السحابية وCompTIA",
+        "ko": "EC-Council, AWS, CompTIA 등 글로벌 보안 및 IT 리더들과의 독점적 제휴",
+        "ja": "EC-Council、AWS、CompTIAなど世界的IT・セキュリティ機関との強力な提携",
+        "zh": "携手全球网络安全与云巨头：EC-Council、亚马逊AWS、CompTIA官方授权认证",
+        "ru": "Партнерства в сфере кибербезопасности: EC-Council, AWS и CompTIA",
+        "fr": "Partenariats stratégiques en cybersécurité : EC-Council, AWS et CompTIA",
+        "es": "Alianzas líderes en ciberseguridad con EC-Council, AWS y CompTIA"
+      },
+      "desc": {
+        "id": "Mahasiswa memperoleh sertifikasi profesional industri internasional bersamaan dengan ijazah sarjana mereka.",
+        "en": "Students embed high-value global professional certifications directly into their degree qualifications.",
+        "ar": "يحصل الطلاب على شهادات مهنية دولية عالية القيمة مدمجة مباشرة ضمن برنامجهم الدراسي الأكاديمي.",
+        "ko": "재학 중 학위와 함께 업계 최고 권위의 국제 공인 전문 자격증을 동시에 취득.",
+        "ja": "学士号の取得と並行して、業界で最も高く評価される国際資格を在学中に取得可能。",
+        "zh": "课程深度融合权威行业专业资质认证，毕业生不仅手握名校本科学位，更直接斩获多张国际高含金量证书。",
+        "ru": "Студенты получают ценные международные профессиональные сертификаты одновременно с дипломом.",
+        "fr": "Les étudiants intègrent des certifications professionnelles reconnues à leur cursus universitaire.",
+        "es": "Los estudiantes obtienen certificaciones profesionales de la industria junto a su título de grado."
+      }
+    },
+    {
+      "icon": "rocket",
+      "title": {
+        "id": "Rasio Dosen-Mahasiswa Personal & Pembelajaran Berbasis Proyek Nyata",
+        "en": "Boutique Class Sizes, Dedicated Mentorship & Real-World Capstones",
+        "ar": "فصول دراسية مصغرة، إشراف أكاديمي شخصي ومشاريع تخرج مرتبطة بالشركات",
+        "ko": "소수 정예 맞춤형 밀착 멘토링과 실무 기업 연계 캡스톤 프로젝트",
+        "ja": "少人数制による徹底した個別指導と実企業連携のキャップストーン開発",
+        "zh": "极优师生比小班精英研讨制教学，100%全真企业实战Capstone课题实操",
+        "ru": "Индивидуальный подход, малые группы и реальные выпускные проекты для индустрии",
+        "fr": "Petits effectifs, tutorat personnalisé et projets concrets avec les entreprises",
+        "es": "Grupos reducidos, mentoría personalizada y proyectos reales con empresas"
+      },
+      "desc": {
+        "id": "Setiap mahasiswa dibimbing langsung oleh praktisi industri teknologi dengan portofolio proyek perangkat lunak nyata.",
+        "en": "Each student works under the direct mentorship of tech industry practitioners to build high-impact real-world portfolios.",
+        "ar": "يتدرب كل طالب تحت إشراف خبراء ومهندسين من سوق العمل لبناء محفظة أعمال برمجية احترافية قوية.",
+        "ko": "IT 업계 현직 실무진의 1:1 멘토링을 통해 실무에서 바로 통하는 강력한 포트폴리오 구축.",
+        "ja": "現役のITスペシャリストによるマンツーマン指導で、実践的な開発ポートフォリオを構築。",
+        "zh": "由一线互联网大厂资深技术导师实行手把手指导，确保每位学子在毕业前即积累起成熟的项目作品集。",
+        "ru": "Каждый студент работает под руководством практиков, создавая реальное портфолио разработки.",
+        "fr": "Chaque étudiant est encadré par des professionnels pour constituer un portfolio de projets concrets.",
+        "es": "Cada estudiante cuenta con la guía de profesionales del sector para crear un portafolio real."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Terletak di Cyberjaya: Dikelilingi Ribuan Perusahaan Teknologi Multinasional",
+        "en": "Located in Cyberjaya: Surrounded by Over 1,000 Tech Multinational Giants",
+        "ar": "موقع استثنائي في سايبرجايا: محاط بأكثر من 1,000 شركة تقنية متعددة الجنسيات",
+        "ko": "사이버자야 핵심 위치: 1,000개 이상의 다국적 테크 기업으로 둘러싸인 환경",
+        "ja": "サイバージャヤ中心地：1,000社を超える多国籍IT大手企業が集積する絶好の環境",
+        "zh": "坐拥赛城核心高新区：周边环绕逾千家跨国高新科技巨头与创新研发中心",
+        "ru": "Расположение в Киберджае: рядом более 1000 международных технологических компаний",
+        "fr": "Situé à Cyberjaya : entouré de plus de 1 000 multinationales technologiques",
+        "es": "Ubicación en Cyberjaya: rodeada por más de 1.000 gigantes tecnológicos internacionales"
+      },
+      "desc": {
+        "id": "Memberikan akses magang eksklusif ke Dell, HP, Huawei, IBM, NTT, dan ratusan startup teknologi di sekeliling kampus.",
+        "en": "Exclusive access to internships with Dell, HP, Huawei, IBM, NTT, and burgeoning tech innovators surrounding the campus.",
+        "ar": "فرص تدريب استثنائية في شركات مثل ديل وإتش بي وهواوي وآي بي إم ومئات الشركات الناشئة المجاورة للحرم.",
+        "ko": "캠퍼스 인근의 델, HP, 화웨이, IBM, NTT 및 유망 스타트업들과의 독점적 인턴십 연계.",
+        "ja": "Dell、HP、ファーウェイ、IBM、NTTなど周辺の世界的IT企業への特別インターンシップ機会。",
+        "zh": "近水楼台先得月，直通戴尔、惠普、华为、IBM、NTT及数百家高估值科技初创企业的独家顶岗实习。",
+        "ru": "Прямой доступ к стажировкам в Dell, HP, Huawei, IBM, NTT и технологических стартапах.",
+        "fr": "Accès privilégié aux stages chez Dell, HP, Huawei, IBM, NTT et de nombreuses startups innovantes.",
+        "es": "Acceso directo a prácticas en Dell, HP, Huawei, IBM, NTT y startups del entorno."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kondominium Residensi Mahasiswa Kanvas & Shaftsbury Cyberjaya",
+        "en": "Kanvas & Shaftsbury Smart Student Residences Cyberjaya",
+        "ar": "مجمعات كانفاس وشافتسبري السكنية الذكية لطلاب UNIMY سايبرجايا",
+        "ko": "칸바스 & 샤프츠베리 스마트 학생 콘도미니엄 (사이버자야)",
+        "ja": "カンバス＆シャフツベリー スマート学生コンドミニアム（サイバージャヤ）",
+        "zh": "Kanvas与Shaftsbury赛城核心区智能现代学生公寓",
+        "ru": "Студенческие апартаменты Kanvas & Shaftsbury в Киберджае",
+        "fr": "Résidences étudiantes connectées Kanvas & Shaftsbury Cyberjaya",
+        "es": "Residencias inteligentes para estudiantes Kanvas & Shaftsbury Cyberjaya"
+      },
+      "distance": {
+        "id": "Hanya 2-4 Menit Jalan Kaki / Bersepeda ke Kampus UNIMY",
+        "en": "2 to 4-Minute Walk / Bicycle Ride to UNIMY Campus",
+        "ar": "2 إلى 4 دقائق سيراً على الأقدام أو بالدراجة إلى حرم UNIMY",
+        "ko": "UNIMY 캠퍼스까지 도보 또는 자전거로 단 2~4분",
+        "ja": "UNIMYキャンパスまで徒歩または自転車でわずか2〜4分",
+        "zh": "步行或骑行仅需2至4分钟即可抵达UNIMY主教学楼",
+        "ru": "2–4 минуты пешком или на велосипеде до кампуса UNIMY",
+        "fr": "À 2-4 minutes à pied ou à vélo du campus UNIMY",
+        "es": "A solo 2-4 minutos a pie o en bicicleta del campus UNIMY"
+      },
+      "priceRange": "RM 500 - RM 1,100 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam dengan Smart Card",
+          "Kolam Renang Infinity & Gym Kebugaran",
+          "Internet Fiber Optik Kecepatan Super",
+          "Dapur Modern & Fasilitas Laundry",
+          "Dekat Kafe Starbucks & Restoran Halal 24 Jam"
+        ],
+        "en": [
+          "24/7 Security & Keycard Access Control",
+          "Infinity Swimming Pool & Fitness Gym",
+          "Ultra-High Speed Dedicated Fiber WiFi",
+          "Modern Kitchen & In-House Laundry Facilities",
+          "Steps to 24-Hour Eateries & Retail Plazas"
+        ],
+        "ar": [
+          "أمن متواصل 24 ساعة وبطاقات دخول ذكية",
+          "حمام سباحة إنفينيتي وصالة ألعاب رياضية",
+          "إنترنت ألياف ضوئية فائق السرعة",
+          "مطبخ مجهز ومرافق غسيل ملابس متطورة",
+          "على بعد خطوات من المطاعم المفتوحة 24 ساعة والمقاهي"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian",
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات اليومية"
+      },
+      "cost": "RM 600 - RM 900"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus Cyberjaya / Sepeda",
+        "en": "Cyberjaya Dedicated Transit & E-Scooters",
+        "ar": "حافلات سايبرجايا والسكوتر والدراجات"
+      },
+      "cost": "RM 40 - RM 100"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet Fiber",
+        "en": "Utilities, Electricity & Fiber WiFi",
+        "ar": "الكهرباء والمياه وإنترنت الألياف"
+      },
+      "cost": "RM 70 - RM 140"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Software Dev Tools",
+        "en": "Personal Expenses & Dev Software",
+        "ar": "المستلزمات الشخصية وأدوات البرمجة"
+      },
+      "cost": "RM 200 - RM 380"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apa keunggulan kuliah ilmu komputer di UNIMY dibandingkan universitas umum?",
+        "en": "What makes studying Computer Science at UNIMY distinct from traditional universities?",
+        "ar": "ما الذي يميز دراسة علوم الحاسوب في UNIMY عن الجامعات التقليدية العامة؟",
+        "ko": "일반 종합대학과 비교해 UNIMY에서 컴퓨터 과학을 전공하는 가장 큰 장점은 무엇인가요?",
+        "ja": "総合大学と比べてUNIMYでコンピュータサイエンスを学ぶ最大の利点は何ですか？",
+        "zh": "与传统综合性大学相比，在UNIMY攻读计算机科学与软件工程有何独特优势？",
+        "ru": "В чем отличие изучения компьютерных наук в UNIMY от традиционных университетов?",
+        "fr": "Qu'est-ce qui distingue l'informatique à l'UNIMY par rapport aux universités classiques ?",
+        "es": "¿Qué diferencia estudiar informática en UNIMY frente a universidades tradicionales?"
+      },
+      "a": {
+        "id": "UNIMY adalah universitas butik khusus teknologi digital dengan kurikulum 100% fokus pada komputasi, keamanan siber, dan AI, diajarkan dalam kelas kecil dengan integrasi sertifikasi industri global (AWS, CompTIA, EC-Council).",
+        "en": "UNIMY is 100% specialized in digital technologies with dedicated small class sizes, high-touch mentorship, and integrated industry certifications (AWS, CompTIA, EC-Council) built directly into the curriculum.",
+        "ar": "جامعة UNIMY متخصصة حصرياً بنسبة 100% في التكنولوجيا الرقمية، حيث تدرس في فصول مصغرة وتدمج الشهادات العالمية من AWS وCompTIA وEC-Council داخل صلب المنهج الدراسي.",
+        "ko": "UNIMY는 100% 디지털 테크에만 특화된 대학으로, 소수 정예 수업, 실무 멘토링, 그리고 AWS, CompTIA, EC-Council 등 글로벌 산업 공인 자격증이 정규 학위에 통합되어 있습니다.",
+        "ja": "UNIMYは100％デジタル技術に特化した専門大学であり、少人数制クラス、徹底したメンターシップ、AWS・CompTIA・EC-Councilなどの国際資格取得がカリキュラムに組み込まれています。",
+        "zh": "UNIMY是一所100%聚焦于数字科技领域的精品专门大学，采用小班研讨制教学，并将亚马逊AWS、CompTIA、EC-Council等全球顶级工业级认证深度植入必修课程体系中。",
+        "ru": "UNIMY на 100% сфокусирован на IT-технологиях: малые группы, практический менторинг и встроенные сертификаты AWS, CompTIA и EC-Council.",
+        "fr": "L'UNIMY est 100 % dédiée aux technologies numériques avec de petits effectifs et des certifications intégrées (AWS, CompTIA, EC-Council).",
+        "es": "UNIMY está 100% especializada en tecnologías digitales, con clases reducidas y certificaciones globales integradas en el plan de estudios."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah program sarjana di UNIMY?",
+        "en": "What are the bachelor degree tuition fees at UNIMY?",
+        "ar": "كم تبلغ الرسوم الدراسية لبرامج البكالوريوس في جامعة UNIMY؟",
+        "ko": "UNIMY의 학부 과정 등록금은 얼마인가요?",
+        "ja": "UNIMYの学士課程の学費はどれくらいですか？",
+        "zh": "在UNIMY攻读本科学士学位课程的学杂费标准是多少？",
+        "ru": "Какова стоимость обучения на программах бакалавриата в UNIMY?",
+        "fr": "Quels sont les frais de scolarité en licence à l'UNIMY ?",
+        "es": "¿Cuáles son los precios de matrícula para una licenciatura en UNIMY?"
+      },
+      "a": {
+        "id": "Program Sarjana Ilmu Komputer, Keamanan Siber, dan Rekayasa Perangkat Lunak berkisar antara $4.800 hingga $5.800 USD per tahun ($14.500 - $17.500 USD untuk keseluruhan 3 tahun).",
+        "en": "Degree programmes in Computer Science, Cybersecurity, and Software Engineering range from $4,800 to $5,800 USD per year ($14,500 - $17,500 USD total for 3 years).",
+        "ar": "تتراوح تكاليف برامج علوم الحاسوب والأمن السيبراني وهندسة البرمجيات بين 4,800 إلى 5,800 دولار سنوياً (14,500 إلى 17,500 دولار للسنوات الثلاث كاملة).",
+        "ko": "컴퓨터 과학, 사이버 보안, 소프트웨어 공학 학위는 연간 약 4,800~5,800 달러(3년간 총 약 14,500~17,500 달러) 수준입니다.",
+        "ja": "コンピュータサイエンス、サイバーセキュリティ、ソフトウェア工学専攻は年間約4,800〜5,800米ドル（3年間で総額約14,500〜17,500米ドル）です。",
+        "zh": "计算机科学、网络安全及软件工程专业每年学费约在4,800至5,800美元之间（3年全套学位总费用约14,500至17,500美元）。",
+        "ru": "Программы по IT, кибербезопасности и инженерии ПО стоят 4 800–5 800 $ в год (14 500–17 500 $ за все 3 года).",
+        "fr": "Les cursus en informatique, cybersécurité et logiciel coûtent entre 4 800 et 5 800 $ par an (14 500 à 17 500 $ pour 3 ans).",
+        "es": "Las carreras de informática, ciberseguridad y software cuestan entre 4.800 y 5.800 $ al año (14.500 a 17.500 $ en 3 años)."
+      }
+    },
+    {
+      "q": {
+        "id": "Apakah UNIMY menyediakan fasilitas magang di perusahaan teknologi?",
+        "en": "Does UNIMY arrange guaranteed internships with tech corporations?",
+        "ar": "هل توفر UNIMY فرص تدريب عملي مضمونة في كبرى شركات التكنولوجيا؟",
+        "ko": "UNIMY는 글로벌 테크 기업에서의 인턴십 연계를 적극 지원하나요?",
+        "ja": "UNIMYは大手IT企業でのインターンシップを斡旋・支援していますか？",
+        "zh": "UNIMY是否为在校生全面对接和落实顶尖科技跨国企业的带薪实习安排？",
+        "ru": "Помогает ли UNIMY с прохождением стажировок в IT-компаниях?",
+        "fr": "L'UNIMY garantit-elle des stages au sein d'entreprises technologiques ?",
+        "es": "¿Facilita UNIMY prácticas empresariales en corporaciones tecnológicas?"
+      },
+      "a": {
+        "id": "Ya, program magang industri wajib (Industrial Attachment) selama 3 hingga 6 bulan terintegrasi dalam kurikulum, dengan penempatan di perusahaan ternama di Cyberjaya dan Kuala Lumpur.",
+        "en": "Yes, a mandatory 3 to 6-month industrial internship is built into every programme, placing students directly inside tech leaders across Cyberjaya and greater KL.",
+        "ar": "نعم، يتضمن المنهج فترة تدريب عملي إلزامية لمدة 3 إلى 6 أشهر في كبرى الشركات التقنية المحيطة بالحرم الجامعي في سايبرجايا وكوالالمبور.",
+        "ko": "네, 3~6개월간의 필수 산업 인턴십(Industrial Attachment)이 교육과정에 포함되어 있어 사이버자야 및 KL 주요 IT 기업에서 실무를 수행합니다.",
+        "ja": "はい、3〜6か月の必修企業インターンシップが全専攻に組み込まれており、サイバージャヤおよびKL周辺のトップIT企業へ配属されます。",
+        "zh": "是的，所有专业均将为期3至6个月的硬核企业带薪顶岗实习（Industrial Attachment）作为必修学分，直接输送至赛城与吉隆坡各大科技名企实战。",
+        "ru": "Да, обязательная стажировка от 3 до 6 месяцев включена в программу с трудоустройством в технологических компаниях.",
+        "fr": "Oui, un stage obligatoire de 3 à 6 mois est intégré au cursus, au sein d'entreprises de Cyberjaya et Kuala Lumpur.",
+        "es": "Sí, incluye un periodo de prácticas obligatorias de 3 a 6 meses integrado en el plan de estudios."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk mendaftar di UNIMY?",
+        "en": "What is the required IELTS score for admission to UNIMY?",
+        "ar": "ما هو معدل اختبار IELTS المطلوب للقبول في جامعة UNIMY؟",
+        "ko": "UNIMY 입학에 필요한 IELTS 점수는 몇 점인가요?",
+        "ja": "UNIMY出願に必要なIELTSスコアは何点ですか？",
+        "zh": "申请UNIMY需要达到怎样的雅思（IELTS）语言考试标准？",
+        "ru": "Какой балл IELTS требуется для поступления в UNIMY?",
+        "fr": "Quel score à l'IELTS est requis pour être admis à l'UNIMY ?",
+        "es": "¿Qué puntuación de IELTS se solicita para ingresar en UNIMY?"
+      },
+      "a": {
+        "id": "Skor IELTS 5.0 umumnya diperlukan untuk masuk langsung ke program sarjana teknologi informasi dan sains komputer.",
+        "en": "An IELTS score of 5.0 is typically required for direct entry into undergraduate computing and tech programmes.",
+        "ar": "يكفي عادةً الحصول على درجة IELTS 5.0 للقبول المباشر في برامج البكالوريوس التقنية وعلوم الحاسوب.",
+        "ko": "컴퓨터 및 IT 학부 과정 직접 입학을 위해서는 일반적으로 IELTS 5.0이 요구됩니다.",
+        "ja": "コンピュータおよびIT学士課程への直接入学には、通常IELTS 5.0が必要です。",
+        "zh": "申请攻读计算机科学与信息技术各本科专业，通常仅要求雅思5.0分即可直接入学。",
+        "ru": "Для прямого поступления на программы бакалавриата по IT обычно требуется балл IELTS 5.0.",
+        "fr": "Un score IELTS de 5.0 est généralement suffisant pour intégrer directement une licence en informatique.",
+        "es": "Se requiere habitualmente un IELTS de 5.0 para el acceso directo a los grados de informática."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan saja intake mahasiswa baru dibuka di UNIMY?",
+        "en": "What are the intake months at UNIMY?",
+        "ar": "ما هي مواعيد وأشهر استقبال وتسجيل الطلاب الجدد في UNIMY؟",
+        "ko": "UNIMY의 신입생 모집 시기는 언제인가요?",
+        "ja": "UNIMYの主な入学時期（インテイク）はいつですか？",
+        "zh": "UNIMY全年的新生入学招生批次分别安排在哪些月份？",
+        "ru": "В какие месяцы проходит набор новых студентов в UNIMY?",
+        "fr": "Quelles sont les périodes de rentrée pour les nouveaux étudiants à l'UNIMY ?",
+        "es": "¿Cuáles son las convocatorias de nuevo ingreso en UNIMY?"
+      },
+      "a": {
+        "id": "Intake utama UNIMY diadakan pada bulan Februari, Juli, dan September/Oktober setiap tahun.",
+        "en": "UNIMY conducts major intakes in February, July, and September/October each year.",
+        "ar": "تفتح الفصول الدراسية الرئيسية للقبول في أشهر فبراير ويوليو وسبتمبر/أكتوبر من كل عام.",
+        "ko": "UNIMY의 주요 입학 학기는 매년 2월, 7월, 9월/10월에 열립니다.",
+        "ja": "UNIMYの主要な入学月は毎年2月、7月、9月／10月です。",
+        "zh": "UNIMY主要的招生开学月份为每年的2月、7月以及9月/10月。",
+        "ru": "Основные наборы студентов проходят в феврале, июле и сентябре/октябре.",
+        "fr": "Les rentrées principales ont lieu en février, juillet et septembre/octobre.",
+        "es": "Las entradas principales se convocan en febrero, julio y septiembre/octubre."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Masa Depan Keamanan Siber: Mengapa Spesialisasi UNIMY Menjadi Rebutan Industri",
+        "en": "The Future of Cybersecurity: Why UNIMY Specialists Dominate the Job Market",
+        "ar": "مستقبل الأمن السيبراني: لماذا يخطف خريجو UNIMY المتخصصون وظائف كبرى الشركات",
+        "ko": "사이버 보안의 미래: 왜 UNIMY 출신 보안 전문가들이 채용 시장을 장악하는가",
+        "ja": "サイバーセキュリティの未来：なぜUNIMYの専門人材が産業界で争奪戦となるのか",
+        "zh": "网络安全黄金时代：深度剖析UNIMY数字安防工程师为何在招聘市场炙手可热",
+        "ru": "Будущее кибербезопасности: почему специалисты UNIMY востребованы на рынке",
+        "fr": "L'avenir de la cybersécurité : pourquoi les spécialistes de l'UNIMY sont très recherchés",
+        "es": "El futuro de la ciberseguridad: por qué los especialistas de UNIMY triunfan en el mercado"
+      },
+      "summary": {
+        "id": "Analisis mengenai kurikulum berbasis SOC, sertifikasi EC-Council Certified Ethical Hacker, dan gaji awal lulusan IT.",
+        "en": "Analysis of live SOC operations labs, EC-Council Certified Ethical Hacker tracks, and entry-level high tech salary benchmarks.",
+        "ar": "تحليل لمختبرات عمليات SOC الحية، ومسار شهادات القرصنة الأخلاقية EC-Council، ومعدلات رواتب خريجي التكنولوجيا المرتفعة.",
+        "ko": "실시간 SOC 관제 랩, EC-Council 공인 화이트해커(CEH) 자격 취득 및 고액 연봉 취업 트랙 분석.",
+        "ja": "リアルタイムSOC運用実習、EC-Council認定ホワイトハッカー資格、IT卒業生の初任給水準を分析。",
+        "zh": "解密实战化SOC安防运营大厅、EC-Council注册道德黑客（CEH）执业通道与应届技术毕业生的高薪资起点。",
+        "ru": "Анализ работы лабораторий SOC, сертификации этичного хакинга и стартовых зарплат в IT-отрасли.",
+        "fr": "Analyse des laboratoires SOC, des parcours Certified Ethical Hacker et des salaires de début de carrière.",
+        "es": "Análisis de los laboratorios SOC, certificación de hacker ético y salarios iniciales en el sector tecnológico."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Kuliah di Cyberjaya: Menikmati Kehidupan di Silicon Valley Malaysia",
+        "en": "Studying in Cyberjaya: Living in Malaysia’s High-Tech Silicon Valley",
+        "ar": "الدراسة في سايبرجايا: استمتع بنمط الحياة في وادي السيليكون التكنولوجي بماليزيا",
+        "ko": "사이버자야 유학 생활: 말레이시아의 첨단 실리콘밸리에서 누리는 스마트 라이프",
+        "ja": "サイバージャヤでのキャンパスライフ：マレーシアのシリコンバレーで暮らす魅力",
+        "zh": "求学赛城新体验：置身马来西亚“硅谷”高新技术产业特区的数字智能生活",
+        "ru": "Учеба в Киберджае: жизнь в технологической «Кремниевой долине» Малайзии",
+        "fr": "Étudier à Cyberjaya : vivre au cœur de la Silicon Valley malaisienne",
+        "es": "Estudiar en Cyberjaya: vivir en el corazón tecnológico de Malasia"
+      },
+      "summary": {
+        "id": "Eksplorasi infrastruktur kota cerdas Cyberjaya, jalur sepeda hijau, kafe modern, dan apartemen mahasiswa terjangkau.",
+        "en": "Discover Cyberjaya’s smart city infrastructure, green lakeside cycling lanes, tech hubs, and affordable student condos.",
+        "ar": "استكشف البنية التحتية للمدينة الذكية، ومسارات الدراجات الخضراء، والمقاهي العصرية والشقق الطلابية الاقتصادية.",
+        "ko": "사이버자야의 스마트 시티 인프라, 호숫가 자전거 전용도로, 트렌디한 테크 카페 및 가성비 콘도 기숙사 탐방.",
+        "ja": "サイバージャヤのスマートシティ基盤、湖畔サイクリングロード、ITカフェ街、手頃な学生向けコンドミニアムを紹介。",
+        "zh": "探索赛城智慧城市基础设施、环湖骑行道、科技主题咖啡厅以及性价比极高的现代学生公寓住宅群。",
+        "ru": "Инфраструктура умного города, велодорожки у озер, IT-кафе и доступные апартаменты в Киберджае.",
+        "fr": "Infrastructures de ville intelligente, pistes cyclables au bord des lacs et résidences étudiantes abordables.",
+        "es": "Infraestructuras de ciudad inteligente, senderos junto al lago y apartamentos estudiantiles asequibles."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Mengembangkan Game Interaktif dari Kampus: Industri Game Dev di UNIMY",
+        "en": "From Classroom to Steam: The Game Development Ecosystem at UNIMY",
+        "ar": "من مقاعد الدراسة إلى منصات الألعاب العالمية: منظومة تطوير الألعاب في UNIMY",
+        "ko": "강의실에서 스팀(Steam) 출시까지: UNIMY 인터랙티브 게임 개발 생태계",
+        "ja": "教室からSteamリリースへ：UNIMYにおけるインタラクティブ・ゲーム開発エコシステム",
+        "zh": "从大学课堂直通Steam平台：深度探秘UNIMY互动游戏研发与XR元宇宙孵化生态",
+        "ru": "От аудитории до Steam: экосистема разработки игр в университете UNIMY",
+        "fr": "De la salle de classe à Steam : l'écosystème de développement de jeux à l'UNIMY",
+        "es": "Del aula a Steam: el ecosistema de desarrollo de videojuegos en UNIMY"
+      },
+      "summary": {
+        "id": "Bagaimana mahasiswa UNIMY merancang, memprogram, dan merilis judul game indie nyata menggunakan Unreal Engine dan Unity.",
+        "en": "How UNIMY game design students engineer, code, and publish playable commercial indie titles with Unreal Engine & Unity.",
+        "ar": "كيف يقوم طلاب تصميم الألعاب ببرمجة ونشر ألعاب إلكترونية تجارية حقيقية باستخدام محركات Unreal وUnity.",
+        "ko": "학생들이 언리얼 엔진과 유니티를 활용해 실제 상용 인디 게임을 기획, 개발, 출시하는 프로젝트 프로세스.",
+        "ja": "学生がUnreal EngineやUnityを駆使して実際の商用インディゲームを企画・開発・パブリッシュする現場。",
+        "zh": "揭秘游戏设计专业学生如何依托Unreal虚幻引擎与Unity技术栈，在校期间自主完成商业独立游戏的立项、研发与正式发行。",
+        "ru": "Как студенты создают и выпускают коммерческие инди-игры на Unreal Engine и Unity.",
+        "fr": "Comment les étudiants conçoivent, programment et publient des jeux vidéo avec Unreal Engine et Unity.",
+        "es": "Cómo los estudiantes diseñan, programan y publican videojuegos reales con Unreal Engine y Unity."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Ilmu Komputer & Rekayasa Perangkat Lunak (Hons)",
+        "en": "Computer Science & Software Engineering (Hons)",
+        "ar": "علوم الحاسوب وهندسة البرمجيات (مع مرتبة الشرف)",
+        "ko": "컴퓨터 과학 및 소프트웨어 공학부 (우수 학사)",
+        "ja": "コンピュータサイエンス＆ソフトウェア工学部（栄誉学位）",
+        "zh": "计算机科学与软件工程荣誉学士学位",
+        "ru": "Компьютерные науки и разработка ПО (с отличием)",
+        "fr": "Informatique et génie logiciel (avec mention)",
+        "es": "Ciencias de la Computación y Software (con honores)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$14,500 - $16,800 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Keamanan Siber & Forensik Digital (Hons)",
+        "en": "Cybersecurity & Digital Forensics (Hons)",
+        "ar": "الأمن السيبراني والأدلة الجنائية الرقمية (مرتبة الشرف)",
+        "ko": "사이버 보안 및 디지털 포렌식 학부 (우수 학사)",
+        "ja": "サイバーセキュリティ＆デジタルフォレンジック学部",
+        "zh": "网络空间安全与数字取证荣誉学士学位（含工业认证）",
+        "ru": "Кибербезопасность и цифровая криминалистика (с отличием)",
+        "fr": "Cybersécurité et criminalistique numérique (avec mention)",
+        "es": "Ciberseguridad y Forense Digital (con honores)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$15,000 - $17,500 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Pengembangan Game Interaktif & XR (Hons)",
+        "en": "Interactive Game Development & XR (Hons)",
+        "ar": "تطوير الألعاب التفاعلية والواقع الممتد XR (مرتبة الشرف)",
+        "ko": "인터랙티브 게임 개발 및 XR 확장현실학부 (우수 학사)",
+        "ja": "インタラクティブ・ゲーム開発＆XR学部（栄誉学位）",
+        "zh": "互动交互游戏开发与XR扩展现实荣誉学士学位",
+        "ru": "Разработка интерактивных игр и XR (с отличием)",
+        "fr": "Développement de jeux interactifs et XR (avec mention)",
+        "es": "Desarrollo de Videojuegos Interactivos y XR (con honores)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$14,800 - $17,200 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Bisnis Digital, Analitik Data & E-Commerce",
+        "en": "Digital Business, Data Analytics & E-Commerce",
+        "ar": "الأعمال الرقمية وتحليلات البيانات والتجارة الإلكترونية",
+        "ko": "디지털 비즈니스, 데이터 분석 및 이커머스 학부",
+        "ja": "デジタルビジネス・データ分析＆eコマース学部",
+        "zh": "数字商业创新、大数据商务分析与跨境电商学院",
+        "ru": "Цифровой бизнес, аналитика данных и электронная коммерция",
+        "fr": "Commerce numérique, analyse de données et e-commerce",
+        "es": "Negocio Digital, Analítica de Datos y Comercio Electrónico"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$13,500 - $15,800 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Computing & Digital Technology",
+        "en": "Foundation in Computing & Digital Tech",
+        "ar": "السنة التمهيدية في الحوسبة والتكنولوجيا الرقمية",
+        "ko": "컴퓨팅 및 디지털 기술 대학 진학 파운데이션",
+        "ja": "コンピューティング＆デジタル技術ファウンデーション",
+        "zh": "计算机与数字科技大学基础预科文凭课程",
+        "ru": "Подготовительный курс (Foundation) по IT и цифровым технологиям",
+        "fr": "Année préparatoire en informatique et technologies numériques",
+        "es": "Fundamentos en Informática y Tecnología Digital"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$3,800 - $4,500 Total",
+      "ielts": "4.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=1PhsJV6TM0w",
+  "programs": [
+    {
+      "id": "unimy-bachelor-of-software-engineering-honours",
+      "universityId": "unimy",
+      "name": "Bachelor of Software Engineering (Honours)",
+      "nameAr": "بكالوريوس هندسة البرمجيات في Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17900
+        },
+        {
+          "year": 2,
+          "fee": 17900
+        },
+        {
+          "year": 3,
+          "fee": 17900
+        }
+      ],
+      "totalTuitionFee": 53700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-bachelor-of-computer-science-honours",
+      "universityId": "unimy",
+      "name": "Bachelor of Computer Science (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17900
+        },
+        {
+          "year": 2,
+          "fee": 17900
+        },
+        {
+          "year": 3,
+          "fee": 17900
+        }
+      ],
+      "totalTuitionFee": 53700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-diploma-in-information-technology",
+      "universityId": "unimy",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15950
+        },
+        {
+          "year": 2,
+          "fee": 15950
+        },
+        {
+          "year": 3,
+          "fee": 15950
+        }
+      ],
+      "totalTuitionFee": 47850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-diploma-in-information-technology-cyber-security",
+      "universityId": "unimy",
+      "name": "Diploma in Information Technology (Cyber Security)",
+      "nameAr": "دبلوم تقنية المعلومات في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.3,
+      "annualFee": 15950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15950
+        },
+        {
+          "year": 2,
+          "fee": 15950
+        }
+      ],
+      "totalTuitionFee": 31900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-bachelor-of-computer-science-data-science-with-honours",
+      "universityId": "unimy",
+      "name": "Bachelor of Computer Science (Data Science) with Honours",
+      "nameAr": "بكالوريوس علوم الحاسب في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17900
+        },
+        {
+          "year": 2,
+          "fee": 17900
+        },
+        {
+          "year": 3,
+          "fee": 17900
+        }
+      ],
+      "totalTuitionFee": 53700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-diploma-in-digital-marketing",
+      "universityId": "unimy",
+      "name": "Diploma in Digital Marketing",
+      "nameAr": "دبلوم في التسويق الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 15950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15950
+        },
+        {
+          "year": 2,
+          "fee": 15950
+        }
+      ],
+      "totalTuitionFee": 31900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-master-of-business-administration",
+      "universityId": "unimy",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-doctor-of-philosophy-in-business-management",
+      "universityId": "unimy",
+      "name": "Doctor of Philosophy in Business Management",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 24900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24900
+        },
+        {
+          "year": 2,
+          "fee": 24900
+        },
+        {
+          "year": 3,
+          "fee": 24900
+        }
+      ],
+      "totalTuitionFee": 74700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-bachelor-of-computer-engineering-with-honours",
+      "universityId": "unimy",
+      "name": "Bachelor of Computer Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Computer Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11933,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11933
+        },
+        {
+          "year": 2,
+          "fee": 11933
+        },
+        {
+          "year": 3,
+          "fee": 11933
+        },
+        {
+          "year": 4,
+          "fee": 11933
+        }
+      ],
+      "totalTuitionFee": 47732,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-foundation-in-computing-and-engineering",
+      "universityId": "unimy",
+      "name": "Foundation in Computing and Engineering",
+      "nameAr": "برنامج تمهيدي في علوم الحاسب في and Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 16900,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16900
+        }
+      ],
+      "totalTuitionFee": 16900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-diploma-in-robotics-automation",
+      "universityId": "unimy",
+      "name": "Diploma in Robotics & Automation",
+      "nameAr": "دبلوم في Robotics & Automation",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.6,
+      "annualFee": 15950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15950
+        },
+        {
+          "year": 2,
+          "fee": 15950
+        }
+      ],
+      "totalTuitionFee": 31900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-master-of-science-in-engineering",
+      "universityId": "unimy",
+      "name": "Master of Science in Engineering",
+      "nameAr": "ماجستير العلوم في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 17900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17900
+        },
+        {
+          "year": 2,
+          "fee": 17900
+        }
+      ],
+      "totalTuitionFee": 35800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-doctor-of-philosophy-in-engineering",
+      "universityId": "unimy",
+      "name": "Doctor of Philosophy in Engineering",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 24900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24900
+        },
+        {
+          "year": 2,
+          "fee": 24900
+        },
+        {
+          "year": 3,
+          "fee": 24900
+        }
+      ],
+      "totalTuitionFee": 74700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-diploma-in-interactive-and-digital-media",
+      "universityId": "unimy",
+      "name": "Diploma in Interactive And Digital Media",
+      "nameAr": "دبلوم في الإعلام الرقمي",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15950
+        },
+        {
+          "year": 2,
+          "fee": 15950
+        },
+        {
+          "year": 3,
+          "fee": 15950
+        }
+      ],
+      "totalTuitionFee": 47850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-bachelor-of-multimedia-interactive-media-with-honours",
+      "universityId": "unimy",
+      "name": "Bachelor of Multimedia (Interactive Media) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Multimedia (Interactive Media) with Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17900
+        },
+        {
+          "year": 2,
+          "fee": 17900
+        },
+        {
+          "year": 3,
+          "fee": 17900
+        }
+      ],
+      "totalTuitionFee": 53700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "unimy-bachelor-of-game-development-game-technology-with-honours",
+      "universityId": "unimy",
+      "name": "Bachelor of Game Development (Game Technology) with Honours",
+      "nameAr": "بكالوريوس في تطوير الألعاب الإلكترونية",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17900
+        },
+        {
+          "year": 2,
+          "fee": 17900
+        },
+        {
+          "year": 3,
+          "fee": 17900
+        }
+      ],
+      "totalTuitionFee": 53700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 16,
+  "totalProgramsCount": 16
+}

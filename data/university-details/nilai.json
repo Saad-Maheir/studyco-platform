@@ -1,0 +1,2164 @@
+{
+  "id": "nilai",
+  "name": "Nilai University",
+  "arabicName": "جامعة نيلاي (Nilai University)",
+  "city": "Nilai, Negeri Sembilan",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-nilai.webp",
+  "image": "assets/photo/campus_nilai.webp",
+  "website": "https://www.nilai.edu.my/",
+  "ranking": "105-Acre Resort-Style Green Campus with Aerospace & Aircraft Maintenance",
+  "established": "1997",
+  "campusName": "Nilai University Green Valley Campus",
+  "studentCount": "5,000+ (40+ Countries)",
+  "intakes": "Jan, Mar, May, Oct",
+  "feeRangeMin": 10600,
+  "feeRangeMax": 33942,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/lK9tpi7Rxgo",
+  "description": "Nilai University is one of the leading recognized higher education institutions located in Nilai, Negeri Sembilan. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة نيلاي (Nilai University) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Nilai, Negeri Sembilan، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Nilai University didirikan pada tahun 1997 di kota pendidikan Nilai, Negeri Sembilan, di atas kampus hijau seluas 105 hektar. Nilai University sangat terkenal atas keunggulannya dalam bidang Rekayasa Perawatan Pesawat Terbang (Aircraft Maintenance Engineering berlisensi EASA/CAAM), Keperawatan, dan Manajemen Bisnis.",
+    "en": "Nilai University, established in 1997 in Nilai, Negeri Sembilan, spans a serene 105-acre parkland campus. It is widely recognized for its premier Aircraft Maintenance Engineering (EASA / CAAM licensed pathways), Nursing, and Hospitality faculties.",
+    "ar": "تأسست جامعة نيلاي (Nilai University) عام 1997 في مدينة نيلاي بنيجري سمبيلان على مساحة 105 فدادين من الطبيعة، وتشتهر بتدريس هندسة صيانة الطائرات (برخص EASA و CAAM المعتمدة دولياً)، والتمريض، وإدارة الأعمال.",
+    "zh": "汝来大学（Nilai University）创立于1997年，总校占地105英亩，环境优美如画。大学以获得欧洲航空安全局（EASA）认证的飞机维修工程课程、护理学及国际酒店管理享誉全马。",
+    "ru": "Университет Нилаи, основанный в 1997 году на кампусе площадью 105 акров, известен программами по техническому обслуживанию самолетов (EASA/CAAM) и сестринскому делу.",
+    "fr": "Nilai University, fondée en 1997 sur 105 acres, est célèbre pour ses formations en maintenance aéronautique (agréées EASA/CAAM), soins infirmiers et hôtellerie.",
+    "es": "Nilai University, fundada en 1997 en un campus de 105 acres, es reconocida por su formación en Mantenimiento de Aeronaves (licencias EASA/CAAM) y Enfermería.",
+    "ja": "ニライ大学は1997年に設立された105エーカーの緑豊かな総合私立大学であり、EASA公認の航空機整備工学、看護学、ホテル経営で知られています。",
+    "ko": "닐라이 대학교(Nilai University)는 1997년에 설립된 105에이커 규모의 종합 사립대학으로, 유럽항공안전청(EASA) 인가 항공정비공학 및 간호학으로 높은 명성을 지닙니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Hanggar Pesawat Terbang Nyata & Lab Perawatan Mesin Jet",
+        "en": "Full-Scale Aircraft Hangar & Jet Propulsion Labs",
+        "ar": "حظيرة طائرات حقيقية ومختبرات صيانة محركات النفاثات التوربينية",
+        "ko": "실제 항공기 격납고 및 제트 엔진 추진체 정비 전문 실습동",
+        "ja": "実機航空機格納庫＆ジェット推進エンジン整備実習ラボ",
+        "zh": "真实真机飞行器维护机库与涡轮喷气航空动力工程实验室",
+        "ru": "Полноразмерный авиационный ангар и лаборатории реактивных двигателей",
+        "fr": "Hangar aéronautique réel et laboratoires de propulsion à réaction",
+        "es": "Hangar de aeronaves reales y laboratorios de propulsión a reacción"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Hijau 105 Hektar Bertaraf Resor Alam Pegunungan",
+        "en": "105-Acre Lush Resort-Style Green Eco-Campus",
+        "ar": "حرم جامعي أخضر بمساحة 105 أفدنة مصمم كمنتجع طبيعي استوائي",
+        "ko": "105에이커 규모의 수려한 자연 친화적 리조트형 에코 캠퍼스",
+        "ja": "広大な105エーカーの緑豊かなリゾート型エコキャンパス",
+        "zh": "占地105英亩郁郁葱葱如度假胜地般的生态园林式大学城校区",
+        "ru": "Зеленый курортный эко-кампус площадью 105 акров",
+        "fr": "Campus écologique verdoyant de 105 acres façon resort",
+        "es": "Campus ecológico de 105 acres tipo resort rodeado de naturaleza"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Simulasi Bangsal Keperawatan & Lab Klinis Terpadu",
+        "en": "Nursing Simulation Healthcare Wards & Clinical Skills Suites",
+        "ar": "أجنحة محاكاة التمريض ومختبرات المهارات السريرية الطبية المتقدمة",
+        "ko": "간호 시뮬레이션 종합 병동 및 임상 술기 전문 실습실",
+        "ja": "看護シミュレーション模擬病棟＆臨床スキル実習センター",
+        "zh": "高仿真模拟护理教学病房与综合临床护理技能培训中心",
+        "ru": "Симуляционные палаты сестринского дела и клинических навыков",
+        "fr": "Salles de simulation de soins infirmiers et de compétences cliniques",
+        "es": "Salas de simulación de enfermería y habilidades clínicas avanzadas"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Bioteknologi Terapan & Kultur Jaringan Tanaman",
+        "en": "Applied Biotechnology & Plant Tissue Culture Research Suites",
+        "ar": "مختبرات التقنية الحيوية التطبيقية وأبحاث زراعة الأنسجة النباتية",
+        "ko": "응용 생명공학 및 식물 조직 배양 첨단 전문 연구 랩",
+        "ja": "応用バイオテクノロジー＆植物組織培養専門研究ラボ",
+        "zh": "应用生物技术实验室与高规格植物基因组织培养科研温室",
+        "ru": "Лаборатории прикладной биотехнологии и культивирования тканей",
+        "fr": "Laboratoires de biotechnologie appliquée et de culture tissulaire végétale",
+        "es": "Laboratorios de biotecnología aplicada y cultivo de tejidos vegetales"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Pionir Teknik Perawatan Pesawat Terbang Bersertifikasi EASA",
+        "en": "Pioneering Aircraft Maintenance Engineering (EASA Aligned)",
+        "ar": "الرائدة في هندسة صيانة الطائرات المتوافقة مع معايير EASA الأوروبية",
+        "ko": "유럽항공안전청(EASA) 기준에 맞춘 항공정비공학의 독보적 선구자",
+        "ja": "欧州航空安全機関（EASA）基準に準拠した航空整備工学のパイオニア",
+        "zh": "马来西亚率先对接欧洲航空安全局（EASA）标准的飞机维修工程先驱学府",
+        "ru": "Пионер в обучении техобслуживанию самолетов по стандартам EASA",
+        "fr": "Pionnier en ingénierie de maintenance aéronautique (conforme EASA)",
+        "es": "Pionero en ingeniería de mantenimiento de aeronaves (alineado con EASA)"
+      },
+      "desc": {
+        "id": "Lulusan memiliki keunggulan kompetitif tinggi dengan kualifikasi pemeliharaan armada penerbangan komersial internasional.",
+        "en": "Graduates gain a direct edge qualifying to service international commercial airline fleets globally.",
+        "ar": "يتمتع الخريجون بميزة تنافسية كبرى تؤهلهم للعمل في صيانة أساطيل الطيران التجاري العالمية.",
+        "ko": "국제 상용 항공사 플릿을 정비할 수 있는 실무 자격을 갖춰 글로벌 항공업계 진출.",
+        "ja": "国際的な商業航空機の運航整備に従事できる実践的資格を身につけ、世界へ羽ばたく。",
+        "zh": "毕业生具备维修国际民用商业机队的权威适航资质，是全球各大国际机场及航司争相录用的技术骨干。",
+        "ru": "Выпускники получают преимущество для работы в международных авиакомпаниях по всему миру.",
+        "fr": "Les diplômés bénéficient d'un atout majeur pour entretenir les flottes commerciales internationales.",
+        "es": "Los graduados obtienen una ventaja directa para mantener flotas comerciales internacionales."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Hijau 105 Hektar yang Tenang & Mendukung Fokus Belajar",
+        "en": "Serene 105-Acre Natural Sanctuary Ideal for Focused Learning",
+        "ar": "حرم طبيعي أخضر هادئ بمساحة 105 أفدنة يوفر أجواء مثالية للتركيز",
+        "ko": "학업에 완벽히 몰입할 수 있는 105에이커 규모의 평화로운 자연 캠퍼스",
+        "ja": "学業に専念できる105エーカーの静穏で美しい緑のサンクチュアリ",
+        "zh": "占地105英亩清幽秀美、远离喧嚣的绿色天然氧吧大学城，利于专心治学",
+        "ru": "Умиротворенный зеленый кампус площадью 105 акров для идеальной концентрации",
+        "fr": "Un sanctuaire naturel de 105 acres idéal pour se concentrer sur ses études",
+        "es": "Un entorno natural de 105 acres ideal para la máxima concentración en los estudios"
+      },
+      "desc": {
+        "id": "Lingkungan kampus asri dengan fasilitas olahraga komprehensif, danau buatan, dan udara bersih di kawasan Nilai.",
+        "en": "Lush surroundings equipped with full sports arenas, lakes, and pristine clean air in educational hub Nilai.",
+        "ar": "محيط جامعي غني بالمسطحات الخضراء، والملاعب الرياضية، والبحيرات والهواء النقي في مدينة نيلاي التعليمية.",
+        "ko": "종합 스포츠 경기장, 인공 호수 및 맑은 공기를 자랑하는 교육 특구 닐라이의 쾌적한 환경.",
+        "ja": "総合スポーツ施設、人工湖、澄んだ空気を誇る文教都市ニライの快適な学習環境。",
+        "zh": "全套现代化室内外运动球场、人工湖泊与纯净空气，坐落于马来西亚著名的高等教育重镇“汝来”。",
+        "ru": "Живописная территория с полным набором спортивных площадок, озерами и чистым воздухом.",
+        "fr": "Cadre verdoyant avec complexes sportifs, lacs et air pur dans le pôle universitaire de Nilai.",
+        "es": "Entorno verde con complejos deportivos, lagos y aire puro en el centro universitario de Nilai."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Biaya Pendidikan & Asrama Sangat Terjangkau dengan Beasiswa Nilai",
+        "en": "Affordable Tuition & Living with High-Value Nilai Scholarships",
+        "ar": "تكاليف دراسية ومعيشية ميسرة للغاية مع منح دراسية سخية من الجامعة",
+        "ko": "부담 없는 등록금과 저렴한 생활비, 그리고 풍부한 성적 장학금 혜택",
+        "ja": "極めて手頃な学費と生活費、充実したニライ大学特待奨学金制度",
+        "zh": "超高性价比学杂费与极其亲民的住宿开支，配合慷慨的新生卓越奖学金",
+        "ru": "Доступная стоимость учебы и проживания со щедрыми стипендиями Nilai",
+        "fr": "Scolarité et logement très abordables avec des bourses d'études attractives",
+        "es": "Matrícula y vida sumamente asequibles con atractivas becas de Nilai"
+      },
+      "desc": {
+        "id": "Memberikan akses pendidikan berkualitas tinggi dengan biaya hidup bulanan yang sangat bersahabat bagi mahasiswa.",
+        "en": "Delivering premier education while maintaining living and accommodation costs among the lowest in Malaysia.",
+        "ar": "تتيح الحصول على تعليم أكاديمي رفيع المستوى بأقل تكاليف معيشية وسكنية في ماليزيا.",
+        "ko": "말레이시아 전역에서 가장 저렴한 수준의 기숙사비와 생활비로 고품질 교육 실현.",
+        "ja": "国内最安クラスの寮費と生活費で、質の高い高等教育を受けることができます。",
+        "zh": "在确保扎实教学质量的同时，将学生每月的食宿日常花销维持在全马最低水平线之一。",
+        "ru": "Качественное образование при одних из самых низких расходах на жизнь в стране.",
+        "fr": "Offre un enseignement de qualité avec des coûts de logement et de vie parmi les plus bas de Malaisie.",
+        "es": "Educación de calidad manteniendo los costes de vida y alojamiento entre los más bajos de Malasia."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Lokasi Strategis: 20 Menit ke Bandara KLIA & Terhubung Kereta KTM Nilai",
+        "en": "Connected Location: 20 Minutes to KLIA & Direct Nilai KTM Rail",
+        "ar": "موقع استراتيجي متصل: 20 دقيقة إلى مطار KLIA الدولي وقطار KTM نيلاي",
+        "ko": "쿠알라룸푸르 국제공항 20분 거리 및 닐라이 KTM 통근열차망 연계",
+        "ja": "KLIA空港まで20分＆ニライKTMコミューター駅直結の好アクセス",
+        "zh": "四通八达的高铁通勤区：距吉隆坡国际机场仅20分钟，KTM城际铁路通达全境",
+        "ru": "Удобная локация: 20 минут до аэропорта KLIA и прямая связь с KTM Nilai",
+        "fr": "Situation géographique idéale : 20 minutes de KLIA et train direct KTM Nilai",
+        "es": "Ubicación estratégica: a 20 minutos de KLIA y conectada con el tren KTM de Nilai"
+      },
+      "desc": {
+        "id": "Akses mudah ke Kuala Lumpur melalui kereta komuter KTM dan jalan tol utama, dekat dengan pusat perbelanjaan AEON Nilai.",
+        "en": "Effortless travel to central Kuala Lumpur via commuter rail and major highways, adjacent to AEON Mall Nilai.",
+        "ar": "سهولة التنقل إلى كوالالمبور عبر قطار الضواحي والطرق السريعة الرئيسية، بالقرب من مول إيون نيلاي.",
+        "ko": "KTM 통근 전철과 고속도로를 통해 쿠알라룸푸르 도심까지 편리하게 이동, 이온몰 닐라이 인접.",
+        "ja": "KTM通勤電車や高速道路でKL都心へ快適アクセス、大型イオンモール・ニライもすぐ近く。",
+        "zh": "通过城铁及南北高速干线轻松往返吉隆坡市区，毗邻全森美兰州最大的AEON汝来旗舰购物中心。",
+        "ru": "Легкий доступ в Куала-Лумпур на пригородном поезде и автотрассах, рядом с ТЦ AEON.",
+        "fr": "Accès aisé à Kuala Lumpur par le train et l'autoroute, tout près du grand centre commercial AEON Nilai.",
+        "es": "Fácil acceso a Kuala Lumpur mediante tren de cercanías y autopistas, junto al centro comercial AEON Nilai."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Asrama Residensi Mahasiswa Kampus Hijau Nilai On-Campus Halls",
+        "en": "Nilai University Official On-Campus Green Student Hostels",
+        "ar": "مجمعات السكن الطلابي الخضراء الرسمية داخل حرم جامعة نيلاي",
+        "ko": "닐라이 대학교 교내 공식 친환경 학생 기숙사 (Green Hostels)",
+        "ja": "ニライ大学学内公式グリーン学生ホステル",
+        "zh": "汝来大学官方校内森林式园林学生宿舍群",
+        "ru": "Официальные студенческие эко-общежития на кампусе Nilai University",
+        "fr": "Résidences étudiantes officielles sur le campus vert de Nilai University",
+        "es": "Residencias de estudiantes oficiales en el campus verde de Nilai University"
+      },
+      "distance": {
+        "id": "Terletak Langsung di Dalam Lingkungan Kampus (1 Menit Jalan Kaki)",
+        "en": "Located Directly on Campus Grounds (1-Minute Walk to Classes)",
+        "ar": "تقع مباشرة داخل حرم الجامعة (دقيقة واحدة سيراً على الأقدام)",
+        "ko": "캠퍼스 내 위치 (강의실까지 도보 단 1분)",
+        "ja": "キャンパス敷地内に直結（講義棟まで徒歩1分）",
+        "zh": "坐落于校园绿树环抱生活区，步行1分钟即达各教学楼",
+        "ru": "Непосредственно на территории кампуса (1 минута пешком)",
+        "fr": "Situé directement sur le campus (1 minute à pied des cours)",
+        "es": "Ubicadas en el campus (a 1 minuto a pie de las clases)"
+      },
+      "priceRange": "RM 300 - RM 650 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam dengan Patroli Petugas",
+          "Kamar AC / Kipas Angin Pilihan dengan Meja Belajar",
+          "WiFi Kampus & Ruang Santai Mahasiswa",
+          "Dapur Komunal & Fasilitas Binatu Lengkap",
+          "Dekat Lapangan Tenis, Futsal & Kafetaria Kampus"
+        ],
+        "en": [
+          "24/7 Gated Security & Regular Wardens Patrol",
+          "Air-Conditioned / Fan Single and Twin Options",
+          "Campus WiFi & Communal Student Social Lounges",
+          "Shared Kitchenettes & Full In-House Laundry Facilities",
+          "Steps to Tennis Courts, Futsal Arenas & Food Court"
+        ],
+        "ar": [
+          "حراسة أمنية 24/7 ودوريات إشراف مستمرة",
+          "خيارات غرف فردية وثنائية مكيفة أو بمروحة مع مكاتب دراسية",
+          "إنترنت الحرم الجامعي وصالات استراحة اجتماعية",
+          "مطابخ مشتركة ومرافق غسيل ملابس كاملة",
+          "على بعد خطوات من ملاعب التنس وكرة القدم الخماسية والمطاعم"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian (Sangat Terjangkau)",
+        "en": "Food & Daily Dining (Very Affordable)",
+        "ar": "الطعام والمأكولات اليومية (اقتصادي جداً)"
+      },
+      "cost": "RM 450 - RM 750"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus Shuttle Kampus",
+        "en": "Local Transit & Free Campus Shuttle",
+        "ar": "المواصلات وحافلات الحرم المجانية"
+      },
+      "cost": "RM 30 - RM 80"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 60 - RM 120"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Biaya Hiburan",
+        "en": "Personal Expenses & Recreation",
+        "ar": "المستلزمات الشخصية والأنشطة الطلابية"
+      },
+      "cost": "RM 160 - RM 320"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apa saja program studi paling populer di Nilai University?",
+        "en": "What are the most popular programmes at Nilai University?",
+        "ar": "ما هي أكثر التخصصات الدراسية طلباً وشهرة في جامعة نيلاي؟",
+        "ko": "닐라이 대학교에서 가장 인기 있는 대표 전공은 무엇인가요?",
+        "ja": "ニライ大学で最も人気があり評価の高い専攻は何ですか？",
+        "zh": "在汝来大学（Nilai University），最受国际学生青睐的标志性专业有哪些？",
+        "ru": "Какие программы пользуются наибольшей популярностью в Nilai University?",
+        "fr": "Quelles sont les filières les plus prisées à Nilai University ?",
+        "es": "¿Cuáles son las carreras más populares en Nilai University?"
+      },
+      "a": {
+        "id": "Teknik Perawatan Pesawat Terbang (Aircraft Maintenance), Ilmu Keperawatan (Nursing), Bioteknologi, Ilmu Komputer, serta Manajemen Bisnis dan Perhotelan.",
+        "en": "Aircraft Maintenance Engineering, Nursing, Biotechnology, Computer Science, and Business & Hospitality Management.",
+        "ar": "هندسة صيانة الطائرات، وعلوم التمريض، والتقنية الحيوية، وعلوم الحاسوب، وإدارة الأعمال وإدارة الفنادق.",
+        "ko": "항공정비공학(Aircraft Maintenance), 간호학(Nursing), 생명공학, 컴퓨터 과학 및 경영/호텔경영학과입니다.",
+        "ja": "航空機整備工学、看護学、バイオテクノロジー、コンピュータサイエンス、経営＆ホテルマネジメント専攻です。",
+        "zh": "飞机维修工程（具有极高声誉）、护理学、应用生物技术、计算机科学以及工商管理与酒店管理。",
+        "ru": "Обслуживание авиатехники, сестринское дело, биотехнология, IT и менеджмент.",
+        "fr": "La maintenance aéronautique, les soins infirmiers, la biotechnologie, l'informatique et le commerce.",
+        "es": "Mantenimiento de aeronaves, enfermería, biotecnología, informática y gestión empresarial."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah sarjana (Bachelor) di Nilai University?",
+        "en": "What are the tuition fee rates for bachelor degrees at Nilai University?",
+        "ar": "كم تبلغ تكاليف ورسوم البكالوريوس في جامعة نيلاي؟",
+        "ko": "닐라이 대학교의 학부 학위 과정 평균 학비는 어느 정도인가요?",
+        "ja": "ニライ大学の学士課程の年間学費はどれくらいですか？",
+        "zh": "汝来大学攻读本科学位的全套学费大约在什么区间？",
+        "ru": "Каковы расценки на обучение на бакалавриате в Nilai University?",
+        "fr": "Quels sont les tarifs de scolarité en licence à Nilai University ?",
+        "es": "¿Cuáles son los precios de matrícula para una licenciatura en Nilai University?"
+      },
+      "a": {
+        "id": "Sangat terjangkau: Program Bisnis dan IT sekitar $3.800 - $4.800 USD per tahun. Program Bioteknologi dan Keperawatan sekitar $4.500 - $5.500 USD per tahun. Teknik Perawatan Pesawat sekitar $6.500 USD per tahun.",
+        "en": "Extremely affordable: Business & IT range from $3,800 to $4,800 USD/year. Biotechnology & Nursing average $4,500 to $5,500 USD/year. Aircraft Maintenance is approx $6,500 USD/year.",
+        "ar": "اقتصادية ومناسبة جداً: إدارة الأعمال وتكنولوجيا المعلومات بين 3,800 إلى 4,800 دولار سنوياً. والتقنية الحيوية والتمريض بين 4,500 إلى 5,500 دولار سنوياً. وصيانة الطائرات حوالي 6,500 دولار سنوياً.",
+        "ko": "매우 경제적입니다: 경영 및 IT는 연간 약 3,800~4,800 달러, 생명공학 및 간호학은 연간 약 4,500~5,500 달러, 항공정비는 연간 약 6,500 달러 선입니다.",
+        "ja": "非常に手頃です：ビジネス＆ITは年間約3,800〜4,800米ドル、バイオテクノロジー＆看護は年間約4,500〜5,500米ドル、航空整備専攻は年間約6,500米ドルです。",
+        "zh": "亲民经济：商科及IT专业每年学费仅需约3,800至4,800美元；生物技术及护理学每年约4,500至5,500美元；高成本的飞机维修工程每年也仅需约6,500美元。",
+        "ru": "Бизнес и IT: 3 800–4 800 $ в год; биотехнологии и медицина: 4 500–5 500 $ в год; авиатехника: около 6 500 $ в год.",
+        "fr": "Très abordable : commerce et IT entre 3 800 et 4 800 $ par an ; biotechnologie et soins infirmiers entre 4 500 et 5 500 $ par an ; aéronautique 6 500 $ par an.",
+        "es": "Muy accesible: Empresa y TI entre 3.800 y 4.800 $ al año; Biotecnología y Enfermería entre 4.500 y 5.500 $; Mantenimiento de aeronaves aprox. 6.500 $ al año."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya akomodasi asrama mahasiswa di kampus Nilai?",
+        "en": "What is the average student hostel cost on campus at Nilai?",
+        "ar": "كم تبلغ تكلفة السكن الجامعي الداخلي في حرم جامعة نيلاي؟",
+        "ko": "닐라이 대학교 교내 기숙사의 월 평균 비용은 얼마인가요?",
+        "ja": "ニライ大学の学内学生寮の月額家賃はどれくらいですか？",
+        "zh": "入住汝来大学校内花园学生宿舍的月均住宿开支大概是多少？",
+        "ru": "Какова средняя стоимость проживания в общежитиях Nilai?",
+        "fr": "Quel est le coût moyen du logement étudiant sur le campus de Nilai ?",
+        "es": "¿Cuál es el coste medio del alojamiento universitario en el campus de Nilai?"
+      },
+      "a": {
+        "id": "Sangat hemat: berkisar antara RM 300 hingga RM 650 per bulan tergantung tipe kamar (kamar bersama atau single ber-AC), lengkap dengan fasilitas keamanan 24 jam.",
+        "en": "Highly economical: ranging from RM 300 to RM 650 per month depending on room configuration (shared or single air-conditioned), complete with 24/7 security.",
+        "ar": "اقتصادية للغاية: تتراوح بين 300 إلى 650 رينجيت شهرياً حسب نوع الغرفة (مشتركة أو فردية مكيفة)، مع حراسة وخدمات أمنية على مدار الساعة.",
+        "ko": "월 RM 300~650 선으로 매우 저렴하며, 에어컨 완비 1인실 또는 다인실 선택 가능 및 24시간 보안 제공.",
+        "ja": "月額RM 300〜650と国内最安水準で、相部屋またはエアコン付き個室を選べ、24時間警備も万全です。",
+        "zh": "极其实惠：根据房型（双人间分摊或独立空调单间），每月仅需300至650马币，配备24小时专人安保。",
+        "ru": "Очень выгодно: от 300 до 650 ринггитов в месяц (общие или одноместные с кондиционером) с круглосуточной охраной.",
+        "fr": "Très économique : de 300 à 650 RM par mois selon le type de chambre, avec sécurité 24h/24.",
+        "es": "Muy asequible: entre 300 y 650 RM al mes según la habitación, con seguridad 24 horas."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk pendaftaran di Nilai University?",
+        "en": "What are the IELTS English entry requirements at Nilai University?",
+        "ar": "ما هي متطلبات درجة آيلتس (IELTS) للقبول في جامعة نيلاي؟",
+        "ko": "닐라이 대학교 입학에 필요한 IELTS 점수 기준은 무엇인가요?",
+        "ja": "ニライ大学出願に必要なIELTSスコアの基準は？",
+        "zh": "申请入读汝来大学各项专业需要提交怎样的雅思（IELTS）成绩？",
+        "ru": "Каковы требования по IELTS для поступления в Nilai University?",
+        "fr": "Quelles sont les exigences d'IELTS à Nilai University ?",
+        "es": "¿Cuáles son los requisitos de IELTS para ingresar en Nilai University?"
+      },
+      "a": {
+        "id": "Sebagian besar program sarjana mensyaratkan skor IELTS 5.0 hingga 5.5, dengan tes penempatan bahasa internal di kampus.",
+        "en": "Most degree programmes require an IELTS score of 5.0 to 5.5, with on-campus English placement pathways available.",
+        "ar": "تتطلب معظم البرامج درجة IELTS بين 5.0 إلى 5.5، وتوفر الجامعة اختبارات تحديد مستوى لغوي في الحرم.",
+        "ko": "대부분의 학사 과정은 IELTS 5.0~5.5를 요구하며, 자체 영어 시험 및 어학과정을 통한 입학도 지원합니다.",
+        "ja": "大半の学部課程でIELTS 5.0〜5.5が必要ですが、学内プレースメントテストによる進学も可能です。",
+        "zh": "多数本科学位仅需雅思5.0至5.5分；无雅思者亦可参加入学英语测试直读语言班衔接。",
+        "ru": "Для большинства программ требуется IELTS 5.0–5.5; есть внутреннее языковое тестирование.",
+        "fr": "La plupart des programmes demandent un IELTS de 5.0 à 5.5 ; un test de niveau interne est disponible.",
+        "es": "La mayoría de carreras exigen entre 5.0 y 5.5 de IELTS; se ofrece prueba interna de inglés."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan periode intake pendaftaran mahasiswa baru di Nilai University?",
+        "en": "When are the primary intake months open at Nilai University?",
+        "ar": "ما هي أشهر ومواعيد استقبال الطلاب الجدد في جامعة نيلاي؟",
+        "ko": "닐라이 대학교의 신입생 모집 학기는 몇 월인가요?",
+        "ja": "ニライ大学の主な入学時期（インテイク）はいつですか？",
+        "zh": "汝来大学每年招收国际学生的主要开学批次都在哪些月份？",
+        "ru": "В какие месяцы проходит прием новых студентов в Nilai University?",
+        "fr": "Quelles sont les sessions d'admission à Nilai University ?",
+        "es": "¿Cuáles son los periodos de admisión en Nilai University?"
+      },
+      "a": {
+        "id": "Intake utama untuk sarjana berlangsung pada bulan Januari, Juni, dan Oktober setiap tahun.",
+        "en": "Primary intakes occur in January, June, and October each academic year.",
+        "ar": "تبدأ فترات القبول والتسجيل الرئيسية في أشهر يناير ويونيو وأكتوبر من كل عام دراسي.",
+        "ko": "정규 학사 과정 입학은 매년 1월, 6월, 10월에 진행됩니다.",
+        "ja": "学士課程の主要な入学期は毎年1月、6月、10月です。",
+        "zh": "本科学位课程每年的正规招生入学节点为1月、6月以及10月。",
+        "ru": "Основные наборы студентов проходят в январе, июне и октябре каждого учебного года.",
+        "fr": "Les rentrées principales se déroulent en janvier, juin et octobre de chaque année.",
+        "es": "Las convocatorias principales tienen lugar en enero, junio y octubre."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Teknik Perawatan Pesawat Terbang di Nilai University",
+        "en": "Complete Guide to Aircraft Maintenance Engineering at Nilai University",
+        "ar": "الدليل الشامل لهندسة صيانة الطائرات في جامعة نيلاي: الاعتماد والآفاق",
+        "ko": "닐라이 대학교 항공정비공학 완벽 가이드: EASA 연계 및 글로벌 취업",
+        "ja": "ニライ大学航空機整備工学完全ガイド：EASA基準の教育とグローバル就職",
+        "zh": "汝来大学飞机维修工程（AME）全景报考指南：EASA适航标准与全球高薪航司就业",
+        "ru": "Полный гид по авиатехнике в Nilai University: стандарты EASA и карьера",
+        "fr": "Guide complet de l'ingénierie de maintenance aéronautique à Nilai University",
+        "es": "Guía completa de ingeniería de mantenimiento de aeronaves en Nilai University"
+      },
+      "summary": {
+        "id": "Eksplorasi fasilitas hanggar pesawat, pelatihan mesin jet turbin, sertifikasi EASA, dan rekrutmen teknisi maskapai.",
+        "en": "Explore genuine aircraft hangars, jet turbine workshops, EASA-compliant modules, and airline fleet engineering roles.",
+        "ar": "استكشف مرافق حظائر الطائرات ومحركات التوربينات والمناهج المعتمدة وفرص العمل كمهندس طيران معتمد.",
+        "ko": "실제 비행기 격납고 실습, 터빈 엔진 워크숍, EASA 준수 모듈 및 국제 항공사 정비 엔지니어 진출 분석.",
+        "ja": "実機格納庫、ジェットタービン実習室、EASA準拠のカリキュラム、航空会社への就職ルートを解説。",
+        "zh": "实地探秘真机机库实操演练、涡轮发动机拆装车间、EASA适航大纲标准及全球民航巨头高薪工匠工程师通道。",
+        "ru": "Обзор ангара с реальными самолетами, мастерских реактивных двигателей и программ трудоустройства.",
+        "fr": "Présentation des hangars avec avions réels, des ateliers de moteurs et des débouchés auprès des compagnies.",
+        "es": "Descubre los hangares reales, talleres de turbinas de avión y salidas profesionales en aerolíneas."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Kehidupan di Kampus Hijau 105 Hektar: Belajar Tenang dengan Biaya Hemat",
+        "en": "Living on a 105-Acre Eco-Campus: Serene Studies on a Sensible Budget",
+        "ar": "الحياة في حرم جامعي أخضر بمساحة 105 أفدنة: دراسة هادئة بميزانية اقتصادية",
+        "ko": "105에이커 숲속 에코 캠퍼스 라이프: 가장 알뜰한 예산으로 누리는 여유로운 유학",
+        "ja": "105エーカーの緑のキャンパスライフ：リーズナブルな予算で実現する快適留学",
+        "zh": "隐于林泉的105英亩度假风生态大学城：以最亲民的家庭预算坐享舒适留学生活",
+        "ru": "Жизнь на эко-кампусе площадью 105 акров: спокойная учеба при разумном бюджете",
+        "fr": "Vivre sur un campus écologique de 105 acres : des études sereines à budget maîtrisé",
+        "es": "Vivir en un campus ecológico de 105 acres: estudio tranquilo con un presupuesto ajustado"
+      },
+      "summary": {
+        "id": "Rincian anggaran bulanan RM 800 - RM 1.000, fasilitas olahraga komprehensif, dan keasrian alam sekitar Nilai.",
+        "en": "Budgeting well on RM 800 - RM 1,000/month, comprehensive sports arenas, and peaceful green living in Nilai.",
+        "ar": "تفصيل ميزانية شهرية بين 800 إلى 1000 رينجيت شاملة السكن والطعام والملاعب الرياضية والطبيعة النقية.",
+        "ko": "월 RM 800~1,000으로 해결되는 알뜰한 생활비, 다채로운 스포츠 시설 및 닐라이의 상쾌한 자연 환경.",
+        "ja": "月額RM 800〜1,000で暮らせる生活費シミュレーション、充実のスポーツ設備、ニライの豊かな自然。",
+        "zh": "详解月度综合开销仅需800至1000马币的超低生活成本、标准综合体育设施配置及汝来山清水秀的求学生态。",
+        "ru": "Бюджет 800–1000 ринггитов в месяц, спортивные комплексы и живописная природа городка Нилай.",
+        "fr": "Budget mensuel de 800 à 1000 RM, infrastructures sportives complètes et cadre verdoyant à Nilai.",
+        "es": "Presupuesto de 800 a 1.000 RM al mes, amplias instalaciones deportivas y naturaleza en Nilai."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Menghubungkan Nilai ke KL & Bandara: Panduan Transportasi Mahasiswa",
+        "en": "Connecting Nilai to KL & KLIA: The Ultimate Student Transit Guide",
+        "ar": "الربط بين نيلاي وكوالالمبور والمطار: دليل المواصلات والتنقل الشامل للطلاب",
+        "ko": "닐라이에서 KL 도심과 공항까지: 대중교통 및 통근 완벽 가이드",
+        "ja": "ニライからKL都心＆空港へのアクセス：学生向け交通ナビ",
+        "zh": "从汝来到吉隆坡市中心与国际机场：学生日常高铁、穿梭巴士与公共交通完全攻略",
+        "ru": "Связь Нилая с Куала-Лумпуром и аэропортом: гид по транспорту для студентов",
+        "fr": "Relier Nilai à KL et à l'aéroport : le guide des transports pour les étudiants",
+        "es": "Conectar Nilai con KL y el aeropuerto: la guía de transporte para estudiantes"
+      },
+      "summary": {
+        "id": "Cara mudah bepergian menggunakan kereta KTM komuter Nilai, bus shuttle kampus, dan akses tol PLUS ke pusat kota.",
+        "en": "Simple transit via Nilai KTM commuter rail, campus shuttles, and major highways straight into central Kuala Lumpur.",
+        "ar": "وسائل التنقل المريحة عبر قطار KTM الضواحي وحافلات الحرم الجامعي وطريق PLUS السريع إلى كوالالمبور.",
+        "ko": "닐라이 KTM 통근 전철, 무료 캠퍼스 셔틀버스, 고속도로를 이용해 쿠알라룸푸르 시내로 이동하는 법.",
+        "ja": "ニライKTMコミューター列車、学内シャトルバス、高速道路を活用したKL都心への移動ノウハウ。",
+        "zh": "手把手教你乘坐KTM通勤列车直通吉隆坡中心、搭乘校区免费班车往返商圈及自驾快捷通道指引。",
+        "ru": "Поездки на пригородном поезде KTM, университетских шаттлах и по скоростным автотрассам.",
+        "fr": "Comment se déplacer avec le train KTM de Nilai, les navettes de campus et les grands axes routiers.",
+        "es": "Cómo desplazarse con el tren de cercanías KTM de Nilai, autobuses del campus y autopistas."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Teknik Perawatan Pesawat Terbang (Aircraft Maintenance)",
+        "en": "Aircraft Maintenance Engineering (AME)",
+        "ar": "هندسة صيانة الطائرات (برنامج AME المتوافق مع EASA)",
+        "ko": "항공정비공학부 (Aircraft Maintenance Engineering)",
+        "ja": "航空機整備工学部（AMEプログラム）",
+        "zh": "飞机维修工程学院（欧洲EASA准入大纲）",
+        "ru": "Обслуживание авиатехники (Aircraft Maintenance)",
+        "fr": "Maintenance aéronautique (AME conforme EASA)",
+        "es": "Mantenimiento de Aeronaves (AME alineado con EASA)"
+      },
+      "degree": "Diploma & Advanced Degree",
+      "duration": "2.5 - 3 Years",
+      "feeUSD": "$14,500 - $17,500 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Keperawatan (Bachelor of Science Nursing)",
+        "en": "Nursing (Bachelor of Science Hons)",
+        "ar": "علوم التمريض (بكالوريوس العلوم مع مرتبة الشرف)",
+        "ko": "간호학과 (간호학 학사 우수 학위)",
+        "ja": "看護学部（看護科学栄誉学士学位）",
+        "zh": "护理学荣誉理学士学位（含全真医院实习）",
+        "ru": "Сестринское дело (бакалавр наук с отличием)",
+        "fr": "Sciences infirmières (avec mention)",
+        "es": "Enfermería (Grado en Ciencias con honores)"
+      },
+      "degree": "Bachelor of Science (Hons)",
+      "duration": "4 Years",
+      "feeUSD": "$18,000 - $21,500 Total",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Bioteknologi Terapan (Bachelor of Science Biotech)",
+        "en": "Applied Biotechnology (BSc Hons)",
+        "ar": "التقنية الحيوية التطبيقية (بكالوريوس العلوم)",
+        "ko": "응용 생명공학과 (생명공학 우수 학사)",
+        "ja": "応用バイオテクノロジー学部（理学栄誉学士）",
+        "zh": "应用生物技术荣誉理学士学位",
+        "ru": "Прикладная биотехнология (с отличием)",
+        "fr": "Biotechnologie appliquée (avec mention)",
+        "es": "Biotecnología Aplicada (con honores)"
+      },
+      "degree": "Bachelor of Science (Hons)",
+      "duration": "3 Years",
+      "feeUSD": "$13,500 - $16,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Komputer, Rekayasa Perangkat Lunak & IT",
+        "en": "Computer Science & Software Engineering",
+        "ar": "علوم الحاسوب وهندسة البرمجيات وتقنية المعلومات",
+        "ko": "컴퓨터 과학 및 소프트웨어 공학부",
+        "ja": "コンピュータサイエンス＆ソフトウェア工学部",
+        "zh": "计算机科学与软件工程学院",
+        "ru": "Компьютерные науки и разработка ПО",
+        "fr": "Informatique et génie logiciel",
+        "es": "Ciencias de la Computación y Software"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$12,500 - $15,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Administrasi Bisnis, Pemasaran & Manajemen Perhotelan",
+        "en": "Business Administration & Hospitality Management",
+        "ar": "إدارة الأعمال والتسويق وإدارة الضيافة الفندقية",
+        "ko": "경영학, 마케팅 및 호텔경영학부",
+        "ja": "経営学・マーケティング＆ホテルマネジメント学部",
+        "zh": "工商管理、国际市场营销与国际酒店管理学院",
+        "ru": "Бизнес-администрирование и гостиничный менеджмент",
+        "fr": "Administration des affaires et gestion hôtelière",
+        "es": "Administración de Empresas y Gestión Hotelera"
+      },
+      "degree": "Bachelor of Business Administration",
+      "duration": "3 Years",
+      "feeUSD": "$11,500 - $14,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Science / Business (Persiapan Sarjana Nilai)",
+        "en": "Foundation in Science / Business",
+        "ar": "السنة التمهيدية في العلوم أو الأعمال (مسار جامعة نيلاي)",
+        "ko": "이과 / 문과 대학 진학 파운데이션 예비과정",
+        "ja": "理系・文系大学進学準備ファウンデーション",
+        "zh": "理科/商科大学预科基础文凭课程",
+        "ru": "Подготовительный курс (Foundation) по наукам/бизнесу",
+        "fr": "Année préparatoire en sciences ou commerce",
+        "es": "Fundamentos en Ciencias o Empresa"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$3,400 - $4,000 Total",
+      "ielts": "4.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=lK9tpi7Rxgo",
+  "programs": [
+    {
+      "id": "nilai-diploma-in-information-technology",
+      "universityId": "nilai",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 19080,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19080
+        },
+        {
+          "year": 2,
+          "fee": 19080
+        }
+      ],
+      "totalTuitionFee": 38160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-diploma-in-computer-science",
+      "universityId": "nilai",
+      "name": "Diploma in Computer Science",
+      "nameAr": "دبلوم علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 19080,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19080
+        },
+        {
+          "year": 2,
+          "fee": 19080
+        }
+      ],
+      "totalTuitionFee": 38160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-computer-science-honours-data-science",
+      "universityId": "nilai",
+      "name": "Bachelor of Computer Science (Honours) (Data Science)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-information-technology-hons-internet-engineering-and-cloud-computing",
+      "universityId": "nilai",
+      "name": "Bachelor of Information Technology (Hons) (Internet Engineering and Cloud Computing)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في الحوسبة السحابية",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-in-software-engineering-hons",
+      "universityId": "nilai",
+      "name": "Bachelor in Software Engineering (Hons)",
+      "nameAr": "بكالوريوس في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-information-technology-hons",
+      "universityId": "nilai",
+      "name": "Bachelor of Information Technology (Hons)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-software-engineering-honours-application-development-online-degree",
+      "universityId": "nilai",
+      "name": "Bachelor of Software Engineering (Honours) (Application Development) - Online Degree",
+      "nameAr": "بكالوريوس هندسة البرمجيات (مع مرتبة الشرف) (تطوير التطبيقات) أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 10600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10600
+        },
+        {
+          "year": 2,
+          "fee": 10600
+        },
+        {
+          "year": 3,
+          "fee": 10600
+        }
+      ],
+      "totalTuitionFee": 31800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-information-technology",
+      "universityId": "nilai",
+      "name": "Master of Information Technology",
+      "nameAr": "ماجستير تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15370,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15370
+        },
+        {
+          "year": 2,
+          "fee": 15370
+        }
+      ],
+      "totalTuitionFee": 30740,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-in-computer-science-honours-artificial-intelligence",
+      "universityId": "nilai",
+      "name": "Bachelor in Computer Science (Honours) (Artificial Intelligence)",
+      "nameAr": "بكالوريوس في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25440,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25440
+        },
+        {
+          "year": 2,
+          "fee": 25440
+        },
+        {
+          "year": 3,
+          "fee": 25440
+        }
+      ],
+      "totalTuitionFee": 76320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-in-information-technology-cybersecurity-honours",
+      "universityId": "nilai",
+      "name": "Bachelor in Information Technology (Cybersecurity) (Honours)",
+      "nameAr": "بكالوريوس في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-foundation-in-business",
+      "universityId": "nilai",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 20140,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20140
+        }
+      ],
+      "totalTuitionFee": 20140,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-diploma-in-accounting",
+      "universityId": "nilai",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 19080,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19080
+        },
+        {
+          "year": 2,
+          "fee": 19080
+        }
+      ],
+      "totalTuitionFee": 38160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-diploma-in-business-administration",
+      "universityId": "nilai",
+      "name": "Diploma in Business Administration",
+      "nameAr": "دبلوم إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 19080,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19080
+        },
+        {
+          "year": 2,
+          "fee": 19080
+        }
+      ],
+      "totalTuitionFee": 38160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-diploma-in-culinary-arts",
+      "universityId": "nilai",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 21465,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21465
+        },
+        {
+          "year": 2,
+          "fee": 21465
+        }
+      ],
+      "totalTuitionFee": 42930,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-diploma-in-hotel-management",
+      "universityId": "nilai",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 21465,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21465
+        },
+        {
+          "year": 2,
+          "fee": 21465
+        }
+      ],
+      "totalTuitionFee": 42930,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-arts-hons-in-accounting-finance",
+      "universityId": "nilai",
+      "name": "Bachelor of Arts (Hons) in Accounting & Finance",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-hons-in-finance",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Hons) in Finance",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-hons",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Hons)",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-finance-honours-financial-technology",
+      "universityId": "nilai",
+      "name": "Bachelor of Finance (Honours) (Financial Technology)",
+      "nameAr": "بكالوريوس المالية في Honours) (Financial Technology",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-hons-in-human-resource-management",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Hons) in Human Resource Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-hons-in-international-business",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Hons) in International Business",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-hons-in-management",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Hons) in Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-hons-in-marketing",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Hons) in Marketing",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-commerce-hons-international-business-online-degree",
+      "universityId": "nilai",
+      "name": "Bachelor of Commerce (Hons) (International Business) - Online Degree",
+      "nameAr": "بكالوريوس التجارة (مع مرتبة الشرف) (الأعمال الدولية) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 10600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10600
+        },
+        {
+          "year": 2,
+          "fee": 10600
+        },
+        {
+          "year": 3,
+          "fee": 10600
+        }
+      ],
+      "totalTuitionFee": 31800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-hons-in-digital-marketing",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Hons) in Digital Marketing",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في التسويق الرقمي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-in-hospitality-management-honours-with-business-management",
+      "universityId": "nilai",
+      "name": "Bachelor in Hospitality Management (Honours) with Business Management",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-business-administration",
+      "universityId": "nilai",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 27560,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27560
+        }
+      ],
+      "totalTuitionFee": 27560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-business-administration-marketing",
+      "universityId": "nilai",
+      "name": "Master of Business Administration (Marketing)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29680,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29680
+        }
+      ],
+      "totalTuitionFee": 29680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-business-administration-banking-and-finance",
+      "universityId": "nilai",
+      "name": "Master of Business Administration (Banking and Finance)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29680,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29680
+        }
+      ],
+      "totalTuitionFee": 29680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-business-administration-human-resource-management",
+      "universityId": "nilai",
+      "name": "Master of Business Administration (Human Resource Management)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29680,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29680
+        }
+      ],
+      "totalTuitionFee": 29680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-business-administration-online-degree",
+      "universityId": "nilai",
+      "name": "Master of Business Administration - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 20140,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20140
+        }
+      ],
+      "totalTuitionFee": 20140,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-doctor-of-philosophy-in-management-phdmg",
+      "universityId": "nilai",
+      "name": "Doctor of Philosophy in Management (PhDMG)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management (PhDMG",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 15900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15900
+        },
+        {
+          "year": 2,
+          "fee": 15900
+        },
+        {
+          "year": 3,
+          "fee": 15900
+        }
+      ],
+      "totalTuitionFee": 47700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-events-management-honours",
+      "universityId": "nilai",
+      "name": "Bachelor of Events Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Events Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23320,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23320
+        },
+        {
+          "year": 2,
+          "fee": 23320
+        },
+        {
+          "year": 3,
+          "fee": 23320
+        }
+      ],
+      "totalTuitionFee": 69960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-business-administration-honours-in-global-logistic",
+      "universityId": "nilai",
+      "name": "Bachelor of Business Administration (Honours) in Global Logistic",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Global Logistic",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21200
+        },
+        {
+          "year": 2,
+          "fee": 21200
+        },
+        {
+          "year": 3,
+          "fee": 21200
+        }
+      ],
+      "totalTuitionFee": 63600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-in-business-management",
+      "universityId": "nilai",
+      "name": "Master in Business Management",
+      "nameAr": "ماجستير في Master in Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 27560,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27560
+        }
+      ],
+      "totalTuitionFee": 27560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-diploma-in-aircraft-maintenance-engineering",
+      "universityId": "nilai",
+      "name": "Diploma in Aircraft Maintenance Engineering",
+      "nameAr": "دبلوم في Aircraft Maintenance Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 30757,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30757
+        },
+        {
+          "year": 2,
+          "fee": 30757
+        }
+      ],
+      "totalTuitionFee": 61514,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-advanced-diploma-in-aircraft-engineering-technology",
+      "universityId": "nilai",
+      "name": "Advanced Diploma in Aircraft Engineering Technology",
+      "nameAr": "دبلوم في Advanced Diploma in Aircraft Engineering Technology",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 33942,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33942
+        }
+      ],
+      "totalTuitionFee": 33942,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-applied-sciences",
+      "universityId": "nilai",
+      "name": "Master of Applied Sciences",
+      "nameAr": "ماجستير في Master of Applied Sciences",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 15370,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15370
+        },
+        {
+          "year": 2,
+          "fee": 15370
+        }
+      ],
+      "totalTuitionFee": 30740,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-diploma-in-nursing",
+      "universityId": "nilai",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 16997,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16997
+        },
+        {
+          "year": 2,
+          "fee": 16997
+        },
+        {
+          "year": 3,
+          "fee": 16997
+        }
+      ],
+      "totalTuitionFee": 50991,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-science-hons-in-nursing",
+      "universityId": "nilai",
+      "name": "Bachelor of Science (Hons) in Nursing",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 20900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20900
+        },
+        {
+          "year": 2,
+          "fee": 20900
+        },
+        {
+          "year": 3,
+          "fee": 20900
+        },
+        {
+          "year": 4,
+          "fee": 20900
+        }
+      ],
+      "totalTuitionFee": 83600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-nursing-hons-online-degree",
+      "universityId": "nilai",
+      "name": "Bachelor of Nursing (Hons) - Online Degree",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 10949,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Aug, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10949
+        },
+        {
+          "year": 2,
+          "fee": 10949
+        },
+        {
+          "year": 3,
+          "fee": 10949
+        }
+      ],
+      "totalTuitionFee": 32847,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-science-hons-biotechnology",
+      "universityId": "nilai",
+      "name": "Bachelor of Science (Hons) Biotechnology",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25440,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25440
+        },
+        {
+          "year": 2,
+          "fee": 25440
+        },
+        {
+          "year": 3,
+          "fee": 25440
+        }
+      ],
+      "totalTuitionFee": 76320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-doctor-of-philosophy-in-education-phded",
+      "universityId": "nilai",
+      "name": "Doctor of Philosophy in Education (PhDED)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education (PhDED",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17596,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17596
+        },
+        {
+          "year": 2,
+          "fee": 17596
+        },
+        {
+          "year": 3,
+          "fee": 17596
+        }
+      ],
+      "totalTuitionFee": 52788,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-arts-in-education",
+      "universityId": "nilai",
+      "name": "Master of Arts in Education",
+      "nameAr": "ماجستير في Master of Arts in Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 14840,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14840
+        },
+        {
+          "year": 2,
+          "fee": 14840
+        }
+      ],
+      "totalTuitionFee": 29680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-master-of-education",
+      "universityId": "nilai",
+      "name": "Master of Education",
+      "nameAr": "ماجستير في Master of Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29680,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Jun, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29680
+        }
+      ],
+      "totalTuitionFee": 29680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-bachelor-of-science-in-flight-operations-hons-private-pilot-license-ppl-programme",
+      "universityId": "nilai",
+      "name": "Bachelor of Science in Flight Operations (Hons.) + Private Pilot License (PPL) programme",
+      "nameAr": "بكالوريوس العلوم في Flight Operations (Hons.) + Private Pilot License (PPL) programme",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21200
+        },
+        {
+          "year": 2,
+          "fee": 21200
+        },
+        {
+          "year": 3,
+          "fee": 21200
+        }
+      ],
+      "totalTuitionFee": 63600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nilai-foundation-in-science",
+      "universityId": "nilai",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Science",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 20140,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20140
+        }
+      ],
+      "totalTuitionFee": 20140,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 47,
+  "totalProgramsCount": 47
+}

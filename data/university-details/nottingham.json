@@ -1,0 +1,3626 @@
+{
+  "id": "nottingham",
+  "name": "University of Nottingham Malaysia",
+  "arabicName": "جامعة نوتنغهام البريطانية في ماليزيا",
+  "city": "Semenyih, Selangor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-nottingham.webp",
+  "image": "assets/photo/campus_nottingham.webp",
+  "website": "https://www.nottingham.edu.my/",
+  "ranking": "Rank 108 QS World University Rankings 2025 (UK Russell Group)",
+  "established": "2000",
+  "campusName": "Nottingham Valley Green Campus, Semenyih",
+  "studentCount": "5,500+ (80+ Countries)",
+  "intakes": "Feb, Jun, Sep",
+  "feeRangeMin": 30000,
+  "feeRangeMax": 74415,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/Ni2C42RAbM0",
+  "description": "University of Nottingham Malaysia is one of the leading recognized higher education institutions located in Semenyih, Selangor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة نوتنغهام البريطانية في ماليزيا واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Semenyih, Selangor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "University of Nottingham Malaysia (UNM) didirikan pada tahun 2000 di Semenyih, Selangor, sebagai kampus cabang internasional resmi dari University of Nottingham Inggris (Rank 108 QS World). Menempati lahan kampus hijau 125 hektar dengan kurikulum dan gelar asli Inggris.",
+    "en": "University of Nottingham Malaysia (UNM), established in 2000 in Semenyih, Selangor, is the premier international branch campus of the University of Nottingham UK (Rank 108 QS World / Russell Group), awarding identical UK degrees across a magnificent 125-acre parkland campus.",
+    "ar": "تأسس فرع جامعة نوتنجهام البريطانية في ماليزيا (UNM) عام 2000 في سيمينيه بسيلانغور، وهو الحرم الدولي الرسمي لواحدة من أعرق جامعات بريطانيا (المرتبة 108 عالمياً وعضو Russell Group)، ويمنح الدرجات البريطانية المعتمدة على مساحة 125 فداناً.",
+    "zh": "英国诺丁汉大学马来西亚分校（UNM）创办于2000年，坐落于雪兰莪州士毛月，是英国百年顶尖名校诺丁汉大学（QS全球第108位、英国罗素大学集团核心成员）的直属国际校区，占地125英亩，授予纯正英国本校学位。",
+    "ru": "Кампус Ноттингемского университета в Малайзии (UNM) — официальный филиал престижного британского University of Nottingham (Rank 108 QS), выдающий подлинный диплом Russell Group.",
+    "fr": "Le campus de l'Université de Nottingham en Malaisie (UNM) est l'antenne officielle de Nottingham UK (108e mondial, Russell Group), délivrant les mêmes diplômes britanniques.",
+    "es": "El campus de la Universidad de Nottingham en Malasia (UNM) es la sede oficial de Nottingham UK (108.º mundial), otorgando titulaciones británicas idénticas en su campus de 125 acres.",
+    "ja": "ノッティンガム大学マレーシア校（UNM）は英ラッセルグループ名門ノッティンガム大学（QS世界第108位）の直営校であり、125エーカーのキャンパスで完全同一の英国正規学位を授与。",
+    "ko": "노팅엄 대학교 말레이시아 캠퍼스(UNM)는 영국 러셀그룹 명문 노팅엄 대학교(QS 세계 108위)의 공식 직속 캠퍼스로 125에이커 규모에서 영국 본교와 동일한 학위를 수여합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Kampus Hijau 125 Hektar di Perbukitan Semenyih",
+        "en": "125-Acre Picturesque Green Hills Campus with Lake Reserve",
+        "ar": "حرم التلال الخضراء والبحيرة الطبيعية 125 فداناً في سيمينيه",
+        "ko": "125에이커 규모의 천혜 자연 호수 전망 친환경 그린 캠퍼스",
+        "ja": "美しい湖と丘陵に囲まれた125エーカーの広大なグリーンキャンパス",
+        "zh": "占地125英亩风景如画、湖光山色的全生态英式大学城校区",
+        "ru": "Живописный эко-кампус площадью 125 акров на холмах Семени",
+        "fr": "Superbe campus verdoyant de 125 acres avec lac à Semenyih",
+        "es": "Espectacular campus verde de 125 acres junto a un lago en Semenyih"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Laboratorium Nanoteknologi & Rekayasa Kimia Terdepan",
+        "en": "Advanced Nanotechnology & Chemical Engineering Labs",
+        "ar": "مختبرات تكنولوجيا النانو المتقدمة والهندسة الكيميائية",
+        "ko": "차세대 나노기술 및 화학 공학 첨단 선도 연구 실험실",
+        "ja": "最先端ナノテクノロジー＆化学工学専門研究ラボ",
+        "zh": "前沿纳米科技研究中心与高规格化学工程专业实验室",
+        "ru": "Лаборатории нанотехнологий и передовой химической инженерии",
+        "fr": "Laboratoires de pointe en nanotechnologies et génie chimique",
+        "es": "Laboratorios avanzados de nanotecnología e ingeniería química"
+      }
+    },
+    {
+      "icon": "library",
+      "title": {
+        "id": "Perpustakaan Akademik Bergaya Inggris 3-Lantai & Pod Belajar Tenang",
+        "en": "3-Storey British Academic Library & Quiet Study Pods",
+        "ar": "المكتبة الأكاديمية البريطانية ثلاثية الطوابق وقاعات الاستذكار الهادئة",
+        "ko": "3층 규모의 정통 영국식 학술 도서관 및 조용한 독립 학습 부스",
+        "ja": "3階建て英国風アカデミック図書館＆個別集中自習ポッド",
+        "zh": "三层英伦典雅风范大型学术图书馆与私密静音学习舱",
+        "ru": "3-этажная британская академическая библиотека и капсулы для учебы",
+        "fr": "Bibliothèque universitaire britannique sur 3 étages et cabines d'étude",
+        "es": "Biblioteca académica británica de 3 plantas y módulos de estudio"
+      }
+    },
+    {
+      "icon": "‍️",
+      "title": {
+        "id": "Kompleks Olahraga Lengkap dengan Kolam Renang 25m & Lapangan Squash",
+        "en": "Sports Complex with 25m Pool, Squash & Football Pitches",
+        "ar": "المجمع الرياضي المتكامل مع مسبح 25 متراً وملاعب اسكواش وكرة قدم",
+        "ko": "25m 규격 수영장, 스쿼시 코트 및 축구장을 갖춘 종합 스포츠 센터",
+        "ja": "25mプール、スカッシュコート、サッカー場完備の総合スポーツ施設",
+        "zh": "配备25米半奥标恒温泳池、壁球馆与专业真草足球场的综合运动馆",
+        "ru": "Спортивный комплекс с 25-метровым бассейном, сквошем и футбольными полями",
+        "fr": "Complexe sportif avec piscine de 25m, squash et terrains de football",
+        "es": "Complejo deportivo con piscina de 25m, pistas de squash y campos de fútbol"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇬🇧",
+      "title": {
+        "id": "Ijazah Resmi Russell Group Inggris Identik dengan Kampus UK",
+        "en": "Full British Russell Group Degree Identical to UK Campus",
+        "ar": "شهادة بريطانية رسمية من مجموعة راسل مطابقة تماماً لحرم بريطانيا",
+        "ko": "영국 러셀 그룹 명문 노팅엄 본교와 100% 동일한 공식 학위 수여",
+        "ja": "英国ラッセル・グループ名門本校と全く同一の正式な学位記を授与",
+        "zh": "颁发与英国本土罗素大学集团诺丁汉大学完全一致的正规学位证书",
+        "ru": "Подлинный диплом британского Russell Group, идентичный диплому в Великобритании",
+        "fr": "Diplôme officiel du prestigieux Russell Group britannique identique au campus UK",
+        "es": "Título oficial del Russell Group británico idéntico al del campus de Reino Unido"
+      },
+      "desc": {
+        "id": "Lulusan menerima ijazah langsung dari University of Nottingham UK dengan kurikulum dan pengawasan akademik yang sama persis.",
+        "en": "Graduates receive their degree directly from University of Nottingham UK with identical academic moderation.",
+        "ar": "يتسلم الطالب شهادة التخرج مباشرة من جامعة نوتنغهام في بريطانيا بنفس المعايير الأكاديمية والاعتمادات الدولية.",
+        "ko": "영국 노팅엄 본교에서 직접 학위를 수여하며 본교와 100% 동일한 학사 관리 기준 적용.",
+        "ja": "英国本校から直接学位が授与され、本校と全く同等の厳格な学術基準が維持されます。",
+        "zh": "所有毕业证书均由英国诺丁汉大学本部直接颁发，享受完全相同的教学品质与全球学术公认。",
+        "ru": "Выпускники получают дипломы британского образца с высочайшими академическими стандартами.",
+        "fr": "Les diplômés reçoivent un diplôme britannique bénéficiant des mêmes accréditations mondiales.",
+        "es": "Los graduados reciben su título directamente de la Universidad de Nottingham en el Reino Unido."
+      }
+    },
+    {
+      "icon": "award",
+      "title": {
+        "id": "Peringkat Top 100 QS World University Rankings Global",
+        "en": "Top 100 QS World University Rankings Global Prestige",
+        "ar": "مكانة مرموقة ضمن أفضل 100 جامعة على مستوى العالم في تصنيف QS",
+        "ko": "글로벌 QS 세계 대학 랭킹 Top 100위권 명문대의 위상",
+        "ja": "世界QS大学ランキングTop 100位入りの世界的名声と信頼",
+        "zh": "位列全球前100顶尖世界大学QS排名殿堂的国际学术盛誉",
+        "ru": "Престиж университета из Топ-100 мирового рейтинга QS",
+        "fr": "Prestige mondial du Top 100 au classement mondial des universités QS",
+        "es": "Prestigio internacional del Top 100 mundial en el ranking QS"
+      },
+      "desc": {
+        "id": "Peringkat internasional elit yang diakui oleh kementerian pendidikan dan perusahaan multinasional teratas di dunia.",
+        "en": "Elite global standing recognized by education ministries and leading multinational corporations worldwide.",
+        "ar": "تصنيف نخبوي دولي معترف به لدى وزارات التعليم العالي وكبرى الشركات العالمية في كافة الدول.",
+        "ko": "전 세계 교육부 및 글로벌 다국적 기업이 전폭적으로 인정하는 최고 수준의 학벌 경쟁력.",
+        "ja": "各国の教育省や世界的大手企業が公認する最高峰の教育ブランド。",
+        "zh": "享誉全球的高含金量文凭，受到全球各国教育部与财富500强跨国企业的高度赞誉。",
+        "ru": "Элитный статус, признанный министерствами образования и глобальными корпорациями.",
+        "fr": "Une reconnaissance prestigieuse par les ministères et les grandes multinationales.",
+        "es": "Reconocimiento internacional de élite por ministerios y empresas multinacionales."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Pertukaran Mahasiswa Antar-Kampus ke Inggris & China (Ningbo)",
+        "en": "Inter-Campus Student Mobility to UK and China (Ningbo) Campuses",
+        "ar": "فرص التبادل والانتقال بين فروع الجامعة في بريطانيا والصين (نينغبو)",
+        "ko": "영국 본교 및 중국 닝보 캠퍼스로의 자유로운 학기 간 캠퍼스 교환",
+        "ja": "英国本校および中国寧波キャンパスへのシームレスな留学・交換留学",
+        "zh": "一校三区：学生可无缝申请前往英国诺丁汉本部及中国宁波校区研习交流",
+        "ru": "Мобильность между кампусами в Великобритании и Китае (Нинбо)",
+        "fr": "Mobilité inter-campus vers les campus du Royaume-Uni et de Chine (Ningbo)",
+        "es": "Movilidad estudiantil a los campus de Reino Unido y China (Ningbo)"
+      },
+      "desc": {
+        "id": "Mahasiswa dapat menempuh 1 atau 2 semester di kampus UK atau China dengan membayar biaya kuliah standar Malaysia.",
+        "en": "Spend one or two semesters at the UK or China campus while paying affordable Malaysian campus tuition fees.",
+        "ar": "يمكن للطلاب قضاء فصل أو فصلين دراسيين في فرع بريطانيا أو الصين مع دفع الرسوم المنخفضة لفرع ماليزيا.",
+        "ko": "말레이시아 캠퍼스의 합리적인 학비를 유지하면서 영국 본교나 중국 캠퍼스에서 수학 가능.",
+        "ja": "マレーシア校の学費基準を維持したまま、イギリス本校や中国校での留学を体験可能。",
+        "zh": "学生可享受以马来西亚分校优惠学费标准，前往英国本部或中国校区完成一至两个学期的课程。",
+        "ru": "Возможность учиться в кампусах Великобритании или Китая по малазийской стоимости.",
+        "fr": "Possibilité d'étudier au Royaume-Uni ou en Chine aux tarifs avantageux de Malaisie.",
+        "es": "Estudia en los campus de Reino Unido o China pagando las tarifas de Malasia."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Peluang Karir Global & Keterserapan Kerja Lulusan Sangat Tinggi",
+        "en": "High Global Employability & Unrivaled Academic Research Impact",
+        "ar": "نسب توظيف عالمية مرتفعة للغاية وأثر بحثي وأكاديمي استثنائي",
+        "ko": "압도적인 연구 성과와 글로벌 최고 수준의 졸업생 취업 경쟁력",
+        "ja": "卓越した研究成果と世界トップクラスの卒業生就職実績",
+        "zh": "无可比拟的前沿科研成果与傲视群雄的全球毕业生顶尖就业竞争力",
+        "ru": "Высокая востребованность выпускников на мировом рынке труда",
+        "fr": "Employabilité mondiale exceptionnelle et fort impact de la recherche",
+        "es": "Alta empleabilidad global e impacto inigualable en investigación"
+      },
+      "desc": {
+        "id": "Jaringan alumni Nottingham di seluruh dunia membuka akses karir bergaji tinggi di berbagai sektor industri internasional.",
+        "en": "Nottingham's worldwide alumni network unlocks lucrative career opportunities in international industry sectors.",
+        "ar": "شبكة خريجي نوتنغهام العالمية تفتح أبواب الوظائف المرموقة في كبرى المؤسسات والشركات متعددة الجنسيات.",
+        "ko": "전 세계 노팅엄 동문 네트워크를 통해 글로벌 고연봉 전문직으로의 탄탄한 진출 지원.",
+        "ja": "世界中に広がるノッティンガム同窓生ネットワークが国際的な高収入キャリアを切り拓きます。",
+        "zh": "遍布全球的诺丁汉校友网络，为毕业生无缝打通跨国金融、高新科技与工程巨头高薪直通车。",
+        "ru": "Глобальная сеть выпускников открывает двери в ведущие международные корпорации.",
+        "fr": "Le réseau d'anciens élèves ouvre des opportunités de carrières internationales prestigieuses.",
+        "es": "La red mundial de graduados abre puertas a carreras internacionales bien remuneradas."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "University of Nottingham Malaysia Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة نوتنغهام البريطانية في ماليزيا",
+        "id": "Residensi Mahasiswa Resmi University of Nottingham Malaysia"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from University of Nottingham Malaysia internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة نوتنغهام البريطانية في ماليزيا معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari University of Nottingham Malaysia diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, University of Nottingham Malaysia is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة نوتنغهام البريطانية في ماليزيا معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, University of Nottingham Malaysia terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to University of Nottingham Malaysia?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة نوتنغهام البريطانية في ماليزيا؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke University of Nottingham Malaysia?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from University of Nottingham Malaysia?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة نوتنغهام البريطانية في ماليزيا؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke University of Nottingham Malaysia?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to University of Nottingham Malaysia without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Masuk Kampus Russell Group: University of Nottingham Malaysia",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for University of Nottingham Malaysia",
+        "ar": "دليل القبول في الحرم البريطاني العريق: جامعة نوتنغهام ماليزيا",
+        "zh": "University of Nottingham Malaysia 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в University of Nottingham Malaysia",
+        "fr": "Guide complet d'admission et visa étudiant pour University of Nottingham Malaysia",
+        "es": "Guía completa de admisión y visado de estudiante para University of Nottingham Malaysia",
+        "ja": "University of Nottingham Malaysia 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "University of Nottingham Malaysia 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Standar nilai masuk, keunggulan ijazah Russell Group UK, dan alur pendaftaran resmi.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شروط القبول الأكاديمي، مميزات الحصول على شهادة بريطانية معتمدة عالمياً، وخطوات التسجيل.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Skema Pertukaran Antar-Kampus ke Nottingham Inggris & China Ningbo",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around University of Nottingham Malaysia",
+        "ar": "برنامج التبادل الطلابي الشامل إلى فرعي نوتنغهام في بريطانيا والصين",
+        "zh": "University of Nottingham Malaysia 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле University of Nottingham Malaysia",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de University of Nottingham Malaysia",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en University of Nottingham Malaysia",
+        "ja": "University of Nottingham Malaysia 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "University of Nottingham Malaysia 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Cara belajar di Inggris dengan biaya kuliah lokal Malaysia melalui skema Inter-Campus Exchange.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل قضاء فصول دراسية في بريطانيا أو الصين بنفس الرسوم المنخفضة لحرم ماليزيا.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Fasilitas Asrama Mahasiswa di Kampus Semenyih",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at University of Nottingham Malaysia",
+        "ar": "تكاليف المعيشة وتفاصيل الإقامة في الحرم الأخضر الشاسع بسيمينيه",
+        "zh": "University of Nottingham Malaysia 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в University of Nottingham Malaysia",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à University of Nottingham Malaysia",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en University of Nottingham Malaysia",
+        "ja": "University of Nottingham Malaysia 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "University of Nottingham Malaysia 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Rincian biaya sewa kamar asrama dalam kampus, makan, dan akses shuttle bus gratis.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "تفاصيل السكن الجامعي الداخلي، المصروفات اليومية، وحافلات النقل الترددي المجانية.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Nottingham On-Campus Halls of Residence (Semenyih)",
+        "nameAr": "مجمع السكن الجامعي الداخلي بحرم نوتنغهام",
+        "type": "Single & Twin Ensuite Air-Conditioned Rooms",
+        "typeAr": "غرف فردية ومزدوجة بحمام خاص وتكييف داخل الحرم مباشرة",
+        "priceRange": "RM 650 - RM 1,300 / month",
+        "priceRangeAr": "650 - 1,300 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)",
+        "amenities": [
+          "Wi-Fi Cepat Tanpa Batas",
+          "Lounge Belajar Komunal",
+          "Keamanan 24 Jam & Kartu Akses",
+          "Pusat Kuliner Halal & Kafe",
+          "Akses Cepat ke Fasilitas Olahraga"
+        ],
+        "amenitiesAr": [
+          "إنترنت فائق السرعة",
+          "قاعات استذكار ومطالعة",
+          "حراسة وأمن على مدار الساعة",
+          "مطاعم وكافتيريا حلال",
+          "قريب من الملاعب والمسبح"
+        ]
+      },
+      {
+        "name": "Broga Hilltop Student Condominiums",
+        "nameAr": "أبراج بروجا هيل توب السكنية الخضراء",
+        "type": "Scenic Hillside Serviced Apartments",
+        "typeAr": "شقق سكنية عصرية راقية بإطلالات جبلية طبيعية",
+        "priceRange": "RM 700 - RM 1,400 / month",
+        "priceRangeAr": "700 - 1,400 رينجيت / شهرياً",
+        "distance": "5 menit via Shuttle Bus Kampus",
+        "distanceAr": "5 دقائق عبر حافلة الحرم الجامعي المجانية",
+        "distanceEn": "5 mins via Free Campus Shuttle",
+        "amenities": [
+          "Kolam Renang & Pusat Gym",
+          "Udara Segar Perbukitan",
+          "Perabot Lengkap & Dapur",
+          "Keamanan Ketat 24 Jam",
+          "Shuttle Bus Terjadwal"
+        ],
+        "amenitiesAr": [
+          "مسبح وصالة لياقة بدنية",
+          "إطلالات طبيعية نقية",
+          "مفروشة بالكامل ومطبخ",
+          "أمن وحراسة 24 ساعة",
+          "حافلات نقل منتظمة للحرم"
+        ]
+      },
+      {
+        "name": "Diamond City Luxury Townhouses Semenyih",
+        "nameAr": "فلل ومجمعات دايموند سيتي الفاخرة للطلاب",
+        "type": "Premium Villa-Style Student Living",
+        "typeAr": "مجمعات فلل سكنية راقية للطلاب مع نادٍ صحي",
+        "priceRange": "RM 800 - RM 1,600 / month",
+        "priceRangeAr": "800 - 1,600 رينجيت / شهرياً",
+        "distance": "7 menit via Shuttle / Transportasi Kampus",
+        "distanceAr": "7 دقائق عبر حافلات الجامعة",
+        "distanceEn": "7 mins via Campus Shuttle / Transit",
+        "amenities": [
+          "Clubhouse Mewah & Kolam Renang",
+          "Jogging Track & Lapangan Tenis",
+          "Lingkungan Hijau Eksklusif",
+          "Parkir Luas",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "نادٍ صحي فاخر ومسبح",
+          "مضمار جري وملاعب تنس",
+          "بيئة راقية وآمنة",
+          "مواقف سيارات واسعة",
+          "حراسة مشددة 24 ساعة"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 650 - RM 1,300"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 600 - RM 900"
+      },
+      {
+        "item": "Transportasi Shuttle & Bus",
+        "itemAr": "المواصلات وحافلات التنقل",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 50 - RM 100"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 80 - RM 150"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 180 - RM 350"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,560 - RM 2,800"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية البريطانية في العلوم والهندسة والآداب",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 26,000 - RM 30,000"
+    },
+    {
+      "level": "Bachelor Degree (S1 - Russell Group UK)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس البريطاني المعتمد (هندسة، حوسبة، علوم حيوية، إدارة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 42,000 - RM 58,000"
+    },
+    {
+      "level": "Master Degree (S2 - British Curriculum)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير البريطاني المعتمد (إدارة أعمال، هندسة، علوم حاسب)",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 45,000 - RM 55,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه والبحوث العلمية البريطانية المتقدمة",
+      "duration": "3 - 4 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 36,000 - RM 44,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=Ni2C42RAbM0",
+  "programs": [
+    {
+      "id": "nottingham-bsc-in-computer-science-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Computer Science (Hons)",
+      "nameAr": "برنامج في BSc in Computer Science (Hons",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49000
+        },
+        {
+          "year": 2,
+          "fee": 49000
+        },
+        {
+          "year": 3,
+          "fee": 49000
+        }
+      ],
+      "totalTuitionFee": 147000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-computer-science-with-artificial-intelligence-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Computer Science with Artificial Intelligence (Hons)",
+      "nameAr": "برنامج في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 50000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        },
+        {
+          "year": 2,
+          "fee": 50000
+        },
+        {
+          "year": 3,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 150000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-software-engineering-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Software Engineering (Hons)",
+      "nameAr": "برنامج في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49000
+        },
+        {
+          "year": 2,
+          "fee": 49000
+        },
+        {
+          "year": 3,
+          "fee": 49000
+        }
+      ],
+      "totalTuitionFee": 147000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-foundation-in-science",
+      "universityId": "nottingham",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 34485,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34485
+        }
+      ],
+      "totalTuitionFee": 34485,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-computer-science-research-programmes-mphil",
+      "universityId": "nottingham",
+      "name": "Computer Science Research Programmes MPhil",
+      "nameAr": "برنامج في Computer Science Research Programmes MPhil",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 51865,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51865
+        }
+      ],
+      "totalTuitionFee": 51865,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-computer-science-research-programmes-phd",
+      "universityId": "nottingham",
+      "name": "Computer Science Research Programmes PhD",
+      "nameAr": "دكتوراه في Computer Science Research Programmes PhD",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 51865,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51865
+        },
+        {
+          "year": 2,
+          "fee": 51865
+        },
+        {
+          "year": 3,
+          "fee": 51865
+        }
+      ],
+      "totalTuitionFee": 155595,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-international-business-management-hons",
+      "universityId": "nottingham",
+      "name": "BSc in International Business Management (Hons)",
+      "nameAr": "برنامج في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48000
+        },
+        {
+          "year": 2,
+          "fee": 48000
+        },
+        {
+          "year": 3,
+          "fee": 48000
+        }
+      ],
+      "totalTuitionFee": 144000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-foundation-in-business-and-management",
+      "universityId": "nottingham",
+      "name": "Foundation in Business and Management",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال في and Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 32700,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32700
+        }
+      ],
+      "totalTuitionFee": 32700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-business-and-management-mphil",
+      "universityId": "nottingham",
+      "name": "Business and Management MPhil",
+      "nameAr": "برنامج في Business and Management MPhil",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 45900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-business-and-management-phd",
+      "universityId": "nottingham",
+      "name": "Business and Management PhD",
+      "nameAr": "دكتوراه في Business and Management PhD",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        },
+        {
+          "year": 2,
+          "fee": 45900
+        },
+        {
+          "year": 3,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 137700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-business-international-management-msc",
+      "universityId": "nottingham",
+      "name": "Business (International Management) MSc",
+      "nameAr": "برنامج في Business (International Management) MSc",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 63000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 63000
+        }
+      ],
+      "totalTuitionFee": 63000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-finance-and-investment-msc",
+      "universityId": "nottingham",
+      "name": "Finance and Investment MSc",
+      "nameAr": "برنامج في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58700
+        }
+      ],
+      "totalTuitionFee": 58700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-international-development-management-msc",
+      "universityId": "nottingham",
+      "name": "International Development Management MSc",
+      "nameAr": "برنامج في International Development Management MSc",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58200
+        }
+      ],
+      "totalTuitionFee": 58200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-management-psychology-msc",
+      "universityId": "nottingham",
+      "name": "Management Psychology MSc",
+      "nameAr": "برنامج في علم النفس",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 57000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57000
+        }
+      ],
+      "totalTuitionFee": 57000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-master-of-business-administration-mba",
+      "universityId": "nottingham",
+      "name": "Master of Business Administration MBA",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في MBA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 68365,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68365
+        }
+      ],
+      "totalTuitionFee": 68365,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-chemical-engineering-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Chemical Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 57000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57000
+        },
+        {
+          "year": 2,
+          "fee": 57000
+        },
+        {
+          "year": 3,
+          "fee": 57000
+        },
+        {
+          "year": 4,
+          "fee": 57000
+        }
+      ],
+      "totalTuitionFee": 228000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-chemical-engineering-with-environmental-engineering-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Chemical Engineering with Environmental Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 57000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57000
+        },
+        {
+          "year": 2,
+          "fee": 57000
+        },
+        {
+          "year": 3,
+          "fee": 57000
+        },
+        {
+          "year": 4,
+          "fee": 57000
+        }
+      ],
+      "totalTuitionFee": 228000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-civil-engineering-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Civil Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 61100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 61100
+        },
+        {
+          "year": 2,
+          "fee": 61100
+        },
+        {
+          "year": 3,
+          "fee": 61100
+        },
+        {
+          "year": 4,
+          "fee": 61100
+        }
+      ],
+      "totalTuitionFee": 244400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-electrical-and-electronic-engineering-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Electrical and Electronic Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 61100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 61100
+        },
+        {
+          "year": 2,
+          "fee": 61100
+        },
+        {
+          "year": 3,
+          "fee": 61100
+        },
+        {
+          "year": 4,
+          "fee": 61100
+        }
+      ],
+      "totalTuitionFee": 244400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-mathematics-and-management-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Mathematics and Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Mathematics and Management (Hons",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48500
+        },
+        {
+          "year": 2,
+          "fee": 48500
+        },
+        {
+          "year": 3,
+          "fee": 48500
+        }
+      ],
+      "totalTuitionFee": 145500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-mechanical-engineering-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Mechanical Engineering (Hons)",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 57000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57000
+        },
+        {
+          "year": 2,
+          "fee": 57000
+        },
+        {
+          "year": 3,
+          "fee": 57000
+        },
+        {
+          "year": 4,
+          "fee": 57000
+        }
+      ],
+      "totalTuitionFee": 228000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-mechatronic-engineering-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Mechatronic Engineering (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Mechatronic Engineering (Hons",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 57000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57000
+        },
+        {
+          "year": 2,
+          "fee": 57000
+        },
+        {
+          "year": 3,
+          "fee": 57000
+        },
+        {
+          "year": 4,
+          "fee": 57000
+        }
+      ],
+      "totalTuitionFee": 228000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-foundation-in-engineering",
+      "universityId": "nottingham",
+      "name": "Foundation in Engineering",
+      "nameAr": "برنامج تمهيدي في الهندسة",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 35400,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35400
+        }
+      ],
+      "totalTuitionFee": 35400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-engineering-mphil",
+      "universityId": "nottingham",
+      "name": "Engineering MPhil",
+      "nameAr": "برنامج في Engineering MPhil",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 54430,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54430
+        }
+      ],
+      "totalTuitionFee": 54430,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-engineering-phd",
+      "universityId": "nottingham",
+      "name": "Engineering PhD",
+      "nameAr": "دكتوراه في Engineering PhD",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 54430,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54430
+        },
+        {
+          "year": 2,
+          "fee": 54430
+        },
+        {
+          "year": 3,
+          "fee": 54430
+        }
+      ],
+      "totalTuitionFee": 163290,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-environmental-engineering-msc",
+      "universityId": "nottingham",
+      "name": "Environmental Engineering MSc",
+      "nameAr": "برنامج في Environmental Engineering MSc",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 61700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 61700
+        }
+      ],
+      "totalTuitionFee": 61700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-pharmaceutical-and-health-sciences-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Pharmaceutical and Health Sciences (Hons)",
+      "nameAr": "برنامج في BSc in Pharmaceutical and Health Sciences (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 55500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 55500
+        },
+        {
+          "year": 2,
+          "fee": 55500
+        },
+        {
+          "year": 3,
+          "fee": 55500
+        }
+      ],
+      "totalTuitionFee": 166500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-of-pharmacy-honours",
+      "universityId": "nottingham",
+      "name": "Bachelor of Pharmacy (Honours)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 60000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60000
+        },
+        {
+          "year": 2,
+          "fee": 60000
+        },
+        {
+          "year": 3,
+          "fee": 60000
+        },
+        {
+          "year": 4,
+          "fee": 60000
+        }
+      ],
+      "totalTuitionFee": 240000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-psychology-and-cognitive-neuroscience-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Psychology and Cognitive Neuroscience (Hons)",
+      "nameAr": "برنامج في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48400
+        },
+        {
+          "year": 2,
+          "fee": 48400
+        },
+        {
+          "year": 3,
+          "fee": 48400
+        }
+      ],
+      "totalTuitionFee": 145200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-psychology-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Psychology (Hons)",
+      "nameAr": "برنامج في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48400
+        },
+        {
+          "year": 2,
+          "fee": 48400
+        },
+        {
+          "year": 3,
+          "fee": 48400
+        }
+      ],
+      "totalTuitionFee": 145200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biomedical-sciences-mphil-molecular",
+      "universityId": "nottingham",
+      "name": "Biomedical Sciences MPhil - Molecular",
+      "nameAr": "برنامج في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 74415,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 74415
+        }
+      ],
+      "totalTuitionFee": 74415,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biomedical-sciences-phd-molecular",
+      "universityId": "nottingham",
+      "name": "Biomedical Sciences PhD -Molecular",
+      "nameAr": "دكتوراه في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 74415,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 74415
+        },
+        {
+          "year": 2,
+          "fee": 74415
+        },
+        {
+          "year": 3,
+          "fee": 74415
+        }
+      ],
+      "totalTuitionFee": 223245,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-pharmacy-research-programme-mphil",
+      "universityId": "nottingham",
+      "name": "Pharmacy research programme MPhil",
+      "nameAr": "برنامج في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 58630,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-pharmacy-research-programme-phd",
+      "universityId": "nottingham",
+      "name": "Pharmacy research programme PhD",
+      "nameAr": "دكتوراه في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        },
+        {
+          "year": 2,
+          "fee": 58630
+        },
+        {
+          "year": 3,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 175890,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-developmental-disorders-msc",
+      "universityId": "nottingham",
+      "name": "Developmental Disorders MSc",
+      "nameAr": "برنامج في Developmental Disorders MSc",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 56900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56900
+        }
+      ],
+      "totalTuitionFee": 56900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biomedical-sciences-mphil-non-molecular",
+      "universityId": "nottingham",
+      "name": "Biomedical Sciences MPhil-Non-molecular",
+      "nameAr": "برنامج في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 58630,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biomedical-sciences-phd-non-molecular",
+      "universityId": "nottingham",
+      "name": "Biomedical Sciences PhD - Non-molecular",
+      "nameAr": "دكتوراه في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        },
+        {
+          "year": 2,
+          "fee": 58630
+        },
+        {
+          "year": 3,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 175890,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-biomedical-science-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Biomedical Science (Hons)",
+      "nameAr": "برنامج في العلوم الطبية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 53800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53800
+        },
+        {
+          "year": 2,
+          "fee": 53800
+        },
+        {
+          "year": 3,
+          "fee": 53800
+        }
+      ],
+      "totalTuitionFee": 161400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-biotechnology-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Biotechnology (Hons)",
+      "nameAr": "برنامج في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 53800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53800
+        },
+        {
+          "year": 2,
+          "fee": 53800
+        },
+        {
+          "year": 3,
+          "fee": 53800
+        }
+      ],
+      "totalTuitionFee": 161400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-environmental-science-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Environmental Science (Hons)",
+      "nameAr": "برنامج في BSc in Environmental Science (Hons",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49500
+        },
+        {
+          "year": 2,
+          "fee": 49500
+        },
+        {
+          "year": 3,
+          "fee": 49500
+        }
+      ],
+      "totalTuitionFee": 148500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biosciences-research-programmes-mres-molecular",
+      "universityId": "nottingham",
+      "name": "Biosciences research programmes MRes - Molecular",
+      "nameAr": "برنامج في Biosciences research programmes MRes - Molecular",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 60000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60000
+        }
+      ],
+      "totalTuitionFee": 60000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biosciences-research-programmes-mphil-molecular",
+      "universityId": "nottingham",
+      "name": "Biosciences research programmes MPhil- Molecular",
+      "nameAr": "برنامج في Biosciences research programmes MPhil- Molecular",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 74415,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 74415
+        }
+      ],
+      "totalTuitionFee": 74415,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biosciences-research-programmes-phd-molecular",
+      "universityId": "nottingham",
+      "name": "Biosciences research programmes PhD - Molecular",
+      "nameAr": "دكتوراه في Biosciences research programmes PhD - Molecular",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 74415,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 74415
+        },
+        {
+          "year": 2,
+          "fee": 74415
+        },
+        {
+          "year": 3,
+          "fee": 74415
+        }
+      ],
+      "totalTuitionFee": 223245,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-environmental-and-geographical-sciences-programmes-mphil",
+      "universityId": "nottingham",
+      "name": "Environmental and Geographical Sciences programmes MPhil",
+      "nameAr": "برنامج في Environmental and Geographical Sciences programmes MPhil",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 58630,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-environmental-and-geographical-sciences-programmes-mres",
+      "universityId": "nottingham",
+      "name": "Environmental and Geographical Sciences programmes MRes",
+      "nameAr": "برنامج في Environmental and Geographical Sciences programmes MRes",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 58630,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-environmental-and-geographical-sciences-programmes-phd",
+      "universityId": "nottingham",
+      "name": "Environmental and Geographical Sciences programmes PhD",
+      "nameAr": "دكتوراه في Environmental and Geographical Sciences programmes PhD",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        },
+        {
+          "year": 2,
+          "fee": 58630
+        },
+        {
+          "year": 3,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 175890,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biotechnology-msc",
+      "universityId": "nottingham",
+      "name": "Biotechnology MSc",
+      "nameAr": "برنامج في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 53130,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 53130
+        }
+      ],
+      "totalTuitionFee": 53130,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-mathematical-sciences-mphil",
+      "universityId": "nottingham",
+      "name": "Mathematical Sciences MPhil",
+      "nameAr": "برنامج في Mathematical Sciences MPhil",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 51865,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51865
+        }
+      ],
+      "totalTuitionFee": 51865,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-mathematical-sciences-phd",
+      "universityId": "nottingham",
+      "name": "Mathematical Sciences PhD",
+      "nameAr": "دكتوراه في Mathematical Sciences PhD",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 51865,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51865
+        },
+        {
+          "year": 2,
+          "fee": 51865
+        },
+        {
+          "year": 3,
+          "fee": 51865
+        }
+      ],
+      "totalTuitionFee": 155595,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biosciences-research-programmes-mphil-non-molecular",
+      "universityId": "nottingham",
+      "name": "Biosciences research programmes MPhil -Non-molecular",
+      "nameAr": "برنامج في Biosciences research programmes MPhil -Non-molecular",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 58630,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biosciences-research-programmes-mres-non-molecular",
+      "universityId": "nottingham",
+      "name": "Biosciences research programmes MRes Non-molecular",
+      "nameAr": "برنامج في Biosciences research programmes MRes Non-molecular",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 58630,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-biosciences-research-programmes-phd-non-molecular",
+      "universityId": "nottingham",
+      "name": "Biosciences research programmes PhD - Non-molecular",
+      "nameAr": "دكتوراه في Biosciences research programmes PhD - Non-molecular",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 58630,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58630
+        },
+        {
+          "year": 2,
+          "fee": 58630
+        },
+        {
+          "year": 3,
+          "fee": 58630
+        }
+      ],
+      "totalTuitionFee": 175890,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-applied-psychology-and-management-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Applied Psychology and Management (Hons)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44900
+        },
+        {
+          "year": 2,
+          "fee": 44900
+        },
+        {
+          "year": 3,
+          "fee": 44900
+        }
+      ],
+      "totalTuitionFee": 134700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-business-economics-and-finance-hons",
+      "universityId": "nottingham",
+      "name": "Bsc Business Economics and Finance (Hons)",
+      "nameAr": "برنامج في المالية والتمويل",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48000
+        },
+        {
+          "year": 2,
+          "fee": 48000
+        },
+        {
+          "year": 3,
+          "fee": 48000
+        }
+      ],
+      "totalTuitionFee": 144000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-business-economics-and-management-hons",
+      "universityId": "nottingham",
+      "name": "Bsc in Business Economics and Management (Hons)",
+      "nameAr": "برنامج في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 48000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48000
+        },
+        {
+          "year": 2,
+          "fee": 48000
+        },
+        {
+          "year": 3,
+          "fee": 48000
+        }
+      ],
+      "totalTuitionFee": 144000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-economics-and-international-economics-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Economics and International Economics (Hons)",
+      "nameAr": "برنامج في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46800
+        },
+        {
+          "year": 2,
+          "fee": 46800
+        },
+        {
+          "year": 3,
+          "fee": 46800
+        }
+      ],
+      "totalTuitionFee": 140400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-economics-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Economics (Hons)",
+      "nameAr": "برنامج في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46800
+        },
+        {
+          "year": 2,
+          "fee": 46800
+        },
+        {
+          "year": 3,
+          "fee": 46800
+        }
+      ],
+      "totalTuitionFee": 140400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-finance-accounting-and-management-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Finance, Accounting and Management (Hons)",
+      "nameAr": "برنامج في المالية والتمويل",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 49400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49400
+        },
+        {
+          "year": 2,
+          "fee": 49400
+        },
+        {
+          "year": 3,
+          "fee": 49400
+        }
+      ],
+      "totalTuitionFee": 148200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-applied-psychology-mphil",
+      "universityId": "nottingham",
+      "name": "Applied Psychology MPhil",
+      "nameAr": "برنامج في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 45900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-applied-psychology-phd",
+      "universityId": "nottingham",
+      "name": "Applied Psychology PhD",
+      "nameAr": "دكتوراه في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        },
+        {
+          "year": 2,
+          "fee": 45900
+        },
+        {
+          "year": 3,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 137700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-social-and-behavioural-science-economics-phd",
+      "universityId": "nottingham",
+      "name": "Social and Behavioural Science (Economics) PhD",
+      "nameAr": "دكتوراه في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        },
+        {
+          "year": 2,
+          "fee": 45900
+        },
+        {
+          "year": 3,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 137700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-humanities-english-mphil",
+      "universityId": "nottingham",
+      "name": "Humanities (English) MPhil",
+      "nameAr": "برنامج في Humanities (English) MPhil",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 45900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-humanities-english-phd",
+      "universityId": "nottingham",
+      "name": "Humanities (English) PhD",
+      "nameAr": "دكتوراه في Humanities (English) PhD",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        },
+        {
+          "year": 2,
+          "fee": 45900
+        },
+        {
+          "year": 3,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 137700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-social-and-behavioural-science-media-languages-and-cultures-mphil",
+      "universityId": "nottingham",
+      "name": "Social and Behavioural Science (Media, Languages and Cultures) MPhil",
+      "nameAr": "برنامج في Social and Behavioural Science (Media, Languages and Cultures) MPhil",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 45900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-social-and-behavioural-science-media-languages-and-cultures-mres",
+      "universityId": "nottingham",
+      "name": "Social and Behavioural Science (Media, Languages and Cultures) MRes",
+      "nameAr": "برنامج في Social and Behavioural Science (Media, Languages and Cultures) MRes",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 45900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-social-and-behavioural-science-media-languages-and-cultures-phd",
+      "universityId": "nottingham",
+      "name": "Social and Behavioural Science (Media, Languages and Cultures) PhD",
+      "nameAr": "دكتوراه في Social and Behavioural Science (Media, Languages and Cultures) PhD",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        },
+        {
+          "year": 2,
+          "fee": 45900
+        },
+        {
+          "year": 3,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 137700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-psychology-programme-mres",
+      "universityId": "nottingham",
+      "name": "Psychology programme MRes",
+      "nameAr": "برنامج في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 51865,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51865
+        }
+      ],
+      "totalTuitionFee": 51865,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-psychology-programme-mphil",
+      "universityId": "nottingham",
+      "name": "Psychology programme MPhil",
+      "nameAr": "برنامج في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 51865,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51865
+        }
+      ],
+      "totalTuitionFee": 51865,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-psychology-programme-phd",
+      "universityId": "nottingham",
+      "name": "Psychology programme PhD",
+      "nameAr": "دكتوراه في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 51865,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51865
+        },
+        {
+          "year": 2,
+          "fee": 51865
+        },
+        {
+          "year": 3,
+          "fee": 51865
+        }
+      ],
+      "totalTuitionFee": 155595,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-english-language-and-literature-ma",
+      "universityId": "nottingham",
+      "name": "English Language and Literature MA",
+      "nameAr": "برنامج في English Language and Literature MA",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 46900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46900
+        }
+      ],
+      "totalTuitionFee": 46900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-english-with-creative-writing-ma",
+      "universityId": "nottingham",
+      "name": "English with Creative Writing MA",
+      "nameAr": "برنامج في English with Creative Writing MA",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 46900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46900
+        }
+      ],
+      "totalTuitionFee": 46900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-international-relations-ma",
+      "universityId": "nottingham",
+      "name": "International Relations MA",
+      "nameAr": "برنامج في International Relations MA",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58200
+        }
+      ],
+      "totalTuitionFee": 58200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-social-and-behavioural-science-politics-history-development-and-international-relations-phd",
+      "universityId": "nottingham",
+      "name": "Social and Behavioural Science (Politics, history development and international relations) PhD",
+      "nameAr": "دكتوراه في Social and Behavioural Science (Politics, history development and international relations) PhD",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        },
+        {
+          "year": 2,
+          "fee": 45900
+        },
+        {
+          "year": 3,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 137700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-tesol-in-education-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor TESOL in Education (Hons)",
+      "nameAr": "بكالوريوس في Bachelor TESOL in Education (Hons",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-education-tesol-bed-hons",
+      "universityId": "nottingham",
+      "name": "Education (TESOL) BEd (Hons)",
+      "nameAr": "برنامج في Education (TESOL) BEd (Hons",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35600
+        },
+        {
+          "year": 2,
+          "fee": 35600
+        },
+        {
+          "year": 3,
+          "fee": 35600
+        }
+      ],
+      "totalTuitionFee": 106800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-ba-english-language-and-literature-hons",
+      "universityId": "nottingham",
+      "name": "BA English Language and Literature (Hons)",
+      "nameAr": "برنامج في BA English Language and Literature (Hons",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35500
+        },
+        {
+          "year": 2,
+          "fee": 35500
+        },
+        {
+          "year": 3,
+          "fee": 35500
+        }
+      ],
+      "totalTuitionFee": 106500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-ba-in-english-with-creative-writing-hons",
+      "universityId": "nottingham",
+      "name": "BA in English with Creative Writing (Hons)",
+      "nameAr": "برنامج في BA in English with Creative Writing (Hons",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35500
+        },
+        {
+          "year": 2,
+          "fee": 35500
+        },
+        {
+          "year": 3,
+          "fee": 35500
+        }
+      ],
+      "totalTuitionFee": 106500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-foundation-in-arts-and-education",
+      "universityId": "nottingham",
+      "name": "Foundation in Arts and Education",
+      "nameAr": "برنامج تمهيدي في الآداب في and Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 32700,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32700
+        }
+      ],
+      "totalTuitionFee": 32700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-education-mphil-programme",
+      "universityId": "nottingham",
+      "name": "Education MPhil programme",
+      "nameAr": "برنامج في Education MPhil programme",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 45900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-education-phd-programme",
+      "universityId": "nottingham",
+      "name": "Education PhD programme",
+      "nameAr": "دكتوراه في Education PhD programme",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 45900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45900
+        },
+        {
+          "year": 2,
+          "fee": 45900
+        },
+        {
+          "year": 3,
+          "fee": 45900
+        }
+      ],
+      "totalTuitionFee": 137700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-postgraduate-diploma-in-education",
+      "universityId": "nottingham",
+      "name": "Postgraduate Diploma in Education",
+      "nameAr": "دبلوم في Postgraduate Diploma in Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 39100,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39100
+        }
+      ],
+      "totalTuitionFee": 39100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-education-ma",
+      "universityId": "nottingham",
+      "name": "Education MA",
+      "nameAr": "برنامج في Education MA",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58700
+        }
+      ],
+      "totalTuitionFee": 58700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-special-and-inclusive-education-ma",
+      "universityId": "nottingham",
+      "name": "Special and Inclusive Education MA",
+      "nameAr": "برنامج في Special and Inclusive Education MA",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58700
+        }
+      ],
+      "totalTuitionFee": 58700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-teaching-english-to-speakers-of-other-languages-tesol-ma",
+      "universityId": "nottingham",
+      "name": "Teaching English to Speakers of Other Languages (TESOL) MA",
+      "nameAr": "برنامج في Teaching English to Speakers of Other Languages (TESOL) MA",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58700
+        }
+      ],
+      "totalTuitionFee": 58700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-liberal-arts-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in Liberal Arts (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Liberal Arts (Hons",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-international-communication-studies-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in International Communication Studies (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in International Communication Studies (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44500
+        },
+        {
+          "year": 2,
+          "fee": 44500
+        },
+        {
+          "year": 3,
+          "fee": 44500
+        }
+      ],
+      "totalTuitionFee": 133500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-international-communication-studies-with-english-language-and-literature-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in International Communication Studies with English Language and Literature (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in International Communication Studies with English Language and Literature (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43200
+        },
+        {
+          "year": 2,
+          "fee": 43200
+        },
+        {
+          "year": 3,
+          "fee": 43200
+        }
+      ],
+      "totalTuitionFee": 129600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-international-communication-studies-with-film-and-television-studies-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor International Communication Studies with Film and Television Studies (Hons)",
+      "nameAr": "بكالوريوس في Bachelor International Communication Studies with Film and Television Studies (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43200
+        },
+        {
+          "year": 2,
+          "fee": 43200
+        },
+        {
+          "year": 3,
+          "fee": 43200
+        }
+      ],
+      "totalTuitionFee": 129600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-international-communication-studies-with-performing-arts-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in International Communication Studies with Performing Arts (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in International Communication Studies with Performing Arts (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 39000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39000
+        },
+        {
+          "year": 2,
+          "fee": 39000
+        },
+        {
+          "year": 3,
+          "fee": 39000
+        }
+      ],
+      "totalTuitionFee": 117000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-international-relations-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in International Relations (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in International Relations (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43300
+        },
+        {
+          "year": 2,
+          "fee": 43300
+        },
+        {
+          "year": 3,
+          "fee": 43300
+        }
+      ],
+      "totalTuitionFee": 129900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-international-relations-with-french-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in International Relations with French (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in International Relations with French (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43300
+        },
+        {
+          "year": 2,
+          "fee": 43300
+        },
+        {
+          "year": 3,
+          "fee": 43300
+        }
+      ],
+      "totalTuitionFee": 129900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bachelor-in-international-relations-with-spanish-hons",
+      "universityId": "nottingham",
+      "name": "Bachelor in International Relations with Spanish (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in International Relations with Spanish (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 43300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43300
+        },
+        {
+          "year": 2,
+          "fee": 43300
+        },
+        {
+          "year": 3,
+          "fee": 43300
+        }
+      ],
+      "totalTuitionFee": 129900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-media-communications-and-culture-ma",
+      "universityId": "nottingham",
+      "name": "Media, Communications and Culture MA",
+      "nameAr": "برنامج في Media, Communications and Culture MA",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 58900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58900
+        }
+      ],
+      "totalTuitionFee": 58900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "nottingham-bsc-in-nutrition-hons",
+      "universityId": "nottingham",
+      "name": "BSc in Nutrition (Hons)",
+      "nameAr": "برنامج في BSc in Nutrition (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 46000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        },
+        {
+          "year": 2,
+          "fee": 46000
+        },
+        {
+          "year": 3,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 138000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 94,
+  "totalProgramsCount": 94
+}

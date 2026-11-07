@@ -1,0 +1,6532 @@
+{
+  "id": "msu",
+  "name": "Management & Science University (MSU)",
+  "arabicName": "جامعة الإدارة والعلوم (MSU)",
+  "city": "Shah Alam, Selangor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-msu.webp",
+  "image": "assets/photo/campus_msu.webp",
+  "website": "https://www.msu.edu.my/",
+  "ranking": "Rank 580 QS World University Rankings 2025 (QS 5-Stars Rated)",
+  "established": "2001",
+  "campusName": "MSU University Drive Campus, Shah Alam",
+  "studentCount": "17,000+ (65+ Countries)",
+  "intakes": "Feb, Jul, Sep",
+  "feeRangeMin": 8901,
+  "feeRangeMax": 126000,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/pdYVkdgaFp8",
+  "description": "Management & Science University (MSU) is one of the leading recognized higher education institutions located in Shah Alam, Selangor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة الإدارة والعلوم (MSU) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Shah Alam, Selangor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Management & Science University (MSU) didirikan pada tahun 2001 di Shah Alam, Selangor. Merupakan universitas swasta berpredikat QS 5 Bintang yang terkenal atas program Kedokteran (MBBS), Farmasi, Ilmu Kesehatan, dan Manajemen Bisnis dengan tingkat penyerapan kerja 98,7%.",
+    "en": "Management & Science University (MSU), established in 2001 in Shah Alam, Selangor, is a QS 5-Star rated university celebrated for Medicine (MBBS), Pharmacy, Allied Health, and Business with an outstanding 98.7% graduate employability rate.",
+    "ar": "تأسست جامعة الإدارة والعلوم (MSU) عام 2001 في شاه علم بسيلانغور، وتعد من أبرز الجامعات الخاصة المصنفة بـ 5 نجوم من QS، وتشتهر بتدريس الطب البشري والصيدلة مع نسبة توظيف خريجين تفوق 98.7%.",
+    "zh": "管理与科学大学（MSU）创立于2001年，位于雪兰莪州莎阿南，荣获QS世界五星级卓越评级，以临床医学、药剂学、眼视光学以及高达98.7%的毕业生就业率享誉东南亚。",
+    "ru": "Университет менеджмента и науки (MSU) в Шах-Аламе имеет рейтинг QS 5 звезд и известен программами по медицине, фармации и бизнесу с уровнем трудоустройства 98,7%.",
+    "fr": "La Management & Science University (MSU) à Shah Alam est une université 5 étoiles QS réputée pour sa médecine, sa pharmacie et son taux d'insertion de 98,7 %.",
+    "es": "La Management & Science University (MSU) en Shah Alam cuenta con 5 estrellas QS y destaca en Medicina, Farmacia y Empresa, con un 98,7 % de empleo.",
+    "ja": "マネジメント＆サイエンス大学（MSU）はシャーアラムに位置し、QS 5ツ星認定、医学部、薬学部、98.7%の就職内定率を誇る名門私立大学です。",
+    "ko": "경영과학대학교(MSU)는 샤알람에 위치한 QS 5스타 명문 사립대학으로 의대(MBBS), 약학, 보건과학 분야와 98.7%의 최상위 취업률로 유명합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Medis & Rumah Sakit Pendidikan Swasta MSU Medical Centre (MSUMC)",
+        "en": "MSU Medical Centre (MSUMC) Specialist Private Teaching Hospital",
+        "ar": "مستشفى مركز MSU الطبي الجامعي التخصصي المتطور (MSUMC)",
+        "ko": "MSU 메디컬 센터(MSUMC) 전용 전문 대학병원 및 임상 연구 센터",
+        "ja": "MSU直属メディカルセンター（MSUMC）総合専門教育病院",
+        "zh": "MSU大学直属专科教学综合医院与临床医学中心（MSUMC）",
+        "ru": "Специализированная университетская больница MSU Medical Centre (MSUMC)",
+        "fr": "Hôpital universitaire privé MSU Medical Centre (MSUMC)",
+        "es": "Hospital Universitario Especializado MSU Medical Centre (MSUMC)"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Klinik Optometri & Layanan Perawatan Penglihatan Komprehensif",
+        "en": "Comprehensive Optometry Eye Clinic & Visual Science Suites",
+        "ar": "عيادات فحص البصر وطب العيون والعلوم البصرية المتكاملة",
+        "ko": "종합 검안 클리닉 및 첨단 시각과학 전문 임상 실습실",
+        "ja": "総合検眼アイクリニック＆視覚科学専門実習施設",
+        "zh": "专业视光医学诊所与眼视光科学临床科研实训中心",
+        "ru": "Офтальмологическая клиника оптометрии и зрительных наук",
+        "fr": "Clinique d'optométrie et de sciences visuelles complètes",
+        "es": "Clínica de optometría y ciencias de la visión avanzada"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "The Hub: Suite Hotel Simulasi Bintang 5 & Restoran Gastronomi",
+        "en": "The Hub: 5-Star Mock Hotel Suites & Fine Dining Restaurants",
+        "ar": "ذا هب: أجنحة الفنادق التجريبية 5 نجوم والمطاعم الفاخرة للضيافة",
+        "ko": "더 허브: 5성급 모의 호텔 스위트룸 및 파인 다이닝 실습 레스토랑",
+        "ja": "ザ・ハブ：5つ星模擬ホテルスイート＆ファインダイニング実習施設",
+        "zh": "“The Hub”五星级高仿真实训酒店套房与米其林标准西餐厅",
+        "ru": "The Hub: 5-звездочные учебные гостиничные номера и рестораны высокой кухни",
+        "fr": "The Hub : suites hôtelières 5 étoiles et restaurants d'application gastronomiques",
+        "es": "The Hub: suites de hotel 5 estrellas y restaurante de alta cocina de prácticas"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Penelitian Biomedis & Pusat Terapi Farmasi Klinis",
+        "en": "Advanced Biomedical Research & Clinical Pharmacy Complex",
+        "ar": "مجمع أبحاث العلوم الطبية الحيوية والصيدلة السريرية المتطورة",
+        "ko": "첨단 의생명과학 연구소 및 임상 약학 실습 컴플렉스",
+        "ja": "先端バイオメディカル研究棟＆臨床薬学実習コンプレックス",
+        "zh": "高级生物医药前沿科研实验室与临床药学综合实验大楼",
+        "ru": "Биомедицинский исследовательский комплекс и клиническая фармация",
+        "fr": "Complexe de recherche biomédicale avancée et pharmacie clinique",
+        "es": "Complejo de investigación biomédica y farmacia clínica"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "award",
+      "title": {
+        "id": "Peringkat QS 5-Stars & Terdaftar di QS World University Rankings",
+        "en": "QS 5-Stars Rated & Ranked Among Top Global Universities",
+        "ar": "حاصلة على تصنيف 5 نجوم من QS ومصنفة ضمن أفضل جامعات العالم",
+        "ko": "QS 5스타 최고 등급 획득 및 세계 대학 랭킹 공식 등재 명문대",
+        "ja": "QS 5スター獲得＆世界大学ランキング上位にランクインする名門私立校",
+        "zh": "荣膺QS全球五星级卓越大学认证并稳居世界大学排名前列",
+        "ru": "Обладатель 5 звезд QS и участник мирового рейтинга университетов QS",
+        "fr": "Classée 5 étoiles QS et présente dans le classement mondial des universités QS",
+        "es": "Calificada con 5 estrellas QS y posicionada en el ranking mundial de universidades"
+      },
+      "desc": {
+        "id": "Meraih skor sempurna dalam kategori pengajaran, penyerapan kerja lulusan, fasilitas, inklusivitas, dan tanggung jawab sosial.",
+        "en": "Achieving perfect scores in teaching, employability, campus facilities, inclusiveness, and social responsibility.",
+        "ar": "حققت تقييماً كاملاً في معايير جودة التدريس، وتوظيف الخريجين، والمرافق الحديثة، والمسؤولية المجتمعية.",
+        "ko": "교수진 역량, 졸업생 취업률, 캠퍼스 인프라 및 사회적 책임 전 부문 만점 기록.",
+        "ja": "教育水準、就職実績、キャンパス施設、社会貢献度の各分野で最高評価を達成。",
+        "zh": "在教学质量、毕业生就业率、现代化校园设施及社会服务等关键指标中斩获满分。",
+        "ru": "Максимальные баллы за качество преподавания, трудоустройство и инфраструктуру.",
+        "fr": "Excellents scores en enseignement, employabilité, infrastructures et impact social.",
+        "es": "Puntuaciones máximas en calidad docente, empleabilidad, instalaciones e inclusión."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Tingkat Penyerapan Kerja Lulusan Nasional 98,6% Nomor 1 di Malaysia",
+        "en": "Record 98.6% Graduate Employability Rate (No. 1 in Malaysia)",
+        "ar": "معدل توظيف قياسي لخريجيها بنسبة 98.6% كأعلى معدل وطني في ماليزيا",
+        "ko": "말레이시아 교육부 공인 98.6% 졸업생 취업률 (전국 1위)",
+        "ja": "マレーシア高等教育省認定 卒業生就職率98.6％（国内第1位）",
+        "zh": "经马来西亚高教部权威核定，毕业生就业率高达98.6%（蝉联全马第一）",
+        "ru": "Рекордный показатель трудоустройства выпускников 98,6% (№1 в Малайзии)",
+        "fr": "Taux d'employabilité record de 98,6 % des diplômés (n°1 en Malaisie)",
+        "es": "Tasa récord de empleabilidad de graduados del 98,6% (n.º 1 en Malasia)"
+      },
+      "desc": {
+        "id": "Diakui oleh Kementerian Pendidikan Tinggi Malaysia sebagai universitas swasta dengan rekor penyerapan kerja tertinggi.",
+        "en": "Officially recognized by the Ministry of Higher Education Malaysia as the leader in graduate market integration.",
+        "ar": "معترف بها رسمياً من وزارة التعليم العالي الماليزية كرائدة الجامعات في تأهيل وتوظيف الخريجين الفوري.",
+        "ko": "말레이시아 고등교육부가 선정한 취업 시장 적합성 및 직무 역량 최고 우수 대학.",
+        "ja": "マレーシア高等教育省より、産業界との連携および就職実績においてトップ大学として認定。",
+        "zh": "被马来西亚高等教育部官方评定为毕业生与现代高端产业需求无缝接轨的国家级典范大学。",
+        "ru": "Официально признан Министерством высшего образования Малайзии лидером по трудоустройству.",
+        "fr": "Officiellement reconnue par le ministère malaisien comme le leader de l'insertion sur le marché du travail.",
+        "es": "Reconocida oficialmente por el Ministerio de Educación Superior como líder en inserción laboral."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Fakultas Kedokteran MBBS & Rumah Sakit Mandiri MSUMC",
+        "en": "Premier Medical School (MBBS) & Self-Owned MSUMC Hospital",
+        "ar": "كلية الطب البشري الرائدة (MBBS) والمستشفى التخصصي الخاص بها MSUMC",
+        "ko": "자체 부속 종합병원(MSUMC)을 보유한 최고의 명문 의과대학 (MBBS)",
+        "ja": "直属の総合病院（MSUMC）を併設する名門医科大学（MBBS）",
+        "zh": "拥有直属高水平三甲教学综合医院（MSUMC）的顶尖医学院（MBBS）",
+        "ru": "Ведущий медицинский факультет (MBBS) с собственной больницей MSUMC",
+        "fr": "Faculté de médecine de premier plan (MBBS) avec son propre hôpital MSUMC",
+        "es": "Facultad de Medicina de referencia (MBBS) con hospital propio MSUMC"
+      },
+      "desc": {
+        "id": "Mahasiswa kedokteran dan ilmu kesehatan mendapatkan pelatihan klinis langsung di rumah sakit milik universitas sendiri.",
+        "en": "Medical, nursing, and pharmacy students train hands-on directly within the university’s private teaching hospital.",
+        "ar": "يتلقى طلاب الطب والتمريض والصيدلة تدريبهم الإكلينيكي في المستشفى التعليمي الجامعي الفاخر.",
+        "ko": "의학, 간호학, 약학 전공 학생들이 대학 자체 부속 병원에서 직접 전문 임상 수련 진행.",
+        "ja": "医学生、看護学生、薬学生は直属の大学病院で実践的な臨床トレーニングを積むことが可能。",
+        "zh": "医学、护理及药学专业学子全周期在大学自主产权的高端教学医院直接完成床边教学与轮转见习。",
+        "ru": "Студенты-медики и фармацевты проходят практику в собственной больнице университета.",
+        "fr": "Les étudiants en médecine et en pharmacie effectuent leur formation clinique dans l'hôpital privé du campus.",
+        "es": "Los estudiantes de medicina y farmacia realizan prácticas en el hospital universitario privado propio."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Mobilitas Global Mahasiswa ke 40+ Universitas Mitra Dunia (GMP)",
+        "en": "Global Mobility Programme (GMP) Across 40+ Partner Universities",
+        "ar": "برنامج التبادل والابتعاث الدولي (GMP) مع أكثر من 40 جامعة شريكة عالمياً",
+        "ko": "전 세계 40개 이상의 명문 파트너 대학과 연계된 글로벌 모빌리티(GMP)",
+        "ja": "世界40校以上の名門提携大学と直結したグローバル・モビリティ・プログラム（GMP）",
+        "zh": "辐射全球40余所海外顶尖名校的环球学习流动交流计划（GMP）",
+        "ru": "Программа глобальной мобильности (GMP) с 40+ университетами-партнерами",
+        "fr": "Programme de mobilité internationale (GMP) avec plus de 40 universités partenaires",
+        "es": "Programa de Movilidad Global (GMP) con más de 40 universidades asociadas"
+      },
+      "desc": {
+        "id": "Kesempatan belajar satu semester atau magang luar negeri di Inggris, Jepang, Korea, Australia, dan Eropa.",
+        "en": "Opportunities to spend a semester or complete internships abroad in the UK, Japan, Korea, Australia, and Europe.",
+        "ar": "فرص حقيقية لدراسة فصل دراسي أو قضاء تدريب مهني في بريطانيا واليابان وكوريا وأستراليا وأوروبا.",
+        "ko": "영국, 일본, 한국, 호주 및 유럽 등지에서 한 학기 수학 또는 글로벌 인턴십 기회 부여.",
+        "ja": "イギリス、日本、韓国、オーストラリア、ヨーロッパでの1学期留学や海外インターンシップが可能。",
+        "zh": "学子可自由选赴英国、日本、韩国、澳洲及欧洲开展为期一学期的免额外学费交换深造或海外顶岗实训。",
+        "ru": "Возможность провести семестр или пройти стажировку в Великобритании, Японии, Корее, Австралии и Европе.",
+        "fr": "Possibilité d'effectuer un semestre ou un stage au Royaume-Uni, au Japon, en Corée, en Australie et en Europe.",
+        "es": "Oportunidades de cursar un semestre o hacer prácticas en Reino Unido, Japón, Corea, Australia y Europa."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Residensi Mahasiswa MSU The Residence Shah Alam",
+        "en": "MSU The Residence Official On-Campus Student Apartments",
+        "ar": "مجمع ذا ريزيدنس السكني الطلابي الرسمي التابع لجامعة MSU شاه علم",
+        "ko": "MSU 더 레지던스 교내 공식 프리미엄 학생 아파트 (샤알람)",
+        "ja": "MSU ザ・レジデンス キャンパス内公式学生アパート（シャーアラム）",
+        "zh": "MSU The Residence大学校区内官方专属学生公寓大厦（莎阿南）",
+        "ru": "Официальные студенческие апартаменты The Residence на кампусе MSU",
+        "fr": "Résidence étudiante officielle sur le campus MSU The Residence Shah Alam",
+        "es": "Apartamentos para estudiantes en el campus MSU The Residence Shah Alam"
+      },
+      "distance": {
+        "id": "Terletak Langsung di Dalam Kampus MSU (1 Menit Jalan Kaki)",
+        "en": "Located Directly on MSU Campus Grounds (1-Minute Walk)",
+        "ar": "تقع مباشرة داخل حرم جامعة MSU (دقيقة واحدة سيراً على الأقدام)",
+        "ko": "MSU 캠퍼스 부지 내에 위치 (도보 단 1분 거리)",
+        "ja": "MSUキャンパス敷地内に直結（徒歩1分）",
+        "zh": "坐落于MSU大学主校区内部，下楼步行1分钟即达教学主楼",
+        "ru": "Непосредственно на территории кампуса MSU (1 минута пешком)",
+        "fr": "Situé directement sur le campus de l'MSU (1 minute à pied)",
+        "es": "Ubicada directamente dentro del campus de MSU (a 1 minuto a pie)"
+      },
+      "priceRange": "RM 450 - RM 950 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam dengan Akses Biometrik / Kartu Cerdas",
+          "Akses Langsung ke Perpustakaan & Rumah Sakit MSUMC",
+          "Kamar Full Furnished AC & WiFi Kecepatan Tinggi",
+          "Pusat Kebugaran Gym & Lapangan Futsal / Olahraga",
+          "Kafetaria Halal 24 Jam & Minimarket On-Site"
+        ],
+        "en": [
+          "24/7 Security Patrols with Smart Card Access",
+          "Direct Pedestrian Link to Library & MSUMC Hospital",
+          "Fully Furnished Air-Conditioned Rooms & High-Speed WiFi",
+          "Fitness Gymnasium & Multi-Purpose Sports Courts",
+          "24-Hour Halal Dining Hall & On-Site Convenience Store"
+        ],
+        "ar": [
+          "أمن 24/7 وبوابات إلكترونية ذكية",
+          "ربط مشاة مباشر مع المكتبة المركزية ومستشفى MSUMC",
+          "غرف مؤثثة بالكامل ومكيفة مع إنترنت سريع",
+          "صالة لياقة بدنية وملاعب رياضية متعددة الأغراض",
+          "مطاعم حلال مفتوحة 24 ساعة ومتاجر تموينية داخل المجمع"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian",
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات اليومية"
+      },
+      "cost": "RM 600 - RM 900"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus / KTM Batu Tiga",
+        "en": "Local Public Transit & KTM Commuter",
+        "ar": "المواصلات العامة وقطار KTM"
+      },
+      "cost": "RM 50 - RM 120"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 80 - RM 150"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Buku Kuliah",
+        "en": "Personal Expenses & Textbooks",
+        "ar": "المستلزمات الشخصية والكتب الجامعية"
+      },
+      "cost": "RM 200 - RM 380"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apa saja jurusan paling unggul dan terkenal di MSU?",
+        "en": "What are the most prestigious and popular degree programmes at MSU?",
+        "ar": "ما هي أبرز وأشهر التخصصات الأكاديمية المرموقة في جامعة MSU؟",
+        "ko": "MSU에서 가장 명성이 높고 인기 있는 대표 전공은 무엇인가요?",
+        "ja": "MSUで最も評価が高く人気のある代表的な専攻は何ですか？",
+        "zh": "MSU管理与科学大学最负盛名且最受国际生追捧的王牌优势专业有哪些？",
+        "ru": "Какие программы являются наиболее престижными и популярными в MSU?",
+        "fr": "Quels sont les cursus les plus renommés et demandés à l'MSU ?",
+        "es": "¿Cuáles son las carreras más prestigiosas y demandadas en MSU?"
+      },
+      "a": {
+        "id": "Kedokteran (MBBS), Optometri, Farmasi, Ilmu Biomedis, Manajemen Perhotelan & Gastronomi, serta Bisnis Internasional dan Akuntansi adalah program unggulan utama.",
+        "en": "Medicine (MBBS), Optometry, Pharmacy, Biomedical Science, Hospitality & Culinary Arts, and International Business & Accounting are the premier flagships.",
+        "ar": "الطب البشري (MBBS)، وطب وفحص البصر (Optometry)، والصيدلة، والعلوم الطبية الحيوية، وإدارة الفنادق والضيافة وفنون الطهي، وإدارة الأعمال والمحاسبة.",
+        "ko": "의과대학(MBBS), 검안학(Optometry), 약학, 의생명과학, 호텔경영 및 조리예술, 국제경영 및 회계학이 독보적인 대표 학과입니다.",
+        "ja": "医学（MBBS）、検眼学（Optometry）、薬学、バイオメディカルサイエンス、ホテル経営＆調理芸術、国際ビジネス・会計学が看板専攻です。",
+        "zh": "内外全科医学士（MBBS）、验光视力医学（Optometry）、药剂学、生物医药科学、国际酒店管理与西餐烹饪艺术、以及国际商务与注册会计学为学校核心王牌。",
+        "ru": "Медицина (MBBS), оптометрия, фармация, биомедицина, гостиничный менеджмент и кулинария, международный бизнес и бухучет.",
+        "fr": "La médecine (MBBS), l'optométrie, la pharmacie, les sciences biomédicales, l'hôtellerie et les arts culinaires, le commerce international.",
+        "es": "Medicina (MBBS), Optometría, Farmacia, Ciencias Biomédicas, Gestión Hotelera y Gastronomía, y Negocios Internacionales."
+      }
+    },
+    {
+      "q": {
+        "id": "Apakah gelar MBBS dari MSU diakui oleh dewan medis internasional?",
+        "en": "Is the MSU Medical Degree (MBBS) recognized by international medical councils?",
+        "ar": "هل شهادة الطب البشري (MBBS) من جامعة MSU معترف بها دولياً؟",
+        "ko": "MSU 의과대학(MBBS) 학위는 국제 의학 협회 및 해외에서 공인되나요?",
+        "ja": "MSUの医学部（MBBS）の学位は国際的な医師会・機関から認可されていますか？",
+        "zh": "MSU管理与科学大学的临床医学学士学位（MBBS）是否受到国际医学理事会认可？",
+        "ru": "Признается ли медицинский диплом (MBBS) MSU международными медицинскими советами?",
+        "fr": "Le diplôme de médecine (MBBS) de l'MSU est-il reconnu par les ordres médicaux internationaux ?",
+        "es": "¿Está el título de medicina (MBBS) de MSU reconocido por los colegios médicos internacionales?"
+      },
+      "a": {
+        "id": "Ya, gelar MBBS MSU terakreditasi penuh oleh Dewan Medis Malaysia (MMC), Sri Lanka Medical Council (SLMC), India Medical Council (NMC), dan terdaftar di World Directory of Medical Schools (WDOMS) untuk PLAB dan USMLE.",
+        "en": "Yes, MSU MBBS is accredited by the Malaysian Medical Council (MMC), SLMC, NMC India, and is listed in the World Directory of Medical Schools (WDOMS), qualifying graduates for UK PLAB and USMLE exams.",
+        "ar": "نعم، معتمدة بالكامل من المجلس الطبي الماليزي (MMC) والمجلس الطبي السريلانكي والهندي، ومدرجة في الدليل العالمي لكليات الطب (WDOMS)، ومؤهلة لامتحانات PLAB وUSMLE.",
+        "ko": "네, 말레이시아 의학위원회(MMC)의 완전 인가는 물론 인도, 스리랑카 의학위원회 공인 및 WDOMS에 등재되어 영국 PLAB, 미국 USMLE 응시 자격을 완벽히 갖춥니다.",
+        "ja": "はい、マレーシア医学評議会（MMC）、スリランカ、インドの各医師会から認定を受け、WDOMSにも登録されており、英国PLABや米国USMLEを受験可能です。",
+        "zh": "是的，MSU医学士学位获马来西亚医学理事会（MMC）、印度NMC及斯里兰卡SLMC全面认证，并正式收录于世界医学院校名录（WDOMS），具备报考英美执业医师资格。",
+        "ru": "Да, программа аккредитована MMC, SLMC, NMC India и включена в WDOMS, что дает право сдавать PLAB и USMLE.",
+        "fr": "Oui, le diplôme est agréé par le MMC, le SLMC, le NMC et répertorié dans le WDOMS, permettant de passer les examens du PLAB et de l'USMLE.",
+        "es": "Sí, está plenamente acreditado por el MMC, el SLMC, el NMC y listado en el WDOMS para presentarse al PLAB y al USMLE."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah sarjana (Bachelor) di MSU?",
+        "en": "What is the tuition fee range for bachelor degrees at MSU?",
+        "ar": "ما هي الرسوم الدراسية لبرامج البكالوريوس في جامعة MSU؟",
+        "ko": "MSU의 학사 학위 과정 평균 학비는 어느 정도인가요?",
+        "ja": "MSUの学士課程の年間学費はどれくらいですか？",
+        "zh": "在MSU管理与科学大学修读本科学位的总体学费区间是多少？",
+        "ru": "Каков диапазон стоимости обучения на бакалавриате в MSU?",
+        "fr": "Quelle est la fourchette des frais de scolarité en licence à l'MSU ?",
+        "es": "¿Cuál es el rango de costes de matrícula para un grado en MSU?"
+      },
+      "a": {
+        "id": "Program Bisnis, IT, dan Manajemen Perhotelan berkisar antara $4.500 - $5.800 USD per tahun. Program Ilmu Biomedis dan Farmasi sekitar $6.000 - $7.500 USD per tahun. Kedokteran (MBBS) sekitar $85.000 USD total.",
+        "en": "Business, IT, and Hospitality programmes range from $4,500 to $5,800 USD per year. Biomedical and Pharmacy programmes range from $6,000 to $7,500 USD per year. Medicine (MBBS) is approx $85,000 USD total.",
+        "ar": "تتراوح برامج الأعمال وتكنولوجيا المعلومات وإدارة الضيافة بين 4,500 إلى 5,800 دولار سنوياً. والعلوم الطبية الحيوية والصيدلة بين 6,000 إلى 7,500 دولار سنوياً. والطب البشري حوالي 85,000 دولار إجمالي.",
+        "ko": "경영, IT 및 호텔경영은 연간 약 4,500~5,800 달러, 의생명과학 및 약학은 연간 약 6,000~7,500 달러 선이며, 의학(MBBS)은 5년간 총 약 85,000 달러입니다.",
+        "ja": "ビジネス、IT、ホテル経営は年間約4,500〜5,800米ドル、バイオメディカルや薬学は年間約6,000〜7,500米ドル、医学部（MBBS）は総額約85,000米ドルです。",
+        "zh": "商科、IT技术及酒店管理专业年均学费约为4,500至5,800美元；生物医药与药剂学年均约6,000至7,500美元；临床医学（MBBS）5年全包总学费约85,000美元。",
+        "ru": "Бизнес, IT и туризм: 4 500–5 800 $ в год; биомедицина и фармация: 6 000–7 500 $ в год; медицина (MBBS): около 85 000 $ за весь курс.",
+        "fr": "Commerce, IT et hôtellerie : 4 500 à 5 800 $ par an ; biomédical et pharmacie : 6 000 à 7 500 $ par an ; médecine : 85 000 $ au total.",
+        "es": "Empresa, TI y Hostelería: 4.500-5.800 $ al año; Biomedicina y Farmacia: 6.000-7.500 $ al año; Medicina: aprox. 85.000 $ en total."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat IELTS untuk pendaftaran mahasiswa di MSU?",
+        "en": "What are the IELTS English language entry requirements at MSU?",
+        "ar": "ما هي متطلبات اختبار اللغة الإنجليزية (IELTS) للقبول في جامعة MSU؟",
+        "ko": "MSU 정규 입학을 위한 공인 IELTS 영어 성적 조건은 무엇인가요?",
+        "ja": "MSU出願に必要なIELTS英語スコア要件は？",
+        "zh": "国际学生入读MSU管理与科学大学需要达到怎样的雅思（IELTS）标准？",
+        "ru": "Каковы требования к английскому языку (IELTS) для поступления в MSU?",
+        "fr": "Quelles sont les exigences linguistiques d'IELTS à l'MSU ?",
+        "es": "¿Cuáles son los requisitos de inglés (IELTS) para ingresar en MSU?"
+      },
+      "a": {
+        "id": "Program sarjana umum memerlukan skor IELTS 5.0 - 5.5. Program Kedokteran (MBBS) dan Farmasi mensyaratkan skor IELTS minimal 6.0 - 6.5.",
+        "en": "Standard degree programmes require IELTS 5.0 to 5.5. Medicine (MBBS) and Pharmacy require an IELTS score of 6.0 to 6.5 minimum.",
+        "ar": "تتطلب البرامج العامة درجة IELTS بين 5.0 إلى 5.5. بينما يتطلب برنامج الطب البشري (MBBS) والصيدلة درجة لا تقل عن 6.0 إلى 6.5.",
+        "ko": "일반 학부 전공은 IELTS 5.0~5.5가 기준이며, 의과대학(MBBS) 및 약학과는 최소 IELTS 6.0~6.5가 요구됩니다.",
+        "ja": "一般学部はIELTS 5.0〜5.5、医学部（MBBS）および薬学科は6.0〜6.5以上が必要です。",
+        "zh": "常规本科学位课程要求雅思5.0至5.5分；临床医学（MBBS）及药剂学专业通常要求雅思总分6.0至6.5分。",
+        "ru": "Для большинства программ требуется IELTS 5.0–5.5. Для медицины (MBBS) и фармации — от 6.0 до 6.5.",
+        "fr": "La plupart des cursus demandent un score IELTS de 5.0 à 5.5. La médecine et la pharmacie exigent 6.0 à 6.5.",
+        "es": "Los grados convencionales solicitan un IELTS de 5.0 a 5.5. Medicina y Farmacia demandan un mínimo de 6.0 a 6.5."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan bulan intake pendaftaran mahasiswa baru dibuka di MSU?",
+        "en": "When are the intake months for international students at MSU?",
+        "ar": "ما هي مواعيد وأشهر استقبال وتسجيل الطلاب في جامعة MSU؟",
+        "ko": "MSU의 외국인 유학생 공식 입학 시기는 언제인가요?",
+        "ja": "MSUの留学生向け入学期（インテイク）はいつですか？",
+        "zh": "MSU大学面向全球国际留学生的正规开学招生批次主要在哪些月份？",
+        "ru": "В какие месяцы открыт прием иностранных студентов в MSU?",
+        "fr": "Quelles sont les sessions d'admission ouvertes aux internationaux à l'MSU ?",
+        "es": "¿Cuáles son los meses de admisión para estudiantes internacionales en MSU?"
+      },
+      "a": {
+        "id": "Intake utama untuk sarjana berlangsung pada bulan Februari, Juli, dan September setiap tahun.",
+        "en": "Primary intakes for undergraduate programmes occur in February, July, and September each year.",
+        "ar": "تفتح فترات التسجيل والقبول الرئيسية في أشهر فبراير ويوليو وسبتمبر من كل عام.",
+        "ko": "학사 학위 과정의 주요 입학 시기는 매년 2월, 7월, 9월에 개설됩니다.",
+        "ja": "学部課程の主な入学時期は毎年2月、7月、9月です。",
+        "zh": "本科各专业的正规入学节点为每年2月、7月以及9月。",
+        "ru": "Основные наборы на программы бакалавриата проходят в феврале, июле и сентябре.",
+        "fr": "Les rentrées principales en licence se tiennent en février, juillet et septembre.",
+        "es": "Las convocatorias principales de grado se abren en febrero, julio y septiembre."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Mengapa Tingkat Kerja Lulusan MSU Mencapai 98,6%: Rahasia di Balik Sukses Karier",
+        "en": "Why MSU Boasts a 98.6% Employability Rate: Secrets Behind the Graduate Success",
+        "ar": "لماذا يتصدر خريجو MSU سوق العمل بنسبة توظيف 98.6%: أسرار النجاح الوظيفي",
+        "ko": "왜 MSU 졸업생 취업률은 98.6%에 달하는가: 독보적 커리어 성공의 비밀",
+        "ja": "なぜMSUの卒業生就職率は98.6％に達するのか：圧倒的キャリア成功の秘密",
+        "zh": "解码全马第一的98.6%超高就业率：探秘MSU管理与科学大学职场制胜秘籍",
+        "ru": "Почему уровень трудоустройства выпускников MSU достигает 98,6%: секреты успеха",
+        "fr": "Pourquoi l'MSU affiche 98,6 % d'employabilité : les clés de la réussite professionnelle",
+        "es": "Por qué MSU ostenta una empleabilidad del 98,6%: las claves del éxito profesional"
+      },
+      "summary": {
+        "id": "Analisis kurikulum berbasis industri, magang wajib, inkubator kewirausahaan, dan jaringan mitra rekruter multinasional.",
+        "en": "A deep analysis of industry-driven curricula, mandatory internships, start-up incubators, and corporate hiring partnerships.",
+        "ar": "تحليل دقيق للمناهج التطبيقية المتوافقة مع احتياجات الشركات، والتدريب الإلزامي وحاضنات الأعمال وشراكات التوظيف.",
+        "ko": "산업계 맞춤형 실무 커리큘럼, 의무 인턴십, 청년 창업 인큐베이터 및 글로벌 채용 파트너십 종합 분석.",
+        "ja": "産業界直結のカリキュラム、必修インターンシップ、起業インキュベーター、大手企業採用ネットワークを分析。",
+        "zh": "全景解析校企协同育人体系、百分之百全员带薪顶岗实训、大学生创新创业孵化器及跨国猎聘绿色通道。",
+        "ru": "Анализ учебных планов, обязательных стажировок, бизнес-инкубатора и партнерских сетей рекрутеров.",
+        "fr": "Analyse des cursus axés sur l'industrie, des stages obligatoires, des incubateurs et des partenariats de recrutement.",
+        "es": "Análisis de los planes de estudio prácticos, pasantías obligatorias, incubadora y convenios de contratación."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Kedokteran di MSU: Rumah Sakit MSUMC, Kurikulum & Biaya",
+        "en": "Complete Guide to Medicine at MSU: MSUMC Hospital, Curriculum & Tuition",
+        "ar": "الدليل الكامل لدراسة الطب في MSU: مستشفى MSUMC، المنهج الدراسي والرسوم",
+        "ko": "MSU 의과대학 완벽 분석: 자체 대학병원 MSUMC, 커리큘럼 및 학비 가이드",
+        "ja": "MSU医学部完全ガイド：直属病院MSUMC、カリキュラム、学費まとめ",
+        "zh": "MSU临床医学专业报考宝典：自主三甲教学医院MSUMC、学制大纲与学费明细",
+        "ru": "Полный гид по медицине в MSU: собственная больница MSUMC, программа и стоимость",
+        "fr": "Guide complet pour étudier la médecine à l'MSU : l'hôpital MSUMC, le cursus et les frais",
+        "es": "Guía completa de Medicina en MSU: hospital propio MSUMC, plan de estudios y costes"
+      },
+      "summary": {
+        "id": "Eksplorasi fasilitas rumah sakit swasta MSUMC, akreditasi internasional, rotasi klinis, dan peluang karier dokter.",
+        "en": "Explore MSUMC private hospital facilities, international accreditations, clinical rotations, and global medical career pathways.",
+        "ar": "استكشف مرافق مستشفى MSUMC المتطورة، والاعتمادات الدولية، وفترات التدريب السريري وآفاق مزاولة المهنة.",
+        "ko": "MSUMC 대학병원의 첨단 의료 시설, 국제 의학 인증, 임상 실습 로테이션 및 해외 의사 면허 진출 경로 총정리.",
+        "ja": "MSUMC直属病院の最先端医療設備、国際医学認定、臨床ローテーション、国際的な医師キャリアパスを詳解。",
+        "zh": "深度探访MSUMC现代化教学医院内部构造、国际多边医师执业准入、床边轮转机制及海外行医通道。",
+        "ru": "Обзор больницы MSUMC, международных аккредитаций, клинических ротаций и перспектив врачебной практики.",
+        "fr": "Découverte des équipements de l'hôpital MSUMC, des accréditations internationales et des rotations cliniques.",
+        "es": "Descubre las instalaciones del hospital privado MSUMC, acreditaciones internacionales y rotaciones clínicas."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Kehidupan Mahasiswa di Shah Alam: Panduan Hunian, Kuliner & Transportasi",
+        "en": "Student Living in Shah Alam: Housing, Dining & Commuting Guide",
+        "ar": "دليل الحياة الطلابية في شاه علم: السكن، المطاعم والمواصلات حول الحرم",
+        "ko": "샤알람 유학 생활 백서: 기숙사 주거, 먹거리 및 대중교통 가이드",
+        "ja": "シャーアラムでの留学生活ガイド：住まい、グルメ、交通アクセス完全網羅",
+        "zh": "雪兰莪首府“莎阿南”留学生活全景指引：周边高品质住宅、多元美食与城际通勤",
+        "ru": "Студенческая жизнь в Шах-Аламе: жилье, гастрономия и транспортная доступность",
+        "fr": "La vie étudiante à Shah Alam : guide pratique du logement, de la gastronomie et des transports",
+        "es": "Vida universitaria en Shah Alam: guía de alojamiento, gastronomía y movilidad"
+      },
+      "summary": {
+        "id": "Informasi kondominium mahasiswa sekitar kampus MSU, akses stasiun LRT3 & KTM Batu Tiga, dan kafe Aeon Mall.",
+        "en": "Condominium rental choices around MSU campus, Batu Tiga KTM and LRT3 connectivity, and dining at adjacent AEON Mall.",
+        "ar": "خيارات الشقق الطلابية المجاورة للحرم، والاتصال بمحطة قطار باتو تيغا ومترو LRT3 ومول إيون المجاور.",
+        "ko": "MSU 캠퍼스 주변 인기 콘도 기숙사, 바투 티가 KTM 및 신규 LRT3 대중교통망, 인접한 이온몰 편의시설.",
+        "ja": "MSU周辺の学生向けコンドミニアム情報、バトゥ・ティガKTM駅＆新LRT3線の利便性、隣接イオンモールのグルメスポット。",
+        "zh": "精选MSU校区周边网红学生公寓楼盘、直通Batu Tiga火车站及新LRT3轻轨线通勤攻略，以及隔邻永旺大型商场的生活便利度。",
+        "ru": "Аренда жилья вокруг кампуса MSU, связь с линиями KTM и LRT3, шопинг и рестораны в торговом центре AEON.",
+        "fr": "Options de logements étudiants autour du campus, accès au train KTM et métro LRT3, et commodités de l'AEON Mall.",
+        "es": "Opciones de apartamentos cerca del campus, conexiones con Batu Tiga KTM y LRT3, y servicios del centro comercial AEON."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Fakultas Kedokteran & Bedah (MBBS MSUMC)",
+        "en": "Medicine & Surgery (MBBS MSUMC)",
+        "ar": "الطب البشري والجراحة (MBBS بمستشفى MSUMC)",
+        "ko": "의과대학 의학 및 외과학사 (MBBS)",
+        "ja": "医学部・外科学士（MBBS MSUMC）",
+        "zh": "国际医学院（内外全科医学士MBBS）",
+        "ru": "Лечебное дело и хирургия (MBBS MSUMC)",
+        "fr": "Médecine et chirurgie (MBBS MSUMC)",
+        "es": "Medicina y Cirugía (MBBS MSUMC)"
+      },
+      "degree": "Bachelor Degree (MMC & WHO Accredited)",
+      "duration": "5 Years",
+      "feeUSD": "$80,000 - $88,000 Total",
+      "ielts": "6.5"
+    },
+    {
+      "faculty": {
+        "id": "Optometri & Ilmu Penglihatan Mata (Hons)",
+        "en": "Optometry & Visual Science (Hons)",
+        "ar": "طب وفحص البصر والعلوم البصرية (مرتبة الشرف)",
+        "ko": "검안학 및 시각과학부 (우수 학사)",
+        "ja": "検眼学＆視覚科学部（栄誉学士学位）",
+        "zh": "验光与视力科学荣誉学士学位（全马顶尖）",
+        "ru": "Оптометрия и науки о зрении (с отличием)",
+        "fr": "Optométrie et sciences de la vision (avec mention)",
+        "es": "Optometría y Ciencias de la Visión (con honores)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "4 Years",
+      "feeUSD": "$26,000 - $30,000 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Farmasi & Ilmu Biomedis Terapan (Hons)",
+        "en": "Pharmacy & Applied Biomedical Science",
+        "ar": "الصيدلة والعلوم الطبية الحيوية التطبيقية",
+        "ko": "약학 및 응용 의생명과학부",
+        "ja": "薬学＆応用バイオメディカルサイエンス学部",
+        "zh": "药剂学与应用生物医药科学学院",
+        "ru": "Фармация и прикладные биомедицинские науки",
+        "fr": "Pharmacie et sciences biomédicales appliquées",
+        "es": "Farmacia y Ciencias Biomédicas Aplicadas"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "4 Years",
+      "feeUSD": "$24,000 - $28,000 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Manajemen Perhotelan, Pariwisata & Seni Kuliner",
+        "en": "Hospitality, Tourism & Culinary Arts",
+        "ar": "إدارة الضيافة والسياحة وفنون الطهي الفاخر",
+        "ko": "호텔경영학, 관광학 및 조리예술학부",
+        "ja": "ホスピタリティ・観光マネジメント＆調理芸術学部",
+        "zh": "酒店管理、国际旅游与高端烹饪艺术学院",
+        "ru": "Гостиничное дело, туризм и кулинарное искусство",
+        "fr": "Hôtellerie, tourisme et arts culinaires",
+        "es": "Hostelería, Turismo y Artes Culinarias"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$14,500 - $17,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Bisnis Internasional, Manajemen & Pemasaran",
+        "en": "International Business & Management",
+        "ar": "الأعمال الدولية والإدارة والتسويق الرقمي",
+        "ko": "국제경영학, 매니지먼트 및 디지털 마케팅",
+        "ja": "国際ビジネス・経営学＆デジタルマーケティング学部",
+        "zh": "商业与管理学院（国际商务、金融与数字营销）",
+        "ru": "Международный бизнес, менеджмент и маркетинг",
+        "fr": "Commerce international, gestion et marketing",
+        "es": "Negocios Internacionales, Gestión y Marketing"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$13,500 - $16,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Science (Pra-Kedokteran & Kesehatan)",
+        "en": "Foundation in Science (Pre-Medical Track)",
+        "ar": "السنة التمهيدية في العلوم (المسار الطبي والصحي)",
+        "ko": "이과 파운데이션 (의학/보건계열 진학 트랙)",
+        "ja": "理系ファウンデーション（医学・医療進学コース）",
+        "zh": "理科大学基础预科文凭课程（医学与健康方向）",
+        "ru": "Подготовительный курс (Foundation) по наукам (медицинский профиль)",
+        "fr": "Année préparatoire en sciences (filière pré-médicale)",
+        "es": "Fundamentos en Ciencias (Vía Pre-Médica)"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$4,200 - $5,000 Total",
+      "ielts": "5.0"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=pdYVkdgaFp8",
+  "programs": [
+    {
+      "id": "msu-bachelor-in-information-and-communication-technology-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Information and Communication Technology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Information and Communication Technology (Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20915,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20915
+        },
+        {
+          "year": 2,
+          "fee": 20915
+        },
+        {
+          "year": 3,
+          "fee": 20915
+        }
+      ],
+      "totalTuitionFee": 62745,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-computer-science-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Computer Science (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Computer Science (Hons",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22370,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22370
+        },
+        {
+          "year": 2,
+          "fee": 22370
+        },
+        {
+          "year": 3,
+          "fee": 22370
+        }
+      ],
+      "totalTuitionFee": 67110,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-business-computing-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Business Computing (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Business Computing (Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-computer-forensic-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Computer Forensic (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Computer Forensic (Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22000
+        },
+        {
+          "year": 2,
+          "fee": 22000
+        },
+        {
+          "year": 3,
+          "fee": 22000
+        }
+      ],
+      "totalTuitionFee": 66000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-information-technology-honours-mobile-wireless-and-technology",
+      "universityId": "msu",
+      "name": "Bachelor in Information Technology (Honours) Mobile Wireless and Technology",
+      "nameAr": "بكالوريوس في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-information-systems-auditing-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Information Systems Auditing (Honours)",
+      "nameAr": "بكالوريوس في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-computer-engineering",
+      "universityId": "msu",
+      "name": "Diploma in Computer Engineering",
+      "nameAr": "دبلوم في Computer Engineering",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-computer-forensic",
+      "universityId": "msu",
+      "name": "Diploma in Computer Forensic",
+      "nameAr": "دبلوم في Computer Forensic",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20475,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20475
+        },
+        {
+          "year": 2,
+          "fee": 20475
+        }
+      ],
+      "totalTuitionFee": 40950,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-information-technology",
+      "universityId": "msu",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18945,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18945
+        },
+        {
+          "year": 2,
+          "fee": 18945
+        }
+      ],
+      "totalTuitionFee": 37890,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-information-technology-mobile-and-wireless-technology",
+      "universityId": "msu",
+      "name": "Diploma in Information Technology (Mobile and Wireless Technology)",
+      "nameAr": "دبلوم تقنية المعلومات في Mobile and Wireless Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-information-management",
+      "universityId": "msu",
+      "name": "Diploma in Information Management",
+      "nameAr": "دبلوم في Information Management",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 19440,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19440
+        },
+        {
+          "year": 2,
+          "fee": 19440
+        }
+      ],
+      "totalTuitionFee": 38880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-information-technology",
+      "universityId": "msu",
+      "name": "Foundation in Information Technology",
+      "nameAr": "برنامج تمهيدي في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 18650,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Jan, Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18650
+        }
+      ],
+      "totalTuitionFee": 18650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-computer-science",
+      "universityId": "msu",
+      "name": "Master in Computer Science",
+      "nameAr": "ماجستير علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10750
+        },
+        {
+          "year": 2,
+          "fee": 10750
+        }
+      ],
+      "totalTuitionFee": 21500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-information-technology",
+      "universityId": "msu",
+      "name": "Master in Information Technology",
+      "nameAr": "ماجستير تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 10750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10750
+        },
+        {
+          "year": 2,
+          "fee": 10750
+        }
+      ],
+      "totalTuitionFee": 21500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-philosophy-computer-science",
+      "universityId": "msu",
+      "name": "Doctor of Philosophy (Computer Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13101,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13101
+        },
+        {
+          "year": 2,
+          "fee": 13101
+        },
+        {
+          "year": 3,
+          "fee": 13101
+        }
+      ],
+      "totalTuitionFee": 39303,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-phd-information-and-communication-technology",
+      "universityId": "msu",
+      "name": "PhD (Information and Communication Technology)",
+      "nameAr": "دكتوراه في PhD (Information and Communication Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 13101,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13101
+        },
+        {
+          "year": 2,
+          "fee": 13101
+        },
+        {
+          "year": 3,
+          "fee": 13101
+        }
+      ],
+      "totalTuitionFee": 39303,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-information-management-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Information Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Information Management (Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 19283,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19283
+        },
+        {
+          "year": 2,
+          "fee": 19283
+        },
+        {
+          "year": 3,
+          "fee": 19283
+        }
+      ],
+      "totalTuitionFee": 57849,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-international-business-hons",
+      "universityId": "msu",
+      "name": "Bachelor in International Business (Hons)",
+      "nameAr": "بكالوريوس في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22665,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22665
+        },
+        {
+          "year": 2,
+          "fee": 22665
+        },
+        {
+          "year": 3,
+          "fee": 22665
+        }
+      ],
+      "totalTuitionFee": 67995,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-industrial-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Industrial Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Industrial Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20235,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20235
+        },
+        {
+          "year": 2,
+          "fee": 20235
+        },
+        {
+          "year": 3,
+          "fee": 20235
+        }
+      ],
+      "totalTuitionFee": 60705,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-law-and-commerce-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Law and Commerce (Hons)",
+      "nameAr": "بكالوريوس في القانون والحقوق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22645,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22645
+        },
+        {
+          "year": 2,
+          "fee": 22645
+        },
+        {
+          "year": 3,
+          "fee": 22645
+        }
+      ],
+      "totalTuitionFee": 67935,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-human-capital-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Human Capital Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Human Capital Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21705,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21705
+        },
+        {
+          "year": 2,
+          "fee": 21705
+        },
+        {
+          "year": 3,
+          "fee": 21705
+        }
+      ],
+      "totalTuitionFee": 65115,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-investment-management-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Investment Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Investment Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21705,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21705
+        },
+        {
+          "year": 2,
+          "fee": 21705
+        },
+        {
+          "year": 3,
+          "fee": 21705
+        }
+      ],
+      "totalTuitionFee": 65115,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-islamic-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Islamic Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Islamic Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23110,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23110
+        },
+        {
+          "year": 2,
+          "fee": 23110
+        },
+        {
+          "year": 3,
+          "fee": 23110
+        }
+      ],
+      "totalTuitionFee": 69330,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-finance-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Finance (Honours)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22590,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22590
+        },
+        {
+          "year": 2,
+          "fee": 22590
+        },
+        {
+          "year": 3,
+          "fee": 22590
+        }
+      ],
+      "totalTuitionFee": 67770,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-marketing-with-psychology-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Marketing with Psychology (Hons)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20550,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20550
+        },
+        {
+          "year": 2,
+          "fee": 20550
+        },
+        {
+          "year": 3,
+          "fee": 20550
+        }
+      ],
+      "totalTuitionFee": 61650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-accounting-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Accounting (Honours)",
+      "nameAr": "بكالوريوس في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19260,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19260
+        },
+        {
+          "year": 2,
+          "fee": 19260
+        },
+        {
+          "year": 3,
+          "fee": 19260
+        },
+        {
+          "year": 4,
+          "fee": 19260
+        }
+      ],
+      "totalTuitionFee": 77040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-retail-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Retail Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Retail Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19300,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19300
+        },
+        {
+          "year": 2,
+          "fee": 19300
+        },
+        {
+          "year": 3,
+          "fee": 19300
+        }
+      ],
+      "totalTuitionFee": 57900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-islamic-finance-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Islamic Finance (Hons)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25670,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25670
+        },
+        {
+          "year": 2,
+          "fee": 25670
+        },
+        {
+          "year": 3,
+          "fee": 25670
+        }
+      ],
+      "totalTuitionFee": 77010,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-islamic-banking-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Islamic Banking (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Islamic Banking (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25670,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25670
+        },
+        {
+          "year": 2,
+          "fee": 25670
+        },
+        {
+          "year": 3,
+          "fee": 25670
+        }
+      ],
+      "totalTuitionFee": 77010,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-office-management-technology-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Office Management Technology (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Office Management Technology (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 21245,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21245
+        },
+        {
+          "year": 2,
+          "fee": 21245
+        },
+        {
+          "year": 3,
+          "fee": 21245
+        }
+      ],
+      "totalTuitionFee": 63735,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-logistics-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Logistics Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Logistics Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25670,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25670
+        },
+        {
+          "year": 2,
+          "fee": 25670
+        },
+        {
+          "year": 3,
+          "fee": 25670
+        }
+      ],
+      "totalTuitionFee": 77010,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-accounting-and-finance-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Accounting and Finance (Hons)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21250,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21250
+        },
+        {
+          "year": 2,
+          "fee": 21250
+        },
+        {
+          "year": 3,
+          "fee": 21250
+        },
+        {
+          "year": 4,
+          "fee": 21250
+        }
+      ],
+      "totalTuitionFee": 85000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-economic-and-finance-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Economic and Finance (Hons)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 24000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24000
+        },
+        {
+          "year": 2,
+          "fee": 24000
+        },
+        {
+          "year": 3,
+          "fee": 24000
+        }
+      ],
+      "totalTuitionFee": 72000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-accounting",
+      "universityId": "msu",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 19395,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19395
+        },
+        {
+          "year": 2,
+          "fee": 19395
+        }
+      ],
+      "totalTuitionFee": 38790,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-management",
+      "universityId": "msu",
+      "name": "Diploma in Management",
+      "nameAr": "دبلوم في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18450,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18450
+        },
+        {
+          "year": 2,
+          "fee": 18450
+        }
+      ],
+      "totalTuitionFee": 36900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-investment-management",
+      "universityId": "msu",
+      "name": "Diploma in Investment Management",
+      "nameAr": "دبلوم في Investment Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20680,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20680
+        },
+        {
+          "year": 2,
+          "fee": 20680
+        }
+      ],
+      "totalTuitionFee": 41360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-islamic-finance",
+      "universityId": "msu",
+      "name": "Diploma in Islamic Finance",
+      "nameAr": "دبلوم في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-islamic-banking",
+      "universityId": "msu",
+      "name": "Diploma in Islamic Banking",
+      "nameAr": "دبلوم في Islamic Banking",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 22275,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22275
+        },
+        {
+          "year": 2,
+          "fee": 22275
+        }
+      ],
+      "totalTuitionFee": 44550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-human-capital-management",
+      "universityId": "msu",
+      "name": "Diploma in Human Capital Management",
+      "nameAr": "دبلوم في Human Capital Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20160,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20160
+        },
+        {
+          "year": 2,
+          "fee": 20160
+        }
+      ],
+      "totalTuitionFee": 40320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-retail-management",
+      "universityId": "msu",
+      "name": "Diploma in Retail Management",
+      "nameAr": "دبلوم في Retail Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18675,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18675
+        },
+        {
+          "year": 2,
+          "fee": 18675
+        }
+      ],
+      "totalTuitionFee": 37350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-logistics-management",
+      "universityId": "msu",
+      "name": "Diploma in Logistics Management",
+      "nameAr": "دبلوم في Logistics Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 22275,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22275
+        },
+        {
+          "year": 2,
+          "fee": 22275
+        }
+      ],
+      "totalTuitionFee": 44550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-entrepreneurship",
+      "universityId": "msu",
+      "name": "Diploma in Entrepreneurship",
+      "nameAr": "دبلوم في Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-office-management-technology",
+      "universityId": "msu",
+      "name": "Diploma in Office Management Technology",
+      "nameAr": "دبلوم في Office Management Technology",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-hospitality-and-tourism-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Hospitality and Tourism Management (Hons)",
+      "nameAr": "بكالوريوس في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 23333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23333
+        },
+        {
+          "year": 2,
+          "fee": 23333
+        },
+        {
+          "year": 3,
+          "fee": 23333
+        }
+      ],
+      "totalTuitionFee": 69999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-event-management-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Event Management (Honours)",
+      "nameAr": "بكالوريوس في إدارة الفعاليات والمؤتمرات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21980,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21980
+        },
+        {
+          "year": 2,
+          "fee": 21980
+        },
+        {
+          "year": 3,
+          "fee": 21980
+        }
+      ],
+      "totalTuitionFee": 65940,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-outdoor-recreation-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Outdoor Recreation Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Outdoor Recreation Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21980,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21980
+        },
+        {
+          "year": 2,
+          "fee": 21980
+        },
+        {
+          "year": 3,
+          "fee": 21980
+        }
+      ],
+      "totalTuitionFee": 65940,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-spa-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor of Spa Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Spa Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-beauty-and-hair-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Beauty and Hair Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Beauty and Hair Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 23987,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23987
+        },
+        {
+          "year": 2,
+          "fee": 23987
+        },
+        {
+          "year": 3,
+          "fee": 23987
+        }
+      ],
+      "totalTuitionFee": 71961,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-airline-services-management",
+      "universityId": "msu",
+      "name": "Bachelor in Airline Services Management",
+      "nameAr": "بكالوريوس في Bachelor in Airline Services Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 17667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17667
+        },
+        {
+          "year": 2,
+          "fee": 17667
+        },
+        {
+          "year": 3,
+          "fee": 17667
+        }
+      ],
+      "totalTuitionFee": 53001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-beauty-management",
+      "universityId": "msu",
+      "name": "Diploma in Beauty Management",
+      "nameAr": "دبلوم في Beauty Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20520
+        },
+        {
+          "year": 2,
+          "fee": 20520
+        }
+      ],
+      "totalTuitionFee": 41040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-spa-management",
+      "universityId": "msu",
+      "name": "Diploma in Spa Management",
+      "nameAr": "دبلوم في Spa Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20565,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20565
+        },
+        {
+          "year": 2,
+          "fee": 20565
+        }
+      ],
+      "totalTuitionFee": 41130,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-outdoor-recreation",
+      "universityId": "msu",
+      "name": "Diploma in Outdoor Recreation",
+      "nameAr": "دبلوم في Outdoor Recreation",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 19440,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19440
+        },
+        {
+          "year": 2,
+          "fee": 19440
+        }
+      ],
+      "totalTuitionFee": 38880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-event-management",
+      "universityId": "msu",
+      "name": "Diploma in Event Management",
+      "nameAr": "دبلوم في إدارة الفعاليات والمؤتمرات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-hospitality-and-tourism-management",
+      "universityId": "msu",
+      "name": "Diploma in Hospitality and Tourism Management",
+      "nameAr": "دبلوم في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20610,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20610
+        },
+        {
+          "year": 2,
+          "fee": 20610
+        }
+      ],
+      "totalTuitionFee": 41220,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-public-relations-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor of Public Relations Management (Hons)",
+      "nameAr": "بكالوريوس في العلاقات العامة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jul, Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-public-relations-and-entertainment-management",
+      "universityId": "msu",
+      "name": "Diploma in Public Relations and Entertainment Management",
+      "nameAr": "دبلوم في العلاقات العامة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-science-honours-in-mechanical-engineering",
+      "universityId": "msu",
+      "name": "Bachelor of Science (Honours) in Mechanical Engineering",
+      "nameAr": "بكالوريوس العلوم في الهندسة الميكانيكية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 29180,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29180
+        },
+        {
+          "year": 2,
+          "fee": 29180
+        },
+        {
+          "year": 3,
+          "fee": 29180
+        }
+      ],
+      "totalTuitionFee": 87540,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-business",
+      "universityId": "msu",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 18650,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Jan, Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18650
+        }
+      ],
+      "totalTuitionFee": 18650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-accounting-finance-by-research",
+      "universityId": "msu",
+      "name": "Master in Accounting/Finance (By Research)",
+      "nameAr": "ماجستير في المالية والتمويل (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8901,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8901
+        },
+        {
+          "year": 2,
+          "fee": 8901
+        }
+      ],
+      "totalTuitionFee": 17802,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-business-administration",
+      "universityId": "msu",
+      "name": "Master in Business Administration",
+      "nameAr": "ماجستير في Master in Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 22117,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22117
+        }
+      ],
+      "totalTuitionFee": 22117,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-educational-management-and-leadership",
+      "universityId": "msu",
+      "name": "Master in Educational Management and Leadership",
+      "nameAr": "ماجستير في Master in Educational Management and Leadership",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 51170,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51170
+        }
+      ],
+      "totalTuitionFee": 51170,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-business-administration-fashion-business",
+      "universityId": "msu",
+      "name": "Master in Business Administration (Fashion Business)",
+      "nameAr": "ماجستير في Master in Business Administration (Fashion Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 57190,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57190
+        }
+      ],
+      "totalTuitionFee": 57190,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-international-event-management",
+      "universityId": "msu",
+      "name": "Master in International Event Management",
+      "nameAr": "ماجستير في إدارة الفعاليات والمؤتمرات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 51810,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51810
+        }
+      ],
+      "totalTuitionFee": 51810,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-international-hospitality-and-tourism-management",
+      "universityId": "msu",
+      "name": "Master in International Hospitality and Tourism Management",
+      "nameAr": "ماجستير في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 51810,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51810
+        }
+      ],
+      "totalTuitionFee": 51810,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-management",
+      "universityId": "msu",
+      "name": "Master in Management",
+      "nameAr": "ماجستير في Master in Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 8901,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 8901
+        },
+        {
+          "year": 2,
+          "fee": 8901
+        }
+      ],
+      "totalTuitionFee": 17802,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-philosophy-in-accounting",
+      "universityId": "msu",
+      "name": "Doctor of Philosophy in Accounting",
+      "nameAr": "دكتوراه الفلسفة (PhD) في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 11123,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11123
+        },
+        {
+          "year": 2,
+          "fee": 11123
+        },
+        {
+          "year": 3,
+          "fee": 11123
+        }
+      ],
+      "totalTuitionFee": 33369,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-philosophy-in-management",
+      "universityId": "msu",
+      "name": "Doctor of Philosophy in Management",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 11123,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11123
+        },
+        {
+          "year": 2,
+          "fee": 11123
+        },
+        {
+          "year": 3,
+          "fee": 11123
+        }
+      ],
+      "totalTuitionFee": 33369,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-sports-management",
+      "universityId": "msu",
+      "name": "Diploma in Sports Management",
+      "nameAr": "دبلوم في Sports Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20520
+        },
+        {
+          "year": 2,
+          "fee": 20520
+        }
+      ],
+      "totalTuitionFee": 41040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-entrepreneurship-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Entrepreneurship (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Entrepreneurship (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 25667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25667
+        },
+        {
+          "year": 2,
+          "fee": 25667
+        },
+        {
+          "year": 3,
+          "fee": 25667
+        }
+      ],
+      "totalTuitionFee": 77001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-computer-engineering-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Computer Engineering (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Computer Engineering (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19200,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19200
+        },
+        {
+          "year": 2,
+          "fee": 19200
+        },
+        {
+          "year": 3,
+          "fee": 19200
+        },
+        {
+          "year": 4,
+          "fee": 19200
+        }
+      ],
+      "totalTuitionFee": 76800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-engineering-technology-electrical-and-electronic-honours",
+      "universityId": "msu",
+      "name": "Bachelor of Engineering Technology (Electrical and Electronic) (Honours)",
+      "nameAr": "بكالوريوس الهندسة في Technology (Electrical and Electronic) (Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19000
+        },
+        {
+          "year": 2,
+          "fee": 19000
+        },
+        {
+          "year": 3,
+          "fee": 19000
+        },
+        {
+          "year": 4,
+          "fee": 19000
+        }
+      ],
+      "totalTuitionFee": 76000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-electrical-and-electronic-engineering",
+      "universityId": "msu",
+      "name": "Diploma in Electrical and Electronic Engineering",
+      "nameAr": "دبلوم في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 19440,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19440
+        },
+        {
+          "year": 2,
+          "fee": 19440
+        }
+      ],
+      "totalTuitionFee": 38880,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-mechanical-engineering",
+      "universityId": "msu",
+      "name": "Diploma in Mechanical Engineering",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 44010,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44010
+        },
+        {
+          "year": 2,
+          "fee": 44010
+        }
+      ],
+      "totalTuitionFee": 88020,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-engineering-and-technology",
+      "universityId": "msu",
+      "name": "Foundation in Engineering and Technology",
+      "nameAr": "برنامج تمهيدي في الهندسة في and Technology",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 20150,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Jan, Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20150
+        }
+      ],
+      "totalTuitionFee": 20150,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-science-in-engineering",
+      "universityId": "msu",
+      "name": "Master of Science in Engineering",
+      "nameAr": "ماجستير العلوم في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 11180,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11180
+        },
+        {
+          "year": 2,
+          "fee": 11180
+        }
+      ],
+      "totalTuitionFee": 22360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-philosophy-in-engineering",
+      "universityId": "msu",
+      "name": "Doctor of Philosophy in Engineering",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 35833,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35833
+        },
+        {
+          "year": 2,
+          "fee": 35833
+        },
+        {
+          "year": 3,
+          "fee": 35833
+        }
+      ],
+      "totalTuitionFee": 107499,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-medicine-and-bachelor-of-surgery-mbbs",
+      "universityId": "msu",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+      "nameAr": "بكالوريوس الطب البشري والجراحة (MBBS) في MBBS",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 109200,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct, Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 109200
+        },
+        {
+          "year": 2,
+          "fee": 109200
+        },
+        {
+          "year": 3,
+          "fee": 109200
+        },
+        {
+          "year": 4,
+          "fee": 109200
+        },
+        {
+          "year": 5,
+          "fee": 109200
+        }
+      ],
+      "totalTuitionFee": 546000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-medical-sciences-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Medical Sciences (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Medical Sciences (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 51800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51800
+        },
+        {
+          "year": 2,
+          "fee": 51800
+        },
+        {
+          "year": 3,
+          "fee": 51800
+        }
+      ],
+      "totalTuitionFee": 155400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-medical-sciences",
+      "universityId": "msu",
+      "name": "Diploma in Medical Sciences",
+      "nameAr": "دبلوم في Medical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 21130,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21130
+        },
+        {
+          "year": 2,
+          "fee": 21130
+        },
+        {
+          "year": 3,
+          "fee": 21130
+        }
+      ],
+      "totalTuitionFee": 63390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-optometry-hons",
+      "universityId": "msu",
+      "name": "Bachelor of Optometry (Hons)",
+      "nameAr": "بكالوريوس في بصريات العيون",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 38860,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38860
+        },
+        {
+          "year": 2,
+          "fee": 38860
+        },
+        {
+          "year": 3,
+          "fee": 38860
+        },
+        {
+          "year": 4,
+          "fee": 38860
+        }
+      ],
+      "totalTuitionFee": 155440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-nutrition-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Nutrition (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Nutrition (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 27270,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27270
+        },
+        {
+          "year": 2,
+          "fee": 27270
+        },
+        {
+          "year": 3,
+          "fee": 27270
+        },
+        {
+          "year": 4,
+          "fee": 27270
+        }
+      ],
+      "totalTuitionFee": 109080,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-nursing-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Nursing (Hons)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 38860,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38860
+        },
+        {
+          "year": 2,
+          "fee": 38860
+        },
+        {
+          "year": 3,
+          "fee": 38860
+        },
+        {
+          "year": 4,
+          "fee": 38860
+        }
+      ],
+      "totalTuitionFee": 155440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-cardiovascular-technology-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Cardiovascular Technology (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Cardiovascular Technology (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41360,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41360
+        },
+        {
+          "year": 2,
+          "fee": 41360
+        },
+        {
+          "year": 3,
+          "fee": 41360
+        },
+        {
+          "year": 4,
+          "fee": 41360
+        }
+      ],
+      "totalTuitionFee": 165440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-nursing",
+      "universityId": "msu",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 33100,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Dec, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33100
+        },
+        {
+          "year": 2,
+          "fee": 33100
+        },
+        {
+          "year": 3,
+          "fee": 33100
+        }
+      ],
+      "totalTuitionFee": 99300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-anatomy",
+      "universityId": "msu",
+      "name": "Master of Anatomy",
+      "nameAr": "ماجستير في Master of Anatomy",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 57620,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57620
+        }
+      ],
+      "totalTuitionFee": 57620,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-biomedical-sciences",
+      "universityId": "msu",
+      "name": "Master in Biomedical Sciences",
+      "nameAr": "ماجستير في العلوم الطبية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 49820,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49820
+        }
+      ],
+      "totalTuitionFee": 49820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-science-by-research-biomedicine",
+      "universityId": "msu",
+      "name": "Master in Science (by Research) Biomedicine",
+      "nameAr": "ماجستير في Master in Science Biomedicine (بالبحث العلمي)",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12610,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12610
+        },
+        {
+          "year": 2,
+          "fee": 12610
+        }
+      ],
+      "totalTuitionFee": 25220,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-clinical-pharmacy",
+      "universityId": "msu",
+      "name": "Master of Clinical Pharmacy",
+      "nameAr": "ماجستير في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 58480,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58480
+        }
+      ],
+      "totalTuitionFee": 58480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-clinical-psychology",
+      "universityId": "msu",
+      "name": "Master in Clinical Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 36550,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36550
+        },
+        {
+          "year": 2,
+          "fee": 36550
+        }
+      ],
+      "totalTuitionFee": 73100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-science-medical-physiology",
+      "universityId": "msu",
+      "name": "Master of Science (Medical Physiology)",
+      "nameAr": "ماجستير العلوم في Medical Physiology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 49820,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49820
+        }
+      ],
+      "totalTuitionFee": 49820,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-science-in-public-health",
+      "universityId": "msu",
+      "name": "Master of Science In Public Health",
+      "nameAr": "ماجستير العلوم في Public Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 63640,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 63640
+        }
+      ],
+      "totalTuitionFee": 63640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-phd-by-research-biomedicine",
+      "universityId": "msu",
+      "name": "PhD - by Research (Biomedicine)",
+      "nameAr": "دكتوراه في PhD - by Research (Biomedicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 15079,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15079
+        },
+        {
+          "year": 2,
+          "fee": 15079
+        },
+        {
+          "year": 3,
+          "fee": 15079
+        }
+      ],
+      "totalTuitionFee": 45237,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-philosophy-health-science",
+      "universityId": "msu",
+      "name": "Doctor of Philosophy (Health Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Health Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 27233,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27233
+        },
+        {
+          "year": 2,
+          "fee": 27233
+        },
+        {
+          "year": 3,
+          "fee": 27233
+        }
+      ],
+      "totalTuitionFee": 81699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-dental-surgery",
+      "universityId": "msu",
+      "name": "Bachelor in Dental Surgery",
+      "nameAr": "بكالوريوس في Bachelor in Dental Surgery",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 117000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 117000
+        },
+        {
+          "year": 2,
+          "fee": 117000
+        },
+        {
+          "year": 3,
+          "fee": 117000
+        },
+        {
+          "year": 4,
+          "fee": 117000
+        },
+        {
+          "year": 5,
+          "fee": 117000
+        }
+      ],
+      "totalTuitionFee": 585000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-pharmacy",
+      "universityId": "msu",
+      "name": "Master of Pharmacy",
+      "nameAr": "ماجستير في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30745,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30745
+        },
+        {
+          "year": 2,
+          "fee": 30745
+        }
+      ],
+      "totalTuitionFee": 61490,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-veterinary-medicine",
+      "universityId": "msu",
+      "name": "Doctor of Veterinary Medicine",
+      "nameAr": "دكتوراه في Doctor of Veterinary Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 5,
+      "annualFee": 126000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 126000
+        },
+        {
+          "year": 2,
+          "fee": 126000
+        },
+        {
+          "year": 3,
+          "fee": 126000
+        },
+        {
+          "year": 4,
+          "fee": 126000
+        },
+        {
+          "year": 5,
+          "fee": 126000
+        }
+      ],
+      "totalTuitionFee": 630000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-counselling-and-guidance-honours",
+      "universityId": "msu",
+      "name": "Bachelor of Counselling and Guidance (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Counselling and Guidance (Honours",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17115,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17115
+        },
+        {
+          "year": 2,
+          "fee": 17115
+        },
+        {
+          "year": 3,
+          "fee": 17115
+        },
+        {
+          "year": 4,
+          "fee": 17115
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-psychology-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Psychology (Honours)",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27820
+        },
+        {
+          "year": 2,
+          "fee": 27820
+        },
+        {
+          "year": 3,
+          "fee": 27820
+        }
+      ],
+      "totalTuitionFee": 83460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-counselling-and-guidance",
+      "universityId": "msu",
+      "name": "Diploma in Counselling and Guidance",
+      "nameAr": "دبلوم في Counselling and Guidance",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18945,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18945
+        },
+        {
+          "year": 2,
+          "fee": 18945
+        }
+      ],
+      "totalTuitionFee": 37890,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-counselling-and-guidance-mcg",
+      "universityId": "msu",
+      "name": "Master in Counselling and Guidance (MCG)",
+      "nameAr": "ماجستير في Master in Counselling and Guidance (MCG",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 37460,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37460
+        }
+      ],
+      "totalTuitionFee": 37460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-translation-and-interpreting-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Translation and Interpreting (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Translation and Interpreting (Hons",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 25200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25200
+        },
+        {
+          "year": 2,
+          "fee": 25200
+        },
+        {
+          "year": 3,
+          "fee": 25200
+        }
+      ],
+      "totalTuitionFee": 75600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-liberal-arts",
+      "universityId": "msu",
+      "name": "Foundation in Liberal Arts",
+      "nameAr": "برنامج تمهيدي في Liberal Arts",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 19250,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19250
+        }
+      ],
+      "totalTuitionFee": 19250,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-phd-in-social-sciences",
+      "universityId": "msu",
+      "name": "PhD in Social Sciences",
+      "nameAr": "دكتوراه في Social Sciences",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 15996,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15996
+        },
+        {
+          "year": 2,
+          "fee": 15996
+        },
+        {
+          "year": 3,
+          "fee": 15996
+        }
+      ],
+      "totalTuitionFee": 47988,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-education-tesl-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Education - TESL (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Education - TESL (Hons",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-early-childhood-education-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Early Childhood Education (Hons)",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-education-visual-arts-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Education (Visual Arts) (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Education (Visual Arts) (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-education-science-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Education (Science) (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Education (Science) (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-education-health-and-physical-education-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Education (Health and Physical Education) (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Education (Health and Physical Education) (Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 21365,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21365
+        },
+        {
+          "year": 2,
+          "fee": 21365
+        },
+        {
+          "year": 3,
+          "fee": 21365
+        }
+      ],
+      "totalTuitionFee": 64095,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-education-electrical-electronic-engineering-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Education (Electrical & Electronic Engineering) (Hons)",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27720,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27720
+        },
+        {
+          "year": 2,
+          "fee": 27720
+        },
+        {
+          "year": 3,
+          "fee": 27720
+        }
+      ],
+      "totalTuitionFee": 83160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-education-tesl",
+      "universityId": "msu",
+      "name": "Diploma in Education (TESL)",
+      "nameAr": "دبلوم في Education (TESL",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14110,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14110
+        },
+        {
+          "year": 2,
+          "fee": 14110
+        },
+        {
+          "year": 3,
+          "fee": 14110
+        }
+      ],
+      "totalTuitionFee": 42330,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-early-childhood-education",
+      "universityId": "msu",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20205,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20205
+        },
+        {
+          "year": 2,
+          "fee": 20205
+        }
+      ],
+      "totalTuitionFee": 40410,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-tesl",
+      "universityId": "msu",
+      "name": "Foundation in TESL",
+      "nameAr": "برنامج تمهيدي في TESL",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 18650,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Jan, Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18650
+        }
+      ],
+      "totalTuitionFee": 18650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-early-childhood-education-mece",
+      "universityId": "msu",
+      "name": "Master in Early Childhood Education (MECE)",
+      "nameAr": "ماجستير في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1.4,
+      "annualFee": 34450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34450
+        }
+      ],
+      "totalTuitionFee": 34450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-education-teaching-english-as-a-second-language",
+      "universityId": "msu",
+      "name": "Master of Education (Teaching English as a Second Language)",
+      "nameAr": "ماجستير في Master of Education (Teaching English as a Second Language",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52460,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52460
+        }
+      ],
+      "totalTuitionFee": 52460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-philosophy-in-education-by-research",
+      "universityId": "msu",
+      "name": "Doctor of Philosophy in Education (by Research)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education (بالبحث العلمي)",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 15996,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15996
+        },
+        {
+          "year": 2,
+          "fee": 15996
+        },
+        {
+          "year": 3,
+          "fee": 15996
+        }
+      ],
+      "totalTuitionFee": 47988,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-law",
+      "universityId": "msu",
+      "name": "Foundation in Law",
+      "nameAr": "برنامج تمهيدي في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 18650,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Jan, Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18650
+        }
+      ],
+      "totalTuitionFee": 18650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-fashion-design-with-marketing-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Fashion Design with Marketing (Honours)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-patisserie-arts-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Patisserie Arts (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Patisserie Arts (Hons",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 25987,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25987
+        },
+        {
+          "year": 2,
+          "fee": 25987
+        },
+        {
+          "year": 3,
+          "fee": 25987
+        }
+      ],
+      "totalTuitionFee": 77961,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-culinary-arts",
+      "universityId": "msu",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 20520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20520
+        },
+        {
+          "year": 2,
+          "fee": 20520
+        },
+        {
+          "year": 3,
+          "fee": 20520
+        }
+      ],
+      "totalTuitionFee": 61560,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-fashion-design",
+      "universityId": "msu",
+      "name": "Diploma in Fashion Design",
+      "nameAr": "دبلوم في Fashion Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20610,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20610
+        },
+        {
+          "year": 2,
+          "fee": 20610
+        }
+      ],
+      "totalTuitionFee": 41220,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-patisserie-arts",
+      "universityId": "msu",
+      "name": "Diploma in Patisserie Arts",
+      "nameAr": "دبلوم في Patisserie Arts",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 27000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27000
+        },
+        {
+          "year": 2,
+          "fee": 27000
+        }
+      ],
+      "totalTuitionFee": 54000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-graphic-design-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Graphic Design (Hons)",
+      "nameAr": "بكالوريوس في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21490,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21490
+        },
+        {
+          "year": 2,
+          "fee": 21490
+        },
+        {
+          "year": 3,
+          "fee": 21490
+        }
+      ],
+      "totalTuitionFee": 64470,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-games-design-and-animation-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Games Design and Animation (Hons)",
+      "nameAr": "بكالوريوس في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-games-design-and-animation",
+      "universityId": "msu",
+      "name": "Diploma in Games Design and Animation",
+      "nameAr": "دبلوم في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-graphic-design",
+      "universityId": "msu",
+      "name": "Diploma in Graphic Design",
+      "nameAr": "دبلوم في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-creative-visual",
+      "universityId": "msu",
+      "name": "Diploma in Creative Visual",
+      "nameAr": "دبلوم في Creative Visual",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 28980,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28980
+        },
+        {
+          "year": 2,
+          "fee": 28980
+        }
+      ],
+      "totalTuitionFee": 57960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-interior-design",
+      "universityId": "msu",
+      "name": "Diploma in Interior Design",
+      "nameAr": "دبلوم في التصميم الداخلي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 28980,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28980
+        },
+        {
+          "year": 2,
+          "fee": 28980
+        }
+      ],
+      "totalTuitionFee": 57960,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-visual-arts",
+      "universityId": "msu",
+      "name": "Foundation in Visual Arts",
+      "nameAr": "برنامج تمهيدي في Visual Arts",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 18650,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Jan, Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18650
+        }
+      ],
+      "totalTuitionFee": 18650,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-creative-video-and-photography-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Creative Video and Photography (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Creative Video and Photography (Hons",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-design",
+      "universityId": "msu",
+      "name": "Master of Design",
+      "nameAr": "ماجستير في Master of Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 31175,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31175
+        },
+        {
+          "year": 2,
+          "fee": 31175
+        }
+      ],
+      "totalTuitionFee": 62350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-product-design",
+      "universityId": "msu",
+      "name": "Bachelor In Product Design",
+      "nameAr": "بكالوريوس في Bachelor In Product Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35640,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35640
+        },
+        {
+          "year": 2,
+          "fee": 35640
+        },
+        {
+          "year": 3,
+          "fee": 35640
+        }
+      ],
+      "totalTuitionFee": 106920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-broadcasting-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Broadcasting (Hons)",
+      "nameAr": "بكالوريوس في الإذاعة والتلفزيون",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26667,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26667
+        },
+        {
+          "year": 2,
+          "fee": 26667
+        },
+        {
+          "year": 3,
+          "fee": 26667
+        }
+      ],
+      "totalTuitionFee": 80001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-creative-multimedia-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Creative Multimedia (Honours)",
+      "nameAr": "بكالوريوس في الوسائط المتعددة الإبداعية",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-instructional-multimedia-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Instructional Multimedia (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Instructional Multimedia (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22395,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22395
+        },
+        {
+          "year": 2,
+          "fee": 22395
+        },
+        {
+          "year": 3,
+          "fee": 22395
+        }
+      ],
+      "totalTuitionFee": 67185,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-new-media-hons",
+      "universityId": "msu",
+      "name": "Bachelor of New Media (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of New Media (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22500
+        },
+        {
+          "year": 2,
+          "fee": 22500
+        },
+        {
+          "year": 3,
+          "fee": 22500
+        }
+      ],
+      "totalTuitionFee": 67500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-visual-communication-and-marketing-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Visual Communication and Marketing (Hons)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20540,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20540
+        },
+        {
+          "year": 2,
+          "fee": 20540
+        },
+        {
+          "year": 3,
+          "fee": 20540
+        }
+      ],
+      "totalTuitionFee": 61620,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-multimedia",
+      "universityId": "msu",
+      "name": "Diploma in Multimedia",
+      "nameAr": "دبلوم في Multimedia",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 22160,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22160
+        },
+        {
+          "year": 2,
+          "fee": 22160
+        }
+      ],
+      "totalTuitionFee": 44320,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-business-computing",
+      "universityId": "msu",
+      "name": "Diploma in Business Computing",
+      "nameAr": "دبلوم في Business Computing",
+      "field": "business",
+      "category": "Interdisciplinary Studies",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-culinary-arts-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Culinary Arts (Honours)",
+      "nameAr": "بكالوريوس في فنون الطهي",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22820,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22820
+        },
+        {
+          "year": 2,
+          "fee": 22820
+        },
+        {
+          "year": 3,
+          "fee": 22820
+        }
+      ],
+      "totalTuitionFee": 68460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-music-technology-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Music Technology (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Music Technology (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31860,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31860
+        },
+        {
+          "year": 2,
+          "fee": 31860
+        },
+        {
+          "year": 3,
+          "fee": 31860
+        }
+      ],
+      "totalTuitionFee": 95580,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-music-technology",
+      "universityId": "msu",
+      "name": "Diploma in Music Technology",
+      "nameAr": "دبلوم في Music Technology",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 26505,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26505
+        },
+        {
+          "year": 2,
+          "fee": 26505
+        }
+      ],
+      "totalTuitionFee": 53010,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-hairdressing",
+      "universityId": "msu",
+      "name": "Diploma in Hairdressing",
+      "nameAr": "دبلوم في Hairdressing",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20520,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20520
+        },
+        {
+          "year": 2,
+          "fee": 20520
+        }
+      ],
+      "totalTuitionFee": 41040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-sport-science",
+      "universityId": "msu",
+      "name": "Diploma in Sport Science",
+      "nameAr": "دبلوم في Sport Science",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 20655,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20655
+        },
+        {
+          "year": 2,
+          "fee": 20655
+        }
+      ],
+      "totalTuitionFee": 41310,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-english-language-and-literature-studies-honours",
+      "universityId": "msu",
+      "name": "Bachelor in English Language and Literature Studies (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in English Language and Literature Studies (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25215,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25215
+        },
+        {
+          "year": 2,
+          "fee": 25215
+        },
+        {
+          "year": 3,
+          "fee": 25215
+        }
+      ],
+      "totalTuitionFee": 75645,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-liberal-arts-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Liberal Arts (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Liberal Arts (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 19333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19333
+        },
+        {
+          "year": 2,
+          "fee": 19333
+        },
+        {
+          "year": 3,
+          "fee": 19333
+        }
+      ],
+      "totalTuitionFee": 57999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-translation-and-interpreting",
+      "universityId": "msu",
+      "name": "Diploma in Translation and Interpreting",
+      "nameAr": "دبلوم في Translation and Interpreting",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 21015,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21015
+        },
+        {
+          "year": 2,
+          "fee": 21015
+        }
+      ],
+      "totalTuitionFee": 42030,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-science-in-aviation-management-and-piloting-honours",
+      "universityId": "msu",
+      "name": "Bachelor of Science in Aviation Management and Piloting (Honours)",
+      "nameAr": "بكالوريوس العلوم في Aviation Management and Piloting (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 57850,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 57850
+        },
+        {
+          "year": 2,
+          "fee": 57850
+        },
+        {
+          "year": 3,
+          "fee": 57850
+        }
+      ],
+      "totalTuitionFee": 173550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-aircraft-maintenance-technology",
+      "universityId": "msu",
+      "name": "Diploma in Aircraft Maintenance Technology",
+      "nameAr": "دبلوم في Aircraft Maintenance Technology",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 41490,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41490
+        },
+        {
+          "year": 2,
+          "fee": 41490
+        }
+      ],
+      "totalTuitionFee": 82980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-food-service-technology-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Food Service Technology (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Food Service Technology (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26187,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26187
+        },
+        {
+          "year": 2,
+          "fee": 26187
+        },
+        {
+          "year": 3,
+          "fee": 26187
+        }
+      ],
+      "totalTuitionFee": 78561,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-biomedical-science-hons",
+      "universityId": "msu",
+      "name": "Bachelor of Biomedical Science (Hons)",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41365,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41365
+        },
+        {
+          "year": 2,
+          "fee": 41365
+        },
+        {
+          "year": 3,
+          "fee": 41365
+        },
+        {
+          "year": 4,
+          "fee": 41365
+        }
+      ],
+      "totalTuitionFee": 165460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-bioinformatics-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Bioinformatics (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Bioinformatics (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25200
+        },
+        {
+          "year": 2,
+          "fee": 25200
+        },
+        {
+          "year": 3,
+          "fee": 25200
+        }
+      ],
+      "totalTuitionFee": 75600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-forensic-science-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Forensic Science (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Forensic Science (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 38865,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38865
+        },
+        {
+          "year": 2,
+          "fee": 38865
+        },
+        {
+          "year": 3,
+          "fee": 38865
+        },
+        {
+          "year": 4,
+          "fee": 38865
+        }
+      ],
+      "totalTuitionFee": 155460,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-health-science-management-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Health Science Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Health Science Management (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 38477,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38477
+        },
+        {
+          "year": 2,
+          "fee": 38477
+        },
+        {
+          "year": 3,
+          "fee": 38477
+        }
+      ],
+      "totalTuitionFee": 115431,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-environmental-health-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Environmental Health (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Environmental Health (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23400
+        },
+        {
+          "year": 2,
+          "fee": 23400
+        },
+        {
+          "year": 3,
+          "fee": 23400
+        },
+        {
+          "year": 4,
+          "fee": 23400
+        }
+      ],
+      "totalTuitionFee": 93600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-halal-quality-assurance-hons",
+      "universityId": "msu",
+      "name": "Bachelor in Halal Quality Assurance (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Halal Quality Assurance (Hons",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 20500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20500
+        },
+        {
+          "year": 2,
+          "fee": 20500
+        },
+        {
+          "year": 3,
+          "fee": 20500
+        },
+        {
+          "year": 4,
+          "fee": 20500
+        }
+      ],
+      "totalTuitionFee": 82000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-occupational-safety-and-health-bosh",
+      "universityId": "msu",
+      "name": "Bachelor in Occupational Safety and Health (BOSH)",
+      "nameAr": "بكالوريوس في Bachelor in Occupational Safety and Health (BOSH",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 22100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22100
+        },
+        {
+          "year": 2,
+          "fee": 22100
+        },
+        {
+          "year": 3,
+          "fee": 22100
+        },
+        {
+          "year": 4,
+          "fee": 22100
+        }
+      ],
+      "totalTuitionFee": 88400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-medical-laboratory-technology",
+      "universityId": "msu",
+      "name": "Diploma in Medical Laboratory Technology",
+      "nameAr": "دبلوم في Medical Laboratory Technology",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 21130,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21130
+        },
+        {
+          "year": 2,
+          "fee": 21130
+        },
+        {
+          "year": 3,
+          "fee": 21130
+        }
+      ],
+      "totalTuitionFee": 63390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-occupational-safety-and-health",
+      "universityId": "msu",
+      "name": "Diploma Occupational Safety and Health",
+      "nameAr": "دبلوم في Occupational Safety and Health",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 23003,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23003
+        },
+        {
+          "year": 2,
+          "fee": 23003
+        },
+        {
+          "year": 3,
+          "fee": 23003
+        }
+      ],
+      "totalTuitionFee": 69009,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-radiotherapy",
+      "universityId": "msu",
+      "name": "Diploma in Radiotherapy",
+      "nameAr": "دبلوم في Radiotherapy",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 28907,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28907
+        },
+        {
+          "year": 2,
+          "fee": 28907
+        },
+        {
+          "year": 3,
+          "fee": 28907
+        }
+      ],
+      "totalTuitionFee": 86721,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-medical-science-and-health",
+      "universityId": "msu",
+      "name": "Diploma in Medical Science and Health",
+      "nameAr": "دبلوم في Medical Science and Health",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 21130,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21130
+        },
+        {
+          "year": 2,
+          "fee": 21130
+        },
+        {
+          "year": 3,
+          "fee": 21130
+        }
+      ],
+      "totalTuitionFee": 63390,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-physiotherapy",
+      "universityId": "msu",
+      "name": "Diploma in Physiotherapy",
+      "nameAr": "دبلوم في العلاج الطبيعي",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 28293,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28293
+        },
+        {
+          "year": 2,
+          "fee": 28293
+        },
+        {
+          "year": 3,
+          "fee": 28293
+        }
+      ],
+      "totalTuitionFee": 84879,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-ophthalmic-dispensing",
+      "universityId": "msu",
+      "name": "Diploma in Ophthalmic Dispensing",
+      "nameAr": "دبلوم في Ophthalmic Dispensing",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 24600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24600
+        },
+        {
+          "year": 2,
+          "fee": 24600
+        },
+        {
+          "year": 3,
+          "fee": 24600
+        }
+      ],
+      "totalTuitionFee": 73800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-advanced-diploma-in-midwifery-adm",
+      "universityId": "msu",
+      "name": "Advanced Diploma in Midwifery (ADM)",
+      "nameAr": "دبلوم في Advanced Diploma in Midwifery (ADM",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 28000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 28000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-pharmacy-hons",
+      "universityId": "msu",
+      "name": "Bachelor of Pharmacy (Hons)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 45525,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45525
+        },
+        {
+          "year": 2,
+          "fee": 45525
+        },
+        {
+          "year": 3,
+          "fee": 45525
+        },
+        {
+          "year": 4,
+          "fee": 45525
+        }
+      ],
+      "totalTuitionFee": 182100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-in-traditional-chinese-medicine-honours",
+      "universityId": "msu",
+      "name": "Bachelor in Traditional Chinese Medicine (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Traditional Chinese Medicine (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 31086,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31086
+        },
+        {
+          "year": 2,
+          "fee": 31086
+        },
+        {
+          "year": 3,
+          "fee": 31086
+        },
+        {
+          "year": 4,
+          "fee": 31086
+        },
+        {
+          "year": 5,
+          "fee": 31086
+        }
+      ],
+      "totalTuitionFee": 155430,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-bachelor-of-science-in-pharmaceutical-technology-honours",
+      "universityId": "msu",
+      "name": "Bachelor of Science in Pharmaceutical Technology (Honours)",
+      "nameAr": "بكالوريوس العلوم في Pharmaceutical Technology (Honours",
+      "field": "business",
+      "category": "Other",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 38722,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38722
+        },
+        {
+          "year": 2,
+          "fee": 38722
+        },
+        {
+          "year": 3,
+          "fee": 38722
+        }
+      ],
+      "totalTuitionFee": 116166,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-traditional-chinese-medicine",
+      "universityId": "msu",
+      "name": "Diploma in Traditional Chinese Medicine",
+      "nameAr": "دبلوم في Traditional Chinese Medicine",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 25847,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25847
+        },
+        {
+          "year": 2,
+          "fee": 25847
+        },
+        {
+          "year": 3,
+          "fee": 25847
+        }
+      ],
+      "totalTuitionFee": 77541,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-diploma-in-pharmacy",
+      "universityId": "msu",
+      "name": "Diploma in Pharmacy",
+      "nameAr": "دبلوم في الصيدلة الدوائية",
+      "field": "business",
+      "category": "Other",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 19187,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19187
+        },
+        {
+          "year": 2,
+          "fee": 19187
+        },
+        {
+          "year": 3,
+          "fee": 19187
+        }
+      ],
+      "totalTuitionFee": 57561,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-foundation-in-sciences",
+      "universityId": "msu",
+      "name": "Foundation in Sciences",
+      "nameAr": "برنامج تمهيدي في العلوم في s",
+      "field": "business",
+      "category": "Other",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 20160,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Nov, Jan, Feb, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20160
+        }
+      ],
+      "totalTuitionFee": 20160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-of-science-applied-science",
+      "universityId": "msu",
+      "name": "Master of Science (Applied Science)",
+      "nameAr": "ماجستير العلوم في Applied Science",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19135,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19135
+        },
+        {
+          "year": 2,
+          "fee": 19135
+        }
+      ],
+      "totalTuitionFee": 38270,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-master-in-food-service-technology-by-research",
+      "universityId": "msu",
+      "name": "Master in Food Service Technology (by Research)",
+      "nameAr": "ماجستير في Master in Food Service Technology (بالبحث العلمي)",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 12610,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12610
+        },
+        {
+          "year": 2,
+          "fee": 12610
+        }
+      ],
+      "totalTuitionFee": 25220,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-doctor-of-philosophy-applied-science",
+      "universityId": "msu",
+      "name": "Doctor of Philosophy (Applied Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Applied Science",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 29369,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29369
+        },
+        {
+          "year": 2,
+          "fee": 29369
+        },
+        {
+          "year": 3,
+          "fee": 29369
+        }
+      ],
+      "totalTuitionFee": 88107,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "msu-phd-food-service-technology",
+      "universityId": "msu",
+      "name": "PhD (Food Service Technology)",
+      "nameAr": "دكتوراه في PhD (Food Service Technology",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 15079,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Nov, Feb, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15079
+        },
+        {
+          "year": 2,
+          "fee": 15079
+        },
+        {
+          "year": 3,
+          "fee": 15079
+        }
+      ],
+      "totalTuitionFee": 45237,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 173,
+  "totalProgramsCount": 173
+}

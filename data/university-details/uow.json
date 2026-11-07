@@ -1,0 +1,3003 @@
+{
+  "id": "uow",
+  "name": "UOW Malaysia (University of Wollongong)",
+  "arabicName": "جامعة ولونغونغ الأسترالية في ماليزيا (UOW)",
+  "city": "Glenmarie / Utropolis, Selangor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-uow.webp",
+  "image": "assets/photo/campus_uow.webp",
+  "website": "https://www.uow.edu.my/",
+  "ranking": "Rank 167 QS World University Rankings 2025 (Global Australian Network)",
+  "established": "1983",
+  "campusName": "UOW Malaysia KDU Utropolis Glenmarie Campus",
+  "studentCount": "6,000+ (50+ Countries)",
+  "intakes": "Jan, Mar, May, Sep",
+  "feeRangeMin": 15990,
+  "feeRangeMax": 41150,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/g1XPAdk4USQ",
+  "description": "UOW Malaysia (University of Wollongong) is one of the leading recognized higher education institutions located in Glenmarie / Utropolis, Selangor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة ولونغونغ الأسترالية في ماليزيا (UOW) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Glenmarie / Utropolis, Selangor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "UOW Malaysia didirikan sebagai bagian dari University of Wollongong Australia (Rank 167 QS World Rankings). Dengan kampus modern di Glenmarie Shah Alam dan Batu Kawan Penang, UOW Malaysia menawarkan gelar ganda dan kurikulum resmi Australia dalam Rekayasa Perangkat Lunak, Game Development, dan Bisnis.",
+    "en": "UOW Malaysia is an integral part of the global University of Wollongong Australia network (Rank 167 QS World Rankings), operating state-of-the-art campuses in Glenmarie, Selangor and Batu Kawan, Penang with world-renowned computing, game design, and business curricula.",
+    "ar": "تعتبر UOW Malaysia جزءاً من جامعة ولونغونغ الأسترالية العالمية المصنفة في المرتبة 167 على مستوى العالم، وتقدم شهادات أسترالية أصلية في الحوسبة وتطوير الألعاب وإدارة الأعمال في حرمي جلينماري وبينانج.",
+    "zh": "伍伦贡大学马来西亚分校（UOW Malaysia）隶属于全球QS世界大学排名前167位的澳洲顶尖公立研究型学府伍伦贡大学，在雪兰莪格伦玛丽与槟城建有高科技校区，游戏软件开发闻名全球。",
+    "ru": "UOW Malaysia — часть австралийского University of Wollongong (Rank 167 QS World), предлагающая австралийские программы по разработке игр, IT и бизнесу.",
+    "fr": "UOW Malaysia fait partie du réseau de l'Université de Wollongong en Australie (167e mondial), réputée pour le développement de jeux vidéo, l'informatique et le commerce.",
+    "es": "UOW Malaysia forma parte de la Universidad de Wollongong en Australia (puesto 167 mundial), destacando en desarrollo de videojuegos, informática y negocios.",
+    "ja": "UOWマレーシアは豪州ウーロンゴン大学（QS世界第167位）の直営ネットワークであり、ゲーム開発、IT、ビジネス分野でオーストラリアの正規学位を提供。",
+    "ko": "UOW 말레이시아는 호주 울런공 대학교(QS 세계 167위)의 공식 글로벌 캠퍼스로, 게임 소프트웨어 개발, 컴퓨터공학 및 경영학 분야에서 호주 본교 학위를 수여합니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Studio Inkubator Pengembangan Game & Esports Terbesar Malaysia",
+        "en": "Malaysia’s Premier Game Development & Esports Arena Hub",
+        "ar": "حاضنة واستوديوهات تطوير الألعاب الإلكترونية وساحات الرياضات الرقمية الأكبر في ماليزيا",
+        "ko": "말레이시아 최대 규모 게임 개발 인큐베이터 및 e스포츠 경기장",
+        "ja": "マレーシア最大級のゲーム開発インキュベーター＆eスポーツ専用アリーナ",
+        "zh": "全马首屈一指的数字游戏开发产业孵化中心与专业电子竞技竞技场",
+        "ru": "Крупнейший в Малайзии инкубатор разработки видеоигр и киберспортивная арена",
+        "fr": "Le plus grand incubateur de développement de jeux vidéo et arène d'esport de Malaisie",
+        "es": "La mayor incubadora de desarrollo de videojuegos y arena de eSports de Malasia"
+      }
+    },
+    {
+      "icon": "culinary",
+      "title": {
+        "id": "Dapur Gastronomi Michelin-Standard & Restoran Praktik Perhotelan",
+        "en": "Michelin-Standard Commercial Kitchens & Hospitality Suites",
+        "ar": "مطابخ التدريب التجاري الفاخرة وأجنحة الضيافة ومطاعم الممارسة الحية",
+        "ko": "미쉐린 표준 상업용 조리 실습실 및 특급 호텔 실습 레스토랑",
+        "ja": "ミシュラン基準のプロ仕様調理実習キッチン＆ホテル実習ダイニング",
+        "zh": "对标米其林标准的商业级烹饪实训后厨与星级酒店实景接待餐厅",
+        "ru": "Коммерческие кухни уровня гида Мишлен и учебные гостиничные комплексы",
+        "fr": "Cuisines professionnelles de standard Michelin et suites hôtelières d'application",
+        "es": "Cocinas profesionales de estándar Michelin y suites de prácticas de hostelería"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Laboratorium Rekayasa Perangkat Lunak, Big Data & AI Nvidia",
+        "en": "Nvidia Powered AI, Big Data & Software Engineering Labs",
+        "ar": "مختبرات الذكاء الاصطناعي المدعومة من Nvidia والبيانات الضخمة وهندسة البرمجيات",
+        "ko": "Nvidia 기반 인공지능(AI), 빅데이터 및 소프트웨어 공학 전문 랩",
+        "ja": "Nvidia提携AI・ビッグデータ＆ソフトウェア工学先端ラボ",
+        "zh": "英伟达（NVIDIA）深度合作的人工智能、大数据与高端软件研发实验室",
+        "ru": "Лаборатории ИИ на базе Nvidia, больших данных и инженерии ПО",
+        "fr": "Laboratoires d'IA propulsés par Nvidia, mégadonnées et génie logiciel",
+        "es": "Laboratorios de IA con tecnología Nvidia, Big Data e ingeniería de software"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Modern Utropolis Glenmarie Terpadu dengan Mall & Residensial",
+        "en": "Utropolis Glenmarie Integrated Smart Campus & Lifestyle Hub",
+        "ar": "حرم أوتروبوليس جلينماري الذكي المتكامل مع المراكز التجارية والمجمعات السكنية",
+        "ko": "쇼핑몰과 주거단지가 결합된 유트로폴리스 글렌마리 복합 스마트 캠퍼스",
+        "ja": "ショッピングモール・住宅直結のユートロポリス・グレンマリー複合型スマートキャンパス",
+        "zh": "与商业广场及住宅无缝连接的格伦玛丽“Utropolis”现代化综合智慧大学城",
+        "ru": "Интегрированный смарт-кампус Utropolis Glenmarie с торговыми галереями и жильем",
+        "fr": "Campus intelligent intégré d'Utropolis Glenmarie relié au centre commercial et résidences",
+        "es": "Campus inteligente integrado Utropolis Glenmarie conectado con centro comercial y residencias"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🇦🇺",
+      "title": {
+        "id": "Bagian Resmi dari University of Wollongong Australia (Rank 162 QS World)",
+        "en": "Official Global Campus of University of Wollongong Australia (Rank 162 QS)",
+        "ar": "الحرم الجامعي العالمي الرسمي لـ University of Wollongong الأسترالية (Rank 162 عالمياً)",
+        "ko": "호주 명문 울런공 대학교(QS 세계 162위)의 공식 글로벌 직영 캠퍼스",
+        "ja": "豪州名門ウーロンゴン大学（QS世界162位）の公式グローバルキャンパス",
+        "zh": "QS世界大学排名前162强顶尖学府澳大利亚伍伦贡大学官方全球校区",
+        "ru": "Официальный глобальный кампус австралийского Университета Вуллонгонга (Rank 162 QS)",
+        "fr": "Campus mondial officiel de l'Université de Wollongong, Australie (Rank 162 QS)",
+        "es": "Campus global oficial de la Universidad de Wollongong de Australia (Rank 162 QS)"
+      },
+      "desc": {
+        "id": "Merupakan bagian integral dari jaringan global UOW Australia yang memiliki akreditasi kelas dunia.",
+        "en": "Part of the top 1% global university network of UOW Australia with prestigious international accreditations.",
+        "ar": "جزء لا يتجزأ من شبكة جامعة ولونغونغ الأسترالية العالمية المصنفة ضمن أفضل 1% من جامعات العالم.",
+        "ko": "전 세계 상위 1%에 속하는 호주 울런공 대학의 글로벌 교육 네트워크와 동일한 공인 커리큘럼.",
+        "ja": "世界トップ1％に位置するオーストラリアUOWのグローバルネットワークによる直営教育。",
+        "zh": "全面融入澳洲伍伦贡大学全球顶尖1%名校学术生态网，享有卓越的国际学术声誉。",
+        "ru": "Входит в число лучших 1% университетов мира глобальной сети UOW Австралия.",
+        "fr": "Membre du réseau mondial de l'UOW Australie, figurant dans le top 1 % des universités mondiales.",
+        "es": "Forma parte de la prestigiosa red global de la Universidad de Wollongong de Australia."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pelopor Pendidikan Pengembangan Game Nomor 1 di Malaysia",
+        "en": "Malaysia’s Pioneer & No. 1 Leader in Game Development & Design",
+        "ar": "الرائدة والمؤسسة الأولى لتعليم تطوير وتصميم الألعاب الإلكترونية في ماليزيا",
+        "ko": "말레이시아 최초이자 부동의 1위 인터랙티브 게임 개발 및 디자인 명문",
+        "ja": "マレーシア初にして不動の第1位を誇るゲーム開発＆デザイン教育のパイオニア",
+        "zh": "公认全马历史最悠久、行业认可度最高的顶级游戏开发与数字娱乐领航大学",
+        "ru": "Пионер и лидер №1 в сфере разработки и дизайна игр в Малайзии",
+        "fr": "Pionnier et leader n°1 dans le développement et le design de jeux vidéo en Malaisie",
+        "es": "Pionera y líder número 1 en desarrollo y diseño de videojuegos en Malasia"
+      },
+      "desc": {
+        "id": "Mencetak profesional game terkemuka yang bekerja di PlayStation, Ubisoft, Electronic Arts, dan studio global ternama.",
+        "en": "Graduating elite game designers and developers hired by PlayStation, Ubisoft, EA, and top global studios.",
+        "ar": "تخرج نخبة من كبار مطوري الألعاب لدى بلايستيشن، ويوبيسوفت، وإلكترونيك آرتس، وأضخم استوديوهات العالم.",
+        "ko": "플레이스테이션, 유비소프트, EA 등 글로벌 정상급 게임 스튜디오로 졸업생 대거 진출.",
+        "ja": "PlayStation、Ubisoft、Electronic Artsなど世界的トップスタジオへ数多くの卒業生を輩出。",
+        "zh": "为索尼PlayStation、育碧Ubisoft、EA、腾讯及全球顶尖游戏研发巨头输送了大批核心技术主程与主美。",
+        "ru": "Выпускники работают в PlayStation, Ubisoft, Electronic Arts и ведущих мировых игровых студиях.",
+        "fr": "Forme des talents recrutés par PlayStation, Ubisoft, Electronic Arts et les plus grands studios du monde.",
+        "es": "Forma a profesionales contratados por PlayStation, Ubisoft, EA y los principales estudios mundiales."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Program Gelar Ganda & Transfer Cepat ke Kampus Wollongong Australia",
+        "en": "Australian Dual Awards & Fast-Track Transfer to UOW Wollongong",
+        "ar": "برامج الشهادات المزدوجة الأسترالية والتحويل السريع إلى ولونغونغ بأستراليا",
+        "ko": "호주 듀얼 어워드 취득 및 호주 울런공 본교로의 쾌속 편입 트랙",
+        "ja": "オーストラリア・デュアル学位取得＆本校へのファストトラック編入制度",
+        "zh": "澳洲双学士联办学位与直通澳大利亚伍伦贡总校的无缝快速转学机制",
+        "ru": "Программы двойного диплома и ускоренный перевод в UOW Wollongong (Австралия)",
+        "fr": "Double diplôme australien et passerelle accélérée vers le campus de Wollongong en Australie",
+        "es": "Doble titulación australiana y traslado directo a la sede de UOW en Australia"
+      },
+      "desc": {
+        "id": "Mahasiswa dapat meraih gelar sarjana Australia langsung dari Malaysia atau menyelesaikan tahun akhir di Australia.",
+        "en": "Earn an authentic Australian degree directly in Malaysia or complete your final year at UOW Australia.",
+        "ar": "احصل على شهادة أسترالية معتمدة وأنت في ماليزيا أو اختر استكمال سنتك النهائية في أستراليا.",
+        "ko": "말레이시아 현지에서 호주 정규 학위를 전액 절감하여 취득하거나 마지막 학년을 호주 본교에서 수료.",
+        "ja": "マレーシアにいながら豪州正規学位を取得するか、最終年次をオーストラリア本校で修了可能。",
+        "zh": "学子既可全周期留在大马以超高性价比修完全部澳洲正规学位，亦可选择最后一年赴澳洲总校冲刺毕业。",
+        "ru": "Получите австралийский диплом в Малайзии или закончите последний год обучения в Австралии.",
+        "fr": "Obtenez un diplôme australien en Malaisie ou terminez votre dernière année en Australie.",
+        "es": "Obtén un título australiano en Malasia o cursa tu último año en el campus de Wollongong en Australia."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Keunggulan Internasional di Bidang Perhotelan & Seni Kuliner",
+        "en": "World-Class Hospitality, Culinary Arts & Event Management School",
+        "ar": "مدرسة فندقية عالمية رائدة في إدارة الضيافة وفنون الطهي وإدارة الفعاليات",
+        "ko": "세계적 수준의 호텔경영학, 프로페셔널 조리예술 및 이벤트 매니지먼트",
+        "ja": "世界水準を誇るホスピタリティ・調理芸術＆イベントマネジメント",
+        "zh": "享誉国际的高级酒店管理、西餐烹饪艺术与国际会展策划旗舰学院",
+        "ru": "Мировой уровень подготовки в сфере гостеприимства, кулинарии и event-менеджмента",
+        "fr": "Excellence internationale en hôtellerie, arts culinaires et gestion d'événements",
+        "es": "Excelencia de clase mundial en hostelería, artes culinarias y gestión de eventos"
+      },
+      "desc": {
+        "id": "Bekerja sama dengan hotel-hotel mewah bintang 5 global, memberikan pengalaman magang di seluruh dunia.",
+        "en": "Partnered with international 5-star luxury hotel chains offering internship placements worldwide.",
+        "ar": "شراكات حصرية مع سلاسل الفنادق والمنتجعات الفاخرة 5 نجوم توفر فرص تدريب في شتى أنحاء العالم.",
+        "ko": "글로벌 5성급 럭셔리 호텔 체인들과의 제휴를 통해 전 세계 유수의 특급 호텔 인턴십 지원.",
+        "ja": "世界的な5つ星ラグジュアリーホテルチェーンとの提携により、世界各国でのインターンシップを斡旋。",
+        "zh": "与万豪、希尔顿、洲际等全球五星级奢华酒店集团建立战略校企闭环，提供覆盖全球的高端带薪实训机会。",
+        "ru": "Партнерство с 5-звездочными отелями с возможностью стажировок по всему миру.",
+        "fr": "Partenariats avec des chaînes hôtelières 5 étoiles proposant des stages dans le monde entier.",
+        "es": "Convenios con cadenas hoteleras de lujo de 5 estrellas con prácticas a nivel internacional."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Kondominium Residensi Mahasiswa Utropolis Urbano & Glenview Suites",
+        "en": "Utropolis Urbano & Glenview Premier Student Residences",
+        "ar": "مجمعات أوتروبوليس أوربانو وجلينفيو السكنية الفاخرة لطلاب UOW جلينماري",
+        "ko": "유트로폴리스 우르바노 & 글렌뷰 프리미엄 학생 콘도미니엄",
+        "ja": "ユートロポリス・ウルバノ＆グレンビュー プレミアム学生コンドミニアム",
+        "zh": "Utropolis Urbano与Glenview格伦玛丽校区配套精品学生公寓群",
+        "ru": "Студенческие апартаменты премиум-класса Utropolis Urbano & Glenview",
+        "fr": "Résidences étudiantes haut de gamme Utropolis Urbano & Glenview Suites",
+        "es": "Residencias para estudiantes Utropolis Urbano & Glenview Suites"
+      },
+      "distance": {
+        "id": "Terhubung Jembatan Penyeberangan Langsung ke Kampus (1-2 Menit Jalan Kaki)",
+        "en": "Direct Covered Link Bridge to UOW Campus (1 to 2-Minute Walk)",
+        "ar": "جسر مشاة مغطى ومكيف يتصل مباشرة بمبنى الجامعة (دقيقة إلى دقيقتين سيراً)",
+        "ko": "UOW 캠퍼스와 구름다리로 직결 (도보 단 1~2분)",
+        "ja": "UOWキャンパスへ屋根付き連絡橋で直結（徒歩1〜2分）",
+        "zh": "风雨全天候专用步行天桥直达UOW主教学楼（步行仅1至2分钟）",
+        "ru": "Прямой крытый мост до кампуса UOW (1–2 минуты пешком)",
+        "fr": "Passerelle piétonne couverte directe vers le campus UOW (1 à 2 minutes à pied)",
+        "es": "Pasarela cubierta directa al campus UOW (1 a 2 minutos a pie)"
+      },
+      "priceRange": "RM 550 - RM 1,300 / month",
+      "amenities": {
+        "id": [
+          "Keamanan 24 Jam dengan Kartu Akses Multi-Level",
+          "Kolam Renang Infinity Olympic & Gym Kebugaran",
+          "Akses Langsung ke Utropolis Marketplace Mall",
+          "WiFi Berkecepatan Tinggi & Kamar AC Furnished",
+          "Kafe Mahasiswa, Minimarket & Restoran Halal"
+        ],
+        "en": [
+          "24/7 Gated Security with Multi-Tier Access Cards",
+          "Olympic-Length Infinity Pool & Modern Gymnasium",
+          "Direct Elevator Access to Utropolis Marketplace",
+          "High-Speed WiFi & Fully Furnished Air-Conditioned Units",
+          "Student Cafes, Supermarkets & Diverse Halal Eateries"
+        ],
+        "ar": [
+          "أمن 24 ساعة مع بطاقات دخول ذكية متعددة المستويات",
+          "حمام سباحة إنفينيتي أولمبي وصالة رياضية حديثة",
+          "مصاعد مباشرة إلى مركز أوتروبوليس ماركت بليس التجاري",
+          "إنترنت سريع وغرف مكيفة ومؤثثة بالكامل",
+          "مقاهٍ وسوبرماركت ومطاعم حلال متنوعة على بعد خطوات"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian",
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات اليومية"
+      },
+      "cost": "RM 650 - RM 950"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus / LRT Glenmarie",
+        "en": "Local Public Transit & Glenmarie LRT",
+        "ar": "المواصلات العامة ومترو جلينماري LRT"
+      },
+      "cost": "RM 50 - RM 120"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 80 - RM 160"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Software Tools",
+        "en": "Personal Expenses & Creative Tools",
+        "ar": "المستلزمات الشخصية وأدوات التصميم"
+      },
+      "cost": "RM 200 - RM 400"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apa saja jurusan paling unggul di UOW Malaysia?",
+        "en": "What are the top flagship programmes at UOW Malaysia?",
+        "ar": "ما هي أبرز وأقوى التخصصات الأكاديمية في جامعة UOW Malaysia؟",
+        "ko": "UOW 말레이시아의 가장 대표적인 최고 학과들은 무엇인가요?",
+        "ja": "UOWマレーシアの看板専攻は何ですか？",
+        "zh": "UOW Malaysia（伍伦贡大学马来西亚分校）最具行业统治力的王牌专业有哪些？",
+        "ru": "Какие программы являются визитными карточками UOW Malaysia?",
+        "fr": "Quelles sont les filières phares à UOW Malaysia ?",
+        "es": "¿Cuáles son las carreras más destacadas de UOW Malaysia?"
+      },
+      "a": {
+        "id": "Pengembangan Game (Game Development), Ilmu Komputer & Rekayasa Perangkat Lunak, Manajemen Perhotelan & Gastronomi Kuliner, serta Bisnis Internasional dan Akuntansi.",
+        "en": "Game Development, Computer Science & Software Engineering, Hospitality & Culinary Arts, and International Business & Accounting.",
+        "ar": "تطوير وتصميم الألعاب الإلكترونية، وعلوم الحاسوب وهندسة البرمجيات، وإدارة الضيافة وفنون الطهي، وإدارة الأعمال والمحاسبة.",
+        "ko": "게임 개발(Game Development), 컴퓨터 과학 및 소프트웨어 공학, 호텔경영 및 조리예술, 국제경영 및 회계학입니다.",
+        "ja": "ゲーム開発、コンピュータサイエンス＆ソフトウェア工学、ホスピタリティ＆調理芸術、国際ビジネス＆会計学です。",
+        "zh": "数字游戏开发设计、计算机科学与软件工程、国际酒店管理与烹饪艺术、以及国际商务与注册会计学。",
+        "ru": "Разработка игр, компьютерные науки, программная инженерия, гостиничное дело и кулинария, международный бизнес.",
+        "fr": "Développement de jeux vidéo, informatique et logiciel, hôtellerie et arts culinaires, commerce international.",
+        "es": "Desarrollo de videojuegos, informática y software, hostelería y artes culinarias, y negocios internacionales."
+      }
+    },
+    {
+      "q": {
+        "id": "Apakah ijazah sarjana dari UOW Malaysia langsung dari University of Wollongong Australia?",
+        "en": "Are degrees awarded directly by University of Wollongong Australia?",
+        "ar": "هل تصدر الشهادة الجامعية مباشرة من University of Wollongong في أستراليا؟",
+        "ko": "UOW 말레이시아 졸업 시 수여되는 학위는 호주 본교 학위인가요?",
+        "ja": "UOWマレーシアの卒業学位はオーストラリア本校から直接授与されますか？",
+        "zh": "在UOW Malaysia完成学业，是否直接获得澳大利亚伍伦贡大学本部的正规学位？",
+        "ru": "Выдаются ли дипломы непосредственно Университетом Вуллонгонга (Австралия)?",
+        "fr": "Les diplômes sont-ils émis directement par l'Université de Wollongong en Australie ?",
+        "es": "¿Son los títulos emitidos directamente por la Universidad de Wollongong en Australia?"
+      },
+      "a": {
+        "id": "Ya, mahasiswa pada program jalur gelar Australia menerima ijazah resmi yang dikeluarkan langsung oleh University of Wollongong Australia, diakui secara global dan setara dengan lulusan kampus Australia.",
+        "en": "Yes, students in Australian degree tracks receive parchments issued directly by University of Wollongong Australia, identical in global stature and recognition.",
+        "ar": "نعم، يحصل الطلاب في مسارات الدرجات الأسترالية على شهادة أصلية صادرة مباشرة من جامعة ولونغونغ بأستراليا ومعترف بها في كل دول العالم.",
+        "ko": "네, 호주 학위 트랙 학생들은 호주 울런공 대학교 본교에서 직접 발행한 공식 학위기를 수여받으며 글로벌 위상이 동일합니다.",
+        "ja": "はい、オーストラリア学位トラックの受講生は豪州UOW本校発行の正規学位記を授与され、世界中で同一に通用します。",
+        "zh": "是的，修读澳洲本部学分轨道的学生毕业时将直接获得由澳大利亚伍伦贡大学印制颁发的正规文凭，全球效力完全一致。",
+        "ru": "Да, студенты получают дипломы от University of Wollongong Australia с международным признанием.",
+        "fr": "Oui, les étudiants inscrits dans les filières australiennes reçoivent des diplômes émis directement par l'université en Australie.",
+        "es": "Sí, los alumnos de las vías australianas reciben títulos emitidos directamente por University of Wollongong Australia."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa biaya kuliah program sarjana di UOW Malaysia?",
+        "en": "What are the bachelor degree tuition fees at UOW Malaysia?",
+        "ar": "كم تبلغ تكاليف ورسوم دراسة البكالوريوس في جامعة UOW Malaysia؟",
+        "ko": "UOW 말레이시아의 학사 학위 과정 평균 학비는 얼마인가요?",
+        "ja": "UOWマレーシアの学士課程の年間学費はどれくらいですか？",
+        "zh": "在UOW Malaysia攻读本科学位的平均年度学杂费大约是多少？",
+        "ru": "Какова стоимость обучения на бакалавриате в UOW Malaysia?",
+        "fr": "Quels sont les frais de scolarité en licence à UOW Malaysia ?",
+        "es": "¿Cuáles son las tarifas de matrícula para un grado en UOW Malaysia?"
+      },
+      "a": {
+        "id": "Program Bisnis dan Komunikasi berkisar antara $5.200 - $6.500 USD per tahun. Program Pengembangan Game, IT, dan Perhotelan sekitar $5.800 - $7.200 USD per tahun.",
+        "en": "Business and Media programmes range from $5,200 to $6,500 USD/year. Game Development, IT, and Hospitality range from $5,800 to $7,200 USD/year.",
+        "ar": "تتراوح برامج الأعمال والإعلام بين 5,200 إلى 6,500 دولار سنوياً. وتطوير الألعاب وتكنولوجيا المعلومات والضيافة بين 5,800 إلى 7,200 دولار سنوياً.",
+        "ko": "경영 및 미디어는 연간 약 5,200~6,500 달러, 게임 개발, IT 및 호텔경영은 연간 약 5,800~7,200 달러 수준입니다.",
+        "ja": "ビジネス＆メディアは年間約5,200〜6,500米ドル、ゲーム開発、IT、ホスピタリティは年間約5,800〜7,200米ドルです。",
+        "zh": "商科与传媒专业每年学费约5,200至6,500美元；游戏开发、计算机IT及高端酒店管理专业每年约5,800至7,200美元。",
+        "ru": "Бизнес и медиа: 5 200–6 500 $ в год; разработка игр, IT и отельный бизнес: 5 800–7 200 $ в год.",
+        "fr": "Commerce et médias : 5 200 à 6 500 $ par an ; développement de jeux, IT et hôtellerie : 5 800 à 7 200 $ par an.",
+        "es": "Empresa y Medios: de 5.200 a 6.500 $ al año; Videojuegos, TI y Hostelería: de 5.800 a 7.200 $ al año."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat skor IELTS untuk mendaftar di UOW Malaysia?",
+        "en": "What are the required IELTS English language scores at UOW Malaysia?",
+        "ar": "ما هي متطلبات درجة آيلتس (IELTS) للقبول في جامعة UOW Malaysia؟",
+        "ko": "UOW 말레이시아 입학에 필요한 IELTS 영어 성적 조건은 어떻게 되나요?",
+        "ja": "UOWマレーシア出願に必要なIELTSスコアの基準は？",
+        "zh": "申请入读UOW Malaysia本科专业需要具备怎样的雅思（IELTS）英语成绩？",
+        "ru": "Каковы требования по IELTS для поступления в UOW Malaysia?",
+        "fr": "Quelles sont les exigences d'IELTS pour être admis à UOW Malaysia ?",
+        "es": "¿Cuáles son los requisitos de IELTS para ingresar en UOW Malaysia?"
+      },
+      "a": {
+        "id": "Program sarjana memerlukan skor IELTS minimal 5.5 hingga 6.0 tergantung pada jalur penghargaan gelar ganda Australia yang dipilih.",
+        "en": "Undergraduate programmes require an IELTS score between 5.5 and 6.0 depending on whether an Australian Dual Award track is selected.",
+        "ar": "تتطلب معظم برامج البكالوريوس الحصول على درجة IELTS تتراوح بين 5.5 إلى 6.0 حسب مسار الشهادة الأسترالية المزدوجة المختار.",
+        "ko": "호주 듀얼 어워드 트랙 선택 여부에 따라 학부 과정은 IELTS 5.5~6.0 수준이 요구됩니다.",
+        "ja": "オーストラリア・デュアル学位トラックの選択に応じ、大部分の学部専攻でIELTS 5.5〜6.0が必要です。",
+        "zh": "本科学位通常要求雅思5.5至6.0分，视是否选择修读澳大利亚伍伦贡大学双学位轨道而定。",
+        "ru": "Для бакалавриата требуется IELTS от 5.5 до 6.0 в зависимости от выбранной программы австралийского диплома.",
+        "fr": "Les programmes demandent un score IELTS entre 5.5 et 6.0 selon le cursus australien choisi.",
+        "es": "Las licenciaturas solicitan entre 5.5 y 6.0 de IELTS según se elija la vía de doble titulación australiana."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan saja periode intake mahasiswa baru di UOW Malaysia?",
+        "en": "What are the major intake months at UOW Malaysia?",
+        "ar": "ما هي أشهر وفصول استقبال وتسجيل الطلاب الجدد في UOW Malaysia؟",
+        "ko": "UOW 말레이시아의 정규 입학 시기는 몇 월인가요?",
+        "ja": "UOWマレーシアの主な入学時期（インテイク）はいつですか？",
+        "zh": "UOW Malaysia大学每年面向全球招募新生的主要开学月份有哪些？",
+        "ru": "В какие месяцы проходит основной прием студентов в UOW Malaysia?",
+        "fr": "Quelles sont les sessions d'admission principales à UOW Malaysia ?",
+        "es": "¿Cuáles son los periodos de admisión en UOW Malaysia?"
+      },
+      "a": {
+        "id": "Intake utama untuk program sarjana dibuka pada bulan Januari, Mei, dan September setiap tahun.",
+        "en": "Primary intakes for undergraduate programmes open in January, May, and September each year.",
+        "ar": "تفتح الفصول الدراسية الرئيسية لبرامج البكالوريوس في أشهر يناير ومايو وسبتمبر من كل عام.",
+        "ko": "학사 과정의 주 입학 학기는 매년 1월, 5월, 9월에 개설됩니다.",
+        "ja": "主要な入学期は毎年1月、5月、9月です。",
+        "zh": "本科学位课程每年的主要招生开学季为1月、5月以及9月。",
+        "ru": "Основные наборы на программы бакалавриата проходят в январе, мае и сентябре.",
+        "fr": "Les rentrées principales en licence se tiennent en janvier, mai et septembre.",
+        "es": "Las convocatorias principales de grado se abren en enero, mayo y septiembre."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Mengapa UOW Malaysia Adalah Pilihan Terbaik untuk Karier Pengembangan Game",
+        "en": "Why UOW Malaysia Leads the Game Development Industry in Southeast Asia",
+        "ar": "لماذا تعد UOW Malaysia الخيار الأول في جنوب شرق آسيا لدراسة تطوير الألعاب الإلكترونية",
+        "ko": "왜 UOW 말레이시아가 동남아 게임 개발 교육의 절대 강자인가",
+        "ja": "なぜUOWマレーシアが東南アジアのゲーム開発教育で圧倒的リーダーなのか",
+        "zh": "为何UOW Malaysia是整个东南亚地区攻读数字游戏研发与引擎设计的殿堂级选择",
+        "ru": "Почему UOW Malaysia — лидер индустрии разработки игр в Юго-Восточной Азии",
+        "fr": "Pourquoi UOW Malaysia domine le secteur du jeu vidéo en Asie du Sud-Est",
+        "es": "Por qué UOW Malaysia lidera la industria del desarrollo de videojuegos en el sudeste asiático"
+      },
+      "summary": {
+        "id": "Eksplorasi kurikulum berbasis studio indie, koneksi langsung ke PlayStation & Ubisoft, dan inkubator game komersial.",
+        "en": "Explore indie studio pipelines, direct PlayStation & Ubisoft hiring networks, and on-campus commercial incubation.",
+        "ar": "استكشف بيئة الاستوديوهات الاحترافية، والتوظيف المباشر في بلايستيشن ويوبيسوفت، وحاضنات الألعاب التجارية بالحرم.",
+        "ko": "인디 게임 스튜디오 파이프라인, 소니 플레이스테이션 및 유비소프트 직속 채용 네트워크 심층 분석.",
+        "ja": "インディーズ開発パイプライン、PlayStationやUbisoftとの直接採用連携、学内商業インキュベーターを解説。",
+        "zh": "深入探访真机商业立项管线、直通索尼PlayStation与法国育碧Ubisoft的校招内推网络及校内商业级游戏孵化机制。",
+        "ru": "Обзор студийного обучения, прямого найма в PlayStation и Ubisoft и коммерческого инкубатора.",
+        "fr": "Découverte des méthodes studio, des partenariats d'embauche avec PlayStation et Ubisoft et de l'incubateur.",
+        "es": "Descubre los procesos de estudio indie, el reclutamiento por PlayStation y Ubisoft y la incubadora del campus."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Kuliah di Kampus Terpadu Utropolis Glenmarie: Panduan Hidup Mahasiswa",
+        "en": "Living at Utropolis Glenmarie: Integrated Urban Student Lifestyle Guide",
+        "ar": "الحياة في حرم أوتروبوليس جلينماري المتكامل: دليل نمط الحياة العصري للطلاب",
+        "ko": "유트로폴리스 글렌마리 라이프: 쇼핑몰과 연결된 도심형 스마트 유학 가이드",
+        "ja": "ユートロポリス・グレンマリーでの生活：モール直結の都市型学生ライフガイド",
+        "zh": "格伦玛丽“Utropolis”智慧生活指南：下楼即达购物商场、特色美食与精装公寓",
+        "ru": "Жизнь в городском комплексе Utropolis Glenmarie: гид по стилю жизни для студентов",
+        "fr": "Vivre à Utropolis Glenmarie : le guide pratique de la vie étudiante intégrée",
+        "es": "Vivir en Utropolis Glenmarie: guía del estilo de vida estudiantil urbano e integrado"
+      },
+      "summary": {
+        "id": "Keuntungan hunian apartemen mahasiswa terhubung langsung ke kampus, pusat kuliner Utropolis Marketplace, dan akses LRT.",
+        "en": "Benefits of covered link bridges to student condos, Utropolis Marketplace dining, and Glenmarie LRT transit options.",
+        "ar": "مزايا جسور المشاة المكيفة للشقق الطلابية، ومطاعم سوق أوتروبوليس، ومحطة مترو جلينماري LRT.",
+        "ko": "캠퍼스 직결 구름다리로 연결된 학생 콘도, 유트로폴리스 마켓플레이스 맛집 및 글렌마리 LRT 전철망.",
+        "ja": "屋根付き連絡橋で直結した学生アパート、ユートロポリス・マーケットプレイスの飲食街、グレンマリーLRT駅の利便性。",
+        "zh": "全天候风雨连廊直通高档学生公寓、Utropolis Marketplace国际餐饮商圈及紧邻轻轨Glenmarie站的通勤体验。",
+        "ru": "Крытые переходы в студенческие апартаменты, рестораны Utropolis Marketplace и станция метро Glenmarie.",
+        "fr": "Avantages des passerelles couvertes vers les résidences, restaurants d'Utropolis et métro LRT Glenmarie.",
+        "es": "Ventajas de las pasarelas cubiertas hacia los apartamentos, restaurantes de Utropolis y metro LRT."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Jalur Gelar Australia di UOW: Mendapatkan Kualifikasi Top 1% Dunia",
+        "en": "The UOW Australia Degree Pathway: Earning a Top 1% Global Credential",
+        "ar": "مسار الشهادة الأسترالية في UOW: كيف تحصل على مؤهل معتمد من أفضل 1% من جامعات العالم",
+        "ko": "UOW 호주 본교 학위 패스웨이: 세계 상위 1% 명문대 학위를 취득하는 법",
+        "ja": "UOWオーストラリア学位ルート：世界トップ1％の名門資格を手に入れる方法",
+        "zh": "UOW澳洲本部学位直通轨：不出亚洲如何斩获稳居全球排名前1%的权威澳洲名校文凭",
+        "ru": "Австралийский диплом в UOW: квалификация вуза из топ-1% мировых рейтингов",
+        "fr": "Le cursus diplômant australien de l'UOW : obtenir un titre du top 1 % mondial",
+        "es": "La vía de grado australiano en UOW: titulación oficial del top 1% mundial"
+      },
+      "summary": {
+        "id": "Perbandingan menyeluruh antara program sarjana lokal dan gelar ganda Wollongong Australia serta nilai investasinya.",
+        "en": "Comprehensive comparison between local bachelor tracks and Wollongong Australian dual awards and their investment value.",
+        "ar": "مقارنة شاملة بين البرامج المحلية والشهادات الأسترالية المزدوجة الصادرة من ولونغونغ والقيمة الاستثمارية لها.",
+        "ko": "현지 학위 트랙과 호주 울런공 듀얼 어워드 과정의 교육적 혜택과 학비 투자 가치 상세 비교.",
+        "ja": "現地プログラムと豪州ウーロンゴン・デュアル学位のカリキュラムの違い、学費投資対効果を比較。",
+        "zh": "深度解析本地学士文凭与澳洲本部联办双学位的课程含金量差异、资金利用率及回国就业认证价值。",
+        "ru": "Сравнение местных программ и двойных австралийских дипломов, оценка окупаемости инвестиций в образование.",
+        "fr": "Comparaison entre les cursus locaux et les doubles diplômes australiens de Wollongong et leur rentabilité.",
+        "es": "Comparativa entre programas locales y la doble titulación de Wollongong y su retorno de inversión."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Pengembangan Game & Teknologi Interaktif (Terbaik Malaysia)",
+        "en": "Game Development & Interactive Technology",
+        "ar": "تطوير الألعاب الإلكترونية والتكنولوجيا التفاعلية (الأولى بماليزيا)",
+        "ko": "게임 개발 및 인터랙티브 테크놀로지 학부 (말레이시아 1위)",
+        "ja": "ゲーム開発＆インタラクティブ・テクノロジー学部（国内第1位）",
+        "zh": "数字游戏开发与交互媒体技术学院（全马第一老牌王牌）",
+        "ru": "Разработка игр и интерактивные технологии (№1 в Малайзии)",
+        "fr": "Développement de jeux vidéo et technologies interactives (n°1 en Malaisie)",
+        "es": "Desarrollo de Videojuegos y Tecnología Interactiva (Líder en Malasia)"
+      },
+      "degree": "Bachelor of Game Development (Hons)",
+      "duration": "3 Years",
+      "feeUSD": "$18,000 - $21,500 Total",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Ilmu Komputer, AI & Rekayasa Perangkat Lunak (Gelar Australia)",
+        "en": "Computer Science, AI & Software (Australian Award)",
+        "ar": "علوم الحاسوب والذكاء الاصطناعي وهندسة البرمجيات (شهادة أسترالية)",
+        "ko": "컴퓨터 과학, AI 및 소프트웨어 공학부 (호주 본교 학위 트랙)",
+        "ja": "コンピュータサイエンス・AI＆ソフトウェア工学（豪州学位）",
+        "zh": "计算机科学、人工智能与软件工程学院（澳洲本部直属学位）",
+        "ru": "Компьютерные науки, ИИ и программная инженерия (диплом Австралии)",
+        "fr": "Informatique, IA et génie logiciel (diplôme australien)",
+        "es": "Ciencias de la Computación, IA y Software (Título Australiano)"
+      },
+      "degree": "Bachelor of Computer Science",
+      "duration": "3 Years",
+      "feeUSD": "$19,500 - $23,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Manajemen Perhotelan, Pariwisata & Seni Kuliner Komersial",
+        "en": "Hospitality, Tourism & Commercial Culinary Arts",
+        "ar": "إدارة الضيافة والسياحة وفنون الطهي التجاري الراقي",
+        "ko": "호텔경영학, 관광 및 커머셜 조리예술학부",
+        "ja": "ホスピタリティ・観光マネジメント＆調理芸術学部",
+        "zh": "国际酒店管理、旅游管理与商业级高级烹饪艺术学院",
+        "ru": "Гостиничное дело, туризм и профессиональное кулинарное искусство",
+        "fr": "Hôtellerie, tourisme et arts culinaires professionnels",
+        "es": "Hostelería, Turismo y Artes Culinarias Profesionales"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$17,500 - $20,500 Total",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Bisnis Internasional, Akuntansi & Keuangan (Gelar Australia)",
+        "en": "Business, Accounting & Finance (Australian Award)",
+        "ar": "الأعمال الدولية والمحاسبة والمالية (شهادة أسترالية)",
+        "ko": "국제 비즈니스, 회계 및 금융학부 (호주 본교 학위)",
+        "ja": "国際ビジネス・会計学＆金融学部（オーストラリア本校学位）",
+        "zh": "国际商务、注册会计与金融学院（澳洲伍伦贡大学直发学位）",
+        "ru": "Международный бизнес, бухучет и финансы (диплом Австралии)",
+        "fr": "Commerce international, comptabilité et finance (diplôme australien)",
+        "es": "Negocios Internacionales, Contabilidad y Finanzas (Título Australiano)"
+      },
+      "degree": "Bachelor of Commerce",
+      "duration": "3 Years",
+      "feeUSD": "$16,500 - $19,500 Total",
+      "ielts": "6.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation Studies in Computing, Engineering & Business",
+        "en": "Foundation Studies (Computing / Engineering / Business)",
+        "ar": "السنة التمهيدية الأسترالية في الحوسبة أو الهندسة أو الأعمال",
+        "ko": "컴퓨팅 / 공학 / 경영 대학 진학 파운데이션 예비과정",
+        "ja": "IT・工学・ビジネス大学進学ファウンデーション課程",
+        "zh": "计算机/工程/商科大学预科文凭衔接课程",
+        "ru": "Подготовительный курс (Foundation) по IT/инженерии/бизнесу",
+        "fr": "Année préparatoire en informatique / ingénierie / commerce",
+        "es": "Curso de Fundamentos en Informática / Ingeniería / Empresa"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$4,200 - $5,000 Total",
+      "ielts": "5.0"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=g1XPAdk4USQ",
+  "programs": [
+    {
+      "id": "uow-bachelor-of-software-engineering-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Software Engineering (Hons)",
+      "nameAr": "بكالوريوس هندسة البرمجيات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30250,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30250
+        },
+        {
+          "year": 2,
+          "fee": 30250
+        },
+        {
+          "year": 3,
+          "fee": 30250
+        }
+      ],
+      "totalTuitionFee": 90750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-computer-science-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Computer Science (Hons)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30990,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30990
+        },
+        {
+          "year": 2,
+          "fee": 30990
+        },
+        {
+          "year": 3,
+          "fee": 30990
+        }
+      ],
+      "totalTuitionFee": 92970,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-information-systems-honours",
+      "universityId": "uow",
+      "name": "Bachelor of Information Systems (Honours)",
+      "nameAr": "بكالوريوس نظم المعلومات في Honours",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27950,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27950
+        },
+        {
+          "year": 2,
+          "fee": 27950
+        },
+        {
+          "year": 3,
+          "fee": 27950
+        }
+      ],
+      "totalTuitionFee": 83850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-hons-digital-media-production",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Hons) Digital Media Production",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في الإعلام الرقمي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 29777,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29777
+        },
+        {
+          "year": 2,
+          "fee": 29777
+        },
+        {
+          "year": 3,
+          "fee": 29777
+        }
+      ],
+      "totalTuitionFee": 89331,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-information-systems-honours-enterprise-information-systems",
+      "universityId": "uow",
+      "name": "Bachelor of Information Systems (Honours) (Enterprise Information Systems)",
+      "nameAr": "بكالوريوس نظم المعلومات في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30875,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30875
+        },
+        {
+          "year": 2,
+          "fee": 30875
+        },
+        {
+          "year": 3,
+          "fee": 30875
+        }
+      ],
+      "totalTuitionFee": 92625,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-game-development-honours",
+      "universityId": "uow",
+      "name": "Bachelor of Game Development (Honours)",
+      "nameAr": "بكالوريوس في تطوير الألعاب الإلكترونية",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32246,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32246
+        },
+        {
+          "year": 2,
+          "fee": 32246
+        },
+        {
+          "year": 3,
+          "fee": 32246
+        }
+      ],
+      "totalTuitionFee": 96738,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-graphic-design-technology",
+      "universityId": "uow",
+      "name": "Diploma in Graphic Design Technology",
+      "nameAr": "دبلوم في التصميم الجرافيكي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 26690,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26690
+        },
+        {
+          "year": 2,
+          "fee": 26690
+        }
+      ],
+      "totalTuitionFee": 53380,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-information-technology",
+      "universityId": "uow",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.4,
+      "annualFee": 24065,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24065
+        },
+        {
+          "year": 2,
+          "fee": 24065
+        }
+      ],
+      "totalTuitionFee": 48130,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-computer-studies",
+      "universityId": "uow",
+      "name": "Diploma in Computer Studies",
+      "nameAr": "دبلوم في Computer Studies",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27830,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27830
+        },
+        {
+          "year": 2,
+          "fee": 27830
+        }
+      ],
+      "totalTuitionFee": 55660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-doctor-of-philosophy-computing-and-lnnovation",
+      "universityId": "uow",
+      "name": "Doctor of Philosophy (Computing and lnnovation)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computing and lnnovation",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 21720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21720
+        },
+        {
+          "year": 2,
+          "fee": 21720
+        },
+        {
+          "year": 3,
+          "fee": 21720
+        }
+      ],
+      "totalTuitionFee": 65160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-doctor-of-philosophy-computer-science",
+      "universityId": "uow",
+      "name": "Doctor of Philosophy (Computer Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19830,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19830
+        },
+        {
+          "year": 2,
+          "fee": 19830
+        },
+        {
+          "year": 3,
+          "fee": 19830
+        }
+      ],
+      "totalTuitionFee": 59490,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-in-computer-science",
+      "universityId": "uow",
+      "name": "Master in Computer Science",
+      "nameAr": "ماجستير علوم الحاسب",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 22295,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22295
+        },
+        {
+          "year": 2,
+          "fee": 22295
+        }
+      ],
+      "totalTuitionFee": 44590,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-business-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Business (Hons)",
+      "nameAr": "بكالوريوس الأعمال (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30780,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30780
+        },
+        {
+          "year": 2,
+          "fee": 30780
+        },
+        {
+          "year": 3,
+          "fee": 30780
+        }
+      ],
+      "totalTuitionFee": 92340,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-hons-business-management",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Hons) Business Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26669,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26669
+        },
+        {
+          "year": 2,
+          "fee": 26669
+        },
+        {
+          "year": 3,
+          "fee": 26669
+        }
+      ],
+      "totalTuitionFee": 80007,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-accountancy-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Accountancy (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Accountancy (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 27775,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27775
+        },
+        {
+          "year": 2,
+          "fee": 27775
+        },
+        {
+          "year": 3,
+          "fee": 27775
+        }
+      ],
+      "totalTuitionFee": 83325,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-accounting-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Accounting (Hons)",
+      "nameAr": "بكالوريوس المحاسبة (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32460,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32460
+        },
+        {
+          "year": 2,
+          "fee": 32460
+        },
+        {
+          "year": 3,
+          "fee": 32460
+        }
+      ],
+      "totalTuitionFee": 97380,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-in-accounting-and-finance-hons",
+      "universityId": "uow",
+      "name": "Bachelor in Accounting and Finance (Hons)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 33133,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33133
+        },
+        {
+          "year": 2,
+          "fee": 33133
+        },
+        {
+          "year": 3,
+          "fee": 33133
+        }
+      ],
+      "totalTuitionFee": 99399,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-honours-in-international-business-management",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Honours) in International Business Management",
+      "nameAr": "بكالوريوس الآداب في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26317,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26317
+        },
+        {
+          "year": 2,
+          "fee": 26317
+        },
+        {
+          "year": 3,
+          "fee": 26317
+        }
+      ],
+      "totalTuitionFee": 78951,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-business",
+      "universityId": "uow",
+      "name": "Diploma in Business",
+      "nameAr": "دبلوم في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 23800,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23800
+        },
+        {
+          "year": 2,
+          "fee": 23800
+        }
+      ],
+      "totalTuitionFee": 47600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-business-management-online-degree",
+      "universityId": "uow",
+      "name": "Diploma in Business Management - Online Degree",
+      "nameAr": "دبلوم إدارة الأعمال أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 15990,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15990
+        },
+        {
+          "year": 2,
+          "fee": 15990
+        }
+      ],
+      "totalTuitionFee": 31980,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-business-administration",
+      "universityId": "uow",
+      "name": "Diploma in Business Administration",
+      "nameAr": "دبلوم إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27390,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27390
+        },
+        {
+          "year": 2,
+          "fee": 27390
+        }
+      ],
+      "totalTuitionFee": 54780,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-certificate-in-business-communication",
+      "universityId": "uow",
+      "name": "Certificate in Business Communication",
+      "nameAr": "برنامج في Certificate in Business Communication",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "certificate",
+      "duration": 1.4,
+      "annualFee": 18428,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18428
+        }
+      ],
+      "totalTuitionFee": 18428,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-doctor-of-philosophy-business",
+      "universityId": "uow",
+      "name": "Doctor of Philosophy (Business)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 19830,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19830
+        },
+        {
+          "year": 2,
+          "fee": 19830
+        },
+        {
+          "year": 3,
+          "fee": 19830
+        }
+      ],
+      "totalTuitionFee": 59490,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-business-administration",
+      "universityId": "uow",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.4,
+      "annualFee": 37470,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37470
+        }
+      ],
+      "totalTuitionFee": 37470,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-business-administration-online-degree",
+      "universityId": "uow",
+      "name": "Master of Business Administration - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.4,
+      "annualFee": 21120,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21120
+        }
+      ],
+      "totalTuitionFee": 21120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-postgraduate-diploma-in-enterprise-risk-management",
+      "universityId": "uow",
+      "name": "Postgraduate Diploma in Enterprise Risk Management",
+      "nameAr": "دبلوم في Postgraduate Diploma in Enterprise Risk Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 41150,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41150
+        }
+      ],
+      "totalTuitionFee": 41150,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-postgraduate-certificate-in-business-administration",
+      "universityId": "uow",
+      "name": "Postgraduate Certificate in Business Administration",
+      "nameAr": "برنامج في Postgraduate Certificate in Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "certificate",
+      "duration": 0.8,
+      "annualFee": 29850,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29850
+        }
+      ],
+      "totalTuitionFee": 29850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-business",
+      "universityId": "uow",
+      "name": "Master of Business",
+      "nameAr": "ماجستير في Master of Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 22295,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22295
+        },
+        {
+          "year": 2,
+          "fee": 22295
+        }
+      ],
+      "totalTuitionFee": 44590,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-arts-by-research",
+      "universityId": "uow",
+      "name": "Master of Arts (By Research)",
+      "nameAr": "ماجستير في Master of Arts (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 23180,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23180
+        },
+        {
+          "year": 2,
+          "fee": 23180
+        }
+      ],
+      "totalTuitionFee": 46360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-hons-in-international-culinary-arts",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Hons) in International Culinary Arts",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في فنون الطهي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28583,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28583
+        },
+        {
+          "year": 2,
+          "fee": 28583
+        },
+        {
+          "year": 3,
+          "fee": 28583
+        }
+      ],
+      "totalTuitionFee": 85749,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-hons-in-international-hotel-tourism-management",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Hons) in International Hotel & Tourism Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28183,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28183
+        },
+        {
+          "year": 2,
+          "fee": 28183
+        },
+        {
+          "year": 3,
+          "fee": 28183
+        }
+      ],
+      "totalTuitionFee": 84549,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-hospitality-management-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Hospitality Management (Hons)",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35760,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35760
+        },
+        {
+          "year": 2,
+          "fee": 35760
+        },
+        {
+          "year": 3,
+          "fee": 35760
+        }
+      ],
+      "totalTuitionFee": 107280,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-culinary-management-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Culinary Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Culinary Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35977,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35977
+        },
+        {
+          "year": 2,
+          "fee": 35977
+        },
+        {
+          "year": 3,
+          "fee": 35977
+        }
+      ],
+      "totalTuitionFee": 107931,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-international-hotel-management",
+      "universityId": "uow",
+      "name": "Diploma in International Hotel Management",
+      "nameAr": "دبلوم في International Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 29885,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29885
+        },
+        {
+          "year": 2,
+          "fee": 29885
+        }
+      ],
+      "totalTuitionFee": 59770,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-culinary-arts",
+      "universityId": "uow",
+      "name": "Diploma in Culinary Arts",
+      "nameAr": "دبلوم في فنون الطهي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 31460,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31460
+        },
+        {
+          "year": 2,
+          "fee": 31460
+        }
+      ],
+      "totalTuitionFee": 62920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-certificate-in-hotel-operations",
+      "universityId": "uow",
+      "name": "Certificate in Hotel Operations",
+      "nameAr": "برنامج في Certificate in Hotel Operations",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "certificate",
+      "duration": 1.5,
+      "annualFee": 19680,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19680
+        }
+      ],
+      "totalTuitionFee": 19680,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-doctor-of-philosophy-hospitality-and-tourism",
+      "universityId": "uow",
+      "name": "Doctor of Philosophy (Hospitality And Tourism)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Hospitality And Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 2,
+      "annualFee": 29745,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29745
+        },
+        {
+          "year": 2,
+          "fee": 29745
+        }
+      ],
+      "totalTuitionFee": 59490,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-science-in-hospitality-and-tourism",
+      "universityId": "uow",
+      "name": "Master of Science in Hospitality And Tourism",
+      "nameAr": "ماجستير العلوم في Hospitality And Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 22295,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22295
+        },
+        {
+          "year": 2,
+          "fee": 22295
+        }
+      ],
+      "totalTuitionFee": 44590,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-foundation-in-accountancy-acca-fia",
+      "universityId": "uow",
+      "name": "Foundation in Accountancy (ACCA-FIA)",
+      "nameAr": "برنامج تمهيدي في Accountancy (ACCA-FIA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 20330,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Feb, Mar, Apr, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20330
+        }
+      ],
+      "totalTuitionFee": 20330,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-association-of-chartered-certified-accountants-acca",
+      "universityId": "uow",
+      "name": "Association of Chartered Certified Accountants (ACCA)",
+      "nameAr": "برنامج في Association of Chartered Certified Accountants (ACCA",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 36525,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36525
+        }
+      ],
+      "totalTuitionFee": 36525,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-mechatronics-engineering-with-honours",
+      "universityId": "uow",
+      "name": "Bachelor of Mechatronics Engineering with Honours",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 29248,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29248
+        },
+        {
+          "year": 2,
+          "fee": 29248
+        },
+        {
+          "year": 3,
+          "fee": 29248
+        },
+        {
+          "year": 4,
+          "fee": 29248
+        }
+      ],
+      "totalTuitionFee": 116992,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "uow",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 29248,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29248
+        },
+        {
+          "year": 2,
+          "fee": 29248
+        },
+        {
+          "year": 3,
+          "fee": 29248
+        },
+        {
+          "year": 4,
+          "fee": 29248
+        }
+      ],
+      "totalTuitionFee": 116992,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-electrical-and-electronics-engineering-with-honours",
+      "universityId": "uow",
+      "name": "Bachelor of Electrical and Electronics Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 29340,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29340
+        },
+        {
+          "year": 2,
+          "fee": 29340
+        },
+        {
+          "year": 3,
+          "fee": 29340
+        },
+        {
+          "year": 4,
+          "fee": 29340
+        }
+      ],
+      "totalTuitionFee": 117360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-mechatronics-engineering",
+      "universityId": "uow",
+      "name": "Diploma in Mechatronics Engineering",
+      "nameAr": "دبلوم في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 26650,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26650
+        },
+        {
+          "year": 2,
+          "fee": 26650
+        }
+      ],
+      "totalTuitionFee": 53300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-doctor-of-philosophy-engineering",
+      "universityId": "uow",
+      "name": "Doctor of Philosophy (Engineering)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 24720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24720
+        },
+        {
+          "year": 2,
+          "fee": 24720
+        },
+        {
+          "year": 3,
+          "fee": 24720
+        }
+      ],
+      "totalTuitionFee": 74160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-science-by-research",
+      "universityId": "uow",
+      "name": "Master of Science (By Research)",
+      "nameAr": "ماجستير العلوم (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 26180,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26180
+        },
+        {
+          "year": 2,
+          "fee": 26180
+        }
+      ],
+      "totalTuitionFee": 52360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-science-engineering",
+      "universityId": "uow",
+      "name": "Master of Science (Engineering)",
+      "nameAr": "ماجستير العلوم في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 22895,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22895
+        },
+        {
+          "year": 2,
+          "fee": 22895
+        }
+      ],
+      "totalTuitionFee": 45790,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-foundation-in-engineering",
+      "universityId": "uow",
+      "name": "Foundation-in-Engineering",
+      "nameAr": "برنامج تمهيدي في in-Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 35910,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35910
+        }
+      ],
+      "totalTuitionFee": 35910,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-nursing",
+      "universityId": "uow",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 19985,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jul, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19985
+        },
+        {
+          "year": 2,
+          "fee": 19985
+        },
+        {
+          "year": 3,
+          "fee": 19985
+        }
+      ],
+      "totalTuitionFee": 59955,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-healthcare-service",
+      "universityId": "uow",
+      "name": "Diploma in Healthcare Service",
+      "nameAr": "دبلوم في Healthcare Service",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 17367,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jul, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17367
+        },
+        {
+          "year": 2,
+          "fee": 17367
+        },
+        {
+          "year": 3,
+          "fee": 17367
+        }
+      ],
+      "totalTuitionFee": 52101,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-physiotherapy",
+      "universityId": "uow",
+      "name": "Diploma in Physiotherapy",
+      "nameAr": "دبلوم في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 19193,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jul, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19193
+        },
+        {
+          "year": 2,
+          "fee": 19193
+        },
+        {
+          "year": 3,
+          "fee": 19193
+        }
+      ],
+      "totalTuitionFee": 57579,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-foundation-in-science",
+      "universityId": "uow",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 32200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32200
+        }
+      ],
+      "totalTuitionFee": 32200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-doctor-of-philosophy-social-science",
+      "universityId": "uow",
+      "name": "Doctor of Philosophy (Social Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Social Science",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 21720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21720
+        },
+        {
+          "year": 2,
+          "fee": 21720
+        },
+        {
+          "year": 3,
+          "fee": 21720
+        }
+      ],
+      "totalTuitionFee": 65160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-arts-social-science",
+      "universityId": "uow",
+      "name": "Master of Arts (Social Science)",
+      "nameAr": "ماجستير في Master of Arts (Social Science",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 23180,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23180
+        },
+        {
+          "year": 2,
+          "fee": 23180
+        }
+      ],
+      "totalTuitionFee": 46360,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-foundation-studies-foundation-in-arts",
+      "universityId": "uow",
+      "name": "Foundation Studies / Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في Studies / Foundation in Arts",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 34730,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34730
+        }
+      ],
+      "totalTuitionFee": 34730,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-early-childhood-education",
+      "universityId": "uow",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 22295,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22295
+        },
+        {
+          "year": 2,
+          "fee": 22295
+        }
+      ],
+      "totalTuitionFee": 44590,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-intensive-english-program",
+      "universityId": "uow",
+      "name": "Intensive English Program",
+      "nameAr": "برنامج في Intensive English Program",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 0.9,
+      "annualFee": 28700,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28700
+        }
+      ],
+      "totalTuitionFee": 28700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-laws-3-0-external-with-university-of-london-uk",
+      "universityId": "uow",
+      "name": "Bachelor of Laws 3+0 External with University of London, UK",
+      "nameAr": "بكالوريوس القانون في 3+0 External with University of London, UK",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21133,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21133
+        },
+        {
+          "year": 2,
+          "fee": 21133
+        },
+        {
+          "year": 3,
+          "fee": 21133
+        }
+      ],
+      "totalTuitionFee": 63399,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-hons-in-interior-architecture",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Hons) in Interior Architecture",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في العمارة الداخلية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 30050,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30050
+        },
+        {
+          "year": 2,
+          "fee": 30050
+        },
+        {
+          "year": 3,
+          "fee": 30050
+        }
+      ],
+      "totalTuitionFee": 90150,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-interior-design",
+      "universityId": "uow",
+      "name": "Diploma in Interior Design",
+      "nameAr": "دبلوم في التصميم الداخلي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "diploma",
+      "duration": 2.8,
+      "annualFee": 34525,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34525
+        },
+        {
+          "year": 2,
+          "fee": 34525
+        }
+      ],
+      "totalTuitionFee": 69050,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-creative-industry-management-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Creative Industry Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Creative Industry Management (Hons",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31460,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31460
+        },
+        {
+          "year": 2,
+          "fee": 31460
+        },
+        {
+          "year": 3,
+          "fee": 31460
+        }
+      ],
+      "totalTuitionFee": 94380,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-foundation-in-arts",
+      "universityId": "uow",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 31600,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31600
+        }
+      ],
+      "totalTuitionFee": 31600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-hons-in-media-production",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Hons) in Media Production",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Media Production",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25387,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25387
+        },
+        {
+          "year": 2,
+          "fee": 25387
+        },
+        {
+          "year": 3,
+          "fee": 25387
+        }
+      ],
+      "totalTuitionFee": 76161,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-arts-honours-in-public-relations",
+      "universityId": "uow",
+      "name": "Bachelor of Arts (Honours) in Public Relations",
+      "nameAr": "بكالوريوس الآداب في العلاقات العامة",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26157,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26157
+        },
+        {
+          "year": 2,
+          "fee": 26157
+        },
+        {
+          "year": 3,
+          "fee": 26157
+        }
+      ],
+      "totalTuitionFee": 78471,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-communication-hons-public-relations",
+      "universityId": "uow",
+      "name": "Bachelor of Communication (Hons) Public Relations",
+      "nameAr": "بكالوريوس في العلاقات العامة",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 32040,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32040
+        },
+        {
+          "year": 2,
+          "fee": 32040
+        },
+        {
+          "year": 3,
+          "fee": 32040
+        }
+      ],
+      "totalTuitionFee": 96120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-communication-hons-in-media-production",
+      "universityId": "uow",
+      "name": "Bachelor of Communication (Hons) in Media Production",
+      "nameAr": "بكالوريوس في Bachelor of Communication (Hons) in Media Production",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 31040,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31040
+        },
+        {
+          "year": 2,
+          "fee": 31040
+        },
+        {
+          "year": 3,
+          "fee": 31040
+        }
+      ],
+      "totalTuitionFee": 93120,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-bachelor-of-communication-hons",
+      "universityId": "uow",
+      "name": "Bachelor of Communication (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Communication (Hons",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30570,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30570
+        },
+        {
+          "year": 2,
+          "fee": 30570
+        },
+        {
+          "year": 3,
+          "fee": 30570
+        }
+      ],
+      "totalTuitionFee": 91710,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-entertainment-arts",
+      "universityId": "uow",
+      "name": "Diploma in Entertainment Arts",
+      "nameAr": "دبلوم في Entertainment Arts",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 29320,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29320
+        },
+        {
+          "year": 2,
+          "fee": 29320
+        }
+      ],
+      "totalTuitionFee": 58640,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-mass-communication",
+      "universityId": "uow",
+      "name": "Diploma in Mass Communication",
+      "nameAr": "دبلوم في الاتصال الجماهيري",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2.4,
+      "annualFee": 24755,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24755
+        },
+        {
+          "year": 2,
+          "fee": 24755
+        }
+      ],
+      "totalTuitionFee": 49510,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-diploma-in-communication-and-media",
+      "universityId": "uow",
+      "name": "Diploma in Communication and Media",
+      "nameAr": "دبلوم في Communication and Media",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 29285,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Jun, Sep, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29285
+        },
+        {
+          "year": 2,
+          "fee": 29285
+        }
+      ],
+      "totalTuitionFee": 58570,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-doctor-of-philosophy-creative-arts-and-media",
+      "universityId": "uow",
+      "name": "Doctor of Philosophy (Creative Arts and Media)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Creative Arts and Media",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 21720,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21720
+        },
+        {
+          "year": 2,
+          "fee": 21720
+        },
+        {
+          "year": 3,
+          "fee": 21720
+        }
+      ],
+      "totalTuitionFee": 65160,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-arts-communication-management",
+      "universityId": "uow",
+      "name": "Master of Arts (Communication Management)",
+      "nameAr": "ماجستير في Master of Arts (Communication Management",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.4,
+      "annualFee": 36750,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36750
+        }
+      ],
+      "totalTuitionFee": 36750,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "uow-master-of-design-innovation",
+      "universityId": "uow",
+      "name": "Master of Design (Innovation)",
+      "nameAr": "ماجستير في Master of Design (Innovation",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.4,
+      "annualFee": 36570,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Jun, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36570
+        }
+      ],
+      "totalTuitionFee": 36570,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 73,
+  "totalProgramsCount": 73
+}

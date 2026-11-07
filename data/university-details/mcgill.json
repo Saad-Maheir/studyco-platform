@@ -1,0 +1,1950 @@
+{
+  "id": "mcgill",
+  "name": "McGill University",
+  "arabicName": "جامعة ماكجيل (McGill University)",
+  "city": "Montreal, Quebec",
+  "country": "canada",
+  "logo": "assets/photo/uni-mcgill.png",
+  "image": "assets/photo/campus_mcgill.jpg",
+  "website": "https://www.mcgill.ca/",
+  "ranking": "Rank 29 QS World University Rankings 2025 (#1 in Canada)",
+  "established": "1821",
+  "campusName": "Downtown Montreal Campus",
+  "studentCount": "39,000+ (150+ Countries)",
+  "intakes": "Sep, Jan",
+  "feeRangeMin": 24000,
+  "feeRangeMax": 54800,
+  "currency": "CAD",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/8_oPO3TClsU",
+  "description": "McGill University is a leading Canadian higher education institution located in Montreal, Quebec. It provides globally accredited undergraduate and postgraduate degree programmes.",
+  "descriptionAr": "تعد جامعة ماكجيل (McGill University) صرحاً أكاديمياً وبحثياً رائداً في Montreal, Quebec، وتقدم برامج بكالوريوس وماجستير معتمدة عالمياً تؤهل الخريجين للحصول على تصريح العمل الكندي (PGWP).",
+  "about": {
+    "en": "McGill University is one of Canada's most prestigious institutions of higher education, located in Montreal, Quebec. Established in 1821, it holds Rank 29 QS World University Rankings 2025 (#1 in Canada) and hosts over 39,000+ (150+ Countries) with cutting-edge academic and research excellence.",
+    "ar": "تعد جامعة ماكجيل (McGill University) من أرقى مؤسسات التعليم العالي والبحث العلمي في كندا، وتقع في Montreal, Quebec. تأسست الجامعة عام 1821 وتحتل مكانة مرموقة (Rank 29 QS World University Rankings 2025 (#1 in Canada))، وتضم أكثر من 39,000+ (150+ Countries) وتوفر برامج بكالوريوس ودراسات عليا معتمدة عالمياً.",
+    "id": "McGill University adalah salah satu institusi pendidikan tinggi terkemuka di Kanada yang berlokasi di Montreal, Quebec. Berdiri sejak tahun 1821, universitas ini menduduki peringkat Rank 29 QS World University Rankings 2025 (#1 in Canada) dan menampung lebih dari 39,000+ (150+ Countries).",
+    "zh": "McGill University 是加拿大享誉全球的顶尖高等学府之一，坐落于 Montreal, Quebec。创办于 1821 年，位列 Rank 29 QS World University Rankings 2025 (#1 in Canada)，拥有超过 39,000+ (150+ Countries)。",
+    "ru": "McGill University — один из ведущих канадских университетов, расположенный в городе Montreal, Quebec. Основан в 1821 году, занимает Rank 29 QS World University Rankings 2025 (#1 in Canada) и объединяет свыше 39,000+ (150+ Countries).",
+    "fr": "McGill University est l'un des établissements d'enseignement supérieur les plus réputés du Canada, situé à Montreal, Quebec. Fondée en 1821, elle bénéficie de Rank 29 QS World University Rankings 2025 (#1 in Canada).",
+    "es": "McGill University es una de las instituciones de educación superior más prestigiosas de Canadá, situada en Montreal, Quebec. Fundada en 1821, cuenta con Rank 29 QS World University Rankings 2025 (#1 in Canada).",
+    "ja": "McGill University はカナダの Montreal, Quebec に位置する世界最高峰の高等教育機関です。1821 年に設立され、Rank 29 QS World University Rankings 2025 (#1 in Canada) にランクインしています。",
+    "ko": "McGill University 은(는) 캐나다 Montreal, Quebec 에 위치한 세계적인 명문 대학입니다. 1821 년에 설립되어 Rank 29 QS World University Rankings 2025 (#1 in Canada) 에 등재되어 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "McGill University Central Research Library and Digital Learning Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي",
+        "id": "McGill University Central Research Library and Digital Learning Commons",
+        "zh": "McGill University Central Research Library and Digital Learning Commons",
+        "ru": "McGill University Central Research Library and Digital Learning Commons",
+        "fr": "McGill University Central Research Library and Digital Learning Commons",
+        "es": "McGill University Central Research Library and Digital Learning Commons",
+        "ja": "McGill University Central Research Library and Digital Learning Commons",
+        "ko": "McGill University Central Research Library and Digital Learning Commons"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ar": "مختبرات العلوم والهندسة المتقدمة ومركز ابتكارات الروبوتات",
+        "id": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "zh": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ru": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "fr": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "es": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ja": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ko": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Business Innovation Incubator and Financial Analytics Suite",
+        "ar": "حاضنة ريادة الأعمال وقاعات التحليل المالي والمحاكاة الذكية",
+        "id": "Business Innovation Incubator and Financial Analytics Suite",
+        "zh": "Business Innovation Incubator and Financial Analytics Suite",
+        "ru": "Business Innovation Incubator and Financial Analytics Suite",
+        "fr": "Business Innovation Incubator and Financial Analytics Suite",
+        "es": "Business Innovation Incubator and Financial Analytics Suite",
+        "ja": "Business Innovation Incubator and Financial Analytics Suite",
+        "ko": "Business Innovation Incubator and Financial Analytics Suite"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ar": "المجمع الرياضي الأولمبي المتعدد، صالات اللياقة والمسبح المغطى",
+        "id": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "zh": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ru": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "fr": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "es": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ja": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ko": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution",
+        "ar": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - صرح أكاديمي كندي معتمد ومصنف عالمياً",
+        "id": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution",
+        "zh": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution",
+        "ru": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution",
+        "fr": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution",
+        "es": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution",
+        "ja": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution",
+        "ko": "Rank 29 QS World University Rankings 2025 (#1 in Canada) - Globally Recognized Canadian Institution"
+      },
+      "desc": {
+        "en": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ar": "برامج أكاديمية وبحثية معتمدة دولياً تؤهل الخريجين للريادة والتميز في سوق العمل العالمي.",
+        "id": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "zh": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ru": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "fr": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "es": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ja": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ko": "Globally accredited degree programmes delivering state-of-the-art education and world-class research."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Outstanding Graduate Employability & Global Industry Ties",
+        "ar": "معدلات توظيف استثنائية وشراكات صناعية واسعة",
+        "id": "Outstanding Graduate Employability & Global Industry Ties",
+        "zh": "Outstanding Graduate Employability & Global Industry Ties",
+        "ru": "Outstanding Graduate Employability & Global Industry Ties",
+        "fr": "Outstanding Graduate Employability & Global Industry Ties",
+        "es": "Outstanding Graduate Employability & Global Industry Ties",
+        "ja": "Outstanding Graduate Employability & Global Industry Ties",
+        "ko": "Outstanding Graduate Employability & Global Industry Ties"
+      },
+      "desc": {
+        "en": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ar": "يتمتع خريجو الجامعة بفرص تدريب وظيفي مباشرة ورواتب أولية تنافسية في كبرى الشركات الكندية والعالمية.",
+        "id": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "zh": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ru": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "fr": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "es": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ja": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ko": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Dynamic International Campus & Comprehensive Student Support",
+        "ar": "بيئة جامعية دولية ودعم متكامل للطلاب المغتربين",
+        "id": "Dynamic International Campus & Comprehensive Student Support",
+        "zh": "Dynamic International Campus & Comprehensive Student Support",
+        "ru": "Dynamic International Campus & Comprehensive Student Support",
+        "fr": "Dynamic International Campus & Comprehensive Student Support",
+        "es": "Dynamic International Campus & Comprehensive Student Support",
+        "ja": "Dynamic International Campus & Comprehensive Student Support",
+        "ko": "Dynamic International Campus & Comprehensive Student Support"
+      },
+      "desc": {
+        "en": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ar": "تضم الجامعة مجتمعاً طلابياً من أكثر من 100 دولة وتقدم خدمات إرشاد أكاديمي وسكني ومهني متكاملة.",
+        "id": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "zh": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ru": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "fr": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "es": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ja": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ko": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ar": "مرافق بحثية متطورة وتقنيات تعليمية من الجيل القادم",
+        "id": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "zh": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ru": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "fr": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "es": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ja": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ko": "Cutting-Edge Research Facilities & Next-Gen Learning Tech"
+      },
+      "desc": {
+        "en": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ar": "استثمارات ضخمة في أحدث المختبرات ومراكز المحاكاة الذكية لربط النظريات بالتطبيق العملي.",
+        "id": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "zh": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ru": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "fr": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "es": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ja": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ko": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "McGill University Student Residences",
+        "ar": "McGill University Student Residences",
+        "id": "McGill University Student Residences",
+        "zh": "McGill University Student Residences",
+        "ru": "McGill University Student Residences",
+        "fr": "McGill University Student Residences",
+        "es": "McGill University Student Residences",
+        "ja": "McGill University Student Residences",
+        "ko": "McGill University Student Residences"
+      },
+      "distance": {
+        "en": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ar": "داخل الحرم الجامعي (3 إلى 10 دقائق سيراً على الأقدام للقاعات)",
+        "id": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "zh": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ru": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "fr": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "es": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ja": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ko": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)"
+      },
+      "priceRange": "CAD $750 - $1,400 / Month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "مطابخ مشتركة حديثة وصالات طعام واسعة للطلاب",
+          "غرف مؤثثة ومكيفة بالكامل مع مكاتب دراسية وإنترنت فائق السرعة",
+          "صالات ترفيهية ومكتبات للدراسة الهادئة ومغاسل ملابس ذاتية",
+          "قرب مباشر من وسائل النقل العام ومرافق الجامعة الرئيسية"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV",
+          "Modern Communal Kitchens & Spacious Dining Commons",
+          "Fully Furnished Air-Conditioned Rooms with Study Desks & Fast WiFi",
+          "Student Social Lounges, Quiet Study Hubs & Laundry Facilities",
+          "Immediate Proximity to Public Transit & Academic Buildings"
+        ],
+        "id": [
+          "Keamanan 24 Jam dengan Akses Kartu Elektronik & CCTV",
+          "Dapur Bersama Modern & Area Makan Mahasiswa yang Luas",
+          "Kamar Berperabot Lengkap Ber-AC dengan Meja Belajar & WiFi Cepat",
+          "Lounge Mahasiswa, Ruang Belajar Tenang & Fasilitas Laundry",
+          "Dekat dengan Transportasi Umum & Gedung Kampus Utama"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "category": {
+        "en": "Accommodation & Student Housing",
+        "ar": "السكن الطلابي (داخل الحرم أو شقة مشتركة)",
+        "id": "Akomodasi & Asrama Mahasiswa",
+        "zh": "学生宿舍与校外公寓",
+        "ru": "Проживание и студенческое общежитие",
+        "fr": "Hébergement et résidence étudiante",
+        "es": "Alojamiento y residencia estudiantil",
+        "ja": "学生寮・シェアハウス",
+        "ko": "학생 기숙사 및 주거비"
+      },
+      "cost": "CAD $750 - $1,400 / Month"
+    },
+    {
+      "category": {
+        "en": "Food & Groceries",
+        "ar": "الطعام والبقالة والمعيشة اليومية",
+        "id": "Makanan & Kebutuhan Sehari-hari",
+        "zh": "餐饮与日常生活开销",
+        "ru": "Питание и продукты",
+        "fr": "Nourriture et épicerie",
+        "es": "Comida y supermercado",
+        "ja": "食費・食料品",
+        "ko": "식비 및 생필품"
+      },
+      "cost": "CAD $350 - $600 / Month"
+    },
+    {
+      "category": {
+        "en": "Public Transportation (U-Pass / Transit)",
+        "ar": "المواصلات العامة وبطاقات الطلاب الجامعية",
+        "id": "Transportasi Umum (U-Pass)",
+        "zh": "公共交通与学生乘车卡",
+        "ru": "Общественный транспорт",
+        "fr": "Transports en commun (U-Pass)",
+        "es": "Transporte público universitario",
+        "ja": "公共交通機関（U-Pass）",
+        "ko": "대중교통 (U-Pass 할인)"
+      },
+      "cost": "CAD $90 - $150 / Month"
+    },
+    {
+      "category": {
+        "en": "Utilities, Mobile Phone & Personal",
+        "ar": "خدمات الإنترنت والاتصالات والمصاريف الشخصية",
+        "id": "Internet, Pulsa & Keperluan Pribadi",
+        "zh": "通讯网络与日常杂费",
+        "ru": "Связь, интернет и личные расходы",
+        "fr": "Services, téléphonie et loisirs",
+        "es": "Servicios, telefonía e imprevistos",
+        "ja": "通信費・光熱費・雑費",
+        "ko": "통신비, 공과금 및 개인 용돈"
+      },
+      "cost": "CAD $150 - $300 / Month"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What are the general admission requirements for Canadian universities?",
+        "ar": "ما هي شروط القبول العامة في الجامعات الكندية؟",
+        "id": "Apa syarat penerimaan umum di universitas Kanada?",
+        "zh": "加拿大大学的常规录取要求是什么？",
+        "ru": "Каковы общие требования для поступления в канадские университеты?",
+        "fr": "Quelles sont les conditions générales d'admission au Canada?",
+        "es": "¿Cuáles son los requisitos generales de admisión en Canadá?",
+        "ja": "カナダの大学の一般的な入学条件は何ですか？",
+        "ko": "캐나다 대학의 일반적인 입학 조건은 무엇인가요?"
+      },
+      "a": {
+        "en": "Undergraduate applicants need a recognized high school diploma with strong academic marks, alongside proof of English proficiency (typically IELTS 6.5 with no band below 6.0, or TOEFL equivalent). Postgraduate programs require a recognized 4-year bachelor's degree with competitive GPA.",
+        "ar": "يتطلب القبول في مرحلة البكالوريوس شهادة ثانوية عامة معتمدة بمعدل أكاديمي متميز، بالإضافة إلى إثبات إتقان اللغة الإنجليزية (IELTS 6.5 بدرجة لا تقل عن 6.0 في كل مهارة). أما برامج الدراسات العليا فتتطلب درجة بكالوريوس معتمدة ومعدل تراكمي جيد جداً.",
+        "id": "Untuk sarjana (S1) diperlukan ijazah SMA dengan nilai baik dan bukti kemahiran bahasa Inggris (IELTS 6.5 min 6.0 tiap band). Untuk pascasarjana (S2) diperlukan gelar Sarjana terakreditasi dengan IPK kompetitif.",
+        "zh": "本科申请需认可的高中毕业文凭且成绩优良，同时具备英语语言成绩（雅思6.5分，单项不低于6.0）。研究生课程要求具备认可的学士学位及良好的GPA。",
+        "ru": "Для бакалавриата требуется аттестат о среднем образовании с высокими оценками и сертификат IELTS 6.5 (не ниже 6.0 в секциях). Для магистратуры необходим диплом бакалавра с хорошим средним баллом.",
+        "fr": "Pour le premier cycle, un diplôme de fin d'études secondaires avec de bons résultats et l'IELTS 6.5 sont requis. Pour les cycles supérieurs, un baccalauréat reconnu avec un bon dossier académique est exigé.",
+        "es": "Para pregrado se requiere título de secundaria con buen promedio y certificado IELTS 6.5 (mínimo 6.0 por sección). Para posgrado se exige título de licenciatura con buen GPA.",
+        "ja": "学部入学には高校卒業証明書と優秀な成績、IELTS 6.5以上の英語力が必要です。大学院は認定学士号と優れたGPAが求められます。",
+        "ko": "학부 입학은 공인 고등학교 졸업장과 우수한 내신 성적, IELTS 6.5(각 영역 6.0 이상)가 필요합니다. 석사 과정은 인정된 학사 학위와 우수한 학점이 필수입니다."
+      }
+    },
+    {
+      "q": {
+        "en": "Can international students work during their studies in Canada?",
+        "ar": "هل يحق للطلاب الدوليين العمل أثناء الدراسة في كندا؟",
+        "id": "Apakah mahasiswa internasional boleh bekerja saat kuliah di Kanada?",
+        "zh": "国际学生在加拿大留学期间可以打工吗？",
+        "ru": "Могут ли иностранные студенты работать во время учебы в Канаде?",
+        "fr": "Les étudiants internationaux peuvent-ils travailler pendant leurs études au Canada?",
+        "es": "¿Pueden los estudiantes internacionales trabajar durante sus estudios en Canadá?",
+        "ja": "カナダ留学中に留学生はアルバイトができますか？",
+        "ko": "캐나다 유학 중 국제 학생의 아르바이트가 가능한가요?"
+      },
+      "a": {
+        "en": "Yes. International students holding a valid Study Permit enrolled in full-time degree programs at designated learning institutions (DLIs) can work up to 24 hours per week off-campus during academic semesters, and full-time during official scheduled academic breaks.",
+        "ar": "نعم، يحق للطلاب الدوليين الحاملين لتصريح دراسة (Study Permit) ساري المفعول والملتحقين بدراسة نظامية كاملة العمل حتى 24 ساعة أسبوعياً خارج الحرم الجامعي أثناء الفصول الدراسية، والعمل بدوام كامل خلال العطلات الرسمية المجدولة.",
+        "id": "Ya. Mahasiswa internasional pemegang Study Permit dapat bekerja hingga 24 jam per minggu di luar kampus selama semester perkuliahan dan purnawaktu saat liburan semester resmi.",
+        "zh": "可以。持有有效学习许可（Study Permit）并全日制就读于指定学习机构（DLI）的留学生，在学期内每周可校外工作最多24小时，假期可全职工作。",
+        "ru": "Да. Студенты со Study Permit могут работать вне кампуса до 24 часов в неделю во время семестра и полный рабочий день во время официальных каникул.",
+        "fr": "Oui. Les étudiants titulaires d'un permis d'études valide peuvent travailler jusqu'à 24 heures par semaine hors campus pendant les sessions et à temps plein pendant les vacances.",
+        "es": "Sí. Los estudiantes con permiso de estudio vigente pueden trabajar hasta 24 horas por semana fuera del campus durante el semestre y tiempo completo en vacaciones.",
+        "ja": "はい。有効な就学許可証（Study Permit）を持つ留学生は、学期中は週24時間まで、長期休暇中はフルタイムで就労可能です。",
+        "ko": "네. 유효한 스터디 퍼밋을 소지한 학생은 학기 중 주당 최대 24시간까지 오프캠퍼스 근무가 가능하며, 공식 방학 기간에는 풀타임 근무가 가능합니다."
+      }
+    },
+    {
+      "q": {
+        "en": "How does the Post-Graduation Work Permit (PGWP) work in Canada?",
+        "ar": "كيف يعمل تصريح العمل بعد التخرج (PGWP) في كندا؟",
+        "id": "Bagaimana sistem Post-Graduation Work Permit (PGWP) di Kanada?",
+        "zh": "加拿大的毕业后工作许可（PGWP）如何运作？",
+        "ru": "Как работает разрешение на работу после выпуска (PGWP) в Канаде?",
+        "fr": "Comment fonctionne le permis de travail post-diplôme (PTPD/PGWP) au Canada?",
+        "es": "¿Cómo funciona el permiso de trabajo de posgraduación (PGWP) en Canadá?",
+        "ja": "カナダの卒業後就労ビザ（PGWP）はどのような仕組みですか？",
+        "ko": "캐나다 졸업 후 워크 퍼밋(PGWP)은 어떻게 운영되나요?"
+      },
+      "a": {
+        "en": "Graduates of eligible degree programs from designated Canadian public institutions can apply for an open work permit valid for up to 3 years. This allows graduates to gain valuable Canadian professional work experience, which often provides a direct pathway to Canadian permanent residency (PR).",
+        "ar": "يمنح خريجو البرامج الجامعية المؤهلة في كندا تصريح عمل مفتوح (PGWP) تصل مدته إلى 3 سنوات كاملة بعد التخرج. يتيح هذا التصريح اكتساب خبرة عملية مهنية في كندا وهو أحد أهم المسارات المؤهلة للحصول على الإقامة الدائمة (PR).",
+        "id": "Lulusan dari universitas Kanada yang memenuhi syarat berhak mendapatkan izin kerja terbuka (PGWP) hingga 3 tahun untuk memperoleh pengalaman kerja profesional di Kanada.",
+        "zh": "毕业于合格加拿大公立大学学位课程的毕业生，可申请最长达3年的毕业后开放工作签证（PGWP），积累宝贵的加拿大本地工作经验，并有助于申请枫叶卡永久居留（PR）。",
+        "ru": "Выпускники аккредитованных программ канадских вузов могут получить открытое разрешение на работу (PGWP) сроком до 3 лет, открывающее путь к постоянному проживанию (PR).",
+        "fr": "Les diplômés de programmes admissibles peuvent obtenir un permis de travail ouvert jusqu'à 3 ans (PTPD), leur permettant d'acquérir une expérience canadienne menant à la résidence permanente.",
+        "es": "Los graduados de programas elegibles pueden obtener un permiso de trabajo abierto de hasta 3 años (PGWP), lo cual facilita el camino a la residencia permanente en Canadá.",
+        "ja": "カナダの認定大学を卒業後、最大3年間のオープン就労ビザ（PGWP）を申請でき、現地での就労経験を経て永住権（PR）申請に繋げることが可能です。",
+        "ko": "인정된 캐나다 공립 대학 졸업생은 최대 3년 유효한 졸업 후 워크 퍼밋(PGWP)을 발급받아 캐나다 내 전문 경력을 쌓고 영주권(PR) 취득으로 이어질 수 있습니다."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "title": {
+        "en": "Comprehensive Guide to Studying in Canada & Navigating the PGWP",
+        "ar": "الدليل الشامل للدراسة في كندا والحصول على تصريح العمل بعد التخرج (PGWP)",
+        "id": "Panduan Lengkap Kuliah di Kanada & Syarat Izin Kerja Pasca Kelulusan (PGWP)",
+        "zh": "加拿大留学全景指南：申请流程、就读体验与PGWP毕业工签全解析",
+        "ru": "Полный гид по обучению в Канаде: поступление, виза и рабочая виза PGWP",
+        "fr": "Guide complet des études au Canada et du permis de travail post-diplôme (PTPD)",
+        "es": "Guía completa para estudiar en Canadá y obtener el permiso de trabajo PGWP",
+        "ja": "カナダ大学留学完全ガイド：出願手順から卒業後就労ビザ（PGWP）まで",
+        "ko": "캐나다 명문대 유학 가이드: 입학 절차부터 졸업 후 워크 퍼밋(PGWP)까지"
+      },
+      "excerpt": {
+        "en": "Explore world-renowned Canadian higher education, living expenses across provinces, and strategic pathways to career success in North America.",
+        "ar": "استكشف مميزات التعليم الجامعي الكندي وتكاليف المعيشة عبر المقاطعات والمسارات المعتمدة لبناء مسيرة مهنية عالمية في أمريكا الشمالية.",
+        "id": "Pelajari keunggulan sistem pendidikan tinggi Kanada, biaya hidup antar provinsi, dan jalur karir profesional di Amerika Utara.",
+        "zh": "深入了解加拿大世界顶尖的高等教育资源、各省生活成本对比，以及毕业后在北美开拓国际化职业生涯的黄金路径。",
+        "ru": "Узнайте о преимуществах канадского высшего образования, стоимости жизни в различных провинциях и карьерных перспективах.",
+        "fr": "Découvrez les atouts de l'enseignement supérieur canadien, le coût de la vie par province et les opportunités professionnelles.",
+        "es": "Descubre las ventajas de la educación superior en Canadá, el costo de vida por provincia y las oportunidades profesionales.",
+        "ja": "カナダの高等教育の魅力、州ごとの生活費比較、そして北米でキャリアを築くための実践的なステップを解説します。",
+        "ko": "세계적 수준의 캐나다 대학 교육 환경, 주별 생활비 분석, 북미 취업 및 영주권 연계 전략을 상세히 소개합니다."
+      },
+      "date": "2026-09-06",
+      "category": "Guides"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelName": "Post-Degree Diploma / Certificate",
+      "levelAr": "دبلوم الدراسات العليا والشهادات المهنية (Post-Degree)",
+      "levelKey": "level_diploma",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين دراسيتين",
+      "avgFee": "CAD$26,400 - CAD$26,400"
+    },
+    {
+      "levelName": "Bachelor's Degree (Undergraduate)",
+      "levelAr": "درجة البكالوريوس الجامعية الكندية (Undergraduate)",
+      "levelKey": "level_bachelor",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات دراسية متكاملة",
+      "avgFee": "CAD$48,000 - CAD$54,800"
+    },
+    {
+      "levelName": "Master's Degree (Postgraduate)",
+      "levelAr": "درجة الماجستير الكندية (Postgraduate / Master's)",
+      "levelKey": "level_master",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين مكثفة",
+      "avgFee": "CAD$36,000 - CAD$41,700"
+    },
+    {
+      "levelName": "Doctoral Degree (PhD)",
+      "levelAr": "درجة الدكتوراه والأبحاث المتقدمة (Doctorate)",
+      "levelKey": "level_phd",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات بحثية متقدمة",
+      "avgFee": "CAD$24,000 - CAD$26,400"
+    }
+  ],
+  "directWatchUrl": null,
+  "programs": [
+    {
+      "id": "mcgill-business-90001",
+      "universityId": "mcgill",
+      "name": "Bachelor of Commerce (Honours in Finance) - Desautels Faculty of Management",
+      "nameAr": "بكالوريوس التجارة (مع مرتبة الشرف في العلوم المالية) - كلية ديزوتيل للإدارة",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 58500,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-commerce-honours-in-finance-desautels-faculty-of-management",
+      "overview": "McGill's Desautels Faculty of Management offers world-class education in capital markets, private wealth management, and corporate strategy in Montreal's vibrant financial ecosystem.",
+      "overviewAr": "تقدم كلية ديزوتيل للإدارة في جامعة ماكجيل تعليماً عالمي المستوى في أسواق رأس المال وإدارة الثروات الخاصة والاستراتيجية في مونتريال.",
+      "requirements": "High school diploma with superior standing in Mathematics and English (IELTS 6.5).",
+      "requirementsAr": "شهادة الثانوية العامة بتفوق في الرياضيات واللغة الإنجليزية (آيلتس 6.5).",
+      "careerOpportunities": [
+        "Investment Banking Associate",
+        "Asset Portfolio Manager",
+        "Strategy Consultant",
+        "Corporate Financial Analyst"
+      ],
+      "careerOpportunitiesAr": [
+        "مسؤول مصرفي استثماري",
+        "مدير محافظ الأصول المالية",
+        "مستشار استراتيجي",
+        "محلل مالي للشركات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58500
+        },
+        {
+          "year": 2,
+          "fee": 58500
+        },
+        {
+          "year": 3,
+          "fee": 58500
+        },
+        {
+          "year": 4,
+          "fee": 58500
+        }
+      ],
+      "totalTuitionFee": 234000,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ],
+        "year4": [
+          "BUS401: Applied Strategic Management Simulation (Capstone)",
+          "BUS402: Corporate Governance and Business Ethics",
+          "BUS403: Entrepreneurship & Venture Financing",
+          "BUS404: Global Consulting Fieldwork Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ],
+        "year4": [
+          "BUS401: محاكاة الإدارة الاستراتيجية التطبيقية (مشروع التخرج)",
+          "BUS402: حوكمة الشركات وأخلاقيات الأعمال والمسؤولية المجتمعية",
+          "BUS403: ريادة الأعمال وتمويل المشاريع الناشئة",
+          "BUS404: مشروع الاستشارات الميداني التطبيقي للشركات"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-business-90002",
+      "universityId": "mcgill",
+      "name": "Full-Time Master of Business Administration (Desautels MBA)",
+      "nameAr": "ماجستير إدارة الأعمال بدوام كامل (ديزوتيل ماكجيل MBA)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 68000,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "full-time-master-of-business-administration-desautels-mba",
+      "overview": "Intensive global MBA ranked among North America's top programs, offering specialized tracks in Global Strategy, Finance, and Digital Innovation with international study trips.",
+      "overviewAr": "برنامج MBA مكثف مصنف بين أفضل البرامج في أمريكا الشمالية، يقدم مسارات تخصصية في الاستراتيجية العالمية والابتكار الرقمي والرحلات الدراسية الدولية.",
+      "requirements": "Undergraduate degree (GPA 3.0/4.0), GMAT/GRE score, 2+ years professional experience, IELTS 7.0.",
+      "requirementsAr": "درجة البكالوريوس بمعدل جيد جداً، مع نتيجة اختبار GMAT وسنتين خبرة مهنية وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Management Consulting Director",
+        "Chief Strategy Officer",
+        "Venture Capital Partner",
+        "Global Brand Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير استشارات إدارية",
+        "رئيس قطاع الاستراتيجية",
+        "شريك استثماري في رأس المال الجريء",
+        "مدير العلامات التجارية العالمية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68000
+        },
+        {
+          "year": 2,
+          "fee": 68000
+        }
+      ],
+      "totalTuitionFee": 136000,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-business-90003",
+      "universityId": "mcgill",
+      "name": "Bachelor of Commerce (Major in Business Analytics) - Desautels",
+      "nameAr": "بكالوريوس التجارة (تخصص تحليلات الأعمال ونظم البيانات) - ديزوتيل",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 58500,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-commerce-major-in-business-analytics-desautels",
+      "overview": "Combines predictive data analytics, statistical machine learning, and managerial decision making to empower future enterprise leaders.",
+      "overviewAr": "يجمع بين التحليلات التنبؤية للبيانات وتعلم الآلة الإحصائي واتخاذ القرارات الإدارية لتأهيل قادة المستقبل في قطاع الأعمال.",
+      "requirements": "High school graduation with distinction in Mathematics. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة بتفوق في الرياضيات مع آيلتس 6.5.",
+      "careerOpportunities": [
+        "Enterprise Analytics Consultant",
+        "Data Product Manager",
+        "Business Intelligence Architect",
+        "Financial Risk Modeler"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار تحليلات الأعمال",
+        "مدير منتجات البيانات",
+        "مهندس ذكاء الأعمال",
+        "أخصائي نمذجة المخاطر المالية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58500
+        },
+        {
+          "year": 2,
+          "fee": 58500
+        },
+        {
+          "year": 3,
+          "fee": 58500
+        },
+        {
+          "year": 4,
+          "fee": 58500
+        }
+      ],
+      "totalTuitionFee": 234000,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ],
+        "year4": [
+          "BUS401: Applied Strategic Management Simulation (Capstone)",
+          "BUS402: Corporate Governance and Business Ethics",
+          "BUS403: Entrepreneurship & Venture Financing",
+          "BUS404: Global Consulting Fieldwork Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ],
+        "year4": [
+          "BUS401: محاكاة الإدارة الاستراتيجية التطبيقية (مشروع التخرج)",
+          "BUS402: حوكمة الشركات وأخلاقيات الأعمال والمسؤولية المجتمعية",
+          "BUS403: ريادة الأعمال وتمويل المشاريع الناشئة",
+          "BUS404: مشروع الاستشارات الميداني التطبيقي للشركات"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-cs-90004",
+      "universityId": "mcgill",
+      "name": "Bachelor of Science (Honours) in Computer Science",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في علوم الحاسوب",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 52800,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-science-honours-in-computer-science",
+      "overview": "McGill's School of Computer Science offers premier training in theoretical computer science, robotics, artificial intelligence, and biological computing.",
+      "overviewAr": "تقدم مدرسة علوم الحاسوب في ماكجيل برامج مرموقة في الحوسبة النظرية والروبوتات والذكاء الاصطناعي والحوسبة الحيوية.",
+      "requirements": "High school graduation with distinction in Calculus, Physics and English (IELTS 6.5).",
+      "requirementsAr": "شهادة الثانوية العامة بتفوق في التفاضل والتكامل والفيزياء والآيلتس 6.5.",
+      "careerOpportunities": [
+        "AI Algorithms Engineer",
+        "Software Systems Developer",
+        "Robotics Research Engineer",
+        "Cybersecurity Analyst"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس خوارزميات الذكاء الاصطناعي",
+        "مطور نظم البرمجيات",
+        "مهندس أبحاث الروبوتات",
+        "محلل الأمن السيبراني"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52800
+        },
+        {
+          "year": 2,
+          "fee": 52800
+        },
+        {
+          "year": 3,
+          "fee": 52800
+        },
+        {
+          "year": 4,
+          "fee": 52800
+        }
+      ],
+      "totalTuitionFee": 211200,
+      "curriculum": {
+        "year1": [
+          "CS101: Introduction to Programming & Computing (Python)",
+          "MATH101: Calculus & Linear Algebra for CS",
+          "CS102: Discrete Structures and Logic",
+          "Academic Research & Technology Ethics"
+        ],
+        "year2": [
+          "CS201: Data Structures and Algorithmic Analysis",
+          "CS202: Object-Oriented Software Design (Java/C++)",
+          "CS203: Computer Systems and Architecture",
+          "CS204: Relational Databases & SQL Systems"
+        ],
+        "year3": [
+          "CS301: Operating Systems & Kernel Programming",
+          "CS302: Artificial Intelligence & Machine Learning",
+          "CS303: Computer Networks & Distributed Systems",
+          "CS304: Software Testing and Quality Assurance"
+        ],
+        "year4": [
+          "CS401: Cloud Computing & Microservices Architecture",
+          "CS402: Deep Learning & Neural Networks",
+          "CS403: Cybersecurity and Applied Cryptography",
+          "CS499: Senior Capstone Research Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CS101: مقدمة في البرمجة وعلوم الحوسبة (بايثون)",
+          "MATH101: التفاضل والتكامل والجبر الخطي للحاسوب",
+          "CS102: التراكيب المتقطعة والمنطق الحسابي",
+          "مهارات البحث الأكاديمي وأخلاقيات التكنولوجيا"
+        ],
+        "year2": [
+          "CS201: هياكل البيانات وتحليل الخوارزميات المتقدمة",
+          "CS202: هندسة وتصميم البرمجيات الكائنية (Java/C++)",
+          "CS203: بنية ومعمارية الحواسب والنظم",
+          "CS204: قواعد البيانات العلائقية ونظم SQL"
+        ],
+        "year3": [
+          "CS301: نظم التشغيل وبرمجة النواة والذاكرة",
+          "CS302: الذكاء الاصطناعي وتعلم الآلة",
+          "CS303: شبكات الحاسوب والنظم الموزعة",
+          "CS304: اختبار وجودة البرمجيات والأنظمة"
+        ],
+        "year4": [
+          "CS401: الحوسبة السحابية ومعمارية الخدمات المصغرة",
+          "CS402: التعلم العميق والشبكات العصبية",
+          "CS403: الأمن السيبراني وعلم التشفير التطبيقي",
+          "CS499: مشروع التخرج والبحث التطبيقي المعتمد"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-cs-90005",
+      "universityId": "mcgill",
+      "name": "Master of Science in Computer Science - AI & Machine Learning",
+      "nameAr": "ماجستير العلوم في علوم الحاسوب (الذكاء الاصطناعي وتعلم الآلة)",
+      "field": "cs",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 36400,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September, January",
+      "slug": "master-of-science-in-computer-science-ai-machine-learning",
+      "overview": "Elite research master's conducted in collaboration with Mila (Quebec AI Institute), focusing on deep learning, reinforcement learning, and computer vision.",
+      "overviewAr": "ماجستير بحثي نخبوي يقام بالتعاون مع معهد ميلا العالمي، ويركز على التعلم العميق والتعلم المعزز ورؤية الحاسوب.",
+      "requirements": "BSc in Computer Science or closely related field with GPA >= 3.2/4.0 and IELTS 7.0.",
+      "requirementsAr": "بكالوريوس علوم الحاسوب بمعدل امتياز وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Principal AI Scientist",
+        "Machine Learning Researcher",
+        "Autonomous Vehicle Architect",
+        "Deep Tech Entrepreneur"
+      ],
+      "careerOpportunitiesAr": [
+        "كبير علماء الذكاء الاصطناعي",
+        "باحث تعلم الآلة",
+        "مهندس أنظمة القيادة الذاتية",
+        "رائد أعمال في التكنولوجيا المتقدمة"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36400
+        },
+        {
+          "year": 2,
+          "fee": 36400
+        }
+      ],
+      "totalTuitionFee": 72800,
+      "curriculum": {
+        "year1": [
+          "CS101: Introduction to Programming & Computing (Python)",
+          "MATH101: Calculus & Linear Algebra for CS",
+          "CS102: Discrete Structures and Logic",
+          "Academic Research & Technology Ethics"
+        ],
+        "year2": [
+          "CS201: Data Structures and Algorithmic Analysis",
+          "CS202: Object-Oriented Software Design (Java/C++)",
+          "CS203: Computer Systems and Architecture",
+          "CS204: Relational Databases & SQL Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CS101: مقدمة في البرمجة وعلوم الحوسبة (بايثون)",
+          "MATH101: التفاضل والتكامل والجبر الخطي للحاسوب",
+          "CS102: التراكيب المتقطعة والمنطق الحسابي",
+          "مهارات البحث الأكاديمي وأخلاقيات التكنولوجيا"
+        ],
+        "year2": [
+          "CS201: هياكل البيانات وتحليل الخوارزميات المتقدمة",
+          "CS202: هندسة وتصميم البرمجيات الكائنية (Java/C++)",
+          "CS203: بنية ومعمارية الحواسب والنظم",
+          "CS204: قواعد البيانات العلائقية ونظم SQL"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-engineering-90006",
+      "universityId": "mcgill",
+      "name": "Bachelor of Engineering (BEng) in Software Engineering",
+      "nameAr": "بكالوريوس الهندسة في هندسة البرمجيات",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 56400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-engineering-beng-in-software-engineering",
+      "overview": "Rigorous CEAB-accredited engineering program combining deep computer science fundamentals with engineering design, safety-critical software, and distributed computing.",
+      "overviewAr": "برنامج هندسي معتمد رسمياً يجمع بين أسس علوم الحاسوب والتصميم الهندسي وبرمجيات الأنظمة الحرجة والحوسبة الموزعة.",
+      "requirements": "High school diploma with top standing in Mathematics, Physics, Chemistry. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية بتفوق في الرياضيات والفيزياء والكيمياء مع آيلتس 6.5.",
+      "careerOpportunities": [
+        "Principal Software Engineer",
+        "DevOps Infrastructure Architect",
+        "Mission-Critical Systems Engineer",
+        "Tech Team Lead"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس برمجيات رئيسي",
+        "معماري البنية التحتية السحابية",
+        "مهندس الأنظمة الحرجة والفضائية",
+        "قائد الفرق البرمجية التقنية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56400
+        },
+        {
+          "year": 2,
+          "fee": 56400
+        },
+        {
+          "year": 3,
+          "fee": 56400
+        },
+        {
+          "year": 4,
+          "fee": 56400
+        }
+      ],
+      "totalTuitionFee": 225600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-engineering-90007",
+      "universityId": "mcgill",
+      "name": "Bachelor of Engineering (BEng) in Mechanical Engineering",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 56400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-engineering-beng-in-mechanical-engineering",
+      "overview": "Comprehensive program in aerodynamics, continuum mechanics, robotics, and advanced materials engineering with optional aeronautical engineering concentration.",
+      "overviewAr": "برنامج شامل في الديناميكا الهوائية وميكانيكا الأوساط المتصلة والروبوتات والمواد المتقدمة مع خيار هندسة الطيران.",
+      "requirements": "High school Calculus, Physics, Chemistry with high academic average. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية بتفوق في الرياضيات والفيزياء والكيمياء مع آيلتس 6.5.",
+      "careerOpportunities": [
+        "Aerospace Design Specialist",
+        "Robotics Systems Engineer",
+        "Renewable Energy Specialist",
+        "Automotive Systems Engineer"
+      ],
+      "careerOpportunitiesAr": [
+        "أخصائي تصميم هياكل الطيران",
+        "مهندس أنظمة الروبوتات",
+        "أخصائي هندسة الطاقة المتجددة",
+        "مهندس تصميم المركبات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56400
+        },
+        {
+          "year": 2,
+          "fee": 56400
+        },
+        {
+          "year": 3,
+          "fee": 56400
+        },
+        {
+          "year": 4,
+          "fee": 56400
+        }
+      ],
+      "totalTuitionFee": 225600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-engineering-90008",
+      "universityId": "mcgill",
+      "name": "Bachelor of Engineering (BEng) in Electrical Engineering",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الكهربائية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 56400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-engineering-beng-in-electrical-engineering",
+      "overview": "Focuses on semiconductor electronics, optical communications, power distribution, and digital signal processing.",
+      "overviewAr": "يركز على إلكترونيات أشباه الموصلات والاتصالات الضوئية وتوزيع الطاقة ومعالجة الإشارات الرقمية.",
+      "requirements": "High school graduation in Sciences (Math, Physics, Chemistry). IELTS 6.5.",
+      "requirementsAr": "الثانوية العامة بتفوق في المسار العلمي والآيلتس 6.5.",
+      "careerOpportunities": [
+        "Semiconductor Design Engineer",
+        "Telecommunications Architect",
+        "Smart Grid Engineer",
+        "Signal Processing Analyst"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس تصميم رقائق أشباه الموصلات",
+        "معماري شبكات الاتصالات",
+        "مهندس الشبكات الكهربائية الذكية",
+        "محلل معالجة الإشارات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56400
+        },
+        {
+          "year": 2,
+          "fee": 56400
+        },
+        {
+          "year": 3,
+          "fee": 56400
+        },
+        {
+          "year": 4,
+          "fee": 56400
+        }
+      ],
+      "totalTuitionFee": 225600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-engineering-90009",
+      "universityId": "mcgill",
+      "name": "Bachelor of Engineering (BEng) in Civil Engineering",
+      "nameAr": "بكالوريوس الهندسة في الهندسة المدنية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 56400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-engineering-beng-in-civil-engineering",
+      "overview": "World-class education in earthquake-resistant structures, water resources, environmental engineering, and sustainable urban mega-infrastructure.",
+      "overviewAr": "تعليم هندسي متقدم في مقاومة الزلازل وهندسة الموارد المائية وحماية البيئة وتشييد البنى التحتية الكبرى المستدامة.",
+      "requirements": "Secondary school sciences with high distinction in Mathematics and Physics. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العلمية بتفوق في الرياضيات والفيزياء وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Structural Project Director",
+        "Urban Mega-Infrastructure Engineer",
+        "Environmental Water Engineer",
+        "Geotechnical Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مشاريع إنشائية",
+        "مهندس البنى التحتية الكبرى",
+        "مهندس البيئة والموارد المائية",
+        "مستشار الهندسة الجيوتقنية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56400
+        },
+        {
+          "year": 2,
+          "fee": 56400
+        },
+        {
+          "year": 3,
+          "fee": 56400
+        },
+        {
+          "year": 4,
+          "fee": 56400
+        }
+      ],
+      "totalTuitionFee": 225600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-engineering-90010",
+      "universityId": "mcgill",
+      "name": "Bachelor of Engineering (BEng) in Chemical Engineering",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الكيميائية وتطبيقاتها",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 56400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-engineering-beng-in-chemical-engineering",
+      "overview": "Focuses on bioprocess engineering, nanomaterials, carbon capture technologies, and sustainable petrochemical transition.",
+      "overviewAr": "يركز على هندسة العمليات الحيوية، والمواد النانوية، وتقنيات احتجاز الكربون، والتحول المستدام في الصناعات الكيميائية.",
+      "requirements": "High school chemistry, physics and calculus with distinction. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية بتفوق في الكيمياء والفيزياء والرياضيات وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Process Optimization Lead",
+        "Bioprocess Development Scientist",
+        "Clean Energy Materials Engineer",
+        "Refinery Transition Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "قائد تحسين العمليات الصناعية",
+        "عالم تطوير العمليات الحيوية",
+        "مهندس مواد الطاقة النظيفة",
+        "أخصائي تحول الطاقة والبتروكيماويات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56400
+        },
+        {
+          "year": 2,
+          "fee": 56400
+        },
+        {
+          "year": 3,
+          "fee": 56400
+        },
+        {
+          "year": 4,
+          "fee": 56400
+        }
+      ],
+      "totalTuitionFee": 225600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-law-90011",
+      "universityId": "mcgill",
+      "name": "Bachelor of Civil Law and Juris Doctor (BCL/JD - Faculty of Law)",
+      "nameAr": "ليسانس القانون المدني ودكتوراه القانون (برنامج القانون الثنائي المشترك BCL/JD)",
+      "field": "law",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 54200,
+      "currency": "CAD",
+      "ielts": "7.5",
+      "intakes": "September",
+      "slug": "bachelor-of-civil-law-and-juris-doctor-bcl-jd-faculty-of-law",
+      "overview": "McGill's unique integrated bilingual legal program teaching both the Civil Law and Common Law traditions, qualifying graduates to practice across Canada, the US, and internationally.",
+      "overviewAr": "برنامج قانوني متكامل يجمع بين تقليد القانون المدني والقانون العام (Common Law)، مما يؤهل الخريجين للممارسة القانونية في كندا والولايات المتحدة وأوروبا.",
+      "requirements": "Undergraduate degree, strong analytical aptitude, personal statement, and IELTS 7.5.",
+      "requirementsAr": "شهادة البكالوريوس مع ملف تقديم متميز وإتقان اللغتين الإنجليزية والفرنسية أو آيلتس 7.5.",
+      "careerOpportunities": [
+        "Cross-Border Commercial Litigator",
+        "Supreme Court Clerk",
+        "International Arbitration Counsel",
+        "Diplomatic Legal Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "محامٍ في التقاضي التجاري الدولي",
+        "مساعد قضائي في المحكمة العليا",
+        "مستشار التحكيم الدولي",
+        "مستشار قانوني دبلوماسي"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54200
+        },
+        {
+          "year": 2,
+          "fee": 54200
+        },
+        {
+          "year": 3,
+          "fee": 54200
+        }
+      ],
+      "totalTuitionFee": 162600,
+      "curriculum": {
+        "year1": [
+          "LAW101: Constitutional Law and Charter Rights",
+          "LAW102: Contracts and Commercial Obligations",
+          "LAW103: Criminal Law and Criminal Procedure",
+          "LAW104: Legal Research, Writing and Advocacy"
+        ],
+        "year2": [
+          "LAW201: Administrative Law and Regulatory Bodies",
+          "LAW202: Corporate and Business Organizations Law",
+          "LAW203: Law of Evidence and Civil Court Procedure",
+          "LAW204: International Law and Global Institutions"
+        ],
+        "year3": [
+          "LAW301: Advanced Trial Advocacy and Courtroom Clinic",
+          "LAW302: Intellectual Property and Technology Law",
+          "LAW303: Cross-Border Commercial Arbitration & Dispute Resolution",
+          "LAW399: Senior Legal Thesis and Judicial Jurisprudence"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "LAW101: القانون الدستوري وميثاق الحقوق والحريات",
+          "LAW102: قانون العقود والالتزامات التجارية",
+          "LAW103: القانون الجنائي وأصول المحاكمات والإجراءات الجزائية",
+          "LAW104: مناهج البحث القانوني وصياغة المذكرات والترافع"
+        ],
+        "year2": [
+          "LAW201: القانون الإداري والرقابة على القرارات الحكومية",
+          "LAW202: قانون الشركات والمنشآت التجارية والاستثمار",
+          "LAW203: قانون الإثبات وإجراءات المحاكم المدنية",
+          "LAW204: القانون الدولي العام والمؤسسات العالمية"
+        ],
+        "year3": [
+          "LAW301: عيادة التقاضي والترافع المتقدم أمام المحاكم",
+          "LAW302: قانون الملكية الفكرية وتكنولوجيا المعلومات",
+          "LAW303: التحكيم التجاري الدولي وتسوية النزاعات عبر الحدود",
+          "LAW399: أطروحة التخرج القانونية والبحث الفقهي والتشريعي"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-law-90012",
+      "universityId": "mcgill",
+      "name": "Master of Laws (LLM in Comparative Law & International Trade)",
+      "nameAr": "ماجستير القانون المتقدم (LLM في القانون المقارن والتجارة الدولية)",
+      "field": "law",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 38600,
+      "currency": "CAD",
+      "ielts": "7.5",
+      "intakes": "September",
+      "slug": "master-of-laws-llm-in-comparative-law-international-trade",
+      "overview": "World-renowned graduate law curriculum exploring transnational legal disputes, international investment treaties, and human rights governance.",
+      "overviewAr": "برنامج دراسات عليا مرموق عالمياً يبحث في المنازعات القانونية العابرة للحدود، ومعاهدات الاستثمار الدولية، وحوكمة حقوق الإنسان.",
+      "requirements": "Law degree (LLB, BCL, JD) with superior academic distinction and IELTS 7.5.",
+      "requirementsAr": "شهادة الليسانس أو دكتوراه القانون بتقدير ممتاز وآيلتس 7.5.",
+      "careerOpportunities": [
+        "International Trade Counsel",
+        "Arbitration Tribunal Secretary",
+        "Human Rights Law Director",
+        "Global Corporate Legal Strategist"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار التجارة الدولية",
+        "أمين هيئة التحكيم الدولي",
+        "مدير برامج حقوق الإنسان الدولية",
+        "استراتيجي الشؤون القانونية للشركات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38600
+        }
+      ],
+      "totalTuitionFee": 38600,
+      "curriculum": {
+        "year1": [
+          "LAW101: Constitutional Law and Charter Rights",
+          "LAW102: Contracts and Commercial Obligations",
+          "LAW103: Criminal Law and Criminal Procedure",
+          "LAW104: Legal Research, Writing and Advocacy"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "LAW101: القانون الدستوري وميثاق الحقوق والحريات",
+          "LAW102: قانون العقود والالتزامات التجارية",
+          "LAW103: القانون الجنائي وأصول المحاكمات والإجراءات الجزائية",
+          "LAW104: مناهج البحث القانوني وصياغة المذكرات والترافع"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-health-90013",
+      "universityId": "mcgill",
+      "name": "Bachelor of Science in Nursing (BScN)",
+      "nameAr": "بكالوريوس العلوم في التمريض (BScN)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 44800,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-science-in-nursing-bscn",
+      "overview": "Ingram School of Nursing provides clinical excellence in tertiary teaching hospitals like McGill University Health Centre (MUHC) and Montreal Children's Hospital.",
+      "overviewAr": "توفر مدرسة إنغرام للتمريض تدريباً سريرياً متميزاً في مستشفيات ماكجيل الجامعية ومستشفى مونتريال للأطفال.",
+      "requirements": "Prerequisites in Biology, Chemistry, and Mathematics with IELTS 6.5.",
+      "requirementsAr": "متطلبات دراسية في الأحياء والكيمياء والرياضيات مع آيلتس 6.5.",
+      "careerOpportunities": [
+        "Pediatric Intensive Care Nurse",
+        "Emergency Flight Nurse",
+        "Clinical Nurse Specialist",
+        "Global Health Care Coordinator"
+      ],
+      "careerOpportunitiesAr": [
+        "ممرض العناية المركزة للأطفال",
+        "ممرض الإسعاف والطوارئ الجوي",
+        "أخصائي التمريض السريري",
+        "منسق برامج الرعاية الصحية العالمية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44800
+        },
+        {
+          "year": 2,
+          "fee": 44800
+        },
+        {
+          "year": 3,
+          "fee": 44800
+        }
+      ],
+      "totalTuitionFee": 134400,
+      "curriculum": {
+        "year1": [
+          "HLTH101: Human Anatomy and Physiology I",
+          "CHEM101: General and Biological Chemistry",
+          "HLTH102: Introduction to Health Sciences & Ethics",
+          "BIOL101: Cellular and Molecular Biology"
+        ],
+        "year2": [
+          "HLTH201: Pathophysiology and Mechanisms of Disease",
+          "HLTH202: Pharmacology and Drug Actions",
+          "HLTH203: Clinical Microbiology and Immunology",
+          "HLTH204: Epidemiology and Public Health Methods"
+        ],
+        "year3": [
+          "HLTH301: Clinical Assessment & Patient Care Principles",
+          "HLTH302: Health Systems and Healthcare Policy",
+          "HLTH303: Evidence-Based Clinical Practice & Research",
+          "HLTH304: Clinical Practicum Hospital Placement I"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "HLTH101: التشريح وعلم وظائف الأعضاء البشرية I",
+          "CHEM101: الكيمياء العامة والحيوية التطبيقية",
+          "HLTH102: مدخل إلى العلوم الصحية وأخلاقيات الرعاية",
+          "BIOL101: البيولوجيا الخلوية والجزيئية"
+        ],
+        "year2": [
+          "HLTH201: علم الأمراض والآليات البيولوجية للمرض",
+          "HLTH202: علم الأدوية وميكانيكية عمل العلاجات",
+          "HLTH203: الأحياء الدقيقة والمناعة السريرية",
+          "HLTH204: علم الوبائيات ومناهج الصحة العامة"
+        ],
+        "year3": [
+          "HLTH301: التقييم السريري وأسس رعاية المرضى",
+          "HLTH302: الأنظمة الصحية والسياسات الطبية الدولية",
+          "HLTH303: الممارسة السريرية المبنية على الدليل العلمي",
+          "HLTH304: التدريب الميداني السريري بالمستشفيات I"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-health-90014",
+      "universityId": "mcgill",
+      "name": "Master of Science in Experimental Medicine",
+      "nameAr": "ماجستير العلوم في الطب التجريبي والعلوم الحيوية",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 38200,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September, January",
+      "slug": "master-of-science-in-experimental-medicine",
+      "overview": "Pioneering translational medical research in cancer oncology, cardiovascular disease, genomics, and infectious diseases at leading McGill research institutes.",
+      "overviewAr": "أبحاث طبية تطبيقية رائدة في علاج الأورام السرطانية وأمراض القلب والجينات والأمراض المعدية في معاهد ماكجيل للأبحاث.",
+      "requirements": "BSc in Life Sciences, Biochemistry, or related field (min GPA 3.2/4.0). IELTS 7.0.",
+      "requirementsAr": "بكالوريوس العلوم الحيوية أو الكيمياء الحيوية بمعدل جيد جداً وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Biomedical Research Scientist",
+        "Clinical Trials Director",
+        "Translational Medicine Strategist",
+        "Pharmaceutical Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "عالم أبحاث الطب الحيوي",
+        "مدير التجارب السريرية للأدوية",
+        "استراتيجي الطب التحويلي",
+        "مستشار الصناعات الدوائية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38200
+        },
+        {
+          "year": 2,
+          "fee": 38200
+        }
+      ],
+      "totalTuitionFee": 76400,
+      "curriculum": {
+        "year1": [
+          "HLTH101: Human Anatomy and Physiology I",
+          "CHEM101: General and Biological Chemistry",
+          "HLTH102: Introduction to Health Sciences & Ethics",
+          "BIOL101: Cellular and Molecular Biology"
+        ],
+        "year2": [
+          "HLTH201: Pathophysiology and Mechanisms of Disease",
+          "HLTH202: Pharmacology and Drug Actions",
+          "HLTH203: Clinical Microbiology and Immunology",
+          "HLTH204: Epidemiology and Public Health Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "HLTH101: التشريح وعلم وظائف الأعضاء البشرية I",
+          "CHEM101: الكيمياء العامة والحيوية التطبيقية",
+          "HLTH102: مدخل إلى العلوم الصحية وأخلاقيات الرعاية",
+          "BIOL101: البيولوجيا الخلوية والجزيئية"
+        ],
+        "year2": [
+          "HLTH201: علم الأمراض والآليات البيولوجية للمرض",
+          "HLTH202: علم الأدوية وميكانيكية عمل العلاجات",
+          "HLTH203: الأحياء الدقيقة والمناعة السريرية",
+          "HLTH204: علم الوبائيات ومناهج الصحة العامة"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-architecture-90015",
+      "universityId": "mcgill",
+      "name": "Bachelor of Science (Architecture) - Peter Guo-hua Fu School of Architecture",
+      "nameAr": "بكالوريوس العلوم في الهندسة المعمارية - مدرسة فو للعمارة",
+      "field": "architecture",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 54600,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-science-architecture-peter-guo-hua-fu-school-of-architecture",
+      "overview": "Comprehensive architectural studio program integrating computational geometry, sustainable building design, urban theory, and historic preservation.",
+      "overviewAr": "برنامج استوديو معماري شامل يدمج بين الهندسة الحسابية والتصميم المعماري المستدام ونظريات التخطيط العمراني والحفاظ التاريخي.",
+      "requirements": "Secondary school graduation with high standing in Mathematics and Physics, plus creative portfolio submission. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية بتفوق في الرياضيات والفيزياء مع تقديم ملف الأعمال المعمارية الإبداعية (Portfolio) وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Architectural Designer",
+        "Urban Design Strategist",
+        "Sustainable Building Consultant",
+        "BIM Computational Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مصمم معماري معتمد",
+        "استراتيجي التخطيط والتصميم العمراني",
+        "مستشار كفاءة المباني المستدامة",
+        "أخصائي نمذجة معلومات البناء BIM"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54600
+        },
+        {
+          "year": 2,
+          "fee": 54600
+        },
+        {
+          "year": 3,
+          "fee": 54600
+        },
+        {
+          "year": 4,
+          "fee": 54600
+        }
+      ],
+      "totalTuitionFee": 218400,
+      "curriculum": {
+        "year1": [
+          "ARC101: Architectural Design Studio I",
+          "ARC102: History of Global Architecture & Urbanism",
+          "ARC103: Visual Representation and Freehand Drawing",
+          "ARC104: Introduction to Building Technology"
+        ],
+        "year2": [
+          "ARC201: Architectural Design Studio II: Housing & Community",
+          "ARC202: Structural Systems and Environmental Forces",
+          "ARC203: Digital Modeling, CAD and BIM Systems",
+          "ARC204: Modern Architecture and Spatial Theory"
+        ],
+        "year3": [
+          "ARC301: Architectural Design Studio III: Public Mega-Structures",
+          "ARC302: Sustainable Building Ecology and Energy Systems",
+          "ARC303: Urban Design, Infrastructure and Landscape",
+          "ARC304: Architectural Fabrication & Material Workshop"
+        ],
+        "year4": [
+          "ARC401: Comprehensive Architectural Capstone Design Studio",
+          "ARC402: Professional Architectural Practice and Building Law",
+          "ARC403: Contemporary Urbanism and Megacities",
+          "ARC499: Senior Degree Exhibition and Thesis Defense"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ARC101: استوديو التصميم المعماري الأول (Studio I)",
+          "ARC102: تاريخ العمارة العالمية وتطور المدن",
+          "ARC103: التمثيل البصري والرسم المعماري الحر",
+          "ARC104: مدخل إلى تكنولوجيا وهياكل البناء"
+        ],
+        "year2": [
+          "ARC201: استوديو التصميم المعماري الثاني: الإسكان والمجتمع",
+          "ARC202: الأنظمة الإنشائية ومقاومة القوى البيئية",
+          "ARC203: النمذجة الرقمية ونظم CAD ونمذجة BIM",
+          "ARC204: نظريات العمارة الحديثة والفضاء المعماري"
+        ],
+        "year3": [
+          "ARC301: استوديو التصميم المعماري الثالث: المباني العامة الكبرى",
+          "ARC302: بيئة المباني المستدامة وأنظمة الطاقة الخضراء",
+          "ARC303: التصميم العمراني والبنية التحتية وتنسيق المواقع",
+          "ARC304: ورشة التصنيع المعماري وتكنولوجيا المواد"
+        ],
+        "year4": [
+          "ARC401: استوديو التخرج المعماري الشامل (Capstone Studio)",
+          "ARC402: الممارسة المعمارية المهنية وقوانين البناء والعقود",
+          "ARC403: العمران المعاصر وقضايا المدن العملاقة",
+          "ARC499: معرض مشاريع التخرج ومناقشة أطروحة العمارة"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-architecture-90016",
+      "universityId": "mcgill",
+      "name": "Master of Architecture (MArch - Professional)",
+      "nameAr": "ماجستير الهندسة المعمارية المهني (MArch)",
+      "field": "architecture",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 38500,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "master-of-architecture-march-professional",
+      "overview": "CACB-accredited professional degree qualifying graduates for licensure as licensed registered architects in Canada, the United States, and the Commonwealth.",
+      "overviewAr": "درجة مهنية معتمدة من مجلس الاعتماد المعماري الكندي تؤهل الخريجين لممارسة المهنة المعمارية المرخصة في كندا وأمريكا ودول الكومنولث.",
+      "requirements": "Pre-professional architecture degree (BSc Arch or BEDS) with superior portfolio and IELTS 7.0.",
+      "requirementsAr": "بكالوريوس تمهيدي في العمارة مع ملف أعمال هندسي متميز وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Licensed Principal Architect",
+        "Urban Mega-Infrastructure Planner",
+        "Architectural Heritage Conservator",
+        "Design Studio Director"
+      ],
+      "careerOpportunitiesAr": [
+        "معماري رئيسي مرخص",
+        "مخطط البنى التحتية الحضرية الكبرى",
+        "خبير صيانة التراث المعماري",
+        "مدير استوديو التصميم المعماري"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 38500
+        },
+        {
+          "year": 2,
+          "fee": 38500
+        }
+      ],
+      "totalTuitionFee": 77000,
+      "curriculum": {
+        "year1": [
+          "ARC101: Architectural Design Studio I",
+          "ARC102: History of Global Architecture & Urbanism",
+          "ARC103: Visual Representation and Freehand Drawing",
+          "ARC104: Introduction to Building Technology"
+        ],
+        "year2": [
+          "ARC201: Architectural Design Studio II: Housing & Community",
+          "ARC202: Structural Systems and Environmental Forces",
+          "ARC203: Digital Modeling, CAD and BIM Systems",
+          "ARC204: Modern Architecture and Spatial Theory"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ARC101: استوديو التصميم المعماري الأول (Studio I)",
+          "ARC102: تاريخ العمارة العالمية وتطور المدن",
+          "ARC103: التمثيل البصري والرسم المعماري الحر",
+          "ARC104: مدخل إلى تكنولوجيا وهياكل البناء"
+        ],
+        "year2": [
+          "ARC201: استوديو التصميم المعماري الثاني: الإسكان والمجتمع",
+          "ARC202: الأنظمة الإنشائية ومقاومة القوى البيئية",
+          "ARC203: النمذجة الرقمية ونظم CAD ونمذجة BIM",
+          "ARC204: نظريات العمارة الحديثة والفضاء المعماري"
+        ]
+      }
+    },
+    {
+      "id": "mcgill-business-90017",
+      "universityId": "mcgill",
+      "name": "Bachelor of Arts (Honours in Economics)",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف في العلوم الاقتصادية)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 51200,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-arts-honours-in-economics",
+      "overview": "World-class education in macroeconomic policy, econometric modeling, international development, and central banking analysis.",
+      "overviewAr": "تعليم اقتصادي عالمي في السياسات الكلية والنمذجة القياسية والتنمية الدولية وتحليلات البنوك المركزية.",
+      "requirements": "High school graduation with Calculus and English (IELTS 6.5).",
+      "requirementsAr": "شهادة الثانوية مع مادة التفاضل والتكامل وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Economic Policy Advisor",
+        "Central Bank Analyst",
+        "Development Economist (World Bank)",
+        "Quantitative Financial Strategist"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار السياسات الاقتصادية",
+        "محلل في البنك المركزي",
+        "اقتصادي تنموي بالمنظمات الدولية",
+        "استراتيجي مالي كمي"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51200
+        },
+        {
+          "year": 2,
+          "fee": 51200
+        },
+        {
+          "year": 3,
+          "fee": 51200
+        },
+        {
+          "year": 4,
+          "fee": 51200
+        }
+      ],
+      "totalTuitionFee": 204800,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ],
+        "year4": [
+          "BUS401: Applied Strategic Management Simulation (Capstone)",
+          "BUS402: Corporate Governance and Business Ethics",
+          "BUS403: Entrepreneurship & Venture Financing",
+          "BUS404: Global Consulting Fieldwork Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ],
+        "year4": [
+          "BUS401: محاكاة الإدارة الاستراتيجية التطبيقية (مشروع التخرج)",
+          "BUS402: حوكمة الشركات وأخلاقيات الأعمال والمسؤولية المجتمعية",
+          "BUS403: ريادة الأعمال وتمويل المشاريع الناشئة",
+          "BUS404: مشروع الاستشارات الميداني التطبيقي للشركات"
+        ]
+      }
+    }
+  ],
+  "programsCount": 161,
+  "totalProgramsCount": 161
+}

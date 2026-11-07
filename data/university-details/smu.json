@@ -1,0 +1,2694 @@
+{
+  "id": "smu",
+  "name": "Singapore Management University (SMU)",
+  "arabicName": "جامعة سنغافورة للإدارة (SMU)",
+  "city": "Bras Basah, Singapore",
+  "cityEn": "Bras Basah, Singapore",
+  "cityAr": "سنغافورة (براس باصاح)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.smu.edu.sg/",
+  "ranking": "Top 50 Worldwide in Business, Management & Finance",
+  "established": "2000",
+  "campusName": "City Campus",
+  "studentCount": "12,000+ (80+ Countries)",
+  "intakes": "Jan, Aug",
+  "feeRangeMin": 34000,
+  "feeRangeMax": 62000,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/8EUX0DzJmKM",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/8EUX0DzJmKM",
+  "directWatchUrl": "https://www.youtube.com/watch?v=8EUX0DzJmKM",
+  "photos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-smu.svg",
+  "image": "assets/photo/campus_smu.jpg",
+  "description": "Singapore Management University is renowned for its American-style seminar teaching, interactive learning, leading business, accounting, economics, and law programs located right in the heart of downtown Singapore.",
+  "descriptionAr": "جامعة سنغافورة للإدارة (SMU) متخصصة بنظام الحلقات الدراسية التفاعلية على الطراز الأمريكي، وتقدم تعليماً استثنائياً في إدارة الأعمال والمحاسبة والاقتصاد ونظم المعلومات في قلب العاصمة سنغافورة.",
+  "about": {
+    "ar": "تعد جامعة سنغافورة للإدارة (SMU) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "Singapore Management University (SMU) is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "Singapore Management University (SMU) adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Top 50 Worldwide in Business, Management & Finance - World-Renowned Excellence",
+        "ar": "Top 50 Worldwide in Business, Management & Finance - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Singapore Management University (SMU) Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ جامعة سنغافورة للإدارة (SMU)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "3 - 4 Years",
+      "avgFee": "SGD 34,000 - SGD 48,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 42,000 - SGD 62,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "smu-bbm-hons",
+      "universityId": "smu",
+      "name": "Bachelor of Business Management (BBM Honours)",
+      "nameAr": "بكالوريوس إدارة الأعمال التفاعلي (مرتبة الشرف BBM)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 37500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Business Management (BBM Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس إدارة الأعمال التفاعلي (مرتبة الشرف BBM) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ],
+        "year4": [
+          "Corporate Governance, Risk & Ethics",
+          "Global Financial Strategy & Portfolio Management",
+          "Advanced Strategic Leadership Practicum",
+          "Applied Business Research Dissertation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ],
+        "year4": [
+          "الحوكمة المؤسسية وإدارة المخاطر والأخلاقيات",
+          "الاستراتيجية المالية الدولية وإدارة المحافظ",
+          "التدريب الميداني المتقدم في القيادة الاستراتيجية",
+          "أطروحة البحث التخصصي في دراسات الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37500
+        },
+        {
+          "year": 2,
+          "fee": 37500
+        },
+        {
+          "year": 3,
+          "fee": 37500
+        },
+        {
+          "year": 4,
+          "fee": 37500
+        }
+      ],
+      "totalTuitionFee": 150000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-bacc-hons",
+      "universityId": "smu",
+      "name": "Bachelor of Accountancy (BAcc Honours)",
+      "nameAr": "بكالوريوس المحاسبة والمالية الدولية (مرتبة الشرف BAcc)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 37500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Accountancy (BAcc Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس المحاسبة والمالية الدولية (مرتبة الشرف BAcc) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ],
+        "year4": [
+          "Corporate Governance, Risk & Ethics",
+          "Global Financial Strategy & Portfolio Management",
+          "Advanced Strategic Leadership Practicum",
+          "Applied Business Research Dissertation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ],
+        "year4": [
+          "الحوكمة المؤسسية وإدارة المخاطر والأخلاقيات",
+          "الاستراتيجية المالية الدولية وإدارة المحافظ",
+          "التدريب الميداني المتقدم في القيادة الاستراتيجية",
+          "أطروحة البحث التخصصي في دراسات الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37500
+        },
+        {
+          "year": 2,
+          "fee": 37500
+        },
+        {
+          "year": 3,
+          "fee": 37500
+        },
+        {
+          "year": 4,
+          "fee": 37500
+        }
+      ],
+      "totalTuitionFee": 150000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-wealth-msc",
+      "universityId": "smu",
+      "name": "Master of Science in Wealth Management (Ranked Top 3 Globally)",
+      "nameAr": "ماجستير العلوم في إدارة الثروات المصنف الثالث عالمياً من فاينانشال تايمز",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 58000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Wealth Management (Ranked Top 3 Globally) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في إدارة الثروات المصنف الثالث عالمياً من فاينانشال تايمز إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58000
+        }
+      ],
+      "totalTuitionFee": 58000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-appfin-msc",
+      "universityId": "smu",
+      "name": "Master of Science in Applied Finance (MAF)",
+      "nameAr": "ماجستير العلوم في التمويل التطبيقي وأسواق المال (MAF)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 54000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Applied Finance (MAF) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التمويل التطبيقي وأسواق المال (MAF) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 54000
+        }
+      ],
+      "totalTuitionFee": 54000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-quantfin-msc",
+      "universityId": "smu",
+      "name": "Master of Science in Quantitative Finance (MQF)",
+      "nameAr": "ماجستير العلوم في التمويل الكمي وإدارة المخاطر الرياضية",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 56000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Quantitative Finance (MQF) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التمويل الكمي وإدارة المخاطر الرياضية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56000
+        }
+      ],
+      "totalTuitionFee": 56000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-smu-mba",
+      "universityId": "smu",
+      "name": "The SMU MBA (Master of Business Administration)",
+      "nameAr": "ماجستير إدارة الأعمال التفاعلي من جامعة سنغافورة للإدارة (MBA)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 62000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the The SMU MBA (Master of Business Administration) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير إدارة الأعمال التفاعلي من جامعة سنغافورة للإدارة (MBA) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 62000
+        },
+        {
+          "year": 2,
+          "fee": 62000
+        }
+      ],
+      "totalTuitionFee": 124000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-innov-msc",
+      "universityId": "smu",
+      "name": "Master of Science in Innovation & Corporate Venturing",
+      "nameAr": "ماجستير العلوم في الابتكار وريادة الأعمال المؤسسية",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 49000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Innovation & Corporate Venturing provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الابتكار وريادة الأعمال المؤسسية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49000
+        }
+      ],
+      "totalTuitionFee": 49000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-globalfin-msc",
+      "universityId": "smu",
+      "name": "Master of Science in Global Finance (Dual Degree with WUSTL)",
+      "nameAr": "ماجستير العلوم في التمويل الدولي المزدوج مع جامعة واشنطن",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 60000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Global Finance (Dual Degree with WUSTL) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التمويل الدولي المزدوج مع جامعة واشنطن إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 60000
+        },
+        {
+          "year": 2,
+          "fee": 60000
+        }
+      ],
+      "totalTuitionFee": 120000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-is-bsc",
+      "universityId": "smu",
+      "name": "Bachelor of Science in Information Systems (Honours)",
+      "nameAr": "بكالوريوس العلوم في نظم المعلومات والتحول الرقمي (مرتبة الشرف)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 39200,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Information Systems (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في نظم المعلومات والتحول الرقمي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39200
+        },
+        {
+          "year": 2,
+          "fee": 39200
+        },
+        {
+          "year": 3,
+          "fee": 39200
+        },
+        {
+          "year": 4,
+          "fee": 39200
+        }
+      ],
+      "totalTuitionFee": 156800,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-cs-bsc",
+      "universityId": "smu",
+      "name": "Bachelor of Science in Computer Science (Honours)",
+      "nameAr": "بكالوريوس العلوم في علوم الحاسب وهندسة البرمجيات (مرتبة الشرف)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 40500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Computer Science (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في علوم الحاسب وهندسة البرمجيات (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40500
+        },
+        {
+          "year": 2,
+          "fee": 40500
+        },
+        {
+          "year": 3,
+          "fee": 40500
+        },
+        {
+          "year": 4,
+          "fee": 40500
+        }
+      ],
+      "totalTuitionFee": 162000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-complaw-bsc",
+      "universityId": "smu",
+      "name": "Bachelor of Science in Computing & Law (Honours)",
+      "nameAr": "بكالوريوس العلوم المزدوج في الحوسبة والقانون والذكاء الاصطناعي (مرتبة الشرف)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41500,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Computing & Law (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم المزدوج في الحوسبة والقانون والذكاء الاصطناعي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41500
+        },
+        {
+          "year": 2,
+          "fee": 41500
+        },
+        {
+          "year": 3,
+          "fee": 41500
+        },
+        {
+          "year": 4,
+          "fee": 41500
+        }
+      ],
+      "totalTuitionFee": 166000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-se-bsc",
+      "universityId": "smu",
+      "name": "Bachelor of Science in Software Engineering (Work-Study Degree)",
+      "nameAr": "بكالوريوس العلوم في هندسة البرمجيات بالتعليم والعمل الميداني المعتمد",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 39000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Software Engineering (Work-Study Degree) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في هندسة البرمجيات بالتعليم والعمل الميداني المعتمد إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 39000
+        },
+        {
+          "year": 2,
+          "fee": 39000
+        },
+        {
+          "year": 3,
+          "fee": 39000
+        },
+        {
+          "year": 4,
+          "fee": 39000
+        }
+      ],
+      "totalTuitionFee": 156000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-mitb-ai",
+      "universityId": "smu",
+      "name": "Master of IT in Business (MITB - Artificial Intelligence Stream)",
+      "nameAr": "ماجستير تكنولوجيا المعلومات في الأعمال (مسار الذكاء الاصطناعي)",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 51000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of IT in Business (MITB - Artificial Intelligence Stream) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير تكنولوجيا المعلومات في الأعمال (مسار الذكاء الاصطناعي) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51000
+        }
+      ],
+      "totalTuitionFee": 51000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-mitb-analytics",
+      "universityId": "smu",
+      "name": "Master of IT in Business (MITB - Big Data Analytics Stream)",
+      "nameAr": "ماجستير تكنولوجيا المعلومات في الأعمال (مسار تحليلات البيانات الضخمة)",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 51000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of IT in Business (MITB - Big Data Analytics Stream) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير تكنولوجيا المعلومات في الأعمال (مسار تحليلات البيانات الضخمة) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51000
+        }
+      ],
+      "totalTuitionFee": 51000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-mitb-fintech",
+      "universityId": "smu",
+      "name": "Master of IT in Business (MITB - Financial Technology Stream)",
+      "nameAr": "ماجستير تكنولوجيا المعلومات في الأعمال (مسار التكنولوجيا المالية Fintech)",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 52000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of IT in Business (MITB - Financial Technology Stream) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير تكنولوجيا المعلومات في الأعمال (مسار التكنولوجيا المالية Fintech) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 52000
+        }
+      ],
+      "totalTuitionFee": 52000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-is-phd",
+      "universityId": "smu",
+      "name": "Doctor of Philosophy (PhD) in Information Systems",
+      "nameAr": "دكتوراه الفلسفة في نظم المعلومات والحوسبة السحابية",
+      "field": "cs",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Doctor of Philosophy (PhD) in Information Systems provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه الفلسفة في نظم المعلومات والحوسبة السحابية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-econ-bsc",
+      "universityId": "smu",
+      "name": "Bachelor of Science in Economics (Honours)",
+      "nameAr": "بكالوريوس العلوم في الاقتصاد القياسي والتحليل المالي (مرتبة الشرف)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 36500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Economics (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في الاقتصاد القياسي والتحليل المالي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ],
+        "year4": [
+          "Corporate Governance, Risk & Ethics",
+          "Global Financial Strategy & Portfolio Management",
+          "Advanced Strategic Leadership Practicum",
+          "Applied Business Research Dissertation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ],
+        "year4": [
+          "الحوكمة المؤسسية وإدارة المخاطر والأخلاقيات",
+          "الاستراتيجية المالية الدولية وإدارة المحافظ",
+          "التدريب الميداني المتقدم في القيادة الاستراتيجية",
+          "أطروحة البحث التخصصي في دراسات الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 36500
+        },
+        {
+          "year": 2,
+          "fee": 36500
+        },
+        {
+          "year": 3,
+          "fee": 36500
+        },
+        {
+          "year": 4,
+          "fee": 36500
+        }
+      ],
+      "totalTuitionFee": 146000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-econ-msc",
+      "universityId": "smu",
+      "name": "Master of Science in Economics & Global Trade Policy",
+      "nameAr": "ماجستير العلوم في الاقتصاد وسياسات التجارة الدولية",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 43000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Economics & Global Trade Policy provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الاقتصاد وسياسات التجارة الدولية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43000
+        }
+      ],
+      "totalTuitionFee": 43000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-finecon-msc",
+      "universityId": "smu",
+      "name": "Master of Science in Financial Economics",
+      "nameAr": "ماجستير العلوم في الاقتصاد المالي وأسواق رأس المال",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 46000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Financial Economics provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الاقتصاد المالي وأسواق رأس المال إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-llb-hons",
+      "universityId": "smu",
+      "name": "Bachelor of Laws (LLB Honours)",
+      "nameAr": "بكالوريوس في القانون والتشريع التجاري (مرتبة الشرف LLB)",
+      "field": "law",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 45500,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Laws (LLB Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس في القانون والتشريع التجاري (مرتبة الشرف LLB) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Corporate Legal Counsel & Compliance Lead, International Commercial Arbitration Specialist, Cross-Border Trade & Finance Attorney, Fintech & Intellectual Property Legal Advisor",
+      "careerProspectsAr": "مستشار قانوني للشركات والامتثال التنظيمي، أخصائي تحكيم تجاري دولي وفض منازعات، محامٍ متخصص في التجارة الدولية وتمويل الشركات، مستشار قوانين التكنولوجيا والملكية الفكرية",
+      "careerOpportunities": [
+        "Corporate Legal Counsel & Compliance Lead",
+        "International Commercial Arbitration Specialist",
+        "Cross-Border Trade & Finance Attorney",
+        "Fintech & Intellectual Property Legal Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار قانوني للشركات والامتثال التنظيمي",
+        "أخصائي تحكيم تجاري دولي وفض منازعات",
+        "محامٍ متخصص في التجارة الدولية وتمويل الشركات",
+        "مستشار قوانين التكنولوجيا والملكية الفكرية"
+      ],
+      "curriculum": {
+        "year1": [
+          "Legal System & Common Law Foundations",
+          "Constitutional & Administrative Law",
+          "Legal Research, Writing & Analysis",
+          "Torts & Civil Liability"
+        ],
+        "year2": [
+          "Law of Contract & Commercial Agreements",
+          "Criminal Law & Criminal Procedure",
+          "Property Law, Land Law & Equity",
+          "Public International Law"
+        ],
+        "year3": [
+          "Corporate & Commercial Law",
+          "Evidence Law & Courtroom Advocacy",
+          "Jurisprudence & Legal Philosophy",
+          "Environmental & Resource Management Law"
+        ],
+        "year4": [
+          "Advanced Dispute Resolution & Commercial Arbitration",
+          "International Trade Law & Cross-Border Litigation",
+          "Supervised Clinical Legal Internship",
+          "Law Honours Research Dissertation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "النظام القانوني وأسس القانون العام (Common Law)",
+          "القانون الدستوري والإداري",
+          "مناهج البحث والكتابة والتحليل القانوني",
+          "قانون المسؤولية المدنية والتقصيرية"
+        ],
+        "year2": [
+          "قانون العقود والاتفاقيات التجارية",
+          "القانون الجنائي وإجراءات المحاكمات الجزائية",
+          "قانون الملكية العقارية وقواعد العدالة",
+          "القانون الدولي العام"
+        ],
+        "year3": [
+          "قانون الشركات والمعاملات التجارية المتقدمة",
+          "قانون البينات والمرافعات القضائية",
+          "فلسفة القانون والتشريع المقارن",
+          "قانون حماية البيئة وإدارة الموارد الطبيعية"
+        ],
+        "year4": [
+          "تسوية المنازعات والتحكيم التجاري الدولي",
+          "قانون التجارة الدولية والتقاضي عبر الحدود",
+          "التدريب القانوني السريري بالعيادات القانونية",
+          "أطروحة مرتبة الشرف في القانون والتشريع"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45500
+        },
+        {
+          "year": 2,
+          "fee": 45500
+        },
+        {
+          "year": 3,
+          "fee": 45500
+        },
+        {
+          "year": 4,
+          "fee": 45500
+        }
+      ],
+      "totalTuitionFee": 182000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-jd-law",
+      "universityId": "smu",
+      "name": "Juris Doctor (JD) Graduate Law Degree",
+      "nameAr": "دكتوراه في القانون والعدالة للمتخرجين (Juris Doctor JD)",
+      "field": "law",
+      "level": "master",
+      "duration": 3,
+      "annualFee": 51000,
+      "currency": "SGD",
+      "ielts": "7.5",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Juris Doctor (JD) Graduate Law Degree provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه في القانون والعدالة للمتخرجين (Juris Doctor JD) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Corporate Legal Counsel & Compliance Lead, International Commercial Arbitration Specialist, Cross-Border Trade & Finance Attorney, Fintech & Intellectual Property Legal Advisor",
+      "careerProspectsAr": "مستشار قانوني للشركات والامتثال التنظيمي، أخصائي تحكيم تجاري دولي وفض منازعات، محامٍ متخصص في التجارة الدولية وتمويل الشركات، مستشار قوانين التكنولوجيا والملكية الفكرية",
+      "careerOpportunities": [
+        "Corporate Legal Counsel & Compliance Lead",
+        "International Commercial Arbitration Specialist",
+        "Cross-Border Trade & Finance Attorney",
+        "Fintech & Intellectual Property Legal Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار قانوني للشركات والامتثال التنظيمي",
+        "أخصائي تحكيم تجاري دولي وفض منازعات",
+        "محامٍ متخصص في التجارة الدولية وتمويل الشركات",
+        "مستشار قوانين التكنولوجيا والملكية الفكرية"
+      ],
+      "curriculum": {
+        "year1": [
+          "Legal System & Common Law Foundations",
+          "Constitutional & Administrative Law",
+          "Legal Research, Writing & Analysis",
+          "Torts & Civil Liability"
+        ],
+        "year2": [
+          "Law of Contract & Commercial Agreements",
+          "Criminal Law & Criminal Procedure",
+          "Property Law, Land Law & Equity",
+          "Public International Law"
+        ],
+        "year3": [
+          "Corporate & Commercial Law",
+          "Evidence Law & Courtroom Advocacy",
+          "Jurisprudence & Legal Philosophy",
+          "Environmental & Resource Management Law"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "النظام القانوني وأسس القانون العام (Common Law)",
+          "القانون الدستوري والإداري",
+          "مناهج البحث والكتابة والتحليل القانوني",
+          "قانون المسؤولية المدنية والتقصيرية"
+        ],
+        "year2": [
+          "قانون العقود والاتفاقيات التجارية",
+          "القانون الجنائي وإجراءات المحاكمات الجزائية",
+          "قانون الملكية العقارية وقواعد العدالة",
+          "القانون الدولي العام"
+        ],
+        "year3": [
+          "قانون الشركات والمعاملات التجارية المتقدمة",
+          "قانون البينات والمرافعات القضائية",
+          "فلسفة القانون والتشريع المقارن",
+          "قانون حماية البيئة وإدارة الموارد الطبيعية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51000
+        },
+        {
+          "year": 2,
+          "fee": 51000
+        },
+        {
+          "year": 3,
+          "fee": 51000
+        }
+      ],
+      "totalTuitionFee": 153000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-comm-llm",
+      "universityId": "smu",
+      "name": "Master of Laws (LLM) in Cross-Border Business & Commercial Law",
+      "nameAr": "ماجستير في القانون (LLM) في المعاملات التجارية عبر الحدود",
+      "field": "law",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 48000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Laws (LLM) in Cross-Border Business & Commercial Law provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير في القانون (LLM) في المعاملات التجارية عبر الحدود إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Corporate Legal Counsel & Compliance Lead, International Commercial Arbitration Specialist, Cross-Border Trade & Finance Attorney, Fintech & Intellectual Property Legal Advisor",
+      "careerProspectsAr": "مستشار قانوني للشركات والامتثال التنظيمي، أخصائي تحكيم تجاري دولي وفض منازعات، محامٍ متخصص في التجارة الدولية وتمويل الشركات، مستشار قوانين التكنولوجيا والملكية الفكرية",
+      "careerOpportunities": [
+        "Corporate Legal Counsel & Compliance Lead",
+        "International Commercial Arbitration Specialist",
+        "Cross-Border Trade & Finance Attorney",
+        "Fintech & Intellectual Property Legal Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار قانوني للشركات والامتثال التنظيمي",
+        "أخصائي تحكيم تجاري دولي وفض منازعات",
+        "محامٍ متخصص في التجارة الدولية وتمويل الشركات",
+        "مستشار قوانين التكنولوجيا والملكية الفكرية"
+      ],
+      "curriculum": {
+        "year1": [
+          "Legal System & Common Law Foundations",
+          "Constitutional & Administrative Law",
+          "Legal Research, Writing & Analysis",
+          "Torts & Civil Liability"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "النظام القانوني وأسس القانون العام (Common Law)",
+          "القانون الدستوري والإداري",
+          "مناهج البحث والكتابة والتحليل القانوني",
+          "قانون المسؤولية المدنية والتقصيرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-tech-llm",
+      "universityId": "smu",
+      "name": "Master of Laws (LLM) in Law and Technology Regulation",
+      "nameAr": "ماجستير في القانون (LLM) في حوكمة التكنولوجيا والبيانات الرقمية",
+      "field": "law",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 48000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Laws (LLM) in Law and Technology Regulation provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير في القانون (LLM) في حوكمة التكنولوجيا والبيانات الرقمية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Corporate Legal Counsel & Compliance Lead, International Commercial Arbitration Specialist, Cross-Border Trade & Finance Attorney, Fintech & Intellectual Property Legal Advisor",
+      "careerProspectsAr": "مستشار قانوني للشركات والامتثال التنظيمي، أخصائي تحكيم تجاري دولي وفض منازعات، محامٍ متخصص في التجارة الدولية وتمويل الشركات، مستشار قوانين التكنولوجيا والملكية الفكرية",
+      "careerOpportunities": [
+        "Corporate Legal Counsel & Compliance Lead",
+        "International Commercial Arbitration Specialist",
+        "Cross-Border Trade & Finance Attorney",
+        "Fintech & Intellectual Property Legal Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار قانوني للشركات والامتثال التنظيمي",
+        "أخصائي تحكيم تجاري دولي وفض منازعات",
+        "محامٍ متخصص في التجارة الدولية وتمويل الشركات",
+        "مستشار قوانين التكنولوجيا والملكية الفكرية"
+      ],
+      "curriculum": {
+        "year1": [
+          "Legal System & Common Law Foundations",
+          "Constitutional & Administrative Law",
+          "Legal Research, Writing & Analysis",
+          "Torts & Civil Liability"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "النظام القانوني وأسس القانون العام (Common Law)",
+          "القانون الدستوري والإداري",
+          "مناهج البحث والكتابة والتحليل القانوني",
+          "قانون المسؤولية المدنية والتقصيرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-socsci-bss",
+      "universityId": "smu",
+      "name": "Bachelor of Social Science in Psychology and Politics (Honours)",
+      "nameAr": "بكالوريوس العلوم الاجتماعية في علم النفس والسياسة العامة (مرتبة الشرف)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 34000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Social Science in Psychology and Politics (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم الاجتماعية في علم النفس والسياسة العامة (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ],
+        "year4": [
+          "Advanced Theoretical Frameworks & Criticism",
+          "Intercultural Communication Leadership",
+          "Public Affairs & Strategic Policy Practicum",
+          "Honours Research Dissertation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ],
+        "year4": [
+          "الأطر النظرية المتقدمة والنقد الأكاديمي",
+          "القيادة في التواصل والاتصال بين الثقافات",
+          "التدريب العملي في الشؤون العامة والسياسات الاستراتيجية",
+          "أطروحة مرتبة الشرف في العلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34000
+        },
+        {
+          "year": 2,
+          "fee": 34000
+        },
+        {
+          "year": 3,
+          "fee": 34000
+        },
+        {
+          "year": 4,
+          "fee": 34000
+        }
+      ],
+      "totalTuitionFee": 136000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-sust-msc",
+      "universityId": "smu",
+      "name": "Master of Sustainability & Urban Environmental Resilience",
+      "nameAr": "ماجستير الاستدامة وإدارة المرونة البيئية والحضرية",
+      "field": "architecture",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 42000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "August, January",
+      "intakesAr": "أغسطس، يناير",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Sustainability & Urban Environmental Resilience provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الاستدامة وإدارة المرونة البيئية والحضرية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        },
+        {
+          "year": 2,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 84000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "smu-trisector-msc",
+      "universityId": "smu",
+      "name": "Master of Tri-Sector Collaboration in Global Leadership",
+      "nameAr": "ماجستير التعاون بين القطاعات والقيادة الاستراتيجية العالمية",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 45000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "August",
+      "intakesAr": "أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Tri-Sector Collaboration in Global Leadership provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير التعاون بين القطاعات والقيادة الاستراتيجية العالمية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45000
+        },
+        {
+          "year": 2,
+          "fee": 45000
+        }
+      ],
+      "totalTuitionFee": 90000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 26,
+  "totalProgramsCount": 26,
+  "campusNameAr": "الحرم الحضري التفاعلي",
+  "campusImage": "assets/photo/campus_smu.jpg",
+  "nameAr": "جامعة سنغافورة للإدارة (SMU)"
+}

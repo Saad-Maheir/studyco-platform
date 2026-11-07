@@ -1,0 +1,818 @@
+{
+  "id": "limkokwing",
+  "name": "Limkokwing University of Creative Technology",
+  "arabicName": "جامعة ليمكوك وينج للتكنولوجيا الإبداعية",
+  "city": "Cyberjaya, Selangor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-limkokwing.webp",
+  "image": "assets/photo/campus_limkokwing.webp",
+  "website": "https://www.limkokwing.net/",
+  "ranking": "Global University of Innovation & Creative Digital Arts",
+  "established": "1991",
+  "campusName": "Limkokwing Innovation Plaza, Cyberjaya",
+  "studentCount": "9,000+ (140+ Countries)",
+  "intakes": "Feb, Jul, Oct",
+  "feeRangeMin": 30000,
+  "feeRangeMax": 30000,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/ePbmdW6uLcY",
+  "description": "Limkokwing University of Creative Technology is one of the leading recognized higher education institutions located in Cyberjaya, Selangor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة ليمكوك وينج للتكنولوجيا الإبداعية واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Cyberjaya, Selangor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Limkokwing University of Creative Technology didirikan pada tahun 1991 di Cyberjaya oleh Tan Sri Lim Kok Wing. Dikenal di seluruh dunia sebagai pelopor pendidikan desain, animasi, multimedia, komunikasi, dan teknologi kreatif dengan mahasiswa dari lebih dari 150 negara.",
+    "en": "Limkokwing University of Creative Technology, founded in 1991 in Cyberjaya, is globally recognized as the pioneer of creative innovation, design, digital animation, games, and multimedia education, hosting an exceptionally multicultural student body from over 150 countries.",
+    "ar": "تأسست جامعة ليمكوكوينج للتكنولوجيا الإبداعية عام 1991 في سايبرجايا، وتعتبر رائدة التعليم الإبداعي والتصميم، والرسوم المتحركة ثلاثية الأبعاد، وتطوير الألعاب، والوسائط المتعددة، وتضم طلاباً من أكثر من 150 دولة حول العالم.",
+    "zh": "林国荣创意科技大学创办于1991年，位于马来西亚科技城赛城（Cyberjaya），是全球创意艺术设计、三维数码动画、游戏开发、多媒体与时尚设计领域的风向标学府，吸引了全球150多个国家的国际留学生。",
+    "ru": "Университет креативных технологий Лимкоквинг (Limkokwing) в Киберджае — мировой пионер в области дизайна, цифровой анимации, мультимедиа и технологий с учащимися из 150 стран.",
+    "fr": "L'Université Limkokwing à Cyberjaya est internationalement reconnue comme pionnière de l'innovation créative, du design, de l'animation 3D et des jeux vidéo, accueillant des étudiants de 150 pays.",
+    "es": "La Universidad Limkokwing en Cyberjaya es pionera mundial en diseño, animación digital, videojuegos y multimedia, con un alumnado de más de 150 países.",
+    "ja": "リムコクウィン・クリエイティブ・テクノロジー大学はサイバージャヤに位置し、デザイン、3Dアニメーション、マルチメディア分野の世界的な先駆者として150カ国以上の留学生が集う国際校です。",
+    "ko": "림콕윙 창의기술대학교는 사이버자야에 위치한 세계적인 디자인, 3D 애니메이션, 멀티미디어 및 게임 개발 특성화 명문으로 150여 개국 출신의 유학생들이 재학 중입니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Studio Desain Mode Haute Couture & Runway Peragaan Busana",
+        "en": "Fashion Design Runway & Haute Couture Studios",
+        "ar": "استوديوهات تصميم الأزياء والموضة ومسار عروض الأزياء الاحترافي",
+        "ko": "오트 쿠튀르 패션 디자인 런웨이 및 전문 디자인 스튜디오",
+        "ja": "オートクチュール・ファッションデザイン・ランウェイ専用スタジオ",
+        "zh": "高级定制时装设计T台秀场与专业服装立体裁剪工作坊",
+        "ru": "Подиум для показов мод и студии дизайна высокой моды",
+        "fr": "Podium de défilé de mode et ateliers de haute couture",
+        "es": "Pasarela de moda profesional y talleres de alta costura"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Studio Rekaman Audio Multi-Track & Teknik Suara Digital",
+        "en": "Sound Engineering & Multi-Track Audio Recording Suites",
+        "ar": "أجنحة هندسة الصوت الرقمية واستوديوهات التسجيل الصوتي المتعدد",
+        "ko": "멀티트랙 오디오 레코딩 및 전문 사운드 엔지니어링 스위트",
+        "ja": "マルチトラック・オーディオレコーディング＆音響工学スタジオ",
+        "zh": "多轨道高保真专业音频录音棚与数字声音工程实验室",
+        "ru": "Студии звукорежиссуры и многоканальной звукозаписи",
+        "fr": "Suites d'ingénierie sonore et d'enregistrement audio multipiste",
+        "es": "Suites de ingeniería de sonido y grabación de audio multipista"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Panggung Produksi Virtual Green Screen, 3D Animasi & VFX",
+        "en": "3D Animation, VFX & Green Screen Virtual Production Stage",
+        "ar": "استوديوهات الرسوم المتحركة ثلاثية الأبعاد والشاشات الخضراء والمؤثرات البصرية",
+        "ko": "3D 애니메이션, VFX 및 그린스크린 버추얼 프로덕션 전용 스테이지",
+        "ja": "3Dアニメーション・VFX・グリーンスクリーンバーチャル撮影スタジオ",
+        "zh": "3D动画制作、特效合成与全景绿幕虚拟影像制片工厂",
+        "ru": "Студии 3D-анимации, визуальных эффектов (VFX) и зеленого экрана",
+        "fr": "Plateau de production virtuelle, animation 3D et effets spéciaux (VFX)",
+        "es": "Estudios de animación 3D, efectos visuales (VFX) y pantalla verde"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Galeri Konsep & Perpustakaan Desain Presidensial Limkokwing",
+        "en": "Limkokwing Presidential Design Library & Concept Gallery",
+        "ar": "مكتبة ومعرض التصميم والابتكار الرئاسي بجامعة ليمكوك وينج",
+        "ko": "림콕윙 프레지덴셜 디자인 도서관 및 글로벌 컨셉트 갤러리",
+        "ja": "リムコクウィン・プレジデンシャル・デザイン図書館＆ギャラリー",
+        "zh": "林国荣总统创意设计学术图书馆与国际前沿概念艺术画廊",
+        "ru": "Президентская библиотека дизайна и концептуальная галерея",
+        "fr": "Bibliothèque présidentielle de design et galerie de concepts",
+        "es": "Biblioteca presidencial de diseño y galería de arte conceptual"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Pelopor Global Terkemuka dalam Teknologi Kreatif & Desain",
+        "en": "World-Renowned Pioneer in Creative Technology & Innovation",
+        "ar": "الرائدة عالمياً في مجالات التكنولوجيا الإبداعية والتصميم والابتكار",
+        "ko": "크리에이티브 테크놀로지 및 혁신 디자인 분야의 세계적 선구자",
+        "ja": "クリエイティブ・テクノロジー＆デザイン分野における世界的先駆者",
+        "zh": "全球创意与数字多媒体技术教育领域的先驱公认领跑者",
+        "ru": "Мировой лидер в области креативных технологий и инновационного дизайна",
+        "fr": "Pionnier mondial des technologies créatives et du design",
+        "es": "Pionero mundial en tecnología creativa y diseño innovador"
+      },
+      "desc": {
+        "id": "Menghubungkan mahasiswa dengan industri seni global, multimedia, dan periklanan di lebih dari 160 negara.",
+        "en": "Connecting creative students directly to international multimedia, design, and advertising industries.",
+        "ar": "تربط الطلاب بمشاريع التصميم والإعلام الرقمي الدولية في أكثر من 160 دولة حول العالم.",
+        "ko": "160여 개국 이상의 글로벌 멀티미디어, 디자인 및 광고 산업계와 직접 연계된 혁신 커리큘럼.",
+        "ja": "世界160カ国以上のグローバルなマルチメディア、デザイン、広告業界と直結した教育。",
+        "zh": "为学生构建直通全球160多个国家和地区的国际多媒体设计与数字创意产业桥梁。",
+        "ru": "Связь с международными компаниями в сфере медиа, дизайна и рекламы.",
+        "fr": "Connecte les étudiants aux industries mondiales du multimédia et du design.",
+        "es": "Conecta a los estudiantes directamente con la industria creativa internacional."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Komunitas Mahasiswa Multikultural Paling Beragam di Dunia",
+        "en": "Highly Diverse Student Community from 160+ Nations",
+        "ar": "أكبر بيئة طلابية دولية متعددة الثقافات من أكثر من 160 دولة",
+        "ko": "전 세계 160개국 이상에서 온 가장 다문화적인 글로벌 캠퍼스",
+        "ja": "世界160カ国以上からの留学生が集う最高水準の多文化環境",
+        "zh": "汇聚来自全球160多个国家青年精英的最具国际化多元文化社区",
+        "ru": "Самое многонациональное студенческое сообщество из более чем 160 стран",
+        "fr": "Communauté étudiante extrêmement diverse de plus de 160 pays",
+        "es": "Comunidad estudiantil multicultural de más de 160 países"
+      },
+      "desc": {
+        "id": "Atmosfer belajar yang menstimulasi ide-ide global dengan jaringan pertemanan internasional tanpa batas.",
+        "en": "A vibrant global learning ecosystem fostering cross-cultural creativity and international networks.",
+        "ar": "بيئة تعليمية ملهمة تمزج الثقافات وتفتح آفاق التعاون والابتكار وبناء علاقات دولية واسعة.",
+        "ko": "국경을 초월한 창의적 아이디어 교류와 평생의 글로벌 인적 네트워크 형성.",
+        "ja": "国境を越えたアイデア交換とグローバルな人脈形成を育む活気ある環境。",
+        "zh": "融合多元文化视野，激发源源不断的全球创意灵感并建立广泛的国际校友网络。",
+        "ru": "Уникальная атмосфера, способствующая развитию креативности и связей.",
+        "fr": "Un écosystème d'apprentissage stimulant la créativité et les réseaux mondiaux.",
+        "es": "Un entorno estimulante que fomenta la creatividad intercultural y contactos mundiales."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Kolaborasi Nyata Proyek Industri & Inkubasi Merek Terkenal",
+        "en": "Real Industry Brand Collaboration & Startup Incubation",
+        "ar": "شراكات واقعية مع كبرى العلامات التجارية ومسرعات الأعمال الناشئة",
+        "ko": "글로벌 유명 브랜드 산학 협력 프로젝트 및 청년 스타트업 인큐베이팅",
+        "ja": "有名グローバルブランドとの産学連携プロジェクト＆起業支援",
+        "zh": "与国际知名大牌深度产学合作及全方位青年数字品牌孵化机制",
+        "ru": "Реальные проекты с мировыми брендами и инкубация стартапов",
+        "fr": "Projets réels en collaboration avec des marques et incubation de startups",
+        "es": "Colaboración real con marcas internacionales e incubación de startups"
+      },
+      "desc": {
+        "id": "Mahasiswa mengerjakan kampanye merek nyata untuk korporasi global sebelum menyelesaikan studi.",
+        "en": "Students build commercial portfolios by executing live client briefs for prominent international brands.",
+        "ar": "ينفذ الطلاب حملات تسويقية وتصاميم تجارية حقيقية لكبرى الشركات الدولية قبل تخرجهم.",
+        "ko": "재학 중 실제 다국적 기업의 상업용 프로젝트를 직접 수행하며 탄탄한 포트폴리오 구축.",
+        "ja": "在学中から世界的大手企業の実際のクライアントワークを担当し実務実績を構築。",
+        "zh": "学生在校期间即为跨国巨头企业操盘实际商业设计项目，积攒极具竞争力的作品集。",
+        "ru": "Студенты создают профессиональные портфолио на реальных кейсах компаний.",
+        "fr": "Les étudiants développent des portfolios commerciaux sur des projets concrets.",
+        "es": "Los estudiantes desarrollan proyectos reales para empresas globales antes de graduarse."
+      }
+    },
+    {
+      "icon": "award",
+      "title": {
+        "id": "Gelar Khusus dengan Pengakuan Profesi Kreatif Global",
+        "en": "Specialized Degrees with Direct Creative Career Pathways",
+        "ar": "مؤهلات أكاديمية تخصصية تؤهل مباشرة لوظائف الاقتصاد الإبداعي العالمي",
+        "ko": "글로벌 크리에이티브 이코노미 직결 맞춤형 전문 학위 프로그램",
+        "ja": "世界のクリエイティブ産業へ直結する専門学位プログラム",
+        "zh": "直通全球数字创意与高新视觉产业的权威专业学士学位",
+        "ru": "Специализированные дипломы с прямым выходом в мировую креативную индустрию",
+        "fr": "Diplômes spécialisés orientés vers les carrières créatives internationales",
+        "es": "Titulación especializada con acceso directo a la industria creativa mundial"
+      },
+      "desc": {
+        "id": "Lulusan diakui secara luas di industri perfilman, game, periklanan digital, dan arsitektur di seluruh dunia.",
+        "en": "Graduates excel in international film, gaming, digital advertising, and architectural design sectors.",
+        "ar": "يحظى الخريجون بطلب مرتفع في قطاعات السينما، تطوير الألعاب، الإعلانات الرقمية، والعمارة.",
+        "ko": "영화, 게임 개발, 디지털 광고, 건축 인테리어 등 글로벌 엔터테인먼트 시장에서 맹활약.",
+        "ja": "映画、ゲーム開発、デジタル広告、建築デザインなどの業界で高い評価を獲得。",
+        "zh": "毕业生在全球电影特效、游戏开发、数字营销与空间建筑设计行业备受青睐。",
+        "ru": "Выпускники востребованы в кино, геймдеве, цифровом маркетинге и архитектуре.",
+        "fr": "Les diplômés excelent dans les secteurs du cinéma, des jeux vidéo et du design.",
+        "es": "Egresados altamente cotizados en cine, videojuegos, publicidad digital y arquitectura."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Limkokwing University of Creative Technology Official Student Residences",
+        "ar": "المجمع السكني الطلابي الرسمي لـ جامعة ليمكوك وينج للتكنولوجيا الإبداعية",
+        "id": "Residensi Mahasiswa Resmi Limkokwing University of Creative Technology"
+      },
+      "distance": {
+        "en": "Within / Adjacent to Campus",
+        "ar": "داخل أو بجوار الحرم الجامعي مباشرة",
+        "id": "Di dalam / Bersebelahan dengan Kampus"
+      },
+      "priceRange": "RM 600 - RM 1,400 / month",
+      "amenities": {
+        "en": [
+          "Fully Furnished",
+          "High-Speed WiFi",
+          "24/7 Security",
+          "Air Conditioning"
+        ],
+        "ar": [
+          "مؤثثة بالكامل",
+          "إنترنت فائق السرعة",
+          "حراسة وأمن 24/7",
+          "تكييف كامل"
+        ],
+        "id": [
+          "Perabotan Lengkap",
+          "WiFi Cepat",
+          "Keamanan 24/7",
+          "AC Lengkap"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "item": {
+        "en": "Food & Daily Meals",
+        "ar": "الوجبات الغذائية اليومية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "RM 600 - RM 950",
+      "itemKey": "living_exp_food"
+    },
+    {
+      "item": {
+        "en": "Local Transport & Transit",
+        "ar": "المواصلات وبطاقات النقل",
+        "id": "Transportasi Lokal"
+      },
+      "cost": "RM 80 - RM 160",
+      "itemKey": "living_exp_transport"
+    },
+    {
+      "item": {
+        "en": "Utilities & Internet",
+        "ar": "الخدمات والماء والكهرباء والإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "RM 80 - RM 150",
+      "itemKey": "living_exp_utilities"
+    },
+    {
+      "item": {
+        "en": "Personal Supplies & Academic Materials",
+        "ar": "المستلزمات الشخصية والمصروف اليومي",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "RM 200 - RM 400",
+      "itemKey": "living_exp_personal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Limkokwing University of Creative Technology internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة ليمكوك وينج للتكنولوجيا الإبداعية معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Limkokwing University of Creative Technology diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Limkokwing University of Creative Technology is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة ليمكوك وينج للتكنولوجيا الإبداعية معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Limkokwing University of Creative Technology terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Limkokwing University of Creative Technology?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة ليمكوك وينج للتكنولوجيا الإبداعية؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Limkokwing University of Creative Technology?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Limkokwing University of Creative Technology?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة ليمكوك وينج للتكنولوجيا الإبداعية؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Limkokwing University of Creative Technology?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Limkokwing University of Creative Technology without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Panduan Masuk Fakultas Desain & Multimedia Kreatif di Limkokwing University",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Limkokwing University of Creative Technology",
+        "ar": "دليل القبول في كليات التصميم والوسائط المتعددة بجامعة ليمكوك وينج",
+        "zh": "Limkokwing University of Creative Technology 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Limkokwing University of Creative Technology",
+        "fr": "Guide complet d'admission et visa étudiant pour Limkokwing University of Creative Technology",
+        "es": "Guía completa de admisión y visado de estudiante para Limkokwing University of Creative Technology",
+        "ja": "Limkokwing University of Creative Technology 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Limkokwing University of Creative Technology 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Persyaratan berkas akademik, penyusunan portofolio kreatif, dan alur visa pelajar.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شروط التقديم، متطلبات إعداد ملف الأعمال الإبداعي، وإجراءات استخراج تأشيرة الطالب.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Kehidupan Mahasiswa Kreatif di Cyberjaya",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Limkokwing University of Creative Technology",
+        "ar": "تكاليف المعيشة وتفاصيل السكن في مدينة سايبرجايا للطلاب المبدعين",
+        "zh": "Limkokwing University of Creative Technology 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Limkokwing University of Creative Technology",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Limkokwing University of Creative Technology",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Limkokwing University of Creative Technology",
+        "ja": "Limkokwing University of Creative Technology 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Limkokwing University of Creative Technology 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Rincian sewa kamar asrama, pengeluaran makan, dan transportasi shuttle bus kampus.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل إيجار السكن، مصروفات المعيشة اليومية، ووسائل المواصلات الحديثة.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Peluang Beasiswa Bakat Kreatif Mahasiswa Internasional di Limkokwing",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Limkokwing University of Creative Technology",
+        "ar": "فرص المنح الدراسية وخصومات الموهبة الإبداعية في جامعة ليمكوك وينج",
+        "zh": "Limkokwing University of Creative Technology 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Limkokwing University of Creative Technology",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Limkokwing University of Creative Technology",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Limkokwing University of Creative Technology",
+        "ja": "Limkokwing University of Creative Technology 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Limkokwing University of Creative Technology 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Kriteria beasiswa potongan uang kuliah berdasarkan portofolio seni dan prestasi rapor.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "معايير الحصول على خصومات دراسية بناءً على تميز ملف الأعمال والنتائج الدراسية.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "Limkokwing On-Campus Student Hostel",
+        "nameAr": "السكن الجامعي الداخلي بحرم ليمكوك وينج",
+        "type": "Single & Twin Ensuite Student Rooms",
+        "typeAr": "غرف طلابية فردية ومزدوجة بحمام خاص وتكييف",
+        "priceRange": "RM 550 - RM 1,000 / month",
+        "priceRangeAr": "550 - 1,000 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)",
+        "amenities": [
+          "Wi-Fi Cepat Tanpa Batas",
+          "Lounge Kreatif Komunal",
+          "Keamanan 24 Jam & Kartu Akses",
+          "Kafetaria & Food Court Halal",
+          "Dekat Studio & Perpustakaan"
+        ],
+        "amenitiesAr": [
+          "إنترنت عالي السرعة غير محدود",
+          "قاعات ترفيه واستذكار جماعية",
+          "أمن وبوابات إلكترونية 24 ساعة",
+          "مطاعم وكافتيريا حلال",
+          "ملاصق للاستوديوهات والمكتبة"
+        ]
+      },
+      {
+        "name": "The Arc Cyberjaya Student Residences",
+        "nameAr": "مجمع ذا آرك السكني الفاخر للطلاب",
+        "type": "Modern Fully Furnished Condos",
+        "typeAr": "شقق سكنية فندقية مفروشة بالكامل بالقرب من الحرم",
+        "priceRange": "RM 600 - RM 1,150 / month",
+        "priceRangeAr": "600 - 1,150 رينجيت / شهرياً",
+        "distance": "5 menit jalan kaki ke kampus",
+        "distanceAr": "5 دقائق سيراً على الأقدام إلى الجامعة",
+        "distanceEn": "5-minute walk to campus",
+        "amenities": [
+          "Kolam Renang & Gym",
+          "Minimarket & Restoran 24 Jam",
+          "Perabotan Lengkap & Dapur",
+          "Keamanan 24/7",
+          "Akses Kartu Lift Cerdas"
+        ],
+        "amenitiesAr": [
+          "مسبح وصالة لياقة بدنية",
+          "متاجر ومطاعم 24 ساعة",
+          "مفروشة بالكامل مع مطبخ",
+          "حراسة 24 ساعة",
+          "بطاقات ذكية للمصاعد"
+        ]
+      },
+      {
+        "name": "Cyberia SmartHomes Condominiums",
+        "nameAr": "شقق سايبريا سمارت هومز السكنية المجاورة",
+        "type": "Budget-Friendly Shared Apartments",
+        "typeAr": "شقق طلابية اقتصادية ومريحة بجوار الحرم",
+        "priceRange": "RM 450 - RM 900 / month",
+        "priceRangeAr": "450 - 900 رينجيت / شهرياً",
+        "distance": "7 menit jalan kaki dari kampus",
+        "distanceAr": "7 دقائق سيراً على الأقدام من الحرم الجامعي",
+        "distanceEn": "7-minute walk to campus",
+        "amenities": [
+          "Kolam Renang & Lapangan Tenis",
+          "Kafetaria Halal & Laundry",
+          "Pilihan Kamar Fleksibel",
+          "Akses Mudah Transportasi",
+          "Keamanan 24 Jam"
+        ],
+        "amenitiesAr": [
+          "مسبح وملاعب تنس",
+          "كافتيريا حلال ومغاسل ملابس",
+          "خيارات غرف فردية ومشتركة",
+          "سهولة الوصول للمواصلات",
+          "أمن وحراسة 24 ساعة"
+        ]
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "itemKey": "living_exp_room",
+        "cost": "RM 500 - RM 1,050"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "itemKey": "living_exp_food",
+        "cost": "RM 500 - RM 800"
+      },
+      {
+        "item": "Transportasi Lokal",
+        "itemAr": "المواصلات والتنقل",
+        "itemKey": "living_exp_transport",
+        "cost": "RM 60 - RM 120"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "itemKey": "living_exp_utilities",
+        "cost": "RM 70 - RM 130"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Bahan Desain",
+        "itemAr": "المصروفات الشخصية وأدوات التصميم",
+        "itemKey": "living_exp_personal",
+        "cost": "RM 180 - RM 350"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "itemKey": "living_exp_total",
+        "cost": "RM 1,310 - RM 2,450"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في التصميم والإعلام الرقمي",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 15,000 - RM 18,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم التطبيقي (أزياء، وسائط، أنيميشن، إعلان)",
+      "duration": "2.5 Years",
+      "avgFeePerYear": "RM 14,000 - RM 18,000"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس الإبداعي (تصميم، ألعاب، وسائط، عمارة، اتصال)",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 20,000 - RM 30,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في إدارة المشاريع الإبداعية والاتصال والوسائط",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 22,000 - RM 28,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في إدارة التصميم والابتكار والوسائط الرقمية",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 18,000 - RM 24,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=ePbmdW6uLcY",
+  "programs": [
+    {
+      "id": "limkokwing-bachelor-of-science-hons-in-software-engineering-with-multimedia",
+      "universityId": "limkokwing",
+      "name": "Bachelor of Science (Hons) in Software Engineering with Multimedia",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "limkokwing-foundation-in-business",
+      "universityId": "limkokwing",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "limkokwing-foundation-in-design",
+      "universityId": "limkokwing",
+      "name": "Foundation in Design",
+      "nameAr": "برنامج تمهيدي في Design",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "limkokwing-bachelor-of-business-hons-in-international-business",
+      "universityId": "limkokwing",
+      "name": "Bachelor of Business (Hons) in International Business",
+      "nameAr": "بكالوريوس الأعمال (مع مرتبة الشرف) في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "limkokwing-bachelor-of-business-administration-hons",
+      "universityId": "limkokwing",
+      "name": "Bachelor of Business Administration (Hons)",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "limkokwing-foundation-in-engineering",
+      "universityId": "limkokwing",
+      "name": "Foundation in Engineering",
+      "nameAr": "برنامج تمهيدي في الهندسة",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "limkokwing-bachelor-of-arts-hons-in-fashion-design",
+      "universityId": "limkokwing",
+      "name": "Bachelor of Arts (Hons) in Fashion Design",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Fashion Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "limkokwing-bachelor-of-arts-hons-in-professional-communication",
+      "universityId": "limkokwing",
+      "name": "Bachelor of Arts (Hons) in Professional Communication",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Professional Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 8,
+  "totalProgramsCount": 8
+}

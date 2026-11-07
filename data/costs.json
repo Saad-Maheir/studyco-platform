@@ -1,0 +1,214 @@
+{
+  "destinations": {
+    "malaysia": {
+      "symbol": "RM ",
+      "fields": {
+        "business": {
+          "tuition": "25,000 - 45,000",
+          "duration": "3",
+          "living": "18,000 - 24,000"
+        },
+        "cs": {
+          "tuition": "26,000 - 47,000",
+          "duration": "3",
+          "living": "18,000 - 24,000"
+        },
+        "engineering": {
+          "tuition": "28,500 - 51,500",
+          "duration": "3",
+          "living": "18,000 - 24,000"
+        },
+        "health": {
+          "tuition": "35,000 - 63,000",
+          "duration": "5",
+          "living": "18,000 - 24,000"
+        },
+        "hospitality": {
+          "tuition": "21,000 - 38,000",
+          "duration": "3",
+          "living": "18,000 - 24,000"
+        },
+        "arts": {
+          "tuition": "22,500 - 40,500",
+          "duration": "3",
+          "living": "18,000 - 24,000"
+        }
+      }
+    },
+    "australia": {
+      "symbol": "A$",
+      "fields": {
+        "business": {
+          "tuition": "32,000 - 45,000",
+          "duration": "3",
+          "living": "21,000 - 26,000"
+        },
+        "cs": {
+          "tuition": "33,500 - 47,000",
+          "duration": "3",
+          "living": "21,000 - 26,000"
+        },
+        "engineering": {
+          "tuition": "37,000 - 51,500",
+          "duration": "3",
+          "living": "21,000 - 26,000"
+        },
+        "health": {
+          "tuition": "45,000 - 63,000",
+          "duration": "5",
+          "living": "21,000 - 26,000"
+        },
+        "hospitality": {
+          "tuition": "27,000 - 38,000",
+          "duration": "3",
+          "living": "21,000 - 26,000"
+        },
+        "arts": {
+          "tuition": "29,000 - 40,500",
+          "duration": "3",
+          "living": "21,000 - 26,000"
+        }
+      }
+    },
+    "uk": {
+      "symbol": "£",
+      "fields": {
+        "business": {
+          "tuition": "14,000 - 25,000",
+          "duration": "3",
+          "living": "12,000 - 15,000"
+        },
+        "cs": {
+          "tuition": "14,500 - 26,000",
+          "duration": "3",
+          "living": "12,000 - 15,000"
+        },
+        "engineering": {
+          "tuition": "16,000 - 28,500",
+          "duration": "3",
+          "living": "12,000 - 15,000"
+        },
+        "health": {
+          "tuition": "19,500 - 35,000",
+          "duration": "5",
+          "living": "12,000 - 15,000"
+        },
+        "hospitality": {
+          "tuition": "12,000 - 21,000",
+          "duration": "3",
+          "living": "12,000 - 15,000"
+        },
+        "arts": {
+          "tuition": "12,500 - 22,500",
+          "duration": "3",
+          "living": "12,000 - 15,000"
+        }
+      }
+    },
+    "canada": {
+      "symbol": "C$",
+      "fields": {
+        "business": {
+          "tuition": "25,000 - 40,000",
+          "duration": "4",
+          "living": "15,000 - 20,000"
+        },
+        "cs": {
+          "tuition": "26,000 - 42,000",
+          "duration": "4",
+          "living": "15,000 - 20,000"
+        },
+        "engineering": {
+          "tuition": "28,500 - 46,000",
+          "duration": "4",
+          "living": "15,000 - 20,000"
+        },
+        "health": {
+          "tuition": "35,000 - 56,000",
+          "duration": "6",
+          "living": "15,000 - 20,000"
+        },
+        "hospitality": {
+          "tuition": "21,000 - 34,000",
+          "duration": "4",
+          "living": "15,000 - 20,000"
+        },
+        "arts": {
+          "tuition": "22,500 - 36,000",
+          "duration": "4",
+          "living": "15,000 - 20,000"
+        }
+      }
+    },
+    "newzealand": {
+      "symbol": "NZ$",
+      "fields": {
+        "business": {
+          "tuition": "28,000 - 40,000",
+          "duration": "3",
+          "living": "18,000 - 22,000"
+        },
+        "cs": {
+          "tuition": "29,500 - 42,000",
+          "duration": "3",
+          "living": "18,000 - 22,000"
+        },
+        "engineering": {
+          "tuition": "32,000 - 46,000",
+          "duration": "3",
+          "living": "18,000 - 22,000"
+        },
+        "health": {
+          "tuition": "39,000 - 56,000",
+          "duration": "5",
+          "living": "18,000 - 22,000"
+        },
+        "hospitality": {
+          "tuition": "24,000 - 34,000",
+          "duration": "3",
+          "living": "18,000 - 22,000"
+        },
+        "arts": {
+          "tuition": "25,000 - 36,000",
+          "duration": "3",
+          "living": "18,000 - 22,000"
+        }
+      }
+    },
+    "singapore": {
+      "symbol": "S$",
+      "fields": {
+        "business": {
+          "tuition": "25,000 - 40,000",
+          "duration": "3",
+          "living": "15,000 - 20,000"
+        },
+        "cs": {
+          "tuition": "26,000 - 42,000",
+          "duration": "3",
+          "living": "15,000 - 20,000"
+        },
+        "engineering": {
+          "tuition": "28,500 - 46,000",
+          "duration": "3",
+          "living": "15,000 - 20,000"
+        },
+        "health": {
+          "tuition": "35,000 - 56,000",
+          "duration": "5",
+          "living": "15,000 - 20,000"
+        },
+        "hospitality": {
+          "tuition": "21,000 - 34,000",
+          "duration": "3",
+          "living": "15,000 - 20,000"
+        },
+        "arts": {
+          "tuition": "22,500 - 36,000",
+          "duration": "3",
+          "living": "15,000 - 20,000"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1759 @@
+{
+  "id": "regina",
+  "name": "University of Regina",
+  "arabicName": "جامعة ريجينا (University of Regina)",
+  "city": "Regina, Saskatchewan",
+  "country": "canada",
+  "logo": "assets/photo/uni-regina.png",
+  "image": "assets/photo/campus_regina.jpg",
+  "website": "https://www.uregina.ca/",
+  "ranking": "Rank 951 QS World University Rankings 2025",
+  "established": "1911",
+  "campusName": "Wascana Centre Campus",
+  "studentCount": "16,000+ (100+ Countries)",
+  "intakes": "Sep, Jan, May",
+  "feeRangeMin": 18000,
+  "feeRangeMax": 30800,
+  "currency": "CAD",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/kZ_zJKlKrHM",
+  "description": "University of Regina is a leading Canadian higher education institution located in Regina, Saskatchewan. It provides globally accredited undergraduate and postgraduate degree programmes.",
+  "descriptionAr": "تعد جامعة ريجينا (University of Regina) صرحاً أكاديمياً وبحثياً رائداً في Regina, Saskatchewan، وتقدم برامج بكالوريوس وماجستير معتمدة عالمياً تؤهل الخريجين للحصول على تصريح العمل الكندي (PGWP).",
+  "about": {
+    "en": "University of Regina is one of Canada's most prestigious institutions of higher education, located in Regina, Saskatchewan. Established in 1911, it holds Rank 951 QS World University Rankings 2025 and hosts over 16,000+ (100+ Countries) with cutting-edge academic and research excellence.",
+    "ar": "تعد جامعة ريجينا (University of Regina) من أرقى مؤسسات التعليم العالي والبحث العلمي في كندا، وتقع في Regina, Saskatchewan. تأسست الجامعة عام 1911 وتحتل مكانة مرموقة (Rank 951 QS World University Rankings 2025)، وتضم أكثر من 16,000+ (100+ Countries) وتوفر برامج بكالوريوس ودراسات عليا معتمدة عالمياً.",
+    "id": "University of Regina adalah salah satu institusi pendidikan tinggi terkemuka di Kanada yang berlokasi di Regina, Saskatchewan. Berdiri sejak tahun 1911, universitas ini menduduki peringkat Rank 951 QS World University Rankings 2025 dan menampung lebih dari 16,000+ (100+ Countries).",
+    "zh": "University of Regina 是加拿大享誉全球的顶尖高等学府之一，坐落于 Regina, Saskatchewan。创办于 1911 年，位列 Rank 951 QS World University Rankings 2025，拥有超过 16,000+ (100+ Countries)。",
+    "ru": "University of Regina — один из ведущих канадских университетов, расположенный в городе Regina, Saskatchewan. Основан в 1911 году, занимает Rank 951 QS World University Rankings 2025 и объединяет свыше 16,000+ (100+ Countries).",
+    "fr": "University of Regina est l'un des établissements d'enseignement supérieur les plus réputés du Canada, situé à Regina, Saskatchewan. Fondée en 1911, elle bénéficie de Rank 951 QS World University Rankings 2025.",
+    "es": "University of Regina es una de las instituciones de educación superior más prestigiosas de Canadá, situada en Regina, Saskatchewan. Fundada en 1911, cuenta con Rank 951 QS World University Rankings 2025.",
+    "ja": "University of Regina はカナダの Regina, Saskatchewan に位置する世界最高峰の高等教育機関です。1911 年に設立され、Rank 951 QS World University Rankings 2025 にランクインしています。",
+    "ko": "University of Regina 은(는) 캐나다 Regina, Saskatchewan 에 위치한 세계적인 명문 대학입니다. 1911 년에 설립되어 Rank 951 QS World University Rankings 2025 에 등재되어 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "University of Regina Central Research Library and Digital Learning Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي",
+        "id": "University of Regina Central Research Library and Digital Learning Commons",
+        "zh": "University of Regina Central Research Library and Digital Learning Commons",
+        "ru": "University of Regina Central Research Library and Digital Learning Commons",
+        "fr": "University of Regina Central Research Library and Digital Learning Commons",
+        "es": "University of Regina Central Research Library and Digital Learning Commons",
+        "ja": "University of Regina Central Research Library and Digital Learning Commons",
+        "ko": "University of Regina Central Research Library and Digital Learning Commons"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ar": "مختبرات العلوم والهندسة المتقدمة ومركز ابتكارات الروبوتات",
+        "id": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "zh": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ru": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "fr": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "es": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ja": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ko": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Business Innovation Incubator and Financial Analytics Suite",
+        "ar": "حاضنة ريادة الأعمال وقاعات التحليل المالي والمحاكاة الذكية",
+        "id": "Business Innovation Incubator and Financial Analytics Suite",
+        "zh": "Business Innovation Incubator and Financial Analytics Suite",
+        "ru": "Business Innovation Incubator and Financial Analytics Suite",
+        "fr": "Business Innovation Incubator and Financial Analytics Suite",
+        "es": "Business Innovation Incubator and Financial Analytics Suite",
+        "ja": "Business Innovation Incubator and Financial Analytics Suite",
+        "ko": "Business Innovation Incubator and Financial Analytics Suite"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ar": "المجمع الرياضي الأولمبي المتعدد، صالات اللياقة والمسبح المغطى",
+        "id": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "zh": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ru": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "fr": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "es": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ja": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ko": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution",
+        "ar": "Rank 951 QS World University Rankings 2025 - صرح أكاديمي كندي معتمد ومصنف عالمياً",
+        "id": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution",
+        "zh": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution",
+        "ru": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution",
+        "fr": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution",
+        "es": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution",
+        "ja": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution",
+        "ko": "Rank 951 QS World University Rankings 2025 - Globally Recognized Canadian Institution"
+      },
+      "desc": {
+        "en": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ar": "برامج أكاديمية وبحثية معتمدة دولياً تؤهل الخريجين للريادة والتميز في سوق العمل العالمي.",
+        "id": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "zh": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ru": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "fr": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "es": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ja": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ko": "Globally accredited degree programmes delivering state-of-the-art education and world-class research."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Outstanding Graduate Employability & Global Industry Ties",
+        "ar": "معدلات توظيف استثنائية وشراكات صناعية واسعة",
+        "id": "Outstanding Graduate Employability & Global Industry Ties",
+        "zh": "Outstanding Graduate Employability & Global Industry Ties",
+        "ru": "Outstanding Graduate Employability & Global Industry Ties",
+        "fr": "Outstanding Graduate Employability & Global Industry Ties",
+        "es": "Outstanding Graduate Employability & Global Industry Ties",
+        "ja": "Outstanding Graduate Employability & Global Industry Ties",
+        "ko": "Outstanding Graduate Employability & Global Industry Ties"
+      },
+      "desc": {
+        "en": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ar": "يتمتع خريجو الجامعة بفرص تدريب وظيفي مباشرة ورواتب أولية تنافسية في كبرى الشركات الكندية والعالمية.",
+        "id": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "zh": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ru": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "fr": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "es": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ja": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ko": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Dynamic International Campus & Comprehensive Student Support",
+        "ar": "بيئة جامعية دولية ودعم متكامل للطلاب المغتربين",
+        "id": "Dynamic International Campus & Comprehensive Student Support",
+        "zh": "Dynamic International Campus & Comprehensive Student Support",
+        "ru": "Dynamic International Campus & Comprehensive Student Support",
+        "fr": "Dynamic International Campus & Comprehensive Student Support",
+        "es": "Dynamic International Campus & Comprehensive Student Support",
+        "ja": "Dynamic International Campus & Comprehensive Student Support",
+        "ko": "Dynamic International Campus & Comprehensive Student Support"
+      },
+      "desc": {
+        "en": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ar": "تضم الجامعة مجتمعاً طلابياً من أكثر من 100 دولة وتقدم خدمات إرشاد أكاديمي وسكني ومهني متكاملة.",
+        "id": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "zh": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ru": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "fr": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "es": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ja": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ko": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ar": "مرافق بحثية متطورة وتقنيات تعليمية من الجيل القادم",
+        "id": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "zh": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ru": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "fr": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "es": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ja": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ko": "Cutting-Edge Research Facilities & Next-Gen Learning Tech"
+      },
+      "desc": {
+        "en": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ar": "استثمارات ضخمة في أحدث المختبرات ومراكز المحاكاة الذكية لربط النظريات بالتطبيق العملي.",
+        "id": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "zh": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ru": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "fr": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "es": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ja": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ko": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "University of Regina Student Residences",
+        "ar": "University of Regina Student Residences",
+        "id": "University of Regina Student Residences",
+        "zh": "University of Regina Student Residences",
+        "ru": "University of Regina Student Residences",
+        "fr": "University of Regina Student Residences",
+        "es": "University of Regina Student Residences",
+        "ja": "University of Regina Student Residences",
+        "ko": "University of Regina Student Residences"
+      },
+      "distance": {
+        "en": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ar": "داخل الحرم الجامعي (3 إلى 10 دقائق سيراً على الأقدام للقاعات)",
+        "id": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "zh": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ru": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "fr": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "es": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ja": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ko": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)"
+      },
+      "priceRange": "CAD $750 - $1,400 / Month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "مطابخ مشتركة حديثة وصالات طعام واسعة للطلاب",
+          "غرف مؤثثة ومكيفة بالكامل مع مكاتب دراسية وإنترنت فائق السرعة",
+          "صالات ترفيهية ومكتبات للدراسة الهادئة ومغاسل ملابس ذاتية",
+          "قرب مباشر من وسائل النقل العام ومرافق الجامعة الرئيسية"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV",
+          "Modern Communal Kitchens & Spacious Dining Commons",
+          "Fully Furnished Air-Conditioned Rooms with Study Desks & Fast WiFi",
+          "Student Social Lounges, Quiet Study Hubs & Laundry Facilities",
+          "Immediate Proximity to Public Transit & Academic Buildings"
+        ],
+        "id": [
+          "Keamanan 24 Jam dengan Akses Kartu Elektronik & CCTV",
+          "Dapur Bersama Modern & Area Makan Mahasiswa yang Luas",
+          "Kamar Berperabot Lengkap Ber-AC dengan Meja Belajar & WiFi Cepat",
+          "Lounge Mahasiswa, Ruang Belajar Tenang & Fasilitas Laundry",
+          "Dekat dengan Transportasi Umum & Gedung Kampus Utama"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "category": {
+        "en": "Accommodation & Student Housing",
+        "ar": "السكن الطلابي (داخل الحرم أو شقة مشتركة)",
+        "id": "Akomodasi & Asrama Mahasiswa",
+        "zh": "学生宿舍与校外公寓",
+        "ru": "Проживание и студенческое общежитие",
+        "fr": "Hébergement et résidence étudiante",
+        "es": "Alojamiento y residencia estudiantil",
+        "ja": "学生寮・シェアハウス",
+        "ko": "학생 기숙사 및 주거비"
+      },
+      "cost": "CAD $750 - $1,400 / Month"
+    },
+    {
+      "category": {
+        "en": "Food & Groceries",
+        "ar": "الطعام والبقالة والمعيشة اليومية",
+        "id": "Makanan & Kebutuhan Sehari-hari",
+        "zh": "餐饮与日常生活开销",
+        "ru": "Питание и продукты",
+        "fr": "Nourriture et épicerie",
+        "es": "Comida y supermercado",
+        "ja": "食費・食料品",
+        "ko": "식비 및 생필품"
+      },
+      "cost": "CAD $350 - $600 / Month"
+    },
+    {
+      "category": {
+        "en": "Public Transportation (U-Pass / Transit)",
+        "ar": "المواصلات العامة وبطاقات الطلاب الجامعية",
+        "id": "Transportasi Umum (U-Pass)",
+        "zh": "公共交通与学生乘车卡",
+        "ru": "Общественный транспорт",
+        "fr": "Transports en commun (U-Pass)",
+        "es": "Transporte público universitario",
+        "ja": "公共交通機関（U-Pass）",
+        "ko": "대중교통 (U-Pass 할인)"
+      },
+      "cost": "CAD $90 - $150 / Month"
+    },
+    {
+      "category": {
+        "en": "Utilities, Mobile Phone & Personal",
+        "ar": "خدمات الإنترنت والاتصالات والمصاريف الشخصية",
+        "id": "Internet, Pulsa & Keperluan Pribadi",
+        "zh": "通讯网络与日常杂费",
+        "ru": "Связь, интернет и личные расходы",
+        "fr": "Services, téléphonie et loisirs",
+        "es": "Servicios, telefonía e imprevistos",
+        "ja": "通信費・光熱費・雑費",
+        "ko": "통신비, 공과금 및 개인 용돈"
+      },
+      "cost": "CAD $150 - $300 / Month"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What are the general admission requirements for Canadian universities?",
+        "ar": "ما هي شروط القبول العامة في الجامعات الكندية؟",
+        "id": "Apa syarat penerimaan umum di universitas Kanada?",
+        "zh": "加拿大大学的常规录取要求是什么？",
+        "ru": "Каковы общие требования для поступления в канадские университеты?",
+        "fr": "Quelles sont les conditions générales d'admission au Canada?",
+        "es": "¿Cuáles son los requisitos generales de admisión en Canadá?",
+        "ja": "カナダの大学の一般的な入学条件は何ですか？",
+        "ko": "캐나다 대학의 일반적인 입학 조건은 무엇인가요?"
+      },
+      "a": {
+        "en": "Undergraduate applicants need a recognized high school diploma with strong academic marks, alongside proof of English proficiency (typically IELTS 6.5 with no band below 6.0, or TOEFL equivalent). Postgraduate programs require a recognized 4-year bachelor's degree with competitive GPA.",
+        "ar": "يتطلب القبول في مرحلة البكالوريوس شهادة ثانوية عامة معتمدة بمعدل أكاديمي متميز، بالإضافة إلى إثبات إتقان اللغة الإنجليزية (IELTS 6.5 بدرجة لا تقل عن 6.0 في كل مهارة). أما برامج الدراسات العليا فتتطلب درجة بكالوريوس معتمدة ومعدل تراكمي جيد جداً.",
+        "id": "Untuk sarjana (S1) diperlukan ijazah SMA dengan nilai baik dan bukti kemahiran bahasa Inggris (IELTS 6.5 min 6.0 tiap band). Untuk pascasarjana (S2) diperlukan gelar Sarjana terakreditasi dengan IPK kompetitif.",
+        "zh": "本科申请需认可的高中毕业文凭且成绩优良，同时具备英语语言成绩（雅思6.5分，单项不低于6.0）。研究生课程要求具备认可的学士学位及良好的GPA。",
+        "ru": "Для бакалавриата требуется аттестат о среднем образовании с высокими оценками и сертификат IELTS 6.5 (не ниже 6.0 в секциях). Для магистратуры необходим диплом бакалавра с хорошим средним баллом.",
+        "fr": "Pour le premier cycle, un diplôme de fin d'études secondaires avec de bons résultats et l'IELTS 6.5 sont requis. Pour les cycles supérieurs, un baccalauréat reconnu avec un bon dossier académique est exigé.",
+        "es": "Para pregrado se requiere título de secundaria con buen promedio y certificado IELTS 6.5 (mínimo 6.0 por sección). Para posgrado se exige título de licenciatura con buen GPA.",
+        "ja": "学部入学には高校卒業証明書と優秀な成績、IELTS 6.5以上の英語力が必要です。大学院は認定学士号と優れたGPAが求められます。",
+        "ko": "학부 입학은 공인 고등학교 졸업장과 우수한 내신 성적, IELTS 6.5(각 영역 6.0 이상)가 필요합니다. 석사 과정은 인정된 학사 학위와 우수한 학점이 필수입니다."
+      }
+    },
+    {
+      "q": {
+        "en": "Can international students work during their studies in Canada?",
+        "ar": "هل يحق للطلاب الدوليين العمل أثناء الدراسة في كندا؟",
+        "id": "Apakah mahasiswa internasional boleh bekerja saat kuliah di Kanada?",
+        "zh": "国际学生在加拿大留学期间可以打工吗？",
+        "ru": "Могут ли иностранные студенты работать во время учебы в Канаде?",
+        "fr": "Les étudiants internationaux peuvent-ils travailler pendant leurs études au Canada?",
+        "es": "¿Pueden los estudiantes internacionales trabajar durante sus estudios en Canadá?",
+        "ja": "カナダ留学中に留学生はアルバイトができますか？",
+        "ko": "캐나다 유학 중 국제 학생의 아르바이트가 가능한가요?"
+      },
+      "a": {
+        "en": "Yes. International students holding a valid Study Permit enrolled in full-time degree programs at designated learning institutions (DLIs) can work up to 24 hours per week off-campus during academic semesters, and full-time during official scheduled academic breaks.",
+        "ar": "نعم، يحق للطلاب الدوليين الحاملين لتصريح دراسة (Study Permit) ساري المفعول والملتحقين بدراسة نظامية كاملة العمل حتى 24 ساعة أسبوعياً خارج الحرم الجامعي أثناء الفصول الدراسية، والعمل بدوام كامل خلال العطلات الرسمية المجدولة.",
+        "id": "Ya. Mahasiswa internasional pemegang Study Permit dapat bekerja hingga 24 jam per minggu di luar kampus selama semester perkuliahan dan purnawaktu saat liburan semester resmi.",
+        "zh": "可以。持有有效学习许可（Study Permit）并全日制就读于指定学习机构（DLI）的留学生，在学期内每周可校外工作最多24小时，假期可全职工作。",
+        "ru": "Да. Студенты со Study Permit могут работать вне кампуса до 24 часов в неделю во время семестра и полный рабочий день во время официальных каникул.",
+        "fr": "Oui. Les étudiants titulaires d'un permis d'études valide peuvent travailler jusqu'à 24 heures par semaine hors campus pendant les sessions et à temps plein pendant les vacances.",
+        "es": "Sí. Los estudiantes con permiso de estudio vigente pueden trabajar hasta 24 horas por semana fuera del campus durante el semestre y tiempo completo en vacaciones.",
+        "ja": "はい。有効な就学許可証（Study Permit）を持つ留学生は、学期中は週24時間まで、長期休暇中はフルタイムで就労可能です。",
+        "ko": "네. 유효한 스터디 퍼밋을 소지한 학생은 학기 중 주당 최대 24시간까지 오프캠퍼스 근무가 가능하며, 공식 방학 기간에는 풀타임 근무가 가능합니다."
+      }
+    },
+    {
+      "q": {
+        "en": "How does the Post-Graduation Work Permit (PGWP) work in Canada?",
+        "ar": "كيف يعمل تصريح العمل بعد التخرج (PGWP) في كندا؟",
+        "id": "Bagaimana sistem Post-Graduation Work Permit (PGWP) di Kanada?",
+        "zh": "加拿大的毕业后工作许可（PGWP）如何运作？",
+        "ru": "Как работает разрешение на работу после выпуска (PGWP) в Канаде?",
+        "fr": "Comment fonctionne le permis de travail post-diplôme (PTPD/PGWP) au Canada?",
+        "es": "¿Cómo funciona el permiso de trabajo de posgraduación (PGWP) en Canadá?",
+        "ja": "カナダの卒業後就労ビザ（PGWP）はどのような仕組みですか？",
+        "ko": "캐나다 졸업 후 워크 퍼밋(PGWP)은 어떻게 운영되나요?"
+      },
+      "a": {
+        "en": "Graduates of eligible degree programs from designated Canadian public institutions can apply for an open work permit valid for up to 3 years. This allows graduates to gain valuable Canadian professional work experience, which often provides a direct pathway to Canadian permanent residency (PR).",
+        "ar": "يمنح خريجو البرامج الجامعية المؤهلة في كندا تصريح عمل مفتوح (PGWP) تصل مدته إلى 3 سنوات كاملة بعد التخرج. يتيح هذا التصريح اكتساب خبرة عملية مهنية في كندا وهو أحد أهم المسارات المؤهلة للحصول على الإقامة الدائمة (PR).",
+        "id": "Lulusan dari universitas Kanada yang memenuhi syarat berhak mendapatkan izin kerja terbuka (PGWP) hingga 3 tahun untuk memperoleh pengalaman kerja profesional di Kanada.",
+        "zh": "毕业于合格加拿大公立大学学位课程的毕业生，可申请最长达3年的毕业后开放工作签证（PGWP），积累宝贵的加拿大本地工作经验，并有助于申请枫叶卡永久居留（PR）。",
+        "ru": "Выпускники аккредитованных программ канадских вузов могут получить открытое разрешение на работу (PGWP) сроком до 3 лет, открывающее путь к постоянному проживанию (PR).",
+        "fr": "Les diplômés de programmes admissibles peuvent obtenir un permis de travail ouvert jusqu'à 3 ans (PTPD), leur permettant d'acquérir une expérience canadienne menant à la résidence permanente.",
+        "es": "Los graduados de programas elegibles pueden obtener un permiso de trabajo abierto de hasta 3 años (PGWP), lo cual facilita el camino a la residencia permanente en Canadá.",
+        "ja": "カナダの認定大学を卒業後、最大3年間のオープン就労ビザ（PGWP）を申請でき、現地での就労経験を経て永住権（PR）申請に繋げることが可能です。",
+        "ko": "인정된 캐나다 공립 대학 졸업생은 최대 3년 유효한 졸업 후 워크 퍼밋(PGWP)을 발급받아 캐나다 내 전문 경력을 쌓고 영주권(PR) 취득으로 이어질 수 있습니다."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "title": {
+        "en": "Comprehensive Guide to Studying in Canada & Navigating the PGWP",
+        "ar": "الدليل الشامل للدراسة في كندا والحصول على تصريح العمل بعد التخرج (PGWP)",
+        "id": "Panduan Lengkap Kuliah di Kanada & Syarat Izin Kerja Pasca Kelulusan (PGWP)",
+        "zh": "加拿大留学全景指南：申请流程、就读体验与PGWP毕业工签全解析",
+        "ru": "Полный гид по обучению в Канаде: поступление, виза и рабочая виза PGWP",
+        "fr": "Guide complet des études au Canada et du permis de travail post-diplôme (PTPD)",
+        "es": "Guía completa para estudiar en Canadá y obtener el permiso de trabajo PGWP",
+        "ja": "カナダ大学留学完全ガイド：出願手順から卒業後就労ビザ（PGWP）まで",
+        "ko": "캐나다 명문대 유학 가이드: 입학 절차부터 졸업 후 워크 퍼밋(PGWP)까지"
+      },
+      "excerpt": {
+        "en": "Explore world-renowned Canadian higher education, living expenses across provinces, and strategic pathways to career success in North America.",
+        "ar": "استكشف مميزات التعليم الجامعي الكندي وتكاليف المعيشة عبر المقاطعات والمسارات المعتمدة لبناء مسيرة مهنية عالمية في أمريكا الشمالية.",
+        "id": "Pelajari keunggulan sistem pendidikan tinggi Kanada, biaya hidup antar provinsi, dan jalur karir profesional di Amerika Utara.",
+        "zh": "深入了解加拿大世界顶尖的高等教育资源、各省生活成本对比，以及毕业后在北美开拓国际化职业生涯的黄金路径。",
+        "ru": "Узнайте о преимуществах канадского высшего образования, стоимости жизни в различных провинциях и карьерных перспективах.",
+        "fr": "Découvrez les atouts de l'enseignement supérieur canadien, le coût de la vie par province et les opportunités professionnelles.",
+        "es": "Descubre las ventajas de la educación superior en Canadá, el costo de vida por provincia y las oportunidades profesionales.",
+        "ja": "カナダの高等教育の魅力、州ごとの生活費比較、そして北米でキャリアを築くための実践的なステップを解説します。",
+        "ko": "세계적 수준의 캐나다 대학 교육 환경, 주별 생활비 분석, 북미 취업 및 영주권 연계 전략을 상세히 소개합니다."
+      },
+      "date": "2026-09-06",
+      "category": "Guides"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelName": "Post-Degree Diploma / Certificate",
+      "levelAr": "دبلوم الدراسات العليا والشهادات المهنية (Post-Degree)",
+      "levelKey": "level_diploma",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين دراسيتين",
+      "avgFee": "CAD$20,250 - CAD$20,250"
+    },
+    {
+      "levelName": "Bachelor's Degree (Undergraduate)",
+      "levelAr": "درجة البكالوريوس الجامعية الكندية (Undergraduate)",
+      "levelKey": "level_bachelor",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات دراسية متكاملة",
+      "avgFee": "CAD$24,000 - CAD$30,800"
+    },
+    {
+      "levelName": "Master's Degree (Postgraduate)",
+      "levelAr": "درجة الماجستير الكندية (Postgraduate / Master's)",
+      "levelKey": "level_master",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين مكثفة",
+      "avgFee": "CAD$21,000 - CAD$26,700"
+    },
+    {
+      "levelName": "Doctoral Degree (PhD)",
+      "levelAr": "درجة الدكتوراه والأبحاث المتقدمة (Doctorate)",
+      "levelKey": "level_phd",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات بحثية متقدمة",
+      "avgFee": "CAD$18,000 - CAD$20,400"
+    }
+  ],
+  "directWatchUrl": null,
+  "programs": [
+    {
+      "id": "regina-cs-90001",
+      "universityId": "regina",
+      "name": "Bachelor of Science in Computer Science (CIPS Accredited, Co-op)",
+      "nameAr": "بكالوريوس العلوم في علوم الحاسوب (معتمد دولياً CIPS مع تدريب Co-op)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24800,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January, May",
+      "slug": "bachelor-of-science-in-computer-science-cips-accredited-co-op",
+      "overview": "Accredited by CIPS, featuring dedicated concentrations in Software Engineering, Cloud Computing, and Artificial Intelligence with optional paid co-op placement.",
+      "overviewAr": "معتمد من الجمعية الكندية لعلوم الحوسبة (CIPS)، ويشمل تخصصات في هندسة البرمجيات والحوسبة السحابية مع تدريب تعاوني مدفوع Co-op.",
+      "requirements": "High school completion with Grade 12 Math (Pre-Calculus) and English (IELTS 6.5 with no band below 6.0).",
+      "requirementsAr": "شهادة الثانوية العامة مع الرياضيات المتقدمة واختبار الآيلتس 6.5.",
+      "careerOpportunities": [
+        "Full Stack Developer",
+        "Network Security Analyst",
+        "Database Administrator",
+        "Software Quality Engineer"
+      ],
+      "careerOpportunitiesAr": [
+        "مطور ويب متكامل",
+        "محلل أمن الشبكات",
+        "مدير قواعد البيانات",
+        "مهندس جودة البرمجيات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24800
+        },
+        {
+          "year": 2,
+          "fee": 24800
+        },
+        {
+          "year": 3,
+          "fee": 24800
+        },
+        {
+          "year": 4,
+          "fee": 24800
+        }
+      ],
+      "totalTuitionFee": 99200,
+      "curriculum": {
+        "year1": [
+          "CS101: Introduction to Programming & Computing (Python)",
+          "MATH101: Calculus & Linear Algebra for CS",
+          "CS102: Discrete Structures and Logic",
+          "Academic Research & Technology Ethics"
+        ],
+        "year2": [
+          "CS201: Data Structures and Algorithmic Analysis",
+          "CS202: Object-Oriented Software Design (Java/C++)",
+          "CS203: Computer Systems and Architecture",
+          "CS204: Relational Databases & SQL Systems"
+        ],
+        "year3": [
+          "CS301: Operating Systems & Kernel Programming",
+          "CS302: Artificial Intelligence & Machine Learning",
+          "CS303: Computer Networks & Distributed Systems",
+          "CS304: Software Testing and Quality Assurance"
+        ],
+        "year4": [
+          "CS401: Cloud Computing & Microservices Architecture",
+          "CS402: Deep Learning & Neural Networks",
+          "CS403: Cybersecurity and Applied Cryptography",
+          "CS499: Senior Capstone Research Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CS101: مقدمة في البرمجة وعلوم الحوسبة (بايثون)",
+          "MATH101: التفاضل والتكامل والجبر الخطي للحاسوب",
+          "CS102: التراكيب المتقطعة والمنطق الحسابي",
+          "مهارات البحث الأكاديمي وأخلاقيات التكنولوجيا"
+        ],
+        "year2": [
+          "CS201: هياكل البيانات وتحليل الخوارزميات المتقدمة",
+          "CS202: هندسة وتصميم البرمجيات الكائنية (Java/C++)",
+          "CS203: بنية ومعمارية الحواسب والنظم",
+          "CS204: قواعد البيانات العلائقية ونظم SQL"
+        ],
+        "year3": [
+          "CS301: نظم التشغيل وبرمجة النواة والذاكرة",
+          "CS302: الذكاء الاصطناعي وتعلم الآلة",
+          "CS303: شبكات الحاسوب والنظم الموزعة",
+          "CS304: اختبار وجودة البرمجيات والأنظمة"
+        ],
+        "year4": [
+          "CS401: الحوسبة السحابية ومعمارية الخدمات المصغرة",
+          "CS402: التعلم العميق والشبكات العصبية",
+          "CS403: الأمن السيبراني وعلم التشفير التطبيقي",
+          "CS499: مشروع التخرج والبحث التطبيقي المعتمد"
+        ]
+      }
+    },
+    {
+      "id": "regina-cs-90002",
+      "universityId": "regina",
+      "name": "Bachelor of Science in Software Systems Development",
+      "nameAr": "بكالوريوس العلوم في تطوير نظم البرمجيات والتطبيقات",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 24800,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "bachelor-of-science-in-software-systems-development",
+      "overview": "Focuses on modern agile methodologies, mobile and distributed enterprise architectures, microservices, and interactive web application engineering.",
+      "overviewAr": "يركز على المنهجيات الرشيقة الحديثة، وتطبيقات الهواتف والأنظمة الموزعة للشركات، والخدمات المصغرة، وهندسة تطبيقات الويب التفاعلية.",
+      "requirements": "High school diploma with Pre-Calculus Mathematics and IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة مع الرياضيات والآيلتس 6.5.",
+      "careerOpportunities": [
+        "Software Solutions Architect",
+        "Mobile Apps Engineer",
+        "Cloud Native Developer",
+        "Scrum Systems Lead"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس حلول برمجية",
+        "مهندس تطبيقات الأجهزة الذكية",
+        "مطور النظم السحابية الأصيلة",
+        "قائد نظم Scrum"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24800
+        },
+        {
+          "year": 2,
+          "fee": 24800
+        },
+        {
+          "year": 3,
+          "fee": 24800
+        },
+        {
+          "year": 4,
+          "fee": 24800
+        }
+      ],
+      "totalTuitionFee": 99200,
+      "curriculum": {
+        "year1": [
+          "CS101: Introduction to Programming & Computing (Python)",
+          "MATH101: Calculus & Linear Algebra for CS",
+          "CS102: Discrete Structures and Logic",
+          "Academic Research & Technology Ethics"
+        ],
+        "year2": [
+          "CS201: Data Structures and Algorithmic Analysis",
+          "CS202: Object-Oriented Software Design (Java/C++)",
+          "CS203: Computer Systems and Architecture",
+          "CS204: Relational Databases & SQL Systems"
+        ],
+        "year3": [
+          "CS301: Operating Systems & Kernel Programming",
+          "CS302: Artificial Intelligence & Machine Learning",
+          "CS303: Computer Networks & Distributed Systems",
+          "CS304: Software Testing and Quality Assurance"
+        ],
+        "year4": [
+          "CS401: Cloud Computing & Microservices Architecture",
+          "CS402: Deep Learning & Neural Networks",
+          "CS403: Cybersecurity and Applied Cryptography",
+          "CS499: Senior Capstone Research Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CS101: مقدمة في البرمجة وعلوم الحوسبة (بايثون)",
+          "MATH101: التفاضل والتكامل والجبر الخطي للحاسوب",
+          "CS102: التراكيب المتقطعة والمنطق الحسابي",
+          "مهارات البحث الأكاديمي وأخلاقيات التكنولوجيا"
+        ],
+        "year2": [
+          "CS201: هياكل البيانات وتحليل الخوارزميات المتقدمة",
+          "CS202: هندسة وتصميم البرمجيات الكائنية (Java/C++)",
+          "CS203: بنية ومعمارية الحواسب والنظم",
+          "CS204: قواعد البيانات العلائقية ونظم SQL"
+        ],
+        "year3": [
+          "CS301: نظم التشغيل وبرمجة النواة والذاكرة",
+          "CS302: الذكاء الاصطناعي وتعلم الآلة",
+          "CS303: شبكات الحاسوب والنظم الموزعة",
+          "CS304: اختبار وجودة البرمجيات والأنظمة"
+        ],
+        "year4": [
+          "CS401: الحوسبة السحابية ومعمارية الخدمات المصغرة",
+          "CS402: التعلم العميق والشبكات العصبية",
+          "CS403: الأمن السيبراني وعلم التشفير التطبيقي",
+          "CS499: مشروع التخرج والبحث التطبيقي المعتمد"
+        ]
+      }
+    },
+    {
+      "id": "regina-cs-90003",
+      "universityId": "regina",
+      "name": "Master of Science in Computer Science - Machine Learning & Data Analytics",
+      "nameAr": "ماجستير العلوم في علوم الحاسوب (تعلم الآلة وتحليلات البيانات)",
+      "field": "cs",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 21500,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "master-of-science-in-computer-science-machine-learning-data-analytics",
+      "overview": "Graduate thesis and project options exploring rough sets, predictive analytics, deep neural networks, and privacy-preserving data mining.",
+      "overviewAr": "مسار دراسات عليا بحثي وتطبيقي يبحث في المجموعات التقريبية والتحليلات التنبؤية والشبكات العصبية العميقة واستخراج البيانات المحافظة على الخصوصية.",
+      "requirements": "Bachelor's degree in Computer Science with min GPA 75% and IELTS 6.5.",
+      "requirementsAr": "بكالوريوس علوم الحاسوب بمعدل لا يقل عن 75% وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Senior Data Scientist",
+        "AI Algorithms Engineer",
+        "Predictive Analytics Lead",
+        "Research Faculty Associate"
+      ],
+      "careerOpportunitiesAr": [
+        "عالم بيانات أول",
+        "مهندس خوارزميات الذكاء الاصطناعي",
+        "قائد التحليلات التنبؤية",
+        "باحث أكاديمي مشارك"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21500
+        },
+        {
+          "year": 2,
+          "fee": 21500
+        }
+      ],
+      "totalTuitionFee": 43000,
+      "curriculum": {
+        "year1": [
+          "CS101: Introduction to Programming & Computing (Python)",
+          "MATH101: Calculus & Linear Algebra for CS",
+          "CS102: Discrete Structures and Logic",
+          "Academic Research & Technology Ethics"
+        ],
+        "year2": [
+          "CS201: Data Structures and Algorithmic Analysis",
+          "CS202: Object-Oriented Software Design (Java/C++)",
+          "CS203: Computer Systems and Architecture",
+          "CS204: Relational Databases & SQL Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CS101: مقدمة في البرمجة وعلوم الحوسبة (بايثون)",
+          "MATH101: التفاضل والتكامل والجبر الخطي للحاسوب",
+          "CS102: التراكيب المتقطعة والمنطق الحسابي",
+          "مهارات البحث الأكاديمي وأخلاقيات التكنولوجيا"
+        ],
+        "year2": [
+          "CS201: هياكل البيانات وتحليل الخوارزميات المتقدمة",
+          "CS202: هندسة وتصميم البرمجيات الكائنية (Java/C++)",
+          "CS203: بنية ومعمارية الحواسب والنظم",
+          "CS204: قواعد البيانات العلائقية ونظم SQL"
+        ]
+      }
+    },
+    {
+      "id": "regina-engineering-90004",
+      "universityId": "regina",
+      "name": "Bachelor of Applied Science in Petroleum Systems Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في هندسة نظم البترول والطاقة",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-in-petroleum-systems-engineering",
+      "overview": "One of Canada's leading energy engineering programs, focusing on reservoir simulation, carbon capture, enhanced recovery, and geothermal energy transition.",
+      "overviewAr": "أحد أبرز برامج هندسة الطاقة في كندا، يركز على محاكاة المكامن البترولية واحتجاز الكربون والطاقة الحرارية الأرضية.",
+      "requirements": "High school completion in Sciences (Math, Physics, Chemistry) with IELTS 6.5.",
+      "requirementsAr": "الثانوية العامة بتفوق في الرياضيات والفيزياء والكيمياء مع آيلتس 6.5.",
+      "careerOpportunities": [
+        "Reservoir Engineer",
+        "Production Operations Specialist",
+        "Carbon Sequestration Engineer",
+        "Energy Transition Analyst"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس مكامن نفطية",
+        "أخصائي عمليات الإنتاج",
+        "مهندس احتجاز وتخزين الكربون",
+        "محلل مشاريع تحول الطاقة"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28400
+        },
+        {
+          "year": 2,
+          "fee": 28400
+        },
+        {
+          "year": 3,
+          "fee": 28400
+        },
+        {
+          "year": 4,
+          "fee": 28400
+        }
+      ],
+      "totalTuitionFee": 113600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "regina-engineering-90005",
+      "universityId": "regina",
+      "name": "Bachelor of Applied Science in Electronic Systems Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في هندسة النظم الإلكترونية والاتصالات",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-in-electronic-systems-engineering",
+      "overview": "Covers wireless networking, embedded microcontrollers, IoT hardware design, and renewable energy conversion electronics.",
+      "overviewAr": "يغطي الشبكات اللاسلكية، والمتحكمات الدقيقة المدمجة، وتصميم أجهزة إنترنت الأشياء، وإلكترونيات تحويل الطاقة المتجددة.",
+      "requirements": "High school science with physics and math. IELTS 6.5.",
+      "requirementsAr": "الثانوية العامة العلمية مع الفيزياء والرياضيات وآيلتس 6.5.",
+      "careerOpportunities": [
+        "IoT Hardware Engineer",
+        "Wireless Systems Specialist",
+        "Renewable Power Electronics Lead",
+        "Robotics Control Engineer"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس عتاد إنترنت الأشياء",
+        "أخصائي أنظمة الاتصالات اللاسلكية",
+        "قائد إلكترونيات الطاقة المتجددة",
+        "مهندس تحكم الروبوتات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28400
+        },
+        {
+          "year": 2,
+          "fee": 28400
+        },
+        {
+          "year": 3,
+          "fee": 28400
+        },
+        {
+          "year": 4,
+          "fee": 28400
+        }
+      ],
+      "totalTuitionFee": 113600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "regina-engineering-90006",
+      "universityId": "regina",
+      "name": "Bachelor of Applied Science in Industrial Systems Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في هندسة النظم الصناعية والتصنيع",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-in-industrial-systems-engineering",
+      "overview": "Focuses on smart manufacturing automation, supply chain optimization, ergonomics, lean operations, and safety management.",
+      "overviewAr": "يركز على أتمتة التصنيع الذكي، وتحسين سلاسل الإمداد، وبيئة العمل، والعمليات الرشيقة، وإدارة السلامة الصناعية.",
+      "requirements": "High school sciences with pre-calculus and physics. IELTS 6.5.",
+      "requirementsAr": "الثانوية العامة مع التفوق في الرياضيات والفيزياء وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Manufacturing Systems Director",
+        "Quality & Lean Operations Lead",
+        "Plant Reliability Specialist",
+        "Logistics Optimization Engineer"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير أنظمة التصنيع",
+        "قائد الجودة والعمليات الرشيقة",
+        "أخصائي موثوقية المصانع",
+        "مهندس تحسين اللوجستيات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28400
+        },
+        {
+          "year": 2,
+          "fee": 28400
+        },
+        {
+          "year": 3,
+          "fee": 28400
+        },
+        {
+          "year": 4,
+          "fee": 28400
+        }
+      ],
+      "totalTuitionFee": 113600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "regina-engineering-90007",
+      "universityId": "regina",
+      "name": "Bachelor of Applied Science in Environmental Systems Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في هندسة النظم البيئية والموارد المائية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-in-environmental-systems-engineering",
+      "overview": "Addresses water treatment, contaminated site remediation, municipal solid waste management, and sustainable environmental modeling.",
+      "overviewAr": "يعالج قضايا معالجة المياه، وإعادة تأهيل المواقع الملوثة، وإدارة النفايات البلدية، والنمذجة البيئية المستدامة.",
+      "requirements": "High school science diploma with chemistry and physics. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة العلمية مع الكيمياء والفيزياء وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Water Resource Engineer",
+        "Site Remediation Specialist",
+        "Environmental Impact Assessor",
+        "Municipal Utilities Engineer"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس الموارد المائية",
+        "أخصائي معالجة وتأهيل المواقع",
+        "مقيم الأثر البيئي",
+        "مهندس المرافق البلدية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28400
+        },
+        {
+          "year": 2,
+          "fee": 28400
+        },
+        {
+          "year": 3,
+          "fee": 28400
+        },
+        {
+          "year": 4,
+          "fee": 28400
+        }
+      ],
+      "totalTuitionFee": 113600,
+      "curriculum": {
+        "year1": [
+          "ENG101: Engineering Mechanics & Dynamics",
+          "MATH101: Engineering Calculus & Differential Equations",
+          "PHYS101: Applied Physics for Engineers",
+          "ENG102: Engineering Design & CAD Studio"
+        ],
+        "year2": [
+          "ENG201: Mechanics of Materials & Deformable Bodies",
+          "ENG202: Engineering Thermodynamics",
+          "ENG203: Electric Circuits and Electromagnetics",
+          "MATH201: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ENG301: Fluid Mechanics & Heat Transfer",
+          "ENG302: Control Systems and Automation",
+          "ENG303: Engineering Economics and Project Management",
+          "ENG304: Specialized Technical Discipline Laboratory"
+        ],
+        "year4": [
+          "ENG401: Multidisciplinary Engineering Capstone Design I",
+          "ENG402: Multidisciplinary Engineering Capstone Design II",
+          "ENG403: Professional Practice and Engineering Law",
+          "ENG404: Advanced Sustainable Energy & Industry Systems"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ENG101: الميكانيكا الهندسية والديناميكا التطبيقية",
+          "MATH101: التفاضل والتكامل والمعادلات التفاضلية الهندسية",
+          "PHYS101: الفيزياء التطبيقية للمهندسين",
+          "ENG102: التصميم الهندسي واستوديو CAD"
+        ],
+        "year2": [
+          "ENG201: ميكانيكا المواد ومقاومة الأجسام الصلبة",
+          "ENG202: الديناميكا الحرارية الهندسية وتطبيقات الطاقة",
+          "ENG203: الدوائر الكهربائية والموجات الكهرومغناطيسية",
+          "MATH201: الرياضيات الهندسية التطبيقية المتقدمة"
+        ],
+        "year3": [
+          "ENG301: ميكانيكا الموائع وانتقال الحرارة",
+          "ENG302: أنظمة التحكم الآلي والأتمتة الهندسية",
+          "ENG303: الاقتصاد الهندسي وإدارة المشاريع",
+          "ENG304: المختبر التخصصي المتقدم والتطبيقات المعملية"
+        ],
+        "year4": [
+          "ENG401: مشروع التخرج الهندسي المتكامل (الجزء الأول)",
+          "ENG402: مشروع التخرج الهندسي المتكامل (الجزء الثاني)",
+          "ENG403: الممارسة المهنية وقوانين وأخلاقيات الهندسة",
+          "ENG404: الطاقة المستدامة ونظم التصنيع المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "regina-business-90008",
+      "universityId": "regina",
+      "name": "Bachelor of Business Administration (BBA - Accounting) - Paul J. Hill",
+      "nameAr": "بكالوريوس إدارة الأعمال (المحاسبة والتدقيق المالي) - كلية بول ج. هيل",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23600,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "bachelor-of-business-administration-bba-accounting-paul-j-hill",
+      "overview": "Paul J. Hill School of Business offers nationally recognized training with direct pathways to the CPA (Chartered Professional Accountant) designation.",
+      "overviewAr": "تقدم كلية بول ج. هيل للأعمال برنامجاً معترفاً به وطنياً يؤهل مباشرة للحصول على شهادة المحاسب القانوني المعتمد (CPA).",
+      "requirements": "High school diploma with Mathematics (Pre-Calculus or Foundations). IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية مع دراسة مادة الرياضيات واجتياز الآيلتس بمعدل 6.5.",
+      "careerOpportunities": [
+        "Certified Public Accountant (CPA)",
+        "Senior Tax Auditor",
+        "Corporate Controller Associate",
+        "Forensic Accounting Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "محاسب قانوني معتمد (CPA)",
+        "مدقق ضرائب أول",
+        "مساعد المراقب المالي للشركات",
+        "أخصائي المحاسبة الجنائية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23600
+        },
+        {
+          "year": 2,
+          "fee": 23600
+        },
+        {
+          "year": 3,
+          "fee": 23600
+        },
+        {
+          "year": 4,
+          "fee": 23600
+        }
+      ],
+      "totalTuitionFee": 94400,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ],
+        "year4": [
+          "BUS401: Applied Strategic Management Simulation (Capstone)",
+          "BUS402: Corporate Governance and Business Ethics",
+          "BUS403: Entrepreneurship & Venture Financing",
+          "BUS404: Global Consulting Fieldwork Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ],
+        "year4": [
+          "BUS401: محاكاة الإدارة الاستراتيجية التطبيقية (مشروع التخرج)",
+          "BUS402: حوكمة الشركات وأخلاقيات الأعمال والمسؤولية المجتمعية",
+          "BUS403: ريادة الأعمال وتمويل المشاريع الناشئة",
+          "BUS404: مشروع الاستشارات الميداني التطبيقي للشركات"
+        ]
+      }
+    },
+    {
+      "id": "regina-business-90009",
+      "universityId": "regina",
+      "name": "Bachelor of Business Administration (BBA - Finance) - Paul J. Hill",
+      "nameAr": "بكالوريوس إدارة الأعمال (التمويل والاستثمار) - كلية بول ج. هيل",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23600,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "bachelor-of-business-administration-bba-finance-paul-j-hill",
+      "overview": "Focuses on equity valuation, commercial banking, portfolio construction, corporate capital structure, and preparing for the CFA exams.",
+      "overviewAr": "يركز على تقييم الأسهم، والأعمال المصرفية التجارية، وبناء المحافظ الاستثمارية، وهيكل رأس مال الشركات، والتحضير لاختبارات CFA.",
+      "requirements": "High school diploma with Mathematics. IELTS 6.5.",
+      "requirementsAr": "الثانوية العامة مع دراسة مادة الرياضيات وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Commercial Banking Officer",
+        "Investment Research Analyst",
+        "Corporate Treasury Analyst",
+        "Financial Planner"
+      ],
+      "careerOpportunitiesAr": [
+        "مسؤول الخدمات المصرفية التجارية",
+        "محلل أبحاث الاستثمار",
+        "محلل الخزينة المؤسسية",
+        "مخطط مالي معتمد"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23600
+        },
+        {
+          "year": 2,
+          "fee": 23600
+        },
+        {
+          "year": 3,
+          "fee": 23600
+        },
+        {
+          "year": 4,
+          "fee": 23600
+        }
+      ],
+      "totalTuitionFee": 94400,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ],
+        "year4": [
+          "BUS401: Applied Strategic Management Simulation (Capstone)",
+          "BUS402: Corporate Governance and Business Ethics",
+          "BUS403: Entrepreneurship & Venture Financing",
+          "BUS404: Global Consulting Fieldwork Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ],
+        "year4": [
+          "BUS401: محاكاة الإدارة الاستراتيجية التطبيقية (مشروع التخرج)",
+          "BUS402: حوكمة الشركات وأخلاقيات الأعمال والمسؤولية المجتمعية",
+          "BUS403: ريادة الأعمال وتمويل المشاريع الناشئة",
+          "BUS404: مشروع الاستشارات الميداني التطبيقي للشركات"
+        ]
+      }
+    },
+    {
+      "id": "regina-business-90010",
+      "universityId": "regina",
+      "name": "Bachelor of Business Administration (BBA - Marketing) - Paul J. Hill",
+      "nameAr": "بكالوريوس إدارة الأعمال (التسويق وتطوير الأعمال) - كلية بول ج. هيل",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23600,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "bachelor-of-business-administration-bba-marketing-paul-j-hill",
+      "overview": "Prepares graduates to drive revenue through consumer behavior analysis, digital analytics, brand positioning, and market research.",
+      "overviewAr": "يؤهل الخريجين لتعزيز نمو الأعمال من خلال تحليل سلوك المستهلك، والتحليلات الرقمية، وبناء العلامات التجارية، وبحوث السوق.",
+      "requirements": "High school graduation with Mathematics and English. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة مع الرياضيات واللغة الإنجليزية وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Digital Marketing Manager",
+        "Brand Operations Lead",
+        "Market Research Specialist",
+        "Sales Operations Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير التسويق الرقمي",
+        "قائد عمليات العلامات التجارية",
+        "أخصائي أبحاث الأسواق",
+        "مدير عمليات المبيعات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23600
+        },
+        {
+          "year": 2,
+          "fee": 23600
+        },
+        {
+          "year": 3,
+          "fee": 23600
+        },
+        {
+          "year": 4,
+          "fee": 23600
+        }
+      ],
+      "totalTuitionFee": 94400,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ],
+        "year3": [
+          "BUS301: Strategic Management & Competitive Advantage",
+          "BUS302: Business Analytics & Big Data Decision Making",
+          "BUS303: Supply Chain and Operations Management",
+          "BUS304: International Trade and Global Expansion"
+        ],
+        "year4": [
+          "BUS401: Applied Strategic Management Simulation (Capstone)",
+          "BUS402: Corporate Governance and Business Ethics",
+          "BUS403: Entrepreneurship & Venture Financing",
+          "BUS404: Global Consulting Fieldwork Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ],
+        "year3": [
+          "BUS301: الإدارة الاستراتيجية والميزة التنافسية للشركات",
+          "BUS302: تحليلات الأعمال وصنع القرار المعتمد على البيانات",
+          "BUS303: إدارة سلاسل الإمداد والعمليات اللوجستية",
+          "BUS304: التجارة الدولية واستراتيجيات التوسع العالمي"
+        ],
+        "year4": [
+          "BUS401: محاكاة الإدارة الاستراتيجية التطبيقية (مشروع التخرج)",
+          "BUS402: حوكمة الشركات وأخلاقيات الأعمال والمسؤولية المجتمعية",
+          "BUS403: ريادة الأعمال وتمويل المشاريع الناشئة",
+          "BUS404: مشروع الاستشارات الميداني التطبيقي للشركات"
+        ]
+      }
+    },
+    {
+      "id": "regina-business-90011",
+      "universityId": "regina",
+      "name": "Master of Business Administration (MBA - Levene Graduate School)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA - مدرسة ليفين للدراسات العليا)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 29800,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "master-of-business-administration-mba-levene-graduate-school",
+      "overview": "Designed for emerging leaders, featuring international study tours, experiential executive consulting projects, and strategic innovation tracks.",
+      "overviewAr": "مصمم للقادة الصاعدين، ويتضمن رحلات دراسية دولية ومشاريع استشارية تنفيذية تطبيقية ومسارات في الابتكار الاستراتيجي.",
+      "requirements": "Undergraduate degree (GPA 70%+), GMAT or equivalent work experience, and IELTS 6.5.",
+      "requirementsAr": "شهادة البكالوريوس بتقدير جيد جداً مع سنتين خبرة مهنية وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Executive Strategy Consultant",
+        "Operations General Manager",
+        "Corporate Transformation Director",
+        "Business Development Head"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار استراتيجية تنفيذية",
+        "مدير عام العمليات",
+        "مدير التحول المؤسسي",
+        "رئيس قطاع تطوير الأعمال"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29800
+        },
+        {
+          "year": 2,
+          "fee": 29800
+        }
+      ],
+      "totalTuitionFee": 59600,
+      "curriculum": {
+        "year1": [
+          "BUS101: Foundations of Business & Global Markets",
+          "ECON101: Principles of Microeconomics",
+          "ACCT101: Financial Accounting Principles",
+          "MATH101: Business Mathematics & Quantitative Methods"
+        ],
+        "year2": [
+          "BUS201: Corporate Finance & Investment Valuation",
+          "MKTG201: Marketing Management & Consumer Behavior",
+          "MGMT201: Organizational Behavior & Leadership",
+          "ECON201: Macroeconomics and Monetary Policy"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "BUS101: أسس إدارة الأعمال والأسواق العالمية",
+          "ECON101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ACCT101: مبادئ المحاسبة المالية وإعداد القوائم",
+          "MATH101: رياضيات وإحصاء الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "BUS201: تمويل الشركات وتقييم الاستثمارات المالية",
+          "MKTG201: إدارة التسويق وسلوك المستهلك المعاصر",
+          "MGMT201: السلوك التنظيمي والقيادة الإدارية",
+          "ECON201: الاقتصاد الكلي والسياسات النقدية والمالية"
+        ]
+      }
+    },
+    {
+      "id": "regina-arts-90012",
+      "universityId": "regina",
+      "name": "Master of Public Administration (MPA - Johnson Shoyama Graduate School)",
+      "nameAr": "ماجستير الإدارة العامة والسياسات الحكومية (MPA)",
+      "field": "arts",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 21800,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "master-of-public-administration-mpa-johnson-shoyama-graduate-school",
+      "overview": "Joint school of public policy ranked among Canada's finest, training policy makers for provincial, federal, and international civil service.",
+      "overviewAr": "برنامج رائد في السياسات العامة يؤهل صناع القرار للخدمة المدنية الحكومية والمؤسسات الدولية.",
+      "requirements": "Four-year Bachelor's degree (min GPA 70%) and IELTS 7.0.",
+      "requirementsAr": "درجة البكالوريوس بتقدير جيد وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Senior Policy Analyst",
+        "Government Relations Director",
+        "Public Sector Strategist",
+        "International NGO Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "محلل سياسات عامة أول",
+        "مدير العلاقات الحكومية",
+        "استراتيجي القطاع العام",
+        "مدير المنظمات الدولية غير الحكومية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21800
+        },
+        {
+          "year": 2,
+          "fee": 21800
+        }
+      ],
+      "totalTuitionFee": 43600,
+      "curriculum": {
+        "year1": [
+          "ARTS101: Critical Thinking, Logic and Academic Discourse",
+          "ARTS102: Introduction to Social Sciences & Society",
+          "ARTS103: World History, Cultures and Globalization",
+          "ARTS104: Research Methods and Analytical Writing"
+        ],
+        "year2": [
+          "ARTS201: Classical and Contemporary Social Theory",
+          "ARTS202: Qualitative and Quantitative Research Methodologies",
+          "ARTS203: Political Systems, Governance and Institutions",
+          "ARTS204: Culture, Media and Digital Communication"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ARTS101: التفكير النقدي والمنطق والخطاب الأكاديمي",
+          "ARTS102: مدخل إلى العلوم الاجتماعية ودراسات المجتمع",
+          "ARTS103: التاريخ العالمي والثقافات وقضايا العولمة",
+          "ARTS104: مناهج البحث العلمي والكتابة التحليلية الأكاديمية"
+        ],
+        "year2": [
+          "ARTS201: النظريات الاجتماعية الكلاسيكية والمعاصرة",
+          "ARTS202: مناهج البحث النوعي والكمي وتحليل البيانات",
+          "ARTS203: النظم السياسية والحوكمة والمؤسسات العامة",
+          "ARTS204: الثقافة والإعلام والاتصال الرقمي الجماهيري"
+        ]
+      }
+    },
+    {
+      "id": "regina-health-90013",
+      "universityId": "regina",
+      "name": "Bachelor of Science in Nursing (SCBScN - Saskatchewan Collaborative)",
+      "nameAr": "بكالوريوس العلوم في التمريض التعاوني (SCBScN)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 26200,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-science-in-nursing-scbscn-saskatchewan-collaborative",
+      "overview": "Collaborative program offering cutting-edge patient simulation laboratories and extensive clinical placements in tertiary hospitals.",
+      "overviewAr": "برنامج تعاوني يوفر أحدث مختبرات المحاكاة الطبية وتدريباً سريرياً مكثفاً في المستشفيات التخصصية.",
+      "requirements": "High school completion with Grade 12 Biology, Chemistry, and Math. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية مع الأحياء والكيمياء والرياضيات وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Registered Hospital Nurse",
+        "Critical Care Specialist",
+        "Pediatric Care Nurse",
+        "Community Healthcare Coordinator"
+      ],
+      "careerOpportunitiesAr": [
+        "ممرض قانوني معتمد بالمستشفيات",
+        "أخصائي العناية المركزة",
+        "ممرض رعاية الأطفال",
+        "منسق الرعاية الصحية المجتمعية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26200
+        },
+        {
+          "year": 2,
+          "fee": 26200
+        },
+        {
+          "year": 3,
+          "fee": 26200
+        },
+        {
+          "year": 4,
+          "fee": 26200
+        }
+      ],
+      "totalTuitionFee": 104800,
+      "curriculum": {
+        "year1": [
+          "HLTH101: Human Anatomy and Physiology I",
+          "CHEM101: General and Biological Chemistry",
+          "HLTH102: Introduction to Health Sciences & Ethics",
+          "BIOL101: Cellular and Molecular Biology"
+        ],
+        "year2": [
+          "HLTH201: Pathophysiology and Mechanisms of Disease",
+          "HLTH202: Pharmacology and Drug Actions",
+          "HLTH203: Clinical Microbiology and Immunology",
+          "HLTH204: Epidemiology and Public Health Methods"
+        ],
+        "year3": [
+          "HLTH301: Clinical Assessment & Patient Care Principles",
+          "HLTH302: Health Systems and Healthcare Policy",
+          "HLTH303: Evidence-Based Clinical Practice & Research",
+          "HLTH304: Clinical Practicum Hospital Placement I"
+        ],
+        "year4": [
+          "HLTH401: Advanced Clinical Management & Diagnostics",
+          "HLTH402: Interprofessional Health Collaboration",
+          "HLTH403: Health Informatics and Digital Healthcare",
+          "HLTH499: Senior Clinical Synthesis & Hospital Residency"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "HLTH101: التشريح وعلم وظائف الأعضاء البشرية I",
+          "CHEM101: الكيمياء العامة والحيوية التطبيقية",
+          "HLTH102: مدخل إلى العلوم الصحية وأخلاقيات الرعاية",
+          "BIOL101: البيولوجيا الخلوية والجزيئية"
+        ],
+        "year2": [
+          "HLTH201: علم الأمراض والآليات البيولوجية للمرض",
+          "HLTH202: علم الأدوية وميكانيكية عمل العلاجات",
+          "HLTH203: الأحياء الدقيقة والمناعة السريرية",
+          "HLTH204: علم الوبائيات ومناهج الصحة العامة"
+        ],
+        "year3": [
+          "HLTH301: التقييم السريري وأسس رعاية المرضى",
+          "HLTH302: الأنظمة الصحية والسياسات الطبية الدولية",
+          "HLTH303: الممارسة السريرية المبنية على الدليل العلمي",
+          "HLTH304: التدريب الميداني السريري بالمستشفيات I"
+        ],
+        "year4": [
+          "HLTH401: الإدارة السريرية المتقدمة والتشخيص الطبي",
+          "HLTH402: التعاون التكاملي بين التخصصات الطبية والصحية",
+          "HLTH403: المعلوماتية الصحية وتكنولوجيا الرعاية الرقمية",
+          "HLTH499: مشروع التخرج السريري وفترة الإقامة الطبية"
+        ]
+      }
+    },
+    {
+      "id": "regina-health-90014",
+      "universityId": "regina",
+      "name": "Bachelor of Kinesiology and Health Studies",
+      "nameAr": "بكالوريوس علوم الحركة والتأهيل البدني والصحي",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23200,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "bachelor-of-kinesiology-and-health-studies",
+      "overview": "Specialized curriculum focusing on biomechanics, exercise physiology, human motor control, and clinical rehabilitation protocols.",
+      "overviewAr": "منهج تخصصي يركز على الميكانيكا الحيوية، وعلم وظائف الأعضاء الرياضي، والتحكم الحركي، وبروتوكولات التأهيل البدني السريري.",
+      "requirements": "High school diploma with Grade 12 Math and Sciences. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة مع الرياضيات والعلوم وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Clinical Kinesiologist",
+        "Sports Performance Specialist",
+        "Rehabilitation Director",
+        "Ergonomics Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "أخصائي حركي سريري",
+        "أخصائي الأداء الرياضي",
+        "مدير مراكز التأهيل البدني",
+        "مستشار بيئة العمل والسلامة الحركية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23200
+        },
+        {
+          "year": 2,
+          "fee": 23200
+        },
+        {
+          "year": 3,
+          "fee": 23200
+        },
+        {
+          "year": 4,
+          "fee": 23200
+        }
+      ],
+      "totalTuitionFee": 92800,
+      "curriculum": {
+        "year1": [
+          "HLTH101: Human Anatomy and Physiology I",
+          "CHEM101: General and Biological Chemistry",
+          "HLTH102: Introduction to Health Sciences & Ethics",
+          "BIOL101: Cellular and Molecular Biology"
+        ],
+        "year2": [
+          "HLTH201: Pathophysiology and Mechanisms of Disease",
+          "HLTH202: Pharmacology and Drug Actions",
+          "HLTH203: Clinical Microbiology and Immunology",
+          "HLTH204: Epidemiology and Public Health Methods"
+        ],
+        "year3": [
+          "HLTH301: Clinical Assessment & Patient Care Principles",
+          "HLTH302: Health Systems and Healthcare Policy",
+          "HLTH303: Evidence-Based Clinical Practice & Research",
+          "HLTH304: Clinical Practicum Hospital Placement I"
+        ],
+        "year4": [
+          "HLTH401: Advanced Clinical Management & Diagnostics",
+          "HLTH402: Interprofessional Health Collaboration",
+          "HLTH403: Health Informatics and Digital Healthcare",
+          "HLTH499: Senior Clinical Synthesis & Hospital Residency"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "HLTH101: التشريح وعلم وظائف الأعضاء البشرية I",
+          "CHEM101: الكيمياء العامة والحيوية التطبيقية",
+          "HLTH102: مدخل إلى العلوم الصحية وأخلاقيات الرعاية",
+          "BIOL101: البيولوجيا الخلوية والجزيئية"
+        ],
+        "year2": [
+          "HLTH201: علم الأمراض والآليات البيولوجية للمرض",
+          "HLTH202: علم الأدوية وميكانيكية عمل العلاجات",
+          "HLTH203: الأحياء الدقيقة والمناعة السريرية",
+          "HLTH204: علم الوبائيات ومناهج الصحة العامة"
+        ],
+        "year3": [
+          "HLTH301: التقييم السريري وأسس رعاية المرضى",
+          "HLTH302: الأنظمة الصحية والسياسات الطبية الدولية",
+          "HLTH303: الممارسة السريرية المبنية على الدليل العلمي",
+          "HLTH304: التدريب الميداني السريري بالمستشفيات I"
+        ],
+        "year4": [
+          "HLTH401: الإدارة السريرية المتقدمة والتشخيص الطبي",
+          "HLTH402: التعاون التكاملي بين التخصصات الطبية والصحية",
+          "HLTH403: المعلوماتية الصحية وتكنولوجيا الرعاية الرقمية",
+          "HLTH499: مشروع التخرج السريري وفترة الإقامة الطبية"
+        ]
+      }
+    }
+  ],
+  "programsCount": 161,
+  "totalProgramsCount": 161
+}

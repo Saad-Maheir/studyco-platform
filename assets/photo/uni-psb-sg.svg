@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" width="500" height="150">
+      <defs>
+        <linearGradient id="grad_PSB" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#E31B23"/>
+          <stop offset="100%" stop-color="#990000"/>
+        </linearGradient>
+      </defs>
+      <rect x="20" y="25" width="100" height="100" rx="16" fill="url(#grad_PSB)"/>
+      <text x="70" y="88" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="900" text-anchor="middle" letter-spacing="1">PSB</text>
+      <text x="145" y="68" fill="#0f172a" font-family="'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800">PSB Academy</text>
+      <text x="145" y="102" fill="#64748b" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="0.5">Future Academy Singapore</text>
+    </svg>

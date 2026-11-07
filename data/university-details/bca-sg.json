@@ -1,0 +1,1890 @@
+{
+  "id": "bca-sg",
+  "name": "BCA Academy Singapore",
+  "arabicName": "أكاديمية بي سي إيه للتشييد والبناء (BCA Academy)",
+  "city": "Braddell Road, Singapore",
+  "cityEn": "Braddell Road, Singapore",
+  "cityAr": "سنغافورة (برادل)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.bcaa.edu.sg/",
+  "ranking": "National Building & Construction Authority Education Specialist Institution",
+  "established": "1984",
+  "campusName": "Braddell Campus",
+  "studentCount": "3,000+ (25+ Countries)",
+  "intakes": "Apr, Oct",
+  "feeRangeMin": 15000,
+  "feeRangeMax": 28500,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/o8qWWianpWc",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/o8qWWianpWc",
+  "directWatchUrl": "https://www.youtube.com/watch?v=o8qWWianpWc",
+  "photos": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-bca-sg.jpg",
+  "image": "assets/photo/campus_bca-sg.jpg",
+  "description": "The education and research arm of Singapore's Building and Construction Authority (BCA), specializing in green building, structural BIM, and smart construction management.",
+  "descriptionAr": "الذراع الأكاديمي والبحثي لهيئة البناء والتشييد الحكومية في سنغافورة (BCA)، والمتخصصة في المباني الخضراء المستدامة ونظم نمذجة البناء BIM.",
+  "about": {
+    "ar": "تعد أكاديمية بي سي إيه للتشييد والبناء (BCA Academy) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "BCA Academy Singapore is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "BCA Academy Singapore adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "National Building & Construction Authority Education Specialist Institution - World-Renowned Excellence",
+        "ar": "National Building & Construction Authority Education Specialist Institution - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "BCA Academy Singapore Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ أكاديمية بي سي إيه للتشييد والبناء (BCA Academy)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_diploma",
+      "levelName": "Diploma",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 12,000 - SGD 18,000"
+    },
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "2 - 3 Years",
+      "avgFee": "SGD 22,000 - SGD 36,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 1.5 Years",
+      "avgFee": "SGD 26,000 - SGD 42,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "bca-sg-arch-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Architecture (Sustainable Green Building Design)",
+      "nameAr": "دبلوم أكاديمية البناء السنغافورية في العمارة وتصميم المباني الخضراء المستدامة",
+      "field": "architecture",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Architecture (Sustainable Green Building Design) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء السنغافورية في العمارة وتصميم المباني الخضراء المستدامة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-const-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Construction Engineering & Structural Technology",
+      "nameAr": "دبلوم أكاديمية البناء السنغافورية في هندسة وتكنولوجيا التشييد والإنشاءات",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Construction Engineering & Structural Technology provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء السنغافورية في هندسة وتكنولوجيا التشييد والإنشاءات إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-bim-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Digital Engineering (BIM & Virtual Design Construction)",
+      "nameAr": "دبلوم أكاديمية البناء في الهندسة الرقمية ونمذجة معلومات البناء BIM",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Digital Engineering (BIM & Virtual Design Construction) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في الهندسة الرقمية ونمذجة معلومات البناء BIM إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-mech-green-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Mechanical Engineering (Green Building Technology)",
+      "nameAr": "دبلوم أكاديمية البناء في الهندسة الميكانيكية وتكنولوجيا المباني الذكية",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Mechanical Engineering (Green Building Technology) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في الهندسة الميكانيكية وتكنولوجيا المباني الذكية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-cleaneng-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Electrical Engineering & Clean Energy Systems",
+      "nameAr": "دبلوم أكاديمية البناء في الهندسة الكهربائية وأنظمة الطاقة النظيفة",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Electrical Engineering & Clean Energy Systems provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في الهندسة الكهربائية وأنظمة الطاقة النظيفة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-facmgmt-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Smart Facilities Management",
+      "nameAr": "دبلوم أكاديمية البناء السنغافورية في إدارة المرافق الذكية والمستدامة",
+      "field": "business",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Smart Facilities Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء السنغافورية في إدارة المرافق الذكية والمستدامة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        },
+        {
+          "year": 3,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-bpm-bbpm",
+      "universityId": "bca-sg",
+      "name": "Bachelor of Building & Project Management (Honours) (with UniSA)",
+      "nameAr": "بكالوريوس إدارة وتشييد المشاريع الإنشائية (مرتبة الشرف بالتعاون مع UniSA)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Building & Project Management (Honours) (with UniSA) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس إدارة وتشييد المشاريع الإنشائية (مرتبة الشرف بالتعاون مع UniSA) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25000
+        },
+        {
+          "year": 2,
+          "fee": 25000
+        },
+        {
+          "year": 3,
+          "fee": 25000
+        }
+      ],
+      "totalTuitionFee": 75000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-greenbldg-msc",
+      "universityId": "bca-sg",
+      "name": "Master of Science in Sustainable Building Technology & Smart Cities",
+      "nameAr": "ماجستير العلوم في تكنولوجيا المباني المستدامة والمدن الذكية",
+      "field": "architecture",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Sustainable Building Technology & Smart Cities provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في تكنولوجيا المباني المستدامة والمدن الذكية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 56000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-civ-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Civil & Structural Engineering Technology",
+      "nameAr": "دبلوم أكاديمية البناء في تكنولوجيا الهندسة المدنية والإنشائية",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Civil & Structural Engineering Technology provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في تكنولوجيا الهندسة المدنية والإنشائية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-qs-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Quantity Surveying & Construction Cost Management",
+      "nameAr": "دبلوم أكاديمية البناء في حساب الكميات وإدارة تكاليف التشييد",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Quantity Surveying & Construction Cost Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في حساب الكميات وإدارة تكاليف التشييد إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-hvac-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Mechanical Engineering (Air-Conditioning & Energy Systems)",
+      "nameAr": "دبلوم أكاديمية البناء في أنظمة التكييف والتهوية وإدارة كفاءة الطاقة",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Mechanical Engineering (Air-Conditioning & Energy Systems) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في أنظمة التكييف والتهوية وإدارة كفاءة الطاقة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-inter-arch-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Interior Architecture & Spatial Design",
+      "nameAr": "دبلوم أكاديمية البناء في العمارة الداخلية وتصميم الفراغات المستدامة",
+      "field": "architecture",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Interior Architecture & Spatial Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في العمارة الداخلية وتصميم الفراغات المستدامة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-cm-bcm",
+      "universityId": "bca-sg",
+      "name": "Bachelor of Construction Management (Building) (Honours) (with UniSA)",
+      "nameAr": "بكالوريوس إدارة وتشييد المباني (مرتبة الشرف بالتعاون مع UniSA)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 25500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Construction Management (Building) (Honours) (with UniSA) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس إدارة وتشييد المباني (مرتبة الشرف بالتعاون مع UniSA) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25500
+        },
+        {
+          "year": 2,
+          "fee": 25500
+        },
+        {
+          "year": 3,
+          "fee": 25500
+        },
+        {
+          "year": 4,
+          "fee": 25500
+        }
+      ],
+      "totalTuitionFee": 102000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-green-msc",
+      "universityId": "bca-sg",
+      "name": "Master of Science in BIM and Smart Construction Technologies",
+      "nameAr": "ماجستير العلوم في نمذجة معلومات البناء BIM وتكنولوجيا البناء الذكي",
+      "field": "engineering",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 28500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in BIM and Smart Construction Technologies provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في نمذجة معلومات البناء BIM وتكنولوجيا البناء الذكي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28500
+        },
+        {
+          "year": 2,
+          "fee": 28500
+        }
+      ],
+      "totalTuitionFee": 57000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-sus-fac-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Sustainable Facility Management",
+      "nameAr": "دبلوم أكاديمية البناء في الإدارة المستدامة للمرافق والأبنية الخضراء",
+      "field": "business",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Sustainable Facility Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في الإدارة المستدامة للمرافق والأبنية الخضراء إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        },
+        {
+          "year": 3,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "bca-sg-green-urb-dip",
+      "universityId": "bca-sg",
+      "name": "Diploma in Architecture (Green Urban Infrastructure)",
+      "nameAr": "دبلوم أكاديمية البناء في العمارة وتصميم البنية التحتية الحضرية الخضراء",
+      "field": "architecture",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 15500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "April, October",
+      "intakesAr": "أبريل، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Architecture (Green Urban Infrastructure) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم أكاديمية البناء في العمارة وتصميم البنية التحتية الحضرية الخضراء إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15500
+        },
+        {
+          "year": 2,
+          "fee": 15500
+        },
+        {
+          "year": 3,
+          "fee": 15500
+        }
+      ],
+      "totalTuitionFee": 46500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 16,
+  "totalProgramsCount": 16,
+  "campusNameAr": "حرم برادل لعلوم البناء والتشييد",
+  "campusImage": "assets/photo/campus_bca-sg.jpg",
+  "nameAr": "أكاديمية بي سي إيه للتشييد والبناء (BCA Academy)"
+}

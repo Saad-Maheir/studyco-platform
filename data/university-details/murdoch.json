@@ -1,0 +1,2376 @@
+{
+  "id": "murdoch",
+  "name": "Murdoch University",
+  "arabicName": "جامعة ميردوخ (Murdoch University)",
+  "city": "Perth, WA",
+  "country": "australia",
+  "logo": "assets/photo/uni-murdoch.jpg",
+  "image": "assets/photo/campus_murdoch.jpg",
+  "website": "https://www.murdoch.edu.au/",
+  "ranking": "Rank 436 QS World University Rankings 2025/2026 | Top 100 Worldwide for Veterinary Science",
+  "established": "1973",
+  "campusName": "South Street Main Campus (Perth), Mandurah, Rockingham",
+  "studentCount": "30,000+ (100+ Countries)",
+  "intakes": "Feb, Jul",
+  "feeRangeMin": 17299,
+  "feeRangeMax": 30974,
+  "currency": "AUD",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/AM61zHUL5Dg",
+  "description": "Murdoch University is a pioneering research university in Perth, famous for its on-campus veterinary hospital, agricultural biotechnology, and renewable energy research.",
+  "descriptionAr": "تعد جامعة مردوخ في بيرث صرحاً بحثياً متقدماً يشتهر بمستشفاه البيطري الجامعي والتقنيات الحيوية الزراعية وأبحاث الطاقة المتجددة وحرمها الطبيعي الشاسع.",
+  "about": {
+    "ar": "تأسست جامعة ميردوخ (Murdoch University) عام 1973، وتعد إحدى الجامعات الأسترالية الرائدة المعترف بها دولياً. تحتل مكانة بارزة عالمياً في تصنيف الجامعات (Rank 431 QS World University Rankings 2025). تقدم الجامعة تعليماً تطبيقياً وبحثياً متميزاً بالتعاون مع كبرى المؤسسات الصناعية العالمية، وتوفر للطلاب الدوليين بيئة جامعية متعددة الثقافات ومرافق حديثة وفرصاً مهنية واعدة عقب التخرج.",
+    "en": "Murdoch University, established in 1973, is one of Australia's premier recognized universities, holding a prominent global position (Rank 431 QS World University Rankings 2025). The university delivers world-class academic education and cutting-edge research in close collaboration with leading global industries, offering international students a dynamic multicultural campus and exceptional graduate career prospects.",
+    "id": "Murdoch University didirikan pada tahun 1973 dan merupakan salah satu universitas terkemuka di Australia yang diakui secara global (Rank 431 QS World University Rankings 2025). Universitas ini menawarkan pendidikan berstandar dunia dan fasilitas penelitian mutakhir yang mempersiapkan lulusan untuk pasar kerja internasional.",
+    "zh": "Murdoch University创立于1973年，是澳大利亚极富盛名的公立综合性大学之一（Rank 431 QS World University Rankings 2025）。大学以务实卓越的科研创新与优质教学享誉全球，为国际留学生提供现代化的校园设施与广阔的全球就业发展机遇。",
+    "ru": "Murdoch University, основанный в 1973 году, является одним из ведущих университетов Австралии (Rank 431 QS World University Rankings 2025), предлагающим передовое образование и исследования мирового уровня.",
+    "fr": "Murdoch University, fondée en 1973, est l'une des universités les plus renommées d'Australie (Rank 431 QS World University Rankings 2025), offrant un enseignement de niveau mondial et des infrastructures de recherche innovantes.",
+    "es": "Murdoch University, fundada en 1973, es una de las principales universidades de Australia (Rank 431 QS World University Rankings 2025), reconocida por su excelencia académica y de investigación.",
+    "ja": "Murdoch Universityは1973年に設立されたオーストラリア有数の総合大学であり（Rank 431 QS World University Rankings 2025）、世界水準の教育と最先端の研究設備で留学生を迎えています。",
+    "ko": "Murdoch University는 1973년에 설립된 호주의 대표적인 종합 대학교로(Rank 431 QS World University Rankings 2025), 세계적인 수준의 학문과 첨단 연구 환경을 제공합니다."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Murdoch University Central Research Library and Digital Learning Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي",
+        "id": "Murdoch University Central Research Library and Digital Learning Commons",
+        "zh": "Murdoch University Central Research Library and Digital Learning Commons",
+        "ru": "Murdoch University Central Research Library and Digital Learning Commons",
+        "fr": "Murdoch University Central Research Library and Digital Learning Commons",
+        "es": "Murdoch University Central Research Library and Digital Learning Commons",
+        "ja": "Murdoch University Central Research Library and Digital Learning Commons",
+        "ko": "Murdoch University Central Research Library and Digital Learning Commons"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ar": "مختبرات العلوم والهندسة المتقدمة ومركز ابتكارات الروبوتات",
+        "id": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "zh": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ru": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "fr": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "es": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ja": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ko": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Business Innovation Incubator and Financial Analytics Suite",
+        "ar": "حاضنة ريادة الأعمال وقاعات التحليل المالي والمحاكاة الذكية",
+        "id": "Business Innovation Incubator and Financial Analytics Suite",
+        "zh": "Business Innovation Incubator and Financial Analytics Suite",
+        "ru": "Business Innovation Incubator and Financial Analytics Suite",
+        "fr": "Business Innovation Incubator and Financial Analytics Suite",
+        "es": "Business Innovation Incubator and Financial Analytics Suite",
+        "ja": "Business Innovation Incubator and Financial Analytics Suite",
+        "ko": "Business Innovation Incubator and Financial Analytics Suite"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ar": "المجمع الرياضي الأولمبي المتعدد، صالات اللياقة والمسبح المغطى",
+        "id": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "zh": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ru": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "fr": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "es": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ja": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ko": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution",
+        "ar": "Rank 431 QS World University Rankings 2025 - صرح أكاديمي أسترالي معتمد ومصنف عالمياً",
+        "id": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution",
+        "zh": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution",
+        "ru": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution",
+        "fr": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution",
+        "es": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution",
+        "ja": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution",
+        "ko": "Rank 431 QS World University Rankings 2025 - Globally Recognized Australian Institution"
+      },
+      "desc": {
+        "en": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ar": "برامج أكاديمية وبحثية معتمدة دولياً تؤهل الخريجين للريادة والتميز في سوق العمل العالمي.",
+        "id": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "zh": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ru": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "fr": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "es": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ja": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ko": "Globally accredited degree programmes delivering state-of-the-art education and world-class research."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Outstanding Graduate Employability & Global Industry Ties",
+        "ar": "معدلات توظيف استثنائية وشراكات صناعية واسعة",
+        "id": "Outstanding Graduate Employability & Global Industry Ties",
+        "zh": "Outstanding Graduate Employability & Global Industry Ties",
+        "ru": "Outstanding Graduate Employability & Global Industry Ties",
+        "fr": "Outstanding Graduate Employability & Global Industry Ties",
+        "es": "Outstanding Graduate Employability & Global Industry Ties",
+        "ja": "Outstanding Graduate Employability & Global Industry Ties",
+        "ko": "Outstanding Graduate Employability & Global Industry Ties"
+      },
+      "desc": {
+        "en": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ar": "يتمتع خريجو الجامعة بفرص تدريب وظيفي مباشرة ورواتب أولية تنافسية في كبرى الشركات الأسترالية والعالمية.",
+        "id": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "zh": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ru": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "fr": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "es": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ja": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally.",
+        "ko": "Graduates benefit from direct industry internships and high starting salaries across Australia and internationally."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Dynamic International Campus & Comprehensive Student Support",
+        "ar": "بيئة جامعية دولية ودعم متكامل للطلاب المغتربين",
+        "id": "Dynamic International Campus & Comprehensive Student Support",
+        "zh": "Dynamic International Campus & Comprehensive Student Support",
+        "ru": "Dynamic International Campus & Comprehensive Student Support",
+        "fr": "Dynamic International Campus & Comprehensive Student Support",
+        "es": "Dynamic International Campus & Comprehensive Student Support",
+        "ja": "Dynamic International Campus & Comprehensive Student Support",
+        "ko": "Dynamic International Campus & Comprehensive Student Support"
+      },
+      "desc": {
+        "en": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ar": "تضم الجامعة مجتمعاً طلابياً من أكثر من 100 دولة وتقدم خدمات إرشاد أكاديمي وسكني ومهني متكاملة.",
+        "id": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "zh": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ru": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "fr": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "es": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ja": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ko": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ar": "مرافق بحثية متطورة وتقنيات تعليمية من الجيل القادم",
+        "id": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "zh": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ru": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "fr": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "es": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ja": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ko": "Cutting-Edge Research Facilities & Next-Gen Learning Tech"
+      },
+      "desc": {
+        "en": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ar": "استثمارات ضخمة في أحدث المختبرات ومراكز المحاكاة الذكية لربط النظريات بالتطبيق العملي.",
+        "id": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "zh": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ru": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "fr": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "es": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ja": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ko": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Murdoch University Student Village & Residential Hall",
+        "ar": "Murdoch University Student Village & Residential Hall",
+        "id": "Murdoch University Student Village & Residential Hall",
+        "zh": "Murdoch University Student Village & Residential Hall",
+        "ru": "Murdoch University Student Village & Residential Hall",
+        "fr": "Murdoch University Student Village & Residential Hall",
+        "es": "Murdoch University Student Village & Residential Hall",
+        "ja": "Murdoch University Student Village & Residential Hall",
+        "ko": "Murdoch University Student Village & Residential Hall"
+      },
+      "distance": {
+        "en": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ar": "داخل الحرم الجامعي (3 إلى 10 دقائق سيراً على الأقدام للقاعات)",
+        "id": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "zh": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ru": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "fr": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "es": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ja": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ko": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)"
+      },
+      "priceRange": "AUD $250 - AUD $430 / week",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "مطابخ مشتركة حديثة وصالات طعام واسعة للطلاب",
+          "غرف مؤثثة ومكيفة بالكامل مع مكاتب دراسية وإنترنت فائق السرعة",
+          "صالات ترفيهية ومكتبات للدراسة الهادئة ومغاسل ملابس ذاتية",
+          "قرب مباشر من وسائل النقل العام ومرافق الجامعة الرئيسية"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV",
+          "Modern Communal Kitchens & Spacious Dining Commons",
+          "Fully Furnished Air-Conditioned Rooms with Study Desks & Fast WiFi",
+          "Student Social Lounges, Quiet Study Hubs & Laundry Facilities",
+          "Immediate Proximity to Public Transit & Academic Buildings"
+        ],
+        "id": [
+          "Keamanan 24 Jam dengan Akses Kartu Elektronik & CCTV",
+          "Dapur Bersama Modern & Area Makan Mahasiswa yang Luas",
+          "Kamar Berperabot Lengkap Ber-AC dengan Meja Belajar & WiFi Cepat",
+          "Lounge Mahasiswa, Ruang Belajar Tenang & Fasilitas Laundry",
+          "Dekat dengan Transportasi Umum & Gedung Kampus Utama"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Dining",
+        "ar": "الطعام والمأكولات الشهرية",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "AUD $360 - AUD $520 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transport & Smart Transit Card",
+        "ar": "المواصلات العامة والبطاقات الذكية",
+        "id": "Transportasi Umum"
+      },
+      "cost": "AUD $90 - AUD $160 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Utilities, Electricity & Mobile Internet",
+        "ar": "الكهرباء والمياه وباقة الإنترنت",
+        "id": "Utilitas & Internet"
+      },
+      "cost": "AUD $110 - AUD $180 / month"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "en": "Personal Expenses & City Leisure",
+        "ar": "المستلزمات الشخصية والأنشطة الترفيهية",
+        "id": "Kebutuhan Pribadi"
+      },
+      "cost": "AUD $220 - AUD $380 / month"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What are the international tuition fees at Murdoch University?",
+        "ar": "كم تبلغ الرسوم الدراسية السنوية للطلاب الدوليين في جامعة ميردوخ (Murdoch University)؟",
+        "id": "What are the international tuition fees at Murdoch University?",
+        "zh": "What are the international tuition fees at Murdoch University?",
+        "ru": "What are the international tuition fees at Murdoch University?",
+        "fr": "What are the international tuition fees at Murdoch University?",
+        "es": "What are the international tuition fees at Murdoch University?",
+        "ja": "What are the international tuition fees at Murdoch University?",
+        "ko": "What are the international tuition fees at Murdoch University?"
+      },
+      "a": {
+        "en": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees.",
+        "ar": "تتراوح الرسوم الدراسية السنوية لدرجة البكالوريوس بين 28,000 إلى 39,000 دولار أسترالي سنوياً لمعظم التخصصات في إدارة الأعمال والهندسة وعلوم الحاسب.",
+        "id": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees.",
+        "zh": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees.",
+        "ru": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees.",
+        "fr": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees.",
+        "es": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees.",
+        "ja": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees.",
+        "ko": "Undergraduate tuition fees typically range from AUD $28,000 to AUD $39,000 per year for Business, Engineering, and Computing degrees."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language IELTS entry requirements?",
+        "ar": "ما هي متطلبات اللغة الإنجليزية (IELTS) للقبول في الجامعة؟",
+        "id": "What are the English language IELTS entry requirements?",
+        "zh": "What are the English language IELTS entry requirements?",
+        "ru": "What are the English language IELTS entry requirements?",
+        "fr": "What are the English language IELTS entry requirements?",
+        "es": "What are the English language IELTS entry requirements?",
+        "ja": "What are the English language IELTS entry requirements?",
+        "ko": "What are the English language IELTS entry requirements?"
+      },
+      "a": {
+        "en": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ar": "تتطلب معظم برامج البكالوريوس الحصول على درجة 6.5 في اختبار IELTS (مع ما لا يقل عن 6.0 في كل مهارة)، وتتوفر برامج لغة إنجليزية تحضيرية للطلاب الراغبين في تحسين مستواهم.",
+        "id": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "zh": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ru": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "fr": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "es": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ja": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available.",
+        "ko": "Most undergraduate programs require an overall IELTS of 6.5 with no band less than 6.0. Packaged English language pathway programs are available."
+      }
+    },
+    {
+      "q": {
+        "en": "When are the academic semester intakes?",
+        "ar": "ما هي مواعيد وفصول بدء الدراسة والقبول الجامعي السنوية؟",
+        "id": "When are the academic semester intakes?",
+        "zh": "When are the academic semester intakes?",
+        "ru": "When are the academic semester intakes?",
+        "fr": "When are the academic semester intakes?",
+        "es": "When are the academic semester intakes?",
+        "ja": "When are the academic semester intakes?",
+        "ko": "When are the academic semester intakes?"
+      },
+      "a": {
+        "en": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ar": "الفصلان الدراسيان الرئيسيان هما الفصل الأول (فبراير) والفصل الثاني (يوليو)، ويُفضل التقديم قبل 4 إلى 6 أشهر لإجراءات التأشيرة الطلابية.",
+        "id": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "zh": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ru": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "fr": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "es": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ja": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing.",
+        "ko": "The two primary intakes are Semester 1 (February) and Semester 2 (July). Applying 4 to 6 months in advance is highly advised for student visa processing."
+      }
+    },
+    {
+      "q": {
+        "en": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ar": "هل يحق للخريجين التقديم على تأشيرة العمل بعد الدراسة في أستراليا (Subclass 485)؟",
+        "id": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "zh": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ru": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "fr": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "es": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ja": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?",
+        "ko": "Are graduates eligible for the Australian Post-Study Work Visa (Subclass 485)?"
+      },
+      "a": {
+        "en": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ar": "نعم، مؤهلات الجامعة معتمدة رسمياً وتمنح الخريجين المؤهلين الحق في التقديم على تأشيرة العمل المؤقت بعد التخرج (تتراوح بين سنتين إلى 4 سنوات حسب الدرجة والموقع الإقليمي).",
+        "id": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "zh": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ru": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "fr": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "es": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ja": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights.",
+        "ko": "Yes, completed degrees satisfy Australian study requirements for the Temporary Graduate Visa (Subclass 485), granting 2 to 4+ years of post-study work rights."
+      }
+    },
+    {
+      "q": {
+        "en": "What student housing options are available near the campus?",
+        "ar": "ما هي خيارات السكن الطلابي المتاحة بالقرب من الحرم الجامعي؟",
+        "id": "What student housing options are available near the campus?",
+        "zh": "What student housing options are available near the campus?",
+        "ru": "What student housing options are available near the campus?",
+        "fr": "What student housing options are available near the campus?",
+        "es": "What student housing options are available near the campus?",
+        "ja": "What student housing options are available near the campus?",
+        "ko": "What student housing options are available near the campus?"
+      },
+      "a": {
+        "en": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ar": "تتوفر سكنات جامعية حديثة داخل الحرم وخارجه، بالإضافة إلى مجمعات سكن الطلاب الخاصة والشقق المشتركة، بأسعار تبدأ من 240 إلى 420 دولار أسترالي أسبوعياً.",
+        "id": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "zh": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ru": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "fr": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "es": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ja": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week.",
+        "ko": "Options include on-campus student residences, modern purpose-built student accommodations (PBSA), and private shared apartments ranging from AUD $240 to $450/week."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "en": "International Student Guide to Living and Studying in Perth, WA",
+        "ar": "دليل الدراسة والحياة في Perth, WA للطلاب الدوليين",
+        "id": "International Student Guide to Living and Studying in Perth, WA",
+        "zh": "International Student Guide to Living and Studying in Perth, WA",
+        "ru": "International Student Guide to Living and Studying in Perth, WA",
+        "fr": "International Student Guide to Living and Studying in Perth, WA",
+        "es": "International Student Guide to Living and Studying in Perth, WA",
+        "ja": "International Student Guide to Living and Studying in Perth, WA",
+        "ko": "International Student Guide to Living and Studying in Perth, WA"
+      },
+      "summary": {
+        "en": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ar": "نظرة شاملة على تكاليف المعيشة، والمواصلات العامة، والفرص الوظيفية للطلاب أثناء الدراسة في أستراليا.",
+        "id": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "zh": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ru": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "fr": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "es": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ja": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia.",
+        "ko": "A comprehensive look at living costs, public transit, and part-time job opportunities for students in Australia."
+      }
+    },
+    {
+      "readTime": "6 min",
+      "title": {
+        "en": "Admission & Student Visa Pathway at Murdoch University",
+        "ar": "كيفية الحصول على القبول والتأشيرة الدراسية في جامعة ميردوخ (Murdoch University)",
+        "id": "Admission & Student Visa Pathway at Murdoch University",
+        "zh": "Admission & Student Visa Pathway at Murdoch University",
+        "ru": "Admission & Student Visa Pathway at Murdoch University",
+        "fr": "Admission & Student Visa Pathway at Murdoch University",
+        "es": "Admission & Student Visa Pathway at Murdoch University",
+        "ja": "Admission & Student Visa Pathway at Murdoch University",
+        "ko": "Admission & Student Visa Pathway at Murdoch University"
+      },
+      "summary": {
+        "en": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ar": "خطوات تقديم الطلب، وتصديق الشهادات الأكاديمية، ومتطلبات التأشيرة الأسترالية (Subclass 500).",
+        "id": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "zh": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ru": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "fr": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "es": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ja": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements.",
+        "ko": "Key steps for application, transcript verification, and Australian Subclass 500 visa requirements."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "en": "Top Ranked Engineering, Computing & Business Programs at Murdoch University",
+        "ar": "أفضل التخصصات الهندسية والتقنية وإدارة الأعمال في الجامعة",
+        "id": "Top Ranked Engineering, Computing & Business Programs at Murdoch University",
+        "zh": "Top Ranked Engineering, Computing & Business Programs at Murdoch University",
+        "ru": "Top Ranked Engineering, Computing & Business Programs at Murdoch University",
+        "fr": "Top Ranked Engineering, Computing & Business Programs at Murdoch University",
+        "es": "Top Ranked Engineering, Computing & Business Programs at Murdoch University",
+        "ja": "Top Ranked Engineering, Computing & Business Programs at Murdoch University",
+        "ko": "Top Ranked Engineering, Computing & Business Programs at Murdoch University"
+      },
+      "summary": {
+        "en": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ar": "استعراض لأبرز البرامج الأكاديمية المعتمدة وفرص التدريب المهني والاعتمادات المهنية الدولية.",
+        "id": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "zh": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ru": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "fr": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "es": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ja": "Exploring accredited degree offerings, industry training modules, and international professional accreditations.",
+        "ko": "Exploring accredited degree offerings, industry training modules, and international professional accreditations."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelName": "Foundation Studies / السنة التحضيرية",
+      "levelAr": "السنة التحضيرية المؤهلة للجامعة",
+      "levelKey": "level_foundation",
+      "duration": "1 Year",
+      "durationAr": "سنة واحدة",
+      "avgFee": "A$ 20,172 - A$ 22,632"
+    },
+    {
+      "levelName": "Higher Diploma / الدبلوم العالي المعتمد",
+      "levelAr": "الدبلوم العالي التخصصي",
+      "levelKey": "level_diploma",
+      "duration": "1.5 - 2 Years",
+      "durationAr": "1.5 إلى سنتين",
+      "avgFee": "A$ 20,910 - A$ 23,370"
+    },
+    {
+      "levelName": "Bachelor Degrees / درجات البكالوريوس",
+      "levelAr": "درجة البكالوريوس (3 - 4 سنوات)",
+      "levelKey": "level_bachelor",
+      "duration": "3 - 4 Years",
+      "durationAr": "3 إلى 4 سنوات",
+      "avgFee": "A$ 17,299 - A$ 30,974"
+    },
+    {
+      "levelName": "Master Degrees & MBA / الماجستير وإدارة الأعمال",
+      "levelAr": "درجة الماجستير والـ MBA التنفيذي",
+      "levelKey": "level_master",
+      "duration": "1.5 - 2 Years",
+      "durationAr": "1.5 إلى سنتين",
+      "avgFee": "A$ 19,441 - A$ 30,974"
+    },
+    {
+      "levelName": "Doctor of Philosophy (PhD) / الدكتوراه البحثية",
+      "levelAr": "دكتوراه الفلسفة البحثية المتقدمة",
+      "levelKey": "level_phd",
+      "duration": "3 - 4 Years",
+      "durationAr": "3 إلى 4 سنوات",
+      "avgFee": "A$ 26,568 - A$ 34,776"
+    }
+  ],
+  "directWatchUrl": null,
+  "nameAr": "جامعة ميردوخ (Murdoch University)",
+  "scholarships": [
+    {
+      "titleEn": "Federation Merit Scholarship",
+      "titleAr": "منحة Federation Merit الدولية",
+      "amount": "Partial to Full Tuition Support",
+      "amountAr": "تغطية جزئية أو كلية من الرسوم الدراسية للطلاب المتفوقين",
+      "eligibilityEn": "Available for high-achieving international applicants meeting academic merit criteria.",
+      "eligibilityAr": "متاحة للطلاب الدوليين المتميزين أكاديمياً والمستوفين لشروط التقديم."
+    },
+    {
+      "titleEn": "Federation Pathways Scholarship",
+      "titleAr": "منحة Federation Pathways الدولية",
+      "amount": "Partial to Full Tuition Support",
+      "amountAr": "تغطية جزئية أو كلية من الرسوم الدراسية للطلاب المتفوقين",
+      "eligibilityEn": "Available for high-achieving international applicants meeting academic merit criteria.",
+      "eligibilityAr": "متاحة للطلاب الدوليين المتميزين أكاديمياً والمستوفين لشروط التقديم."
+    },
+    {
+      "titleEn": "Discover scholarships",
+      "titleAr": "منحة Discover scholarships",
+      "amount": "Partial to Full Tuition Support",
+      "amountAr": "تغطية جزئية أو كلية من الرسوم الدراسية للطلاب المتفوقين",
+      "eligibilityEn": "Available for high-achieving international applicants meeting academic merit criteria.",
+      "eligibilityAr": "متاحة للطلاب الدوليين المتميزين أكاديمياً والمستوفين لشروط التقديم."
+    }
+  ],
+  "programs": [
+    {
+      "id": "murdoch-bachelor-of-business-accounting-1",
+      "universityId": "murdoch",
+      "name": "Bachelor of Business (Accounting)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Accounting)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28206,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business (Accounting)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28206
+        },
+        {
+          "year": 2,
+          "fee": 28206
+        },
+        {
+          "year": 3,
+          "fee": 28206
+        }
+      ],
+      "totalTuitionFee": 84618,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-business-transformation-acco-2",
+      "universityId": "murdoch",
+      "name": "Bachelor of Business Transformation (Accounting)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Transformation (Accounting)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26097,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business Transformation (Accounting)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26097
+        },
+        {
+          "year": 2,
+          "fee": 26097
+        },
+        {
+          "year": 3,
+          "fee": 26097
+        }
+      ],
+      "totalTuitionFee": 78291,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-master-of-professional-accounting-3",
+      "universityId": "murdoch",
+      "name": "Master of Professional Accounting",
+      "nameAr": "ماجستير المحاسبة المهنية",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 26097,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Professional Accounting",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26097
+        },
+        {
+          "year": 2,
+          "fee": 26097
+        }
+      ],
+      "totalTuitionFee": 52194,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-business-transformation-mana-4",
+      "universityId": "murdoch",
+      "name": "Bachelor of Business Transformation (Management)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Transformation (Management)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26097,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business Transformation (Management)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26097
+        },
+        {
+          "year": 2,
+          "fee": 26097
+        },
+        {
+          "year": 3,
+          "fee": 26097
+        }
+      ],
+      "totalTuitionFee": 78291,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-master-of-philosophy-business-5",
+      "universityId": "murdoch",
+      "name": "Master of Philosophy (Business)",
+      "nameAr": "ماجستير Philosophy (Business)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19441,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Philosophy (Business)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19441
+        },
+        {
+          "year": 2,
+          "fee": 19441
+        }
+      ],
+      "totalTuitionFee": 38882,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-biomedical-science-6",
+      "universityId": "murdoch",
+      "name": "Bachelor of Biomedical Science",
+      "nameAr": "بكالوريوس العلوم الطبية الحيوية",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25702,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "High-impact healthcare degree combining medical science theory with supervised clinical internships.",
+      "overviewAr": "برنامج متميز في العلوم الصحية يجمع بين الأسس الطبية والتدريب الإكلينيكي العملي في المراكز الصحية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Biomedical Science",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25702
+        },
+        {
+          "year": 2,
+          "fee": 25702
+        },
+        {
+          "year": 3,
+          "fee": 25702
+        }
+      ],
+      "totalTuitionFee": 77106,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-business-marketing-and-manag-7",
+      "universityId": "murdoch",
+      "name": "Bachelor of Business (Marketing and Management)",
+      "nameAr": "بكالوريوس إدارة الأعمال (Marketing And Management)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28206,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Globally accredited business degree emphasizing strategic management, data-driven decision making, and international commerce.",
+      "overviewAr": "منهاج إدارة أعمال معتمد دولياً يركز على التخطيط الاستراتيجي والتحليل المالي والريادة في الأسواق العالمية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Business (Marketing and Management)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28206
+        },
+        {
+          "year": 2,
+          "fee": 28206
+        },
+        {
+          "year": 3,
+          "fee": 28206
+        }
+      ],
+      "totalTuitionFee": 84618,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-community-and-human-services-8",
+      "universityId": "murdoch",
+      "name": "Bachelor of Community and Human Services",
+      "nameAr": "بكالوريوس Community And Human Services",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25043,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Dynamic academic curriculum fostering critical inquiry, analytical communication, and creative global problem-solving.",
+      "overviewAr": "منهاج أكاديمي شامل ينمي مهارات التحليل النقدي والتواصل الفعال وحل المشكلات في بيئة متعددة الثقافات.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Community and Human Services",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25043
+        },
+        {
+          "year": 2,
+          "fee": 25043
+        },
+        {
+          "year": 3,
+          "fee": 25043
+        }
+      ],
+      "totalTuitionFee": 75129,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-digital-transformation-it-9",
+      "universityId": "murdoch",
+      "name": "Bachelor of Digital Transformation (IT)",
+      "nameAr": "بكالوريوس Digital Transformation (It)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27283,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Dynamic academic curriculum fostering critical inquiry, analytical communication, and creative global problem-solving.",
+      "overviewAr": "منهاج أكاديمي شامل ينمي مهارات التحليل النقدي والتواصل الفعال وحل المشكلات في بيئة متعددة الثقافات.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Digital Transformation (IT)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27283
+        },
+        {
+          "year": 2,
+          "fee": 27283
+        },
+        {
+          "year": 3,
+          "fee": 27283
+        }
+      ],
+      "totalTuitionFee": 81849,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-education-early-childhood-an-10",
+      "universityId": "murdoch",
+      "name": "Bachelor of Education (Early Childhood and Primary)",
+      "nameAr": "بكالوريوس التربية والتعليم (Early Childhood And Primary)",
+      "field": "education",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22604,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Nationally accredited teaching degree offering supervised practicum placements in primary and secondary schools.",
+      "overviewAr": "درجة تربوية معتمدة وطنياً توفر تدريبات تدريسية عملية داخل شبكات المدارس الأسترالية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Education (Early Childhood and Primary)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22604
+        },
+        {
+          "year": 2,
+          "fee": 22604
+        },
+        {
+          "year": 3,
+          "fee": 22604
+        }
+      ],
+      "totalTuitionFee": 67812,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Foundations of Education & Pedagogy",
+          "Child & Adolescent Development Psychology",
+          "Curriculum Design & Educational Technology",
+          "Inclusive Education & Cultural Responsiveness"
+        ],
+        "year2": [
+          "Teaching Methodologies & Classroom Management",
+          "Literacy & Numeracy Pedagogical Strategies",
+          "Assessment for Learning & Educational Measurement",
+          "Supervised School Practicum I"
+        ],
+        "year3": [
+          "Advanced Teaching Strategies & Differentiated Learning",
+          "Diversity, Equity & Multicultural Classrooms",
+          "Educational Leadership, Ethics & Professional Standards",
+          "Supervised School Practicum II"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "أسس التربية ونظريات التعليم الحديثة",
+          "سيكولوجية نمو الطفل والمراهق والتعلم",
+          "تصميم المناهج وتكنولوجيا التعليم الرقمية",
+          "التعليم الدامج والاستجابة الثقافية المتنوعة"
+        ],
+        "year2": [
+          "طرق التدريس المتقدمة وإدارة البيئة الصفية",
+          "استراتيجيات تدريس القراءة والرياضيات والعلوم",
+          "التقويم من أجل التعلم والقياس التربوي",
+          "التدريب الميداني المدرسي العملي الأول"
+        ],
+        "year3": [
+          "استراتيجيات التدريس المتمايز المتقدمة",
+          "التنوع والعدالة والتعليم في البيئات المتعددة الثقافات",
+          "القيادة التربوية وأخلاقيات ومعايير مهنة التعليم",
+          "التدريب الميداني المدرسي العملي الثاني"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-education-early-childhood-ed-11",
+      "universityId": "murdoch",
+      "name": "Bachelor of Education (Early Childhood Education)",
+      "nameAr": "بكالوريوس التربية والتعليم (Early Childhood Education)",
+      "field": "education",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22604,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Nationally accredited teaching degree offering supervised practicum placements in primary and secondary schools.",
+      "overviewAr": "درجة تربوية معتمدة وطنياً توفر تدريبات تدريسية عملية داخل شبكات المدارس الأسترالية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Education (Early Childhood Education)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22604
+        },
+        {
+          "year": 2,
+          "fee": 22604
+        },
+        {
+          "year": 3,
+          "fee": 22604
+        }
+      ],
+      "totalTuitionFee": 67812,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Foundations of Education & Pedagogy",
+          "Child & Adolescent Development Psychology",
+          "Curriculum Design & Educational Technology",
+          "Inclusive Education & Cultural Responsiveness"
+        ],
+        "year2": [
+          "Teaching Methodologies & Classroom Management",
+          "Literacy & Numeracy Pedagogical Strategies",
+          "Assessment for Learning & Educational Measurement",
+          "Supervised School Practicum I"
+        ],
+        "year3": [
+          "Advanced Teaching Strategies & Differentiated Learning",
+          "Diversity, Equity & Multicultural Classrooms",
+          "Educational Leadership, Ethics & Professional Standards",
+          "Supervised School Practicum II"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "أسس التربية ونظريات التعليم الحديثة",
+          "سيكولوجية نمو الطفل والمراهق والتعلم",
+          "تصميم المناهج وتكنولوجيا التعليم الرقمية",
+          "التعليم الدامج والاستجابة الثقافية المتنوعة"
+        ],
+        "year2": [
+          "طرق التدريس المتقدمة وإدارة البيئة الصفية",
+          "استراتيجيات تدريس القراءة والرياضيات والعلوم",
+          "التقويم من أجل التعلم والقياس التربوي",
+          "التدريب الميداني المدرسي العملي الأول"
+        ],
+        "year3": [
+          "استراتيجيات التدريس المتمايز المتقدمة",
+          "التنوع والعدالة والتعليم في البيئات المتعددة الثقافات",
+          "القيادة التربوية وأخلاقيات ومعايير مهنة التعليم",
+          "التدريب الميداني المدرسي العملي الثاني"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-education-early-childhood-ed-12",
+      "universityId": "murdoch",
+      "name": "Bachelor of Education (Early Childhood Education) (TK5.142)",
+      "nameAr": "بكالوريوس التربية والتعليم (Early Childhood Education) (Tk5.142)",
+      "field": "education",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22604,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Nationally accredited teaching degree offering supervised practicum placements in primary and secondary schools.",
+      "overviewAr": "درجة تربوية معتمدة وطنياً توفر تدريبات تدريسية عملية داخل شبكات المدارس الأسترالية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Education (Early Childhood Education) (TK5.142)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22604
+        },
+        {
+          "year": 2,
+          "fee": 22604
+        },
+        {
+          "year": 3,
+          "fee": 22604
+        }
+      ],
+      "totalTuitionFee": 67812,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Foundations of Education & Pedagogy",
+          "Child & Adolescent Development Psychology",
+          "Curriculum Design & Educational Technology",
+          "Inclusive Education & Cultural Responsiveness"
+        ],
+        "year2": [
+          "Teaching Methodologies & Classroom Management",
+          "Literacy & Numeracy Pedagogical Strategies",
+          "Assessment for Learning & Educational Measurement",
+          "Supervised School Practicum I"
+        ],
+        "year3": [
+          "Advanced Teaching Strategies & Differentiated Learning",
+          "Diversity, Equity & Multicultural Classrooms",
+          "Educational Leadership, Ethics & Professional Standards",
+          "Supervised School Practicum II"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "أسس التربية ونظريات التعليم الحديثة",
+          "سيكولوجية نمو الطفل والمراهق والتعلم",
+          "تصميم المناهج وتكنولوجيا التعليم الرقمية",
+          "التعليم الدامج والاستجابة الثقافية المتنوعة"
+        ],
+        "year2": [
+          "طرق التدريس المتقدمة وإدارة البيئة الصفية",
+          "استراتيجيات تدريس القراءة والرياضيات والعلوم",
+          "التقويم من أجل التعلم والقياس التربوي",
+          "التدريب الميداني المدرسي العملي الأول"
+        ],
+        "year3": [
+          "استراتيجيات التدريس المتمايز المتقدمة",
+          "التنوع والعدالة والتعليم في البيئات المتعددة الثقافات",
+          "القيادة التربوية وأخلاقيات ومعايير مهنة التعليم",
+          "التدريب الميداني المدرسي العملي الثاني"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-engineering-civil-honours-13",
+      "universityId": "murdoch",
+      "name": "Bachelor of Engineering (Civil) (Honours)",
+      "nameAr": "بكالوريوس الهندسة (Civil) (Honours)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30974,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Engineering (Civil) (Honours)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30974
+        },
+        {
+          "year": 2,
+          "fee": 30974
+        },
+        {
+          "year": 3,
+          "fee": 30974
+        }
+      ],
+      "totalTuitionFee": 92922,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-engineering-honours-electric-14",
+      "universityId": "murdoch",
+      "name": "Bachelor of Engineering (Honours) (Electrical)",
+      "nameAr": "بكالوريوس الهندسة (Honours) (Electrical)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30974,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Engineering (Honours) (Electrical)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30974
+        },
+        {
+          "year": 2,
+          "fee": 30974
+        },
+        {
+          "year": 3,
+          "fee": 30974
+        }
+      ],
+      "totalTuitionFee": 92922,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-engineering-mechanical-honou-15",
+      "universityId": "murdoch",
+      "name": "Bachelor of Engineering (Mechanical) (Honours)",
+      "nameAr": "بكالوريوس الهندسة (Mechanical) (Honours)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30974,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Engineering (Mechanical) (Honours)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30974
+        },
+        {
+          "year": 2,
+          "fee": 30974
+        },
+        {
+          "year": 3,
+          "fee": 30974
+        }
+      ],
+      "totalTuitionFee": 92922,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-engineering-mining-honours-16",
+      "universityId": "murdoch",
+      "name": "Bachelor of Engineering (Mining) (Honours)",
+      "nameAr": "بكالوريوس الهندسة (Mining) (Honours)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 30974,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Engineering (Mining) (Honours)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30974
+        },
+        {
+          "year": 2,
+          "fee": 30974
+        },
+        {
+          "year": 3,
+          "fee": 30974
+        }
+      ],
+      "totalTuitionFee": 92922,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-graduate-diploma-of-mining-17",
+      "universityId": "murdoch",
+      "name": "Graduate Diploma of Mining",
+      "nameAr": "Graduate Diploma of Mining",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 27679,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Graduate Diploma of Mining",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27679
+        }
+      ],
+      "totalTuitionFee": 27679,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-master-of-engineering-technology-civil-18",
+      "universityId": "murdoch",
+      "name": "Master of Engineering Technology (Civil)",
+      "nameAr": "ماجستير العلوم الهندسية المتقدمة (Technology (Civil)",
+      "field": "engineering",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30974,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Engineering Technology (Civil)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30974
+        },
+        {
+          "year": 2,
+          "fee": 30974
+        }
+      ],
+      "totalTuitionFee": 61948,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-master-of-engineering-technology-mechani-19",
+      "universityId": "murdoch",
+      "name": "Master of Engineering Technology (Mechanical)",
+      "nameAr": "ماجستير العلوم الهندسية المتقدمة (Technology (Mechanical)",
+      "field": "engineering",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 30974,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Engineering Technology (Mechanical)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30974
+        },
+        {
+          "year": 2,
+          "fee": 30974
+        }
+      ],
+      "totalTuitionFee": 61948,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-master-of-philosophy-engineering-20",
+      "universityId": "murdoch",
+      "name": "Master of Philosophy (Engineering)",
+      "nameAr": "ماجستير Philosophy (Engineering)",
+      "field": "engineering",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 23725,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Engineers Australia accredited degree providing deep technical expertise, industry design projects, and modern engineering laboratory training.",
+      "overviewAr": "برنامج هندسي معتمد من نقابة المهندسين الأسترالية، يركز على التطبيقات التقنية المتقدمة ومشاريع التخرج العملية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Master of Philosophy (Engineering)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23725
+        },
+        {
+          "year": 2,
+          "fee": 23725
+        }
+      ],
+      "totalTuitionFee": 47450,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-nursing-21",
+      "universityId": "murdoch",
+      "name": "Bachelor of Nursing",
+      "nameAr": "بكالوريوس التمريض العام والمعتمد",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27547,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "Accredited professional nursing degree with clinical hospital placements across major healthcare providers in Australia.",
+      "overviewAr": "برنامج تمريض مهني معتمد مع تدريب إكلينيكي عملي في كبرى المستشفيات والمراكز الصحية الأسترالية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Nursing",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27547
+        },
+        {
+          "year": 2,
+          "fee": 27547
+        },
+        {
+          "year": 3,
+          "fee": 27547
+        }
+      ],
+      "totalTuitionFee": 82641,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      }
+    },
+    {
+      "id": "murdoch-bachelor-of-secondary-education-health-a-22",
+      "universityId": "murdoch",
+      "name": "Bachelor of Secondary Education (Health and Physical Education Teaching)",
+      "nameAr": "بكالوريوس التعليم الثانوي (Health And Physical Education Teaching)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17299,
+      "currency": "AUD",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "overview": "High-impact healthcare degree combining medical science theory with supervised clinical internships.",
+      "overviewAr": "برنامج متميز في العلوم الصحية يجمع بين الأسس الطبية والتدريب الإكلينيكي العملي في المراكز الصحية.",
+      "requirements": {
+        "academic": "Australian Year 12 equivalent or recognized foundation/diploma program with required prerequisites",
+        "english": "IELTS 6.5 overall (min 6.0 in each band) or equivalent TOEFL/PTE score"
+      },
+      "careerOpportunities": [
+        "Specialist Career in Bachelor of Secondary Education (Health and Physical Education Teaching)",
+        "Corporate and International Industry Consultant",
+        "Public and Private Sector Leadership",
+        "Advanced Research and Academic Pathways"
+      ],
+      "ielts": "6.5",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17299
+        },
+        {
+          "year": 2,
+          "fee": 17299
+        },
+        {
+          "year": 3,
+          "fee": 17299
+        }
+      ],
+      "totalTuitionFee": 51897,
+      "otherExpenses": {
+        "oshcHealthCover": 750,
+        "studentAmenitiesFee": 350,
+        "livingCostAnnual": 29710
+      },
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      }
+    }
+  ],
+  "programsCount": 22
+}

@@ -1,0 +1,1328 @@
+{
+  "id": "ecta-sg",
+  "name": "Executive Counselling and Training Academy (ECTA)",
+  "arabicName": "أكاديمية التدريب والاستشارات التنفيذية (ECTA)",
+  "city": "Shenton Way, Singapore",
+  "cityEn": "Shenton Way, Singapore",
+  "cityAr": "سنغافورة (شنتون واي)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.ecta.edu.sg/",
+  "ranking": "Specialized Postgraduate Mental Health & Psychotherapy Academy",
+  "established": "2002",
+  "campusName": "Shenton Way Campus",
+  "studentCount": "1,500+ (20+ Countries)",
+  "intakes": "Mar, Sep",
+  "feeRangeMin": 12000,
+  "feeRangeMax": 29500,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/dwhrPfi7CSs",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/dwhrPfi7CSs",
+  "directWatchUrl": "https://www.youtube.com/watch?v=dwhrPfi7CSs",
+  "photos": [
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-ecta-sg.png",
+  "image": "assets/photo/campus_ecta-sg.jpg",
+  "description": "Leading postgraduate academy specializing in professional clinical counselling, psychotherapy, family therapy, and mental health studies.",
+  "descriptionAr": "أكاديمية دراسات عليا متخصصة في التأهيل المهني للإرشاد النفسي والعيادي، والعلاج النفسي الأسري، ودراسات الصحة النفسية.",
+  "about": {
+    "ar": "تعد أكاديمية التدريب والاستشارات التنفيذية (ECTA) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "Executive Counselling and Training Academy (ECTA) is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "Executive Counselling and Training Academy (ECTA) adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Specialized Postgraduate Mental Health & Psychotherapy Academy - World-Renowned Excellence",
+        "ar": "Specialized Postgraduate Mental Health & Psychotherapy Academy - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Executive Counselling and Training Academy (ECTA) Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ أكاديمية التدريب والاستشارات التنفيذية (ECTA)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_diploma",
+      "levelName": "Diploma",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 12,000 - SGD 18,000"
+    },
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "2 - 3 Years",
+      "avgFee": "SGD 22,000 - SGD 36,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 1.5 Years",
+      "avgFee": "SGD 26,000 - SGD 42,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "ecta-sg-couns-mss",
+      "universityId": "ecta-sg",
+      "name": "Master of Social Science (Professional Counselling) (Swinburne)",
+      "nameAr": "ماجستير العلوم الاجتماعية في الإرشاد النفسي المهني (جامعة سوينبرن)",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Social Science (Professional Counselling) (Swinburne) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم الاجتماعية في الإرشاد النفسي المهني (جامعة سوينبرن) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 56000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-couns-graddip",
+      "universityId": "ecta-sg",
+      "name": "Graduate Diploma of Counselling (Swinburne University Australia)",
+      "nameAr": "دبلوم الدراسات العليا في الإرشاد والعلاج النفسي (جامعة سوينبرن الأسترالية)",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 22000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Graduate Diploma of Counselling (Swinburne University Australia) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم الدراسات العليا في الإرشاد والعلاج النفسي (جامعة سوينبرن الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22000
+        }
+      ],
+      "totalTuitionFee": 22000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-couns-gradcert",
+      "universityId": "ecta-sg",
+      "name": "Graduate Certificate in Counselling & Psychotherapeutic Studies",
+      "nameAr": "شهادة الدراسات العليا في دراسات الإرشاد والعلاج النفسي السريري",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Graduate Certificate in Counselling & Psychotherapeutic Studies provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف شهادة الدراسات العليا في دراسات الإرشاد والعلاج النفسي السريري إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-psycho-msc",
+      "universityId": "ecta-sg",
+      "name": "Master of Counselling and Clinical Psychotherapy",
+      "nameAr": "ماجستير الإرشاد والعلاج النفسي الإكلينيكي المعمق",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 29500,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Counselling and Clinical Psychotherapy provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الإرشاد والعلاج النفسي الإكلينيكي المعمق إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29500
+        },
+        {
+          "year": 2,
+          "fee": 29500
+        }
+      ],
+      "totalTuitionFee": 59000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-child-specdip",
+      "universityId": "ecta-sg",
+      "name": "Advanced Clinical Specialist Diploma in Child & Adolescent Therapy",
+      "nameAr": "الدبلوم التخصصي الإكلينيكي في علاج وتأهيل الأطفال والمراهقين",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 18500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Advanced Clinical Specialist Diploma in Child & Adolescent Therapy provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف الدبلوم التخصصي الإكلينيكي في علاج وتأهيل الأطفال والمراهقين إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18500
+        }
+      ],
+      "totalTuitionFee": 18500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-family-specdip",
+      "universityId": "ecta-sg",
+      "name": "Specialist Diploma in Family and Systemic Therapy",
+      "nameAr": "الدبلوم التخصصي في العلاج النفسي الأسري والمنظومي الشامل",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 18000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Specialist Diploma in Family and Systemic Therapy provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف الدبلوم التخصصي في العلاج النفسي الأسري والمنظومي الشامل إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18000
+        }
+      ],
+      "totalTuitionFee": 18000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-clin-mss",
+      "universityId": "ecta-sg",
+      "name": "Master of Social Science (Clinical Counselling & Psychotherapy)",
+      "nameAr": "ماجستير العلوم الاجتماعية في الإرشاد والعلاج النفسي السريري",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 28500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Social Science (Clinical Counselling & Psychotherapy) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم الاجتماعية في الإرشاد والعلاج النفسي السريري إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28500
+        },
+        {
+          "year": 2,
+          "fee": 28500
+        }
+      ],
+      "totalTuitionFee": 57000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-cbt-mcouns",
+      "universityId": "ecta-sg",
+      "name": "Master of Counselling in Cognitive Behavioural Therapy (CBT)",
+      "nameAr": "ماجستير الإرشاد النفسي في العلاج المعرفي السلوكي المتقدم (CBT)",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 29000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Counselling in Cognitive Behavioural Therapy (CBT) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الإرشاد النفسي في العلاج المعرفي السلوكي المتقدم (CBT) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29000
+        },
+        {
+          "year": 2,
+          "fee": 29000
+        }
+      ],
+      "totalTuitionFee": 58000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-child-mcouns",
+      "universityId": "ecta-sg",
+      "name": "Master of Counselling in Child & Adolescent Mental Health",
+      "nameAr": "ماجستير الإرشاد النفسي في الصحة النفسية للأطفال والمراهقين",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 29000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Counselling in Child & Adolescent Mental Health provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الإرشاد النفسي في الصحة النفسية للأطفال والمراهقين إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29000
+        },
+        {
+          "year": 2,
+          "fee": 29000
+        }
+      ],
+      "totalTuitionFee": 58000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-psychoprac-graddip",
+      "universityId": "ecta-sg",
+      "name": "Graduate Diploma in Psychotherapy and Counselling Practice",
+      "nameAr": "دبلوم الدراسات العليا في ممارسة العلاج النفسي والاستشارات الإكلينيكية",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 22500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Graduate Diploma in Psychotherapy and Counselling Practice provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم الدراسات العليا في ممارسة العلاج النفسي والاستشارات الإكلينيكية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22500
+        }
+      ],
+      "totalTuitionFee": 22500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-addict-graddip",
+      "universityId": "ecta-sg",
+      "name": "Graduate Diploma in Addictions & Substance Abuse Counselling",
+      "nameAr": "دبلوم الدراسات العليا في الإرشاد وعلاج الإدمان والتعافي السلوكي",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 22000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Graduate Diploma in Addictions & Substance Abuse Counselling provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم الدراسات العليا في الإرشاد وعلاج الإدمان والتعافي السلوكي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22000
+        }
+      ],
+      "totalTuitionFee": 22000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-couple-gradcert",
+      "universityId": "ecta-sg",
+      "name": "Graduate Certificate in Systemic Family & Couple Therapy",
+      "nameAr": "شهادة الدراسات العليا في العلاج النفسي الأسري والزوجي المنظومي",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 12500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Graduate Certificate in Systemic Family & Couple Therapy provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف شهادة الدراسات العليا في العلاج النفسي الأسري والزوجي المنظومي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12500
+        }
+      ],
+      "totalTuitionFee": 12500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-express-specdip",
+      "universityId": "ecta-sg",
+      "name": "Specialist Diploma in Expressive Arts Therapy",
+      "nameAr": "الدبلوم التخصصي في العلاج بالفنون التعبيرية والتفريغ النفسي",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 18500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Specialist Diploma in Expressive Arts Therapy provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف الدبلوم التخصصي في العلاج بالفنون التعبيرية والتفريغ النفسي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18500
+        }
+      ],
+      "totalTuitionFee": 18500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "ecta-sg-super-specdip",
+      "universityId": "ecta-sg",
+      "name": "Specialist Diploma in Clinical Supervision & Mentorship",
+      "nameAr": "الدبلوم التخصصي في الإشراف الإكلينيكي وتوجيه المعالجين النفسيين",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 18000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, September",
+      "intakesAr": "مارس، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Specialist Diploma in Clinical Supervision & Mentorship provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف الدبلوم التخصصي في الإشراف الإكلينيكي وتوجيه المعالجين النفسيين إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18000
+        }
+      ],
+      "totalTuitionFee": 18000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 14,
+  "totalProgramsCount": 14,
+  "campusNameAr": "حرم شنتون واي المهني",
+  "campusImage": "assets/photo/campus_ecta-sg.jpg",
+  "nameAr": "أكاديمية التدريب والاستشارات التنفيذية (ECTA)"
+}

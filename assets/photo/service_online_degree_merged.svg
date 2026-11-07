@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="100%" height="100%">
+<g transform="translate(0, 10)">
+  <!-- Laptop Base & Screen Cutout -->
+  <rect x="180" y="100" width="240" height="150" rx="12" fill="#4C1D95"/>
+  <rect x="195" y="115" width="210" height="120" rx="6" fill="#DDD6FE"/>
+  <path d="M140 250 H460 L480 270 H120 Z" fill="#6D28D9"/>
+  
+  <!-- Graduation Mortarboard Cap Icon Floating -->
+  <polygon points="300,30 200,70 300,110 400,70" fill="#7C3AED"/>
+  <rect x="290" y="105" width="20" height="35" fill="#5B21B6"/>
+  
+  <!-- Student Character Cutout -->
+  <circle cx="480" cy="160" r="35" fill="#8B5CF6"/>
+  <path d="M420 270 C420 210, 540 210, 540 270 Z" fill="#6D28D9"/>
+</g>
+</svg>

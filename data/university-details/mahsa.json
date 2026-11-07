@@ -1,0 +1,3762 @@
+{
+  "id": "mahsa",
+  "slug": "mahsa-university",
+  "name": "MAHSA University",
+  "arabicName": "جامعة ماهسا (MAHSA University)",
+  "city": "Bandar Saujana Putra, Selangor",
+  "cityKey": "city_saujana_putra",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-mahsa.webp",
+  "image": "assets/photo/campus_mahsa.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/SBY42bX2Hrw",
+  "website": "https://mahsa.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "5-Star Online & Teaching Excellence (Premier Healthcare Institution)",
+  "rankingBadgeKey": "mahsa_rank_badge",
+  "established": "2005",
+  "campusName": "Bandar Saujana Putra Mega Healthcare Campus (48 Acres)",
+  "studentCount": "10,000+ (75+ Countries)",
+  "intakes": "Jan, Mar, May, Jul, Sep, Oct",
+  "feeRangeMin": 10000,
+  "feeRangeMax": 123483,
+  "currency": "MYR",
+  "majors": [
+    "medicine",
+    "dentistry",
+    "pharmacy",
+    "health",
+    "engineering",
+    "business"
+  ],
+  "similarUniversities": [
+    "cyberjaya",
+    "taylors",
+    "sunway"
+  ],
+  "totalProgramsCount": 97,
+  "description": "MAHSA University is a premier 48-acre healthcare and multidisciplinary mega-campus in Selangor, offering 97 accredited degrees in Medicine (MBBS), Dentistry, Pharmacy, Nursing, and Engineering.",
+  "descriptionAr": "تُعد جامعة ماهسا صرحاً طبياً وصحياً عملاقاً يمتد على مساحة 48 فداناً في سيلانجور، وتضم 97 برنامجاً أكاديمياً معتمداً في الطب البشري، طب وجراحة الأسنان، الصيدلة، التمريض، والهندسة وإدارة الأعمال.",
+  "about": {
+    "id": "MAHSA University didirikan pada tahun 2005 dan memiliki mega kampus modern seluas 48 hektar di Bandar Saujana Putra, Selangor. MAHSA merupakan salah satu universitas kesehatan swasta terbesar di Malaysia untuk Kedokteran, Kedokteran Gigi, Farmasi, dan Keperawatan.",
+    "en": "MAHSA University, founded in 2005 across a 48-acre mega campus in Bandar Saujana Putra, Selangor, is one of Malaysia’s largest specialized private universities for Medicine (MBBS), Dentistry, Pharmacy, and Nursing.",
+    "ar": "تأسست جامعة ماهسا (MAHSA University) عام 2005 على مساحة 48 فداناً في سيلانغور، وتعد واحدة من أضخم الجامعات الطبية الخاصة المتخصصة في الطب البشري، وطب الأسنان، والصيدلة، والتمريض، والعلوم الصحية.",
+    "zh": "玛莎大学（MAHSA University）创立于2005年，占地48英亩的新型综合大学城坐落于雪兰莪太子城，是全马规模最大的私立医疗健康高等学府之一，临床医学、口腔牙医及药剂学设备极尽完备。",
+    "ru": "Университет MAHSA на кампусе площадью 48 акров в Селангоре является одним из крупнейших частных медицинских вузов Малайзии по медицине, стоматологии и фармации.",
+    "fr": "MAHSA University s'étend sur 48 acres à Bandar Saujana Putra et compte parmi les plus grands établissements privés de Malaisie en médecine, dentisterie et pharmacie.",
+    "es": "La Universidad MAHSA, en un campus de 48 acres en Selangor, es una de las mayores instituciones privadas de Malasia en Medicina, Odontología y Farmacia.",
+    "ja": "マハサ大学（MAHSA）はスランゴール州に広がる48エーカーのメガキャンパスを有し、医学、歯学、薬学、看護学において東南アジア最大級の施設を誇る医療私立大学です。",
+    "ko": "마사 대학교(MAHSA)는 슬랑오르주 반다르 사우자나 푸트라의 48에이커 대형 캠퍼스를 두고 있으며, 의학, 치의학, 약학 및 간호학 분야에서 동남아 최고 수준의 의료 실습 인프라를 보유하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Klinik Pendidikan Gigi & Bedah Mulut Terbesar",
+        "en": "Advanced Dental Teaching Hospital & Oral Surgery Suites",
+        "ar": "مستشفى وعيادات تدريس طب وجراحة الفم والأسنان الأكبر في ماليزيا",
+        "ko": "대규모 첨단 치과 교육 병원 및 구강외과 수술 스위트",
+        "ja": "最大規模の最新歯科臨床教育病院および口腔外科実習室",
+        "zh": "马来西亚规模最大的高端现代口腔医学院与牙科临床教学医院",
+        "ru": "Крупнейшая учебная стоматологическая клиника и залы челюстно-лицевой хирургии",
+        "fr": "Hôpital d'enseignement dentaire de pointe et suites de chirurgie buccale",
+        "es": "Hospital Docente Odontológico Avanzado y Cirugía Maxilofacial"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Rumah Sakit Spesialis MAHSA & Ruang Perawatan Nyata",
+        "en": "MAHSA Specialist Hospital & Inpatient Wards",
+        "ar": "مستشفى ماهسا التخصصي وأجنحة التنويم ورعاية المرضى",
+        "ko": "MAHSA 부속 전문병원 및 실제 입원 환자 병동",
+        "ja": "MAHSA大学付属専門病院および臨床入院病棟",
+        "zh": "MAHSA大学附属综合专科医院与全功能住院病房教学基地",
+        "ru": "Специализированная университетская больница MAHSA и стационар",
+        "fr": "Hôpital spécialisé MAHSA et services d'hospitalisation",
+        "es": "Hospital Especializado MAHSA y Salas de Hospitalización"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Kolam Renang Olimpiade & Kompleks Olahraga Terpadu",
+        "en": "Olympic-Size Swimming Pool & Integrated Sports Complex",
+        "ar": "مسبح بمواصفات أولمبية ومجمع الألعاب الرياضية والملاعب الشامل",
+        "ko": "올림픽 규격 야외 수영장 및 종합 실내 스포츠 콤플렉스",
+        "ja": "オリンピック仕様大型プールおよび総合インドアスポーツ施設",
+        "zh": "奥林匹克标准大型游泳池与多元化综合运动场馆",
+        "ru": "Олимпийский бассейн и многофункциональный спортивный комплекс",
+        "fr": "Piscine olympique et complexe sportif multidisciplinaire",
+        "es": "Piscina de Tamaño Olímpico y Complejo Deportivo Multidisciplinar"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Pusat Riset Biomedis & Fisioterapi Modern",
+        "en": "Biomedical Research & Modern Physiotherapy Centre",
+        "ar": "مركز البحوث الطبية الحيوية ومختبرات العلاج الطبيعي والتأهيل",
+        "ko": "의생명과학 첨단 연구소 및 현대식 물리치료 센터",
+        "ja": "バイオメディカル先端研究施設および最新理学療法センター",
+        "zh": "生物医学前沿科学研究中心与现代化物理治疗康复大楼",
+        "ru": "Центр биомедицинских исследований и современной физиотерапии",
+        "fr": "Centre de recherche biomédicale et de physiothérapie moderne",
+        "es": "Centro de Investigación Biomédica y Fisioterapia Moderna"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "🩺",
+      "title": {
+        "id": "Mega Kampus Medis & Kesehatan Terpadu 48 Hektar",
+        "en": "48-Acre Integrated Healthcare & Multi-Disciplinary Mega Campus",
+        "ar": "حرم جامعي طبي وصحي عملاق ومتكامل يمتد على 48 فداناً",
+        "ko": "48에이커 규모의 초대형 헬스케어 융합 메가 캠퍼스",
+        "ja": "広大な48エーカーの医療・健康科学特化型メガキャンパス",
+        "zh": "占地48英亩的大型综合性医学健康科技智慧大学城",
+        "ru": "Интегрированный медицинский мега-кампус площадью 48 акров",
+        "fr": "Méga-campus multidisciplinaire et de santé de 48 acres",
+        "es": "Megacampus integrado de salud y multidisciplinar de 48 acres"
+      },
+      "desc": {
+        "id": "Menyediakan 97 program studi terakreditasi penuh dari tingkat Diploma hingga Doktor.",
+        "en": "Houses 97 fully accredited degree courses from Foundation and Diploma to PhD.",
+        "ar": "يضم 97 تخصصاً أكاديمياً معتمداً من الدبلوم وحتى الدكتوراه في بيئة متكاملة.",
+        "ko": "기초과정부터 디플로마, 학사, 석·박사에 이르는 97개 전 학과 공인 커리큘럼 완비.",
+        "ja": "ファウンデーションから学士、修士、博士課程まで97の認可プログラムを開講。",
+        "zh": "提供从预科、大专到本科、硕博全层次共97个全面受认证的优质专业课程。",
+        "ru": "97 аккредитованных программ от подготовительного отделения до докторантуры.",
+        "fr": "Propose 97 cursus accrédités allant du diplôme au doctorat.",
+        "es": "Alberga 97 titulaciones acreditadas desde carreras técnicas hasta doctorados."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Fakultas Kedokteran Gigi (Dentistry) Paling Bergengsi",
+        "en": "Prestigious Faculty of Dentistry & Oral Sciences",
+        "ar": "كلية طب وجراحة الفم والأسنان الأكثر شهرة وتميزاً في ماليزيا",
+        "ko": "말레이시아 최고 명성의 치과대학 및 구강보건학부",
+        "ja": "高い知名度と合格実績を誇る伝統の名門歯学部",
+        "zh": "享有盛誉的顶级口腔医学院与牙医专业教学基地",
+        "ru": "Престижный факультет стоматологии и оральных наук",
+        "fr": "Faculté de médecine dentaire et sciences buccales de grand renom",
+        "es": "Prestigiosa Facultad de Odontología y Ciencias de la Salud Bucal"
+      },
+      "desc": {
+        "id": "Memiliki reputasi internasional tinggi dalam mencetak dokter gigi profesional dengan fasilitas klinik terlengkap di ASEAN.",
+        "en": "Internationally renowned for producing dental surgeons with ASEAN's most comprehensive clinical facilities.",
+        "ar": "تتمتع بسمعة دولية مرموقة في تخريج أطباء وجراحي الأسنان بأحدث التجهيزات في آسيا.",
+        "ko": "아세안 최고 수준의 치과 임상 실습 설비와 높은 전문 치과의사 배출 실적 보유.",
+        "ja": "ASEAN屈指の充実した歯科臨床設備を備え、国際的に活躍する歯科医師を多数育成。",
+        "zh": "在东南亚拥有极高学术声望，以顶级临床硬件培育高素质注册执业牙科医师。",
+        "ru": "Международное признание за подготовку высококвалифицированных врачей-стоматологов.",
+        "fr": "Réputation internationale dans la formation de chirurgiens-dentistes qualifiés.",
+        "es": "Reconocida internacionalmente por formar cirujanos dentistas con equipamiento de primer nivel."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pelatihan Klinis Mandiri di Rumah Sakit Sendiri",
+        "en": "In-House Clinical Rotations at MAHSA Specialist Hospital",
+        "ar": "تدريب سريري مباشر ومضمون داخل مستشفى الجامعة التخصصي",
+        "ko": "MAHSA 자체 부속 전문병원에서의 독점적 임상 훈련",
+        "ja": "大学直属のMAHSA専門病院で実施される充実した院内臨床実習",
+        "zh": "在大学独家自属的MAHSA专科医院开展无缝衔接的临床轮转实习",
+        "ru": "Клиническая практика на базе собственной специализированной больницы MAHSA",
+        "fr": "Stages cliniques internes à l'hôpital spécialisé de MAHSA",
+        "es": "Prácticas clínicas internas en el Hospital Especializado de MAHSA"
+      },
+      "desc": {
+        "id": "Mahasiswa tidak perlu berebut tempat praktik di rumah sakit luar karena kampus memiliki rumah sakit aktif sendiri.",
+        "en": "Guaranteed clinical placements without waiting lists thanks to the on-campus operational hospital.",
+        "ar": "يضمن الطالب تدريبه السريري بدون قوائم انتظار بفضل وجود مستشفى تخصصي نشط داخل الحرم.",
+        "ko": "캠퍼스 내 운영 중인 병원 덕분에 대기 없이 안정적이고 심도 있는 임상 실습 보장.",
+        "ja": "学内直結の稼働病院があるため、実習先探しの心配なく確実な臨床研修を保証。",
+        "zh": "依托校内运营的大型专科医院，确保学生免除排队等待即可获得充足临床实训保障。",
+        "ru": "Гарантированная клиническая практика благодаря действующей больнице на территории кампуса.",
+        "fr": "Stages cliniques garantis sans liste d'attente grâce à l'hôpital universitaire opérationnel.",
+        "es": "Prácticas clínicas garantizadas sin listas de espera gracias al hospital en el campus."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Komunitas Global dengan Pelajar dari 75+ Negara",
+        "en": "Thriving Global Community of 10,000+ Students from 75+ Nations",
+        "ar": "مجتمع طلابي دولي يضم أكثر من 10 آلاف طالب من 75 دولة",
+        "ko": "전 세계 75개국 이상에서 온 10,000명 이상의 글로벌 유학생 네트워크",
+        "ja": "世界75ヶ国以上から集う10,000人超の多文化インターナショナルコミュニティ",
+        "zh": "汇聚全球75个以上国家和地区的超10,000名学子的多元化国际校园社区",
+        "ru": "Интернациональное сообщество: более 10 000 студентов из 75 стран",
+        "fr": "Communauté cosmopolite de plus de 10 000 étudiants de 75 pays",
+        "es": "Comunidad cosmopolita de más de 10,000 estudiantes de más de 75 países"
+      },
+      "desc": {
+        "id": "Lingkungan studi kosmopolitan dengan bahasa pengantar bahasa Inggris penuh dan akomodasi terpadu yang aman.",
+        "en": "Cosmopolitan English-medium campus with secure self-contained residential village.",
+        "ar": "بيئة دراسية ناطقة بالإنجليزية بنسبة 100% مع مجمعات سكنية متكاملة وآمنة تماماً.",
+        "ko": "100% 영어 강의와 안전하고 쾌적한 대단지 기숙사 시설을 갖춘 글로벌 환경.",
+        "ja": "全講義を英語で実施し、24時間セキュリティ完備の学内寮を備えた国際環境。",
+        "zh": "全英文授课教学环境，配合校内一站式全天候安保现代化学生宿舍生活社区。",
+        "ru": "100% англоязычное обучение и безопасные благоустроенные общежития на кампусе.",
+        "fr": "Campus anglophone avec résidences sécurisées et intégrées.",
+        "es": "Campus 100% en inglés con residencias seguras y completas dentro del campus."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from MAHSA University internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة ماهسا (MAHSA University) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari MAHSA University diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, MAHSA University is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة ماهسا (MAHSA University) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, MAHSA University terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to MAHSA University?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة ماهسا (MAHSA University)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke MAHSA University?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from MAHSA University?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة ماهسا (MAHSA University)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke MAHSA University?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to MAHSA University without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Lengkap Masuk Fakultas Kedokteran Gigi (Dentistry) di MAHSA",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for MAHSA University",
+        "ar": "دليل القبول في كلية طب وجراحة الأسنان بجامعة ماهسا",
+        "zh": "MAHSA University 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в MAHSA University",
+        "fr": "Guide complet d'admission et visa étudiant pour MAHSA University",
+        "es": "Guía completa de admisión y visado de estudiante para MAHSA University",
+        "ja": "MAHSA University 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "MAHSA University 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Syarat berkas akademik, tes wawancara, dan fasilitas rumah sakit gigi MAHSA.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شروط المعدل الأكاديمي، اختبار المقابلة، ومميزات مستشفى الأسنان التعليمي الضخم.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Biaya Hidup & Kehidupan Mahasiswa di Mega Kampus Saujana Putra",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around MAHSA University",
+        "ar": "تكاليف المعيشة والحياة الطلابية في الحرم الجامعي ببندر سوجانا بوترا",
+        "zh": "MAHSA University 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле MAHSA University",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de MAHSA University",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en MAHSA University",
+        "ja": "MAHSA University 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "MAHSA University 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Rincian sewa kamar asrama, kantin kampus, fasilitas olahraga olimpiade, dan bus shuttle LRT.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "تفاصيل نفقات السكن الداخلي والمطاعم والمسبح الأولمبي وحافلات النقل لمحطة المترو.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Beasiswa Prestasi & Diskon Uang Kuliah untuk Pelajar Internasional",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at MAHSA University",
+        "ar": "المنح الدراسية وخصومات التفوق للطلاب الدوليين في جامعة ماهسا",
+        "zh": "MAHSA University 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в MAHSA University",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à MAHSA University",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en MAHSA University",
+        "ja": "MAHSA University 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "MAHSA University 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Potongan biaya kuliah hingga 30% berdasarkan prestasi raport dan keaktifan ekstrakurikuler.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "خصومات على الرسوم الدراسية تصل إلى 30% بناءً على درجات التميز في الثانوية العامة.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "MAHSA On-Campus Residential Village",
+        "nameAr": "قرية السكن الجامعي الداخلي بحرم ماهسا",
+        "type": "Ensuite Single & Twin Student Rooms",
+        "typeAr": "غرف فردية ومزدوجة بحمام خاص داخل الحرم الجامعي",
+        "priceRange": "RM 500 - RM 1,000 / month",
+        "priceRangeAr": "500 - 1,000 رينجيت / شهرياً",
+        "distance": "Dalam kampus (0 menit jalan kaki)",
+        "amenities": [
+          "Wi-Fi Cepat",
+          "AC & Kamar Mandi Dalam",
+          "Kolam Renang Olimpiade",
+          "Kantin Halal",
+          "Keamanan 24 Jam"
+        ],
+        "amenitiesAr": [
+          "إنترنت سريع",
+          "تكييف وحمام خاص",
+          "مسبح أولمبي",
+          "مطاعم حلال",
+          "حراسة 24 ساعة"
+        ],
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة مشياً)",
+        "distanceEn": "On-campus (0 min walk)"
+      },
+      {
+        "name": "Saujana Putra Condominiums & Apartments",
+        "nameAr": "شقق ومجمعات سوجانا بوترا السكنية المجاورة",
+        "type": "Private Condominiums near Campus",
+        "typeAr": "شقق سكنية عصرية مجهزة بالقرب من بوابات الحرم",
+        "priceRange": "RM 600 - RM 1,200 / month",
+        "priceRangeAr": "600 - 1,200 رينجيت / شهرياً",
+        "distance": "5 menit jalan kaki dari kampus",
+        "amenities": [
+          "Kolam Renang",
+          "Pusat Gym",
+          "Perabot Lengkap",
+          "Dekat Supermarket",
+          "Keamanan 24/7"
+        ],
+        "amenitiesAr": [
+          "مسبح",
+          "صالة لياقة",
+          "مفروشة بالكامل",
+          "سوبرماركت قريب",
+          "أمن 24 ساعة"
+        ],
+        "distanceAr": "5 دقائق سيراً على الأقدام من الحرم الجامعي",
+        "distanceEn": "5-minute walk from campus"
+      },
+      {
+        "name": "BSP Skypark Luxury High-Rise Suites",
+        "nameAr": "أبراج بي إس بي سكاي بارك الفندقية الفاخرة",
+        "type": "Serviced High-Rise Condominiums",
+        "typeAr": "أبراج سكنية فندقية شاهقة راقية",
+        "priceRange": "RM 750 - RM 1,400 / month",
+        "priceRangeAr": "750 - 1,400 رينجيت / شهرياً",
+        "distance": "7 menit dari kampus (Shuttle Bus)",
+        "amenities": [
+          "Sky Lounge & Pool",
+          "Jogging Track",
+          "Fasilitas Olahraga Lengkap",
+          "Minimarket",
+          "Keamanan Ketat 24 Jam"
+        ],
+        "amenitiesAr": [
+          "لاونج ومسبح علوي",
+          "مضمار جري",
+          "ملاعب رياضية",
+          "متاجر قريبة",
+          "حراسة مشددة"
+        ],
+        "distanceAr": "7 دقائق من الحرم الجامعي (باص نقل مخصص)",
+        "distanceEn": "7 mins from campus (Dedicated Shuttle Bus)"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 500 - RM 1,100",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kebutuhan Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 500 - RM 800",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi Shuttle & LRT",
+        "itemAr": "المواصلات وحافلات المترو",
+        "cost": "RM 50 - RM 100",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "فواتير الكهرباء والمياه والإنترنت",
+        "cost": "RM 70 - RM 130",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Hiburan",
+        "itemAr": "المصروفات الشخصية والأنشطة",
+        "cost": "RM 160 - RM 320",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,280 - RM 2,450",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelKey": "level_foundation",
+      "levelAr": "السنة التحضيرية في العلوم الحيوية",
+      "duration": "1 Year",
+      "durationYears": 1,
+      "avgFeePerYear": "RM 15,000 - RM 18,000"
+    },
+    {
+      "level": "Diploma",
+      "levelKey": "level_diploma",
+      "levelAr": "الدبلوم الطبي والتمريضي (صيدلة، تمريض، أسنان)",
+      "duration": "2.5 - 3 Years",
+      "avgFeePerYear": "RM 14,000 - RM 19,000"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelKey": "level_bachelor",
+      "levelAr": "البكالوريوس (صيدلة، علاج طبيعي، علوم طبية، إدارة)",
+      "duration": "3 - 4 Years",
+      "avgFeePerYear": "RM 20,000 - RM 28,000"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelKey": "level_master",
+      "levelAr": "الماجستير في العلوم الطبية والصحة العامة والتمريض",
+      "duration": "1 - 2 Years",
+      "avgFeePerYear": "RM 22,000 - RM 30,000"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelKey": "level_phd",
+      "levelAr": "الدكتوراه في العلوم الطبية والصيدلانية المتقدمة",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "avgFeePerYear": "RM 18,000 - RM 26,000"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=SBY42bX2Hrw",
+  "programs": [
+    {
+      "id": "mahsa-bachelor-of-information-technology-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Information Technology (Hons)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18690,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18690
+        },
+        {
+          "year": 2,
+          "fee": 18690
+        },
+        {
+          "year": 3,
+          "fee": 18690
+        }
+      ],
+      "totalTuitionFee": 56070,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-information-technology",
+      "universityId": "mahsa",
+      "name": "Diploma in Information Technology",
+      "nameAr": "دبلوم تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 17950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17950
+        },
+        {
+          "year": 2,
+          "fee": 17950
+        }
+      ],
+      "totalTuitionFee": 35900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-information-technology-hons",
+      "universityId": "mahsa",
+      "name": "Master of Information Technology (Hons)",
+      "nameAr": "ماجستير تقنية المعلومات في Hons",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 21350,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21350
+        },
+        {
+          "year": 2,
+          "fee": 21350
+        }
+      ],
+      "totalTuitionFee": 42700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-information-technology-hons-online-degree",
+      "universityId": "mahsa",
+      "name": "Bachelor of Information Technology (Hons) - Online Degree",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 13233,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr, Aug, Sep, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13233
+        },
+        {
+          "year": 2,
+          "fee": 13233
+        },
+        {
+          "year": 3,
+          "fee": 13233
+        }
+      ],
+      "totalTuitionFee": 39699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-business-administration",
+      "universityId": "mahsa",
+      "name": "Bachelor of Business Administration",
+      "nameAr": "بكالوريوس إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 19867,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19867
+        },
+        {
+          "year": 2,
+          "fee": 19867
+        },
+        {
+          "year": 3,
+          "fee": 19867
+        }
+      ],
+      "totalTuitionFee": 59601,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-accounting-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Accounting (Hons)",
+      "nameAr": "بكالوريوس المحاسبة (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 17033,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17033
+        },
+        {
+          "year": 2,
+          "fee": 17033
+        },
+        {
+          "year": 3,
+          "fee": 17033
+        }
+      ],
+      "totalTuitionFee": 51099,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-science-hons-in-islamic-finance",
+      "universityId": "mahsa",
+      "name": "Bachelor of Science (Hons) in Islamic Finance",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 13333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13333
+        },
+        {
+          "year": 2,
+          "fee": 13333
+        },
+        {
+          "year": 3,
+          "fee": 13333
+        }
+      ],
+      "totalTuitionFee": 39999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-business-administration-online-degree",
+      "universityId": "mahsa",
+      "name": "Bachelor of Business Administration - Online Degree",
+      "nameAr": "بكالوريوس إدارة الأعمال أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 13233,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13233
+        },
+        {
+          "year": 2,
+          "fee": 13233
+        },
+        {
+          "year": 3,
+          "fee": 13233
+        }
+      ],
+      "totalTuitionFee": 39699,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-in-hospital-management-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor in Hospital Management (Hons)",
+      "nameAr": "بكالوريوس في Bachelor in Hospital Management (Hons",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20890,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20890
+        },
+        {
+          "year": 2,
+          "fee": 20890
+        },
+        {
+          "year": 3,
+          "fee": 20890
+        }
+      ],
+      "totalTuitionFee": 62670,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-hospitality-management-honours",
+      "universityId": "mahsa",
+      "name": "Bachelor of Hospitality Management (Honours)",
+      "nameAr": "بكالوريوس في إدارة الضيافة والفنادق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21333,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21333
+        },
+        {
+          "year": 2,
+          "fee": 21333
+        },
+        {
+          "year": 3,
+          "fee": 21333
+        }
+      ],
+      "totalTuitionFee": 63999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-business-administration",
+      "universityId": "mahsa",
+      "name": "Diploma in Business Administration",
+      "nameAr": "دبلوم إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-accounting",
+      "universityId": "mahsa",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-human-resource-management",
+      "universityId": "mahsa",
+      "name": "Diploma in Human Resource Management",
+      "nameAr": "دبلوم في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 17950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17950
+        },
+        {
+          "year": 2,
+          "fee": 17950
+        }
+      ],
+      "totalTuitionFee": 35900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-marketing",
+      "universityId": "mahsa",
+      "name": "Diploma in Marketing",
+      "nameAr": "دبلوم في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 17950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17950
+        },
+        {
+          "year": 2,
+          "fee": 17950
+        }
+      ],
+      "totalTuitionFee": 35900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-hotel-management",
+      "universityId": "mahsa",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-foundation-in-business",
+      "universityId": "mahsa",
+      "name": "Foundation in Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 14200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14200
+        }
+      ],
+      "totalTuitionFee": 14200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-of-business-administration",
+      "universityId": "mahsa",
+      "name": "Doctor of Business Administration",
+      "nameAr": "دكتوراه في Doctor of Business Administration",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 21317,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21317
+        },
+        {
+          "year": 2,
+          "fee": 21317
+        },
+        {
+          "year": 3,
+          "fee": 21317
+        }
+      ],
+      "totalTuitionFee": 63951,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-of-philosophy-in-management",
+      "universityId": "mahsa",
+      "name": "Doctor of Philosophy in Management",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17450
+        },
+        {
+          "year": 2,
+          "fee": 17450
+        },
+        {
+          "year": 3,
+          "fee": 17450
+        }
+      ],
+      "totalTuitionFee": 52350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-business-administration",
+      "universityId": "mahsa",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-business-administration-hospital-management",
+      "universityId": "mahsa",
+      "name": "Master of Business Administration  (Hospital Management)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Hospital Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-business-administration-online-degree",
+      "universityId": "mahsa",
+      "name": "Master of Business Administration - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24800
+        }
+      ],
+      "totalTuitionFee": 24800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-business-administration-hospital-management-online-degree",
+      "universityId": "mahsa",
+      "name": "Master of Business Administration  (Hospital Management) - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Hospital Management) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24800
+        }
+      ],
+      "totalTuitionFee": 24800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-business-administration-islamic-finance",
+      "universityId": "mahsa",
+      "name": "Master of Business Administration (Islamic Finance)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-business-administration-strategic-leadership",
+      "universityId": "mahsa",
+      "name": "Master of Business Administration (Strategic Leadership)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Strategic Leadership",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-postgraduate-diploma-in-management",
+      "universityId": "mahsa",
+      "name": "Postgraduate Diploma in Management",
+      "nameAr": "دبلوم في Postgraduate Diploma in Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 0.9,
+      "annualFee": 18900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18900
+        }
+      ],
+      "totalTuitionFee": 18900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-postgraduate-certificate-in-leadership",
+      "universityId": "mahsa",
+      "name": "Postgraduate Certificate in Leadership",
+      "nameAr": "برنامج في Postgraduate Certificate in Leadership",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "certificate",
+      "duration": 0.7,
+      "annualFee": 13100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13100
+        }
+      ],
+      "totalTuitionFee": 13100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-business-administration-financial-technology",
+      "universityId": "mahsa",
+      "name": "Master of Business Administration (Financial Technology)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Financial Technology",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 31500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 31500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-electrical-electronic-engineering-with-honours",
+      "universityId": "mahsa",
+      "name": "Bachelor of Electrical & Electronic Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23500
+        },
+        {
+          "year": 2,
+          "fee": 23500
+        },
+        {
+          "year": 3,
+          "fee": 23500
+        },
+        {
+          "year": 4,
+          "fee": 23500
+        }
+      ],
+      "totalTuitionFee": 94000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-civil-engineering-with-honours",
+      "universityId": "mahsa",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23500
+        },
+        {
+          "year": 2,
+          "fee": 23500
+        },
+        {
+          "year": 3,
+          "fee": 23500
+        },
+        {
+          "year": 4,
+          "fee": 23500
+        }
+      ],
+      "totalTuitionFee": 94000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-science-honours-in-architectural-technology",
+      "universityId": "mahsa",
+      "name": "Bachelor of Science (Honours) in Architectural Technology",
+      "nameAr": "بكالوريوس العلوم في Honours) in Architectural Technology",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 23900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23900
+        },
+        {
+          "year": 2,
+          "fee": 23900
+        },
+        {
+          "year": 3,
+          "fee": 23900
+        }
+      ],
+      "totalTuitionFee": 71700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-architectural-technology",
+      "universityId": "mahsa",
+      "name": "Diploma in Architectural Technology",
+      "nameAr": "دبلوم في Architectural Technology",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10100,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10100
+        },
+        {
+          "year": 2,
+          "fee": 10100
+        }
+      ],
+      "totalTuitionFee": 20200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-civil-engineering",
+      "universityId": "mahsa",
+      "name": "Diploma in Civil Engineering",
+      "nameAr": "دبلوم في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-electrical-and-electronic-engineering",
+      "universityId": "mahsa",
+      "name": "Diploma in Electrical and Electronic Engineering",
+      "nameAr": "دبلوم في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-mechanical-engineering",
+      "universityId": "mahsa",
+      "name": "Diploma in Mechanical Engineering",
+      "nameAr": "دبلوم في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-quantity-surveying",
+      "universityId": "mahsa",
+      "name": "Diploma in Quantity Surveying",
+      "nameAr": "دبلوم في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "mahsa",
+      "name": "Bachelor of Mechanical Engineering  with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23500,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23500
+        },
+        {
+          "year": 2,
+          "fee": 23500
+        },
+        {
+          "year": 3,
+          "fee": 23500
+        },
+        {
+          "year": 4,
+          "fee": 23500
+        }
+      ],
+      "totalTuitionFee": 94000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-of-philosophy-in-engineering",
+      "universityId": "mahsa",
+      "name": "Doctor of Philosophy in Engineering",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17450
+        },
+        {
+          "year": 2,
+          "fee": 17450
+        },
+        {
+          "year": 3,
+          "fee": 17450
+        }
+      ],
+      "totalTuitionFee": 52350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-in-engineering",
+      "universityId": "mahsa",
+      "name": "Master in Engineering",
+      "nameAr": "ماجستير في Master in Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        },
+        {
+          "year": 2,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 39600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-quantity-surveying-honours",
+      "universityId": "mahsa",
+      "name": "Bachelor of Quantity Surveying (Honours)",
+      "nameAr": "بكالوريوس في حساب الكميات وإدارة التشييد",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 23733,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23733
+        },
+        {
+          "year": 2,
+          "fee": 23733
+        },
+        {
+          "year": 3,
+          "fee": 23733
+        }
+      ],
+      "totalTuitionFee": 71199,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-engineering-hons-in-medical-electronics-engineering",
+      "universityId": "mahsa",
+      "name": "Bachelor of Engineering (Hons) in Medical Electronics Engineering",
+      "nameAr": "بكالوريوس الهندسة (مع مرتبة الشرف) في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        },
+        {
+          "year": 4,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-medicine-and-bachelor-of-surgery-mbbs",
+      "universityId": "mahsa",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+      "nameAr": "بكالوريوس الطب البشري والجراحة (MBBS) في MBBS",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 98170,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 98170
+        },
+        {
+          "year": 2,
+          "fee": 98170
+        },
+        {
+          "year": 3,
+          "fee": 98170
+        },
+        {
+          "year": 4,
+          "fee": 98170
+        },
+        {
+          "year": 5,
+          "fee": 98170
+        }
+      ],
+      "totalTuitionFee": 490850,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-medical-laboratory-technology",
+      "universityId": "mahsa",
+      "name": "Diploma in Medical Laboratory Technology",
+      "nameAr": "دبلوم في Medical Laboratory Technology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-nursing-hons-public-health",
+      "universityId": "mahsa",
+      "name": "Bachelor of Nursing (Hons) Public Health",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 16100,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16100
+        },
+        {
+          "year": 2,
+          "fee": 16100
+        },
+        {
+          "year": 3,
+          "fee": 16100
+        }
+      ],
+      "totalTuitionFee": 48300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-nursing",
+      "universityId": "mahsa",
+      "name": "Diploma in Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-advanced-diploma-in-paediatric-nursing",
+      "universityId": "mahsa",
+      "name": "Advanced Diploma in Paediatric Nursing",
+      "nameAr": "دبلوم في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 32900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32900
+        }
+      ],
+      "totalTuitionFee": 32900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-advanced-diploma-in-midwifery",
+      "universityId": "mahsa",
+      "name": "Advanced Diploma in Midwifery",
+      "nameAr": "دبلوم في Advanced Diploma in Midwifery",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 32900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32900
+        }
+      ],
+      "totalTuitionFee": 32900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-post-basic-certificate-in-renal-nursing",
+      "universityId": "mahsa",
+      "name": "Post Basic Certificate in Renal Nursing",
+      "nameAr": "برنامج في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 0.5,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-post-basic-certificate-in-critical-care-nursing",
+      "universityId": "mahsa",
+      "name": "Post Basic Certificate in Critical Care Nursing",
+      "nameAr": "برنامج في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 0.5,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-post-basic-certificate-in-gerontology-nursing",
+      "universityId": "mahsa",
+      "name": "Post Basic Certificate in Gerontology Nursing",
+      "nameAr": "برنامج في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 0.5,
+      "annualFee": 13000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-post-basic-certificate-in-perioperative-nursing",
+      "universityId": "mahsa",
+      "name": "Post Basic Certificate in Perioperative Nursing",
+      "nameAr": "برنامج في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 0.5,
+      "annualFee": 10400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10400
+        }
+      ],
+      "totalTuitionFee": 10400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-dental-technology",
+      "universityId": "mahsa",
+      "name": "Diploma in Dental Technology",
+      "nameAr": "دبلوم في Dental Technology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-dental-surgery-assistant",
+      "universityId": "mahsa",
+      "name": "Diploma in Dental Surgery Assistant",
+      "nameAr": "دبلوم في Dental Surgery Assistant",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 12400,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12400
+        },
+        {
+          "year": 2,
+          "fee": 12400
+        },
+        {
+          "year": 3,
+          "fee": 12400
+        }
+      ],
+      "totalTuitionFee": 37200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-physiotherapy-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Physiotherapy (Hons)",
+      "nameAr": "بكالوريوس في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28125
+        },
+        {
+          "year": 2,
+          "fee": 28125
+        },
+        {
+          "year": 3,
+          "fee": 28125
+        },
+        {
+          "year": 4,
+          "fee": 28125
+        }
+      ],
+      "totalTuitionFee": 112500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-physiotherapy-hons-online-degree",
+      "universityId": "mahsa",
+      "name": "Bachelor of Physiotherapy (HONS) - Online Degree",
+      "nameAr": "بكالوريوس في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17725,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17725
+        },
+        {
+          "year": 2,
+          "fee": 17725
+        },
+        {
+          "year": 3,
+          "fee": 17725
+        },
+        {
+          "year": 4,
+          "fee": 17725
+        }
+      ],
+      "totalTuitionFee": 70900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-medical-imaging-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Medical Imaging (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Medical Imaging (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15950,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15950
+        },
+        {
+          "year": 2,
+          "fee": 15950
+        },
+        {
+          "year": 3,
+          "fee": 15950
+        },
+        {
+          "year": 4,
+          "fee": 15950
+        }
+      ],
+      "totalTuitionFee": 63800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-medical-imaging-hons-online-degree",
+      "universityId": "mahsa",
+      "name": "Bachelor of Medical Imaging (HONS) - Online Degree",
+      "nameAr": "بكالوريوس التصوير الطبي بالأشعة (مع مرتبة الشرف) أونلاين",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11350
+        },
+        {
+          "year": 2,
+          "fee": 11350
+        },
+        {
+          "year": 3,
+          "fee": 11350
+        },
+        {
+          "year": 4,
+          "fee": 11350
+        }
+      ],
+      "totalTuitionFee": 45400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-environmental-health-and-safety-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Environmental Health and Safety (Hons)",
+      "nameAr": "بكالوريوس في Bachelor of Environmental Health and Safety (Hons",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15950,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15950
+        },
+        {
+          "year": 2,
+          "fee": 15950
+        },
+        {
+          "year": 3,
+          "fee": 15950
+        },
+        {
+          "year": 4,
+          "fee": 15950
+        }
+      ],
+      "totalTuitionFee": 63800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-environmental-health-and-safety-hons-online-degree",
+      "universityId": "mahsa",
+      "name": "Bachelor of Environmental Health and Safety (Hons) - Online Degree",
+      "nameAr": "بكالوريوس في Environmental Health and Safety (Hons) أونلاين",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 11350,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11350
+        },
+        {
+          "year": 2,
+          "fee": 11350
+        },
+        {
+          "year": 3,
+          "fee": 11350
+        },
+        {
+          "year": 4,
+          "fee": 11350
+        }
+      ],
+      "totalTuitionFee": 45400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-physiotherapy",
+      "universityId": "mahsa",
+      "name": "Diploma in Physiotherapy",
+      "nameAr": "دبلوم في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-medical-imaging",
+      "universityId": "mahsa",
+      "name": "Diploma in Medical Imaging",
+      "nameAr": "دبلوم في Medical Imaging",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-environmental-health",
+      "universityId": "mahsa",
+      "name": "Diploma in Environmental Health",
+      "nameAr": "دبلوم في Environmental Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-occupational-safety-and-health",
+      "universityId": "mahsa",
+      "name": "Diploma in Occupational Safety and Health",
+      "nameAr": "دبلوم في Occupational Safety and Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-pharmacy-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Pharmacy (Hons)",
+      "nameAr": "بكالوريوس في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 37125,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 37125
+        },
+        {
+          "year": 2,
+          "fee": 37125
+        },
+        {
+          "year": 3,
+          "fee": 37125
+        },
+        {
+          "year": 4,
+          "fee": 37125
+        }
+      ],
+      "totalTuitionFee": 148500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-science-honours-in-pharmaceuticals-technology",
+      "universityId": "mahsa",
+      "name": "Bachelor of Science (Honours) in Pharmaceuticals Technology",
+      "nameAr": "بكالوريوس العلوم في Honours) in Pharmaceuticals Technology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22200
+        },
+        {
+          "year": 2,
+          "fee": 22200
+        },
+        {
+          "year": 3,
+          "fee": 22200
+        }
+      ],
+      "totalTuitionFee": 66600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-pharmacy",
+      "universityId": "mahsa",
+      "name": "Diploma in Pharmacy",
+      "nameAr": "دبلوم في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-restaurant-management",
+      "universityId": "mahsa",
+      "name": "Diploma in Restaurant Management",
+      "nameAr": "دبلوم في Restaurant Management",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 18550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18550
+        },
+        {
+          "year": 2,
+          "fee": 18550
+        }
+      ],
+      "totalTuitionFee": 37100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-science-in-public-health",
+      "universityId": "mahsa",
+      "name": "Master of Science in Public Health",
+      "nameAr": "ماجستير العلوم في Public Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-science-in-public-health-online-degree",
+      "universityId": "mahsa",
+      "name": "Master of Science in Public Health - Online Degree",
+      "nameAr": "ماجستير العلوم في Public Health أونلاين",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 25300,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25300
+        }
+      ],
+      "totalTuitionFee": 25300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-medical-science-anatomy",
+      "universityId": "mahsa",
+      "name": "Master of Medical Science (Anatomy)",
+      "nameAr": "ماجستير في Master of Medical Science (Anatomy",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        },
+        {
+          "year": 2,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 39600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-medical-sciences",
+      "universityId": "mahsa",
+      "name": "Master of Medical Sciences",
+      "nameAr": "ماجستير في Master of Medical Sciences",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 30000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-medical-science-in-aesthetic-medicine",
+      "universityId": "mahsa",
+      "name": "Master of Medical Science  in Aesthetic Medicine",
+      "nameAr": "ماجستير في Master of Medical Science in Aesthetic Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 51700,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 51700
+        }
+      ],
+      "totalTuitionFee": 51700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-of-dental-surgery",
+      "universityId": "mahsa",
+      "name": "Doctor of Dental Surgery",
+      "nameAr": "دكتوراه في Doctor of Dental Surgery",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 5,
+      "annualFee": 94070,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 94070
+        },
+        {
+          "year": 2,
+          "fee": 94070
+        },
+        {
+          "year": 3,
+          "fee": 94070
+        },
+        {
+          "year": 4,
+          "fee": 94070
+        },
+        {
+          "year": 5,
+          "fee": 94070
+        }
+      ],
+      "totalTuitionFee": 470350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-in-restorative-dentistry",
+      "universityId": "mahsa",
+      "name": "Doctor in Restorative Dentistry",
+      "nameAr": "دكتوراه في Doctor in Restorative Dentistry",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 123483,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 123483
+        },
+        {
+          "year": 2,
+          "fee": 123483
+        },
+        {
+          "year": 3,
+          "fee": 123483
+        }
+      ],
+      "totalTuitionFee": 370449,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-orofacial-sciences-restorative-perio-ortho",
+      "universityId": "mahsa",
+      "name": "Master of Orofacial Sciences  (Restorative/Perio/Ortho)",
+      "nameAr": "ماجستير في Master of Orofacial Sciences (Restorative/Perio/Ortho",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 111800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 111800
+        }
+      ],
+      "totalTuitionFee": 111800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-in-periodontology-drperio",
+      "universityId": "mahsa",
+      "name": "Doctor in Periodontology (DrPerio)",
+      "nameAr": "دكتوراه في Doctor in Periodontology (DrPerio",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 123483,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 123483
+        },
+        {
+          "year": 2,
+          "fee": 123483
+        },
+        {
+          "year": 3,
+          "fee": 123483
+        }
+      ],
+      "totalTuitionFee": 370449,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-physiotherapy",
+      "universityId": "mahsa",
+      "name": "Master of Physiotherapy",
+      "nameAr": "ماجستير في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 47700,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 47700
+        }
+      ],
+      "totalTuitionFee": 47700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-of-philosophy-phd-in-nursing",
+      "universityId": "mahsa",
+      "name": "Doctor of Philosophy (PhD) in Nursing",
+      "nameAr": "دكتوراه الفلسفة (PhD) في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17450
+        },
+        {
+          "year": 2,
+          "fee": 17450
+        },
+        {
+          "year": 3,
+          "fee": 17450
+        }
+      ],
+      "totalTuitionFee": 52350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-nursing",
+      "universityId": "mahsa",
+      "name": "Master of Nursing",
+      "nameAr": "ماجستير في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        },
+        {
+          "year": 2,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 39600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-phd-in-pharmacy",
+      "universityId": "mahsa",
+      "name": "PhD in Pharmacy",
+      "nameAr": "دكتوراه في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18617,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18617
+        },
+        {
+          "year": 2,
+          "fee": 18617
+        },
+        {
+          "year": 3,
+          "fee": 18617
+        }
+      ],
+      "totalTuitionFee": 55851,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-in-pharmacy",
+      "universityId": "mahsa",
+      "name": "Master in Pharmacy",
+      "nameAr": "ماجستير في الصيدلة الدوائية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        },
+        {
+          "year": 2,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 39600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-postgraduate-certificate-in-aesthetic-medicine",
+      "universityId": "mahsa",
+      "name": "Postgraduate Certificate in Aesthetic Medicine",
+      "nameAr": "برنامج في Postgraduate Certificate in Aesthetic Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "certificate",
+      "duration": 1,
+      "annualFee": 29000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29000
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-beauty-and-health",
+      "universityId": "mahsa",
+      "name": "Diploma in Beauty and Health",
+      "nameAr": "دبلوم في Beauty and Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 16300,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16300
+        },
+        {
+          "year": 2,
+          "fee": 16300
+        }
+      ],
+      "totalTuitionFee": 32600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-science-biotechnology-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Science Biotechnology (Hons)",
+      "nameAr": "بكالوريوس العلوم في التقنية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22200
+        },
+        {
+          "year": 2,
+          "fee": 22200
+        },
+        {
+          "year": 3,
+          "fee": 22200
+        }
+      ],
+      "totalTuitionFee": 66600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-foundation-in-science",
+      "universityId": "mahsa",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 17800,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17800
+        }
+      ],
+      "totalTuitionFee": 17800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-sport-science",
+      "universityId": "mahsa",
+      "name": "Bachelor of Sport Science",
+      "nameAr": "بكالوريوس في Bachelor of Sport Science",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 33200,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Aug, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33200
+        },
+        {
+          "year": 2,
+          "fee": 33200
+        },
+        {
+          "year": 3,
+          "fee": 33200
+        }
+      ],
+      "totalTuitionFee": 99600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-biomedical-sciences-hons",
+      "universityId": "mahsa",
+      "name": "Bachelor of Biomedical Sciences (Hons)",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 28125,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28125
+        },
+        {
+          "year": 2,
+          "fee": 28125
+        },
+        {
+          "year": 3,
+          "fee": 28125
+        },
+        {
+          "year": 4,
+          "fee": 28125
+        }
+      ],
+      "totalTuitionFee": 112500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-biomedical-sciences-hons-online-degree",
+      "universityId": "mahsa",
+      "name": "Bachelor of Biomedical Sciences (Hons) - Online Degree",
+      "nameAr": "بكالوريوس في العلوم الطبية الحيوية",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 17725,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17725
+        },
+        {
+          "year": 2,
+          "fee": 17725
+        },
+        {
+          "year": 3,
+          "fee": 17725
+        },
+        {
+          "year": 4,
+          "fee": 17725
+        }
+      ],
+      "totalTuitionFee": 70900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-paramedical-science",
+      "universityId": "mahsa",
+      "name": "Diploma in Paramedical Science",
+      "nameAr": "دبلوم في Paramedical Science",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 14667,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14667
+        },
+        {
+          "year": 2,
+          "fee": 14667
+        },
+        {
+          "year": 3,
+          "fee": 14667
+        }
+      ],
+      "totalTuitionFee": 44001,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-science-hons-nursing",
+      "universityId": "mahsa",
+      "name": "Bachelor of Science (Hons) Nursing",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في التمريض",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15625,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15625
+        },
+        {
+          "year": 2,
+          "fee": 15625
+        },
+        {
+          "year": 3,
+          "fee": 15625
+        },
+        {
+          "year": 4,
+          "fee": 15625
+        }
+      ],
+      "totalTuitionFee": 62500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-nursing-sciences-hons-online-degree",
+      "universityId": "mahsa",
+      "name": "Bachelor of Nursing Sciences ( HONS ) - Online Degree",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14400
+        },
+        {
+          "year": 2,
+          "fee": 14400
+        },
+        {
+          "year": 3,
+          "fee": 14400
+        },
+        {
+          "year": 4,
+          "fee": 14400
+        }
+      ],
+      "totalTuitionFee": 57600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-early-childhood-education",
+      "universityId": "mahsa",
+      "name": "Diploma in Early Childhood Education",
+      "nameAr": "دبلوم في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 17950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17950
+        },
+        {
+          "year": 2,
+          "fee": 17950
+        }
+      ],
+      "totalTuitionFee": 35900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-diploma-in-education-tesl",
+      "universityId": "mahsa",
+      "name": "Diploma in Education (TESL)",
+      "nameAr": "دبلوم في Education (TESL",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 17950,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17950
+        },
+        {
+          "year": 2,
+          "fee": 17950
+        }
+      ],
+      "totalTuitionFee": 35900,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-postgraduate-certificate-in-teaching-and-learning",
+      "universityId": "mahsa",
+      "name": "Postgraduate Certificate in Teaching and Learning",
+      "nameAr": "برنامج في Postgraduate Certificate in Teaching and Learning",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "certificate",
+      "duration": 0.7,
+      "annualFee": 13100,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13100
+        }
+      ],
+      "totalTuitionFee": 13100,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-bachelor-of-arts-hons-creative-multimedia-design",
+      "universityId": "mahsa",
+      "name": "Bachelor of Arts (Hons) Creative Multimedia Design",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في الوسائط المتعددة الإبداعية",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21333,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21333
+        },
+        {
+          "year": 2,
+          "fee": 21333
+        },
+        {
+          "year": 3,
+          "fee": 21333
+        }
+      ],
+      "totalTuitionFee": 63999,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-foundation-in-arts",
+      "universityId": "mahsa",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 14200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, May, Aug, Jan",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14200
+        }
+      ],
+      "totalTuitionFee": 14200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-doctor-of-philosophy-by-research",
+      "universityId": "mahsa",
+      "name": "Doctor of Philosophy by Research",
+      "nameAr": "دكتوراه الفلسفة (PhD) في by Research",
+      "field": "business",
+      "category": "Other",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 17450,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, May, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17450
+        },
+        {
+          "year": 2,
+          "fee": 17450
+        },
+        {
+          "year": 3,
+          "fee": 17450
+        }
+      ],
+      "totalTuitionFee": 52350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "mahsa-master-of-science-by-research",
+      "universityId": "mahsa",
+      "name": "Master of Science by Research",
+      "nameAr": "ماجستير العلوم في by Research",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 19800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19800
+        },
+        {
+          "year": 2,
+          "fee": 19800
+        }
+      ],
+      "totalTuitionFee": 39600,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 97
+}

@@ -1,0 +1,2846 @@
+{
+  "id": "psb-sg",
+  "name": "PSB Academy Singapore",
+  "arabicName": "أكاديمية بي إس بي سنغافورة (PSB Academy)",
+  "city": "Marina Square, Singapore",
+  "cityEn": "Marina Square, Singapore",
+  "cityAr": "سنغافورة (مارينا سكوير)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.psb-academy.edu.sg/",
+  "ranking": "Awarded 'Best Educational Institute - Singapore' (SBR National Business Awards)",
+  "established": "1964",
+  "campusName": "City Campus Marina",
+  "studentCount": "12,000+ (50+ Countries)",
+  "intakes": "Jan, May, Jul, Oct",
+  "feeRangeMin": 13000,
+  "feeRangeMax": 31500,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/l3_0btCRa08",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/l3_0btCRa08",
+  "directWatchUrl": "https://www.youtube.com/watch?v=l3_0btCRa08",
+  "photos": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-psb-sg.svg",
+  "image": "assets/photo/campus_psb-sg.jpg",
+  "description": "Known as 'The Future Academy', PSB Academy delivers high-demand British and Australian university degrees in STEM, business, analytics, and life sciences.",
+  "descriptionAr": "تُعرف بأكاديمية المستقبل، وتوفر درجات جامعية بريطانية وأسترالية معتمدة في مجالات الهندسة والتكنولوجيا والعلوم الطبية الحيوية وإدارة الأعمال.",
+  "about": {
+    "ar": "تعد أكاديمية بي إس بي سنغافورة (PSB Academy) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "PSB Academy Singapore is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "PSB Academy Singapore adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Awarded 'Best Educational Institute - Singapore' (SBR National Business Awards) - World-Renowned Excellence",
+        "ar": "Awarded 'Best Educational Institute - Singapore' (SBR National Business Awards) - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "PSB Academy Singapore Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ أكاديمية بي إس بي سنغافورة (PSB Academy)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_diploma",
+      "levelName": "Diploma",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 12,000 - SGD 18,000"
+    },
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "2 - 3 Years",
+      "avgFee": "SGD 22,000 - SGD 36,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 1.5 Years",
+      "avgFee": "SGD 26,000 - SGD 42,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "psb-sg-cov-mech-beng",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Engineering (Honours) in Mechanical Engineering (Coventry)",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الميكانيكية (جامعة كوفنتري البريطانية)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering (Honours) in Mechanical Engineering (Coventry) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في الهندسة الميكانيكية (جامعة كوفنتري البريطانية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26500
+        },
+        {
+          "year": 2,
+          "fee": 26500
+        },
+        {
+          "year": 3,
+          "fee": 26500
+        }
+      ],
+      "totalTuitionFee": 79500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-cov-eee-beng",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Engineering (Honours) in Electrical & Electronic Engineering (Coventry)",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الكهربائية والإلكترونية (جامعة كوفنتري البريطانية)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering (Honours) in Electrical & Electronic Engineering (Coventry) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في الهندسة الكهربائية والإلكترونية (جامعة كوفنتري البريطانية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26500
+        },
+        {
+          "year": 2,
+          "fee": 26500
+        },
+        {
+          "year": 3,
+          "fee": 26500
+        }
+      ],
+      "totalTuitionFee": 79500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-cov-cs-bsc",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Science (Honours) in Computer Science (Coventry University)",
+      "nameAr": "بكالوريوس العلوم في علوم الحاسب والبرمجيات (جامعة كوفنتري البريطانية)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Honours) in Computer Science (Coventry University) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في علوم الحاسب والبرمجيات (جامعة كوفنتري البريطانية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25500
+        },
+        {
+          "year": 2,
+          "fee": 25500
+        },
+        {
+          "year": 3,
+          "fee": 25500
+        }
+      ],
+      "totalTuitionFee": 76500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-cov-cyber-bsc",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Science (Honours) in Cyber Security (Coventry University)",
+      "nameAr": "بكالوريوس العلوم في الأمن السيبراني والتحري الرقمي (جامعة كوفنتري البريطانية)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Honours) in Cyber Security (Coventry University) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في الأمن السيبراني والتحري الرقمي (جامعة كوفنتري البريطانية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25500
+        },
+        {
+          "year": 2,
+          "fee": 25500
+        },
+        {
+          "year": 3,
+          "fee": 25500
+        }
+      ],
+      "totalTuitionFee": 76500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-cov-engmgmt-msc",
+      "universityId": "psb-sg",
+      "name": "Master of Science in Engineering Business Management (Coventry)",
+      "nameAr": "ماجستير العلوم في إدارة المشاريع والأعمال الهندسية (جامعة كوفنتري البريطانية)",
+      "field": "engineering",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Engineering Business Management (Coventry) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في إدارة المشاريع والأعمال الهندسية (جامعة كوفنتري البريطانية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29000
+        }
+      ],
+      "totalTuitionFee": 29000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-latrobe-biomed",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Biomedical Science (La Trobe University Australia)",
+      "nameAr": "بكالوريوس العلوم الطبية الحيوية والتشخيص المخبري (جامعة لا تروب الأسترالية)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Biomedical Science (La Trobe University Australia) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم الطبية الحيوية والتشخيص المخبري (جامعة لا تروب الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        },
+        {
+          "year": 3,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 84000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-latrobe-biotech",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Science (Molecular Biology & Biotechnology) (La Trobe)",
+      "nameAr": "بكالوريوس العلوم في البيولوجيا الجزيئية والتكنولوجيا الحيوية (جامعة لا تروب الأسترالية)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Molecular Biology & Biotechnology) (La Trobe) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في البيولوجيا الجزيئية والتكنولوجيا الحيوية (جامعة لا تروب الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28000
+        },
+        {
+          "year": 2,
+          "fee": 28000
+        },
+        {
+          "year": 3,
+          "fee": 28000
+        }
+      ],
+      "totalTuitionFee": 84000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-latrobe-pharm",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Science (Pharmaceutical Science) (La Trobe University)",
+      "nameAr": "بكالوريوس العلوم في العلوم الصيدلانية وتطوير الأدوية (جامعة لا تروب الأسترالية)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 28500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Pharmaceutical Science) (La Trobe University) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في العلوم الصيدلانية وتطوير الأدوية (جامعة لا تروب الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28500
+        },
+        {
+          "year": 2,
+          "fee": 28500
+        },
+        {
+          "year": 3,
+          "fee": 28500
+        }
+      ],
+      "totalTuitionFee": 85500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-uon-bcom",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Commerce (University of Newcastle Australia)",
+      "nameAr": "بكالوريوس التجارة والمحاسبة والمالية (جامعة نيوكاسل الأسترالية)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "January, May, August",
+      "intakesAr": "يناير، مايو، أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Commerce (University of Newcastle Australia) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس التجارة والمحاسبة والمالية (جامعة نيوكاسل الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 78000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-ecu-bbus",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Business (Edith Cowan University Australia)",
+      "nameAr": "بكالوريوس إدارة الأعمال والإدارة الاستراتيجية (جامعة إديث كوان الأسترالية)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Business (Edith Cowan University Australia) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس إدارة الأعمال والإدارة الاستراتيجية (جامعة إديث كوان الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25000
+        },
+        {
+          "year": 2,
+          "fee": 25000
+        },
+        {
+          "year": 3,
+          "fee": 25000
+        }
+      ],
+      "totalTuitionFee": 75000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-uon-mba",
+      "universityId": "psb-sg",
+      "name": "Master of Business Administration (University of Newcastle Australia)",
+      "nameAr": "ماجستير إدارة الأعمال المعتمد دولياً (جامعة نيوكاسل الأسترالية)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 31000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "January, May, August",
+      "intakesAr": "يناير، مايو، أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Business Administration (University of Newcastle Australia) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير إدارة الأعمال المعتمد دولياً (جامعة نيوكاسل الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31000
+        },
+        {
+          "year": 2,
+          "fee": 31000
+        }
+      ],
+      "totalTuitionFee": 62000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-cov-media-ba",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Arts in Media and Communication (Coventry University)",
+      "nameAr": "بكالوريوس الآداب في الإعلام والاتصال الرقمي (جامعة كوفنتري البريطانية)",
+      "field": "arts",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 24500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts in Media and Communication (Coventry University) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في الإعلام والاتصال الرقمي (جامعة كوفنتري البريطانية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ],
+        "year2": [
+          "Social & Political Philosophy",
+          "International Relations & Comparative Politics",
+          "Research Methodologies in Humanities & Social Sciences",
+          "Digital Communication & Narrative Design"
+        ],
+        "year3": [
+          "Public Policy Analysis & Community Governance",
+          "Globalization, Cultural Studies & Society",
+          "Digital Media Production & Storytelling",
+          "Arts & Humanities Senior Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ],
+        "year2": [
+          "الفلسفة الاجتماعية والسياسية الحديثة",
+          "العلاقات الدولية والسياسات المقارنة",
+          "مناهج البحث في العلوم الإنسانية والاجتماعية",
+          "الاتصال الرقمي والتصميم السردي الإبداعي"
+        ],
+        "year3": [
+          "تحليل السياسات العامة والحوكمة المجتمعية",
+          "العولمة والدراسات الثقافية المعاصرة",
+          "استوديو الإنتاج الإعلامي ورواية القصص الرقمية",
+          "مشروع التخرج والبحث العملي في الآداب والعلوم الإنسانية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24500
+        },
+        {
+          "year": 2,
+          "fee": 24500
+        },
+        {
+          "year": 3,
+          "fee": 24500
+        }
+      ],
+      "totalTuitionFee": 73500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-dip-mech",
+      "universityId": "psb-sg",
+      "name": "Diploma in Mechanical Engineering Technology",
+      "nameAr": "دبلوم التكنولوجيا المتقدمة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 14000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "January, April, July, October",
+      "intakesAr": "يناير، أبريل، يوليو، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Mechanical Engineering Technology provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم التكنولوجيا المتقدمة في الهندسة الميكانيكية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14000
+        }
+      ],
+      "totalTuitionFee": 14000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-dip-it",
+      "universityId": "psb-sg",
+      "name": "Diploma in Infocomm Technology",
+      "nameAr": "دبلوم تكنولوجيا المعلومات وشبكات الحاسب",
+      "field": "cs",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 13500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "January, April, July, October",
+      "intakesAr": "يناير، أبريل، يوليو، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Infocomm Technology provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم تكنولوجيا المعلومات وشبكات الحاسب إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13500
+        }
+      ],
+      "totalTuitionFee": 13500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-dip-biz",
+      "universityId": "psb-sg",
+      "name": "Diploma in Business Administration and Global Trade",
+      "nameAr": "دبلوم إدارة الأعمال والتجارة العالمية",
+      "field": "business",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 13000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "January, April, July, October",
+      "intakesAr": "يناير، أبريل، يوليو، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Business Administration and Global Trade provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم إدارة الأعمال والتجارة العالمية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-sport-bsc",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Science (Honours) in Sport and Exercise Science (Napier)",
+      "nameAr": "بكالوريوس العلوم في علوم الرياضة والتمارين والتأهيل البدني (جامعة إدنبرة نابير)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 27500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Honours) in Sport and Exercise Science (Napier) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في علوم الرياضة والتمارين والتأهيل البدني (جامعة إدنبرة نابير) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27500
+        },
+        {
+          "year": 2,
+          "fee": 27500
+        },
+        {
+          "year": 3,
+          "fee": 27500
+        }
+      ],
+      "totalTuitionFee": 82500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-bizmktg-ba",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Arts (Honours) in Business and Marketing (Coventry)",
+      "nameAr": "بكالوريوس الآداب في إدارة الأعمال والتسويق الدولي (جامعة كوفنتري)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Business and Marketing (Coventry) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في إدارة الأعمال والتسويق الدولي (جامعة كوفنتري) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25000
+        },
+        {
+          "year": 2,
+          "fee": 25000
+        },
+        {
+          "year": 3,
+          "fee": 25000
+        }
+      ],
+      "totalTuitionFee": 75000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-digmktg-ba",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Arts (Honours) in Digital Marketing & Analytics (Coventry)",
+      "nameAr": "بكالوريوس الآداب في التسويق الرقمي وتحليلات النمو (جامعة كوفنتري)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Arts (Honours) in Digital Marketing & Analytics (Coventry) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الآداب في التسويق الرقمي وتحليلات النمو (جامعة كوفنتري) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ],
+        "year2": [
+          "Corporate Finance & Capital Markets",
+          "Strategic Marketing & Consumer Psychology",
+          "Managerial Accounting & Cost Control",
+          "Organizational Behaviour & People Management"
+        ],
+        "year3": [
+          "Strategic Management & Business Policy",
+          "International Trade & Global Business Operations",
+          "Digital Business Transformation & Systems",
+          "Applied Business Consulting Capstone Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ],
+        "year2": [
+          "تمويل الشركات وأسواق رأس المال",
+          "التسويق الاستراتيجي وسلوك المستهلك",
+          "المحاسبة الإدارية والرقابة على التكاليف",
+          "السلوك التنظيمي وإدارة الكفاءات"
+        ],
+        "year3": [
+          "الإدارة الاستراتيجية وسياسات الأعمال",
+          "التجارة الدولية وإدارة العمليات العالمية",
+          "التحول الرقمي ونظم الأعمال الذكية",
+          "مشروع الاستشارات التخرجي وتطوير الأعمال"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25000
+        },
+        {
+          "year": 2,
+          "fee": 25000
+        },
+        {
+          "year": 3,
+          "fee": 25000
+        }
+      ],
+      "totalTuitionFee": 75000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-cloud-bsc",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Science (Honours) in Network & Cloud Infrastructure (Coventry)",
+      "nameAr": "بكالوريوس العلوم في الشبكات والبنية التحتية السحابية (جامعة كوفنتري)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 25500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science (Honours) in Network & Cloud Infrastructure (Coventry) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في الشبكات والبنية التحتية السحابية (جامعة كوفنتري) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25500
+        },
+        {
+          "year": 2,
+          "fee": 25500
+        },
+        {
+          "year": 3,
+          "fee": 25500
+        }
+      ],
+      "totalTuitionFee": 76500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-civil-beng",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Engineering (Honours) in Civil Engineering (Coventry)",
+      "nameAr": "بكالوريوس الهندسة في الهندسة المدنية وتصميم الإنشاءات (جامعة كوفنتري)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26500,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering (Honours) in Civil Engineering (Coventry) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في الهندسة المدنية وتصميم الإنشاءات (جامعة كوفنتري) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26500
+        },
+        {
+          "year": 2,
+          "fee": 26500
+        },
+        {
+          "year": 3,
+          "fee": 26500
+        }
+      ],
+      "totalTuitionFee": 79500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-cyber-msc",
+      "universityId": "psb-sg",
+      "name": "Master of Science in Cyber Security (Coventry University)",
+      "nameAr": "ماجستير العلوم في الأمن السيبراني وحماية البيانات المؤسسية (جامعة كوفنتري)",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Cyber Security (Coventry University) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الأمن السيبراني وحماية البيانات المؤسسية (جامعة كوفنتري) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29500
+        }
+      ],
+      "totalTuitionFee": 29500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-biotech-msc",
+      "universityId": "psb-sg",
+      "name": "Master of Science in Biotechnology and Bioinformatics (La Trobe)",
+      "nameAr": "ماجستير العلوم في التكنولوجيا الحيوية والمعلوماتية الحيوية (جامعة لا تروب)",
+      "field": "health",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 31500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Biotechnology and Bioinformatics (La Trobe) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التكنولوجيا الحيوية والمعلوماتية الحيوية (جامعة لا تروب) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 31500
+        },
+        {
+          "year": 2,
+          "fee": 31500
+        }
+      ],
+      "totalTuitionFee": 63000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-it-uon-bit",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Information Technology (Newcastle Australia)",
+      "nameAr": "بكالوريوس تكنولوجيا المعلومات وتطبيقات الأعمال (جامعة نيوكاسل الأسترالية)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "January, May, August",
+      "intakesAr": "يناير، مايو، أغسطس",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Information Technology (Newcastle Australia) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس تكنولوجيا المعلومات وتطبيقات الأعمال (جامعة نيوكاسل الأسترالية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 78000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-envsafe-bsc",
+      "universityId": "psb-sg",
+      "name": "Bachelor of Environmental and Safety Management",
+      "nameAr": "بكالوريوس الإدارة البيئية والسلامة والصحة المهنية",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 26000,
+      "currency": "SGD",
+      "ielts": "6.0",
+      "intakes": "March, July, November",
+      "intakesAr": "مارس، يوليو، نوفمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Environmental and Safety Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الإدارة البيئية والسلامة والصحة المهنية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ],
+        "year2": [
+          "Human Anatomy & Physiology II",
+          "Medical Microbiology & Clinical Immunology",
+          "Principles of Pharmacology & Therapeutics",
+          "Pathophysiology & Clinical Assessment"
+        ],
+        "year3": [
+          "Clinical Practice & Patient Care Skills",
+          "Medical Diagnostic Sciences & Pathology",
+          "Health Promotion & Community Health",
+          "Evidence-Based Clinical Practice & Research"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ],
+        "year2": [
+          "تشريح ووظائف أعضاء جسم الإنسان 2",
+          "الأحياء الدقيقة الطبية والمناعة السريرية",
+          "علم الأدوية والعقاقير والعلاجيات",
+          "الفيزيولوجيا المرضية والتقييم السريري"
+        ],
+        "year3": [
+          "الممارسة السريرية ومهارات رعاية المرضى",
+          "علوم التشخيص الطبي وعلم الأمراض",
+          "تعزيز الصحة وصحة المجتمع",
+          "الممارسة السريرية القائمة على الدليل والبحث العلمي"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 26000
+        },
+        {
+          "year": 2,
+          "fee": 26000
+        },
+        {
+          "year": 3,
+          "fee": 26000
+        }
+      ],
+      "totalTuitionFee": 78000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-sport-dip",
+      "universityId": "psb-sg",
+      "name": "Diploma in Sport and Exercise Sciences",
+      "nameAr": "دبلوم العلوم والتدريب الرياضي والتأهيل البدني",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 13500,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "January, April, July, October",
+      "intakesAr": "يناير، أبريل، يوليو، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Sport and Exercise Sciences provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم العلوم والتدريب الرياضي والتأهيل البدني إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13500
+        }
+      ],
+      "totalTuitionFee": 13500,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-comm-dip",
+      "universityId": "psb-sg",
+      "name": "Diploma in Media and Communications",
+      "nameAr": "دبلوم الإعلام والاتصال الجماهيري والعلاقات العامة",
+      "field": "arts",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 13000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "January, April, July, October",
+      "intakesAr": "يناير، أبريل، يوليو، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Media and Communications provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم الإعلام والاتصال الجماهيري والعلاقات العامة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Creative Art Director & Media Producer, UX/UI Interaction Design Specialist, Brand Identity & Visual Communications Lead, Contemporary Arts Curator & Cultural Manager",
+      "careerProspectsAr": "مدير إبداعي وفني ومنتج وسائط رقمية، أخصائي تجربة مستخدم وتصميم واجهات تفاعلية، قائد استراتيجيات الهوية البصرية والتواصل، قيّم فنون معاصرة ومدير فعاليات ومتاحف",
+      "careerOpportunities": [
+        "Creative Art Director & Media Producer",
+        "UX/UI Interaction Design Specialist",
+        "Brand Identity & Visual Communications Lead",
+        "Contemporary Arts Curator & Cultural Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير إبداعي وفني ومنتج وسائط رقمية",
+        "أخصائي تجربة مستخدم وتصميم واجهات تفاعلية",
+        "قائد استراتيجيات الهوية البصرية والتواصل",
+        "قيّم فنون معاصرة ومدير فعاليات ومتاحف"
+      ],
+      "curriculum": {
+        "year1": [
+          "Critical Thinking & Cultural Inquiry",
+          "Global History & Intercultural Perspectives",
+          "Academic Writing & Rhetorical Analysis",
+          "Media, Digital Culture & Society"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير النقدي والتحليل الثقافي",
+          "التاريخ العالمي والثقافات المقارنة",
+          "الكتابة والتحرير الأكاديمي والتحليل البلاغي",
+          "الإعلام والثقافة الرقمية والمجتمع"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-pharm-dip",
+      "universityId": "psb-sg",
+      "name": "Diploma in Applied Science (Pharmaceutical Science)",
+      "nameAr": "دبلوم العلوم التطبيقية في تكنولوجيا العلوم الصيدلانية",
+      "field": "health",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 14000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "January, April, July, October",
+      "intakesAr": "يناير، أبريل، يوليو، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Applied Science (Pharmaceutical Science) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم العلوم التطبيقية في تكنولوجيا العلوم الصيدلانية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Clinical Healthcare Practitioner & Specialist, Biomedical Diagnostics Researcher, Hospital Healthcare Operations Manager, Public Health Policy Advisor",
+      "careerProspectsAr": "ممارس رعاية صحية وسريرية معتمد، باحث مختبرات وتشخيص طبي حيوي، مدير عمليات وإدارة مستشفيات ومراكز صحية، مستشار سياسات صحية عامة ووبائيات",
+      "careerOpportunities": [
+        "Clinical Healthcare Practitioner & Specialist",
+        "Biomedical Diagnostics Researcher",
+        "Hospital Healthcare Operations Manager",
+        "Public Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "ممارس رعاية صحية وسريرية معتمد",
+        "باحث مختبرات وتشخيص طبي حيوي",
+        "مدير عمليات وإدارة مستشفيات ومراكز صحية",
+        "مستشار سياسات صحية عامة ووبائيات"
+      ],
+      "curriculum": {
+        "year1": [
+          "Human Anatomy & Physiology I",
+          "Cell Biology, Genetics & Biochemistry",
+          "Foundations of Epidemiology & Public Health",
+          "Molecules to Organisms & Laboratory Skills"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "تشريح ووظائف أعضاء جسم الإنسان 1",
+          "بيولوجيا الخلية وعلم الوراثة والكيمياء الحيوية",
+          "أسس الوبائيات والصحة العامة",
+          "من الجزيئات إلى الكائنات الحية والمهارات المخبرية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14000
+        }
+      ],
+      "totalTuitionFee": 14000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "psb-sg-scm-dip",
+      "universityId": "psb-sg",
+      "name": "Diploma in Global Supply Chain Management",
+      "nameAr": "دبلوم إدارة سلاسل الإمداد العالمية والعمليات اللوجستية",
+      "field": "business",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 13000,
+      "currency": "SGD",
+      "ielts": "5.5",
+      "intakes": "January, April, July, October",
+      "intakesAr": "يناير، أبريل، يوليو، أكتوبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Diploma in Global Supply Chain Management provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دبلوم إدارة سلاسل الإمداد العالمية والعمليات اللوجستية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 5.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 5.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Investment Banking & Wealth Manager, Global Strategic Management Consultant, International Supply Chain Director, Corporate Financial Analyst & Controller",
+      "careerProspectsAr": "مدير مصرفية استثمارية وإدارة محافظ وثروات، مستشار إدارة استراتيجية وتطوير شركات دولية، مدير سلاسل إمداد وخدمات لوجستية دولية، محلل مالي ومراقب حسابات للشركات الكبرى",
+      "careerOpportunities": [
+        "Investment Banking & Wealth Manager",
+        "Global Strategic Management Consultant",
+        "International Supply Chain Director",
+        "Corporate Financial Analyst & Controller"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير مصرفية استثمارية وإدارة محافظ وثروات",
+        "مستشار إدارة استراتيجية وتطوير شركات دولية",
+        "مدير سلاسل إمداد وخدمات لوجستية دولية",
+        "محلل مالي ومراقب حسابات للشركات الكبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Principles of Management & Leadership",
+          "Financial Accounting Foundations",
+          "Microeconomics & Macroeconomics Principles",
+          "Business Analytics & Quantitative Methods"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مبادئ الإدارة والقيادة المؤسسية",
+          "أسس المحاسبة المالية",
+          "مبادئ الاقتصاد الجزئي والكلي",
+          "تحليلات الأعمال والأساليب الكمية"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13000
+        }
+      ],
+      "totalTuitionFee": 13000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 28,
+  "totalProgramsCount": 28,
+  "campusNameAr": "حرم مارينا سكوير سيتي",
+  "campusImage": "assets/photo/campus_psb-sg.jpg",
+  "nameAr": "أكاديمية بي إس بي سنغافورة (PSB Academy)"
+}

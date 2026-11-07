@@ -1,0 +1,4307 @@
+{
+  "id": "apu",
+  "slug": "apu-university",
+  "name": "Asia Pacific University of Technology & Innovation (APU)",
+  "arabicName": "جامعة آسيا باسيفيك للتكنولوجيا والابتكار (APU)",
+  "city": "Kuala Lumpur",
+  "cityKey": "city_kuala_lumpur",
+  "country": "malaysia",
+  "countryKey": "dest_malaysia",
+  "logo": "assets/photo/uni-apu.webp",
+  "image": "assets/photo/campus_apu.webp",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/3O_jnGaZxLs",
+  "website": "https://www.apu.edu.my/",
+  "offerLetterType": "Official Free Offer Letter Guarantee",
+  "ranking": "No. 1 Premier Digital Tech University in Malaysia (QS 5-Stars Plus)",
+  "rankingBadgeKey": "apu_ranking_badge",
+  "established": "1993",
+  "campusName": "APU Technology Park Smart Campus, Bukit Jalil",
+  "studentCount": "13,000+ (130+ Countries)",
+  "intakes": "Feb, Apr, May, Jul, Sep, Nov",
+  "feeRangeMin": 14267,
+  "feeRangeMax": 45800,
+  "currency": "MYR",
+  "majors": [
+    "cs",
+    "business",
+    "engineering",
+    "arts",
+    "design"
+  ],
+  "similarUniversities": [
+    "taylors",
+    "sunway",
+    "mmu"
+  ],
+  "totalProgramsCount": 112,
+  "description": "Asia Pacific University of Technology & Innovation (APU) is Malaysia's leading premier digital tech university, ranked QS 5-Stars Plus and globally recognized for computing, cybersecurity, software engineering, and dual-award degrees with De Montfort University (DMU) UK.",
+  "descriptionAr": "تعتبر جامعة آسيا باسيفيك (APU) الجامعة التكنولوجية الرقمية الرائدة في ماليزيا والحاصلة على تصنيف 5 نجوم بلس من QS، وتشتهر بتخصصات الأمن السيبراني والذكاء الاصطناعي وهندسة البرمجيات وبرامج الشهادة المزدوجة مع جامعة دي مونتفورت البريطانية.",
+  "about": {
+    "id": "Asia Pacific University of Technology & Innovation (APU) didirikan pada tahun 1993 dan merupakan universitas teknologi digital terkemuka No. 1 di Malaysia dengan predikat QS 5-Stars Plus. Berlokasi di Technology Park Malaysia (TPM) Bukit Jalil, Kuala Lumpur, kampus futuristik APU dilengkapi pusat riset keamanan siber, laboratorium kecerdasan buatan, dan program gelar ganda resmi bersama De Montfort University (DMU) Inggris.",
+    "en": "Asia Pacific University of Technology & Innovation (APU), established in 1993, is Malaysia’s premier digital technology university rated QS 5-Stars Plus. Located in Technology Park Malaysia (TPM), Bukit Jalil, Kuala Lumpur, APU features cutting-edge cybersecurity research centers, artificial intelligence labs, and UK Dual Degree partnerships with De Montfort University (DMU) Leicester.",
+    "ar": "تعد جامعة آسيا باسيفيك للتكنولوجيا والابتكار (APU) الصرح الأكاديمي الرقمي الأول في ماليزيا المصنف ضمن فئة 5 نجوم بلس من QS. يقع حرمها الذكي في حديقة التكنولوجيا ببوكيت جليل كوالالمبور، ويضم مراكز متقدمة للأمن السيبراني والذكاء الاصطناعي مع برنامج شهادة بريطانية مزدوجة مع جامعة دي مونتفورت.",
+    "zh": "亚太科技大学（APU）创立于1993年，是马来西亚唯一荣获QS全球五星级Plus最高卓越认证的顶级数字科技大学。坐落于吉隆坡武吉加里尔国家科技园区，APU建有尖端网络安全中心及AI实验室，并与英国德蒙福特大学（DMU）全面推行国际双学位。",
+    "ru": "Азиатско-Тихоокеанский университет технологий и инноваций (APU) в Куала-Лумпуре — ведущий IT-вуз Малайзии с рейтингом QS 5-Stars Plus и программами двойного диплома с De Montfort University (Великобритания).",
+    "fr": "L'Asia Pacific University of Technology & Innovation (APU) à Kuala Lumpur est l'université technologique leader en Malaisie, notée QS 5-Stars Plus avec des doubles diplômes britanniques de De Montfort University.",
+    "es": "La Asia Pacific University (APU) en Kuala Lumpur es la universidad tecnológica líder en Malasia con calificación QS 5-Stars Plus y dobles titulaciones británicas con De Montfort University.",
+    "ja": "アジア・パシフィック工科大学（APU）はクアラルンプールのテクノロジーパークに位置し、QS 5ツ星プラス評価を獲得したマレーシア最高峰のIT・デジタル工科大学であり、英DMUとの正規ダブルディグリーを提供。",
+    "ko": "아시아 태평양 혁신기술대학교(APU)는 쿠알라룸푸르 테크놀로지 파크에 위치한 QS 5스타 플러스 공인 디지털 테크 명문으로, 영국 드몽포트 대학교(DMU)와의 공식 복수학위 프로그램을 운영합니다."
+  },
+  "stats": [
+    {
+      "value": "QS 5-Stars Plus",
+      "label": "Tingkat Akreditasi Dunia"
+    },
+    {
+      "value": "1993",
+      "label": "Tahun Berdiri"
+    },
+    {
+      "value": "Bukit Jalil, KL",
+      "label": "Kampus Utama"
+    },
+    {
+      "value": "13,000+ (130+ Negara)",
+      "label": "Mahasiswa Internasional"
+    },
+    {
+      "value": "112+",
+      "label": "Program Studi"
+    },
+    {
+      "value": "Feb, Apr, May, Jul, Sep, Nov",
+      "label": "Jadwal Penerimaan"
+    }
+  ],
+  "campusShowcase": {
+    "videoUrl": "https://www.youtube-nocookie.com/embed/3O_jnGaZxLs",
+    "facilities": [
+      {
+        "icon": "shield",
+        "title": {
+          "id": "CyberSecurity Talent Zone & AI Threat Intelligence",
+          "en": "CyberSecurity Talent Zone & AI Threat Intelligence",
+          "ar": "مركز الأمن السيبراني التفاعلي وتحليل التهديدات الرقمية",
+          "ko": "최첨단 사이버 보안 및 AI 위협 인텔리전스 센터",
+          "ja": "サイバーセキュリティ・AI脅威インテリジェンスセンター",
+          "zh": "网络安全与人工智能威胁情报中心",
+          "ru": "Центр кибербезопасности и аналитики ИИ-угроз",
+          "fr": "Centre d'intelligence contre les cybermenaces et IA",
+          "es": "Centro de Ciberseguridad e Inteligencia de Amenazas IA"
+        }
+      },
+      {
+        "icon": "",
+        "title": {
+          "id": "XR Studio (Virtual Reality & Spatial Computing)",
+          "en": "XR Studio (Virtual Reality & Spatial Computing)",
+          "ar": "استوديو الواقع الافتراضي والمعزز والحوسبة المكانية",
+          "ko": "XR 가상현실 및 공간 컴퓨팅 전문 스튜디오",
+          "ja": "XR仮想現実・空間コンピューティングスタジオ",
+          "zh": "XR虚拟现实与空间计算专业工作室",
+          "ru": "Студия виртуальной реальности XR и пространственных вычислений",
+          "fr": "Studio de réalité virtuelle XR et calcul spatial",
+          "es": "Estudio de Realidad Virtual XR y Computación Espacial"
+        }
+      },
+      {
+        "icon": "",
+        "title": {
+          "id": "Bloomberg Financial Trading Room",
+          "en": "Bloomberg Financial Trading Room",
+          "ar": "قاعة التداول والتحليل المالي المباشر المعتمدة من بلومبرغ",
+          "ko": "블룸버그 연동 실시간 금융 트레이딩 룸",
+          "ja": "ブルームバーグ連携リアルタイム金融トレーディングルーム",
+          "zh": "彭博全球金融数据实时交易实验室",
+          "ru": "Финансовый трейдинговый зал с терминалами Bloomberg",
+          "fr": "Salle de marchés financiers connectée Bloomberg",
+          "es": "Sala de Trading Financiero con Terminales Bloomberg"
+        }
+      },
+      {
+        "icon": "ai",
+        "title": {
+          "id": "IoT, Cloud Computing & Robotics Engineering Labs",
+          "en": "IoT, Cloud Computing & Robotics Engineering Labs",
+          "ar": "مختبرات هندسة الروبوتات والحوسبة السحابية وإنترنت الأشياء",
+          "ko": "IoT, 클라우드 컴퓨팅 및 로봇 공학 종합 랩",
+          "ja": "IoT・クラウドコンピューティング・ロボティクス工学実験室",
+          "zh": "物联网、云计算与智能机器人工程实验室",
+          "ru": "Лаборатории интернета вещей, облачных технологий и робототехники",
+          "fr": "Laboratoires d'ingénierie robotique, cloud et IoT",
+          "es": "Laboratorios de Robótica, Computación en la Nube e IoT"
+        }
+      }
+    ],
+    "directWatchUrl": "https://www.youtube.com/watch?v=3O_jnGaZxLs"
+  },
+  "facilities": [
+    {
+      "icon": "shield",
+      "title": {
+        "id": "CyberSecurity Talent Zone & AI Threat Intelligence",
+        "en": "CyberSecurity Talent Zone & AI Threat Intelligence",
+        "ar": "مركز الأمن السيبراني التفاعلي وتحليل التهديدات الرقمية",
+        "ko": "최첨단 사이버 보안 및 AI 위협 인텔리전스 센터",
+        "ja": "サイバーセキュリティ・AI脅威インテリジェンスセンター",
+        "zh": "网络安全与人工智能威胁情报中心",
+        "ru": "Центр кибербезопасности и аналитики ИИ-угроз",
+        "fr": "Centre d'intelligence contre les cybermenaces et IA",
+        "es": "Centro de Ciberseguridad e Inteligencia de Amenazas IA"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "XR Studio (Virtual Reality & Spatial Computing)",
+        "en": "XR Studio (Virtual Reality & Spatial Computing)",
+        "ar": "استوديو الواقع الافتراضي والمعزز والحوسبة المكانية",
+        "ko": "XR 가상현실 및 공간 컴퓨팅 전문 스튜디오",
+        "ja": "XR仮想現実・空間コンピューティングスタジオ",
+        "zh": "XR虚拟现实与空间计算专业工作室",
+        "ru": "Студия виртуальной реальности XR и пространственных вычислений",
+        "fr": "Studio de réalité virtuelle XR et calcul spatial",
+        "es": "Estudio de Realidad Virtual XR y Computación Espacial"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Bloomberg Financial Trading Room",
+        "en": "Bloomberg Financial Trading Room",
+        "ar": "قاعة التداول والتحليل المالي المباشر المعتمدة من بلومبرغ",
+        "ko": "블룸버그 연동 실시간 금융 트레이딩 룸",
+        "ja": "ブルームバーグ連携リアルタイム金融トレーディングルーム",
+        "zh": "彭博全球金融数据实时交易实验室",
+        "ru": "Финансовый трейдинговый зал с терминалами Bloomberg",
+        "fr": "Salle de marchés financiers connectée Bloomberg",
+        "es": "Sala de Trading Financiero con Terminales Bloomberg"
+      }
+    },
+    {
+      "icon": "ai",
+      "title": {
+        "id": "IoT, Cloud Computing & Robotics Engineering Labs",
+        "en": "IoT, Cloud Computing & Robotics Engineering Labs",
+        "ar": "مختبرات هندسة الروبوتات والحوسبة السحابية وإنترنت الأشياء",
+        "ko": "IoT, 클라우드 컴퓨팅 및 로봇 공학 종합 랩",
+        "ja": "IoT・クラウドコンピューティング・ロボティクス工学実験室",
+        "zh": "物联网、云计算与智能机器人工程实验室",
+        "ru": "Лаборатории интернета вещей, облачных технологий и робототехники",
+        "fr": "Laboratoires d'ingénierie robotique, cloud et IoT",
+        "es": "Laboratorios de Robótica, Computación en la Nube e IoT"
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "level": "Foundation / Pre-U",
+      "levelAr": "السنة التحضيرية / التمهيدي",
+      "duration": "1 Year",
+      "avgFeePerYear": "RM 24,000 - RM 27,000",
+      "levelKey": "level_foundation"
+    },
+    {
+      "level": "Diploma",
+      "levelAr": "الدبلوم الفني والتطبيقي",
+      "duration": "2 - 2.5 Years",
+      "avgFeePerYear": "RM 22,000 - RM 26,000",
+      "levelKey": "level_diploma"
+    },
+    {
+      "level": "Bachelor Degree (S1)",
+      "levelAr": "البكالوريوس (الدرجة الجامعية الأولى)",
+      "duration": "3 Years",
+      "avgFeePerYear": "RM 31,000 - RM 36,000",
+      "levelKey": "level_bachelor"
+    },
+    {
+      "level": "Master Degree (S2)",
+      "levelAr": "الماجستير والدراسات العليا",
+      "duration": "1 - 1.5 Years",
+      "avgFeePerYear": "RM 32,000 - RM 42,000",
+      "levelKey": "level_master"
+    },
+    {
+      "level": "PhD / Doctorate (S3)",
+      "levelAr": "الدكتوراه والبحوث المتقدمة",
+      "duration": "3 Years",
+      "avgFeePerYear": "RM 20,000 - RM 26,000",
+      "levelKey": "level_phd"
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "award",
+      "title": {
+        "id": "Universitas Teknologi Digital No. 1 di Malaysia (QS 5-Stars Plus)",
+        "en": "No. 1 Premier Digital Tech University in Malaysia (QS 5-Stars Plus)",
+        "ar": "الجامعة التكنولوجية الرقمية الأولى في ماليزيا (تقييم 5 نجوم بلس من QS)",
+        "ko": "말레이시아 1위 디지털 기술 대학교 (QS 5스타 플러스)",
+        "ja": "マレーシア第1位のデジタル技術大学（QS 5スター・プラス最高評価）",
+        "zh": "马来西亚排名第一的高级数码科技大学（QS五星+荣誉）",
+        "ru": "Университет цифровых технологий №1 в Малайзии (QS 5-Stars Plus)",
+        "fr": "Université technologique numérique n°1 en Malaisie (QS 5-Stars Plus)",
+        "es": "Universidad tecnológica digital n.º 1 en Malasia (QS 5-Stars Plus)"
+      },
+      "desc": {
+        "id": "Dianugerahi status Premier Digital Tech University oleh MDEC dengan rekor 100% keterserapan kerja lulusan di industri global.",
+        "en": "Awarded Premier Digital Tech status by MDEC with an official 100% graduate employability record.",
+        "ar": "معتمدة كجامعة رائدة في الاقتصاد الرقمي من قبل هيئة MDEC بنسبة توظيف معتمدة بلغت 100% لكافة الخريجين.",
+        "ko": "말레이시아 디지털경제공사(MDEC) 인증 및 졸업생 취업률 100% 공식 기록 보유.",
+        "ja": "MDEC認定のプレミア・デジタル・テック大学、卒業生就職率100%を達成。",
+        "zh": "荣获马来西亚数码经济机构(MDEC)认证，毕业生就业率达100%。",
+        "ru": "Статус ведущего цифрового университета от MDEC и подтвержденная 100% трудоустраиваемость выпускников.",
+        "fr": "Statut d'université de technologie numérique d'excellence décerné par le MDEC avec 100% d'employabilité.",
+        "es": "Estatus de Universidad de Tecnología Digital Premier por MDEC con 100% de empleabilidad de graduados."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Gelar Ganda Resmi Inggris dengan De Montfort University (DMU)",
+        "en": "UK Dual Award Degree with De Montfort University (DMU)",
+        "ar": "شهادات ثنائية دولية معتمدة من جامعة دي مونتفورت البريطانية (DMU)",
+        "ko": "영국 드몽포트 대학교(DMU) 공식 복수학위 수여",
+        "ja": "英国デ・モントフォート大学（DMU）とのデュアルディグリー制度",
+        "zh": "英国德蒙福特大学(DMU)官方双学位联合办学",
+        "ru": "Официальный двойной диплом Великобритании с университетом Де Монфор (DMU)",
+        "fr": "Double diplôme britannique officiel avec l'Université De Montfort (DMU)",
+        "es": "Doble titulación oficial del Reino Unido con De Montfort University (DMU)"
+      },
+      "desc": {
+        "id": "Mahasiswa lulus dengan 2 ijazah sekaligus: satu dari APU Malaysia dan satu dari De Montfort University Leicester, UK.",
+        "en": "Graduates receive two separate degree certificates: one from APU Malaysia and one from DMU Leicester, United Kingdom.",
+        "ar": "يحصل الخريج على شهادتين أصليتين معتمدتين في نفس الوقت: الأولى من جامعة APU والأخرى من جامعة DMU البريطانية.",
+        "ko": "졸업 시 말레이시아 APU 학위와 영국 레스터 DMU 학위 2개를 동시에 수여받습니다.",
+        "ja": "マレーシアAPUと英国レスターDMUの2つの正規学位を同時に取得可能。",
+        "zh": "学生毕业时可同时获得马来西亚APU与英国莱斯特DMU颁发的两份独立学位证书。",
+        "ru": "Выпускники получают два диплома одновременно: от APU Малайзия и от DMU Лестер, Великобритания.",
+        "fr": "Les étudiants obtiennent deux diplômes officiels simultanés : un d'APU Malaisie et un de DMU Royaume-Uni.",
+        "es": "Los graduados reciben dos títulos oficiales a la vez: uno de APU Malasia y otro de DMU Leicester, Reino Unido."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Pusat Keunggulan Keamanan Siber & AI Terbesar di ASEAN",
+        "en": "ASEAN's Largest Cybersecurity & AI Centre of Excellence",
+        "ar": "أكبر مركز تميز للأمن السيبراني والذكاء الاصطناعي في جنوب شرق آسيا",
+        "ko": "아세안 최대 규모의 사이버 보안 및 인공지능 연구 센터",
+        "ja": "ASEAN最大級のサイバーセキュリティ・AI拠点",
+        "zh": "东盟最大的网络安全与人工智能卓越研究中心",
+        "ru": "Крупнейший в АСЕАН центр кибербезопасности и искусственного интеллекта",
+        "fr": "Plus grand centre d'excellence en cybersécurité et IA de l'ASEAN",
+        "es": "Mayor Centro de Excelencia en Ciberseguridad e IA de la ASEAN"
+      },
+      "desc": {
+        "id": "Fasilitas keamanan siber skala penuh pertama di kawasan dengan simulator serangan militer dan pusat respon insiden langsung.",
+        "en": "First full-scale cybersecurity talent zone with live military-grade simulation drills and real-time defense monitoring.",
+        "ar": "مركز متكامل للتدريب السيبراني يحاكي الهجمات الرقمية الحية ومزود بأحدث أنظمة الدفاع والمراقبة الفورية.",
+        "ko": "실시간 군사 등급 시뮬레이션 및 침해 사고 대응 센터를 갖춘 혁신적인 사이버 훈련 환경.",
+        "ja": "軍事グレードのサイバーシミュレーション演習とリアルタイム監視ルームを完備。",
+        "zh": "拥有实战演练模拟中心，提供全天候威胁监测与实战对抗演练平台。",
+        "ru": "Специализированная кибер-зона с моделированием реальных атак и мониторингом угроз в реальном времени.",
+        "fr": "Zone de talents en cybersécurité équipée de simulateurs militaires et de veille en temps réel.",
+        "es": "Zona de talentos en ciberseguridad con simuladores de nivel militar y monitoreo defensivo en tiempo real."
+      }
+    },
+    {
+      "icon": "global",
+      "title": {
+        "id": "Kampus Multikultural dengan 13.000+ Pelajar dari 130+ Negara",
+        "en": "Global Multicultural Campus: 13,000+ Students from 130+ Nations",
+        "ar": "بيئة عالمية متعددة الثقافات تضم أكثر من 13 ألف طالب من 130 دولة",
+        "ko": "130개국 이상 13,000명 이상의 유학생이 함께하는 다문화 캠퍼스",
+        "ja": "世界130ヶ国以上から13,000人以上が集うグローバルキャンパス",
+        "zh": "汇聚来自全球130多个国家的13,000多名国际学生的多文化智能校园",
+        "ru": "Интернациональный кампус: более 13 000 студентов из 130+ стран",
+        "fr": "Campus multiculturel mondial : plus de 13 000 étudiants de 130+ pays",
+        "es": "Campus multicultural global: más de 13,000 estudiantes de más de 130 países"
+      },
+      "desc": {
+        "id": "Menawarkan atmosfer studi global dengan pengantar bahasa Inggris penuh di pusat teknologi ibu kota Kuala Lumpur.",
+        "en": "Provides an immersive international learning environment with 100% English medium of instruction in Kuala Lumpur.",
+        "ar": "توفر بيئة دراسية دولية متكاملة تدرس جميع برامجها باللغة الإنجليزية في قلب العاصمة كوالالمبور.",
+        "ko": "쿠알라룸푸르 중심에서 100% 영어로 진행되는 글로벌 교육 환경 제공.",
+        "ja": "クアラルンプールのハイテク拠点にて、全講義を英語で実施する国際的学習環境を提供。",
+        "zh": "位于吉隆坡科技核心区，提供全英文授课的全球化国际化学习氛围。",
+        "ru": "100% англоязычное обучение в самом сердце технологического кластера Куала-Лумпура.",
+        "fr": "Enseignement 100% en anglais dans un environnement moderne situé au cœur de Kuala Lumpur.",
+        "es": "Enseñanza 100% en inglés en un entorno cosmopolita en el centro tecnológico de Kuala Lumpur."
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Asia Pacific University of Technology & Innovation (APU) internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة آسيا باسيفيك للتكنولوجيا والابتكار (APU) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Asia Pacific University of Technology & Innovation (APU) diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Asia Pacific University of Technology & Innovation (APU) is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة آسيا باسيفيك للتكنولوجيا والابتكار (APU) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Asia Pacific University of Technology & Innovation (APU) terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Asia Pacific University of Technology & Innovation (APU)?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة آسيا باسيفيك للتكنولوجيا والابتكار (APU)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Asia Pacific University of Technology & Innovation (APU)?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Asia Pacific University of Technology & Innovation (APU)?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة آسيا باسيفيك للتكنولوجيا والابتكار (APU)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Asia Pacific University of Technology & Innovation (APU)?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Asia Pacific University of Technology & Innovation (APU) without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Panduan Lengkap Pendaftaran & Visa Pelajar di Asia Pacific University (APU)",
+        "en": "Complete Admissions, Degree Recognition & Student Visa Guide for Asia Pacific University of Technology & Innovation (APU)",
+        "ar": "دليل القبول والتسجيل والتأشيرة الدراسية الشامل في جامعة آسيا باسيفيك (APU)",
+        "zh": "Asia Pacific University of Technology & Innovation (APU) 官方申请指南与留学生签证办理完全手册",
+        "ru": "Полное руководство по поступлению и оформлению визы в Asia Pacific University of Technology & Innovation (APU)",
+        "fr": "Guide complet d'admission et visa étudiant pour Asia Pacific University of Technology & Innovation (APU)",
+        "es": "Guía completa de admisión y visado de estudiante para Asia Pacific University of Technology & Innovation (APU)",
+        "ja": "Asia Pacific University of Technology & Innovation (APU) 出願手続き＆留学生ビザ申請完全ガイド",
+        "ko": "Asia Pacific University of Technology & Innovation (APU) 공식 입학 지원 및 학생 비자 신청 완벽 가이드"
+      },
+      "summary": {
+        "id": "Panduan langkah demi langkah berkas ijazah, alur persetujuan visa EMGS, dan skema gelar ganda Inggris di APU.",
+        "en": "A step-by-step application walkthrough detailing required academic transcripts, EMGS student visa procedures, and global degree accreditation.",
+        "ar": "شرح تفصيلي لخطوات التقديم، متطلبات ترجمة الشهادات، إجراءات تأشيرة الـ EMGS، ومميزات الحصول على الشهادة البريطانية المزدوجة.",
+        "zh": "手把手指导官方录取申请、公证成绩单材料准备、EMGS学生签证高效获批流程及国际文凭认证全解析。",
+        "ru": "Пошаговая инструкция по подаче документов, нотариальному переводу аттестатов, визе EMGS и признанию дипломов.",
+        "fr": "Démarches étape par étape pour les dossiers scolaires, l'obtention du visa EMGS et l'accréditation internationale des diplômes.",
+        "es": "Paso a paso para la presentación de expedientes académicos, tramitación del visado EMGS y homologación internacional de títulos.",
+        "ja": "出願書類の準備、成績証明書の翻訳要件、EMGS学生ビザ取得の流れ、国際学位認定についてわかりやすく解説。",
+        "ko": "입학 지원 서류 준비, 학업 성적표 번역 공증 요건, EMGS 학생 비자 발급 절차 및 글로벌 학위 인증을 총정리합니다."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Biaya Hidup & Pilihan Asrama Mahasiswa di Sekitar Kampus APU Bukit Jalil",
+        "en": "Student Living, Campus Housing & Monthly Budget Guide around Asia Pacific University of Technology & Innovation (APU)",
+        "ar": "تكاليف المعيشة والسكن الطلابي حول حرم جامعة آسيا باسيفيك في بوكيت جليل",
+        "zh": "Asia Pacific University of Technology & Innovation (APU) 校园宿舍、周边租房与留学每月生活预算精明指南",
+        "ru": "Руководство по проживанию, общежитиям и расходам на жизнь возле Asia Pacific University of Technology & Innovation (APU)",
+        "fr": "Guide du logement étudiant et budget de vie mensuel autour de Asia Pacific University of Technology & Innovation (APU)",
+        "es": "Guía de alojamiento para estudiantes y presupuesto mensual en Asia Pacific University of Technology & Innovation (APU)",
+        "ja": "Asia Pacific University of Technology & Innovation (APU) 学生寮・周辺アパート＆月間生活費スマートガイド",
+        "ko": "Asia Pacific University of Technology & Innovation (APU) 기숙사 주거 환경 및 유학생 월간 생활비 실전 가이드"
+      },
+      "summary": {
+        "id": "Estimasi biaya sewa kamar asrama, kuliner harian, akses LRT Bukit Jalil, dan tips hemat mahasiswa internasional.",
+        "en": "Essential insights on on-campus residence halls, nearby modern condominiums, monthly grocery costs, and public transit links.",
+        "ar": "دليل تفصيلي لمصروفات السكن الداخلي والشقق المجاورة، شبكة قطارات LRT، ومعدل المصروف الشهري للطلاب.",
+        "zh": "全景介绍校内学生宿舍、周边配套高档公寓月租、地道餐饮餐饮开支及轻轨校车交通出行贴士。",
+        "ru": "Обзор студенческих резиденций, аренды квартир, цен на питание и транспортной доступности кампуса.",
+        "fr": "Informations pratiques sur les résidences universitaires, les appartements modernes, les repas et les transports en commun.",
+        "es": "Información clave sobre residencias universitarias, condominios cercanos, alimentación diaria y conexiones de transporte.",
+        "ja": "学内レジデンス、近隣コンドミニアムの家賃相場、毎日の食費事情、快適な通学アクセスを詳しく紹介。",
+        "ko": "교내 학생 기숙사, 인근 콘도미니엄 렌트 시세, 식비 등 생활 물가 및 대중교통 이용 팁을 안내합니다."
+      }
+    },
+    {
+      "readTime": "3 min",
+      "title": {
+        "id": "Beasiswa Prestasi & Potongan Biaya Kuliah Mahasiswa Baru di APU Malaysia",
+        "en": "Scholarships, Tuition Waivers & Global Exchange Opportunities at Asia Pacific University of Technology & Innovation (APU)",
+        "ar": "المنح الدراسية وخصومات التميز الأكاديمي المتاحة للطلاب الجدد في جامعة APU",
+        "zh": "Asia Pacific University of Technology & Innovation (APU) 国际生学术卓越奖学金、学费减免与全球交流互访机遇",
+        "ru": "Стипендии, скидки на обучение и программы обмена в Asia Pacific University of Technology & Innovation (APU)",
+        "fr": "Bourses au mérite, réductions de frais et opportunités d'échange à Asia Pacific University of Technology & Innovation (APU)",
+        "es": "Becas por mérito, descuentos de matrícula y programas de intercambio en Asia Pacific University of Technology & Innovation (APU)",
+        "ja": "Asia Pacific University of Technology & Innovation (APU) 優秀留学生向け奨学金・学費免除＆国際交換留学制度",
+        "ko": "Asia Pacific University of Technology & Innovation (APU) 성적 우수 장학금 혜택 및 글로벌 교환학생 기회"
+      },
+      "summary": {
+        "id": "Informasi potongan uang kuliah 10% hingga 30% berdasarkan nilai rapor dan portofolio prestasi teknologi informasi.",
+        "en": "Explore academic merit scholarships, early-bird tuition fee discounts, and international credit transfer pathways.",
+        "ar": "فرص الحصول على خصومات دراسية تصل حتى 30% على الرسوم بناءً على درجات الثانوية والتميز الأكاديمي والتقني.",
+        "zh": "盘点针对国际新生的优秀成绩奖学金、学费早鸟减免优惠以及直通欧美名校的海外学期交换项目。",
+        "ru": "Обзор академических стипендий за успеваемость, скидок на обучение и возможностей международного обмена.",
+        "fr": "Découvrez les bourses pour étudiants internationaux, les réductions tarifaires et les passerelles d'échange académique.",
+        "es": "Descubra las becas académicas de excelencia, deducciones en la matrícula y convenios de intercambio internacional.",
+        "ja": "成績優秀者向けメリット奨学金、早期出願学费割引、海外提携大学への交換留学プログラムを網羅。",
+        "ko": "신입생 성적 우수 장학금, 조기 등록 학비 감면 혜택 및 해외 자매결연 대학 교환학생 진학 제도를 분석합니다."
+      }
+    }
+  ],
+  "accommodationTab": {
+    "residences": [
+      {
+        "name": "APU On-Campus Premium Residence",
+        "nameAr": "السكن الطلابي الداخلي بحرم APU الذكي",
+        "type": "Single & Twin Ensuite Luxury Rooms",
+        "typeAr": "غرف فندقية فاخرة بحمام خاص وتكييف داخل الحرم",
+        "priceRange": "RM 750 - RM 1,500 / month",
+        "priceRangeAr": "750 - 1,500 رينجيت / شهرياً",
+        "distance": "Dalam Kampus (0 menit jalan kaki)",
+        "amenities": [
+          "Wi-Fi Kecepatan Tinggi",
+          "AC & Kamar Mandi Dalam",
+          "Keamanan 24/7 & Kartu Akses",
+          "Kolam Renang & Gym Kampus",
+          "Food Court & Kafe Modern"
+        ],
+        "amenitiesAr": [
+          "إنترنت فائق السرعة",
+          "تكييف وحمام خاص",
+          "أمن إلكتروني 24 ساعة وبوابات ذكية",
+          "مسبح وصالة ألعاب رياضية بالحرم",
+          "مطاعم وكافيهات متنوعة"
+        ],
+        "distanceAr": "داخل الحرم الجامعي مباشرة (0 دقيقة)",
+        "distanceEn": "Inside campus (0 min walk)"
+      },
+      {
+        "name": "Fortune Park & Satellite Student Condos",
+        "nameAr": "أبراج فورتشن بارك وسكن الساتلايت الفاخر",
+        "type": "Private Condominium with Free Shuttle",
+        "typeAr": "شقق فندقية راقية مع حافلات نقل مجانية دورية للجامعة",
+        "priceRange": "RM 600 - RM 1,200 / month",
+        "priceRangeAr": "600 - 1,200 رينجيت / شهرياً",
+        "distance": "5 menit dari kampus (Free Shuttle Bus)",
+        "amenities": [
+          "Shuttle Bus Gratis ke Kampus",
+          "Kolam Renang Infinity & Sauna",
+          "Dekat Stasiun LRT Bukit Jalil",
+          "Minimarket & Restoran 24 Jam",
+          "Fasilitas Gym Lengkap"
+        ],
+        "amenitiesAr": [
+          "حافلات نقل مجانية مستمرة للجامعة",
+          "مسبح إنفينيتي وساونا",
+          "قرب محطة مترو بوكيت جليل",
+          "سوبرماركت ومطاعم 24 ساعة",
+          "صالة لياقة بدنية مجهزة بالكامل"
+        ],
+        "distanceAr": "5 دقائق من الحرم الجامعي (باص نقل مجاني)",
+        "distanceEn": "5 mins from campus (Free Shuttle Bus)"
+      },
+      {
+        "name": "Endah Promenade Luxury Suites",
+        "nameAr": "شقق وأجنحة إنداه بروميناد الفندقية",
+        "type": "Full Furnished Service Apartment",
+        "typeAr": "شقق فندقية مجهزة بالكامل مع خدمات أمنية راقية",
+        "priceRange": "RM 800 - RM 1,600 / month",
+        "priceRangeAr": "800 - 1,600 رينجيت / شهرياً",
+        "distance": "7 menit dari kampus (Koneksi Transportasi)",
+        "amenities": [
+          "Koneksi Transportasi Cepat ke Kampus",
+          "Furnitur Lengkap & Dapur Modern",
+          "Akses Langsung ke Pusat Perbelanjaan",
+          "Jogging Track & Lapangan Olahraga",
+          "Keamanan Berlapis 24 Jam"
+        ],
+        "amenitiesAr": [
+          "مواصلات سريعة ومباشرة للحرم",
+          "مفروشة بالكامل مع مطبخ عصري",
+          "ملاصقة لمجمعات تجارية وتسويقية",
+          "مضمار للجري وملاعب رياضية",
+          "حراسة أمنية مشددة 24 ساعة"
+        ],
+        "distanceAr": "7 دقائق من الحرم الجامعي (مواصلات متوفرة)",
+        "distanceEn": "7 mins from campus (Public Transit Link)"
+      }
+    ],
+    "livingExpensesBreakdown": [
+      {
+        "item": "Sewa Kamar / Akomodasi",
+        "itemAr": "السكن والإيجار الشهري",
+        "cost": "RM 700 - RM 1,400",
+        "itemKey": "living_exp_room"
+      },
+      {
+        "item": "Makan & Kuliner Harian",
+        "itemAr": "الطعام والمأكولات اليومية",
+        "cost": "RM 600 - RM 900",
+        "itemKey": "living_exp_food"
+      },
+      {
+        "item": "Transportasi Lokal & LRT",
+        "itemAr": "المواصلات العامة ومترو LRT",
+        "cost": "RM 100 - RM 180",
+        "itemKey": "living_exp_transport"
+      },
+      {
+        "item": "Utilitas Listrik, Air & Wi-Fi",
+        "itemAr": "الكهرباء والمياه والإنترنت",
+        "cost": "RM 80 - RM 150",
+        "itemKey": "living_exp_utilities"
+      },
+      {
+        "item": "Kebutuhan Pribadi & Akademik",
+        "itemAr": "المصروفات الشخصية والدراسية",
+        "cost": "RM 200 - RM 400",
+        "itemKey": "living_exp_personal"
+      },
+      {
+        "item": "Total Estimasi Anggaran Bulanan",
+        "itemAr": "إجمالي الميزانية التقديرية شهرياً",
+        "cost": "RM 1,680 - RM 3,030",
+        "itemKey": "living_exp_total"
+      }
+    ]
+  },
+  "directWatchUrl": "https://www.youtube.com/watch?v=3O_jnGaZxLs",
+  "programs": [
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology-with-a-specialism-in-information-system-security",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology with a specialism in Information System Security",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology-with-a-specialism-in-cloud-computing",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology with a specialism in Cloud Computing",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology-with-a-specialism-in-mobile-technology",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology with a specialism in Mobile Technology",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology-with-a-specialism-in-internet-of-things-iot",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology with a specialism in Internet of Things (IoT)",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology-with-a-specialism-in-digital-transformation",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology with a specialism in Digital Transformation",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology-with-a-specialism-in-financial-technology-fintech",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology with a specialism in Financial Technology (FinTech)",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-information-technology-with-a-specialism-in-business-information-systems",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Information Technology with a specialism in Business Information Systems",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-software-engineering",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Software Engineering",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-computer-science",
+      "universityId": "apu",
+      "name": "Bachelor of Science  (Hons) in Computer Science",
+      "nameAr": "بكالوريوس العلوم في Hons) in Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-computer-science-with-a-specialism-in-data-analytics",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Computer Science with a specialism in Data Analytics",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Computer Science with a specialism in Data Analytics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-computer-science-with-a-specialism-in-digital-forensics",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Computer Science with a specialism in Digital Forensics",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Computer Science with a specialism in Digital Forensics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-computer-science-cyber-security",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Computer Science (Cyber Security)",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-computer-science-hons-artificial-intelligence",
+      "universityId": "apu",
+      "name": "Bachelor Of Computer Science (Hons) Artificial Intelligence",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف) في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-multimedia-technology",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Multimedia Technology",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Multimedia Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 33600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33600
+        },
+        {
+          "year": 2,
+          "fee": 33600
+        },
+        {
+          "year": 3,
+          "fee": 33600
+        }
+      ],
+      "totalTuitionFee": 100800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-multimedia-technology-with-a-specialism-in-vr-ar",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Multimedia Technology with a specialism in VR/AR",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Multimedia Technology with a specialism in VR/AR",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-hons-in-computer-games-development",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Hons) in Computer Games Development",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Computer Games Development",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-information-communication-technology",
+      "universityId": "apu",
+      "name": "Diploma in Information & Communication Technology",
+      "nameAr": "دبلوم في Information & Communication Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-information-communication-technology-with-a-specialism-in-software-engineering",
+      "universityId": "apu",
+      "name": "Diploma in Information & Communication Technology with a specialism in Software Engineering",
+      "nameAr": "دبلوم في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep, Nov, Mar, May, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-information-communication-technology-with-a-specialism-in-data-informatics",
+      "universityId": "apu",
+      "name": "Diploma in Information & Communication Technology with a specialism in Data Informatics",
+      "nameAr": "دبلوم في Information & Communication Technology with a specialism in Data Informatics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Nov, Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-information-communication-technology-with-a-specialism-in-interactive-technology",
+      "universityId": "apu",
+      "name": "Diploma in Information & Communication Technology with a specialism in Interactive Technology",
+      "nameAr": "دبلوم في Information & Communication Technology with a specialism in Interactive Technology",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep, Nov, Mar, May, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-foundation-in-computing-online-degree",
+      "universityId": "apu",
+      "name": "Foundation in Computing – Online Degree",
+      "nameAr": "برنامج تمهيدي في علوم الحاسوب أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 21200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "May, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21200
+        }
+      ],
+      "totalTuitionFee": 21200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-information-technology-with-a-specialism-in-cloud-engineering",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Information Technology with a specialism in Cloud Engineering",
+      "nameAr": "بكالوريوس العلوم في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-information-technology-with-a-specialism-in-sustainable-computing",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Information Technology with a specialism in Sustainable Computing",
+      "nameAr": "بكالوريوس العلوم في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-msc-in-software-engineering",
+      "universityId": "apu",
+      "name": "MSc in Software Engineering",
+      "nameAr": "برنامج في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-artificial-intelligence",
+      "universityId": "apu",
+      "name": "Master of Science in Artificial Intelligence",
+      "nameAr": "ماجستير العلوم في الذكاء الاصطناعي",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 45800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45800
+        }
+      ],
+      "totalTuitionFee": 45800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-artificial-intelligence-online-degree",
+      "universityId": "apu",
+      "name": "Master of Science in Artificial Intelligence – Online Degree",
+      "nameAr": "ماجستير العلوم في الذكاء الاصطناعي أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2.6,
+      "annualFee": 18900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Jun, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18900
+        },
+        {
+          "year": 2,
+          "fee": 18900
+        }
+      ],
+      "totalTuitionFee": 37800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-cyber-security",
+      "universityId": "apu",
+      "name": "Master of Science in Cyber Security",
+      "nameAr": "ماجستير العلوم في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 45800,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45800
+        }
+      ],
+      "totalTuitionFee": 45800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-msc-in-data-science-and-business-analytics",
+      "universityId": "apu",
+      "name": "MSc in Data Science and Business Analytics",
+      "nameAr": "برنامج في علم البيانات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 45800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45800
+        }
+      ],
+      "totalTuitionFee": 45800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-data-science-and-business-analytics-online-degree",
+      "universityId": "apu",
+      "name": "Master of Science in Data Science and Business Analytics – Online Degree",
+      "nameAr": "ماجستير العلوم في علم البيانات وتحليلات الأعمال أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2.6,
+      "annualFee": 18900,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Jun, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18900
+        },
+        {
+          "year": 2,
+          "fee": 18900
+        }
+      ],
+      "totalTuitionFee": 37800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-msc-in-information-technology-management",
+      "universityId": "apu",
+      "name": "MSc in Information Technology Management",
+      "nameAr": "برنامج في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-technology-management",
+      "universityId": "apu",
+      "name": "Master of Technology Management",
+      "nameAr": "ماجستير في Master of Technology Management",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-digital-transformation",
+      "universityId": "apu",
+      "name": "Master of Science in Digital Transformation",
+      "nameAr": "ماجستير العلوم في Digital Transformation",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-computing-by-research",
+      "universityId": "apu",
+      "name": "Master of Science in Computing (BY RESEARCH)",
+      "nameAr": "ماجستير العلوم في Computing (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 32000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-phd-in-computing-by-research",
+      "universityId": "apu",
+      "name": "PhD in Computing (BY RESEARCH)",
+      "nameAr": "دكتوراه في Computing (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16933,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16933
+        },
+        {
+          "year": 2,
+          "fee": 16933
+        },
+        {
+          "year": 3,
+          "fee": 16933
+        }
+      ],
+      "totalTuitionFee": 50799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-phd-in-technology-by-research",
+      "universityId": "apu",
+      "name": "PhD in Technology (BY RESEARCH)",
+      "nameAr": "دكتوراه في Technology (بالبحث العلمي)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16933,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16933
+        },
+        {
+          "year": 2,
+          "fee": 16933
+        },
+        {
+          "year": 3,
+          "fee": 16933
+        }
+      ],
+      "totalTuitionFee": 50799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-phd-in-computing-online-degree",
+      "universityId": "apu",
+      "name": "PhD in Computing – Online Degree",
+      "nameAr": "دكتوراه في علوم الحاسوب أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 14267,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14267
+        },
+        {
+          "year": 2,
+          "fee": 14267
+        },
+        {
+          "year": 3,
+          "fee": 14267
+        }
+      ],
+      "totalTuitionFee": 42801,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-phd-in-technology-online-degree",
+      "universityId": "apu",
+      "name": "PhD in Technology – Online Degree",
+      "nameAr": "دكتوراه في التكنولوجيا أونلاين",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 14267,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14267
+        },
+        {
+          "year": 2,
+          "fee": 14267
+        },
+        {
+          "year": 3,
+          "fee": 14267
+        }
+      ],
+      "totalTuitionFee": 42801,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-information-and-communication-technology-with-a-specialism-in-data-informatics",
+      "universityId": "apu",
+      "name": "Diploma in Information and Communication Technology with a specialism in Data Informatics",
+      "nameAr": "دبلوم في Information and Communication Technology with a specialism in Data Informatics",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, May, Jul, Sep, Nov",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-apiit-certificate-in-information-communication-technology-cict",
+      "universityId": "apu",
+      "name": "APIIT - Certificate in Information & Communication Technology (CICT)",
+      "nameAr": "برنامج في APIIT - Certificate in Information & Communication Technology (CICT",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "certificate",
+      "duration": 1.5,
+      "annualFee": 22400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22400
+        }
+      ],
+      "totalTuitionFee": 22400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-foundation-programme-computing-technology-route",
+      "universityId": "apu",
+      "name": "Foundation Programme (Computing & Technology Route)",
+      "nameAr": "برنامج تمهيدي في Programme (Computing & Technology Route",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28400,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28400
+        }
+      ],
+      "totalTuitionFee": 28400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-philosophy-in-immersive-technologies-and-video-game-studies",
+      "universityId": "apu",
+      "name": "Master of Philosophy in Immersive Technologies and Video Game Studies",
+      "nameAr": "ماجستير في Master of Philosophy in Immersive Technologies and Video Game Studies",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Jun, Jul, Aug, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 32000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-business-management",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Business Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Business Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-business-management-with-a-specialism-in-e-business",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Business Management with a specialism in E-Business",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Business Management with a specialism in E-Business",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-business-management-with-a-specialism-in-digital-leadership",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Business Management with a specialism in Digital Leadership",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في Business Management with a specialism in Digital Leadership",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-human-resource-management",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Human Resource Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في إدارة الموارد البشرية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-international-business-management",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in International Business Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-marketing-management",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Marketing Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-marketing-management-with-a-specialism-in-digital-marketing",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Marketing Management with a specialism in Digital Marketing",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-tourism-management",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Tourism Management",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-tourism-management-with-a-specialism-in-hospitality",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Hons) in Tourism Management with a specialism in Hospitality",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في إدارة السياحة والسفر",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-accounting-and-finance-honours",
+      "universityId": "apu",
+      "name": "Bachelor of Accounting and Finance (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-accounting-and-finance-honours-with-a-specialism-in-forensic-accounting",
+      "universityId": "apu",
+      "name": "Bachelor of Accounting and Finance (Honours) with a specialism in Forensic Accounting",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-accounting-and-finance-honours-with-a-specialism-in-forex-and-investments",
+      "universityId": "apu",
+      "name": "Bachelor of Accounting and Finance (Honours) with a specialism in Forex and Investments",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-accounting-and-finance-honours-with-a-specialism-in-accounting-technology",
+      "universityId": "apu",
+      "name": "Bachelor of Accounting and Finance (Honours) with a specialism in Accounting Technology",
+      "nameAr": "بكالوريوس المحاسبة في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-in-banking-and-finance-hons",
+      "universityId": "apu",
+      "name": "Bachelor in Banking and Finance (Hons)",
+      "nameAr": "بكالوريوس في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-in-banking-and-finance-hons-with-a-specialism-in-financial-technology",
+      "universityId": "apu",
+      "name": "Bachelor in Banking and Finance (Hons) with a specialism in Financial Technology",
+      "nameAr": "بكالوريوس في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-in-banking-and-finance-hons-with-a-specialism-in-investment-analytics",
+      "universityId": "apu",
+      "name": "Bachelor in Banking and Finance (Hons) with a specialism in Investment Analytics",
+      "nameAr": "بكالوريوس في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-actuarial-studies",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Actuarial Studies​",
+      "nameAr": "بكالوريوس العلوم في Honours) in Actuarial Studies​",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-actuarial-studies-with-a-specialism-in-data-analytics",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Data Analytics",
+      "nameAr": "بكالوريوس العلوم في Honours) in Actuarial Studies with a specialism in Data Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-actuarial-studies-with-a-specialism-in-financial-technology",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Financial Technology",
+      "nameAr": "بكالوريوس العلوم في Honours) in Actuarial Studies with a specialism in Financial Technology",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-business-with-information-technology",
+      "universityId": "apu",
+      "name": "Diploma in Business with Information Technology",
+      "nameAr": "دبلوم في تقنية المعلومات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-business-administration",
+      "universityId": "apu",
+      "name": "Diploma in Business Administration",
+      "nameAr": "دبلوم إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-accounting",
+      "universityId": "apu",
+      "name": "Diploma in Accounting",
+      "nameAr": "دبلوم المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration",
+      "universityId": "apu",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-online-degree",
+      "universityId": "apu",
+      "name": "Master of Business Administration – Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2.6,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Jun, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-with-a-specialism-in-digital-leadership",
+      "universityId": "apu",
+      "name": "Master of Business Administration with a specialism in Digital Leadership",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في with a specialism in Digital Leadership",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-with-a-specialism-in-digital-leadership-online-degree",
+      "universityId": "apu",
+      "name": "Master of Business Administration with a specialism in Digital Leadership – Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في القيادة الرقمية أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2.6,
+      "annualFee": 16500,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Jun, Aug, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16500
+        },
+        {
+          "year": 2,
+          "fee": 16500
+        }
+      ],
+      "totalTuitionFee": 33000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-with-a-specialism-in-business-analytics",
+      "universityId": "apu",
+      "name": "Master of Business Administration with a specialism in Business Analytics",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في with a specialism in Business Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-with-a-specialism-in-supply-chain-management",
+      "universityId": "apu",
+      "name": "Master of Business Administration with a specialism in Supply Chain Management",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في إدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-international-business-communications",
+      "universityId": "apu",
+      "name": "Master of Science in International Business Communications",
+      "nameAr": "ماجستير العلوم في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-science-in-global-marketing-management",
+      "universityId": "apu",
+      "name": "Master of Science in Global Marketing Management",
+      "nameAr": "ماجستير العلوم في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-project-management",
+      "universityId": "apu",
+      "name": "Master of Project Management",
+      "nameAr": "ماجستير في Master of Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-accounting",
+      "universityId": "apu",
+      "name": "Master of Accounting",
+      "nameAr": "ماجستير في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-accounting-in-forensic-analysis",
+      "universityId": "apu",
+      "name": "Master of Accounting in Forensic Analysis",
+      "nameAr": "ماجستير في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-finance",
+      "universityId": "apu",
+      "name": "Master of Finance",
+      "nameAr": "ماجستير في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-finance-with-a-specialism-in-fintech",
+      "universityId": "apu",
+      "name": "Master of Finance with a specialism in FinTech",
+      "nameAr": "ماجستير في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-arts-in-design-innovation-management",
+      "universityId": "apu",
+      "name": "Master of Arts in Design Innovation Management",
+      "nameAr": "ماجستير في Master of Arts in Design Innovation Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-philosophy-in-management-by-research",
+      "universityId": "apu",
+      "name": "Master of Philosophy in Management (BY RESEARCH)",
+      "nameAr": "ماجستير في Master of Philosophy in Management (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 32000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-phd-in-management-by-research",
+      "universityId": "apu",
+      "name": "PhD in Management (BY RESEARCH)",
+      "nameAr": "دكتوراه في Management (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16933,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16933
+        },
+        {
+          "year": 2,
+          "fee": 16933
+        },
+        {
+          "year": 3,
+          "fee": 16933
+        }
+      ],
+      "totalTuitionFee": 50799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-phd-in-finance-by-research",
+      "universityId": "apu",
+      "name": "PhD in Finance (BY RESEARCH)",
+      "nameAr": "دكتوراه في المالية والتمويل (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16933,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16933
+        },
+        {
+          "year": 2,
+          "fee": 16933
+        },
+        {
+          "year": 3,
+          "fee": 16933
+        }
+      ],
+      "totalTuitionFee": 50799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-doctor-of-business-administration-dba-by-research",
+      "universityId": "apu",
+      "name": "Doctor of Business Administration (DBA) (BY RESEARCH)",
+      "nameAr": "دكتوراه في Doctor of Business Administration (DBA (بالبحث العلمي)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 18933,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "May, Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18933
+        },
+        {
+          "year": 2,
+          "fee": 18933
+        },
+        {
+          "year": 3,
+          "fee": 18933
+        }
+      ],
+      "totalTuitionFee": 56799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-doctor-of-philosophy-in-management-online-degree",
+      "universityId": "apu",
+      "name": "Doctor of Philosophy in Management – Online Degree",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الإدارة أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 14267,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14267
+        },
+        {
+          "year": 2,
+          "fee": 14267
+        },
+        {
+          "year": 3,
+          "fee": 14267
+        }
+      ],
+      "totalTuitionFee": 42801,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-apiit-certificate-in-administrative-skills-cas",
+      "universityId": "apu",
+      "name": "APIIT - Certificate in Administrative Skills (CAS)",
+      "nameAr": "برنامج في APIIT - Certificate in Administrative Skills (CAS",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "certificate",
+      "duration": 1.4,
+      "annualFee": 22400,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22400
+        }
+      ],
+      "totalTuitionFee": 22400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-hotel-management",
+      "universityId": "apu",
+      "name": "Diploma in Hotel Management",
+      "nameAr": "دبلوم في Hotel Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-events-management",
+      "universityId": "apu",
+      "name": "Diploma in Events Management",
+      "nameAr": "دبلوم في Events Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-hospitality-and-tourism",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Hospitality and Tourism",
+      "nameAr": "بكالوريوس العلوم في Honours) in Hospitality and Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-with-a-specialism-in-hospitality-and-tourism",
+      "universityId": "apu",
+      "name": "Master of Business Administration with a specialism in Hospitality and Tourism",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في with a specialism in Hospitality and Tourism",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Aug, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-foundation-programme-business-finance-social-sciences-route",
+      "universityId": "apu",
+      "name": "Foundation Programme (Business, Finance & Social Sciences Route)",
+      "nameAr": "برنامج تمهيدي في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28400,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28400
+        }
+      ],
+      "totalTuitionFee": 28400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-with-a-specialism-in-oil-and-gas-management",
+      "universityId": "apu",
+      "name": "Master of Business Administration with a specialism in Oil and Gas Management",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في with a specialism in Oil and Gas Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-business-administration-with-a-specialism-in-artificial-intelligence-mbai",
+      "universityId": "apu",
+      "name": "Master of Business Administration with a specialism in Artificial Intelligence (MBAi)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في الذكاء الاصطناعي",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 42000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Apr, Aug",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 42000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-engineering-in-electrical-electronic-engineering-with-honours",
+      "universityId": "apu",
+      "name": "Bachelor of Engineering in Electrical & Electronic Engineering with Honours",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 32600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32600
+        },
+        {
+          "year": 2,
+          "fee": 32600
+        },
+        {
+          "year": 3,
+          "fee": 32600
+        },
+        {
+          "year": 4,
+          "fee": 32600
+        }
+      ],
+      "totalTuitionFee": 130400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-engineering-in-mechatronic-engineering-with-honours",
+      "universityId": "apu",
+      "name": "Bachelor of Engineering in Mechatronic Engineering with Honours",
+      "nameAr": "بكالوريوس الهندسة في Mechatronic Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 32600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32600
+        },
+        {
+          "year": 2,
+          "fee": 32600
+        },
+        {
+          "year": 3,
+          "fee": 32600
+        },
+        {
+          "year": 4,
+          "fee": 32600
+        }
+      ],
+      "totalTuitionFee": 130400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-computer-engineering-with-honours",
+      "universityId": "apu",
+      "name": "Bachelor of Computer Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Computer Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 32600,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32600
+        },
+        {
+          "year": 2,
+          "fee": 32600
+        },
+        {
+          "year": 3,
+          "fee": 32600
+        },
+        {
+          "year": 4,
+          "fee": 32600
+        }
+      ],
+      "totalTuitionFee": 130400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-petroleum-engineering-with-honours",
+      "universityId": "apu",
+      "name": "Bachelor of Petroleum Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Petroleum Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 32600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32600
+        },
+        {
+          "year": 2,
+          "fee": 32600
+        },
+        {
+          "year": 3,
+          "fee": 32600
+        },
+        {
+          "year": 4,
+          "fee": 32600
+        }
+      ],
+      "totalTuitionFee": 130400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-mechatronic-engineering",
+      "universityId": "apu",
+      "name": "Diploma in Mechatronic Engineering",
+      "nameAr": "دبلوم في Mechatronic Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Feb, Apr, Sep, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-engineering-in-mechanical-engineering-with-honours",
+      "universityId": "apu",
+      "name": "Bachelor of Engineering in Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس الهندسة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 32600,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 32600
+        },
+        {
+          "year": 2,
+          "fee": 32600
+        },
+        {
+          "year": 3,
+          "fee": 32600
+        },
+        {
+          "year": 4,
+          "fee": 32600
+        }
+      ],
+      "totalTuitionFee": 130400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-master-of-philosophy-in-engineering-by-research",
+      "universityId": "apu",
+      "name": "Master of Philosophy in Engineering (BY RESEARCH)",
+      "nameAr": "ماجستير في Master of Philosophy in Engineering (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 32000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-doctor-of-philosophy-in-engineering-by-research",
+      "universityId": "apu",
+      "name": "Doctor of Philosophy in Engineering (BY RESEARCH)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering (بالبحث العلمي)",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16933,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16933
+        },
+        {
+          "year": 2,
+          "fee": 16933
+        },
+        {
+          "year": 3,
+          "fee": 16933
+        }
+      ],
+      "totalTuitionFee": 50799,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-architecture",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Architecture",
+      "nameAr": "بكالوريوس العلوم في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 35800,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 35800
+        },
+        {
+          "year": 2,
+          "fee": 35800
+        },
+        {
+          "year": 3,
+          "fee": 35800
+        }
+      ],
+      "totalTuitionFee": 107400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-foundation-programme-architecture-design-route",
+      "universityId": "apu",
+      "name": "Foundation Programme (Architecture & Design Route)",
+      "nameAr": "برنامج تمهيدي في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 28400,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 28400
+        }
+      ],
+      "totalTuitionFee": 28400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-foundation-programme-engineering-route",
+      "universityId": "apu",
+      "name": "Foundation Programme (Engineering Route)",
+      "nameAr": "برنامج تمهيدي في Programme (Engineering Route",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 29200,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29200
+        }
+      ],
+      "totalTuitionFee": 29200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-hons-in-international-relations",
+      "universityId": "apu",
+      "name": "Bachelor of arts (Hons) in International Relations",
+      "nameAr": "بكالوريوس الآداب (مع مرتبة الشرف) في International Relations",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-science-honours-in-psychology",
+      "universityId": "apu",
+      "name": "Bachelor of Science (Honours) in Psychology",
+      "nameAr": "بكالوريوس العلوم في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-international-studies",
+      "universityId": "apu",
+      "name": "Diploma in International Studies",
+      "nameAr": "دبلوم في International Studies",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep, May, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-honours-in-visual-effects",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Honours) in Visual Effects",
+      "nameAr": "بكالوريوس الآداب في المؤثرات البصرية (VFX)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-honours-in-animation",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Honours) in Animation",
+      "nameAr": "بكالوريوس الآداب في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-honours-in-industrial-design",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Honours) in Industrial Design",
+      "nameAr": "بكالوريوس الآداب في Honours) in Industrial Design",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-honours-in-digital-advertising",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Honours) in Digital Advertising",
+      "nameAr": "بكالوريوس الآداب في Honours) in Digital Advertising",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-in-interactive-media-and-immersive-technology-honours",
+      "universityId": "apu",
+      "name": "Bachelor in Interactive Media and Immersive Technology (Honours)",
+      "nameAr": "بكالوريوس في Bachelor in Interactive Media and Immersive Technology (Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-bachelor-of-arts-honours-in-media-and-communication-studies",
+      "universityId": "apu",
+      "name": "Bachelor of Arts (Honours) in Media and Communication Studies",
+      "nameAr": "بكالوريوس الآداب في Honours) in Media and Communication Studies",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 34900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Mar, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34900
+        },
+        {
+          "year": 2,
+          "fee": 34900
+        },
+        {
+          "year": 3,
+          "fee": 34900
+        }
+      ],
+      "totalTuitionFee": 104700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "apu-diploma-in-design-media",
+      "universityId": "apu",
+      "name": "Diploma in Design & Media",
+      "nameAr": "دبلوم في Design & Media",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 2,
+      "annualFee": 27900,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "May, Jul, Sep",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 27900
+        },
+        {
+          "year": 2,
+          "fee": 27900
+        }
+      ],
+      "totalTuitionFee": 55800,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 112
+}

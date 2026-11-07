@@ -1,0 +1,5136 @@
+{
+  "id": "utar",
+  "name": "Universiti Tunku Abdul Rahman (UTAR)",
+  "arabicName": "جامعة تونكو عبد الرحمن (UTAR)",
+  "city": "Kampar / Sungai Long, Selangor",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-utar.webp",
+  "image": "assets/photo/campus_utar.jpg",
+  "website": "https://www.utar.edu.my/",
+  "ranking": "Rank 801 QS World University Rankings 2025 (Affordable High Quality)",
+  "established": "2002",
+  "campusName": "UTAR Sungai Long & Kampar Campus",
+  "studentCount": "21,000+ (40+ Countries)",
+  "intakes": "Jan, May, Oct",
+  "feeRangeMin": 4451,
+  "feeRangeMax": 72940,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/-pGPwFSBeBg",
+  "description": "Universiti Tunku Abdul Rahman (UTAR) is one of the leading recognized higher education institutions located in Kampar / Sungai Long, Selangor. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة تونكو عبد الرحمن (UTAR) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Kampar / Sungai Long, Selangor، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Universiti Tunku Abdul Rahman (UTAR) didirikan pada tahun 2002 dan merupakan salah satu universitas riset swasta nirlaba paling terkemuka di Malaysia, bertengger di jajaran Top 100 QS Asia University Rankings dengan kampus di Kampar dan Sungai Long.",
+    "en": "Universiti Tunku Abdul Rahman (UTAR), established in 2002, is one of Malaysia’s top premier non-profit research universities, ranked in the Top 100 in the QS Asia University Rankings across its Kampar and Bandar Sungai Long campuses.",
+    "ar": "تأسست جامعة تونكو عبد الرحمن (UTAR) عام 2002، وتعد إحدى أرقى الجامعات البحثية غير الربحية في ماليزيا، ومصنفة ضمن أفضل 100 جامعة في آسيا بفضل حرميها في كامبار وسونغاي لونغ.",
+    "zh": "拉曼大学（UTAR）创办于2002年，是马来西亚首屈一指的非营利顶尖研究型名校，长年位列QS亚洲大学排名前100强，在霹雳州金宝（Kampar）与雪兰莪双溪龙建有两大现代化宏伟校区。",
+    "ru": "Университет Тунку Абдул Рахман (UTAR), основанный в 2002 году, входит в сотню лучших вузов Азии рейтинга QS с кампусами в Кампаре и Бандар Сунгай Лонг.",
+    "fr": "L'Universiti Tunku Abdul Rahman (UTAR), fondée en 2002, figure parmi les 100 meilleures universités d'Asie (QS Asia) avec ses campus de Kampar et Sungai Long.",
+    "es": "La Universiti Tunku Abdul Rahman (UTAR), fundada en 2002, se sitúa en el Top 100 de QS Asia con dos destacados campus en Kampar y Sungai Long.",
+    "ja": "トゥンク・アブドゥル・ラーマン大学（UTAR）は2002年に設立された名門非営利研究大学で、QSアジア大学ランキングでトップ100に位置し、カンパーとスンガイ・ロンにキャンパスを展開。",
+    "ko": "툰쿠 압둘 라만 대학교(UTAR)는 2002년에 설립된 말레이시아 최정상급 비영리 명문 연구대학으로, 캄파르와 숭아이 롱 두 개의 대형 캠퍼스를 두고 QS 아시아 100위권에 랭크되어 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Danau Kampar Heritage 1.300 Hektar yang Megah",
+        "en": "Scenic 1,300-Acre Kampar Heritage Lake Campus",
+        "ar": "حرم كامبار التاريخي الخلاب بمساحة 1,300 فدان حول البحيرات",
+        "ko": "1,300에이커 규모의 유서 깊은 캄파르 레이크 헤리티지 캠퍼스",
+        "ja": "風光明媚な1,300エーカーのカンパー・ヘリテージ・レイクキャンパス",
+        "zh": "占地1300英亩风景如画的金宝湖畔花园式大型大学城校区",
+        "ru": "Живописный кампус Кампар площадью 1300 акров у озера",
+        "fr": "Magnifique campus de 1300 acres au bord du lac à Kampar",
+        "es": "Espectacular campus lacustre de 1.300 acres en Kampar"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Kota Modern Sungai Long di Lembah Klang",
+        "en": "Contemporary Sungai Long City Campus in Klang Valley",
+        "ar": "حرم سونغاي لونغ الحضري الحديث في قلب وادي كلانج",
+        "ko": "클랑 밸리에 위치한 첨단 도심형 숭아이 롱 캠퍼스",
+        "ja": "クランバレーに位置する現代的なスンガイ・ロング都市型キャンパス",
+        "zh": "坐落于雪兰莪巴生谷的双溪龙现代化都市综合校区",
+        "ru": "Современный городской кампус Сунгай Лонг в долине Кланг",
+        "fr": "Campus urbain contemporain de Sungai Long dans la vallée du Klang",
+        "es": "Campus urbano de vanguardia en Sungai Long (Valle de Klang)"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Rumah Sakit Pendidikan UTAR Kampar & Pengobatan Tradisional Cina",
+        "en": "UTAR Hospital & Integrated Western and Traditional Medicine",
+        "ar": "مستشفى UTAR الجامعي ومراكز الطب الغربي والصيني التقليدي المتكامل",
+        "ko": "UTAR 부속 종합병원 및 동서양 통합 의학 진료 연구 센터",
+        "ja": "UTAR直属総合病院＆西洋医学・伝統中国医学統合医療センター",
+        "zh": "拉曼大学直属综合医院（结合现代西医及中医药传统诊疗中心）",
+        "ru": "Больница UTAR и центр интегративной западной и восточной медицины",
+        "fr": "Hôpital UTAR et centre de médecine intégrée occidentale et chinoise",
+        "es": "Hospital Universitario UTAR y Centro de Medicina Integrada"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "id": "Pusat Penelitian Kecerdasan Buatan & Rekayasa Rekayasa Semikonduktor",
+        "en": "AI, Big Data Analytics & Semiconductor Research Centres",
+        "ar": "مراكز أبحاث الذكاء الاصطناعي وهندسة أشباه الموصلات والبيانات الضخمة",
+        "ko": "인공지능, 빅데이터 분석 및 반도체 공학 첨단 연구소",
+        "ja": "AI・ビッグデータ解析＆半導体工学先端研究センター",
+        "zh": "人工智能前沿算法、大数据分析与半导体微电子工程研究中心",
+        "ru": "Центры исследований искусственного интеллекта и полупроводников",
+        "fr": "Centres de recherche sur l'IA, les mégadonnées et les semi-conducteurs",
+        "es": "Centros de investigación en IA, Big Data y semiconductores"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "",
+      "title": {
+        "id": "Universitas Nirlaba Terkemuka Berperingkat Top QS World University",
+        "en": "Top-Ranked Non-Profit University (Rank 801 QS World Rankings)",
+        "ar": "الجامعة غير الربحية الرائدة والمصنفة عالمياً ضمن أفضل جامعات QS",
+        "ko": "글로벌 QS 랭킹 공인 최고의 비영리 명문 사학 (Rank 801 QS World)",
+        "ja": "世界QS大学ランキング認定の最高峰非営利名門私立大学",
+        "zh": "QS世界大学排名前列的马来西亚最大非营利综合旗舰名校",
+        "ru": "Ведущий некоммерческий университет в мировом рейтинге QS (Rank 801)",
+        "fr": "Première université à but non lucratif classée au QS World Rankings",
+        "es": "Universidad sin ánimo de lucro líder en el ranking mundial QS"
+      },
+      "desc": {
+        "id": "Dikenal dengan keunggulan akademik yang diakui global dengan standar kualitas setara universitas riset terbaik.",
+        "en": "Internationally celebrated for academic rigour and research impact equivalent to premier public universities.",
+        "ar": "مشهود لها بالتميز الأكاديمي الصارم وجودة الأبحاث التي تضاهي كبرى الجامعات الحكومية المرموقة.",
+        "ko": "최고 수준의 국립 연구중심 대학과 필적하는 엄격한 학사 관리와 학문적 권위.",
+        "ja": "トップ国立研究大学に匹敵する厳格な教育水準と国際的な研究実績で高評価。",
+        "zh": "以严谨过硬的治学学风和强劲的科研实力享誉海内外，比肩顶尖公立研究型大学。",
+        "ru": "Славится высокими академическими стандартами и признанными научными исследованиями.",
+        "fr": "Réputée pour sa rigueur académique et son excellence en recherche.",
+        "es": "Reconocida internacionalmente por su rigor académico y calidad de investigación."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Biaya Pendidikan Paling Terjangkau dengan Kualitas Standar Dunia",
+        "en": "Unmatched Affordability with World-Class Academic Standards",
+        "ar": "أعلى قيمة تعليمية بأقل تكلفة دراسية ممكنة ومستوى عالمي رفيع",
+        "ko": "세계적 수준의 학문적 퀄리티 대비 가장 경제적이고 합리적인 등록금",
+        "ja": "世界基準の最高水準教育をマレーシア屈指の低学費で提供",
+        "zh": "全马公认学费最为亲民可负担的顶级国际水准综合大学",
+        "ru": "Непревзойденная доступность обучения при мировых академических стандартах",
+        "fr": "Rapport qualité-prix exceptionnel : scolarité abordable et standard mondial",
+        "es": "Insuperable asequibilidad con los más altos estándares educativos"
+      },
+      "desc": {
+        "id": "Sebagai institusi nirlaba, seluruh dana dialokasikan untuk fasilitas pendidikan, riset, dan subsidi mahasiswa.",
+        "en": "Operating on a not-for-profit foundation, all resources are channeled directly to student subsidies and research.",
+        "ar": "كمؤسسة غير ربحية، يتم توجيه كافة الموارد لدعم الطلاب وتطوير المختبرات وتوفير منح دراسية سخية.",
+        "ko": "비영리 재단으로 운영되어 모든 재정이 학생 복지와 첨단 연구 설비에 직접 환원.",
+        "ja": "非営利財団が運営するため、全ての資金が学生の奨学金や研究施設へ還元されます。",
+        "zh": "大学依托拉曼大学教育基金会非营利运作，将所有盈余全额反哺教学科研与学子资助。",
+        "ru": "Как некоммерческий фонд, университет направляет все средства на поддержку студентов.",
+        "fr": "Gérée par une fondation à but non lucratif, les fonds sont réinvestis dans la formation.",
+        "es": "Entidad sin ánimo de lucro que destina sus recursos a la mejora formativa e investigación."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Tingkat Penyerapan Kerja Lulusan Mencapai 95% - 97% dalam 6 Bulan",
+        "en": "Outstanding 95% - 97% Graduate Employability Rate",
+        "ar": "معدل توظيف استثنائي للخريجين يصل إلى 95% - 97% خلال 6 أشهر",
+        "ko": "졸업 후 6개월 이내 95%~97%에 이르는 압도적인 취업 성공률",
+        "ja": "卒業後6か月以内の就職率95％〜97％を誇る圧倒的な企業からの信頼",
+        "zh": "毕业生毕业6个月内就业率高达95%至97%，深受全球跨国名企青睐",
+        "ru": "Высочайший уровень трудоустройства выпускников (95%–97% за 6 месяцев)",
+        "fr": "Taux d'employabilité exceptionnel de 95 % à 97 % dans les 6 mois",
+        "es": "Tasa de inserción laboral destacada del 95% al 97% en 6 meses"
+      },
+      "desc": {
+        "id": "Alumni UTAR sangat disukai oleh industri keuangan, perbankan, IT, teknik, dan medis di seluruh Asia Pasifik.",
+        "en": "UTAR graduates are highly sought-after by corporate banks, IT tech titans, and engineering firms across Asia.",
+        "ar": "يحظى خريجو الجامعة بأولوية التوظيف في البنوك الكبرى وشركات التكنولوجيا والهندسة في آسيا.",
+        "ko": "아시아 태평양 전역의 금융기관, 빅테크 IT 기업 및 대기업 엔지니어링사에서 최우선 채용.",
+        "ja": "アジア太平洋地域の金融機関、IT大手、建設・エンジニアリング企業から絶大な支持。",
+        "zh": "毕业生在亚太地区的跨国银行、四大会计师事务所、IT独角兽及工程巨头中广受追捧。",
+        "ru": "Выпускники востребованы в банках, IT-компаниях и инженерных корпорациях Азиатско-Тихоокеанского региона.",
+        "fr": "Les diplômés sont très convoités par les banques, le secteur IT et l'ingénierie en Asie.",
+        "es": "Muy solicitados por la banca internacional, gigantes tecnológicos y firmas de ingeniería."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Lingkungan Kampus Hijau Ramah Lingkungan dengan Biaya Hidup Rendah",
+        "en": "Tranquil Green Eco-Campus Living with Super Low Cost of Living",
+        "ar": "بيئة جامعية خضراء وصحية مع أدنى تكاليف معيشية في ماليزيا (حرم كامبار)",
+        "ko": "자연 친화적 에코 캠퍼스 환경과 말레이시아 최저 수준의 생활비 (캄파르)",
+        "ja": "豊かな自然に囲まれたエコキャンパスと国内最安水準の生活費（カンパー校）",
+        "zh": "风景宜人的绿色生态学府与全马最宜居、物价最亲民的求学胜地（金宝）",
+        "ru": "Экологически чистый зеленый кампус с рекордно низкой стоимостью жизни",
+        "fr": "Campus écologique paisible avec un coût de la vie particulièrement bas",
+        "es": "Campus ecológico y tranquilo con un coste de vida sumamente asequible"
+      },
+      "desc": {
+        "id": "Biaya hidup di Kampar hanya berkisar RM 800 - RM 1.200 per bulan, memberikan ketenangan belajar maksimal.",
+        "en": "Monthly living expenses in Kampar average only RM 800 to RM 1,200, creating an ideal stress-free academic haven.",
+        "ar": "تكاليف المعيشة في كامبار لا تتعدى 800 إلى 1,200 رينجيت شهرياً شاملة السكن والطعام، مما يتيح بيئة دراسية مثالية.",
+        "ko": "캄파르에서의 월 생활비는 기숙사와 식비를 포함해 RM 800~1,200 선에 불과하여 학업에만 전념 가능.",
+        "ja": "カンパーでの月々の生活費は住居・食費込みでRM 800〜1,200程度と、学業に専念できる最高の環境。",
+        "zh": "金宝大学城每月包含食宿总开支仅需约800至1200马币，环境幽雅静谧，是潜心治学的理想天地。",
+        "ru": "Расходы на жизнь в Кампаре составляют всего 800–1200 ринггитов в месяц.",
+        "fr": "Le coût de la vie à Kampar se situe entre 800 et 1200 RM par mois, idéal pour étudier sereinement.",
+        "es": "El gasto mensual en Kampar es de apenas 800 a 1.200 RM, garantizando máxima tranquilidad."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Residensi Mahasiswa Danau Kampar Harvard/Cambridge Suites",
+        "en": "Kampar Lake West Student Residential Suites (Harvard & Cambridge)",
+        "ar": "أجنحة السكن الطلابي في كامبار ليك ويست (هارفارد وكامبريدج)",
+        "ko": "캄파르 레이크 웨스트 하버드 & 케임브리지 프리미엄 학생 스위트",
+        "ja": "カンパー・レイクウェスト ハーバード＆ケンブリッジ学生レジデンス",
+        "zh": "金宝西湖大学城哈佛与剑桥精品学生联排公寓区",
+        "ru": "Студенческий жилой комплекс Кампар Лейк Вест (Гарвард и Кембридж)",
+        "fr": "Suites résidentielles étudiantes Kampar Lake West (Harvard & Cambridge)",
+        "es": "Suites residenciales para estudiantes Kampar Lake West (Harvard y Cambridge)"
+      },
+      "distance": {
+        "id": "5 Menit Bersepeda / 2 Menit Shuttle Bus ke Kampus Kampar",
+        "en": "5-Minute Bicycle Ride / 2-Minute Free Campus Shuttle to Kampar Gates",
+        "ar": "5 دقائق بالدراجة / دقيقتان بحافلة الحرم الجامعي المجانية إلى البوابة",
+        "ko": "자전거로 5분 / 무료 캠퍼스 셔틀버스로 2분 거리",
+        "ja": "自転車で5分／無料キャンパスシャトルでわずか2分",
+        "zh": "骑单车仅需5分钟，搭乘校区免费穿梭巴士仅2分钟即达主校门",
+        "ru": "5 минут на велосипеде или 2 минуты на бесплатном шаттле до входа",
+        "fr": "À 5 minutes à vélo ou 2 minutes en navette gratuite du campus",
+        "es": "A 5 minutos en bicicleta o 2 minutos en autobús lanzadera gratuito"
+      },
+      "priceRange": "RM 250 - RM 600 / month",
+      "amenities": {
+        "id": [
+          "Lingkungan Asri Tepi Danau dengan Jalur Sepeda",
+          "Keamanan 24 Jam dengan Patroli Rutin",
+          "Kamar Mandi Dalam & AC / Kipas Angin",
+          "WiFi Cepat & Ruang Belajar Komunal",
+          "Pusat Makanan Mahasiswa Murah & Rental Sepeda"
+        ],
+        "en": [
+          "Scenic Lakeside Environment with Dedicated Bicycle Paths",
+          "24-Hour Gated Community & Security Patrols",
+          "En-Suite Bathroom, Air-Conditioning / Ceiling Fan",
+          "High-Speed Internet & Communal Study Rooms",
+          "Affordable Student Food Court & Bike Rentals"
+        ],
+        "ar": [
+          "بيئة بحيرية خلابة مع مسارات مخصصة للدراجات الهوائية",
+          "مجمع سكني مسور بحراسة 24 ساعة ودوريات أمنية",
+          "حمام خاص وتكييف هواء ومروحة سقفية",
+          "إنترنت سريع وقاعات مشتركة للاستذكار",
+          "مجمع مطاعم طلابية اقتصادية ومحلات تأجير دراجات"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian (Sangat Terjangkau)",
+        "en": "Food & Daily Dining (Super Affordable)",
+        "ar": "الطعام والمأكولات اليومية (اقتصادي جداً)"
+      },
+      "cost": "RM 450 - RM 700"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & Bus Kampus / Sepeda",
+        "en": "Local Transit, Free Shuttle & Bicycle",
+        "ar": "المواصلات وحافلات الجامعة المجانية والدراجات"
+      },
+      "cost": "RM 30 - RM 80"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 60 - RM 120"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Fotokopi Buku",
+        "en": "Personal Expenses & Course Materials",
+        "ar": "المستلزمات الشخصية والكتب الدراسية"
+      },
+      "cost": "RM 150 - RM 300"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "id": "Apa perbedaan utama antara Kampus Kampar dan Kampus Sungai Long UTAR?",
+        "en": "What is the main difference between UTAR Kampar and Sungai Long Campuses?",
+        "ar": "ما هو الفرق الرئيسي بين حرم كامبار وحرم سونغاي لونغ في جامعة UTAR؟",
+        "ko": "UTAR의 캄파르 캠퍼스와 숭아이 롱 캠퍼스의 가장 큰 차이는 무엇인가요?",
+        "ja": "UTARのカンパー校とスンガイ・ロング校の主な違いは何ですか？",
+        "zh": "拉曼大学金宝（Kampar）校区与双溪龙（Sungai Long）校区有何主要区别？",
+        "ru": "В чем основная разница между кампусами Кампар и Сунгай Лонг в UTAR?",
+        "fr": "Quelle est la principale différence entre les campus de Kampar et Sungai Long ?",
+        "es": "¿Cuál es la diferencia principal entre los campus de Kampar y Sungai Long?"
+      },
+      "a": {
+        "id": "Kampus Kampar adalah kampus megah 1.300 hektar yang berfokus pada Bisnis, Seni, Sains Murni, Komputer, dan Rumah Sakit UTAR. Kampus Sungai Long berlokasi di area metropolitan KL untuk Kedokteran (MBBS), Ilmu Kesehatan, dan Teknik Rekayasa.",
+        "en": "Kampar is a sprawling 1,300-acre residential eco-campus housing Business, Arts, Science, and IT. Sungai Long is located in greater KL and hosts Medicine (MBBS), Health Sciences, and Engineering.",
+        "ar": "حرم كامبار هو الحرم الأخضر الكبير (1300 فدان) ويضم كليات إدارة الأعمال والآداب والعلوم وتكنولوجيا المعلومات ومستشفى الجامعة. بينما يقع حرم سونغاي لونغ في كوالالمبور الكبرى ويضم كليات الطب البشري والهندسة.",
+        "ko": "캄파르는 1,300에이커의 대규모 호수 캠퍼스로 경영학, 인문학, 이과, IT 및 UTAR 병원이 위치하며, 숭아이 롱은 KL 도심 근교에 위치해 의대(MBBS)와 공학부가 특화되어 있습니다.",
+        "ja": "カンパー校は1,300エーカーの広大な自然の中にビジネス、人文学、理学、IT、大学病院を擁します。スンガイ・ロング校はKL都市圏にあり医学科（MBBS）と工学部を配置しています。",
+        "zh": "金宝校区占地1300英亩，环境开阔静谧，设商学院、文学与社会科学、基础理学、资讯通讯科技学院及拉曼大学综合医院；双溪龙校区地处吉隆坡大都会区，设医学与健康科学院及工程与绿色科技学院。",
+        "ru": "Кампар — огромный загородный кампус (бизнес, IT, науки, больница). Сунгай Лонг расположен в пригороде Куала-Лумпура (медицина и инженерия).",
+        "fr": "Kampar est un vaste campus résidentiel (gestion, arts, sciences, IT, hôpital) ; Sungai Long est situé près de KL et accueille la médecine et l'ingénierie.",
+        "es": "Kampar es un extenso campus natural (Empresa, Artes, Ciencias, TI, Hospital); Sungai Long está en el área metropolitana de KL (Medicina e Ingeniería)."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa perkiraan total biaya kuliah sarjana (Bachelor) di UTAR?",
+        "en": "What is the estimated total bachelor degree tuition fee at UTAR?",
+        "ar": "كم تبلغ التكلفة الإجمالية لدراسة البكالوريوس في جامعة UTAR؟",
+        "ko": "UTAR의 학사 학위 취득을 위한 총 예상 학비는 얼마인가요?",
+        "ja": "UTARでの学士課程修了までの総学費の目安はどれくらいですか？",
+        "zh": "在拉曼大学完成本科学位课程的总学费大约是多少？",
+        "ru": "Какова ориентировочная стоимость полного курса бакалавриата в UTAR?",
+        "fr": "Quel est le coût total estimé pour un bachelor à l'UTAR ?",
+        "es": "¿Cuál es el coste total estimado para una licenciatura en UTAR?"
+      },
+      "a": {
+        "id": "Sangat terjangkau: Program Bisnis dan Komputer sekitar $12.000 - $15.000 USD untuk 3 tahun. Program Teknik sekitar $17.000 - $20.000 USD untuk 4 tahun. Kedokteran (MBBS) sekitar $75.000 USD untuk 5 tahun.",
+        "en": "Extremely affordable: Business & IT are approx $12,000 - $15,000 USD total (3 years). Engineering is approx $17,000 - $20,000 USD total (4 years). Medicine (MBBS) is approx $75,000 USD total (5 years).",
+        "ar": "اقتصادية للغاية: إدارة الأعمال وتكنولوجيا المعلومات تتراوح بين 12,000 إلى 15,000 دولار للسنوات الثلاث كاملة. والهندسة بين 17,000 إلى 20,000 دولار للأربع سنوات. والطب البشري حوالي 75,000 دولار للسنوات الخمس.",
+        "ko": "매우 경제적입니다: 경영 및 IT는 3년간 총 약 12,000~15,000 달러, 공학부는 4년간 총 17,000~20,000 달러, 의학(MBBS)은 5년간 총 약 75,000 달러 선입니다.",
+        "ja": "極めて手頃です：ビジネス・ITは3年間で総額約12,000〜15,000米ドル、工学部は4年間で総額約17,000〜20,000米ドル、医学部（MBBS）は5年間で約75,000米ドルです。",
+        "zh": "极具性价比优势：商科与IT专业3年全程学费仅需约12,000至15,000美元；工程专业4年全程仅需约17,000至20,000美元；临床医学（MBBS）5年全程仅需约75,000美元。",
+        "ru": "Бизнес и IT: 12 000–15 000 $ за 3 года; Инженерия: 17 000–20 000 $ за 4 года; Медицина: около 75 000 $ за 5 лет.",
+        "fr": "Très abordable : commerce et IT environ 12 000-15 000 $ pour 3 ans ; ingénierie 17 000-20 000 $ pour 4 ans ; médecine 75 000 $ pour 5 ans.",
+        "es": "Muy accesible: Empresa y TI unos 12.000-15.000 $ por 3 años; Ingeniería 17.000-20.000 $ por 4 años; Medicina unos 75.000 $ por 5 años."
+      }
+    },
+    {
+      "q": {
+        "id": "Apa bahasa pengantar perkuliahan yang digunakan di UTAR?",
+        "en": "What is the medium of instruction used at UTAR?",
+        "ar": "ما هي لغة التدريس المعتمدة في المحاضرات في جامعة UTAR؟",
+        "ko": "UTAR에서의 정규 강의 수업 언어는 무엇인가요?",
+        "ja": "UTARでの授業で使われる主な教授言語は何ですか？",
+        "zh": "拉曼大学各专业日常课堂教学与课件所使用的主要授课语言是什么？",
+        "ru": "На каком языке ведется преподавание в университете UTAR?",
+        "fr": "Quelle est la langue d'enseignement utilisée à l'UTAR ?",
+        "es": "¿Cuál es el idioma de instrucción principal en UTAR?"
+      },
+      "a": {
+        "id": "100% Bahasa Inggris adalah bahasa pengantar utama untuk semua perkuliahan, modul, tugas, dan ujian (kecuali jurusan studi bahasa Mandarin khusus).",
+        "en": "100% English is the official medium of instruction for all lectures, textbooks, and examinations (with the sole exception of specialized Chinese Studies).",
+        "ar": "اللغة الإنجليزية بنسبة 100% هي لغة التدريس الرسمية لكافة المحاضرات والمناهج والامتحانات (باستثناء قسم الدراسات الصينية المتخصص).",
+        "ko": "특화된 중어중문학을 제외한 전 학과의 모든 강의, 교재, 과제 및 시험은 100% 영어로 진행됩니다.",
+        "ja": "専門の中国文学専攻を除き、すべての講義、教科書、課題、試験は100％英語で行われます。",
+        "zh": "除中文学系特设专业外，全校所有学院的本科、硕士及博士课程，日常教学、教材与考试均100%采用纯英语进行。",
+        "ru": "100% английский язык является языком преподавания (за исключением специализации китаеведения).",
+        "fr": "L'anglais est la langue d'enseignement officielle à 100 % (sauf pour les études chinoises spécialisées).",
+        "es": "El 100% de la docencia se imparte en inglés (salvo en el departamento especializado de Estudios Chinos)."
+      }
+    },
+    {
+      "q": {
+        "id": "Berapa syarat IELTS untuk mendaftar di UTAR?",
+        "en": "What are the IELTS English requirements for international admission at UTAR?",
+        "ar": "ما هي متطلبات درجة اختبار IELTS للقبول الدولي في UTAR؟",
+        "ko": "UTAR 외국인 유학생 입학을 위한 IELTS 성적 기준은 무엇인가요?",
+        "ja": "UTAR留学生入試に必要なIELTS英語スコア要件は？",
+        "zh": "国际学生申请拉曼大学本科需要满足怎样的雅思（IELTS）英语成绩要求？",
+        "ru": "Каковы требования по IELTS для поступления иностранных студентов в UTAR?",
+        "fr": "Quelles sont les exigences d'IELTS pour l'admission internationale à l'UTAR ?",
+        "es": "¿Cuáles son los requisitos de IELTS para la admisión internacional en UTAR?"
+      },
+      "a": {
+        "id": "Sebagian besar program memerlukan skor IELTS 5.0 hingga 6.0. Program Kedokteran (MBBS) memerlukan minimal IELTS 6.5 - 7.0.",
+        "en": "Most degree programmes require an IELTS score between 5.0 and 6.0. Medicine (MBBS) requires a minimum of IELTS 6.5 to 7.0.",
+        "ar": "تتطلب معظم البرامج درجة بين 5.0 إلى 6.0. بينما يتطلب برنامج الطب البشري (MBBS) درجة بين 6.5 إلى 7.0.",
+        "ko": "대부분의 학과는 IELTS 5.0~6.0을 요구하며, 의예과(MBBS)는 최소 IELTS 6.5~7.0이 필요합니다.",
+        "ja": "ほとんどの専攻でIELTS 5.0〜6.0が基準となります。医学部（MBBS）は6.5〜7.0が必要です。",
+        "zh": "绝大多数本科专业仅需雅思5.0至6.0分；临床医学学士（MBBS）则要求雅思6.5至7.0分。",
+        "ru": "Для большинства программ достаточно IELTS 5.0–6.0. Для медицины (MBBS) требуется 6.5–7.0.",
+        "fr": "La plupart des cursus requièrent un score IELTS de 5.0 à 6.0. La médecine demande 6.5 à 7.0.",
+        "es": "La mayoría de titulaciones exigen entre 5.0 y 6.0 de IELTS. Medicina requiere entre 6.5 y 7.0."
+      }
+    },
+    {
+      "q": {
+        "id": "Kapan periode intake mahasiswa baru di UTAR dibuka?",
+        "en": "When are the primary intake periods at UTAR?",
+        "ar": "متى تبدأ الفصول الدراسية ومواعيد القبول في جامعة UTAR؟",
+        "ko": "UTAR의 정규 입학 시기는 언제인가요?",
+        "ja": "UTARの主な入学時期（インテイク）はいつですか？",
+        "zh": "拉曼大学每年招收新生的主要入学学期分别在哪些月份？",
+        "ru": "В какие месяцы проводятся основные наборы студентов в UTAR?",
+        "fr": "Quelles sont les périodes principales de rentrée à l'UTAR ?",
+        "es": "¿Cuáles son las convocatorias de admisión principales en UTAR?"
+      },
+      "a": {
+        "id": "Intake utama untuk sarjana berlangsung pada bulan Januari, Mei/Juni, dan Oktober setiap tahunnya.",
+        "en": "Primary undergraduate intakes occur in January, May/June, and October each year.",
+        "ar": "تبدأ الفصول الدراسية الرئيسية للبكالوريوس في أشهر يناير ومايو/يونيو وأكتوبر من كل عام.",
+        "ko": "학부 과정의 정규 입학 시기는 매년 1월, 5월/6월, 10월에 개설됩니다.",
+        "ja": "学部課程の主な入学期は毎年1月、5月／6月、10月です。",
+        "zh": "本科课程每年主要设有三次正式开学节点：1月、5月/6月以及10月。",
+        "ru": "Основные наборы на бакалавриат проходят в январе, мае/июне и октябре.",
+        "fr": "Les rentrées universitaires principales en licence ont lieu en janvier, mai/juin et octobre.",
+        "es": "Las entradas principales de grado tienen lugar en enero, mayo/junio y octubre."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Panduan Lengkap Kuliah di UTAR: Kualitas Top QS dengan Biaya Paling Efisien",
+        "en": "Comprehensive Guide to UTAR: QS World Ranking Quality at Minimal Cost",
+        "ar": "الدليل الشامل للدراسة في جامعة UTAR: تصنيف عالمي مرموق بأقل تكلفة ممكنة",
+        "ko": "UTAR 유학 완벽 가이드: 최저 비용으로 누리는 QS 세계 랭킹 명문대 학위",
+        "ja": "UTAR留学完全ガイド：最小限の費用で手に入れる世界QSランク名門学位",
+        "zh": "拉曼大学（UTAR）深度报考全景指南：以亲民预算跻身全球QS权威名校殿堂",
+        "ru": "Полный гид по обучению в UTAR: качество уровня QS по минимальной стоимости",
+        "fr": "Guide complet pour étudier à l'UTAR : l'excellence du classement QS à coût réduit",
+        "es": "Guía completa para estudiar en UTAR: calidad de ranking QS al menor coste"
+      },
+      "summary": {
+        "id": "Eksplorasi mendalam reputasi akademik non-profit, perbandingan biaya kuliah, akreditasi internasional, dan prospek karier.",
+        "en": "In-depth review of non-profit academic prestige, fee comparisons against private universities, and job market dominance.",
+        "ar": "مراجعة شاملة لسمعة الجامعة غير الربحية، ومقارنة الرسوم بالجامعات الخاصة، والاعترافات المهنية ومعدلات التوظيف.",
+        "ko": "비영리 명문 사학의 공신력, 사립대 대비 파격적인 학비 비교, 글로벌 공인 인증 및 취업 시장 경쟁력 분석.",
+        "ja": "非営利名門の権威、他大学との圧倒的な学費比較、国際認定と就職市場における強さを徹底検証。",
+        "zh": "全面剖析非营利办学背景、与私立高校学费对照横评、华盛顿协议工程认证及顶尖雇主高认可度。",
+        "ru": "Подробный анализ престижа вуза, сравнение стоимости с другими университетами и перспективы трудоустройства.",
+        "fr": "Analyse de la réputation de cette institution à but non lucratif, comparaison des frais et débouchés.",
+        "es": "Análisis del prestigio académico sin ánimo de lucro, comparativa de tasas y alta inserción laboral."
+      }
+    },
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Kehidupan Mahasiswa di Kampus Danau Kampar: Damai, Bersahabat & Hemat",
+        "en": "Student Life at Kampar Lake Campus: Scenic, Peaceful & Ultra-Affordable",
+        "ar": "حياة الطلاب في حرم بحيرة كامبار: طبيعة ساحرة، هدوء دراسي، ومصاريف زهيدة",
+        "ko": "캄파르 레이크 캠퍼스 유학 라이프: 아름다운 호수 풍경과 초가성비 생활비",
+        "ja": "カンパー・レイク校での留学ライフ：美しい湖畔、平穏な環境、驚きの低生活費",
+        "zh": "金宝湖畔大学城生活全景纪实：依山傍水、民风淳朴与超高幸福感留学校园",
+        "ru": "Студенческая жизнь в кампусе Кампар: природа, спокойствие и доступность",
+        "fr": "La vie étudiante sur le campus du lac de Kampar : paisible, vert et très économique",
+        "es": "Vida universitaria en el campus del lago en Kampar: sereno, natural y económico"
+      },
+      "summary": {
+        "id": "Tips mengelola biaya hidup RM 800 per bulan, bersepeda di sekitar danau, kuliner lokal Perak, dan sewa akomodasi.",
+        "en": "Tips for living well on RM 800/month, cycling around tranquil lakes, Perak culinary scenes, and private rental options.",
+        "ar": "نصائح لإدارة مصاريف شهرية بـ 800 رينجيت، ركوب الدراجات حول البحيرات، تجربة المأكولات المحلية والشقق المستقلة.",
+        "ko": "월 RM 800으로 누리는 풍요로운 유학 생활, 호숫가 자전거 통학, 페락 지역 먹거리 및 숙소 렌트 노하우.",
+        "ja": "月額RM 800で快適に暮らす知恵、湖畔サイクリング、ペラック州の美食、近隣アパート事情を網羅。",
+        "zh": "手把手教你月均800马币乐享留学、金宝标志性单车环湖骑行、霹雳州地道美食及校外精选联排公寓租住全览。",
+        "ru": "Советы по жизни на 800 ринггитов в месяц: велосипеды, местная кухня и варианты аренды жилья.",
+        "fr": "Conseils pour vivre avec 800 RM par mois, pistes cyclables au bord du lac, gastronomie locale et logements.",
+        "es": "Consejos para desenvolverse con 800 RM al mes, ciclismo junto al lago, gastronomía y alquileres."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Memilih Antara Kampar dan Sungai Long: Mana Kampus yang Tepat untuk Anda?",
+        "en": "Choosing Between Kampar and Sungai Long: Which Campus Fits You Best?",
+        "ar": "المقارنة بين كامبار وسونغاي لونغ: كيف تختار الحرم الجامعي الأنسب لشخصيتك وتخصصك؟",
+        "ko": "캄파르 vs 숭아이 롱: 나에게 가장 적합한 UTAR 캠퍼스는 어디일까?",
+        "ja": "カンパー校 vs スンガイ・ロング校：あなたに最適なキャンパスの選び方",
+        "zh": "金宝校区对比双溪龙校区：哪一座拉曼大学校区才是最适合你的理想之选？",
+        "ru": "Кампар или Сунгай Лонг: как выбрать идеальный кампус UTAR для себя",
+        "fr": "Choisir entre Kampar et Sungai Long : quel campus vous convient le mieux ?",
+        "es": "Elegir entre Kampar y Sungai Long: ¿cuál es el campus ideal para ti?"
+      },
+      "summary": {
+        "id": "Perbandingan menyeluruh suasana perkotaan versus alam, ketersediaan jurusan, gaya hidup, dan biaya transportasi.",
+        "en": "A side-by-side evaluation of vibrant metropolitan city vibes versus tranquil eco-township student living.",
+        "ar": "مقارنة دقيقة بين أجواء العاصمة الحيوية ونمط الحياة الهادئ في الطبيعة، وتوزيع الكليات والتكاليف.",
+        "ko": "대도시의 활기찬 라이프스타일과 평화로운 자연 휴양형 캠퍼스의 장단점 및 전공별 배치 상세 비교.",
+        "ja": "大都市の刺激的な生活と静穏なエコタウンでの生活環境、学部構成、交通アクセスの違いを徹底比較。",
+        "zh": "都市繁华与静谧桃源双城对决：深度比对两校区学科布局、生活节奏、消费水平与交通通达度。",
+        "ru": "Сравнение динамичной столичной жизни и спокойного загородного кампуса, анализ программ и расходов.",
+        "fr": "Comparaison entre dynamisme urbain et quiétude écologique : facultés, coûts et modes de vie.",
+        "es": "Comparativa entre el ritmo cosmopolita y la serenidad natural: carreras, gastos y estilo de vida."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Fakultas Bisnis & Keuangan (Kampus Kampar)",
+        "en": "Business & Finance (Kampar)",
+        "ar": "إدارة الأعمال والمالية (حرم كامبار)",
+        "ko": "경영 및 금융학부 (캄파르 캠퍼스)",
+        "ja": "ビジネス＆金融学部（カンパー校）",
+        "zh": "商业与金融学院（金宝校区）",
+        "ru": "Факультет бизнеса и финансов (Кампар)",
+        "fr": "Commerce et finance (campus de Kampar)",
+        "es": "Negocios y Finanzas (Campus Kampar)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$12,500 - $14,500 Total",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Teknologi Informasi & Sains Komputer (Kampus Kampar)",
+        "en": "Information & Communication Tech (Kampar)",
+        "ar": "تكنولوجيا المعلومات والاتصالات وعلوم الحاسوب (كامبار)",
+        "ko": "정보통신기술(ICT) 및 컴퓨터학부 (캄파르)",
+        "ja": "情報通信技術（ICT）＆コンピュータ学部（カンパー校）",
+        "zh": "资讯与通讯科技学院（金宝校区）",
+        "ru": "Информационно-коммуникационные технологии (Кампар)",
+        "fr": "Technologies de l'information et communication (Kampar)",
+        "es": "Tecnologías de la Información y Comunicación (Kampar)"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$13,000 - $15,500 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Teknik Rekayasa & Teknologi Hijau (Sungai Long)",
+        "en": "Engineering & Green Tech (Sungai Long)",
+        "ar": "الهندسة والتكنولوجيا الخضراء (سونغاي لونغ)",
+        "ko": "공학 및 그린 테크놀로지 학부 (숭아이 롱)",
+        "ja": "工学＆グリーンテクノロジー学部（スンガイ・ロング校）",
+        "zh": "李光前理工学院（工程与绿色科技，双溪龙校区）",
+        "ru": "Инженерия и зеленые технологии (Сунгай Лонг)",
+        "fr": "Ingénierie et technologies vertes (Sungai Long)",
+        "es": "Ingeniería y Tecnologías Verdes (Sungai Long)"
+      },
+      "degree": "Bachelor Degree (Washington Accord)",
+      "duration": "4 Years",
+      "feeUSD": "$17,500 - $20,500 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Kedokteran & Ilmu Kesehatan MBBS (Sungai Long)",
+        "en": "Medicine & Health Sciences MBBS (Sungai Long)",
+        "ar": "الطب البشري والجراحة MBBS والعلوم الصحية (سونغاي لونغ)",
+        "ko": "의과대학 의학사(MBBS) 및 보건과학부 (숭아이 롱)",
+        "ja": "医学科（MBBS）＆健康科学部（スンガイ・ロング校）",
+        "zh": "医学与健康科学院（内外全科医学士MBBS，双溪龙校区）",
+        "ru": "Медицина (MBBS) и медицинские науки (Сунгай Лонг)",
+        "fr": "Médecine et sciences de la santé MBBS (Sungai Long)",
+        "es": "Medicina y Ciencias de la Salud MBBS (Sungai Long)"
+      },
+      "degree": "Bachelor Degree (MMC Recognised)",
+      "duration": "5 Years",
+      "feeUSD": "$72,000 - $78,000 Total",
+      "ielts": "6.5"
+    },
+    {
+      "faculty": {
+        "id": "Seni, Industri Kreatif & Desain Komunikasi Visual",
+        "en": "Creative Industries & Visual Design",
+        "ar": "الصناعات الإبداعية وتصميم الاتصال البصري",
+        "ko": "크리에이티브 산업 및 시각 디자인 학부",
+        "ja": "クリエイティブ産業＆ビジュアルデザイン学部",
+        "zh": "创意产业学院（新闻、影视动画与视觉传达设计）",
+        "ru": "Креативные индустрии и визуальный дизайн",
+        "fr": "Industries créatives et design visuel",
+        "es": "Industrias Creativas y Diseño Visual"
+      },
+      "degree": "Bachelor Degree",
+      "duration": "3 Years",
+      "feeUSD": "$12,000 - $14,000 Total",
+      "ielts": "5.0"
+    },
+    {
+      "faculty": {
+        "id": "Foundation in Arts / Science (Persiapan Sarjana UTAR)",
+        "en": "Foundation in Arts / Science",
+        "ar": "السنة التمهيدية في الآداب أو العلوم (مسار UTAR)",
+        "ko": "문과 / 이과 대학 진학 파운데이션 예비과정",
+        "ja": "文系・理系大学進学ファウンデーション",
+        "zh": "文科/理科大学基础预科文凭课程",
+        "ru": "Подготовительный курс (Foundation) по искусству и науке",
+        "fr": "Année préparatoire en lettres ou sciences",
+        "es": "Fundamentos en Artes o Ciencias"
+      },
+      "degree": "Pre-University / Foundation",
+      "duration": "1 Year",
+      "feeUSD": "$3,500 - $4,200 Total",
+      "ielts": "4.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=-pGPwFSBeBg",
+  "programs": [
+    {
+      "id": "utar-bachelor-of-computer-science-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Computer Science (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-information-technology-honours-computer-engineering",
+      "universityId": "utar",
+      "name": "Bachelor of Information Technology (Honours) Computer Engineering",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Computer Engineering",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-information-technology-honours-industrial-intelligent-systems",
+      "universityId": "utar",
+      "name": "Bachelor of Information Technology (Honours) Industrial Intelligent Systems",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Industrial Intelligent Systems",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-technology-honours-in-electronic-systems",
+      "universityId": "utar",
+      "name": "Bachelor of Technology (Honours) in Electronic Systems",
+      "nameAr": "بكالوريوس في Bachelor of Technology (Honours) in Electronic Systems",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22204,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22204
+        },
+        {
+          "year": 2,
+          "fee": 22204
+        },
+        {
+          "year": 3,
+          "fee": 22204
+        }
+      ],
+      "totalTuitionFee": 66612,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-applied-mathematics-with-computing",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Applied Mathematics with Computing",
+      "nameAr": "بكالوريوس العلوم في Honours) Applied Mathematics with Computing",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-software-engineering",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Software Engineering",
+      "nameAr": "بكالوريوس العلوم في هندسة البرمجيات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-science-computer-science",
+      "universityId": "utar",
+      "name": "Master of Science (Computer Science)",
+      "nameAr": "ماجستير العلوم في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5643
+        },
+        {
+          "year": 2,
+          "fee": 5643
+        }
+      ],
+      "totalTuitionFee": 11286,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-information-systems",
+      "universityId": "utar",
+      "name": "Master of Information Systems",
+      "nameAr": "ماجستير في نظم المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 23400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23400
+        }
+      ],
+      "totalTuitionFee": 23400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-computer-science",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Computer Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Computer Science",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5462,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5462
+        },
+        {
+          "year": 2,
+          "fee": 5462
+        },
+        {
+          "year": 3,
+          "fee": 5462
+        }
+      ],
+      "totalTuitionFee": 16386,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours)",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours-banking-and-finance",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours) Banking and Finance",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في الخدمات المصرفية والمالية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours-entrepreneurship",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours) Entrepreneurship",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Entrepreneurship",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours-healthcare-management",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours) Healthcare Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Healthcare Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours-in-logistics-and-supply-chain-management",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours) in Logistics and Supply Chain Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في اللوجستيات وإدارة سلاسل الإمداد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours-retail-management",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours) Retail Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Retail Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours-risk-management",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours) Risk Management",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في Risk Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-business-administration-honours-tourism-destination-marketing",
+      "universityId": "utar",
+      "name": "Bachelor of Business Administration (Honours) Tourism Destination Marketing",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-commerce-honours-accounting",
+      "universityId": "utar",
+      "name": "Bachelor of Commerce (Honours) Accounting",
+      "nameAr": "بكالوريوس في المحاسبة",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-in-financial-economics-analytics-honours",
+      "universityId": "utar",
+      "name": "Bachelor in Financial Economics Analytics (Honours)",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-finance-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Finance (Honours)",
+      "nameAr": "بكالوريوس المالية في Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-information-systems-honours-business-information-systems",
+      "universityId": "utar",
+      "name": "Bachelor of Information Systems (Honours) Business Information Systems",
+      "nameAr": "بكالوريوس نظم المعلومات في نظم المعلومات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-information-systems-honours-digital-economy-technology",
+      "universityId": "utar",
+      "name": "Bachelor of Information Systems (Honours) Digital Economy Technology",
+      "nameAr": "بكالوريوس نظم المعلومات في Honours) Digital Economy Technology",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-marketing-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Marketing (Honours)",
+      "nameAr": "بكالوريوس في التسويق",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-public-administration-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Public Administration (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Public Administration (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 18900,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18900
+        },
+        {
+          "year": 2,
+          "fee": 18900
+        },
+        {
+          "year": 3,
+          "fee": 18900
+        }
+      ],
+      "totalTuitionFee": 56700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-construction-management",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Construction Management",
+      "nameAr": "بكالوريوس العلوم في Honours) Construction Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22204,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jul",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22204
+        },
+        {
+          "year": 2,
+          "fee": 22204
+        },
+        {
+          "year": 3,
+          "fee": 22204
+        }
+      ],
+      "totalTuitionFee": 66612,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-technology-honours-in-industrial-management",
+      "universityId": "utar",
+      "name": "Bachelor of Technology (Honours) in Industrial Management",
+      "nameAr": "بكالوريوس في Bachelor of Technology (Honours) in Industrial Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22204,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22204
+        },
+        {
+          "year": 2,
+          "fee": 22204
+        },
+        {
+          "year": 3,
+          "fee": 22204
+        }
+      ],
+      "totalTuitionFee": 66612,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-accounting-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Accounting (Honours)",
+      "nameAr": "بكالوريوس المحاسبة في Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 20870,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20870
+        },
+        {
+          "year": 2,
+          "fee": 20870
+        },
+        {
+          "year": 3,
+          "fee": 20870
+        }
+      ],
+      "totalTuitionFee": 62610,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-building-and-property-management-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Building and Property Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Building and Property Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21058,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21058
+        },
+        {
+          "year": 2,
+          "fee": 21058
+        },
+        {
+          "year": 3,
+          "fee": 21058
+        }
+      ],
+      "totalTuitionFee": 63174,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-finance-financial-technology-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Finance (Financial Technology) with Honours",
+      "nameAr": "بكالوريوس المالية في Financial Technology) with Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-international-business-honours",
+      "universityId": "utar",
+      "name": "Bachelor of International Business (Honours)",
+      "nameAr": "بكالوريوس في الأعمال الدولية",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-business-administration-corporate-management",
+      "universityId": "utar",
+      "name": "Master of Business Administration (Corporate Management)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Corporate Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 33396,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 33396
+        }
+      ],
+      "totalTuitionFee": 33396,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-in-data-management-and-analytics",
+      "universityId": "utar",
+      "name": "Master in Data Management and Analytics",
+      "nameAr": "ماجستير في Master in Data Management and Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 18000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18000
+        }
+      ],
+      "totalTuitionFee": 18000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-sustainable-construction-management",
+      "universityId": "utar",
+      "name": "Master of Sustainable Construction Management",
+      "nameAr": "ماجستير في Master of Sustainable Construction Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24440
+        }
+      ],
+      "totalTuitionFee": 24440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-postgraduate-diploma-in-data-science",
+      "universityId": "utar",
+      "name": "Postgraduate Diploma in Data Science",
+      "nameAr": "دبلوم في علم البيانات",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 18941,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18941
+        }
+      ],
+      "totalTuitionFee": 18941,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-business-administration",
+      "universityId": "utar",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29040,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29040
+        }
+      ],
+      "totalTuitionFee": 29040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-business-administration-corporate-governance",
+      "universityId": "utar",
+      "name": "Master of Business Administration (Corporate Governance)",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) في Corporate Governance",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 34848,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 34848
+        }
+      ],
+      "totalTuitionFee": 34848,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-in-data-management-and-analytics-1",
+      "universityId": "utar",
+      "name": "Master in Data Management and Analytics",
+      "nameAr": "ماجستير في Master in Data Management and Analytics",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 18000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18000
+        }
+      ],
+      "totalTuitionFee": 18000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-project-management",
+      "universityId": "utar",
+      "name": "Master of Project Management",
+      "nameAr": "ماجستير في Master of Project Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24440
+        }
+      ],
+      "totalTuitionFee": 24440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-real-estate-development",
+      "universityId": "utar",
+      "name": "Master of Real Estate Development",
+      "nameAr": "ماجستير في Master of Real Estate Development",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 29040,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 29040
+        }
+      ],
+      "totalTuitionFee": 29040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-chemical-engineering-process-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Chemical Engineering (Process) with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18582,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18582
+        },
+        {
+          "year": 2,
+          "fee": 18582
+        },
+        {
+          "year": 3,
+          "fee": 18582
+        },
+        {
+          "year": 4,
+          "fee": 18582
+        }
+      ],
+      "totalTuitionFee": 74328,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-civil-engineering-environmental-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Civil Engineering (Environmental) with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18582,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18582
+        },
+        {
+          "year": 2,
+          "fee": 18582
+        },
+        {
+          "year": 3,
+          "fee": 18582
+        },
+        {
+          "year": 4,
+          "fee": 18582
+        }
+      ],
+      "totalTuitionFee": 74328,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-electronics-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Electronics Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18582,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18582
+        },
+        {
+          "year": 2,
+          "fee": 18582
+        },
+        {
+          "year": 3,
+          "fee": 18582
+        },
+        {
+          "year": 4,
+          "fee": 18582
+        }
+      ],
+      "totalTuitionFee": 74328,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-engineering-honours-industrial-engineering",
+      "universityId": "utar",
+      "name": "Bachelor of Engineering (Honours) Industrial Engineering",
+      "nameAr": "بكالوريوس الهندسة في Honours) Industrial Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18582,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18582
+        },
+        {
+          "year": 2,
+          "fee": 18582
+        },
+        {
+          "year": 3,
+          "fee": 18582
+        },
+        {
+          "year": 4,
+          "fee": 18582
+        }
+      ],
+      "totalTuitionFee": 74328,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-information-systems-honours-information-systems-engineering",
+      "universityId": "utar",
+      "name": "Bachelor of Information Systems (Honours) Information Systems Engineering",
+      "nameAr": "بكالوريوس نظم المعلومات في نظم المعلومات",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-biomedical-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Biomedical Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Biomedical Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-chemical-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Chemical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكيميائية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-civil-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Civil Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-electrical-and-electronic-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Electrical and Electronic Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الكهربائية والإلكترونية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-mechanical-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Mechanical Engineering with Honours",
+      "nameAr": "بكالوريوس في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-mechatronics-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Mechatronics Engineering with Honours",
+      "nameAr": "بكالوريوس في هندسة الميكاترونكس",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-materials-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Materials Engineering with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Materials Engineering with Honours",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-architecture",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Architecture",
+      "nameAr": "بكالوريوس العلوم في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21058,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21058
+        },
+        {
+          "year": 2,
+          "fee": 21058
+        },
+        {
+          "year": 3,
+          "fee": 21058
+        }
+      ],
+      "totalTuitionFee": 63174,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-telecommunications-engineering-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Telecommunications Engineering with Honours",
+      "nameAr": "بكالوريوس في هندسة الاتصالات",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 18510,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18510
+        },
+        {
+          "year": 2,
+          "fee": 18510
+        },
+        {
+          "year": 3,
+          "fee": 18510
+        },
+        {
+          "year": 4,
+          "fee": 18510
+        }
+      ],
+      "totalTuitionFee": 74040,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-engineering-electronic-systems",
+      "universityId": "utar",
+      "name": "Master of Engineering (Electronic Systems)",
+      "nameAr": "ماجستير الهندسة في Electronic Systems",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24440
+        }
+      ],
+      "totalTuitionFee": 24440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-engineering-science",
+      "universityId": "utar",
+      "name": "Master of Engineering Science",
+      "nameAr": "ماجستير علوم الهندسة",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5643
+        },
+        {
+          "year": 2,
+          "fee": 5643
+        }
+      ],
+      "totalTuitionFee": 11286,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-architecture",
+      "universityId": "utar",
+      "name": "Master of Architecture",
+      "nameAr": "ماجستير في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 18330,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18330
+        },
+        {
+          "year": 2,
+          "fee": 18330
+        }
+      ],
+      "totalTuitionFee": 36660,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-civil-engineering",
+      "universityId": "utar",
+      "name": "Master of Civil Engineering",
+      "nameAr": "ماجستير في الهندسة المدنية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 25051,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25051
+        }
+      ],
+      "totalTuitionFee": 25051,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-engineering-electrical",
+      "universityId": "utar",
+      "name": "Master of Engineering (Electrical)",
+      "nameAr": "ماجستير الهندسة في Electrical",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 25662,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25662
+        }
+      ],
+      "totalTuitionFee": 25662,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-engineering-mechanical",
+      "universityId": "utar",
+      "name": "Master of Engineering (Mechanical)",
+      "nameAr": "ماجستير الهندسة في الهندسة الميكانيكية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24440
+        }
+      ],
+      "totalTuitionFee": 24440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-engineering-science-1",
+      "universityId": "utar",
+      "name": "Master of Engineering Science",
+      "nameAr": "ماجستير علوم الهندسة",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 4675
+        },
+        {
+          "year": 2,
+          "fee": 4675
+        }
+      ],
+      "totalTuitionFee": 9350,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-engineering",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Engineering)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Engineering",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5462,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5462
+        },
+        {
+          "year": 2,
+          "fee": 5462
+        },
+        {
+          "year": 3,
+          "fee": 5462
+        }
+      ],
+      "totalTuitionFee": 16386,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-chinese-medicine-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Chinese Medicine (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Chinese Medicine (Honours",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 24225,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24225
+        },
+        {
+          "year": 2,
+          "fee": 24225
+        },
+        {
+          "year": 3,
+          "fee": 24225
+        },
+        {
+          "year": 4,
+          "fee": 24225
+        },
+        {
+          "year": 5,
+          "fee": 24225
+        }
+      ],
+      "totalTuitionFee": 121125,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-medicine-and-bachelor-of-surgery-m-b-b-s",
+      "universityId": "utar",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (M.B.B.S.)",
+      "nameAr": "بكالوريوس الطب البشري والجراحة (MBBS) في M.B.B.S.",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 5,
+      "annualFee": 72940,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 72940
+        },
+        {
+          "year": 2,
+          "fee": 72940
+        },
+        {
+          "year": 3,
+          "fee": 72940
+        },
+        {
+          "year": 4,
+          "fee": 72940
+        },
+        {
+          "year": 5,
+          "fee": 72940
+        }
+      ],
+      "totalTuitionFee": 364700,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-nursing-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Nursing (Honours)",
+      "nameAr": "بكالوريوس في التمريض",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 23120,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Oct, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23120
+        },
+        {
+          "year": 2,
+          "fee": 23120
+        },
+        {
+          "year": 3,
+          "fee": 23120
+        },
+        {
+          "year": 4,
+          "fee": 23120
+        }
+      ],
+      "totalTuitionFee": 92480,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-physiotherapy-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Physiotherapy (Honours)",
+      "nameAr": "بكالوريوس في العلاج الطبيعي",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 21325,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21325
+        },
+        {
+          "year": 2,
+          "fee": 21325
+        },
+        {
+          "year": 3,
+          "fee": 21325
+        },
+        {
+          "year": 4,
+          "fee": 21325
+        }
+      ],
+      "totalTuitionFee": 85300,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-medical-science-in-public-health",
+      "universityId": "utar",
+      "name": "Master of Medical Science in Public Health",
+      "nameAr": "ماجستير في Master of Medical Science in Public Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 23400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 23400
+        }
+      ],
+      "totalTuitionFee": 23400,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-medical-science",
+      "universityId": "utar",
+      "name": "Master of Medical Science",
+      "nameAr": "ماجستير في Master of Medical Science",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5643
+        },
+        {
+          "year": 2,
+          "fee": 5643
+        }
+      ],
+      "totalTuitionFee": 11286,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-science-in-chinese-medicine",
+      "universityId": "utar",
+      "name": "Master of Science in Chinese Medicine",
+      "nameAr": "ماجستير العلوم في Chinese Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5643
+        },
+        {
+          "year": 2,
+          "fee": 5643
+        }
+      ],
+      "totalTuitionFee": 11286,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-chinese-medicine",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Chinese Medicine)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Chinese Medicine",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5462,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5462
+        },
+        {
+          "year": 2,
+          "fee": 5462
+        },
+        {
+          "year": 3,
+          "fee": 5462
+        }
+      ],
+      "totalTuitionFee": 16386,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-biomedical-science",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Biomedical Science",
+      "nameAr": "بكالوريوس العلوم في العلوم الطبية الحيوية",
+      "field": "business",
+      "category": "Natural Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 25902,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25902
+        },
+        {
+          "year": 2,
+          "fee": 25902
+        },
+        {
+          "year": 3,
+          "fee": 25902
+        }
+      ],
+      "totalTuitionFee": 77706,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-social-science-honours-psychology",
+      "universityId": "utar",
+      "name": "Bachelor of Social Science (Honours) Psychology",
+      "nameAr": "بكالوريوس في علم النفس",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20643,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20643
+        },
+        {
+          "year": 2,
+          "fee": 20643
+        },
+        {
+          "year": 3,
+          "fee": 20643
+        }
+      ],
+      "totalTuitionFee": 61929,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-economics-honours-global-economics",
+      "universityId": "utar",
+      "name": "Bachelor of Economics (Honours) Global Economics",
+      "nameAr": "بكالوريوس في الاقتصاد",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-financial-mathematics",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Financial Mathematics",
+      "nameAr": "بكالوريوس العلوم في Honours) Financial Mathematics",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-philosophy-social-science",
+      "universityId": "utar",
+      "name": "Master of Philosophy (Social Science)",
+      "nameAr": "ماجستير في Master of Philosophy (Social Science",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 4893,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 4893
+        },
+        {
+          "year": 2,
+          "fee": 4893
+        }
+      ],
+      "totalTuitionFee": 9786,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-social-science",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Social Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Social Science",
+      "field": "cs",
+      "category": "Social Sciences & Humanities",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5062,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5062
+        },
+        {
+          "year": 2,
+          "fee": 5062
+        },
+        {
+          "year": 3,
+          "fee": 5062
+        }
+      ],
+      "totalTuitionFee": 15186,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-education-in-teaching-english-as-a-second-language-tesl-with-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Education in Teaching English as a Second Language (TESL) with Honours",
+      "nameAr": "بكالوريوس في Bachelor of Education in Teaching English as a Second Language (TESL) with Honours",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20643,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20643
+        },
+        {
+          "year": 2,
+          "fee": 20643
+        },
+        {
+          "year": 3,
+          "fee": 20643
+        }
+      ],
+      "totalTuitionFee": 61929,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-arts-honours-english-language",
+      "universityId": "utar",
+      "name": "Bachelor of Arts (Honours) English Language",
+      "nameAr": "بكالوريوس الآداب في Honours) English Language",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20643,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20643
+        },
+        {
+          "year": 2,
+          "fee": 20643
+        },
+        {
+          "year": 3,
+          "fee": 20643
+        }
+      ],
+      "totalTuitionFee": 61929,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-early-childhood-education-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Early Childhood Education (Honours)",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-postgraduate-diploma-in-educational-technology",
+      "universityId": "utar",
+      "name": "Postgraduate Diploma in Educational Technology",
+      "nameAr": "دبلوم في Postgraduate Diploma in Educational Technology",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "diploma",
+      "duration": 1,
+      "annualFee": 17550,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17550
+        }
+      ],
+      "totalTuitionFee": 17550,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-in-educational-technology",
+      "universityId": "utar",
+      "name": "Master in Educational Technology",
+      "nameAr": "ماجستير في Master in Educational Technology",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 10000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-education",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Education)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5062,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5062
+        },
+        {
+          "year": 2,
+          "fee": 5062
+        },
+        {
+          "year": 3,
+          "fee": 5062
+        }
+      ],
+      "totalTuitionFee": 15186,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-foundation-in-arts",
+      "universityId": "utar",
+      "name": "Foundation in Arts",
+      "nameAr": "برنامج تمهيدي في الآداب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 13500,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13500
+        }
+      ],
+      "totalTuitionFee": 13500,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-arts-honours-chinese-studies",
+      "universityId": "utar",
+      "name": "Bachelor of Arts (Honours) Chinese Studies",
+      "nameAr": "بكالوريوس الآداب في Honours) Chinese Studies",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20643,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20643
+        },
+        {
+          "year": 2,
+          "fee": 20643
+        },
+        {
+          "year": 3,
+          "fee": 20643
+        }
+      ],
+      "totalTuitionFee": 61929,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-arts-honours-digital-animation",
+      "universityId": "utar",
+      "name": "Bachelor of Arts (Honours) Digital Animation",
+      "nameAr": "بكالوريوس الآداب في الرسوم المتحركة (أنيميشن)",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-arts-honours-game-design",
+      "universityId": "utar",
+      "name": "Bachelor of Arts (Honours) Game Design",
+      "nameAr": "بكالوريوس الآداب في تصميم الألعاب",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-arts-honours-graphic-design-and-multimedia",
+      "universityId": "utar",
+      "name": "Bachelor of Arts (Honours) Graphic Design and Multimedia",
+      "nameAr": "بكالوريوس الآداب في التصميم الجرافيكي",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Jan, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-communication-honours-advertising",
+      "universityId": "utar",
+      "name": "Bachelor of Communication (Honours) Advertising",
+      "nameAr": "بكالوريوس في Bachelor of Communication (Honours) Advertising",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20643,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Sep, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20643
+        },
+        {
+          "year": 2,
+          "fee": 20643
+        },
+        {
+          "year": 3,
+          "fee": 20643
+        }
+      ],
+      "totalTuitionFee": 61929,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-communication-honours-journalism",
+      "universityId": "utar",
+      "name": "Bachelor of Communication (Honours) Journalism",
+      "nameAr": "بكالوريوس في الصحافة",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20643,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20643
+        },
+        {
+          "year": 2,
+          "fee": 20643
+        },
+        {
+          "year": 3,
+          "fee": 20643
+        }
+      ],
+      "totalTuitionFee": 61929,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-communication-honours-public-relations",
+      "universityId": "utar",
+      "name": "Bachelor of Communication (Honours) Public Relations",
+      "nameAr": "بكالوريوس في العلاقات العامة",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20643,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20643
+        },
+        {
+          "year": 2,
+          "fee": 20643
+        },
+        {
+          "year": 3,
+          "fee": 20643
+        }
+      ],
+      "totalTuitionFee": 61929,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-information-technology-honours-communications-and-networking",
+      "universityId": "utar",
+      "name": "Bachelor of Information Technology (Honours) Communications and Networking",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في Communications and Networking",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-arts-honours-journalism-in-chinese-media",
+      "universityId": "utar",
+      "name": "Bachelor of Arts (Honours) Journalism in Chinese Media",
+      "nameAr": "بكالوريوس الآداب في الصحافة",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-communication-honours-broadcasting",
+      "universityId": "utar",
+      "name": "Bachelor of Communication (Honours) Broadcasting",
+      "nameAr": "بكالوريوس في الإذاعة والتلفزيون",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-corporate-communication-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Corporate Communication (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Corporate Communication (Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-media-and-creative-studies-honours",
+      "universityId": "utar",
+      "name": "Bachelor of Media and Creative Studies (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Media and Creative Studies (Honours",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-strategic-communication",
+      "universityId": "utar",
+      "name": "Master of Strategic Communication",
+      "nameAr": "ماجستير في Master of Strategic Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24440
+        }
+      ],
+      "totalTuitionFee": 24440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-communication",
+      "universityId": "utar",
+      "name": "Master of Communication",
+      "nameAr": "ماجستير في Master of Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 10000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-arts-communication",
+      "universityId": "utar",
+      "name": "Master of Arts (Communication)",
+      "nameAr": "ماجستير في Master of Arts (Communication",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 4893,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 4893
+        },
+        {
+          "year": 2,
+          "fee": 4893
+        }
+      ],
+      "totalTuitionFee": 9786,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-chinese-studies",
+      "universityId": "utar",
+      "name": "Master of Chinese Studies",
+      "nameAr": "ماجستير في Master of Chinese Studies",
+      "field": "business",
+      "category": "Other",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 10000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-arts-chinese-studies",
+      "universityId": "utar",
+      "name": "Master of Arts (Chinese Studies)",
+      "nameAr": "ماجستير في Master of Arts (Chinese Studies",
+      "field": "business",
+      "category": "Other",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 4620,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 4620
+        },
+        {
+          "year": 2,
+          "fee": 4620
+        }
+      ],
+      "totalTuitionFee": 9240,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-chinese-studies",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Chinese Studies)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Chinese Studies",
+      "field": "business",
+      "category": "Other",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5400,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5400
+        },
+        {
+          "year": 2,
+          "fee": 5400
+        },
+        {
+          "year": 3,
+          "fee": 5400
+        }
+      ],
+      "totalTuitionFee": 16200,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-foundation-in-science",
+      "universityId": "utar",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Science",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 13920,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Jun, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 13920
+        }
+      ],
+      "totalTuitionFee": 13920,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-agricultural-science",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Agricultural Science",
+      "nameAr": "بكالوريوس العلوم في Honours) Agricultural Science",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22150
+        },
+        {
+          "year": 2,
+          "fee": 22150
+        },
+        {
+          "year": 3,
+          "fee": 22150
+        }
+      ],
+      "totalTuitionFee": 66450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-biochemistry",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Biochemistry",
+      "nameAr": "بكالوريوس العلوم في Honours) Biochemistry",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22150
+        },
+        {
+          "year": 2,
+          "fee": 22150
+        },
+        {
+          "year": 3,
+          "fee": 22150
+        }
+      ],
+      "totalTuitionFee": 66450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-biotechnology",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Biotechnology",
+      "nameAr": "بكالوريوس العلوم في التقنية الحيوية",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22150
+        },
+        {
+          "year": 2,
+          "fee": 22150
+        },
+        {
+          "year": 3,
+          "fee": 22150
+        }
+      ],
+      "totalTuitionFee": 66450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-chemistry",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Chemistry",
+      "nameAr": "بكالوريوس العلوم في Honours) Chemistry",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22150
+        },
+        {
+          "year": 2,
+          "fee": 22150
+        },
+        {
+          "year": 3,
+          "fee": 22150
+        }
+      ],
+      "totalTuitionFee": 66450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-dietetics",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Dietetics",
+      "nameAr": "بكالوريوس العلوم في Honours) Dietetics",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 19427,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 19427
+        },
+        {
+          "year": 2,
+          "fee": 19427
+        },
+        {
+          "year": 3,
+          "fee": 19427
+        },
+        {
+          "year": 4,
+          "fee": 19427
+        }
+      ],
+      "totalTuitionFee": 77708,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-occupational-safety-and-health-with-environmental-health",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Occupational Safety and Health with Environmental Health",
+      "nameAr": "بكالوريوس العلوم في Honours) Occupational Safety and Health with Environmental Health",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 25902,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 25902
+        },
+        {
+          "year": 2,
+          "fee": 25902
+        },
+        {
+          "year": 3,
+          "fee": 25902
+        }
+      ],
+      "totalTuitionFee": 77706,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-food-science",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Food Science",
+      "nameAr": "بكالوريوس العلوم في Honours) Food Science",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 22150,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 22150
+        },
+        {
+          "year": 2,
+          "fee": 22150
+        },
+        {
+          "year": 3,
+          "fee": 22150
+        }
+      ],
+      "totalTuitionFee": 66450,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-logistics-and-international-shipping",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Logistics and International Shipping",
+      "nameAr": "بكالوريوس العلوم في Honours) Logistics and International Shipping",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21281,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21281
+        },
+        {
+          "year": 2,
+          "fee": 21281
+        },
+        {
+          "year": 3,
+          "fee": 21281
+        }
+      ],
+      "totalTuitionFee": 63843,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-microbiology",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Microbiology",
+      "nameAr": "بكالوريوس العلوم في Honours) Microbiology",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20217,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Jun, Oct",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20217
+        },
+        {
+          "year": 2,
+          "fee": 20217
+        },
+        {
+          "year": 3,
+          "fee": 20217
+        }
+      ],
+      "totalTuitionFee": 60651,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-statistical-computing-and-decision-analytics",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Statistical Computing and Decision Analytics",
+      "nameAr": "بكالوريوس العلوم في Honours) Statistical Computing and Decision Analytics",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-social-science-honours-guidance-and-counselling",
+      "universityId": "utar",
+      "name": "Bachelor of Social Science (Honours) Guidance and Counselling",
+      "nameAr": "بكالوريوس في Bachelor of Social Science (Honours) Guidance and Counselling",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 14371,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 14371
+        },
+        {
+          "year": 2,
+          "fee": 14371
+        },
+        {
+          "year": 3,
+          "fee": 14371
+        },
+        {
+          "year": 4,
+          "fee": 14371
+        }
+      ],
+      "totalTuitionFee": 57484,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-actuarial-science",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Actuarial Science",
+      "nameAr": "بكالوريوس العلوم في Honours) Actuarial Science",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21061,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21061
+        },
+        {
+          "year": 2,
+          "fee": 21061
+        },
+        {
+          "year": 3,
+          "fee": 21061
+        }
+      ],
+      "totalTuitionFee": 63183,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-game-development",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Game Development",
+      "nameAr": "بكالوريوس العلوم في تطوير الألعاب الإلكترونية",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 20463,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20463
+        },
+        {
+          "year": 2,
+          "fee": 20463
+        },
+        {
+          "year": 3,
+          "fee": 20463
+        }
+      ],
+      "totalTuitionFee": 61389,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-quantity-surveying",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Quantity Surveying",
+      "nameAr": "بكالوريوس العلوم في حساب الكميات وإدارة التشييد",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 16684,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16684
+        },
+        {
+          "year": 2,
+          "fee": 16684
+        },
+        {
+          "year": 3,
+          "fee": 16684
+        },
+        {
+          "year": 4,
+          "fee": 16684
+        }
+      ],
+      "totalTuitionFee": 66736,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-bachelor-of-science-honours-physics",
+      "universityId": "utar",
+      "name": "Bachelor of Science (Honours) Physics",
+      "nameAr": "بكالوريوس العلوم في Honours) Physics",
+      "field": "business",
+      "category": "Science",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 21058,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Oct, Feb, Jun",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 21058
+        },
+        {
+          "year": 2,
+          "fee": 21058
+        },
+        {
+          "year": 3,
+          "fee": 21058
+        }
+      ],
+      "totalTuitionFee": 63174,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-environmental-technology",
+      "universityId": "utar",
+      "name": "Master of Environmental Technology",
+      "nameAr": "ماجستير في Master of Environmental Technology",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 24440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 24440
+        }
+      ],
+      "totalTuitionFee": 24440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-in-industrial-and-organisational-psychology",
+      "universityId": "utar",
+      "name": "Master in Industrial and Organisational Psychology",
+      "nameAr": "ماجستير في علم النفس",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 20000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 20000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-science",
+      "universityId": "utar",
+      "name": "Master of Science",
+      "nameAr": "ماجستير العلوم",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5643
+        },
+        {
+          "year": 2,
+          "fee": 5643
+        }
+      ],
+      "totalTuitionFee": 11286,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-science-mathematics",
+      "universityId": "utar",
+      "name": "Master of Science (Mathematics)",
+      "nameAr": "ماجستير العلوم في Mathematics",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5643
+        },
+        {
+          "year": 2,
+          "fee": 5643
+        }
+      ],
+      "totalTuitionFee": 11286,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-science-in-biological-science",
+      "universityId": "utar",
+      "name": "Master of Science in Biological Science",
+      "nameAr": "ماجستير العلوم في Biological Science",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 5643,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5643
+        },
+        {
+          "year": 2,
+          "fee": 5643
+        }
+      ],
+      "totalTuitionFee": 11286,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-mathematics",
+      "universityId": "utar",
+      "name": "Master of Mathematics",
+      "nameAr": "ماجستير في Master of Mathematics",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 16440,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16440
+        }
+      ],
+      "totalTuitionFee": 16440,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-master-of-philosophy",
+      "universityId": "utar",
+      "name": "Master of Philosophy",
+      "nameAr": "ماجستير في Master of Philosophy",
+      "field": "business",
+      "category": "Science",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 4893,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 4893
+        },
+        {
+          "year": 2,
+          "fee": 4893
+        }
+      ],
+      "totalTuitionFee": 9786,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy",
+      "nameAr": "دكتوراه الفلسفة (PhD)",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 4483,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 4483
+        },
+        {
+          "year": 2,
+          "fee": 4483
+        },
+        {
+          "year": 3,
+          "fee": 4483
+        }
+      ],
+      "totalTuitionFee": 13449,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-economics",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Economics)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في الاقتصاد",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5062,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5062
+        },
+        {
+          "year": 2,
+          "fee": 5062
+        },
+        {
+          "year": 3,
+          "fee": 5062
+        }
+      ],
+      "totalTuitionFee": 15186,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-mathematics",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Mathematics)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Mathematics",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5462,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5462
+        },
+        {
+          "year": 2,
+          "fee": 5462
+        },
+        {
+          "year": 3,
+          "fee": 5462
+        }
+      ],
+      "totalTuitionFee": 16386,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-in-biological-science",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy in Biological Science",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Biological Science",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5462,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5462
+        },
+        {
+          "year": 2,
+          "fee": 5462
+        },
+        {
+          "year": 3,
+          "fee": 5462
+        }
+      ],
+      "totalTuitionFee": 16386,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-creative-arts",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Creative Arts)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Creative Arts",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 4451,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 4451
+        },
+        {
+          "year": 2,
+          "fee": 4451
+        },
+        {
+          "year": 3,
+          "fee": 4451
+        }
+      ],
+      "totalTuitionFee": 13353,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-medical-science",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Medical Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Medical Science",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5462,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5462
+        },
+        {
+          "year": 2,
+          "fee": 5462
+        },
+        {
+          "year": 3,
+          "fee": 5462
+        }
+      ],
+      "totalTuitionFee": 16386,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-science",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy (Science)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Science",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 5462,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5462
+        },
+        {
+          "year": 2,
+          "fee": 5462
+        },
+        {
+          "year": 3,
+          "fee": 5462
+        }
+      ],
+      "totalTuitionFee": 16386,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "utar-doctor-of-philosophy-1",
+      "universityId": "utar",
+      "name": "Doctor of Philosophy",
+      "nameAr": "دكتوراه الفلسفة (PhD)",
+      "field": "business",
+      "category": "Science",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 4483,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Sep, Jan, May",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 5062
+        },
+        {
+          "year": 2,
+          "fee": 5062
+        },
+        {
+          "year": 3,
+          "fee": 5062
+        }
+      ],
+      "totalTuitionFee": 15186,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 131,
+  "totalProgramsCount": 131
+}

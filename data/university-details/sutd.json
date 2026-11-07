@@ -1,0 +1,2749 @@
+{
+  "id": "sutd",
+  "name": "Singapore University of Technology and Design (SUTD)",
+  "arabicName": "جامعة سنغافورة للتكنولوجيا والتصميم (SUTD)",
+  "city": "Changi, Singapore",
+  "cityEn": "Changi, Singapore",
+  "cityAr": "سنغافورة (تشانغي)",
+  "cityKey": "city_singapore",
+  "country": "singapore",
+  "website": "https://www.sutd.edu.sg/",
+  "ranking": "Ranked #1 Emerging Tech & Innovation University (in collaboration with MIT)",
+  "established": "2009",
+  "campusName": "East Coast Campus",
+  "studentCount": "5,000+ (60+ Countries)",
+  "intakes": "Jan, May, Sep",
+  "feeRangeMin": 40000,
+  "feeRangeMax": 50000,
+  "currency": "SGD",
+  "video": "https://www.youtube.com/embed/QhaUB_33-8I",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/QhaUB_33-8I",
+  "directWatchUrl": "https://www.youtube.com/watch?v=QhaUB_33-8I",
+  "photos": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80"
+  ],
+  "campusPhotos": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80"
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80",
+    "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+    "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80"
+  ],
+  "logo": "assets/photo/uni-sutd.svg",
+  "image": "assets/photo/campus_sutd.jpg",
+  "description": "Established in collaboration with MIT, SUTD offers a cutting-edge curriculum integrating technology, design, and architecture to nurture future leaders and innovators.",
+  "descriptionAr": "تأسست جامعة سنغافورة للتكنولوجيا والتصميم بالتعاون مع معهد ماساتشوستس للتكنولوجيا (MIT)، وتقدم منهاجاً يدمج بين الهندسة والتصميم والعمارة المبتكرة.",
+  "about": {
+    "ar": "تعد جامعة سنغافورة للتكنولوجيا والتصميم (SUTD) من أبرز وأعرق المؤسسات الجامعية في سنغافورة والعالم، حيث تتميز بجودة برامجها الأكاديمية واعتماداتها الدولية المرموقة، وتوفر لطلابها تجربة تعليمية استثنائية في بيئة بحثية متطورة مع شراكات تدريبية وثيقة مع كبرى الشركات العالمية.",
+    "en": "Singapore University of Technology and Design (SUTD) is a premier higher education institution in Singapore, globally recognized for academic excellence, pioneering innovation, and strong industry partnerships preparing students for dynamic international careers.",
+    "id": "Singapore University of Technology and Design (SUTD) adalah salah satu institusi pendidikan tinggi terkemuka di Singapura dengan pengakuan internasional atas keunggulan akademik dan penelitian."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "Central Research Library & Collaborative Digital Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced High-Tech Laboratories & Prototyping Innovation Hubs",
+        "ar": "مختبرات تكنولوجية متقدمة ومراكز ابتكار وتصنيع النماذج الأولية"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Financial Markets Trading Room & Simulation Suites",
+        "ar": "قاعة التداول المالي ومحاكاة أسواق المال العالمية"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Sports Complex, Gymnasium & Olympic Pool",
+        "ar": "مجمع رياضي متكامل وصالات لياقة بدنية ومسابح أولمبية"
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Global Career Advisory & Enterprise Incubation Centre",
+        "ar": "مركز الإرشاد الوظيفي العالمي وحاضنة المشاريع الريادية"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Ranked #1 Emerging Tech & Innovation University (in collaboration with MIT) - World-Renowned Excellence",
+        "ar": "Ranked #1 Emerging Tech & Innovation University (in collaboration with MIT) - تصنيف عالمي مرموق واعتماد دولي"
+      },
+      "desc": {
+        "en": "Accredited qualifications recognized by governments, professional bodies, and employers globally.",
+        "ar": "شهادات أكاديمية معتمدة دولياً ومعترف بها من كبرى هيئات الاعتماد والشركات العالمية."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Over 92% Graduate Employment Rate with Top International Firms",
+        "ar": "معدل توظيف يتجاوز 92% للخريجين في كبرى الشركات العالمية"
+      },
+      "desc": {
+        "en": "Graduates enjoy strong market demand, high entry salaries, and internship placements in Singapore's financial and tech hub.",
+        "ar": "يتمتع الخريجون بطلب مرتفع ورواتب تنافسية وفرص تدريب ميداني في مركز التكنولوجيا والمال السنغافوري."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Vibrant Multicultural Student Community from 80+ Countries",
+        "ar": "مجتمع طلابي عالمي متعدد الثقافات يضم أكثر من 80 جنسية"
+      },
+      "desc": {
+        "en": "Rich student life, international exchange opportunities, and comprehensive global student support services.",
+        "ar": "حياة جامعية ثرية، وفرص تبادل طلابي مع أعرق جامعات العالم، ودعم شامل للطلاب المغتربين."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Leading Research Impact & Multi-Million Dollar Industry Grants",
+        "ar": "أبحاث علمية رائدة وشراكات بملايين الدولارات مع القطاع الصناعي"
+      },
+      "desc": {
+        "en": "World-class research centers focusing on artificial intelligence, sustainability, green engineering, and biomedicine.",
+        "ar": "مراكز بحثية متطورة تركز على الذكاء الاصطناعي، والاستدامة، والهندسة الخضراء، والعلوم الطبية الحيوية."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "Singapore University of Technology and Design (SUTD) Student Residences & Halls",
+        "ar": "السكن الطلابي الجامعي التابع لـ جامعة سنغافورة للتكنولوجيا والتصميم (SUTD)"
+      },
+      "distance": {
+        "en": "On-Campus / 5-10 minutes walk to academic faculties and MRT Station",
+        "ar": "داخل الحرم الجامعي (5 إلى 10 دقائق سيراً على الأقدام للكليات ومحطة المترو MRT)"
+      },
+      "priceRange": "SGD $450 - $950 / month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "غرف مكيفة ومؤثثة بالكامل مع مكاتب دراسية وإنترنت فايبر فائق السرعة",
+          "مطابخ مشتركة حديثة وصالات طعام مريحة للطلاب",
+          "قاعات دراسة جماعية ومغاسل ملابس ذاتية وصالات ترفيهية ورياضية",
+          "قرب مباشر من وسائل النقل العام ومحطات قطارات MRT ومجمعات الخدمات"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV Surveillance",
+          "Fully Air-Conditioned Furnished Rooms with Study Desks & High-Speed Fiber WiFi",
+          "Modern Communal Kitchens & Spacious Student Dining Commons",
+          "Group Study Lounges, Self-Service Laundry Facilities & Recreational Gyms",
+          "Immediate Proximity to Public Bus Lines, MRT Subway Stations & Food Courts"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_housing",
+      "item": {
+        "en": "Student Accommodation (Campus Hall / Shared Apartment)",
+        "ar": "السكن الطلابي (سكن جامعي / شقة مشتركة)",
+        "id": "Akomodasi Mahasiswa"
+      },
+      "cost": "SGD $450 - $950 / month"
+    },
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "en": "Food & Daily Campus Dining (Hawker Centres & Food Courts)",
+        "ar": "الطعام والوجبات اليومية (مراكز الطعام الجامعية والمطاعم)",
+        "id": "Makan & Kuliner Harian"
+      },
+      "cost": "SGD $400 - $650 / month"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "en": "Public Transportation (MRT Subway & Bus Transit Card)",
+        "ar": "المواصلات العامة (مترو MRT والحافلات ببطاقة الطالب)",
+        "id": "Transportasi Umum MRT & Bus"
+      },
+      "cost": "SGD $80 - $130 / month"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "en": "Mobile Data, High-Speed Internet & Personal Utilities",
+        "ar": "الاتصالات، شريحة الهاتف المحمول والإنترنت والمصروفات الشخصية",
+        "id": "Internet & Pengeluaran Pribadi"
+      },
+      "cost": "SGD $120 - $200 / month"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelKey": "level_bachelor",
+      "levelName": "Bachelor's Degree",
+      "duration": "3.5 - 4 Years",
+      "avgFee": "SGD 32,000 - SGD 45,000"
+    },
+    {
+      "levelKey": "level_master",
+      "levelName": "Master's Degree",
+      "duration": "1 - 2 Years",
+      "avgFee": "SGD 35,000 - SGD 50,000"
+    }
+  ],
+  "programs": [
+    {
+      "id": "sutd-asd-bsc",
+      "universityId": "sutd",
+      "name": "Bachelor of Science in Architecture and Sustainable Design (Honours)",
+      "nameAr": "بكالوريوس العلوم في العمارة والتصميم المستدام (مرتبة الشرف بالتعاون مع MIT)",
+      "field": "architecture",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41500,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Architecture and Sustainable Design (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في العمارة والتصميم المستدام (مرتبة الشرف بالتعاون مع MIT) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ],
+        "year4": [
+          "Advanced Architectural Design Studio IV",
+          "Professional Practice, Law & Ethics in Architecture",
+          "Structural & Seismic Building Systems",
+          "Adaptive Reuse & Architectural Heritage"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ],
+        "year4": [
+          "استوديو التصميم المعماري المتقدم 4",
+          "الممارسة المهنية وقوانين وأخلاقيات العمارة",
+          "التصميم الإنشائي ومقاومة الأحمال وكود البناء",
+          "إعادة الاستخدام التكيفي والحفاظ على التراث"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41500
+        },
+        {
+          "year": 2,
+          "fee": 41500
+        },
+        {
+          "year": 3,
+          "fee": 41500
+        },
+        {
+          "year": 4,
+          "fee": 41500
+        }
+      ],
+      "totalTuitionFee": 166000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-asd-march",
+      "universityId": "sutd",
+      "name": "Master of Architecture (M.Arch)",
+      "nameAr": "ماجستير العمارة الاحترافي المتقدم والمستدام (M.Arch)",
+      "field": "architecture",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 43000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Architecture (M.Arch) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العمارة الاحترافي المتقدم والمستدام (M.Arch) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43000
+        },
+        {
+          "year": 2,
+          "fee": 43000
+        }
+      ],
+      "totalTuitionFee": 86000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-muspp",
+      "universityId": "sutd",
+      "name": "Master of Science in Urban Science, Policy and Planning",
+      "nameAr": "ماجستير العلوم في التخطيط والسياسات والعلوم الحضرية الذكية",
+      "field": "architecture",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 44000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Urban Science, Policy and Planning provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التخطيط والسياسات والعلوم الحضرية الذكية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44000
+        }
+      ],
+      "totalTuitionFee": 44000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-asd-phd",
+      "universityId": "sutd",
+      "name": "Doctor of Philosophy (PhD) in Architecture & Sustainable Design",
+      "nameAr": "دكتوراه الفلسفة في العمارة ونظم التصميم المستدام المتقدم",
+      "field": "architecture",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 40000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Doctor of Philosophy (PhD) in Architecture & Sustainable Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه الفلسفة في العمارة ونظم التصميم المستدام المتقدم إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ],
+        "year2": [
+          "Architectural Design Studio II",
+          "Environmental Systems & Sustainable Architecture",
+          "Structural Principles & Materials in Architecture",
+          "Digital Fabrication & Parametric Design"
+        ],
+        "year3": [
+          "Architectural Design Studio III",
+          "Urban Design & Spatial Planning",
+          "Building Information Modeling (BIM)",
+          "Building Envelope Science & Acoustic Design"
+        ],
+        "year4": [
+          "Advanced Architectural Design Studio IV",
+          "Professional Practice, Law & Ethics in Architecture",
+          "Structural & Seismic Building Systems",
+          "Adaptive Reuse & Architectural Heritage"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ],
+        "year2": [
+          "استوديو التصميم المعماري 2",
+          "الأنظمة البيئية والعمارة المستدامة الخضراء",
+          "المبادئ الإنشائية وسلوك المواد في العمارة",
+          "التصنيع الرقمي والتصميم البارامتري"
+        ],
+        "year3": [
+          "استوديو التصميم المعماري 3",
+          "التصميم الحضري والتخطيط المكاني للمدن",
+          "نمذجة معلومات البناء المتقدمة (BIM)",
+          "علوم الغلاف المعماري والتصميم الصوتي والحراري"
+        ],
+        "year4": [
+          "استوديو التصميم المعماري المتقدم 4",
+          "الممارسة المهنية وقوانين وأخلاقيات العمارة",
+          "التصميم الإنشائي ومقاومة الأحمال وكود البناء",
+          "إعادة الاستخدام التكيفي والحفاظ على التراث"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        },
+        {
+          "year": 2,
+          "fee": 40000
+        },
+        {
+          "year": 3,
+          "fee": 40000
+        },
+        {
+          "year": 4,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 160000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-csd-beng",
+      "universityId": "sutd",
+      "name": "Bachelor of Engineering in Computer Science and Design (Honours)",
+      "nameAr": "بكالوريوس الهندسة في علوم الحاسب وتصميم البرمجيات (مرتبة الشرف)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering in Computer Science and Design (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في علوم الحاسب وتصميم البرمجيات (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-mssd",
+      "universityId": "sutd",
+      "name": "Master of Science in Security by Design (MSSD)",
+      "nameAr": "ماجستير العلوم في التصميم الآمن وأنظمة الدفاع السيبراني",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 49000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Security by Design (MSSD) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التصميم الآمن وأنظمة الدفاع السيبراني إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49000
+        }
+      ],
+      "totalTuitionFee": 49000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-cyber-msc",
+      "universityId": "sutd",
+      "name": "Master of Science in Technology and Design (Cybersecurity)",
+      "nameAr": "ماجستير العلوم في التكنولوجيا وتصميم الأمن السيبراني",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 48000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Technology and Design (Cybersecurity) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في التكنولوجيا وتصميم الأمن السيبراني إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-csd-phd",
+      "universityId": "sutd",
+      "name": "Doctor of Philosophy (PhD) in Computer Science and Design",
+      "nameAr": "دكتوراه الفلسفة في علوم الحاسب وهندسة النظم الرقمية",
+      "field": "cs",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 40000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Doctor of Philosophy (PhD) in Computer Science and Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه الفلسفة في علوم الحاسب وهندسة النظم الرقمية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        },
+        {
+          "year": 2,
+          "fee": 40000
+        },
+        {
+          "year": 3,
+          "fee": 40000
+        },
+        {
+          "year": 4,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 160000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-epd-beng",
+      "universityId": "sutd",
+      "name": "Bachelor of Engineering in Engineering Product Development (Honours)",
+      "nameAr": "بكالوريوس الهندسة في تطوير وتصميم المنتجات الهندسية (مرتبة الشرف)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering in Engineering Product Development (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في تطوير وتصميم المنتجات الهندسية (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-robot-meng",
+      "universityId": "sutd",
+      "name": "Master of Engineering (Research) in Robotics & Automation",
+      "nameAr": "ماجستير الهندسة البحثي في الروبوتات والأتمتة الذكية",
+      "field": "engineering",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 44000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Engineering (Research) in Robotics & Automation provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير الهندسة البحثي في الروبوتات والأتمتة الذكية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44000
+        },
+        {
+          "year": 2,
+          "fee": 44000
+        }
+      ],
+      "totalTuitionFee": 88000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-epd-elec",
+      "universityId": "sutd",
+      "name": "Bachelor of Engineering in Electrical Product Engineering",
+      "nameAr": "بكالوريوس الهندسة في هندسة المنتجات الكهربائية والإلكترونية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering in Electrical Product Engineering provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في هندسة المنتجات الكهربائية والإلكترونية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-epd-mech",
+      "universityId": "sutd",
+      "name": "Bachelor of Engineering in Mechanical Product Engineering",
+      "nameAr": "بكالوريوس الهندسة في هندسة وتطوير المنتجات الميكانيكية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering in Mechanical Product Engineering provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في هندسة وتطوير المنتجات الميكانيكية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-esd-beng",
+      "universityId": "sutd",
+      "name": "Bachelor of Engineering in Engineering Systems and Design (Honours)",
+      "nameAr": "بكالوريوس الهندسة في تصميم الأنظمة الهندسية والعمليات (مرتبة الشرف)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering in Engineering Systems and Design (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في تصميم الأنظمة الهندسية والعمليات (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-supply-msc",
+      "universityId": "sutd",
+      "name": "Master of Science in Supply Chain and Logistics Systems Engineering",
+      "nameAr": "ماجستير العلوم في هندسة سلاسل الإمداد والنظم اللوجستية",
+      "field": "engineering",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 46000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Supply Chain and Logistics Systems Engineering provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في هندسة سلاسل الإمداد والنظم اللوجستية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-fineng-msc",
+      "universityId": "sutd",
+      "name": "Master of Science in Financial Engineering Systems",
+      "nameAr": "ماجستير العلوم في نظم الهندسة المالية والتحليل الكمي",
+      "field": "engineering",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 49000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Financial Engineering Systems provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في نظم الهندسة المالية والتحليل الكمي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49000
+        }
+      ],
+      "totalTuitionFee": 49000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-dai-bsc",
+      "universityId": "sutd",
+      "name": "Bachelor of Science in Design and Artificial Intelligence (Honours)",
+      "nameAr": "بكالوريوس العلوم في التصميم والذكاء الاصطناعي (مرتبة الشرف)",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 42000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Science in Design and Artificial Intelligence (Honours) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس العلوم في التصميم والذكاء الاصطناعي (مرتبة الشرف) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 42000
+        },
+        {
+          "year": 2,
+          "fee": 42000
+        },
+        {
+          "year": 3,
+          "fee": 42000
+        },
+        {
+          "year": 4,
+          "fee": 42000
+        }
+      ],
+      "totalTuitionFee": 168000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-humai-msc",
+      "universityId": "sutd",
+      "name": "Master of Science in Human-Centered Artificial Intelligence & Design",
+      "nameAr": "ماجستير العلوم في الذكاء الاصطناعي والتصميم المتمركز حول الإنسان",
+      "field": "cs",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 50000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Human-Centered Artificial Intelligence & Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في الذكاء الاصطناعي والتصميم المتمركز حول الإنسان إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 50000
+        }
+      ],
+      "totalTuitionFee": 50000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-dai-phd",
+      "universityId": "sutd",
+      "name": "Doctor of Philosophy (PhD) in Design & Artificial Intelligence",
+      "nameAr": "دكتوراه الفلسفة في التصميم والذكاء الاصطناعي والأنظمة التوليدية",
+      "field": "cs",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 40000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Doctor of Philosophy (PhD) in Design & Artificial Intelligence provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه الفلسفة في التصميم والذكاء الاصطناعي والأنظمة التوليدية إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Senior AI & Software Systems Engineer, Cybersecurity & Threat Analyst, Cloud Infrastructure & Solutions Architect, Data Scientist & Predictive Analytics Specialist",
+      "careerProspectsAr": "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول، محلل أمن سيبراني واستجابة للتهديدات الرقمية، مهندس معمارية سحابية وبنية تحتية رقمية، أخصائي علوم بيانات وتحليلات تنبؤية متقدمة",
+      "careerOpportunities": [
+        "Senior AI & Software Systems Engineer",
+        "Cybersecurity & Threat Analyst",
+        "Cloud Infrastructure & Solutions Architect",
+        "Data Scientist & Predictive Analytics Specialist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس أنظمة ذكاء اصطناعي وبرمجيات أول",
+        "محلل أمن سيبراني واستجابة للتهديدات الرقمية",
+        "مهندس معمارية سحابية وبنية تحتية رقمية",
+        "أخصائي علوم بيانات وتحليلات تنبؤية متقدمة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Intro to Programming & Computer Science",
+          "Discrete Mathematics for Computing",
+          "Web Technologies & UI Foundations",
+          "Computer Systems & Hardware Architecture"
+        ],
+        "year2": [
+          "Data Structures & Algorithmic Analysis",
+          "Object-Oriented Software Design",
+          "Database Systems & SQL Management",
+          "Operating Systems & Network Architecture"
+        ],
+        "year3": [
+          "Artificial Intelligence & Machine Learning",
+          "Cloud Systems & Distributed Computing",
+          "Software Engineering Capstone Studio",
+          "Cybersecurity & Information Assurance"
+        ],
+        "year4": [
+          "Advanced Deep Learning & Big Data Analytics",
+          "Distributed Systems & Cloud Architecture",
+          "Industry Capstone Research Project",
+          "Software Quality & High-Performance Computing"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مقدمة في البرمجة وعلوم الحاسب",
+          "الرياضيات المتقطعة للحوسبة",
+          "أساسيات تطوير تطبيقات الويب والواجهات",
+          "بنية وتنظيم نظم الحاسب والعتاد"
+        ],
+        "year2": [
+          "هياكل البيانات والخوارزميات المتقدمة",
+          "هندسة وتصميم البرمجيات الكائنية",
+          "نظم قواعد البيانات وإدارة SQL",
+          "نظم التشغيل والشبكات الحاسوبية"
+        ],
+        "year3": [
+          "الذكاء الاصطناعي وتعلم الآلة",
+          "الحوسبة السحابية والنظم الموزعة",
+          "مشروع التخرج وهندسة البرمجيات المتقدمة",
+          "الأمن السيبراني وضمان أمن المعلومات"
+        ],
+        "year4": [
+          "التعلم العميق وتحليل البيانات الضخمة",
+          "معمارية الأنظمة السحابية الموزعة",
+          "مشروع البحث التخرجي التطبيقي بالتعاون مع الصناعة",
+          "ضمان جودة البرمجيات والحوسبة عالية الأداء"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        },
+        {
+          "year": 2,
+          "fee": 40000
+        },
+        {
+          "year": 3,
+          "fee": 40000
+        },
+        {
+          "year": 4,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 160000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-mech-rob-beng",
+      "universityId": "sutd",
+      "name": "Bachelor of Engineering in Mechanical Product Design (Robotics Stream)",
+      "nameAr": "بكالوريوس الهندسة في تصميم المنتجات الميكانيكية (مسار الروبوتات والأنظمة الذكية)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering in Mechanical Product Design (Robotics Stream) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في تصميم المنتجات الميكانيكية (مسار الروبوتات والأنظمة الذكية) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-elec-smart-beng",
+      "universityId": "sutd",
+      "name": "Bachelor of Engineering in Electrical Product Design (Smart Systems)",
+      "nameAr": "بكالوريوس الهندسة في تصميم المنتجات الكهربائية (مسار الأنظمة الذكية وإنترنت الأشياء)",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 41000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Bachelor of Engineering in Electrical Product Design (Smart Systems) provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف بكالوريوس الهندسة في تصميم المنتجات الكهربائية (مسار الأنظمة الذكية وإنترنت الأشياء) إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 41000
+        },
+        {
+          "year": 2,
+          "fee": 41000
+        },
+        {
+          "year": 3,
+          "fee": 41000
+        },
+        {
+          "year": 4,
+          "fee": 41000
+        }
+      ],
+      "totalTuitionFee": 164000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-urban-mob-msc",
+      "universityId": "sutd",
+      "name": "Master of Science in Urban Science and Autonomous Mobility",
+      "nameAr": "ماجستير العلوم في العلوم الحضرية والتنقل الذكي ذاتي القيادة",
+      "field": "engineering",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 45000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Urban Science and Autonomous Mobility provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في العلوم الحضرية والتنقل الذكي ذاتي القيادة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-design-inn-msc",
+      "universityId": "sutd",
+      "name": "Master of Science in Design Innovation and Sustainable Technologies",
+      "nameAr": "ماجستير العلوم في ابتكار التصميم والتقنيات المستدامة المتقدمة",
+      "field": "architecture",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 46000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Design Innovation and Sustainable Technologies provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في ابتكار التصميم والتقنيات المستدامة المتقدمة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46000
+        }
+      ],
+      "totalTuitionFee": 46000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-esd-phd",
+      "universityId": "sutd",
+      "name": "Doctor of Philosophy (PhD) in Engineering Systems and Design",
+      "nameAr": "دكتوراه الفلسفة في تصميم الأنظمة والعمليات الهندسية المعقدة",
+      "field": "engineering",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 40000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Doctor of Philosophy (PhD) in Engineering Systems and Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه الفلسفة في تصميم الأنظمة والعمليات الهندسية المعقدة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        },
+        {
+          "year": 2,
+          "fee": 40000
+        },
+        {
+          "year": 3,
+          "fee": 40000
+        },
+        {
+          "year": 4,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 160000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-epd-phd",
+      "universityId": "sutd",
+      "name": "Doctor of Philosophy (PhD) in Engineering Product Development",
+      "nameAr": "دكتوراه الفلسفة في تطوير وابتكار المنتجات الهندسية المتقدمة",
+      "field": "engineering",
+      "level": "phd",
+      "duration": 4,
+      "annualFee": 40000,
+      "currency": "SGD",
+      "ielts": "7.0",
+      "intakes": "May, Sep",
+      "intakesAr": "مايو، سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Doctor of Philosophy (PhD) in Engineering Product Development provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف دكتوراه الفلسفة في تطوير وابتكار المنتجات الهندسية المتقدمة إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 7.0 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 7.0 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Professional Chartered Engineer (PEng), Smart Infrastructure & Robotics Specialist, Renewable Energy & Sustainability Consultant, Engineering Project Director",
+      "careerProspectsAr": "مهندس استشاري معتمد مهنياً (PEng)، أخصائي بنية تحتية ذكية وروبوتات صناعية، مستشار أنظمة طاقة متجددة واستدامة بيئية، مدير مشاريع هندسية وإنشائية كبرى",
+      "careerOpportunities": [
+        "Professional Chartered Engineer (PEng)",
+        "Smart Infrastructure & Robotics Specialist",
+        "Renewable Energy & Sustainability Consultant",
+        "Engineering Project Director"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس استشاري معتمد مهنياً (PEng)",
+        "أخصائي بنية تحتية ذكية وروبوتات صناعية",
+        "مستشار أنظمة طاقة متجددة واستدامة بيئية",
+        "مدير مشاريع هندسية وإنشائية كبرى"
+      ],
+      "curriculum": {
+        "year1": [
+          "Engineering Mechanics & Statics",
+          "Engineering Mathematics & Calculus",
+          "Materials Science & Engineering Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Thermodynamics & Fluid Mechanics",
+          "Circuits & Electrical Power Systems",
+          "Mechanics of Deformable Bodies",
+          "Engineering Design Studio & CAD Modeling"
+        ],
+        "year3": [
+          "Control Systems & Dynamic Modeling",
+          "Heat Transfer & Thermal Energy",
+          "Structural Analysis & Geotechnical Fundamentals",
+          "Professional Engineering Practice & Ethics"
+        ],
+        "year4": [
+          "Comprehensive Engineering Capstone Design",
+          "Advanced Systems & Structural Analysis",
+          "Engineering Project Management & Sustainability",
+          "Industry Practical Placement (800 Hours)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ميكانيكا الهندسة والاستاتيكا",
+          "الرياضيات الهندسية والتفاضل والتكامل",
+          "علوم المواد وأساسيات الهندسة",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "الديناميكا الحرارية وميكانيكا الموائع",
+          "الدوائر والأنظمة الكهربائية ونظم القوى",
+          "ميكانيكا المواد القابلة للتشوه",
+          "استوديو التصميم الهندسي والنمذجة الرقمية CAD"
+        ],
+        "year3": [
+          "أنظمة التحكم والنمذجة الديناميكية",
+          "انتقال الحرارة وأنظمة الطاقة الحرارية",
+          "التحليل الإنشائي وأساسيات الجيوتقنية",
+          "الممارسة المهنية والأخلاقيات الهندسية"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي الشامل المتكامل",
+          "التحليل الإنشائي وتصميم الأنظمة المتقدمة",
+          "إدارة المشاريع الهندسية والاستدامة",
+          "التدريب العملي الميداني الهندسي المعتمد"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 40000
+        },
+        {
+          "year": 2,
+          "fee": 40000
+        },
+        {
+          "year": 3,
+          "fee": 40000
+        },
+        {
+          "year": 4,
+          "fee": 40000
+        }
+      ],
+      "totalTuitionFee": 160000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    },
+    {
+      "id": "sutd-sus-bldg-msc",
+      "universityId": "sutd",
+      "name": "Master of Science in Sustainable Building Technology and Climate Design",
+      "nameAr": "ماجستير العلوم في تكنولوجيا المباني المستدامة والتصميم المناخي",
+      "field": "architecture",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 45000,
+      "currency": "SGD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "intakesAr": "سبتمبر",
+      "overview": "Accredited by Singapore and international governing bodies, the Master of Science in Sustainable Building Technology and Climate Design provides intensive academic training, industry co-op placements, and state-of-the-art laboratory practice.",
+      "overviewAr": "برنامج معتمد أكاديمياً ومهنياً في سنغافورة، يهدف ماجستير العلوم في تكنولوجيا المباني المستدامة والتصميم المناخي إلى تأهيل الكفاءات المتخصصة عبر دراسة نظرية متقدمة وتدريب ميداني عملي في كبرى المؤسسات والشركات العالمية.",
+      "entryRequirements": "High School Diploma / Singapore-Cambridge A-Levels / IB or recognized international equivalent + English proficiency.",
+      "entryRequirementsAr": "شهادة الثانوية العامة أو البكالوريا الدولية (IB) أو ما يعادلها رسمياً مع إثبات الكفاءة باللغة الإنجليزية.",
+      "requirements": [
+        "High School Diploma / A-Levels / IB or recognized international equivalent with strong academic standing",
+        "Demonstrated English proficiency: IELTS 6.5 overall (or equivalent TOEFL / PTE Academic score)",
+        "Certified transcripts and academic portfolio/interview where applicable by department"
+      ],
+      "requirementsAr": [
+        "شهادة الثانوية العامة / البكالوريا الدولية (IB) / A-Levels أو ما يعادلها دولياً بمعدل تنافسي",
+        "إثبات الكفاءة في اللغة الإنجليزية: آيلتس 6.5 كحد أدنى (أو ما يعادله في اختبارات التوفل أو PTE)",
+        "تقديم كشوف الدرجات الرسمية المعتمدة واجتياز المقابلة الشخصية إن طُلب ذلك من القسم المختص"
+      ],
+      "careerProspects": "Registered Architect (BOA Singapore Certified), Sustainable Urban Planner & Master Designer, BIM & Smart Construction Technology Lead, Tropical Green Building Design Consultant",
+      "careerProspectsAr": "مهندس معماري معتمد مهنياً (BOA)، مخطط ومصمم حضري وإقليمي مستدام، مدير نمذجة معلومات البناء وتكنولوجيا التشييد، استشاري تصميم المباني الخضراء المستدامة",
+      "careerOpportunities": [
+        "Registered Architect (BOA Singapore Certified)",
+        "Sustainable Urban Planner & Master Designer",
+        "BIM & Smart Construction Technology Lead",
+        "Tropical Green Building Design Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري معتمد مهنياً (BOA)",
+        "مخطط ومصمم حضري وإقليمي مستدام",
+        "مدير نمذجة معلومات البناء وتكنولوجيا التشييد",
+        "استشاري تصميم المباني الخضراء المستدامة"
+      ],
+      "curriculum": {
+        "year1": [
+          "Architectural Design Studio I",
+          "History & Theory of World Architecture",
+          "Building Materials & Construction Tech",
+          "Spatial Drawing & Digital CAD Modeling"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم المعماري 1",
+          "تاريخ ونظريات العمارة العالمية",
+          "مواد البناء وتكنولوجيا التشييد",
+          "الرسم الفراغي والتمثيل الرقمي المعماري CAD"
+        ]
+      },
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 45000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaStudentPass": 120,
+        "medicalInsurance": 280,
+        "registrationFee": 150,
+        "facilitiesFee": 350,
+        "securityDeposit": 500
+      },
+      "country": "singapore"
+    }
+  ],
+  "programsCount": 25,
+  "totalProgramsCount": 25,
+  "campusNameAr": "حرم إيست كوست الابتكاري",
+  "campusImage": "assets/photo/campus_sutd.jpg",
+  "nameAr": "جامعة سنغافورة للتكنولوجيا والتصميم (SUTD)"
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="280" height="80">
+  <rect width="280" height="80" rx="10" fill="#FFFFFF"/>
+  <g transform="translate(15, 14)">
+    <!-- MSU Badge -->
+    <rect x="0" y="4" width="48" height="44" rx="8" fill="#1A365D"/>
+    <text x="24" y="34" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="20" fill="#C53030" text-anchor="middle">MSU</text>
+    <!-- Text -->
+    <text x="58" y="27" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="21" fill="#1A365D">Management &amp; Science</text>
+    <text x="58" y="45" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="14" fill="#C53030" letter-spacing="1">UNIVERSITY</text>
+  </g>
+</svg>

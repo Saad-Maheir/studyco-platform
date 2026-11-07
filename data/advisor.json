@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "id": "country",
+      "key": "advisor_q_country",
+      "options": [
+        { "value": "australia", "key": "dest_australia" },
+        { "value": "uk", "key": "dest_uk" },
+        { "value": "canada", "key": "dest_canada" },
+        { "value": "newzealand", "key": "dest_newzealand" },
+        { "value": "malaysia", "key": "dest_malaysia" },
+        { "value": "singapore", "key": "dest_singapore" },
+        { "value": "any", "key": "advisor_opt_any" }
+      ]
+    },
+    {
+      "id": "level",
+      "key": "advisor_q_level",
+      "options": [
+        { "value": "bachelor", "key": "level_bachelor" },
+        { "value": "master", "key": "level_master" },
+        { "value": "english", "key": "level_english" },
+        { "value": "online", "key": "level_online" }
+      ]
+    },
+    {
+      "id": "english",
+      "key": "advisor_q_english",
+      "options": [
+        { "value": "beginner", "key": "eng_beginner" },
+        { "value": "intermediate", "key": "eng_intermediate" },
+        { "value": "advanced", "key": "eng_advanced" },
+        { "value": "certified", "key": "eng_certified" }
+      ]
+    },
+    {
+      "id": "budget",
+      "key": "advisor_q_budget",
+      "options": [
+        { "value": "budget_low", "key": "budget_low_label" },
+        { "value": "budget_mid", "key": "budget_mid_label" },
+        { "value": "budget_high", "key": "budget_high_label" }
+      ]
+    }
+  ]
+}

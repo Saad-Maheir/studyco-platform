@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="100%" height="100%">
+<g transform="translate(10, 12)">
+  <!-- Triangular A Emblem -->
+  <polygon points="20,0 0,40 40,40" fill="none" stroke="#111" stroke-width="6"/>
+  <polygon points="20,12 10,32 30,32" fill="#111"/>
+
+  <!-- Text -->
+  <text x="50" y="24" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="23" fill="#111111" letter-spacing="2">DEAKIN</text>
+  <text x="50" y="44" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="16" fill="#111111" letter-spacing="3">UNIVERSITY</text>
+</g>
+</svg>

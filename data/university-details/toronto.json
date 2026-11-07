@@ -1,0 +1,2177 @@
+{
+  "id": "toronto",
+  "name": "University of Toronto",
+  "arabicName": "جامعة تورنتو (University of Toronto)",
+  "city": "Toronto, Ontario",
+  "country": "canada",
+  "logo": "assets/photo/uni-toronto.svg",
+  "image": "assets/photo/campus_toronto.jpg",
+  "website": "https://www.utoronto.ca/",
+  "ranking": "Rank 25 QS World University Rankings 2025 (#1 in Research)",
+  "established": "1827",
+  "campusName": "St. George Historic Campus",
+  "studentCount": "97,000+ (160+ Countries)",
+  "intakes": "Sep, Jan",
+  "feeRangeMin": 28000,
+  "feeRangeMax": 64800,
+  "currency": "CAD",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/RRMdwksQ9bI",
+  "description": "University of Toronto is a leading Canadian higher education institution located in Toronto, Ontario. It provides globally accredited undergraduate and postgraduate degree programmes.",
+  "descriptionAr": "تعد جامعة تورنتو (University of Toronto) صرحاً أكاديمياً وبحثياً رائداً في Toronto, Ontario، وتقدم برامج بكالوريوس وماجستير معتمدة عالمياً تؤهل الخريجين للحصول على تصريح العمل الكندي (PGWP).",
+  "about": {
+    "en": "University of Toronto is one of Canada's most prestigious institutions of higher education, located in Toronto, Ontario. Established in 1827, it holds Rank 25 QS World University Rankings 2025 (#1 in Research) and hosts over 97,000+ (160+ Countries) with cutting-edge academic and research excellence.",
+    "ar": "تعد جامعة تورنتو (University of Toronto) من أرقى مؤسسات التعليم العالي والبحث العلمي في كندا، وتقع في Toronto, Ontario. تأسست الجامعة عام 1827 وتحتل مكانة مرموقة (Rank 25 QS World University Rankings 2025 (#1 in Research))، وتضم أكثر من 97,000+ (160+ Countries) وتوفر برامج بكالوريوس ودراسات عليا معتمدة عالمياً.",
+    "id": "University of Toronto adalah salah satu institusi pendidikan tinggi terkemuka di Kanada yang berlokasi di Toronto, Ontario. Berdiri sejak tahun 1827, universitas ini menduduki peringkat Rank 25 QS World University Rankings 2025 (#1 in Research) dan menampung lebih dari 97,000+ (160+ Countries).",
+    "zh": "University of Toronto 是加拿大享誉全球的顶尖高等学府之一，坐落于 Toronto, Ontario。创办于 1827 年，位列 Rank 25 QS World University Rankings 2025 (#1 in Research)，拥有超过 97,000+ (160+ Countries)。",
+    "ru": "University of Toronto — один из ведущих канадских университетов, расположенный в городе Toronto, Ontario. Основан в 1827 году, занимает Rank 25 QS World University Rankings 2025 (#1 in Research) и объединяет свыше 97,000+ (160+ Countries).",
+    "fr": "University of Toronto est l'un des établissements d'enseignement supérieur les plus réputés du Canada, situé à Toronto, Ontario. Fondée en 1827, elle bénéficie de Rank 25 QS World University Rankings 2025 (#1 in Research).",
+    "es": "University of Toronto es una de las instituciones de educación superior más prestigiosas de Canadá, situada en Toronto, Ontario. Fundada en 1827, cuenta con Rank 25 QS World University Rankings 2025 (#1 in Research).",
+    "ja": "University of Toronto はカナダの Toronto, Ontario に位置する世界最高峰の高等教育機関です。1827 年に設立され、Rank 25 QS World University Rankings 2025 (#1 in Research) にランクインしています。",
+    "ko": "University of Toronto 은(는) 캐나다 Toronto, Ontario 에 위치한 세계적인 명문 대학입니다. 1827 년에 설립되어 Rank 25 QS World University Rankings 2025 (#1 in Research) 에 등재되어 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "library",
+      "title": {
+        "en": "University of Toronto Central Research Library and Digital Learning Commons",
+        "ar": "المكتبة البحثية المركزية وقاعات التعلم الرقمي التفاعلي",
+        "id": "University of Toronto Central Research Library and Digital Learning Commons",
+        "zh": "University of Toronto Central Research Library and Digital Learning Commons",
+        "ru": "University of Toronto Central Research Library and Digital Learning Commons",
+        "fr": "University of Toronto Central Research Library and Digital Learning Commons",
+        "es": "University of Toronto Central Research Library and Digital Learning Commons",
+        "ja": "University of Toronto Central Research Library and Digital Learning Commons",
+        "ko": "University of Toronto Central Research Library and Digital Learning Commons"
+      }
+    },
+    {
+      "icon": "lab",
+      "title": {
+        "en": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ar": "مختبرات العلوم والهندسة المتقدمة ومركز ابتكارات الروبوتات",
+        "id": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "zh": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ru": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "fr": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "es": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ja": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre",
+        "ko": "Advanced STEM Laboratories and Robotics Engineering Innovation Centre"
+      }
+    },
+    {
+      "icon": "business",
+      "title": {
+        "en": "Business Innovation Incubator and Financial Analytics Suite",
+        "ar": "حاضنة ريادة الأعمال وقاعات التحليل المالي والمحاكاة الذكية",
+        "id": "Business Innovation Incubator and Financial Analytics Suite",
+        "zh": "Business Innovation Incubator and Financial Analytics Suite",
+        "ru": "Business Innovation Incubator and Financial Analytics Suite",
+        "fr": "Business Innovation Incubator and Financial Analytics Suite",
+        "es": "Business Innovation Incubator and Financial Analytics Suite",
+        "ja": "Business Innovation Incubator and Financial Analytics Suite",
+        "ko": "Business Innovation Incubator and Financial Analytics Suite"
+      }
+    },
+    {
+      "icon": "sports",
+      "title": {
+        "en": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ar": "المجمع الرياضي الأولمبي المتعدد، صالات اللياقة والمسبح المغطى",
+        "id": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "zh": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ru": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "fr": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "es": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ja": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex",
+        "ko": "Multi-Purpose Olympic Sports Arena, Gymnasium and Aquatic Complex"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "trophy",
+      "title": {
+        "en": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution",
+        "ar": "Rank 25 QS World University Rankings 2025 (#1 in Research) - صرح أكاديمي كندي معتمد ومصنف عالمياً",
+        "id": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution",
+        "zh": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution",
+        "ru": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution",
+        "fr": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution",
+        "es": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution",
+        "ja": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution",
+        "ko": "Rank 25 QS World University Rankings 2025 (#1 in Research) - Globally Recognized Canadian Institution"
+      },
+      "desc": {
+        "en": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ar": "برامج أكاديمية وبحثية معتمدة دولياً تؤهل الخريجين للريادة والتميز في سوق العمل العالمي.",
+        "id": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "zh": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ru": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "fr": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "es": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ja": "Globally accredited degree programmes delivering state-of-the-art education and world-class research.",
+        "ko": "Globally accredited degree programmes delivering state-of-the-art education and world-class research."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "en": "Outstanding Graduate Employability & Global Industry Ties",
+        "ar": "معدلات توظيف استثنائية وشراكات صناعية واسعة",
+        "id": "Outstanding Graduate Employability & Global Industry Ties",
+        "zh": "Outstanding Graduate Employability & Global Industry Ties",
+        "ru": "Outstanding Graduate Employability & Global Industry Ties",
+        "fr": "Outstanding Graduate Employability & Global Industry Ties",
+        "es": "Outstanding Graduate Employability & Global Industry Ties",
+        "ja": "Outstanding Graduate Employability & Global Industry Ties",
+        "ko": "Outstanding Graduate Employability & Global Industry Ties"
+      },
+      "desc": {
+        "en": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ar": "يتمتع خريجو الجامعة بفرص تدريب وظيفي مباشرة ورواتب أولية تنافسية في كبرى الشركات الكندية والعالمية.",
+        "id": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "zh": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ru": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "fr": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "es": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ja": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally.",
+        "ko": "Graduates benefit from direct industry internships and high starting salaries across Canada and internationally."
+      }
+    },
+    {
+      "icon": "globe",
+      "title": {
+        "en": "Dynamic International Campus & Comprehensive Student Support",
+        "ar": "بيئة جامعية دولية ودعم متكامل للطلاب المغتربين",
+        "id": "Dynamic International Campus & Comprehensive Student Support",
+        "zh": "Dynamic International Campus & Comprehensive Student Support",
+        "ru": "Dynamic International Campus & Comprehensive Student Support",
+        "fr": "Dynamic International Campus & Comprehensive Student Support",
+        "es": "Dynamic International Campus & Comprehensive Student Support",
+        "ja": "Dynamic International Campus & Comprehensive Student Support",
+        "ko": "Dynamic International Campus & Comprehensive Student Support"
+      },
+      "desc": {
+        "en": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ar": "تضم الجامعة مجتمعاً طلابياً من أكثر من 100 دولة وتقدم خدمات إرشاد أكاديمي وسكني ومهني متكاملة.",
+        "id": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "zh": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ru": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "fr": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "es": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ja": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services.",
+        "ko": "Welcoming students from over 100 countries with dedicated academic, housing, and career advisory services."
+      }
+    },
+    {
+      "icon": "research",
+      "title": {
+        "en": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ar": "مرافق بحثية متطورة وتقنيات تعليمية من الجيل القادم",
+        "id": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "zh": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ru": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "fr": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "es": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ja": "Cutting-Edge Research Facilities & Next-Gen Learning Tech",
+        "ko": "Cutting-Edge Research Facilities & Next-Gen Learning Tech"
+      },
+      "desc": {
+        "en": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ar": "استثمارات ضخمة في أحدث المختبرات ومراكز المحاكاة الذكية لربط النظريات بالتطبيق العملي.",
+        "id": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "zh": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ru": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "fr": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "es": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ja": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice.",
+        "ko": "Hundreds of millions invested into state-of-the-art labs and simulation spaces bridging theory and practice."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "en": "University of Toronto Student Residences",
+        "ar": "University of Toronto Student Residences",
+        "id": "University of Toronto Student Residences",
+        "zh": "University of Toronto Student Residences",
+        "ru": "University of Toronto Student Residences",
+        "fr": "University of Toronto Student Residences",
+        "es": "University of Toronto Student Residences",
+        "ja": "University of Toronto Student Residences",
+        "ko": "University of Toronto Student Residences"
+      },
+      "distance": {
+        "en": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ar": "داخل الحرم الجامعي (3 إلى 10 دقائق سيراً على الأقدام للقاعات)",
+        "id": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "zh": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ru": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "fr": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "es": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ja": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)",
+        "ko": "On-Campus / Walking distance (3 to 10 mins walk to lecture halls)"
+      },
+      "priceRange": "CAD $750 - $1,400 / Month",
+      "amenities": {
+        "ar": [
+          "أمن وحراسة مشددة 24/7 مع بطاقات وصول إلكترونية وكاميرات مراقبة",
+          "مطابخ مشتركة حديثة وصالات طعام واسعة للطلاب",
+          "غرف مؤثثة ومكيفة بالكامل مع مكاتب دراسية وإنترنت فائق السرعة",
+          "صالات ترفيهية ومكتبات للدراسة الهادئة ومغاسل ملابس ذاتية",
+          "قرب مباشر من وسائل النقل العام ومرافق الجامعة الرئيسية"
+        ],
+        "en": [
+          "24/7 Security Patrols, Electronic Keycard Access & CCTV",
+          "Modern Communal Kitchens & Spacious Dining Commons",
+          "Fully Furnished Air-Conditioned Rooms with Study Desks & Fast WiFi",
+          "Student Social Lounges, Quiet Study Hubs & Laundry Facilities",
+          "Immediate Proximity to Public Transit & Academic Buildings"
+        ],
+        "id": [
+          "Keamanan 24 Jam dengan Akses Kartu Elektronik & CCTV",
+          "Dapur Bersama Modern & Area Makan Mahasiswa yang Luas",
+          "Kamar Berperabot Lengkap Ber-AC dengan Meja Belajar & WiFi Cepat",
+          "Lounge Mahasiswa, Ruang Belajar Tenang & Fasilitas Laundry",
+          "Dekat dengan Transportasi Umum & Gedung Kampus Utama"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "category": {
+        "en": "Accommodation & Student Housing",
+        "ar": "السكن الطلابي (داخل الحرم أو شقة مشتركة)",
+        "id": "Akomodasi & Asrama Mahasiswa",
+        "zh": "学生宿舍与校外公寓",
+        "ru": "Проживание и студенческое общежитие",
+        "fr": "Hébergement et résidence étudiante",
+        "es": "Alojamiento y residencia estudiantil",
+        "ja": "学生寮・シェアハウス",
+        "ko": "학생 기숙사 및 주거비"
+      },
+      "cost": "CAD $750 - $1,400 / Month"
+    },
+    {
+      "category": {
+        "en": "Food & Groceries",
+        "ar": "الطعام والبقالة والمعيشة اليومية",
+        "id": "Makanan & Kebutuhan Sehari-hari",
+        "zh": "餐饮与日常生活开销",
+        "ru": "Питание и продукты",
+        "fr": "Nourriture et épicerie",
+        "es": "Comida y supermercado",
+        "ja": "食費・食料品",
+        "ko": "식비 및 생필품"
+      },
+      "cost": "CAD $350 - $600 / Month"
+    },
+    {
+      "category": {
+        "en": "Public Transportation (U-Pass / Transit)",
+        "ar": "المواصلات العامة وبطاقات الطلاب الجامعية",
+        "id": "Transportasi Umum (U-Pass)",
+        "zh": "公共交通与学生乘车卡",
+        "ru": "Общественный транспорт",
+        "fr": "Transports en commun (U-Pass)",
+        "es": "Transporte público universitario",
+        "ja": "公共交通機関（U-Pass）",
+        "ko": "대중교통 (U-Pass 할인)"
+      },
+      "cost": "CAD $90 - $150 / Month"
+    },
+    {
+      "category": {
+        "en": "Utilities, Mobile Phone & Personal",
+        "ar": "خدمات الإنترنت والاتصالات والمصاريف الشخصية",
+        "id": "Internet, Pulsa & Keperluan Pribadi",
+        "zh": "通讯网络与日常杂费",
+        "ru": "Связь, интернет и личные расходы",
+        "fr": "Services, téléphonie et loisirs",
+        "es": "Servicios, telefonía e imprevistos",
+        "ja": "通信費・光熱費・雑費",
+        "ko": "통신비, 공과금 및 개인 용돈"
+      },
+      "cost": "CAD $150 - $300 / Month"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "What are the general admission requirements for Canadian universities?",
+        "ar": "ما هي شروط القبول العامة في الجامعات الكندية؟",
+        "id": "Apa syarat penerimaan umum di universitas Kanada?",
+        "zh": "加拿大大学的常规录取要求是什么？",
+        "ru": "Каковы общие требования для поступления в канадские университеты?",
+        "fr": "Quelles sont les conditions générales d'admission au Canada?",
+        "es": "¿Cuáles son los requisitos generales de admisión en Canadá?",
+        "ja": "カナダの大学の一般的な入学条件は何ですか？",
+        "ko": "캐나다 대학의 일반적인 입학 조건은 무엇인가요?"
+      },
+      "a": {
+        "en": "Undergraduate applicants need a recognized high school diploma with strong academic marks, alongside proof of English proficiency (typically IELTS 6.5 with no band below 6.0, or TOEFL equivalent). Postgraduate programs require a recognized 4-year bachelor's degree with competitive GPA.",
+        "ar": "يتطلب القبول في مرحلة البكالوريوس شهادة ثانوية عامة معتمدة بمعدل أكاديمي متميز، بالإضافة إلى إثبات إتقان اللغة الإنجليزية (IELTS 6.5 بدرجة لا تقل عن 6.0 في كل مهارة). أما برامج الدراسات العليا فتتطلب درجة بكالوريوس معتمدة ومعدل تراكمي جيد جداً.",
+        "id": "Untuk sarjana (S1) diperlukan ijazah SMA dengan nilai baik dan bukti kemahiran bahasa Inggris (IELTS 6.5 min 6.0 tiap band). Untuk pascasarjana (S2) diperlukan gelar Sarjana terakreditasi dengan IPK kompetitif.",
+        "zh": "本科申请需认可的高中毕业文凭且成绩优良，同时具备英语语言成绩（雅思6.5分，单项不低于6.0）。研究生课程要求具备认可的学士学位及良好的GPA。",
+        "ru": "Для бакалавриата требуется аттестат о среднем образовании с высокими оценками и сертификат IELTS 6.5 (не ниже 6.0 в секциях). Для магистратуры необходим диплом бакалавра с хорошим средним баллом.",
+        "fr": "Pour le premier cycle, un diplôme de fin d'études secondaires avec de bons résultats et l'IELTS 6.5 sont requis. Pour les cycles supérieurs, un baccalauréat reconnu avec un bon dossier académique est exigé.",
+        "es": "Para pregrado se requiere título de secundaria con buen promedio y certificado IELTS 6.5 (mínimo 6.0 por sección). Para posgrado se exige título de licenciatura con buen GPA.",
+        "ja": "学部入学には高校卒業証明書と優秀な成績、IELTS 6.5以上の英語力が必要です。大学院は認定学士号と優れたGPAが求められます。",
+        "ko": "학부 입학은 공인 고등학교 졸업장과 우수한 내신 성적, IELTS 6.5(각 영역 6.0 이상)가 필요합니다. 석사 과정은 인정된 학사 학위와 우수한 학점이 필수입니다."
+      }
+    },
+    {
+      "q": {
+        "en": "Can international students work during their studies in Canada?",
+        "ar": "هل يحق للطلاب الدوليين العمل أثناء الدراسة في كندا؟",
+        "id": "Apakah mahasiswa internasional boleh bekerja saat kuliah di Kanada?",
+        "zh": "国际学生在加拿大留学期间可以打工吗？",
+        "ru": "Могут ли иностранные студенты работать во время учебы в Канаде?",
+        "fr": "Les étudiants internationaux peuvent-ils travailler pendant leurs études au Canada?",
+        "es": "¿Pueden los estudiantes internacionales trabajar durante sus estudios en Canadá?",
+        "ja": "カナダ留学中に留学生はアルバイトができますか？",
+        "ko": "캐나다 유학 중 국제 학생의 아르바이트가 가능한가요?"
+      },
+      "a": {
+        "en": "Yes. International students holding a valid Study Permit enrolled in full-time degree programs at designated learning institutions (DLIs) can work up to 24 hours per week off-campus during academic semesters, and full-time during official scheduled academic breaks.",
+        "ar": "نعم، يحق للطلاب الدوليين الحاملين لتصريح دراسة (Study Permit) ساري المفعول والملتحقين بدراسة نظامية كاملة العمل حتى 24 ساعة أسبوعياً خارج الحرم الجامعي أثناء الفصول الدراسية، والعمل بدوام كامل خلال العطلات الرسمية المجدولة.",
+        "id": "Ya. Mahasiswa internasional pemegang Study Permit dapat bekerja hingga 24 jam per minggu di luar kampus selama semester perkuliahan dan purnawaktu saat liburan semester resmi.",
+        "zh": "可以。持有有效学习许可（Study Permit）并全日制就读于指定学习机构（DLI）的留学生，在学期内每周可校外工作最多24小时，假期可全职工作。",
+        "ru": "Да. Студенты со Study Permit могут работать вне кампуса до 24 часов в неделю во время семестра и полный рабочий день во время официальных каникул.",
+        "fr": "Oui. Les étudiants titulaires d'un permis d'études valide peuvent travailler jusqu'à 24 heures par semaine hors campus pendant les sessions et à temps plein pendant les vacances.",
+        "es": "Sí. Los estudiantes con permiso de estudio vigente pueden trabajar hasta 24 horas por semana fuera del campus durante el semestre y tiempo completo en vacaciones.",
+        "ja": "はい。有効な就学許可証（Study Permit）を持つ留学生は、学期中は週24時間まで、長期休暇中はフルタイムで就労可能です。",
+        "ko": "네. 유효한 스터디 퍼밋을 소지한 학생은 학기 중 주당 최대 24시간까지 오프캠퍼스 근무가 가능하며, 공식 방학 기간에는 풀타임 근무가 가능합니다."
+      }
+    },
+    {
+      "q": {
+        "en": "How does the Post-Graduation Work Permit (PGWP) work in Canada?",
+        "ar": "كيف يعمل تصريح العمل بعد التخرج (PGWP) في كندا؟",
+        "id": "Bagaimana sistem Post-Graduation Work Permit (PGWP) di Kanada?",
+        "zh": "加拿大的毕业后工作许可（PGWP）如何运作？",
+        "ru": "Как работает разрешение на работу после выпуска (PGWP) в Канаде?",
+        "fr": "Comment fonctionne le permis de travail post-diplôme (PTPD/PGWP) au Canada?",
+        "es": "¿Cómo funciona el permiso de trabajo de posgraduación (PGWP) en Canadá?",
+        "ja": "カナダの卒業後就労ビザ（PGWP）はどのような仕組みですか？",
+        "ko": "캐나다 졸업 후 워크 퍼밋(PGWP)은 어떻게 운영되나요?"
+      },
+      "a": {
+        "en": "Graduates of eligible degree programs from designated Canadian public institutions can apply for an open work permit valid for up to 3 years. This allows graduates to gain valuable Canadian professional work experience, which often provides a direct pathway to Canadian permanent residency (PR).",
+        "ar": "يمنح خريجو البرامج الجامعية المؤهلة في كندا تصريح عمل مفتوح (PGWP) تصل مدته إلى 3 سنوات كاملة بعد التخرج. يتيح هذا التصريح اكتساب خبرة عملية مهنية في كندا وهو أحد أهم المسارات المؤهلة للحصول على الإقامة الدائمة (PR).",
+        "id": "Lulusan dari universitas Kanada yang memenuhi syarat berhak mendapatkan izin kerja terbuka (PGWP) hingga 3 tahun untuk memperoleh pengalaman kerja profesional di Kanada.",
+        "zh": "毕业于合格加拿大公立大学学位课程的毕业生，可申请最长达3年的毕业后开放工作签证（PGWP），积累宝贵的加拿大本地工作经验，并有助于申请枫叶卡永久居留（PR）。",
+        "ru": "Выпускники аккредитованных программ канадских вузов могут получить открытое разрешение на работу (PGWP) сроком до 3 лет, открывающее путь к постоянному проживанию (PR).",
+        "fr": "Les diplômés de programmes admissibles peuvent obtenir un permis de travail ouvert jusqu'à 3 ans (PTPD), leur permettant d'acquérir une expérience canadienne menant à la résidence permanente.",
+        "es": "Los graduados de programas elegibles pueden obtener un permiso de trabajo abierto de hasta 3 años (PGWP), lo cual facilita el camino a la residencia permanente en Canadá.",
+        "ja": "カナダの認定大学を卒業後、最大3年間のオープン就労ビザ（PGWP）を申請でき、現地での就労経験を経て永住権（PR）申請に繋げることが可能です。",
+        "ko": "인정된 캐나다 공립 대학 졸업생은 최대 3년 유효한 졸업 후 워크 퍼밋(PGWP)을 발급받아 캐나다 내 전문 경력을 쌓고 영주권(PR) 취득으로 이어질 수 있습니다."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "title": {
+        "en": "Comprehensive Guide to Studying in Canada & Navigating the PGWP",
+        "ar": "الدليل الشامل للدراسة في كندا والحصول على تصريح العمل بعد التخرج (PGWP)",
+        "id": "Panduan Lengkap Kuliah di Kanada & Syarat Izin Kerja Pasca Kelulusan (PGWP)",
+        "zh": "加拿大留学全景指南：申请流程、就读体验与PGWP毕业工签全解析",
+        "ru": "Полный гид по обучению в Канаде: поступление, виза и рабочая виза PGWP",
+        "fr": "Guide complet des études au Canada et du permis de travail post-diplôme (PTPD)",
+        "es": "Guía completa para estudiar en Canadá y obtener el permiso de trabajo PGWP",
+        "ja": "カナダ大学留学完全ガイド：出願手順から卒業後就労ビザ（PGWP）まで",
+        "ko": "캐나다 명문대 유학 가이드: 입학 절차부터 졸업 후 워크 퍼밋(PGWP)까지"
+      },
+      "excerpt": {
+        "en": "Explore world-renowned Canadian higher education, living expenses across provinces, and strategic pathways to career success in North America.",
+        "ar": "استكشف مميزات التعليم الجامعي الكندي وتكاليف المعيشة عبر المقاطعات والمسارات المعتمدة لبناء مسيرة مهنية عالمية في أمريكا الشمالية.",
+        "id": "Pelajari keunggulan sistem pendidikan tinggi Kanada, biaya hidup antar provinsi, dan jalur karir profesional di Amerika Utara.",
+        "zh": "深入了解加拿大世界顶尖的高等教育资源、各省生活成本对比，以及毕业后在北美开拓国际化职业生涯的黄金路径。",
+        "ru": "Узнайте о преимуществах канадского высшего образования, стоимости жизни в различных провинциях и карьерных перспективах.",
+        "fr": "Découvrez les atouts de l'enseignement supérieur canadien, le coût de la vie par province et les opportunités professionnelles.",
+        "es": "Descubre las ventajas de la educación superior en Canadá, el costo de vida por provincia y las oportunidades profesionales.",
+        "ja": "カナダの高等教育の魅力、州ごとの生活費比較、そして北米でキャリアを築くための実践的なステップを解説します。",
+        "ko": "세계적 수준의 캐나다 대학 교육 환경, 주별 생활비 분석, 북미 취업 및 영주권 연계 전략을 상세히 소개합니다."
+      },
+      "date": "2026-09-06",
+      "category": "Guides"
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "levelName": "Post-Degree Diploma / Certificate",
+      "levelAr": "دبلوم الدراسات العليا والشهادات المهنية (Post-Degree)",
+      "levelKey": "level_diploma",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين دراسيتين",
+      "avgFee": "CAD$31,900 - CAD$31,900"
+    },
+    {
+      "levelName": "Bachelor's Degree (Undergraduate)",
+      "levelAr": "درجة البكالوريوس الجامعية الكندية (Undergraduate)",
+      "levelKey": "level_bachelor",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات دراسية متكاملة",
+      "avgFee": "CAD$58,000 - CAD$64,800"
+    },
+    {
+      "levelName": "Master's Degree (Postgraduate)",
+      "levelAr": "درجة الماجستير الكندية (Postgraduate / Master's)",
+      "levelKey": "level_master",
+      "duration": "1 - 2 Years",
+      "durationAr": "سنة إلى سنتين مكثفة",
+      "avgFee": "CAD$42,000 - CAD$47,700"
+    },
+    {
+      "levelName": "Doctoral Degree (PhD)",
+      "levelAr": "درجة الدكتوراه والأبحاث المتقدمة (Doctorate)",
+      "levelKey": "level_phd",
+      "duration": "4 Years",
+      "durationAr": "4 سنوات بحثية متقدمة",
+      "avgFee": "CAD$28,000 - CAD$30,400"
+    }
+  ],
+  "directWatchUrl": null,
+  "programs": [
+    {
+      "id": "toronto-cs-90001",
+      "universityId": "toronto",
+      "name": "Bachelor of Science (Honours) in Computer Science",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في علوم الحاسوب",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 64800,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September, January",
+      "slug": "bachelor-of-science-honours-in-computer-science",
+      "overview": "Ranked #1 in Canada and top 10 globally, the University of Toronto Computer Science program provides rigorous training in algorithmic theory, artificial intelligence, software engineering, and systems with optional paid Professional Experience Year (PEY Co-op).",
+      "overviewAr": "يحتل برنامج علوم الحاسوب في جامعة تورنتو المرتبة الأولى في كندا وضمن أفضل 10 برامج عالمياً، ويقدم تعليماً متقدماً في الذكاء الاصطناعي وهندسة البرمجيات ونظم الحوسبة، مع فرصة التدريب المهني المدفوع (PEY Co-op).",
+      "requirements": "Ontario Grade 12 (or international equivalent high school diploma) with high standing in Calculus and Advanced Functions, plus English proficiency (IELTS 6.5 with no band below 6.0).",
+      "requirementsAr": "شهادة الثانوية العامة بمعدل امتياز مع التفوق في مادة الرياضيات المتقدمة والتفاضل والتكامل، واجتياز اختبار الآيلتس بدرجة 6.5 كحد أدنى (لا تقل أي خانة عن 6.0).",
+      "careerOpportunities": [
+        "Lead Software Engineer",
+        "Machine Learning Researcher",
+        "Cloud Systems Architect",
+        "Algorithmic Trading Analyst"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس برمجيات متقدم",
+        "باحث في تعلم الآلة والذكاء الاصطناعي",
+        "مهندس معماري للحوسبة السحابية",
+        "محلل نظم التداول الخوارزمي"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 64800
+        },
+        {
+          "year": 2,
+          "fee": 64800
+        },
+        {
+          "year": 3,
+          "fee": 64800
+        },
+        {
+          "year": 4,
+          "fee": 64800
+        }
+      ],
+      "totalTuitionFee": 259200,
+      "curriculum": {
+        "year1": [
+          "CSC108: Introduction to Computer Programming (Python)",
+          "CSC165: Mathematical Expression and Reasoning for CS",
+          "MAT137: Calculus with Proofs",
+          "MAT223: Linear Algebra I"
+        ],
+        "year2": [
+          "CSC207: Software Design & Architecture (Java)",
+          "CSC209: Software Tools & Systems Programming (C/Linux)",
+          "CSC236: Introduction to Theory of Computation",
+          "CSC263: Data Structures and Algorithmic Analysis"
+        ],
+        "year3": [
+          "CSC369: Operating Systems Architecture",
+          "CSC373: Algorithm Design and Analysis",
+          "CSC384: Introduction to Artificial Intelligence",
+          "CSC311: Introduction to Machine Learning"
+        ],
+        "year4": [
+          "CSC401: Natural Language Computing",
+          "CSC413: Neural Networks and Deep Learning",
+          "CSC458: Computer Networking & Distributed Systems",
+          "CSC494: Senior Capstone Research Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CSC108: مقدمة في البرمجة وتطوير الخوارزميات (بايثون)",
+          "CSC165: التعبير الرياضي والاستدلال المنطقي لعلوم الحاسوب",
+          "MAT137: التفاضل والتكامل مع البراهين الرياضية",
+          "MAT223: الجبر الخطي وتطبيقاته"
+        ],
+        "year2": [
+          "CSC207: تصميم وهندسة البرمجيات الكائنية (جافا)",
+          "CSC209: أدوات البرمجة ونظم التشغيل (C ولينكس)",
+          "CSC236: مقدمة في نظرية الحوسبة والأوتوماتا",
+          "CSC263: هياكل البيانات وتحليل الخوارزميات"
+        ],
+        "year3": [
+          "CSC369: بنية ومعمارية نظم التشغيل المتقدمة",
+          "CSC373: تصميم الخوارزميات والتحليل الحسابي",
+          "CSC384: مقدمة في الذكاء الاصطناعي والأنظمة الذكية",
+          "CSC311: أساسيات تعلم الآلة والتعلم الإحصائي"
+        ],
+        "year4": [
+          "CSC401: معالجة اللغات الطبيعية والحوسبة اللغوية",
+          "CSC413: الشبكات العصبية الاصطناعية والتعلم العميق",
+          "CSC458: شبكات الحاسوب والنظم الموزعة",
+          "CSC494: مشروع التخرج والبحث العلمي المتقدم"
+        ]
+      }
+    },
+    {
+      "id": "toronto-cs-90002",
+      "universityId": "toronto",
+      "name": "Master of Science in Applied Computing (MScAC - Data Science / AI)",
+      "nameAr": "ماجستير العلوم في الحوسبة التطبيقية (علم البيانات والذكاء الاصطناعي)",
+      "field": "cs",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 46200,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "master-of-science-in-applied-computing-mscac-data-science-ai",
+      "overview": "U of T's premier professional graduate degree combining advanced academic coursework in deep learning, data science, and quantum computing with an intensive 8-month paid industrial research internship.",
+      "overviewAr": "درجة الماجستير المهنية الرائدة في جامعة تورنتو، تجمع بين المساقات الأكاديمية المتقدمة في التعلم العميق وعلم البيانات والحوسبة الكمية مع تدريب بحثي مدفوع الأجر لمدة 8 أشهر في كبرى شركات التكنولوجيا.",
+      "requirements": "Recognized 4-year Bachelor's degree in Computer Science, Mathematics, or Engineering with minimum B+ average (GPA 3.3/4.0 in final two years) and IELTS 7.0 (no band below 6.5).",
+      "requirementsAr": "درجة البكالوريوس لمدة 4 سنوات في علوم الحاسوب أو الهندسة أو الرياضيات بمعدل لا يقل عن جيد جداً (B+)، مع درجة 7.0 في اختبار الآيلتس (لا تقل أي خانة عن 6.5).",
+      "careerOpportunities": [
+        "Chief AI Scientist",
+        "Principal Data Architect",
+        "Quantitative Research Director",
+        "Autonomous Systems Lead"
+      ],
+      "careerOpportunitiesAr": [
+        "كبير علماء الذكاء الاصطناعي",
+        "مهندس بيانات رئيسي",
+        "مدير الأبحاث الكمية",
+        "قائد هندسة الأنظمة الذاتية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 46200
+        },
+        {
+          "year": 2,
+          "fee": 46200
+        }
+      ],
+      "totalTuitionFee": 92400,
+      "curriculum": {
+        "year1": [
+          "CSC2515: Introduction to Machine Learning",
+          "CSC2541: Topics in Machine Learning & Generative Models",
+          "STA2005: Advanced Statistical Data Science",
+          "ECE1779: Cloud Computing Infrastructure"
+        ],
+        "year2": [
+          "MScAC Industry Research Internship (8 Months Full-Time)",
+          "Technical Communication in Industry",
+          "Applied Capstone Final Defense"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CSC2515: تعلم الآلة المتقدم والنمذجة الرياضية",
+          "CSC2541: النماذج التوليدية والتعلم العميق التوليدي",
+          "STA2005: علم البيانات الإحصائي المتقدم",
+          "ECE1779: بنية الحوسبة السحابية والنظم الموزعة"
+        ],
+        "year2": [
+          "تدريب بحثي صناعي إلزامي مدفوع (8 أشهر كاملة في قطاع الصناعة)",
+          "التواصل التقني وإدارة مشاريع البحث والتطوير",
+          "مناقشة أطروحة مشروع التخرج التطبيقي"
+        ]
+      }
+    },
+    {
+      "id": "toronto-cs-90003",
+      "universityId": "toronto",
+      "name": "Bachelor of Science (Honours) in Data Science",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في علم البيانات",
+      "field": "cs",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 63900,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-science-honours-in-data-science",
+      "overview": "Joint specialist program between the Department of Computer Science and Department of Statistical Sciences, preparing graduates to extract actionable intelligence from massive-scale data environments.",
+      "overviewAr": "برنامج تخصصي مشترك بين قسم علوم الحاسوب وقسم الإحصاء، يؤهل الخريجين لاستخراج الرؤى الاستراتيجية من البيانات الضخمة وبناء النماذج التنبؤية المتقدمة.",
+      "requirements": "Secondary school diploma with high grades in Mathematics (Calculus & Vectors) and English (IELTS 6.5).",
+      "requirementsAr": "شهادة الثانوية العامة بتفوق في الرياضيات والفيزياء، وإثبات كفاءة اللغة الإنجليزية بمستوى آيلتس 6.5.",
+      "careerOpportunities": [
+        "Big Data Engineer",
+        "Business Intelligence Architect",
+        "Predictive Analytics Consultant",
+        "Statistical Modeler"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس بيانات ضخمة",
+        "معماري ذكاء الأعمال",
+        "مستشار التحليلات التنبؤية",
+        "أخصائي النمذجة الإحصائية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 63900
+        },
+        {
+          "year": 2,
+          "fee": 63900
+        },
+        {
+          "year": 3,
+          "fee": 63900
+        },
+        {
+          "year": 4,
+          "fee": 63900
+        }
+      ],
+      "totalTuitionFee": 255600,
+      "curriculum": {
+        "year1": [
+          "CSC108: Programming Foundations",
+          "STA130: Introduction to Statistical Reasoning & Data Science",
+          "MAT137: Mathematical Analysis & Calculus",
+          "MAT223: Linear Algebra"
+        ],
+        "year2": [
+          "CSC207: Software Development Methodologies",
+          "STA237: Probability and Statistics for Data Science",
+          "CSC263: Data Structures & Algorithms",
+          "STA238: Statistical Inference Methods"
+        ],
+        "year3": [
+          "STA314: Statistical Learning & Machine Learning",
+          "CSC343: Introduction to Databases & Big Data Systems",
+          "STA365: Applied Bayesian Statistics",
+          "CSC373: Algorithm Analysis"
+        ],
+        "year4": [
+          "STA490: Statistical Consulting & Collaborative Capstone",
+          "CSC413: Deep Learning Networks",
+          "Data Ethics, Governance and Privacy",
+          "Independent Research Project in Big Data"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "CSC108: أسس البرمجة وتراكيب البيانات",
+          "STA130: الاستدلال الإحصائي وتطبيقات علم البيانات",
+          "MAT137: التحليل الرياضي والتفاضل والتكامل المتقدم",
+          "MAT223: الجبر الخطي ونظم المعادلات"
+        ],
+        "year2": [
+          "CSC207: منهجيات هندسة البرمجيات وتطوير النظم",
+          "STA237: نظرية الاحتمالات لعلوم البيانات",
+          "CSC263: هياكل البيانات وتحليل كفاءة الخوارزميات",
+          "STA238: طرق الاستدلال الإحصائي واختبار الفرضيات"
+        ],
+        "year3": [
+          "STA314: التعلم الإحصائي وتعلم الآلة التطبيقي",
+          "CSC343: قواعد البيانات ونظم إدارة البيانات الضخمة",
+          "STA365: الإحصاء البايزي وتطبيقاته التحليلية",
+          "CSC373: تصميم الخوارزميات والتحليل الحسابي"
+        ],
+        "year4": [
+          "STA490: الاستشارات الإحصائية ومشاريع التعاون الصناعي",
+          "CSC413: شبكات التعلم العميق والذكاء الاصطناعي",
+          "أخلاقيات وحوكمة البيانات وخصوصية المعلومات",
+          "مشروع بحثي مستقل في تحليلات البيانات الضخمة"
+        ]
+      }
+    },
+    {
+      "id": "toronto-engineering-90004",
+      "universityId": "toronto",
+      "name": "Bachelor of Applied Science (BASc) in Computer Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في هندسة الحاسوب",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 68400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-basc-in-computer-engineering",
+      "overview": "U of T Engineering's Computer Engineering program integrates hardware design, embedded systems, computer architecture, and distributed operating systems with top-tier co-op placement across Silicon Valley and Canadian tech giants.",
+      "overviewAr": "برنامج هندسة الحاسوب الرائد في كلية الهندسة بجامعة تورنتو، يجمع بين تصميم العتاد والأنظمة المدمجة ومعمارية المعالجات مع تدريب وظيفي مرموق في كبرى شركات التكنولوجيا العالمية.",
+      "requirements": "High school Grade 12 Calculus, Physics, Chemistry, and English with superior academic standing. Minimum IELTS 6.5 (no subscore below 6.0).",
+      "requirementsAr": "شهادة الثانوية مع تفوق دراسي في التفاضل والتكامل والفيزياء والكيمياء، واجتياز اختبار الآيلتس بمعدل 6.5 كحد أدنى.",
+      "careerOpportunities": [
+        "Embedded Systems Architect",
+        "SoC Hardware Engineer",
+        "Firmware Engineering Specialist",
+        "IoT Systems Lead"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري للأنظمة المدمجة",
+        "مهندس عتاد وشرائح السيليكون (SoC)",
+        "مهندس البرمجيات الثابتة (Firmware)",
+        "قائد أنظمة إنترنت الأشياء"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68400
+        },
+        {
+          "year": 2,
+          "fee": 68400
+        },
+        {
+          "year": 3,
+          "fee": 68400
+        },
+        {
+          "year": 4,
+          "fee": 68400
+        }
+      ],
+      "totalTuitionFee": 273600,
+      "curriculum": {
+        "year1": [
+          "APS100: Orientation to Engineering",
+          "APS111: Engineering Strategies & Practice I",
+          "MAT186: Calculus I",
+          "ECE110: Electrical Circuits",
+          "MIE100: Dynamics"
+        ],
+        "year2": [
+          "ECE241: Digital Logic & Hardware Systems",
+          "ECE244: Programming Fundamentals (C++)",
+          "ECE212: Circuit Analysis",
+          "MAT290: Advanced Engineering Mathematics"
+        ],
+        "year3": [
+          "ECE344: Operating Systems & Kernel Design",
+          "ECE342: Computer Hardware Design",
+          "ECE361: Computer Networks",
+          "ECE311: Dynamic Systems and Control"
+        ],
+        "year4": [
+          "ECE496: Capstone Engineering Design Project I & II",
+          "ECE454: Computer Systems Programming",
+          "ECE421: Introduction to Machine Learning",
+          "Advanced Microprocessor Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "APS100: التوجيه والمدخل للهندسة المهنية",
+          "APS111: الممارسة والاستراتيجيات الهندسية",
+          "MAT186: التفاضل والتكامل الهندسي",
+          "ECE110: الدوائر الكهربائية والإلكترونية",
+          "MIE100: الديناميكا الهندسية التطبيقية"
+        ],
+        "year2": [
+          "ECE241: النظم المنطقية الرقمية وتصميم العتاد",
+          "ECE244: أسس البرمجة المتقدمة بلغة C++",
+          "ECE212: تحليل وتصميم الدوائر الكهربائية",
+          "MAT290: الرياضيات الهندسية المتقدمة"
+        ],
+        "year3": [
+          "ECE344: نظم التشغيل وتصميم نواة النظام",
+          "ECE342: تصميم عتاد ومعالجات الحاسوب",
+          "ECE361: شبكات الحاسوب وبروتوكولات الاتصال",
+          "ECE311: الأنظمة الديناميكية وهندسة التحكم"
+        ],
+        "year4": [
+          "ECE496: مشروع التخرج الهندسي المتكامل (Capstone)",
+          "ECE454: برمجة النظم ومعمارية الحواسيب الفائقة",
+          "ECE421: تعلم الآلة وتطبيقاته الهندسية",
+          "معمارية المعالجات الدقيقة ونظم الزمن الحقيقي"
+        ]
+      }
+    },
+    {
+      "id": "toronto-engineering-90005",
+      "universityId": "toronto",
+      "name": "Bachelor of Applied Science (BASc) in Mechanical Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في الهندسة الميكانيكية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 68400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-basc-in-mechanical-engineering",
+      "overview": "Comprehensive professional engineering curriculum in thermodynamics, fluid mechanics, robotics, advanced manufacturing, and biomechanics, accredited by the Canadian Engineering Accreditation Board (CEAB).",
+      "overviewAr": "برنامج هندسي مهني معتمد رسمياً من مجلس الاعتماد الهندسي الكندي، يغطي الديناميكا الحرارية وميكانيكا الموائع والروبوتات والتصنيع المتقدم والميكانيكا الحيوية.",
+      "requirements": "High school completion with top standing in Mathematics, Physics, Chemistry and IELTS 6.5.",
+      "requirementsAr": "الثانوية العامة بتفوق في الرياضيات والفيزياء والكيمياء وشهادة الآيلتس بمعدل 6.5.",
+      "careerOpportunities": [
+        "Aerospace Systems Engineer",
+        "Robotics & Automation Specialist",
+        "Automotive Design Engineer",
+        "HVAC & Energy Systems Consultant"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس نظم الطيران والفضاء",
+        "أخصائي الروبوتات والأتمتة الصناعية",
+        "مهندس تصميم المركبات والسيارات",
+        "مستشار أنظمة الطاقة والتكييف"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68400
+        },
+        {
+          "year": 2,
+          "fee": 68400
+        },
+        {
+          "year": 3,
+          "fee": 68400
+        },
+        {
+          "year": 4,
+          "fee": 68400
+        }
+      ],
+      "totalTuitionFee": 273600,
+      "curriculum": {
+        "year1": [
+          "APS111: Engineering Strategies & Practice",
+          "MAT186: Calculus I & II",
+          "CIV100: Mechanics",
+          "APS105: Computer Fundamentals"
+        ],
+        "year2": [
+          "MIE230: Solids Mechanics I",
+          "MIE210: Thermodynamics I",
+          "MIE243: Mechanical Engineering Design",
+          "MAT234: Differential Equations"
+        ],
+        "year3": [
+          "MIE312: Fluid Mechanics I",
+          "MIE342: Circuits with Applications to Mechanical Systems",
+          "MIE301: Kinematics and Dynamics of Machines",
+          "MIE313: Heat and Mass Transfer"
+        ],
+        "year4": [
+          "MIE491: Capstone Design Project",
+          "MIE444: Mechatronics Principles",
+          "MIE407: Nuclear Engineering / Renewable Energy",
+          "Advanced Finite Element Analysis"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "APS111: الاستراتيجيات والممارسة الهندسية",
+          "MAT186: التفاضل والتكامل للعلوم الهندسية",
+          "CIV100: الميكانيكا الهندسية وعلم السكون",
+          "APS105: أسس الحوسبة والبرمجة الهندسية"
+        ],
+        "year2": [
+          "MIE230: ميكانيكا المواد والمجسمات الصلبة",
+          "MIE210: الديناميكا الحرارية وتطبيقات الطاقة",
+          "MIE243: التصميم الميكانيكي والرسم الهندسي CAD",
+          "MAT234: المعادلات التفاضلية التطبيقية"
+        ],
+        "year3": [
+          "MIE312: ميكانيكا الموائع وديناميكا الغازات",
+          "MIE342: الدوائر الكهربائية للأنظمة الميكانيكية",
+          "MIE301: كينماتيكا وديناميكا الآلات",
+          "MIE313: انتقال الحرارة والكتلة"
+        ],
+        "year4": [
+          "MIE491: مشروع التخرج التصميمي الصناعي (Capstone)",
+          "MIE444: مبادئ هندسة الميكاترونكس والأتمتة",
+          "MIE407: هندسة الطاقة المستدامة والنووية",
+          "تحليل العناصر المحدودة وتصميم الهياكل المتقدمة"
+        ]
+      }
+    },
+    {
+      "id": "toronto-engineering-90006",
+      "universityId": "toronto",
+      "name": "Bachelor of Applied Science (BASc) in Electrical Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في الهندسة الكهربائية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 68400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-basc-in-electrical-engineering",
+      "overview": "Internationally renowned program covering wireless telecommunications, photonics, renewable power systems, semiconductor microelectronics, and signal processing.",
+      "overviewAr": "برنامج عريق ذو شهرة عالمية يغطي الاتصالات اللاسلكية والإلكترونيات الضوئية وأنظمة الطاقة المتجددة وأشباه الموصلات ومعالجة الإشارات الرقمية.",
+      "requirements": "High academic marks in Grade 12 Calculus, Physics, Chemistry, English + IELTS 6.5.",
+      "requirementsAr": "درجات متميزة في التفاضل والتكامل والفيزياء والكيمياء بالثانوية العامة مع آيلتس 6.5.",
+      "careerOpportunities": [
+        "Power Grid Engineer",
+        "RF & Wireless Specialist",
+        "Photonics Systems Developer",
+        "Control Systems Designer"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس شبكات الطاقة والتحول الكهربائي",
+        "أخصائي الترددات اللاسلكية والاتصالات",
+        "مطور أنظمة الضوئيات والاتصالات البصرية",
+        "مصمم أنظمة التحكم الآلي"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68400
+        },
+        {
+          "year": 2,
+          "fee": 68400
+        },
+        {
+          "year": 3,
+          "fee": 68400
+        },
+        {
+          "year": 4,
+          "fee": 68400
+        }
+      ],
+      "totalTuitionFee": 273600,
+      "curriculum": {
+        "year1": [
+          "Engineering Practice & Principles",
+          "Calculus & Linear Algebra",
+          "Electric Circuits Fundamentals",
+          "Computer Programming for Engineers"
+        ],
+        "year2": [
+          "Circuit Analysis & Synthesis",
+          "Digital Electronics & Logic Design",
+          "Electromagnetic Fields & Waves",
+          "Engineering Signals and Systems"
+        ],
+        "year3": [
+          "Power Electronics & Electric Drives",
+          "Communication Systems Principles",
+          "Microprocessor Systems Design",
+          "Semiconductor Device Physics"
+        ],
+        "year4": [
+          "Electrical Engineering Capstone Design Project",
+          "Renewable Energy Grid Integration",
+          "Wireless Telecommunications Systems",
+          "VLSI Chip Design Architecture"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "الممارسة الهندسية والأسس التطبيقية",
+          "التفاضل والتكامل والجبر الخطي المتقدم",
+          "أسس ومبادئ الدوائر الكهربائية",
+          "البرمجة الحاسوبية للمهندسين"
+        ],
+        "year2": [
+          "تحليل وتركيب الدوائر الكهربائية المتقدمة",
+          "الإلكترونيات الرقمية وتصميم المنطق",
+          "المجالات والموجات الكهرومغناطيسية",
+          "الإشارات الهندسية والأنظمة الخطية"
+        ],
+        "year3": [
+          "إلكترونيات القوى والمحركات الكهربائية",
+          "مبادئ ونظم هندسة الاتصالات",
+          "تصميم نظم المعالجات الدقيقة",
+          "فيزياء الأجهزة وأشباه الموصلات"
+        ],
+        "year4": [
+          "مشروع التخرج الهندسي لتصميم النظم الكهربائية",
+          "دمج وتوليد الطاقة المتجددة في الشبكات الذكية",
+          "أنظمة الاتصالات اللاسلكية المتنقلة",
+          "تصميم الدوائر المتكاملة واسعة النطاق VLSI"
+        ]
+      }
+    },
+    {
+      "id": "toronto-engineering-90007",
+      "universityId": "toronto",
+      "name": "Bachelor of Applied Science (BASc) in Civil Engineering",
+      "nameAr": "بكالوريوس العلوم التطبيقية في الهندسة المدنية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 68400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-basc-in-civil-engineering",
+      "overview": "U of T Civil Engineering focuses on sustainable mega-infrastructure, smart transportation networks, earthquake engineering, geotechnical analysis, and environmental water stewardship.",
+      "overviewAr": "يركز قسم الهندسة المدنية في تورنتو على البنية التحتية المستدامة وشبكات النقل الذكية وهندسة الزلازل والتحليل الجيوتقني وإدارة الموارد المائية.",
+      "requirements": "High school completion with high marks in Calculus, Physics, and Chemistry. English: IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة بتفوق في الرياضيات والفيزياء والكيمياء، مع إثبات الآيلتس 6.5.",
+      "careerOpportunities": [
+        "Structural Engineering Consultant",
+        "Transportation Planning Director",
+        "Geotechnical Project Lead",
+        "Infrastructure Project Manager"
+      ],
+      "careerOpportunitiesAr": [
+        "استشاري الهندسة الإنشائية",
+        "مدير تخطيط النقل والمواصلات",
+        "قائد المشاريع الجيوتقنية وميكانيكا التربة",
+        "مدير مشاريع البنية التحتية العملاقة"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68400
+        },
+        {
+          "year": 2,
+          "fee": 68400
+        },
+        {
+          "year": 3,
+          "fee": 68400
+        },
+        {
+          "year": 4,
+          "fee": 68400
+        }
+      ],
+      "totalTuitionFee": 273600,
+      "curriculum": {
+        "year1": [
+          "Engineering Design Foundations",
+          "Mechanics & Materials",
+          "Calculus and Spatial Geometry",
+          "Computer Modeling Tools"
+        ],
+        "year2": [
+          "Structural Analysis I",
+          "Fluid Mechanics & Hydraulics",
+          "Civil Engineering Materials & Concrete",
+          "Geology for Engineers"
+        ],
+        "year3": [
+          "Reinforced Concrete Design",
+          "Structural Steel Design",
+          "Soil Mechanics & Foundations",
+          "Transportation Systems Planning"
+        ],
+        "year4": [
+          "Civil Engineering Comprehensive Capstone Project",
+          "Earthquake Engineering & Seismic Design",
+          "Environmental Impact & Sustainability",
+          "Construction Project Management"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "أسس التصميم الهندسي والرسم الإنشائي",
+          "ميكانيكا المواد والمجسمات الإنشائية",
+          "التفاضل والتكامل والهندسة الفراغية",
+          "أدوات النمذجة الحاسوبية والبيئية"
+        ],
+        "year2": [
+          "التحليل الإنشائي للمباني والجسور I",
+          "ميكانيكا الموائع والهيدروليكا",
+          "مواد الهندسة المدنية وتكنولوجيا الخرسانة",
+          "الجيولوجيا الهندسية واستكشاف التربة"
+        ],
+        "year3": [
+          "تصميم المنشآت والخرسانة المسلحة",
+          "تصميم المنشآت والهياكل الفولاذية",
+          "ميكانيكا التربة وهندسة الأساسات",
+          "تخطيط وهندسة شبكات النقل والمرور"
+        ],
+        "year4": [
+          "مشروع التخرج الشامل في الهندسة المدنية",
+          "هندسة الزلازل والتصميم المقاوم للهزات",
+          "تقييم الأثر البيئي وهندسة الاستدامة",
+          "إدارة عقود ومشاريع التشييد والبناء"
+        ]
+      }
+    },
+    {
+      "id": "toronto-engineering-90008",
+      "universityId": "toronto",
+      "name": "Bachelor of Applied Science (BASc) in Chemical Engineering & Applied Chemistry",
+      "nameAr": "بكالوريوس العلوم التطبيقية في الهندسة الكيميائية والكيمياء التطبيقية",
+      "field": "engineering",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 68400,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-applied-science-basc-in-chemical-engineering-applied-chemistry",
+      "overview": "Pioneering education in bioprocessing, clean energy transition, carbon capture, polymer science, and industrial sustainable process design.",
+      "overviewAr": "تعليم هندسي رائد في المعالجة الحيوية والانتقال نحو الطاقة النظيفة واحتجاز الكربون وتكنولوجيا البوليمرات وتصميم العمليات الصناعية المستدامة.",
+      "requirements": "High school diploma with distinction in Chemistry, Physics, and Mathematics (Calculus). IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية مع تفوق دراسي في الكيمياء والفيزياء والتفاضل والتكامل، وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Process Optimization Engineer",
+        "Biochemical Systems Specialist",
+        "Clean Energy Project Lead",
+        "Pharmaceutical Manufacturing Lead"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس تحسين العمليات الصناعية",
+        "أخصائي الأنظمة الكيميائية الحيوية",
+        "قائد مشاريع الطاقة النظيفة والهيدروجين",
+        "مدير تصنيع الصناعات الدوائية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68400
+        },
+        {
+          "year": 2,
+          "fee": 68400
+        },
+        {
+          "year": 3,
+          "fee": 68400
+        },
+        {
+          "year": 4,
+          "fee": 68400
+        }
+      ],
+      "totalTuitionFee": 273600,
+      "curriculum": {
+        "year1": [
+          "Chemical Engineering Concepts",
+          "General and Analytical Chemistry",
+          "Calculus & Engineering Dynamics",
+          "Engineering Communication"
+        ],
+        "year2": [
+          "Chemical Thermodynamics",
+          "Mass & Energy Balances",
+          "Fluid Flow & Heat Transfer Operations",
+          "Organic Chemistry for Engineers"
+        ],
+        "year3": [
+          "Chemical Reaction Engineering & Catalysis",
+          "Separation Processes (Distillation/Absorption)",
+          "Process Control and Instrumentation",
+          "Biochemical Engineering Principles"
+        ],
+        "year4": [
+          "Plant Design & Economics Capstone",
+          "Carbon Capture and Sustainable Energy",
+          "Advanced Polymer Engineering",
+          "Industrial Process Safety"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "مفاهيم ومبادئ الهندسة الكيميائية",
+          "الكيمياء العامة والتحليلية للمهندسين",
+          "التفاضل والتكامل وديناميكا الموائع",
+          "التواصل والتوثيق الهندسي المهني"
+        ],
+        "year2": [
+          "الديناميكا الحرارية الكيميائية للمحاليل",
+          "موازين المادة والطاقة في العمليات الصناعية",
+          "عمليات تدفق الموائع وانتقال الحرارة",
+          "الكيمياء العضوية وتطبيقاتها الهندسية"
+        ],
+        "year3": [
+          "هندسة المفاعلات الكيميائية والحفز",
+          "عمليات الفصل والتقطير والاستخلاص الصناعي",
+          "التحكم الآلي في العمليات والأجهزة الدقيقة",
+          "مبادئ الهندسة الكيميائية الحيوية"
+        ],
+        "year4": [
+          "مشروع تخرج تصميم المصانع والجدوى الاقتصادية",
+          "تكنولوجيا احتجاز الكربون والطاقة المستدامة",
+          "هندسة البوليمرات والمواد النانوية المتقدمة",
+          "السلامة والأمان في العمليات الصناعية الكيميائية"
+        ]
+      }
+    },
+    {
+      "id": "toronto-engineering-90009",
+      "universityId": "toronto",
+      "name": "Master of Engineering (MEng) in Electrical & Computer Engineering",
+      "nameAr": "ماجستير الهندسة (MEng) في الهندسة الكهربائية والحاسوب",
+      "field": "engineering",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 48900,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September, January",
+      "slug": "master-of-engineering-meng-in-electrical-computer-engineering",
+      "overview": "Course-based professional master's degree designed for aspiring engineering leaders, featuring advanced modules in machine learning hardware, cybersecurity, smart grids, and software systems.",
+      "overviewAr": "درجة ماجستير مهنية متقدمة مبنية على المقررات الدراسية، تركز على أجهزة الذكاء الاصطناعي والأمن السيبراني والشبكات الذكية وهندسة البرمجيات.",
+      "requirements": "Four-year Bachelor's degree in Electrical/Computer Engineering or related field with minimum B standing (GPA 3.0/4.0). IELTS 7.0.",
+      "requirementsAr": "درجة البكالوريوس في الهندسة الكهربائية أو هندسة الحاسوب بمعدل لا يقل عن جيد (B)، مع اختبار آيلتس بدرجة 7.0.",
+      "careerOpportunities": [
+        "Senior ASIC Design Engineer",
+        "Systems Engineering Manager",
+        "Smart Grid Infrastructure Consultant",
+        "Cybersecurity Architect"
+      ],
+      "careerOpportunitiesAr": [
+        "كبير مهندسي تصميم الدوائر المتكاملة ASIC",
+        "مدير هندسة النظم التقنية",
+        "مستشار بنية الشبكات الكهربائية الذكية",
+        "مهندس معماري للأمن السيبراني"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48900
+        },
+        {
+          "year": 2,
+          "fee": 48900
+        }
+      ],
+      "totalTuitionFee": 97800,
+      "curriculum": {
+        "year1": [
+          "ECE1778: Creative Applications for Mobile Devices",
+          "ECE1724: Machine Learning in Hardware Systems",
+          "ECE1505: Convex Optimization",
+          "ECE1517: Photonic Integrated Circuits"
+        ],
+        "year2": [
+          "ECE1524: Service-Oriented Computing Architecture",
+          "APS1012: Managing Engineering Projects",
+          "MEng Applied Industrial Practicum Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ECE1778: التطبيقات المبتكرة للأجهزة المتنقلة",
+          "ECE1724: تسريع خوارزميات تعلم الآلة في العتاد",
+          "ECE1505: التحسين الرياضي المحدب للمهندسين",
+          "ECE1517: الدوائر الضوئية المتكاملة والاتصالات"
+        ],
+        "year2": [
+          "ECE1524: معمارية الحوسبة الموجهة للخدمات السحابية",
+          "APS1012: إدارة وقيادة المشاريع الهندسية الكبرى",
+          "مشروع التدريب والتطبيق الهندسي الصناعي المعتمد"
+        ]
+      }
+    },
+    {
+      "id": "toronto-business-90010",
+      "universityId": "toronto",
+      "name": "Bachelor of Commerce (BCom) - Finance & Economics (Rotman Commerce)",
+      "nameAr": "بكالوريوس التجارة - العلوم المالية والاقتصاد (روتمان كوميرس)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 67500,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-commerce-bcom-finance-economics-rotman-commerce",
+      "overview": "Offered jointly by the Rotman School of Management and the Faculty of Arts & Science, Rotman Commerce is Canada's most prestigious undergraduate business program, placing graduates in Bay Street, Wall Street, and top global advisory firms.",
+      "overviewAr": "يقدم هذا البرنامج بشراكة مرموقة بين كلية روتمان للإدارة وكلية الآداب والعلوم، ويعد أرقى برنامج لإدارة الأعمال الجامعية في كندا مع شبكة توظيف عالمية في كبرى بنوك الاستثمار وصناديق التحوط وشركات الاستشارات.",
+      "requirements": "High school diploma with exceptional standing in Calculus and English. Supplemental application with video interview required. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية بمعدل امتياز في الرياضيات المتقدمة والتفاضل، مع تقديم طلب إضافي ومقابلة شخصية مسجلة، واجتياز الآيلتس بمعدل 6.5.",
+      "careerOpportunities": [
+        "Investment Banking Analyst",
+        "Private Equity Associate",
+        "Hedge Fund Portfolio Strategist",
+        "Management Consultant (MBB)"
+      ],
+      "careerOpportunitiesAr": [
+        "محلل الخدمات المصرفية الاستثمارية",
+        "مسؤول استثمار في الملكية الخاصة",
+        "استراتيجي محافظ صناديق التحوط",
+        "مستشار إداري في كبرى شركات الاستشارات العالمية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 67500
+        },
+        {
+          "year": 2,
+          "fee": 67500
+        },
+        {
+          "year": 3,
+          "fee": 67500
+        },
+        {
+          "year": 4,
+          "fee": 67500
+        }
+      ],
+      "totalTuitionFee": 270000,
+      "curriculum": {
+        "year1": [
+          "RSM100: Introduction to Management Principles",
+          "ECO101: Principles of Microeconomics",
+          "ECO102: Principles of Macroeconomics",
+          "MAT133: Mathematics for Commerce"
+        ],
+        "year2": [
+          "RSM219: Financial Accounting Concepts",
+          "RSM230: Financial Markets and Corporate Finance",
+          "ECO204: Microeconomic Theory and Mathematical Methods",
+          "ECO220: Quantitative Methods in Economics"
+        ],
+        "year3": [
+          "RSM332: Capital Market Theory & Investments",
+          "RSM333: Advanced Corporate Finance & Valuation",
+          "ECO358: Financial Econometrics",
+          "RSM320: Intermediate Management Accounting"
+        ],
+        "year4": [
+          "RSM430: Fixed Income Securities & Derivatives",
+          "RSM434: Portfolio Management Theory",
+          "RSM435: Mergers & Acquisitions Studio",
+          "Rotman Global Capstone Strategic Simulation"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "RSM100: مدخل إلى مبادئ القيادة والإدارة الحديثة",
+          "ECO101: مبادئ الاقتصاد الجزئي ونظرية الأسعار",
+          "ECO102: مبادئ الاقتصاد الكلي والسياسات النقدية",
+          "MAT133: الرياضيات وحساب التفاضل والتكامل للأعمال"
+        ],
+        "year2": [
+          "RSM219: مفاهيم المحاسبة المالية وإعداد التقارير",
+          "RSM230: الأسواق المالية وتمويل الشركات الاستثماري",
+          "ECO204: النظرية الاقتصادية الجزئية المتقدمة",
+          "ECO220: الأساليب الكمية والإحصائية في الاقتصاد"
+        ],
+        "year3": [
+          "RSM332: نظرية أسواق رأس المال وإدارة الاستثمارات",
+          "RSM333: التمويل المتقدم للشركات وتقييم الأعمال",
+          "ECO358: الاقتصاد القياسي المالي والنماذج التحليلية",
+          "RSM320: المحاسبة الإدارية وتحليل التكاليف"
+        ],
+        "year4": [
+          "RSM430: الأوراق المالية ذات الدخل الثابت والمشتقات المالية",
+          "RSM434: استراتيجيات إدارة المحافظ الاستثمارية",
+          "RSM435: عمليات الاندماج والاستحواذ وإعادة الهيكلة",
+          "مشروع المحاكاة الاستراتيجية العالمية في روتمان"
+        ]
+      }
+    },
+    {
+      "id": "toronto-business-90011",
+      "universityId": "toronto",
+      "name": "Full-Time Master of Business Administration (Rotman MBA)",
+      "nameAr": "ماجستير إدارة الأعمال بدوام كامل (روتمان MBA)",
+      "field": "business",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 71200,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "full-time-master-of-business-administration-rotman-mba",
+      "overview": "Consistently ranked the #1 MBA in Canada by the Financial Times, featuring groundbreaking curriculum in Integrative Thinking, Creative Destruction Lab (CDL) entrepreneurship, and flexible second-year majors.",
+      "overviewAr": "يحتل برنامج روتمان MBA المرتبة الأولى في كندا باستمرار وفقاً لصحيفة فاينانشال تايمز، ويتميز بمنهج 'التفكير التكاملي' وحاضنة ريادة الأعمال التكنولوجية (CDL) والتخصصات المرنة.",
+      "requirements": "Undergraduate degree (min GPA 3.0), GMAT/GRE score, minimum 2 years work experience, essays, and admission interview. IELTS 7.0.",
+      "requirementsAr": "شهادة البكالوريوس بمعدل جيد جداً، مع نتيجة اختبار GMAT أو GRE، وسنتين خبرة عملية كحد أدنى، ومقابلة قبول شخصية، وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Vice President of Investment Banking",
+        "Senior Engagement Manager (Consulting)",
+        "Product Management Director",
+        "Venture Capital Partner"
+      ],
+      "careerOpportunitiesAr": [
+        "نائب رئيس الاستثمار المصرفي",
+        "مدير استشارات أول",
+        "مدير إدارة المنتجات الرقمية",
+        "شريك في صناديق رأس المال الجريء"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 71200
+        },
+        {
+          "year": 2,
+          "fee": 71200
+        }
+      ],
+      "totalTuitionFee": 142400,
+      "curriculum": {
+        "year1": [
+          "Integrative Thinking & Creative Problem Solving",
+          "Financial Accounting & Managerial Reporting",
+          "Global Macroeconomics & Corporate Strategy",
+          "Marketing Management & Market Research",
+          "Operations Management & Supply Chain"
+        ],
+        "year2": [
+          "Creative Destruction Lab (CDL) Venture Stream",
+          "Advanced Corporate Valuation & Financial Modeling",
+          "Global Strategic Leadership Capstone",
+          "Paid 4-Month Summer Internship Practicum"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "التفكير التكاملي وحل المشكلات الإدارية المعقدة",
+          "المحاسبة المالية وإعداد التقارير الإدارية الاستراتيجية",
+          "الاقتصاد الكلي العالمي واستراتيجية الشركات",
+          "إدارة التسويق وبحوث سلوك المستهلك الرقمي",
+          "إدارة العمليات وسلاسل الإمداد الدولية"
+        ],
+        "year2": [
+          "مسار ريادة الأعمال والاستثمار التكنولوجي (CDL)",
+          "التقييم المالي المتقدم ونمذجة تدفقات الشركات",
+          "مشروع التخرج في القيادة الاستراتيجية العالمية",
+          "فترة تدريب وظيفي صيفية مدفوعة الأجر (4 أشهر كاملة)"
+        ]
+      }
+    },
+    {
+      "id": "toronto-business-90012",
+      "universityId": "toronto",
+      "name": "Master of Financial Risk Management (MFRM)",
+      "nameAr": "ماجستير إدارة المخاطر المالية (MFRM)",
+      "field": "business",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 58500,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "master-of-financial-risk-management-mfrm",
+      "overview": "Accelerated 10-month master's degree preparing specialists in market risk, credit modeling, operational resilience, and quantitative climate finance.",
+      "overviewAr": "برنامج ماجستير مكثف لمدة 10 أشهر يؤهل المتخصصين في مخاطر السوق والنمذجة الائتمانية والمرونة التشغيلية والتمويل المناخي الكمي.",
+      "requirements": "Quantitative Bachelor's degree (Finance, Math, Stats, Economics, Engineering) with strong mathematical background and IELTS 7.0.",
+      "requirementsAr": "بكالوريوس في تخصص كمي (تمويل، رياضيات، إحصاء، اقتصاد، هندسة) مع خلفية رياضية قوية وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Risk Modeling Specialist",
+        "Chief Risk Officer Analyst",
+        "Quantitative Credit Strategist",
+        "Regulatory Compliance Lead"
+      ],
+      "careerOpportunitiesAr": [
+        "أخصائي نمذجة المخاطر المالية",
+        "محلل مكتب إدارة المخاطر الرئيسي (CRO)",
+        "استراتيجي الائتمان الكمي",
+        "مسؤول الامتثال والحوكمة المالية الدولية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 58500
+        }
+      ],
+      "totalTuitionFee": 58500,
+      "curriculum": {
+        "year1": [
+          "Derivative Instruments & Structured Products",
+          "Credit Risk Modeling & Basel Frameworks",
+          "Quantitative Analysis for Risk Management",
+          "Machine Learning in Financial Institutions",
+          "Risk Management Industry Practicum"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "المشتقات المالية وهيكلة المنتجات الاستثمارية",
+          "نمذجة مخاطر الائتمان ومعايير بازل الدولية",
+          "التحليل الكمي ونمذجة المخاطر في الأسواق",
+          "تطبيقات تعلم الآلة في المؤسسات المالية والبنكية",
+          "مشروع عملي تطبيقي بالتعاون مع كبرى البنوك والمصارف"
+        ]
+      }
+    },
+    {
+      "id": "toronto-architecture-90013",
+      "universityId": "toronto",
+      "name": "Bachelor of Arts in Architectural Studies",
+      "nameAr": "بكالوريوس الآداب في الدراسات المعمارية",
+      "field": "architecture",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 61700,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-arts-in-architectural-studies",
+      "overview": "Housed in the iconic Daniels Building at One Spadina Crescent, this studio-based degree immerses students in architectural design, sustainable urbanism, spatial computing, and digital fabrication.",
+      "overviewAr": "يقع في مبنى دانيالز التاريخي الأيقوني في وان سبادينا، ويقدم دراسة استوديو غامرة في التصميم المعماري والعمران المستدام والحوسبة المكانية والتصنيع الرقمي.",
+      "requirements": "Secondary school graduation with strong creative thinking, academic standing, and Daniels One Idea Supplemental Application. IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة بمعدل تنافسي مرتفع، مع تقديم طلب 'فكرة واحدة' الفني التكميلي، واجتياز الآيلتس بدرجة 6.5.",
+      "careerOpportunities": [
+        "Architectural Designer",
+        "Urban Design Consultant",
+        "BIM & Digital Fabrication Specialist",
+        "Sustainable Building Analyst"
+      ],
+      "careerOpportunitiesAr": [
+        "مصمم معماري في استوديوهات العمارة",
+        "مستشار التخطيط والتصميم الحضري",
+        "أخصائي نمذجة معلومات البناء (BIM) والتصنيع الرقمي",
+        "محلل المباني الخضراء والعمارة المستدامة"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 61700
+        },
+        {
+          "year": 2,
+          "fee": 61700
+        },
+        {
+          "year": 3,
+          "fee": 61700
+        },
+        {
+          "year": 4,
+          "fee": 61700
+        }
+      ],
+      "totalTuitionFee": 246800,
+      "curriculum": {
+        "year1": [
+          "ARC100: Drawing and Global Architectural History",
+          "ARC180: Computation in Design & Architecture",
+          "Visual Culture and Spatial Representation",
+          "Writing in the Architectural Discipline"
+        ],
+        "year2": [
+          "ARC200: Architectural Design Studio I",
+          "ARC201: How Buildings Work: Technology & Ecology",
+          "ARC280: Parametric Modeling and Form",
+          "Modern Architecture and Spatial Theory"
+        ],
+        "year3": [
+          "ARC300: Architectural Design Studio II: Mass Housing & Public Realm",
+          "ARC380: Fabrication Laboratory & Materials",
+          "Urban Systems, Infrastructure and Ecology",
+          "History of Sustainable Urban Planning"
+        ],
+        "year4": [
+          "ARC400: Senior Architectural Design Thesis Studio",
+          "Professional Practice in Architectural Design",
+          "Digital Media and Spatial Installation",
+          "Contemporary Critical Architectural Issues"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "ARC100: الرسم الحر وتاريخ العمارة العالمية",
+          "ARC180: الحوسبة والخوارزميات في التصميم المعماري",
+          "الثقافة البصرية والتمثيل المكاني والمنظور",
+          "الكتابة النقدية في التخصص المعماري"
+        ],
+        "year2": [
+          "ARC200: استوديو التصميم المعماري الأول (Studio I)",
+          "ARC201: تكنولوجيا البناء والبيئة الإنشائية للمباني",
+          "ARC280: النمذجة البارامترية وتوليد الأشكال الرقمية",
+          "تاريخ ونظرية العمارة الحديثة"
+        ],
+        "year3": [
+          "ARC300: استوديو التصميم المعماري الثاني: الإسكان والمجال العام",
+          "ARC380: مختبر التصنيع الرقمي والمواد الذكية",
+          "الأنظمة الحضرية والبنية التحتية والبيئة",
+          "تاريخ التخطيط العمراني المستدام"
+        ],
+        "year4": [
+          "ARC400: استوديو أطروحة مشروع التخرج المعماري النهائي",
+          "الممارسة المهنية وأخلاقيات مهنة العمارة",
+          "الوسائط الرقمية والتجهيزات المكانية التفاعلية",
+          "القضايا النقدية المعاصرة في العمارة العالمية"
+        ]
+      }
+    },
+    {
+      "id": "toronto-architecture-90014",
+      "universityId": "toronto",
+      "name": "Master of Architecture (MArch - Professional Degree)",
+      "nameAr": "ماجستير العمارة (درجة مهنية معتمدة MArch)",
+      "field": "architecture",
+      "level": "master",
+      "duration": 3,
+      "annualFee": 49800,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "master-of-architecture-march-professional-degree",
+      "overview": "Accredited by the Canadian Architectural Certification Board (CACB) and NAAB, preparing graduates for professional licensure with cutting-edge design studios, structural innovation, and urban activism.",
+      "overviewAr": "برنامج مهني معتمد من مجلس الاعتماد المعماري الكندي (CACB)، يؤهل الخريجين للحصول على الترخيص المعماري المهني من خلال استوديوهات تصميم متطورة وابتكار إنشائي.",
+      "requirements": "Bachelor's degree with portfolio of creative design work, statement of intent, and IELTS 7.0.",
+      "requirementsAr": "درجة البكالوريوس مع ملف أعمال تصميمية وإبداعية (Portfolio)، وخطاب النوايا الأكاديمية، وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Licensed Architect",
+        "Principal Urban Designer",
+        "Architectural Project Director",
+        "Computational Design Strategist"
+      ],
+      "careerOpportunitiesAr": [
+        "مهندس معماري مرخص",
+        "مصمم حضري رئيسي",
+        "مدير مشاريع معمارية كبرى",
+        "استراتيجي التصميم الحسابي والرقمي"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 49800
+        },
+        {
+          "year": 2,
+          "fee": 49800
+        },
+        {
+          "year": 3,
+          "fee": 49800
+        }
+      ],
+      "totalTuitionFee": 149400,
+      "curriculum": {
+        "year1": [
+          "Core Design Studio I & II",
+          "Building Ecology, Technology & Structures",
+          "History & Theory of World Architecture",
+          "Digital Media in Spatial Design"
+        ],
+        "year2": [
+          "Comprehensive Integrated Building Studio",
+          "Advanced Environmental Systems & HVAC",
+          "Structures and Materiality Laboratory",
+          "Urban Systems and Landscape Ecologies"
+        ],
+        "year3": [
+          "Independent Design Thesis Project",
+          "Professional Practice and Building Regulations",
+          "Elective Advanced Research Seminars",
+          "Thesis Exhibition and Public Defense"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "استوديو التصميم الأساسي المتقدم I و II",
+          "بيئة وتكنولوجيا وتراكيب المباني الحديثة",
+          "تاريخ ونظريات العمارة العالمية المعاصرة",
+          "الوسائط الرقمية في التصميم الفراغي المعماري"
+        ],
+        "year2": [
+          "استوديو التصميم المتكامل للمباني المعقدة",
+          "الأنظمة البيئية المتقدمة والتكييف المستدام",
+          "مختبر الهياكل والمواد الإنشائية المبتكرة",
+          "الأنظمة الحضرية والبيئات العمرانية الطبيعية"
+        ],
+        "year3": [
+          "مشروع أطروحة التخرج المعمارية المستقلة",
+          "الممارسة المهنية وقوانين وتشريعات البناء",
+          "حلقات دراسية بحثية تخصصية متقدمة",
+          "معرض التخرج والمناقشة العلنية للأطروحة"
+        ]
+      }
+    },
+    {
+      "id": "toronto-health-90015",
+      "universityId": "toronto",
+      "name": "Doctor of Pharmacy (PharmD - Professional Program)",
+      "nameAr": "دكتور صيدلة (درجة مهنية معتمدة PharmD)",
+      "field": "health",
+      "level": "master",
+      "duration": 4,
+      "annualFee": 48200,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "doctor-of-pharmacy-pharmd-professional-program",
+      "overview": "Offered by the prestigious Leslie Dan Faculty of Pharmacy, ranked top 15 in the world, preparing clinical pharmacists with hands-on hospital rotations and pharmaceutical care management.",
+      "overviewAr": "يقدم من كلية ليزلي دان للصيدلة المصنفة ضمن أفضل 15 كلية صيدلة عالمياً، ويؤهل الصيادلة السريريين من خلال التدريب الميداني في كبرى المستشفيات الجامعية.",
+      "requirements": "University-level prerequisites in Biology, Chemistry, Calculus, and Biochemistry with high GPA, Pharmacy College Admission Test / Interview, and IELTS 7.0.",
+      "requirementsAr": "إتمام متطلبات جامعية سابقة في الأحياء والكيمياء والكيمياء الحيوية، واجتياز مقابلة القبول، مع آيلتس 7.0.",
+      "careerOpportunities": [
+        "Clinical Hospital Pharmacist",
+        "Pharmaceutical Care Director",
+        "Medical Science Liaison",
+        "Health Policy Advisor"
+      ],
+      "careerOpportunitiesAr": [
+        "صيدلي إكلينيكي في المستشفيات والمراكز الطبية",
+        "مدير الرعاية الصيدلانية السريرية",
+        "مسؤول الاتصال العلمي الطبي بشركات الأدوية",
+        "مستشار السياسات الدوائية والصحية العامة"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 48200
+        },
+        {
+          "year": 2,
+          "fee": 48200
+        },
+        {
+          "year": 3,
+          "fee": 48200
+        },
+        {
+          "year": 4,
+          "fee": 48200
+        }
+      ],
+      "totalTuitionFee": 192800,
+      "curriculum": {
+        "year1": [
+          "Anatomy, Physiology & Physical Assessment",
+          "Pharmaceutical Chemistry & Principles of Drug Action",
+          "Pharmacokinetics & Biopharmaceutics",
+          "Medication Therapy Management Foundations"
+        ],
+        "year2": [
+          "Pharmacotherapy in Cardiovascular & Renal Disorders",
+          "Pharmacotherapy in Infectious Diseases & Oncology",
+          "Pharmaceutical Formulation & Dosage Forms",
+          "Introductory Pharmacy Practice Experience (IPPE)"
+        ],
+        "year3": [
+          "Advanced Clinical Pharmacotherapy (Neurology & Endocrine)",
+          "Pharmacy Law, Ethics & Healthcare Systems",
+          "Toxicology & Clinical Pharmacology",
+          "Clinical Decision Making Laboratory"
+        ],
+        "year4": [
+          "Advanced Pharmacy Practice Experience (APPE - Hospital Rotations)",
+          "Ambulatory & Community Care Clinical Rotations",
+          "Direct Patient Care Clinical Competency Defense"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "علم التشريح وعلم وظائف الأعضاء والفحص السريري",
+          "الكيمياء الصيدلية ومبادئ ميكانيكية عمل الدواء",
+          "حركية الدواء في الجسم والصيدلانيات الحيوية",
+          "أسس إدارة العلاج الدوائي والرعاية الصيدلانية"
+        ],
+        "year2": [
+          "العلاج الدوائي لأمراض القلب والكلى والأوعية الدموية",
+          "العلاج الدوائي للأمراض المعدية والأورام السرطانية",
+          "صياغة الأدوية والأشكال الصيدلانية المبتكرة",
+          "التدريب الميداني التمهيدي في المستشفيات (IPPE)"
+        ],
+        "year3": [
+          "العلاج الدوائي السريري المتقدم (الأعصاب والغدد الصماء)",
+          "قوانين وأخلاقيات مهنة الصيدلة والأنظمة الصحية",
+          "علم السموم السريري وعلم الأدوية التطبيقي",
+          "مختبر اتخاذ القرارات السريرية وتدقيق الوصفات"
+        ],
+        "year4": [
+          "التدريب السريري المتقدم الميداني في المستشفيات (APPE)",
+          "فترات تدريب سريرية في الرعاية الصحية المجتمعية",
+          "التقييم الشامل للكفاءة الإكلينيكية لرعاية المرضى"
+        ]
+      }
+    },
+    {
+      "id": "toronto-health-90016",
+      "universityId": "toronto",
+      "name": "Bachelor of Science in Nursing (BScN)",
+      "nameAr": "بكالوريوس العلوم في التمريض (BScN)",
+      "field": "health",
+      "level": "bachelor",
+      "duration": 2,
+      "annualFee": 56400,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "bachelor-of-science-in-nursing-bscn",
+      "overview": "Lawrence S. Bloomberg Faculty of Nursing offers an intensive 2-year second-entry degree, ranked #1 in Canada, providing exceptional acute care and community clinical placements across Toronto's Discovery District hospitals.",
+      "overviewAr": "تقدم كلية لورنس بلومبرغ للتمريض برنامجاً مكثفاً مصنفاً بالمرتبة الأولى في كندا، مع تدريب سريري رفيع المستوى في مستشفيات حي الاكتشاف الطبي العالمي في تورنتو.",
+      "requirements": "Minimum of two years of undergraduate university study with required credits in Human Physiology and Life Sciences, plus IELTS 7.0.",
+      "requirementsAr": "إتمام سنتين دراسيتين في التعليم الجامعي بمعدل جيد مع استيفاء متطلبات علم وظائف الأعضاء، وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Critical Care Registered Nurse (ICU)",
+        "Pediatric Nursing Specialist",
+        "Clinical Research Coordinator",
+        "Public Health Nurse"
+      ],
+      "careerOpportunitiesAr": [
+        "ممرض قانوني معتمد في العناية المركزة (ICU)",
+        "أخصائي تمريض الأطفال ورعاية حديثي الولادة",
+        "منسق الأبحاث السريرية في المراكز الطبية",
+        "أخصائي التمريض وصحة المجتمع والوبائيات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 56400
+        },
+        {
+          "year": 2,
+          "fee": 56400
+        }
+      ],
+      "totalTuitionFee": 112800,
+      "curriculum": {
+        "year1": [
+          "Pathophysiology and Pharmacology for Nursing",
+          "Health Assessment and Clinical Practice Foundations",
+          "Nursing Care of Adults with Acute Illness",
+          "Mental Health Nursing Practicum"
+        ],
+        "year2": [
+          "Nursing Care of Children & Families",
+          "Maternal and Newborn Healthcare",
+          "Complex Acute and Chronic Illness Care",
+          "Advanced Clinical Synthesis Practicum (Full-Time Consolidation)"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "علم الأمراض وعلم الأدوية التمريضي السريري",
+          "التقييم الصحي وأسس الممارسة الإكلينيكية للتمريض",
+          "رعاية التمريض للبالغين في الحالات الحادة",
+          "تدريب تمريض الصحة النفسية والعلاج السلوكي"
+        ],
+        "year2": [
+          "رعاية تمريض الأطفال وحديثي الولادة والعائلة",
+          "الرعاية الصحية للأمهات وصحة التوليد",
+          "رعاية الحالات السريرية المعقدة والأمراض المزمنة",
+          "التدريب السريري التكاملي المتقدم (فترة تفرغ كامل في المستشفى)"
+        ]
+      }
+    },
+    {
+      "id": "toronto-law-90017",
+      "universityId": "toronto",
+      "name": "Juris Doctor (JD - Faculty of Law)",
+      "nameAr": "درجة دكتوراه في القانون (Juris Doctor - JD)",
+      "field": "law",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 63200,
+      "currency": "CAD",
+      "ielts": "7.5",
+      "intakes": "September",
+      "slug": "juris-doctor-jd-faculty-of-law",
+      "overview": "U of T Law is Canada's premier law school, consistently sending graduates to leading Supreme Court clerkships, top multinational corporate firms, and international human rights tribunals.",
+      "overviewAr": "تعد كلية الحقوق في تورنتو الكلية القانونية الأولى في كندا، حيث يلتحق خريجوها بكبرى مكاتب المحاماة العالمية والمحكمة العليا الكندية ومنظمات حقوق الإنسان الدولية.",
+      "requirements": "Undergraduate university degree, Law School Admission Test (LSAT) score, personal statement, and IELTS 7.5.",
+      "requirementsAr": "شهادة البكالوريوس الجامعية مع اجتياز اختبار القبول بكليات الحقوق (LSAT) وبيان شخصي، مع آيلتس 7.5.",
+      "careerOpportunities": [
+        "Corporate Securities Lawyer",
+        "Appellate Litigation Counsel",
+        "International Human Rights Barrister",
+        "In-House Legal Director"
+      ],
+      "careerOpportunitiesAr": [
+        "محامٍ متخصص في قضايا الشركات والأوراق المالية",
+        "مستشار الترافع والتقاضي في محاكم الاستئناف",
+        "محامٍ في المحاكم الجنائية وحقوق الإنسان الدولية",
+        "مدير الشؤون القانونية للشركات متعددة الجنسيات"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 63200
+        },
+        {
+          "year": 2,
+          "fee": 63200
+        },
+        {
+          "year": 3,
+          "fee": 63200
+        }
+      ],
+      "totalTuitionFee": 189600,
+      "curriculum": {
+        "year1": [
+          "Constitutional Law of Canada",
+          "Contracts and Commercial Obligations",
+          "Criminal Law & Criminal Procedure",
+          "Torts & Civil Liability",
+          "Legal Research and Writing"
+        ],
+        "year2": [
+          "Administrative Law & Judicial Review",
+          "Corporate Law & Securities Regulation",
+          "Evidence Law & Courtroom Advocacy",
+          "International Law & Treaty Interpretation"
+        ],
+        "year3": [
+          "Advanced Trial Advocacy Clinic",
+          "Intellectual Property & Technology Law",
+          "Cross-Border Mergers & Acquisitions",
+          "Senior Legal Colloquium Thesis"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "القانون الدستوري الكندي وحقوق الحريات",
+          "قانون العقود والالتزامات التجارية الدولية",
+          "القانون الجنائي والإجراءات الجزائية والمحاكمات",
+          "المسؤولية التقصيرية والتعويضات المدنية",
+          "مناهج البحث القانوني وصياغة المذكرات القانونية"
+        ],
+        "year2": [
+          "القانون الإداري والرقابة القضائية على القرارات",
+          "قانون الشركات وتنظيم أسواق المال والأوراق المالية",
+          "قانون الإثبات وأصول المرافعة القانونية بالمحاكم",
+          "القانون الدولي العام والمعاهدات الدولية"
+        ],
+        "year3": [
+          "عيادة المرافعة والتقاضي المتقدمة أمام المحاكم",
+          "قانون الملكية الفكرية وتكنولوجيا المعلومات",
+          "الاندماج والاستحواذ عبر الحدود والقوانين العابرة",
+          "أطروحة الملتقى القانوني والبحث التشريعي المتقدم"
+        ]
+      }
+    },
+    {
+      "id": "toronto-law-90018",
+      "universityId": "toronto",
+      "name": "Master of Laws (LLM - Global Professional Law)",
+      "nameAr": "ماجستير القانون المتقدم (LLM في القانون المهني العالمي)",
+      "field": "law",
+      "level": "master",
+      "duration": 1,
+      "annualFee": 44800,
+      "currency": "CAD",
+      "ielts": "7.5",
+      "intakes": "September",
+      "slug": "master-of-laws-llm-global-professional-law",
+      "overview": "Prestigious one-year master's degree focusing on international trade law, cyber law, artificial intelligence regulation, and comparative constitutionalism.",
+      "overviewAr": "درجة ماجستير مرموقة لمدة عام واحد تركز على قانون التجارة الدولية، والقانون السيبراني، وتنظيم الذكاء الاصطناعي، والقانون الدستوري المقارن.",
+      "requirements": "Law degree (LLB, JD, or equivalent) with high academic distinction and IELTS 7.5.",
+      "requirementsAr": "إجازة في القانون أو شهادة الليسانس في الحقوق بتقدير ممتاز مع اختبار آيلتس بمعدل 7.5.",
+      "careerOpportunities": [
+        "International Arbitrator",
+        "Senior Regulatory Counsel",
+        "Tech Policy Director",
+        "Diplomatic Legal Attaché"
+      ],
+      "careerOpportunitiesAr": [
+        "محكّم تجاري دولي معتمد",
+        "مستشار الشؤون التنظيمية والتشريعية",
+        "مدير سياسات التكنولوجيا والذكاء الاصطناعي",
+        "ملحق قانوني في الهيئات الدبلوماسية الدولية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 44800
+        }
+      ],
+      "totalTuitionFee": 44800,
+      "curriculum": {
+        "year1": [
+          "International Trade & Investment Law",
+          "Regulation of Artificial Intelligence and Data",
+          "Cross-Border Commercial Dispute Resolution",
+          "Comparative Constitutional Law",
+          "LLM Graduate Thesis Project"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "قانون التجارة والاستثمار الدولي ومنظمة التجارة",
+          "الأطر التشريعية لتنظيم الذكاء الاصطناعي والبيانات",
+          "تسوية النزاعات التجارية الدولية والتحكيم",
+          "القانون الدستوري المقارن والنظم السياسية",
+          "أطروحة ماجستير القانون والبحث الفقهي المتقدم"
+        ]
+      }
+    },
+    {
+      "id": "toronto-education-90019",
+      "universityId": "toronto",
+      "name": "Master of Education (MEd) in Curriculum & Pedagogy",
+      "nameAr": "ماجستير العلوم التربوية (MEd) في تطوير المناهج وطرق التدريس",
+      "field": "education",
+      "level": "master",
+      "duration": 2,
+      "annualFee": 43500,
+      "currency": "CAD",
+      "ielts": "7.0",
+      "intakes": "September",
+      "slug": "master-of-education-med-in-curriculum-pedagogy",
+      "overview": "Delivered by OISE, ranked #3 globally for Education, this program prepares transformative educational leaders, curriculum developers, and instructional designers.",
+      "overviewAr": "يقدم من معهد أونتاريو للدراسات التربوية (OISE) المصنف الثالث عالمياً، ويؤهل القادة التربويين ومصممي المناهج واستراتيجيات التعلم الحديثة.",
+      "requirements": "Bachelor's degree with B+ standing, relevant teaching/educational experience, and IELTS 7.0.",
+      "requirementsAr": "شهادة البكالوريوس بتقدير جيد جداً، مع خبرة عملية في التدريس أو المجال التعليمي، وآيلتس 7.0.",
+      "careerOpportunities": [
+        "Curriculum Development Director",
+        "Educational Policy Analyst",
+        "Instructional Technology Designer",
+        "School Academic Principal"
+      ],
+      "careerOpportunitiesAr": [
+        "مدير تطوير وتأليف المناهج التعليمية",
+        "محلل السياسات التربوية والتعليمية",
+        "مصمم تكنولوجيا التعليم والتعلم الرقمي",
+        "مدير أكاديمي للمؤسسات التعليمية والمدارس الدولية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 43500
+        },
+        {
+          "year": 2,
+          "fee": 43500
+        }
+      ],
+      "totalTuitionFee": 87000,
+      "curriculum": {
+        "year1": [
+          "Foundations of Curriculum and Instruction",
+          "Critical Pedagogies in Global Perspectives",
+          "Assessment and Evaluation in Educational Settings",
+          "Digital Technologies and Online Pedagogy"
+        ],
+        "year2": [
+          "Educational Research Methodologies",
+          "Inclusive Education and Differentiated Learning",
+          "Leadership in Educational Transformation",
+          "Comprehensive Capstone Portfolio Defense"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "أسس ومناهج التدريس ونظريات التعلم الحديثة",
+          "التربية النقدية والتنوع الثقافي في التعليم العالمي",
+          "التقييم والقياس التربوي في البيئات المدرسية",
+          "التكنولوجيا الرقمية واستراتيجيات التعلم الإلكتروني"
+        ],
+        "year2": [
+          "مناهج وطرق البحث العلمي في العلوم التربوية",
+          "التعليم الدامج وتفريد التعليم واستراتيجياته",
+          "القيادة وإدارة التحول والتطوير المؤسسي في التعليم",
+          "مناقشة ملف الإنجاز الشامل لمشروع التخرج التربوي"
+        ]
+      }
+    },
+    {
+      "id": "toronto-business-90020",
+      "universityId": "toronto",
+      "name": "Bachelor of Commerce (Rotman Commerce - Management & International Business)",
+      "nameAr": "بكالوريوس التجارة (روتمان كوميرس - الإدارة والأعمال الدولية)",
+      "field": "business",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 68500,
+      "currency": "CAD",
+      "ielts": "6.5",
+      "intakes": "September",
+      "slug": "bachelor-of-commerce-rotman-commerce-management-international-business",
+      "overview": "Rotman Commerce is Canada's flagship undergraduate business degree, providing rigorous education in managerial strategy, international economics, and corporate governance in downtown Toronto.",
+      "overviewAr": "يعد برنامج روتمان كوميرس البرنامج الرائد لدراسات الأعمال في كندا، ويقدم تعليماً متقدماً في استراتيجية الإدارة والاقتصاد الدولي وحوكمة الشركات في قلب مدينة تورنتو.",
+      "requirements": "Ontario Grade 12 Calculus & Advanced Functions with exceptional academic average, plus supplementary application and IELTS 6.5.",
+      "requirementsAr": "شهادة الثانوية العامة مع التفوق في الرياضيات والتفاضل والتكامل، مع تقديم ملف التقديم الإضافي وآيلتس 6.5.",
+      "careerOpportunities": [
+        "Global Management Consultant",
+        "Corporate Strategy Director",
+        "Multinational Business Developer",
+        "Brand Equity Strategist"
+      ],
+      "careerOpportunitiesAr": [
+        "مستشار إدارة استراتيجية دولية",
+        "مدير قطاع الاستراتيجية المؤسسية",
+        "مطور أعمال الشركات متعددة الجنسيات",
+        "استراتيجي العلامات التجارية العالمية"
+      ],
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 68500
+        },
+        {
+          "year": 2,
+          "fee": 68500
+        },
+        {
+          "year": 3,
+          "fee": 68500
+        },
+        {
+          "year": 4,
+          "fee": 68500
+        }
+      ],
+      "totalTuitionFee": 274000,
+      "curriculum": {
+        "year1": [
+          "RSM100: Introduction to Management",
+          "ECO101: Principles of Microeconomics",
+          "ECO102: Principles of Macroeconomics",
+          "MAT133: Calculus and Linear Algebra for Commerce"
+        ],
+        "year2": [
+          "RSM219: Financial Accounting",
+          "RSM222: Management Accounting",
+          "RSM230: Financial Markets",
+          "RSM250: Principles of Marketing"
+        ],
+        "year3": [
+          "RSM332: Capital Market Theory",
+          "RSM392: Strategic Management",
+          "RSM362: Leading People in Organizations",
+          "RSM380: International Business Strategy"
+        ],
+        "year4": [
+          "RSM490: International Strategy Capstone",
+          "RSM462: Managing Across Cultures",
+          "RSM437: Advanced Corporate Valuation",
+          "Senior Management Colloquium"
+        ]
+      },
+      "curriculumAr": {
+        "year1": [
+          "RSM100: مدخل إلى علم الإدارة والمنظمات",
+          "ECO101: مبادئ الاقتصاد الجزئي وتحليل الأسواق",
+          "ECO102: مبادئ الاقتصاد الكلي والسياسات المالية",
+          "MAT133: التفاضل والتكامل والجبر الخطي للتجارة"
+        ],
+        "year2": [
+          "RSM219: المحاسبة المالية المتقدمة",
+          "RSM222: المحاسبة الإدارية وصنع القرار",
+          "RSM230: الأسواق المالية وهياكل التمويل",
+          "RSM250: مبادئ واستراتيجيات التسويق الحديث"
+        ],
+        "year3": [
+          "RSM332: نظرية أسواق رأس المال والاستثمار",
+          "RSM392: الإدارة الاستراتيجية والميزة التنافسية",
+          "RSM362: قيادة وتوجيه الكفاءات في المؤسسات",
+          "RSM380: استراتيجيات الأعمال والتجارة الدولية"
+        ],
+        "year4": [
+          "RSM490: مشروع التخرج الشامل في الاستراتيجية الدولية",
+          "RSM462: إدارة الأعمال عبر الثقافات والتفاوض الدولي",
+          "RSM437: تقييم الشركات المتقدم والاندماج",
+          "الملتقى الإداري التخصصي لبحوث القيادة"
+        ]
+      }
+    }
+  ],
+  "programsCount": 161,
+  "totalProgramsCount": 161
+}

@@ -1,0 +1,1502 @@
+{
+  "id": "geomatika",
+  "name": "Universiti Geomatika Malaysia (UGM)",
+  "arabicName": "جامعة جيوماتيكا ماليزيا (UGM)",
+  "city": "Setiawangsa, Kuala Lumpur",
+  "country": "malaysia",
+  "logo": "assets/photo/uni-geomatika.webp",
+  "image": "assets/photo/campus_geomatika.webp",
+  "website": "https://geomatika.edu.my/",
+  "ranking": "Premier Specialized University for GIS, Surveying, Design & Business",
+  "established": "2000",
+  "campusName": "UGM Setiawangsa City Campus, KL",
+  "studentCount": "4,000+ (35+ Countries)",
+  "intakes": "Jan, Apr, Jul, Oct",
+  "feeRangeMin": 10000,
+  "feeRangeMax": 30000,
+  "currency": "MYR",
+  "videoUrl": "https://www.youtube-nocookie.com/embed/eYvCavkNpoo",
+  "description": "Universiti Geomatika Malaysia (UGM) is one of the leading recognized higher education institutions located in Setiawangsa, Kuala Lumpur. It provides globally accredited degree courses and state-of-the-art academic facilities.",
+  "descriptionAr": "تعتبر جامعة جيوماتيكا ماليزيا (UGM) واحدة من أعرق وأبرز المؤسسات الأكاديمية المعتمدة في Setiawangsa, Kuala Lumpur، وتتميز ببيئة تعليمية دولية متطورة ومرافق بحثية حديثة تؤهل خريجيها للريادة في سوق العمل العالمي.",
+  "about": {
+    "id": "Universiti Geomatika Malaysia (UGM) didirikan pada tahun 2000 dan berlokasi strategis di Setiawangsa, Kuala Lumpur. Dikenal luas sebagai pionir dan pusat keunggulan terdepan di Malaysia dalam bidang Teknologi Geomatika, Pemetaan Sistem Informasi Geografis (GIS), dan Penginderaan Jauh (Remote Sensing), universitas ini telah berkembang pesat mencakup fakultas Arsitektur, Bisnis Digital, Ilmu Komputer, dan Ilmu Kesehatan, dengan pengakuan penuh dari Dewan Surveyor Tanah (LJT) dan industri internasional.",
+    "en": "Universiti Geomatika Malaysia (UGM), established in 2000 and located in Setiawangsa, Kuala Lumpur, is widely recognized as Malaysia’s pioneer and premier center of excellence in Geomatics Engineering, Geographic Information Systems (GIS), and Satellite Remote Sensing. UGM has expanded comprehensively into Architecture, Digital Business, Computing, and Allied Health Sciences, fully accredited by the Land Surveyors Board (LJT) and international professional bodies.",
+    "ar": "تأسست جامعة جيوماتيكا الماليزية (Universiti Geomatika Malaysia - UGM) عام 2000، وتقع في موقع استراتيجي في سيتياوانغسا بكوالالمبور. وتعتبر الجامعة الرائدة ومركز التميز الأول في ماليزيا في علوم هندسة المساحة والجيوماتكس ونظم المعلومات الجغرافية (GIS) والاستشعار عن بعد عبر الأقمار الصناعية، وتوسعت لتشمل العمارة والتصميم، وإدارة الأعمال الرقمية، وعلوم الحاسب، والعلوم الصحية المساندة مع اعتماد رسمي كامل من مجلس المساحين المعتمدين (LJT).",
+    "zh": "马来西亚地质与测量大学（Universiti Geomatika Malaysia，简称UGM）创办于2000年，坐落于吉隆坡市中心邻近的斯迪亚旺沙（Setiawangsa）。大学以测绘工程、地理信息系统（GIS）及卫星遥感前沿科技闻名全马，是该领域的国家级拓荒者与领军高等学府，现已全面拓展至建筑学与环境规划、数字商业、计算机与健康科学等多元学科，获得马来西亚土地测量师局（LJT）官方顶级专业认证。",
+    "ru": "Университет геоматики Малайзии (UGM), основанный в 2000 году в Сетиавангса (Куала-Лумпур), является ведущим центром геодезии, геоинформационных систем (ГИС) и дистанционного зондирования Земли. Вуз предлагает также программы по архитектуре, цифровому бизнесу, IT и здравоохранению, аккредитованные Советом землеустроителей (LJT).",
+    "fr": "L'Universiti Geomatika Malaysia (UGM), fondée en 2000 à Setiawangsa, Kuala Lumpur, est le centre d'excellence pionnier en Malaisie pour l'ingénierie géomatique, les SIG et la télédétection spatiale. UGM forme également avec succès en architecture, commerce numérique, informatique et santé, avec l'agrément du Conseil des géomètres (LJT).",
+    "es": "La Universiti Geomatika Malaysia (UGM), fundada en 2000 en Setiawangsa, Kuala Lumpur, es el centro de excelencia pionero en Malasia en ingeniería geomática, Sistemas de Información Geográfica (SIG) y teledetección. Ofrece titulaciones acreditadas en arquitectura, negocios digitales, informática y ciencias de la salud.",
+    "ja": "マレーシア・ジオマティカ大学（UGM）は2000年に設立され、クアラルンプールのセティアワンサに位置しています。測量工学、地理情報システム（GIS）、衛星リモートセンシング分野におけるマレーシアの先駆的学府として知られ、建築、デジタルビジネス、IT、医療健康科学まで幅広い学位課程を展開し、土地測量士委員会（LJT）の完全認定を受けています。",
+    "ko": "말레이시아 지오마티카 대학교(UGM)는 2000년에 설립되었으며 쿠알라룸푸르 세티아왕사에 위치해 있습니다. 지오매틱스 공학, 지리정보시스템(GIS), 위성 원격 탐사 분야에서 말레이시아를 선도하는 특성화 명문 대학으로, 건축학, 디지털 비즈니스, 컴퓨터공학 및 보건의료 분야로 혁신을 거듭하며 국토측량사위원회(LJT)의 공식 인증을 보유하고 있습니다."
+  },
+  "facilities": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Laboratorium Sistem Informasi Geografis (GIS) & Pemetaan Satelit Penginderaan Jauh",
+        "en": "Geographic Information Systems (GIS) & Satellite Remote Sensing Research Lab",
+        "ar": "مختبرات نظم المعلومات الجغرافية (GIS) والخرائط الفضائية والاستشعار عن بعد",
+        "ko": "지리정보시스템(GIS) 및 인공위성 원격탐사 첨단 컴퓨팅 랩",
+        "ja": "地理情報システム（GIS）＆衛星リモートセンシング先端研究ラボ",
+        "zh": "地理信息系统（GIS）前沿重点实训室与卫星空间遥感解译实验中心",
+        "ru": "Лаборатория геоинформационных систем (ГИС) и спутникового дистанционного зондирования",
+        "fr": "Laboratoire de Systèmes d'Information Géographique (SIG) et télédétection satellitaire",
+        "es": "Laboratorio de Sistemas de Información Geográfica (SIG) y Teledetección por Satélite"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Pusat Survei Geodesi Lapangan, Instrumen LiDAR & Total Station Modern",
+        "en": "Geodetic Field Surveying Center, Advanced LiDAR & Robotic Total Station Hub",
+        "ar": "مركز المسح الجيوديسي الميداني وأجهزة LiDAR ومحطات الرصد المتكاملة Total Station",
+        "ko": "측지 현장 측량 센터, 첨단 라이다(LiDAR) 및 로보틱 토탈 스테이션 실습장",
+        "ja": "測地測量フィールドセンター、先端LiDAR＆ロボティック・トータルステーション設備",
+        "zh": "大地测量与工程测量野外实践中心、激光雷达（LiDAR）及全站仪专业仪器库",
+        "ru": "Центр геодезических полевых исследований, LiDAR и электронных тахеометров",
+        "fr": "Centre de topographie et géodésie avec LiDAR et stations totales robotisées",
+        "es": "Centro de Topografía y Geodesia de Campo, LiDAR y Estaciones Totales Avanzadas"
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Studio Desain Arsitektur Terpadu, Perencanaan Kota & Multimedia Kreatif",
+        "en": "Integrated Architecture Design Studios, Urban Planning & Creative Media Labs",
+        "ar": "استوديوهات التصميم المعماري المتكاملة والتخطيط الحضري والوسائط الإبداعية",
+        "ko": "통합 건축 디자인 스튜디오, 도시계획 설계실 및 크리에이티브 미디어 랩",
+        "ja": "統合建築デザインスタジオ、都市計画設計室＆クリエイティブメディア工房",
+        "zh": "建筑环境规划一体化设计画室、城乡景观设计工作坊及数字创意传媒中心",
+        "ru": "Студии архитектурного проектирования, урбанистики и медиатехнологий",
+        "fr": "Ateliers de conception architecturale intégrée, urbanisme et médias créatifs",
+        "es": "Estudios de Diseño Arquitectónico Integrado, Urbanismo y Medios Creativos"
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Perpustakaan Digital Multi-Disiplin, Ruang Kolaborasi & Student Lounge",
+        "en": "Multi-Disciplinary Digital Library, Collaboration Hub & Modern Student Lounge",
+        "ar": "المكتبة الرقمية التخصصية الشاملة وقاعات العمل المشترك واستراحة الطلاب الحديثة",
+        "ko": "다학제 디지털 도서관, 협업 스터디 룸 및 현대식 학생 라운지",
+        "ja": "マルチ専門分野デジタル図書館、コラボレーションスペース＆学生ラウンジ",
+        "zh": "综合数字化图书文献资源馆、小组协同研讨空间及现代化学生休闲社交中心",
+        "ru": "Цифровая междисциплинарная библиотека, коворкинг и студенческая зона отдыха",
+        "fr": "Bibliothèque numérique pluridisciplinaire, espaces de travail collaboratif et lounge étudiant",
+        "es": "Biblioteca Digital Multidisciplinar, Centro de Colaboración y Sala de Estudiantes"
+      }
+    }
+  ],
+  "highlights": [
+    {
+      "icon": "️",
+      "title": {
+        "id": "Pusat Keunggulan Ilmu Geomatika, Geodesi & Sains Geospasial No. 1 di Malaysia",
+        "en": "No. 1 Center of Excellence for Geomatics, Geodesy & Geospatial Sciences in Malaysia",
+        "ar": "الصرح والمركز الأكاديمي الأول في ماليزيا لعلوم الجيوماتكس والمساحة ونظم GIS",
+        "ko": "말레이시아 1위 측량학, 측지학 및 공간정보 지오스페셜 과학 특성화 대학",
+        "ja": "マレーシアNo.1の測量学・測地学・空間情報科学（ジオスペーシャル）教育拠点",
+        "zh": "马来西亚第一公认的地质测绘、大地测量与空间地理信息科学学术标杆",
+        "ru": "Центр номер 1 в Малайзии по геоматике, геодезии и геопространственным наукам",
+        "fr": "Pôle d'excellence numéro 1 en Malaisie pour la géomatique, la géodésie et les sciences géospatiales",
+        "es": "Centro de excelencia número 1 en Malasia en geomática, geodesia y ciencias geoespaciales"
+      },
+      "desc": {
+        "id": "Melatih para insinyur survei dan analis geospasial paling dicari yang memimpin proyek infrastruktur nasional dan pemetaan satelit.",
+        "en": "Educating highly demanded surveying engineers and geospatial analysts spearheading national infrastructure and satellite mapping initiatives.",
+        "ar": "تخريج نخبة مهندسي المساحة ومحللي البيانات المكانية الذين يقودون أضخم مشاريع البنية التحتية والمسح الجوي في المنطقة.",
+        "ko": "국가 핵심 인프라 프로젝트와 위성 지도 제작을 주도하는 최고 수준의 측량 엔지니어 및 지오스페셜 전문가를 육성합니다.",
+        "ja": "国家規模のインフラプロジェクトや衛星マッピングをリードする需要の高い測量エンジニアと空間アナリストを輩出。",
+        "zh": "定向培养主导国家级大型基建测绘、高精卫星数字制图与三维地理建模的高端紧缺专业人才。",
+        "ru": "Подготовка востребованных инженеров-геодезистов и геопространственных аналитиков для инфраструктурных проектов.",
+        "fr": "Formation d'ingénieurs géomètres et d'analystes géospatiaux très recherchés pour les grands chantiers d'infrastructure.",
+        "es": "Formación de ingenieros topógrafos y analistas geoespaciales muy cotizados en grandes infraestructuras."
+      }
+    },
+    {
+      "icon": "",
+      "title": {
+        "id": "Akreditasi Penuh Lembaga Juruukur Tanah (LJT) & MQA Malaysia",
+        "en": "Full Accreditation by Land Surveyors Board (LJT) & Malaysian Qualifications Agency",
+        "ar": "اعتماد مهني وأكاديمي كامل من مجلس المساحين المعتمدين (LJT) وهيئة الاعتماد الماليزية MQA",
+        "ko": "말레이시아 국토측량사위원회(LJT) 및 MQA 국가 공인 전문 자격 취득 보장",
+        "ja": "マレーシア土地測量士委員会（LJT）および国家資格認定機関（MQA）完全認定",
+        "zh": "获得马来西亚土地测量师局（LJT）与国家学术资格鉴定局（MQA）最高官方全额专业认证",
+        "ru": "Полная аккредитация Совета землеустроителей (LJT) и Малайзийского агентства квалификаций (MQA)",
+        "fr": "Accréditation complète par le Conseil des géomètres (LJT) et l'Agence malaisienne des qualifications (MQA)",
+        "es": "Acreditación completa de la Junta de Agrimensores (LJT) y la Agencia de Calificaciones de Malasia (MQA)"
+      },
+      "desc": {
+        "id": "Gelar sarjana geomatika UGM memenuhi syarat langsung untuk registrasi profesional sebagai Licensed Land Surveyor di Malaysia dan negara Commonwealth.",
+        "en": "UGM geomatics degrees directly qualify graduates for professional licensing registration with surveying councils in Malaysia and across Commonwealth nations.",
+        "ar": "تؤهل درجات البكالوريوس في الجيوماتكس خريجي UGM مباشرة للتسجيل المهني كمساحين قانونيين مرخصين في ماليزيا ودول الكومنولث.",
+        "ko": "UGM 학위 취득 시 말레이시아 및 영연방 국가에서 공인 전문 측량사 면허 등록 자격을 직접 취득할 수 있습니다.",
+        "ja": "UGMの学位は、マレーシア国内および英連邦諸国において公認プロ測量士資格登録への直接的な要件を満たしています。",
+        "zh": "地质与测量专业毕业生具备直接申请马来西亚执业注册土地测量师执照及英联邦国家专业互认的高端资质。",
+        "ru": "Диплом позволяет выпускникам напрямую регистрироваться в качестве лицензированного кадастрового инженера.",
+        "fr": "Les diplômes de l'UGM permettent d'accéder directement au titre de géomètre agréé en Malaisie et dans le Commonwealth.",
+        "es": "Los títulos capacitan para el registro profesional como topógrafo colegiado en Malasia y países de la Commonwealth."
+      }
+    },
+    {
+      "icon": "️",
+      "title": {
+        "id": "Kampus Kota Strategis di Setiawangsa KL Berjarak 10 Menit dari Menara KLCC",
+        "en": "Strategic Urban Campus in Setiawangsa KL Just 10 Minutes from Petronas Twin Towers",
+        "ar": "حرم جامعي مدني متميز في سيتياوانغسا يبعد 10 دقائق فقط عن برجي بتروناس (KLCC)",
+        "ko": "쿠알라룸푸르 KLCC 페트로나스 트윈타워에서 불과 10분 거리의 세티아왕사 캠퍼스",
+        "ja": "ペトロナスツインタワー（KLCC）からわずか10分のセティアワンサ好立地キャンパス",
+        "zh": "坐落于吉隆坡斯迪亚旺沙黄金生活圈，距双峰塔（KLCC）仅10分钟车程",
+        "ru": "Городской кампус в районе Сетиавангса всего в 10 минутах от башен Петронас (KLCC)",
+        "fr": "Campus urbain stratégique à Setiawangsa KL, à seulement 10 minutes des tours jumelles Petronas",
+        "es": "Campus urbano estratégico en Setiawangsa KL a solo 10 minutos de las Torres Petronas (KLCC)"
+      },
+      "desc": {
+        "id": "Menghubungkan mahasiswa dengan jaringan transportasi LRT Setiawangsa yang cepat, pusat perbelanjaan, restoran, dan denyut nadi bisnis Kuala Lumpur.",
+        "en": "Offering immediate connectivity to the Setiawangsa LRT network, lifestyle shopping malls, embassies, and the commercial heart of Kuala Lumpur.",
+        "ar": "يمنح الطلاب اتصالاً مباشراً بشبكة قطارات سيتياوانغسا السريعة (LRT)، والمراكز التجارية والممثليات الدبلوماسية ونبض العاصمة التجاري.",
+        "ko": "세티아왕사 LRT 전철역과 직결되어 뛰어난 대중교통망, 쇼핑몰, 대사관가 및 쿠알라룸푸르 중심 비즈니스 지구와의 최적 접근성을 자랑합니다.",
+        "ja": "セティアワンサLRT駅へのアクセスが至近で、商業施設や大使館エリア、クアラルンプール中心街へスムーズに移動できます。",
+        "zh": "紧邻斯迪亚旺沙轻轨站（LRT），周边环绕国际使馆区、现代化大型商业中心，坐享吉隆坡都会繁华与便利。",
+        "ru": "Удобное сообщение со станцией метро LRT Setiawangsa, торговыми центрами и деловым центром столицы.",
+        "fr": "Accès direct au métro léger LRT Setiawangsa, aux centres commerciaux, aux ambassades et au cœur de la capitale.",
+        "es": "Conexión inmediata con el tren ligero LRT Setiawangsa, centros comerciales, embajadas y el corazón de Kuala Lumpur."
+      }
+    },
+    {
+      "icon": "career",
+      "title": {
+        "id": "Tingkat Keterserapan Kerja Tinggi dengan Kemitraan Industri Pemetaan & BIM",
+        "en": "Outstanding Graduate Employability via Industry Partnerships in Surveying & BIM",
+        "ar": "معدلات توظيف استثنائية للخريجين بفضل الشراكات مع قطاعات المساحة ونمذجة المباني BIM",
+        "ko": "측량 및 BIM 건설 인프라 업계 산학협력을 통한 최상위 취업률 달성",
+        "ja": "測量業界＆BIM建設企業との緊密なパートナーシップによる抜群の就職率",
+        "zh": "携手顶尖测绘规划局及BIM智能建筑工程名企打造超高就业录用率",
+        "ru": "Высокая востребованность выпускников благодаря партнерству с отраслью и технологиями BIM",
+        "fr": "Excellente insertion professionnelle grâce aux partenariats dans la topographie et le BIM",
+        "es": "Extraordinaria empleabilidad de graduados mediante alianzas con empresas de topografía y BIM"
+      },
+      "desc": {
+        "id": "Program magang terintegrasi di perusahaan konsultan rekayasa, departemen survei pemetaan negara, dan pengembang kota pintar terkemuka.",
+        "en": "Integrated internship placements with engineering consultancy firms, government survey departments, and smart city development agencies.",
+        "ar": "برامج تدريب مهني متكاملة في مكاتب الاستشارات الهندسية، ودوائر المساحة الحكومية، وهيئات تطوير المدن الذكية في ماليزيا وخارجها.",
+        "ko": "유수 엔지니어링 컨설팅 펌, 정부 국토측량국, 스마트시티 개발사 등과의 실전 인턴십 배치로 졸업 즉시 취업을 지원합니다.",
+        "ja": "エンジニアリングコンサルティング企業、政府測量局、スマートシティ開発企業での実務インターンシップを完備。",
+        "zh": "学生在校期间可无缝入职大型工程咨询顾问机构、国家级地理信息管理部门以及智慧城市开发项目组开展带薪实训。",
+        "ru": "Практика в инженерных бюро, государственных геодезических службах и проектах умных городов.",
+        "fr": "Stages intégrés dans des bureaux d'études, services topographiques gouvernementaux et agences de villes intelligentes.",
+        "es": "Prácticas integradas en consultorías de ingeniería, departamentos topográficos estatales y proyectos de ciudades inteligentes."
+      }
+    }
+  ],
+  "residences": [
+    {
+      "name": {
+        "id": "Residensi Mahasiswa Seri Maya & Apartemen Mitra Setiawangsa",
+        "en": "Seri Maya Student Residences & Partner Setiawangsa Condominiums",
+        "ar": "مجمع سيري مايا السكني والشقق الطلابية المتعاقدة في سيتياوانغسا",
+        "ko": "세리 마야(Seri Maya) 공식 협력 학생 레지던스 및 세티아왕사 콘도미니엄",
+        "ja": "セリ・マヤ公式提携学生レジデンス＆セティアワンサ・コンドミニアム",
+        "zh": "Seri Maya官方合作留学生公寓及斯迪亚旺沙专属优质住宅区",
+        "ru": "Студенческие апартаменты Seri Maya и партнерские кондоминиумы в Сетиавангса",
+        "fr": "Résidences étudiantes Seri Maya et copropriétés partenaires de Setiawangsa",
+        "es": "Residencias Seri Maya y condominios asociados en Setiawangsa"
+      },
+      "distance": {
+        "id": "Terletak di Sekitar Kampus Setiawangsa (Jalan Kaki 5 Menit / Seberang Stasiun LRT)",
+        "en": "Located Around Setiawangsa Campus (5 Minutes Walk / Opposite LRT Station)",
+        "ar": "بالقرب من حرم سيتياوانغسا (5 دقائق مشياً / مقابل محطة المترو LRT مباشرة)",
+        "ko": "세티아왕사 캠퍼스 인근 (도보 5분 거리 / LRT 전철역 바로 맞은편)",
+        "ja": "セティアワンサ・キャンパス周辺（徒歩5分／LRT駅の向かい）",
+        "zh": "坐落于大学校区周边，步行5分钟即达，正对斯迪亚旺沙轻轨站（LRT）",
+        "ru": "Возле кампуса в Сетиавангса (5 минут пешком / напротив станции LRT)",
+        "fr": "Situé autour du campus de Setiawangsa (5 minutes à pied / en face de la station de métro léger)",
+        "es": "Situadas cerca del campus de Setiawangsa (5 minutos a pie / frente a la estación de LRT)"
+      },
+      "priceRange": "RM 450 - RM 850 / month",
+      "amenities": {
+        "id": [
+          "Sistem Keamanan 24 Jam dengan Kartu Akses & CCTV Lengkap",
+          "Kolam Renang Bergaya Resor & Pusat Kebugaran / Gymnasium Modern",
+          "Kamar Berperabot Lengkap (AC, Tempat Tidur, Meja Belajar & Lemari)",
+          "Akses Berjalan Kaki Sangat Dekat ke Stasiun LRT Setiawangsa",
+          "Dikelilingi Supermarket, Restoran Makanan Halal & Kafe"
+        ],
+        "en": [
+          "24/7 Security Patrols, Keycard Elevator Access & Full CCTV",
+          "Resort-Style Swimming Pool & Fully Equipped Fitness Gymnasium",
+          "Fully Furnished Air-Conditioned Units with Study Desks & Wardrobes",
+          "Ultra-Convenient Walking Distance to Setiawangsa LRT Station",
+          "Surrounded by Supermarkets, Diverse Halal Eateries & Modern Cafes"
+        ],
+        "ar": [
+          "حراسة أمنية متواصلة 24 ساعة مع بطاقات دخول ذكية ومراقبة بالكاميرات",
+          "حمام سباحة فاخر بنظام المنتجعات وصالة ألعاب رياضية ولياقة بدنية",
+          "غرف مؤثثة ومكيفة بالكامل مع مكاتب دراسة وخزائن ملابس واسعة",
+          "مسافة مشي قصيرة جداً إلى محطة قطار سيتياوانغسا (LRT)",
+          "محاط بمحلات السوبرماركت والمطاعم الحلال المتنوعة والمقاهي الحديثة"
+        ]
+      }
+    }
+  ],
+  "livingExpenses": [
+    {
+      "itemKey": "living_exp_food",
+      "item": {
+        "id": "Makan & Kuliner Harian (Setiawangsa KL)",
+        "en": "Food & Daily Dining (Setiawangsa KL)",
+        "ar": "الطعام والمأكولات اليومية (سيتياوانغسا)"
+      },
+      "cost": "RM 500 - RM 800"
+    },
+    {
+      "itemKey": "living_exp_transport",
+      "item": {
+        "id": "Transportasi & LRT Setiawangsa",
+        "en": "Local Public Transit & Setiawangsa LRT",
+        "ar": "المواصلات العامة ومترو سيتياوانغسا"
+      },
+      "cost": "RM 50 - RM 100"
+    },
+    {
+      "itemKey": "living_exp_utilities",
+      "item": {
+        "id": "Utilitas, Listrik & Internet",
+        "en": "Utilities, Electricity & WiFi",
+        "ar": "الكهرباء والمياه والإنترنت"
+      },
+      "cost": "RM 60 - RM 120"
+    },
+    {
+      "itemKey": "living_exp_personal",
+      "item": {
+        "id": "Kebutuhan Pribadi & Fotokopi Desain",
+        "en": "Personal Expenses & Design Printing",
+        "ar": "المستلزمات الشخصية وطباعة المخططات الهندسية"
+      },
+      "cost": "RM 180 - RM 320"
+    }
+  ],
+  "faqs": [
+    {
+      "q": {
+        "en": "Is a degree from Universiti Geomatika Malaysia (UGM) internationally accredited and recognized?",
+        "ar": "هل شهادات جامعة جيوماتيكا ماليزيا (UGM) معتمدة ومعترف بها دولياً وفي الدول العربية؟",
+        "id": "Apakah ijazah dari Universiti Geomatika Malaysia (UGM) diakui secara internasional?"
+      },
+      "a": {
+        "en": "Yes, Universiti Geomatika Malaysia (UGM) is fully accredited by the official government authorities in Malaysia and is globally recognized by universities, employers, and higher education ministries worldwide.",
+        "ar": "نعم، جامعة جيوماتيكا ماليزيا (UGM) معتمدة رسمياً ومصادق عليها من وزارة التعليم العالي في ماليزيا، وشهاداتها معترف بها عالمياً ولدى وزارات التعليم العالي وسفارات الدول العربية لمتابعة التوظيف والدراسات العليا.",
+        "id": "Ya, Universiti Geomatika Malaysia (UGM) terakreditasi penuh oleh otoritas pendidikan di Malaysia dan diakui secara global."
+      }
+    },
+    {
+      "q": {
+        "en": "What are the English language requirements for admission to Universiti Geomatika Malaysia (UGM)?",
+        "ar": "ما هي شروط اللغة الإنجليزية للقبول في جامعة جيوماتيكا ماليزيا (UGM)؟",
+        "id": "Apa saja syarat kemampuan bahasa Inggris untuk mendaftar ke Universiti Geomatika Malaysia (UGM)?"
+      },
+      "a": {
+        "en": "Most undergraduate degrees require IELTS 6.0 - 6.5 or equivalent TOEFL/PTE scores. Preparatory English programs are available for applicants seeking language improvement before degree commencement.",
+        "ar": "تشترط معظم برامج البكالوريوس الحصول على درجة 6.0 إلى 6.5 في اختبار IELTS أو ما يعادله في TOEFL أو PTE، كما تتوفر دورات لغة إنجليزية تحضيرية للطلاب الراغبين في تقوية مستواهم الأكاديمي.",
+        "id": "Sebagian besar program Sarjana memerlukan skor IELTS 6.0 - 6.5 atau setara TOEFL/PTE."
+      }
+    },
+    {
+      "q": {
+        "en": "Does StudyCo charge any agency fees for securing the official offer letter from Universiti Geomatika Malaysia (UGM)?",
+        "ar": "هل تتقاضى منصة StudyCo أي رسوم لتقديم وقبول الطلاب في جامعة جيوماتيكا ماليزيا (UGM)؟",
+        "id": "Apakah StudyCo memungut biaya agen untuk pendaftaran ke Universiti Geomatika Malaysia (UGM)?"
+      },
+      "a": {
+        "en": "No, StudyCo provides 100% free official guidance, document certification, and direct application submission to Universiti Geomatika Malaysia (UGM) without any agency service fees.",
+        "ar": "لا، تقدم منصة StudyCo خدمات الاستشارة وتدقيق المستندات والتقديم الرسمي للحصول على القبول الجامعي مجاناً 100% وبدون أي رسوم خدمة أو أتعاب وساطة.",
+        "id": "Tidak, StudyCo menyediakan bimbingan resmi dan pendaftaran gratis 100% tanpa biaya agensi."
+      }
+    }
+  ],
+  "articlesTab": [
+    {
+      "readTime": "5 min",
+      "title": {
+        "id": "Panduan Karier Geomatika & Pemetaan Satelit: Profesi Bergaji Tinggi yang Membangun Dunia",
+        "en": "Geomatics & Satellite Mapping Career Guide: The High-Demand Profession Shaping the World",
+        "ar": "دليل مهنة هندسة الجيوماتكس والخرائط الفضائية: تخصص المستقبل الأعلى طلباً في بناء العالم",
+        "ko": "지오매틱스 및 인공위성 지도제작 커리어 가이드: 세상을 설계하는 고소득 미래 유망 직업",
+        "ja": "測量工学＆衛星マッピング・キャリア完全ガイド：世界を創る高需要・高収入専門職",
+        "zh": "测绘工程与卫星空间遥感职业前景全解析：勾勒未来世界数字蓝图的高薪黄金专业",
+        "ru": "Путеводитель по карьере в геоматике и спутниковой картографии: профессия, создающая будущее",
+        "fr": "Guide de carrière en géomatique et cartographie satellite : un métier d'avenir très rémunérateur",
+        "es": "Guía profesional en geomática y cartografía satelital: la carrera de alta demanda que construye el mundo"
+      },
+      "summary": {
+        "id": "Mengupas tuntas mengapa keahlian geospasial, survei geodesi, dan sistem informasi geografis (GIS) menjadi pilar utama pembangunan kota cerdas modern.",
+        "en": "A deep dive into why geospatial analytics, geodetic surveying, and GIS intelligence form the irreplaceable backbone of modern smart city developments.",
+        "ar": "نظرة شاملة توضح أسباب تحول التحليلات المكانية وهندسة المساحة ونظم المعلومات الجغرافية إلى العمود الفقري لتطوير المدن الذكية الحديثة.",
+        "ko": "스마트시티 건설, 국토 계획, 첨단 자율주행 지도 구축의 핵심 인프라가 되는 지오스페셜 및 GIS 기술의 비전을 조명합니다.",
+        "ja": "スマートシティ開発、国土計画、自動運転用地図構築の中核となる空間情報技術の将来性を徹底分析。",
+        "zh": "深度解析空间大数据分析、大地测量与GIS智能系统为何成为当今全球智慧城市建设与尖端基建不可替代的硬核支撑。",
+        "ru": "Подробный анализ того, почему геопространственные данные и ГИС являются основой строительства умных городов.",
+        "fr": "Comprendre pourquoi l'analyse géospatiale et les SIG constituent la pierre angulaire des villes intelligentes.",
+        "es": "Por qué el análisis geoespacial, la topografía y los SIG son la base indispensable de las ciudades inteligentes."
+      }
+    },
+    {
+      "readTime": "6 min",
+      "title": {
+        "id": "Mengapa Kuliah di Universiti Geomatika Malaysia Menjadi Pilihan Cerdas Mahasiswa Internasional",
+        "en": "Why Studying at Universiti Geomatika Malaysia is a Smart Move for International Students",
+        "ar": "لماذا تعد الدراسة في جامعة جيوماتيكا الماليزية الخيار الأذكى للطلاب الدوليين",
+        "ko": "외국인 유학생들이 말레이시아 지오마티카 대학교(UGM)를 선택하는 명확한 이유",
+        "ja": "世界中の留学生がマレーシア・ジオマティカ大学（UGM）を選ぶ理由とは",
+        "zh": "选择马来西亚地质与测量大学（UGM）为何是广大海外留学生的明智之举",
+        "ru": "Почему обучение в Universiti Geomatika Malaysia — отличный выбор для иностранных студентов",
+        "fr": "Pourquoi choisir l'Universiti Geomatika Malaysia est un choix judicieux pour les étudiants internationaux",
+        "es": "Por qué estudiar en la Universiti Geomatika Malaysia es una decisión inteligente para internacionales"
+      },
+      "summary": {
+        "id": "Eksplorasi akreditasi LJT, lokasi kampus strategis di Kuala Lumpur, biaya kuliah terjangkau, dan fasilitas laboratorium pemetaan berskala industri.",
+        "en": "Exploring professional LJT accreditation, prime Kuala Lumpur campus location, affordable tuition fees, and industrial-scale mapping laboratory suites.",
+        "ar": "استعراض الاعتماد المهني من LJT وموقع الحرم المتميز في كوالالمبور ورسوم الدراسة التنافسية ومختبرات المسح الميداني المتطورة.",
+        "ko": "LJT 전문 면허 인증, 쿠알라룸푸르 도심의 이상적인 위치, 경제적인 학비 및 산업용 첨단 연구 장비 인프라를 집중 분석합니다.",
+        "ja": "公認測量士資格、クアラルンプール中心街の好立地、良心的な学費体系、プロ仕様の測量実習設備を網羅。",
+        "zh": "全方位揭秘UGM权威的专业执照资质、毗邻双峰塔的优越地理位置、平价亲民的留学费用以及工业级实训实验室集群。",
+        "ru": "Обзор профессиональной аккредитации LJT, удачного расположения в столице, умеренных цен и передовых лабораторий.",
+        "fr": "Découverte de l'accréditation LJT, de l'emplacement privilégié à Kuala Lumpur, des tarifs attractifs et des laboratoires de pointe.",
+        "es": "Análisis de la acreditación profesional LJT, la ubicación estratégica en Kuala Lumpur, los precios accesibles y los laboratorios avanzados."
+      }
+    },
+    {
+      "readTime": "4 min",
+      "title": {
+        "id": "Kehidupan Mahasiswa di Setiawangsa KL: Fasilitas Lengkap, Dekat LRT & Akses Cepat ke Pusat Bisnis",
+        "en": "Student Living in Setiawangsa KL: Full Amenities, LRT Connectivity & Swift Access to Downtown",
+        "ar": "دليل السكن والمعيشة الطلابية في سيتياوانغسا كوالالمبور: خدمات متكاملة وسرعة الوصول لقلب المدينة",
+        "ko": "쿠알라룸푸르 세티아왕사 학생 생활 가이드: 완벽한 편의시설, LRT 역세권 및 도심 접근성",
+        "ja": "クアラルンプール・セティアワンサ学生生活案内：充実した周辺環境とLRT駅直結の快適ライフ",
+        "zh": "吉隆坡斯迪亚旺沙留学生宜居生活宝典：成熟生活配套、便捷轻轨通勤与繁华商圈交汇",
+        "ru": "Студенческая жизнь в районе Сетиавангса: развитая инфраструктура, метро LRT и быстрый доступ в центр",
+        "fr": "Vivre ses études à Setiawangsa KL : commodités complètes, accès au métro léger et proximité du centre-ville",
+        "es": "La vida estudiantil en Setiawangsa KL: comodidades, conexión con el tren ligero y acceso rápido al centro"
+      },
+      "summary": {
+        "id": "Segala hal yang perlu diketahui tentang mencari tempat tinggal, berbelanja di Setiawangsa, restoran makanan halal lezat, dan biaya hidup hemat di ibu kota.",
+        "en": "Everything you need to know about affordable student condo rentals, shopping around Setiawangsa, delicious halal dining, and budget-friendly KL living.",
+        "ar": "كل ما تحتاج معرفته عن استئجار شقق الطلاب بأسعار مناسبة، ومراكز التسوق في سيتياوانغسا، والمطاعم الحلال المتنوعة، وتكلفة المعيشة الموفرة.",
+        "ko": "가성비 높은 콘도미니엄 임대 정보, 세티아왕사 대형 쇼핑몰, 안전한 할랄 미식 문화 및 알뜰한 생활비 팁을 소개합니다.",
+        "ja": "手頃なコンドミニアム情報、近隣のショッピングモール、多彩なハラールグルメ事情、スマートな生活費管理のポイントを網羅。",
+        "zh": "一站式掌握高性价比公寓租赁指南、斯迪亚旺沙商超购物便利、丰富诱人的清真美食街区以及吉隆坡省钱生活技巧。",
+        "ru": "Все об аренде квартир, магазинах в Сетиавангса, доступных халяльных кафе и экономии на расходах в столице.",
+        "fr": "Tout ce qu'il faut savoir sur la location d'appartements abordables, les commerces de Setiawangsa et la gastronomie halal variée.",
+        "es": "Todo sobre el alquiler de apartamentos económicos, tiendas en Setiawangsa, variada gastronomía halal y ahorro en la capital."
+      }
+    }
+  ],
+  "summaryFeeTable": [
+    {
+      "faculty": {
+        "id": "Teknologi Geomatika, Sistem Informasi Geografis (GIS) & Pemetaan",
+        "en": "Geomatics Technology, Geographic Information Systems (GIS) & Surveying",
+        "ar": "تكنولوجيا الجيوماتكس ونظم المعلومات الجغرافية (GIS) والمساحة",
+        "ko": "지오매틱스 공학, 지리정보시스템(GIS) 및 공간 측량학부",
+        "ja": "測量工学、地理情報システム（GIS）＆空間情報マッピング学部",
+        "zh": "测绘工程、地理信息系统（GIS）与大地空间测量学院（LJT全额专业认证）",
+        "ru": "Геоматика, геоинформационные системы (ГИС) и геодезия",
+        "fr": "Géomatique, Systèmes d'Information Géographique (SIG) et Topographie",
+        "es": "Tecnología Geomática, Sistemas de Información Geográfica (SIG) y Topografía"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "3.5 - 4 Years",
+      "durationYears": 4,
+      "durationId": "3.5 - 4 Tahun",
+      "durationAr": "3.5 - 4 سنوات",
+      "feeUSD": "$3,600 - $4,400 / Year",
+      "avgFee": "RM 16,000 - RM 19,500",
+      "ielts": "5.0 - 5.5"
+    },
+    {
+      "faculty": {
+        "id": "Arsitektur, Perencanaan Wilayah & Kota serta Lingkungan Terbangun",
+        "en": "Architecture, Urban & Regional Planning & Built Environment",
+        "ar": "العمارة والتخطيط الحضري والإقليمي والبيئة العمرانية",
+        "ko": "건축학, 도시 및 지역계획학 및 건축환경 디자인학부",
+        "ja": "建築学部、都市・地域計画学＆環境デザイン学科",
+        "zh": "建筑学、城乡区域规划与人居环境空间设计学院",
+        "ru": "Архитектура, градостроительство и региональное планирование",
+        "fr": "Architecture, Aménagement Urbain et Environnement Bâti",
+        "es": "Arquitectura, Urbanismo y Planificación Territorial"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "3 - 3.5 Years",
+      "durationYears": 3,
+      "durationId": "3 - 3.5 Tahun",
+      "durationAr": "3 - 3.5 سنوات",
+      "feeUSD": "$3,800 - $4,600 / Year",
+      "avgFee": "RM 17,000 - RM 20,500",
+      "ielts": "5.5"
+    },
+    {
+      "faculty": {
+        "id": "Teknologi Informasi, Sains Komputer & Bisnis Digital",
+        "en": "Information Technology, Computer Science & Digital Business",
+        "ar": "تكنولوجيا المعلومات وعلوم الحاسوب وإدارة الأعمال الرقمية",
+        "ko": "정보기술(IT), 컴퓨터공학 및 디지털 비즈니스 경영학부",
+        "ja": "情報技術（IT）、コンピュータサイエンス＆デジタルビジネス学部",
+        "zh": "信息技术（IT）、计算机科学与数字商业管理学院",
+        "ru": "Информационные технологии, компьютерные науки и цифровой бизнес",
+        "fr": "Technologies de l'Information, Informatique et Commerce Numérique",
+        "es": "Tecnologías de la Información, Informática y Negocios Digitales"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "3 Years",
+      "durationYears": 3,
+      "durationId": "3 Tahun",
+      "durationAr": "3 سنوات",
+      "feeUSD": "$3,400 - $4,200 / Year",
+      "avgFee": "RM 15,000 - RM 18,500",
+      "ielts": "5.0 - 5.5"
+    },
+    {
+      "faculty": {
+        "id": "Sains Kesehatan Terpadu, Farmasi & Keselamatan Lingkungan",
+        "en": "Allied Health Sciences, Pharmacy & Environmental Safety",
+        "ar": "العلوم الصحية المساندة والصيدلة والسلامة والصحة البيئية",
+        "ko": "보건의료과학, 약학 및 환경보건안전학부",
+        "ja": "医療健康科学、薬学＆環境安全管理学部",
+        "zh": "联合健康科学、药剂学与环境健康安全管理学院",
+        "ru": "Медицинские науки, фармация и экологическая безопасность",
+        "fr": "Sciences de la Santé, Pharmacie et Sécurité Environnementale",
+        "es": "Ciencias de la Salud, Farmacia y Seguridad Ambiental"
+      },
+      "level": "Bachelor Degree",
+      "levelKey": "level_bachelor",
+      "duration": "3 - 4 Years",
+      "durationYears": 4,
+      "durationId": "3 - 4 Tahun",
+      "durationAr": "3 - 4 سنوات",
+      "feeUSD": "$3,500 - $4,300 / Year",
+      "avgFee": "RM 15,500 - RM 19,000",
+      "ielts": "5.5"
+    }
+  ],
+  "directWatchUrl": "https://www.youtube.com/watch?v=eYvCavkNpoo",
+  "programs": [
+    {
+      "id": "geomatika-bachelor-of-information-technology-honours-cyber-security",
+      "universityId": "geomatika",
+      "name": "Bachelor Of Information Technology (Honours) (Cyber Security)",
+      "nameAr": "بكالوريوس تقنية المعلومات (مع مرتبة الشرف) في الأمن السيبراني",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-master-of-information-technology-it",
+      "universityId": "geomatika",
+      "name": "Master of Information Technology (IT)",
+      "nameAr": "ماجستير تقنية المعلومات في IT",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 17000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 17000
+        }
+      ],
+      "totalTuitionFee": 17000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-computer-science-honours",
+      "universityId": "geomatika",
+      "name": "Bachelor of Computer Science (Honours)",
+      "nameAr": "بكالوريوس علوم الحاسب (مع مرتبة الشرف)",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "bachelor",
+      "duration": 3,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-doctor-of-philosophy-information-technology-online-degree",
+      "universityId": "geomatika",
+      "name": "Doctor of Philosophy (Information Technology) - Online Degree",
+      "nameAr": "دكتوراه الفلسفة (PhD) في تقنية المعلومات",
+      "field": "cs",
+      "category": "Computer Science & IT",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-business-administration-honours",
+      "universityId": "geomatika",
+      "name": "Bachelor of Business Administration (Honours)",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-foundation-in-business",
+      "universityId": "geomatika",
+      "name": "Foundation In Business",
+      "nameAr": "برنامج تمهيدي في إدارة الأعمال",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 11000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 11000
+        }
+      ],
+      "totalTuitionFee": 11000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-beauty-management-honours",
+      "universityId": "geomatika",
+      "name": "Bachelor of Beauty Management (Honours)",
+      "nameAr": "بكالوريوس في Bachelor of Beauty Management (Honours",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-diploma-in-office-management",
+      "universityId": "geomatika",
+      "name": "Diploma in Office Management",
+      "nameAr": "دبلوم في Office Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "diploma",
+      "duration": 2.5,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 20000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-master-of-business-administration-online-degree",
+      "universityId": "geomatika",
+      "name": "Master of Business Administration - Online Degree",
+      "nameAr": "ماجستير إدارة الأعمال (MBA) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 16000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-master-of-business-administration",
+      "universityId": "geomatika",
+      "name": "Master of Business Administration",
+      "nameAr": "ماجستير إدارة الأعمال (MBA)",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 16000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-doctor-of-philosophy-management",
+      "universityId": "geomatika",
+      "name": "Doctor of Philosophy (Management)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Management",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-business-administration-honours-online-degree",
+      "universityId": "geomatika",
+      "name": "Bachelor of Business Administration (Honours) - Online Degree",
+      "nameAr": "بكالوريوس إدارة الأعمال (مع مرتبة الشرف) أونلاين",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-hons-in-business-administration-finance-banking",
+      "universityId": "geomatika",
+      "name": "Bachelor (Hons) in Business Administration (Finance & Banking)",
+      "nameAr": "بكالوريوس في المالية والتمويل",
+      "field": "business",
+      "category": "Business & Management",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-science-hons-in-geomatic-and-land-surveying",
+      "universityId": "geomatika",
+      "name": "Bachelor of Science (Hons) in Geomatic and Land Surveying",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Geomatic and Land Surveying",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        },
+        {
+          "year": 4,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-science-in-gis-and-application-development",
+      "universityId": "geomatika",
+      "name": "Bachelor of Science in GIS and Application Development",
+      "nameAr": "بكالوريوس العلوم في GIS and Application Development",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-phd-in-geospatial",
+      "universityId": "geomatika",
+      "name": "PhD in Geospatial",
+      "nameAr": "دكتوراه في Geospatial",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-master-of-science-geographical-information-science-geographic-information",
+      "universityId": "geomatika",
+      "name": "Master of Science (Geographical Information Science) – Geographic Information",
+      "nameAr": "ماجستير العلوم في Geographical Information Science) – Geographic Information",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 18000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 18000
+        }
+      ],
+      "totalTuitionFee": 18000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-science-in-architecture",
+      "universityId": "geomatika",
+      "name": "Bachelor of Science in Architecture",
+      "nameAr": "بكالوريوس العلوم في الهندسة المعمارية",
+      "field": "engineering",
+      "category": "Engineering & Applied Sciences",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-master-of-pharmacology",
+      "universityId": "geomatika",
+      "name": "Master of Pharmacology",
+      "nameAr": "ماجستير في Master of Pharmacology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 15000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-in-science-hons-biotechnology",
+      "universityId": "geomatika",
+      "name": "Bachelor in Science (Hons) Biotechnology",
+      "nameAr": "بكالوريوس في التقنية الحيوية",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 4,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        },
+        {
+          "year": 3,
+          "fee": 15000
+        },
+        {
+          "year": 4,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 60000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-of-science-hons-pharmacology",
+      "universityId": "geomatika",
+      "name": "Bachelor of Science (Hons) Pharmacology",
+      "nameAr": "بكالوريوس العلوم (مع مرتبة الشرف) في Pharmacology",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        },
+        {
+          "year": 2,
+          "fee": 15000
+        },
+        {
+          "year": 3,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 45000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-diploma-in-beautician-and-health",
+      "universityId": "geomatika",
+      "name": "Diploma in Beautician and Health",
+      "nameAr": "دبلوم في Beautician and Health",
+      "field": "health",
+      "category": "Health & Medicine",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 30000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 0
+        },
+        {
+          "year": 2,
+          "fee": 0
+        },
+        {
+          "year": 3,
+          "fee": 0
+        }
+      ],
+      "totalTuitionFee": 0,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-in-early-childhood-education-with-honours",
+      "universityId": "geomatika",
+      "name": "Bachelor in Early Childhood Education With Honours",
+      "nameAr": "بكالوريوس في تعليم الطفولة المبكرة",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-master-in-education-med-instructional-technology",
+      "universityId": "geomatika",
+      "name": "Master in Education (MEd) (Instructional Technology)",
+      "nameAr": "ماجستير في Master in Education (MEd) (Instructional Technology",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 15000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 15000
+        }
+      ],
+      "totalTuitionFee": 15000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-doctor-of-philosophy-education",
+      "universityId": "geomatika",
+      "name": "Doctor of Philosophy (Education)",
+      "nameAr": "دكتوراه الفلسفة (PhD) في Education",
+      "field": "education",
+      "category": "Education & Teaching",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-master-of-laws-ll-m",
+      "universityId": "geomatika",
+      "name": "Master of Laws (LL.M)",
+      "nameAr": "ماجستير في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "master",
+      "duration": 1.5,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 16000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-doctor-of-philosophy-ph-d-in-law",
+      "universityId": "geomatika",
+      "name": "Doctor of Philosophy (Ph.D) in Law",
+      "nameAr": "دكتوراه الفلسفة (PhD) في القانون والحقوق",
+      "field": "law",
+      "category": "Law & Legal Studies",
+      "level": "phd",
+      "duration": 3,
+      "annualFee": 16000,
+      "currency": "MYR",
+      "ielts": "6.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 16000
+        },
+        {
+          "year": 2,
+          "fee": 16000
+        },
+        {
+          "year": 3,
+          "fee": 16000
+        }
+      ],
+      "totalTuitionFee": 48000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-bachelor-fashion-design-with-honours",
+      "universityId": "geomatika",
+      "name": "Bachelor Fashion Design with Honours",
+      "nameAr": "بكالوريوس في Bachelor Fashion Design with Honours",
+      "field": "arts",
+      "category": "Art & Design",
+      "level": "bachelor",
+      "duration": 3.5,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "5.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        },
+        {
+          "year": 2,
+          "fee": 12000
+        },
+        {
+          "year": 3,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 36000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-diploma-in-creative-multimedia",
+      "universityId": "geomatika",
+      "name": "Diploma in Creative Multimedia",
+      "nameAr": "دبلوم في الوسائط المتعددة الإبداعية",
+      "field": "arts",
+      "category": "Communication & Media",
+      "level": "diploma",
+      "duration": 3,
+      "annualFee": 10000,
+      "currency": "MYR",
+      "ielts": "5.0",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 10000
+        },
+        {
+          "year": 2,
+          "fee": 10000
+        },
+        {
+          "year": 3,
+          "fee": 10000
+        }
+      ],
+      "totalTuitionFee": 30000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    },
+    {
+      "id": "geomatika-foundation-in-science",
+      "universityId": "geomatika",
+      "name": "Foundation in Science",
+      "nameAr": "برنامج تمهيدي في العلوم",
+      "field": "business",
+      "category": "Science",
+      "level": "foundation",
+      "duration": 1,
+      "annualFee": 12000,
+      "currency": "MYR",
+      "ielts": "4.5",
+      "intakes": "Jan, Apr",
+      "yearlyFees": [
+        {
+          "year": 1,
+          "fee": 12000
+        }
+      ],
+      "totalTuitionFee": 12000,
+      "otherExpenses": {
+        "visaEmgsFee": 3000,
+        "medicalInsurance": 750,
+        "registrationFee": 2800,
+        "securityDeposit": 1500,
+        "resourceLabFee": 1200
+      }
+    }
+  ],
+  "programsCount": 30,
+  "totalProgramsCount": 30
+}
