@@ -1,6 +1,8 @@
 # Internal working files - never deploy
 .git
 .git/**
+_archive*
+_archive*/**
 scratch
 scratch/**
 تصميم
