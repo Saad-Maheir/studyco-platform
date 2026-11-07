@@ -602,6 +602,40 @@ try {
             ], "تم تحديث حالة ملف الطالب ({$student['full_name']}) وتوثيقها في السجل الزمني بنجاح!");
             break;
 
+        // ======================================================================
+        // Action: Purge / Clean Demo Data (تفريغ وتنظيف بيانات الاختبارات)
+        // ======================================================================
+        case 'purge_test_data':
+            requireAdminAuth();
+            if ($method !== 'POST') {
+                sendResponse(false, null, 'طريقة الطلب غير مسموح بها', 405);
+            }
+            if ($_SESSION['admin_role'] !== 'super_admin') {
+                sendResponse(false, null, 'هذا الإجراء متاح حصراً للمدير العام (Super Admin)', 403);
+            }
+
+            $pdo->exec("SET FOREIGN_KEY_CHECKS = 0;");
+            $pdo->exec("TRUNCATE TABLE `student_documents`;");
+            $pdo->exec("TRUNCATE TABLE `status_logs`;");
+            $pdo->exec("TRUNCATE TABLE `students`;");
+            
+            $agentsPurged = false;
+            if (!empty($input['purge_agents'])) {
+                $pdo->exec("TRUNCATE TABLE `agents`;");
+                $agentsPurged = true;
+            }
+            $pdo->exec("SET FOREIGN_KEY_CHECKS = 1;");
+
+            $studentCount = (int)$pdo->query("SELECT COUNT(*) FROM `students`")->fetchColumn();
+            $agentCount   = (int)$pdo->query("SELECT COUNT(*) FROM `agents`")->fetchColumn();
+
+            sendResponse(true, [
+                'students_count' => $studentCount,
+                'agents_count'   => $agentCount,
+                'agents_purged'  => $agentsPurged
+            ], 'تم تفريغ كافة بيانات الطلاب وسجلات المعاملات بنجاح تام! قاعدة البيانات أصبحت نظيفة 100%.');
+            break;
+
         default:
             sendResponse(false, null, 'إجراء غير معروف للإدارة', 400);
             break;

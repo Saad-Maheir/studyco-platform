@@ -17,6 +17,38 @@ if (empty($providedKey) || !hash_equals(INSTALL_SECRET_KEY, $providedKey)) {
 try {
     $pdo = getDbConnection();
     
+    $action = isset($_GET['action']) ? trim($_GET['action']) : 'install';
+    
+    // ==========================================
+    // ACTION: CLEAN / PURGE DEMO DATA
+    // ==========================================
+    if ($action === 'clean' || $action === 'purge') {
+        $pdo->exec("SET FOREIGN_KEY_CHECKS = 0;");
+        $pdo->exec("TRUNCATE TABLE `student_documents`;");
+        $pdo->exec("TRUNCATE TABLE `status_logs`;");
+        $pdo->exec("TRUNCATE TABLE `students`;");
+        
+        $agentsPurged = false;
+        if (isset($_GET['include_agents']) && $_GET['include_agents'] === '1') {
+            $pdo->exec("TRUNCATE TABLE `agents`;");
+            $agentsPurged = true;
+        }
+        $pdo->exec("SET FOREIGN_KEY_CHECKS = 1;");
+        
+        $studentCount = (int)$pdo->query("SELECT COUNT(*) FROM `students`")->fetchColumn();
+        $agentCount   = (int)$pdo->query("SELECT COUNT(*) FROM `agents`")->fetchColumn();
+        $adminCount   = (int)$pdo->query("SELECT COUNT(*) FROM `admins`")->fetchColumn();
+        
+        sendResponse(true, [
+            'database'       => DB_NAME,
+            'action'         => 'clean_success',
+            'students_count' => $studentCount,
+            'agents_count'   => $agentCount,
+            'admins_count'   => $adminCount,
+            'agents_purged'  => $agentsPurged
+        ], 'تم تفريغ وتنظيف قاعدة البيانات بنجاح تام! تم مسح كافة بيانات الطلاب وسجلات التتبع، والقاعدة الآن نظيفة وجاهزة للاستخدام الحقيقي.');
+    }
+    
     $sqlFile = dirname(__DIR__) . DIRECTORY_SEPARATOR . 'database' . DIRECTORY_SEPARATOR . 'schema.sql';
     if (!file_exists($sqlFile)) {
         sendResponse(false, null, 'ملف schema.sql غير موجود في المجلد database/', 404);
@@ -89,48 +121,55 @@ try {
     $agentRowStmt->execute([$agentEmail]);
     $agentId = (int)$agentRowStmt->fetchColumn();
     
-    // 5. Seed Initial Student Records with Status Logs (if not exists)
-    $student1Ref = 'STU-202611-1001';
-    $chkStudent1 = $pdo->prepare("SELECT `id` FROM `students` WHERE `reference_code` = ? LIMIT 1");
-    $chkStudent1->execute([$student1Ref]);
-    $s1Id = $chkStudent1->fetchColumn();
+    // 5. Seed Initial Student Records with Status Logs (Only when ?seed_demo=1 is specified)
+    $seedDemo = isset($_GET['seed_demo']) && $_GET['seed_demo'] === '1';
+    $seededStudents = [];
     
-    if (!$s1Id) {
-        $insS1 = $pdo->prepare("
-            INSERT INTO `students` 
-            (`agent_id`, `reference_code`, `full_name`, `full_name_ar`, `gender`, `birth_date`, `nationality`, `passport_number`, `email`, `phone`, `whatsapp`, `destination_country`, `target_university`, `target_program`, `degree_level`, `intake_date`, `status`, `agent_notes`, `admin_feedback`, `created_at`)
-            VALUES 
-            (?, ?, 'Zaid Al-Hashemi', 'زيد الهاشمي', 'male', '2004-05-14', 'Iraq', 'N8892100', 'zaid.hashemi@gmail.com', '+9647801234567', '+9647801234567', 'ماليزيا', 'جامعة مالايا (Universiti Malaya)', 'بكالوريوس علوم الحاسوب والذكاء الاصطناعي', 'Bachelor', 'أكتوبر 2026', 'conditional_offer', 'طالب متفوق حاصل على معدل 94% في الثانوية العامة.', 'تم استلام القبول المشروط بنجاح، بانتظار استكمال شهادة كفاءة اللغة الإنجليزية (IELTS 6.0).', NOW())
-        ");
-        $insS1->execute([$agentId, $student1Ref]);
-        $s1Id = (int)$pdo->lastInsertId();
+    if ($seedDemo) {
+        $student1Ref = 'STU-202611-1001';
+        $chkStudent1 = $pdo->prepare("SELECT `id` FROM `students` WHERE `reference_code` = ? LIMIT 1");
+        $chkStudent1->execute([$student1Ref]);
+        $s1Id = $chkStudent1->fetchColumn();
         
-        // Logs for Student 1
-        $logS1 = $pdo->prepare("INSERT INTO `status_logs` (`student_id`, `old_status`, `new_status`, `comment`, `changed_by`, `created_at`) VALUES (?, ?, ?, ?, ?, ?)");
-        $logS1->execute([$s1Id, null, 'submitted', 'تم رفع ملف الطالب ووثائقه الأولية عبر الوكيل', 'agent', date('Y-m-d H:i:s', strtotime('-5 days'))]);
-        $logS1->execute([$s1Id, 'submitted', 'under_review', 'مراجعة أوراق الطالب وتدقيق المعدل بواسطة إدارة المنصة', 'admin', date('Y-m-d H:i:s', strtotime('-3 days'))]);
-        $logS1->execute([$s1Id, 'under_review', 'conditional_offer', 'صدور القبول المشروط رسمياً من عمادة القبول بالجامعة', 'admin', date('Y-m-d H:i:s', strtotime('-1 days'))]);
-    }
-    
-    $student2Ref = 'STU-202611-1002';
-    $chkStudent2 = $pdo->prepare("SELECT `id` FROM `students` WHERE `reference_code` = ? LIMIT 1");
-    $chkStudent2->execute([$student2Ref]);
-    $s2Id = $chkStudent2->fetchColumn();
-    
-    if (!$s2Id) {
-        $insS2 = $pdo->prepare("
-            INSERT INTO `students` 
-            (`agent_id`, `reference_code`, `full_name`, `full_name_ar`, `gender`, `birth_date`, `nationality`, `passport_number`, `email`, `phone`, `whatsapp`, `destination_country`, `target_university`, `target_program`, `degree_level`, `intake_date`, `status`, `agent_notes`, `admin_feedback`, `created_at`)
-            VALUES 
-            (?, ?, 'Maryam Huda Al-Nuaimi', 'مريم هدى النعيمي', 'female', '2001-09-22', 'Jordan', 'A5519283', 'maryam.nuaimi@yahoo.com', '+962791234567', '+962791234567', 'بريطانيا', 'University of Manchester', 'ماجستير إدارة الأعمال الدولية (MSc International Business)', 'Master', 'سبتمبر 2026', 'under_review', 'خريجة الجامعة الأردنية بتقدير جيد جداً وتوصيات أكاديمية قوية.', 'الملف قيد التدقيق لدى مكتب القبول الأكاديمي الدولي في الجامعة.', NOW())
-        ");
-        $insS2->execute([$agentId, $student2Ref]);
-        $s2Id = (int)$pdo->lastInsertId();
+        if (!$s1Id) {
+            $insS1 = $pdo->prepare("
+                INSERT INTO `students` 
+                (`agent_id`, `reference_code`, `full_name`, `full_name_ar`, `gender`, `birth_date`, `nationality`, `passport_number`, `email`, `phone`, `whatsapp`, `destination_country`, `target_university`, `target_program`, `degree_level`, `intake_date`, `status`, `agent_notes`, `admin_feedback`, `created_at`)
+                VALUES 
+                (?, ?, 'Zaid Al-Hashemi', 'زيد الهاشمي', 'male', '2004-05-14', 'Iraq', 'N8892100', 'zaid.hashemi@gmail.com', '+9647801234567', '+9647801234567', 'ماليزيا', 'جامعة مالايا (Universiti Malaya)', 'بكالوريوس علوم الحاسوب والذكاء الاصطناعي', 'Bachelor', 'أكتوبر 2026', 'conditional_offer', 'طالب متفوق حاصل على معدل 94% في الثانوية العامة.', 'تم استلام القبول المشروط بنجاح، بانتظار استكمال شهادة كفاءة اللغة الإنجليزية (IELTS 6.0).', NOW())
+            ");
+            $insS1->execute([$agentId, $student1Ref]);
+            $s1Id = (int)$pdo->lastInsertId();
+            
+            // Logs for Student 1
+            $logS1 = $pdo->prepare("INSERT INTO `status_logs` (`student_id`, `old_status`, `new_status`, `comment`, `changed_by`, `created_at`) VALUES (?, ?, ?, ?, ?, ?)");
+            $logS1->execute([$s1Id, null, 'submitted', 'تم رفع ملف الطالب ووثائقه الأولية عبر الوكيل', 'agent', date('Y-m-d H:i:s', strtotime('-5 days'))]);
+            $logS1->execute([$s1Id, 'submitted', 'under_review', 'مراجعة أوراق الطالب وتدقيق المعدل بواسطة إدارة المنصة', 'admin', date('Y-m-d H:i:s', strtotime('-3 days'))]);
+            $logS1->execute([$s1Id, 'under_review', 'conditional_offer', 'صدور القبول المشروط رسمياً من عمادة القبول بالجامعة', 'admin', date('Y-m-d H:i:s', strtotime('-1 days'))]);
+        }
+        $seededStudents[$student1Ref] = 'Zaid Al-Hashemi (conditional_offer)';
         
-        // Logs for Student 2
-        $logS2 = $pdo->prepare("INSERT INTO `status_logs` (`student_id`, `old_status`, `new_status`, `comment`, `changed_by`, `created_at`) VALUES (?, ?, ?, ?, ?, ?)");
-        $logS2->execute([$s2Id, null, 'submitted', 'تم تسجيل الطالب ورفع المستندات', 'agent', date('Y-m-d H:i:s', strtotime('-2 days'))]);
-        $logS2->execute([$s2Id, 'submitted', 'under_review', 'بدء فحص معادلة المواد والسجل الأكاديمي', 'admin', date('Y-m-d H:i:s', strtotime('-1 days'))]);
+        $student2Ref = 'STU-202611-1002';
+        $chkStudent2 = $pdo->prepare("SELECT `id` FROM `students` WHERE `reference_code` = ? LIMIT 1");
+        $chkStudent2->execute([$student2Ref]);
+        $s2Id = $chkStudent2->fetchColumn();
+        
+        if (!$s2Id) {
+            $insS2 = $pdo->prepare("
+                INSERT INTO `students` 
+                (`agent_id`, `reference_code`, `full_name`, `full_name_ar`, `gender`, `birth_date`, `nationality`, `passport_number`, `email`, `phone`, `whatsapp`, `destination_country`, `target_university`, `target_program`, `degree_level`, `intake_date`, `status`, `agent_notes`, `admin_feedback`, `created_at`)
+                VALUES 
+                (?, ?, 'Maryam Huda Al-Nuaimi', 'مريم هدى النعيمي', 'female', '2001-09-22', 'Jordan', 'A5519283', 'maryam.nuaimi@yahoo.com', '+962791234567', '+962791234567', 'بريطانيا', 'University of Manchester', 'ماجستير إدارة الأعمال الدولية (MSc International Business)', 'Master', 'سبتمبر 2026', 'under_review', 'خريجة الجامعة الأردنية بتقدير جيد جداً وتوصيات أكاديمية قوية.', 'الملف قيد التدقيق لدى مكتب القبول الأكاديمي الدولي في الجامعة.', NOW())
+            ");
+            $insS2->execute([$agentId, $student2Ref]);
+            $s2Id = (int)$pdo->lastInsertId();
+            
+            // Logs for Student 2
+            $logS2 = $pdo->prepare("INSERT INTO `status_logs` (`student_id`, `old_status`, `new_status`, `comment`, `changed_by`, `created_at`) VALUES (?, ?, ?, ?, ?, ?)");
+            $logS2->execute([$s2Id, null, 'submitted', 'تم تسجيل الطالب ورفع المستندات', 'agent', date('Y-m-d H:i:s', strtotime('-2 days'))]);
+            $logS2->execute([$s2Id, 'submitted', 'under_review', 'بدء فحص معادلة المواد والسجل الأكاديمي', 'admin', date('Y-m-d H:i:s', strtotime('-1 days'))]);
+        }
+        $seededStudents[$student2Ref] = 'Maryam Huda (under_review)';
     }
     
     sendResponse(true, [
@@ -146,11 +185,8 @@ try {
             'password' => '[ENCRYPTED_BCRYPT_HASH]',
             'status' => 'active'
         ],
-        'default_students' => [
-            $student1Ref => 'Zaid Al-Hashemi (conditional_offer)',
-            $student2Ref => 'Maryam Huda (under_review)'
-        ]
-    ], 'تمت تهيئة قاعدة البيانات بالكامل وتشفير وإنشاء حسابات الأدمن والوكيل والطلاب التجريبيين بنجاح 100%!');
+        'seeded_students' => $seededStudents
+    ], 'تمت تهيئة وتأكيد قاعدة البيانات بنجاح تام!');
     
 } catch (Exception $e) {
     error_log("Installer Error: " . $e->getMessage());
