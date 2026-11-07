@@ -33,7 +33,7 @@ class I18nManager {
     localStorage.setItem('studyco_lang', sanitizedLang);
 
     try {
-      const response = await fetch(`./locales/${sanitizedLang}.json?v=20261105_v4`);
+      const response = await fetch(`./locales/${sanitizedLang}.json?v=20261107_v1`);
       if (!response.ok) {
         throw new Error(`Failed to load translations: ${sanitizedLang}`);
       }

@@ -3,18 +3,18 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<script src="assets/js/lang-init.js?v=20261105_v4"></script>
+<script src="assets/js/lang-init.js?v=20261107_v1"></script>
 <title data-i18n="admin_portal_title">لوحة تحكم إدارة StudyCo المركزية — Super Admin</title>
 <meta content="لوحة الإدارة المركزية الرسمية لمنصة StudyCo Education Services: إدارة واعتماد الوكلاء، معالجة ملفات الطلاب، وإصدار القرارات الأكاديمية والتأشيرات." name="description"/>
 <meta content="website" property="og:type"/>
 <link href="assets/photo/favicon.png" rel="icon" type="image/png"/>
 <meta name="robots" content="noindex, nofollow"/>
 <!-- Local Web Fonts -->
-<link href="assets/css/fonts.css?v=20261105_v4" rel="stylesheet"/>
+<link href="assets/css/fonts.css?v=20261107_v1" rel="stylesheet"/>
 <!-- Main Stylesheet -->
-<link href="assets/css/main.css?v=20261105_v4" rel="stylesheet"/>
+<link href="assets/css/main.css?v=20261107_v1" rel="stylesheet"/>
 <!-- Admin Portal Stylesheet -->
-<link href="assets/css/admin-portal.css?v=20261105_v4" rel="stylesheet"/>
+<link href="assets/css/admin-portal.css?v=20261107_v1" rel="stylesheet"/>
 <style id="standalone-portal-critical-css">
 /* ==============================================================================
    Unified Light Brand Portal Theme (100% Matching index.html Identity)
@@ -514,7 +514,7 @@ input[type="text"]::-ms-clear {
   <!-- Officer Welcome & Action Bar -->
   <div style="background:#ffffff; border-radius:var(--portal-radius); padding:1.2rem 1.6rem; border:1px solid var(--portal-border); box-shadow:var(--portal-shadow); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-bottom:1.5rem;">
    <div>
-    <div style="font-size:0.82rem; color:#64748b;">جلسة المسؤول المفوض:</div>
+    <div style="font-size:0.82rem; color:#64748b;" data-i18n="admin_welcome_officer">جلسة المسؤول المفوض:</div>
     <div style="font-size:1.25rem; font-weight:800; color:var(--portal-navy); display:flex; align-items:center; gap:8px;">
      <span id="admin-officer-name">إدارة StudyCo المركزية</span>
      <span class="admin-badge">
@@ -538,10 +538,10 @@ input[type="text"]::-ms-clear {
    <div style="display:flex; align-items:center; gap:0.75rem;">
     <a href="agent-portal.html" target="_blank" class="btn-portal-secondary" style="padding:0.5rem 1rem; font-size:0.82rem; text-decoration:none; display:inline-flex; align-items:center; gap:6px;">
      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-     معاينة واجهة الوكلاء
+     <span data-i18n="admin_btn_view_agent_portal">معاينة واجهة الوكلاء</span>
     </a>
     <button class="btn-portal-secondary" id="btn-admin-logout" type="button" style="padding:0.5rem 1rem; font-size:0.82rem; color:#b91c1c; border-color:#fecaca;">
-     تسجيل الخروج
+     <span data-i18n="admin_btn_logout">تسجيل الخروج</span>
     </button>
    </div>
   </div>
@@ -591,23 +591,23 @@ input[type="text"]::-ms-clear {
    <div class="portal-filter-bar">
     <div class="portal-search-box">
      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-     <input class="portal-form-input" id="admin-search-students" placeholder="بحث باسم الطالب، الرقم المرجعي، الجواز، الجامعة، الوكيل..." type="text"/>
+     <input class="portal-form-input" id="admin-search-students" placeholder="بحث باسم الطالب، الرقم المرجعي، الجواز، الجامعة، الوكيل..." data-i18n-placeholder="admin_search_students_ph" type="text"/>
     </div>
     
     <select class="portal-form-select" id="admin-filter-student-status" style="width:auto; min-width:180px;">
-     <option value="all">جميع الحالات</option>
-     <option value="submitted">تم الإرسال (Submitted)</option>
-     <option value="under_review">قيد التدقيق (Under Review)</option>
-     <option value="conditional_offer">قبول مشروط (Conditional)</option>
-     <option value="unconditional_offer">قبول نهائي (Full Offer)</option>
-     <option value="awaiting_payment">سداد الرسوم (Payment)</option>
-     <option value="visa_processing">معالجة التأشيرة (Visa)</option>
-     <option value="enrolled">ملتحق بالجامعة (Enrolled)</option>
-     <option value="rejected">مرفوض (Rejected)</option>
+     <option value="all" data-i18n="filter_all_statuses">جميع الحالات</option>
+     <option value="submitted" data-i18n="status_submitted">تم الإرسال (Submitted)</option>
+     <option value="under_review" data-i18n="status_under_review">قيد التدقيق (Under Review)</option>
+     <option value="conditional_offer" data-i18n="status_conditional_offer">قبول مشروط (Conditional)</option>
+     <option value="unconditional_offer" data-i18n="status_unconditional_offer">قبول نهائي (Full Offer)</option>
+     <option value="awaiting_payment" data-i18n="status_awaiting_payment">سداد الرسوم (Payment)</option>
+     <option value="visa_processing" data-i18n="status_visa_processing">معالجة التأشيرة (Visa)</option>
+     <option value="enrolled" data-i18n="status_enrolled">ملتحق بالجامعة (Enrolled)</option>
+     <option value="rejected" data-i18n="status_rejected">مرفوض (Rejected)</option>
     </select>
 
     <select class="portal-form-select" id="admin-filter-student-agent" style="width:auto; min-width:180px;">
-     <option value="all">كافة الوكلاء</option>
+     <option value="all" data-i18n="filter_all_agents">كافة الوكلاء</option>
      <!-- Dynamically filled with agent options -->
     </select>
    </div>
@@ -635,7 +635,7 @@ input[type="text"]::-ms-clear {
 
    <div id="admin-students-empty" style="display:none; text-align:center; padding:3rem 1rem; color:#94a3b8;">
     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin-bottom:0.75rem;"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle></svg>
-    <div style="font-weight:700; font-size:1rem; color:#475569;">لا توجد طلبات طلاب مطابقة لهذا البحث أو الفلتر</div>
+    <div style="font-weight:700; font-size:1rem; color:#475569;" data-i18n="admin_empty_students">لا توجد طلبات طلاب مطابقة لهذا البحث أو الفلتر</div>
    </div>
   </div>
 
@@ -647,18 +647,18 @@ input[type="text"]::-ms-clear {
    <div class="portal-filter-bar">
     <div class="portal-search-box">
      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-     <input class="portal-form-input" id="admin-search-agents" placeholder="بحث باسم الوكالة، الشخص المسؤول، البريد، الواتساب، الدولة..." type="text"/>
+     <input class="portal-form-input" id="admin-search-agents" placeholder="بحث باسم الوكالة، الشخص المسؤول، البريد، الواتساب، الدولة..." data-i18n-placeholder="admin_search_agents_ph" type="text"/>
     </div>
     
     <button class="btn-portal-primary" id="btn-admin-open-create-agent" type="button" style="width:auto; padding:0.55rem 1.15rem; font-size:0.85rem; display:inline-flex; align-items:center; gap:6px; white-space:nowrap;">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
-      + إضافة وإنشاء حساب وكيل معتمد مباشرة
+      <span data-i18n="admin_btn_create_agent">+ إضافة وإنشاء حساب وكيل معتمد مباشرة</span>
      </button>
      <select class="portal-form-select" id="admin-filter-agent-status" style="width:auto; min-width:180px;">
-     <option value="all">جميع حالات الوكلاء</option>
-     <option value="pending">بانتظار الاعتماد (Pending)</option>
-     <option value="active">وكيل معتمد نشط (Active)</option>
-     <option value="suspended">موقوف مؤقتاً (Suspended)</option>
+     <option value="all" data-i18n="filter_all_agent_statuses">جميع حالات الوكلاء</option>
+     <option value="pending" data-i18n="agent_status_pending">بانتظار الاعتماد (Pending)</option>
+     <option value="active" data-i18n="agent_status_active">وكيل معتمد نشط (Active)</option>
+     <option value="suspended" data-i18n="agent_status_suspended">موقوف مؤقتاً (Suspended)</option>
      <option value="rejected">مرفوض (Rejected)</option>
     </select>
    </div>
@@ -685,7 +685,7 @@ input[type="text"]::-ms-clear {
 
    <div id="admin-agents-empty" style="display:none; text-align:center; padding:3rem 1rem; color:#94a3b8;">
     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin-bottom:0.75rem;"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
-    <div style="font-weight:700; font-size:1rem; color:#475569;">لا توجد حسابات وكلاء مطابقة للبحث</div>
+    <div style="font-weight:700; font-size:1rem; color:#475569;" data-i18n="admin_empty_agents">لا توجد حسابات وكلاء مطابقة للبحث</div>
    </div>
   </div>
 
@@ -992,7 +992,7 @@ input[type="text"]::-ms-clear {
  <div class="portal-modal-dialog" style="max-width:650px;">
   <div class="portal-modal-header">
    <div>
-    <h3 class="portal-modal-title">إضافة وإنشاء حساب وكيل معتمد مباشرة</h3>
+    <h3 class="portal-modal-title" data-i18n="admin_modal_create_agent_title">إضافة وإنشاء حساب وكيل معتمد مباشرة</h3>
     <div style="font-size:0.8rem; color:#64748b;">إنشاء حساب وكيل مفعل مباشرة مع تعيين اليوزر والباسورد من الإدارة</div>
    </div>
    <button class="portal-modal-close" aria-label="إغلاق">&times;</button>
@@ -1057,7 +1057,7 @@ input[type="text"]::-ms-clear {
     <div style="display:flex; justify-content:flex-end; gap:0.75rem; margin-top:1.25rem; border-top:1px solid #e2e8f0; padding-top:1rem;">
      <button class="btn-portal-secondary btn-modal-cancel" type="button" data-i18n="portal_btn_close">إلغاء</button>
      <button class="btn-portal-primary" id="btn-ca-submit" type="submit" style="width:auto; padding:0.55rem 1.4rem;">
-      تأكيد إنشاء وتفعيل حساب الوكيل
+      <span data-i18n="admin_btn_confirm_create_agent">تأكيد إنشاء وتفعيل حساب الوكيل</span>
      </button>
     </div>
    </form>
@@ -1067,12 +1067,12 @@ input[type="text"]::-ms-clear {
 
 <!-- Standalone Admin Scripts -->
 <script type="module">
-  import { i18n } from './assets/js/i18n.js?v=20261105_v4';
+  import { i18n } from './assets/js/i18n.js?v=20261107_v1';
   const lang = i18n.detectLanguage();
   await i18n.loadLanguage(lang);
   window.StudyCo_i18n = i18n;
   window.dispatchEvent(new CustomEvent('studyco:i18n-ready', { detail: { lang } }));
 </script>
-<script src="assets/js/admin-portal.js?v=20261105_v4"></script>
+<script src="assets/js/admin-portal.js?v=20261107_v1"></script>
 </body>
 </html>

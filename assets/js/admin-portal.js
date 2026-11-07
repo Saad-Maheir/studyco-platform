@@ -106,10 +106,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
   };
 
   const AGENT_STATUS_META = {
-    pending: { defaultAr: 'بانتظار الاعتماد', class: 'status-under_review', badgeClass: 'pending-pulse-badge' },
-    active: { defaultAr: 'شريك معتمد نشط', class: 'status-enrolled', badgeClass: '' },
-    suspended: { defaultAr: 'موقوف مؤقتاً', class: 'status-awaiting_payment', badgeClass: '' },
-    rejected: { defaultAr: 'طلب مرفوض', class: 'status-rejected', badgeClass: '' }
+    pending: { key: 'agent_status_pending', defaultAr: 'بانتظار الاعتماد', class: 'status-under_review', badgeClass: 'pending-pulse-badge' },
+    active: { key: 'agent_status_active', defaultAr: 'شريك معتمد نشط', class: 'status-enrolled', badgeClass: '' },
+    suspended: { key: 'agent_status_suspended', defaultAr: 'موقوف مؤقتاً', class: 'status-awaiting_payment', badgeClass: '' },
+    rejected: { key: 'agent_status_rejected', defaultAr: 'طلب مرفوض', class: 'status-rejected', badgeClass: '' }
   };
 
   const DOC_TYPE_LABELS = {
@@ -125,6 +125,12 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
 
   function getStatusLabel(statusKey) {
     const meta = STATUS_META[statusKey];
+    if (!meta) return statusKey;
+    return t(meta.key, meta.defaultAr);
+  }
+
+  function getAgentStatusLabel(statusKey) {
+    const meta = AGENT_STATUS_META[statusKey];
     if (!meta) return statusKey;
     return t(meta.key, meta.defaultAr);
   }
@@ -438,7 +444,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     // 2. Populate Agent Filter Dropdown
     if (elFilterStudentAgent) {
       const currentSelected = elFilterStudentAgent.value;
-      elFilterStudentAgent.innerHTML = '<option value="all">كافة الوكلاء</option>';
+      elFilterStudentAgent.innerHTML = `<option value="all">${t('filter_all_agents', 'كافة الوكلاء')}</option>`;
       state.agents.forEach(agent => {
         const opt = document.createElement('option');
         opt.value = agent.id;
@@ -525,7 +531,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </td>
         <td>
           <button class="btn-portal-primary btn-admin-manage-student" data-id="${student.id}" style="width:auto; padding:0.4rem 0.85rem; font-size:0.8rem;">
-            إدارة ومراجعة الملف
+            ${t('admin_btn_manage_student', 'إدارة ومراجعة الملف')}
           </button>
         </td>
       `;
@@ -578,7 +584,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       tr.innerHTML = `
         <td>
           <div style="font-weight:800; color:var(--portal-navy); font-size:0.9rem;">${escapeHtml(agent.agency_name)}</div>
-          <div style="font-size:0.75rem; color:#64748b;">مسجل منذ: ${(agent.created_at || '').substring(0, 10)}</div>
+          <div style="font-size:0.75rem; color:#64748b;">${t('admin_lbl_registered_since', 'مسجل منذ:')} ${(agent.created_at || '').substring(0, 10)}</div>
         </td>
         <td>
           <div style="font-weight:600; color:#0f172a;">${escapeHtml(agent.contact_name)}</div>
@@ -594,8 +600,8 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           ` : ''}
         </td>
         <td style="font-size:0.8rem; color:#475569;">
-          <div>خبرة: ${escapeHtml(agent.experience_years || 'غير محدد')}</div>
-          <div>تقدير سنوي: ${escapeHtml(agent.annual_students_est || 'غير محدد')}</div>
+          <div>${t('admin_lbl_exp', 'خبرة:')} ${escapeHtml(agent.experience_years || '---')}</div>
+          <div>${t('admin_lbl_est_volume', 'تقدير سنوي:')} ${escapeHtml(agent.annual_students_est || '---')}</div>
         </td>
         <td>
           <span style="font-weight:800; font-size:0.9rem; color:var(--portal-navy); background:#f8fafc; padding:2px 10px; border-radius:6px; border:1px solid #e2e8f0;">
@@ -604,28 +610,28 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </td>
         <td>
           <span class="status-pill ${statusMeta.class}">
-            ${statusMeta.defaultAr}
+            ${getAgentStatusLabel(agent.status)}
           </span>
         </td>
         <td>
           <div style="display:flex; gap:4px; flex-wrap:wrap;">
             ${agent.status !== 'active' ? `
-              <button class="btn-action-approve btn-agent-quick-status" data-id="${agent.id}" data-action="active" title="اعتماد وتفعيل">
-                تفعيل
+              <button class="btn-action-approve btn-agent-quick-status" data-id="${agent.id}" data-action="active" title="${t('admin_btn_activate', 'تفعيل')}">
+                ${t('admin_btn_activate', 'تفعيل')}
               </button>
             ` : ''}
             ${agent.status !== 'suspended' ? `
-              <button class="btn-action-suspend btn-agent-quick-status" data-id="${agent.id}" data-action="suspended" title="إيقاف مؤقت">
-                ⏸ إيقاف
+              <button class="btn-action-suspend btn-agent-quick-status" data-id="${agent.id}" data-action="suspended" title="${t('admin_btn_suspend_short', 'إيقاف')}">
+                ⏸ ${t('admin_btn_suspend_short', 'إيقاف')}
               </button>
             ` : ''}
             ${agent.status !== 'rejected' ? `
-              <button class="btn-action-reject btn-agent-quick-status" data-id="${agent.id}" data-action="rejected" title="رفض">
-                رفض
+              <button class="btn-action-reject btn-agent-quick-status" data-id="${agent.id}" data-action="rejected" title="${t('admin_btn_reject_short', 'رفض')}">
+                ${t('admin_btn_reject_short', 'رفض')}
               </button>
             ` : ''}
             <button class="btn-portal-secondary btn-agent-open-modal" data-id="${agent.id}" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              تفاصيل وملاحظات
+              ${t('admin_btn_agent_details', 'تفاصيل وملاحظات')}
             </button>
           </div>
         </td>
