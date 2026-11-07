@@ -57,6 +57,31 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + ' ' + sizes[i];
   }
 
+  // Safe Preview Helper to prevent Chrome blocking data URLs in target="_blank"
+  function openPreviewSafe(urlOrDataUrl, mimeType = 'application/pdf') {
+    if (!urlOrDataUrl) return;
+    if (urlOrDataUrl.startsWith('data:')) {
+      try {
+        const parts = urlOrDataUrl.split(',');
+        const byteString = atob(parts[1]);
+        const mime = parts[0].split(':')[1].split(';')[0] || mimeType;
+        const ab = new ArrayBuffer(byteString.length);
+        const ia = new Uint8Array(ab);
+        for (let i = 0; i < byteString.length; i++) {
+          ia[i] = byteString.charCodeAt(i);
+        }
+        const blob = new Blob([ab], { type: mime });
+        const blobUrl = URL.createObjectURL(blob);
+        window.open(blobUrl, '_blank');
+      } catch (err) {
+        console.error('Failed to convert data URL to Blob preview:', err);
+        window.open(urlOrDataUrl, '_blank');
+      }
+    } else {
+      window.open(urlOrDataUrl, '_blank');
+    }
+  }
+
   function escapeHtml(str) {
     if (!str) return '';
     return String(str)
@@ -763,7 +788,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     renderAdminStudentDocuments(documents, student);
     renderAdminStudentTimeline(timeline);
 
-    if (elModalStudent) elModalStudent.classList.add('open');
+    if (elModalStudent) {
+      elModalStudent.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
   }
 
   function renderAdminStudentDocuments(documents, student) {
@@ -798,9 +826,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           </div>
           
           <div style="display:flex; align-items:center; gap:0.4rem; flex-shrink:0;">
-            <a href="${prevUrl}" target="_blank" class="btn-portal-secondary" style="padding:0.35rem 0.65rem; font-size:0.78rem; text-decoration:none;">
+            <button type="button" class="btn-portal-secondary btn-adm-preview-doc" data-url="${escapeHtml(prevUrl)}" style="padding:0.35rem 0.65rem; font-size:0.78rem; cursor:pointer;">
               معاينة
-            </a>
+            </button>
             <a href="${downUrl}" download="${escapeHtml(doc.original_name)}" class="btn-portal-secondary" style="padding:0.35rem 0.65rem; font-size:0.78rem; text-decoration:none;">
               تحميل
             </a>
@@ -811,6 +839,15 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </div>
       `;
     }).join('');
+
+    // Attach Admin Preview Listener
+    elList.querySelectorAll('.btn-adm-preview-doc').forEach(btn => {
+      btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        const url = this.getAttribute('data-url');
+        openPreviewSafe(url);
+      });
+    });
 
     // Attach Admin Delete Listener
     elList.querySelectorAll('.btn-adm-delete-doc').forEach(btn => {
@@ -1066,8 +1103,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     if (hasProfile && profileUrl) {
       if (btnViewProf) {
         btnViewProf.style.display = 'inline-block';
-        btnViewProf.href = profileUrl;
-        btnViewProf.target = '_blank';
+        btnViewProf.onclick = function (e) {
+          e.preventDefault();
+          openPreviewSafe(profileUrl);
+        };
       }
       if (btnDownProf) {
         btnDownProf.style.display = 'inline-block';
@@ -1093,8 +1132,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     if (hasDocs && docsUrl) {
       if (btnViewDocs) {
         btnViewDocs.style.display = 'inline-block';
-        btnViewDocs.href = docsUrl;
-        btnViewDocs.target = '_blank';
+        btnViewDocs.onclick = function (e) {
+          e.preventDefault();
+          openPreviewSafe(docsUrl);
+        };
       }
       if (btnDownDocs) {
         btnDownDocs.style.display = 'inline-block';
@@ -1121,7 +1162,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
 
     document.getElementById('adm-agent-notes-input').value = agent.admin_notes || '';
 
-    if (elModalAgent) elModalAgent.classList.add('open');
+    if (elModalAgent) {
+      elModalAgent.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
   }
 
   // Decision Buttons in Agent Modal
@@ -1361,10 +1405,28 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     btn.addEventListener('click', closeModals);
   });
 
+  // Close modal when clicking backdrop
+  document.querySelectorAll('.portal-modal-backdrop').forEach(modal => {
+    modal.addEventListener('click', function(e) {
+      if (e.target === this) closeModals();
+    });
+  });
+
+  // Wire direct create-agent modal open
+  const btnOpenCreateAdm = document.getElementById('btn-admin-open-create-agent');
+  const modalCreateAdm = document.getElementById('modal-admin-create-agent');
+  if (btnOpenCreateAdm && modalCreateAdm) {
+    btnOpenCreateAdm.addEventListener('click', () => {
+      modalCreateAdm.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    });
+  }
+
   function closeModals() {
     document.querySelectorAll('.portal-modal-backdrop').forEach(modal => {
       modal.classList.remove('open');
     });
+    document.body.style.overflow = '';
   }
 
   function showAuthAlert(msg, type = 'info') {

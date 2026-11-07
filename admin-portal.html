@@ -855,36 +855,48 @@ input[type="text"]::-ms-clear {
    </div>
 
    <!-- Company Uploaded Docs Section -->
-   <div style="margin-bottom:1.25rem;">
-    <div style="font-weight:700; font-size:0.88rem; color:var(--portal-navy); margin-bottom:0.6rem;">وثائق وملفات الشركة المرفوعة:</div>
-    <div style="display:grid; grid-template-columns:1fr 1fr; gap:0.75rem;">
-      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:0.85rem; display:flex; flex-direction:column; justify-content:space-between; gap:0.5rem;">
-        <div>
-          <div style="font-weight:700; font-size:0.82rem; color:var(--portal-navy);">بروفايل الشركة (Company Profile)</div>
-          <div id="det-agent-profile-name" style="font-size:0.75rem; color:#64748b; text-overflow:ellipsis; overflow:hidden; white-space:nowrap;">---</div>
-        </div>
-        <div style="display:flex; gap:0.4rem; align-items:center;">
-          <a id="btn-view-agent-profile" href="#" target="_blank" class="btn-portal-secondary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">معاينة ↗</a>
-          <a id="btn-download-agent-profile" href="#" download class="btn-portal-primary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">تحميل ↓</a>
-          <span id="no-agent-profile-label" style="font-size:0.75rem; color:#94a3b8;">غير مرفوع</span>
-        </div>
-      </div>
+    <div style="margin-bottom:1.25rem;">
+     <div style="font-weight:700; font-size:0.88rem; color:var(--portal-navy); margin-bottom:0.6rem;">وثائق وملفات الشركة المرفوعة:</div>
+     <div style="width:100%; display:flex; flex-direction:column; gap:0.85rem;">
+       <!-- Card 1: Company Profile -->
+       <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:0.95rem 1.15rem; display:flex; justify-content:space-between; align-items:center; gap:1rem; flex-wrap:wrap;">
+         <div style="display:flex; align-items:center; gap:10px; flex:1; min-width:220px;">
+           <div style="background:#eff6ff; color:#1d4ed8; padding:8px; border-radius:8px; flex-shrink:0;">
+             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+           </div>
+           <div>
+             <div style="font-weight:700; font-size:0.85rem; color:var(--portal-navy);">بروفايل الشركة (Company Profile)</div>
+             <div id="det-agent-profile-name" style="font-size:0.78rem; color:#64748b; word-break:break-all;">---</div>
+           </div>
+         </div>
+         <div style="display:flex; gap:0.5rem; align-items:center; flex-shrink:0;">
+           <button id="btn-view-agent-profile" type="button" class="btn-portal-secondary" style="font-size:0.78rem; padding:0.4rem 0.85rem; display:none; cursor:pointer;">معاينة ↗</button>
+           <a id="btn-download-agent-profile" href="#" download class="btn-portal-primary" style="font-size:0.78rem; padding:0.4rem 0.85rem; text-decoration:none; display:none;">تحميل ↓</a>
+           <span id="no-agent-profile-label" style="font-size:0.78rem; color:#94a3b8; background:#f1f5f9; padding:0.25rem 0.65rem; border-radius:6px;">غير مرفوع</span>
+         </div>
+       </div>
 
-      <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:0.85rem; display:flex; flex-direction:column; justify-content:space-between; gap:0.5rem;">
-        <div>
-          <div style="font-weight:700; font-size:0.82rem; color:var(--portal-navy);">أوراق وترخيص الشركة / السجل التجاري</div>
-          <div id="det-agent-docs-name" style="font-size:0.75rem; color:#64748b; text-overflow:ellipsis; overflow:hidden; white-space:nowrap;">---</div>
-        </div>
-        <div style="display:flex; gap:0.4rem; align-items:center;">
-          <a id="btn-view-agent-docs" href="#" target="_blank" class="btn-portal-secondary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">معاينة ↗</a>
-          <a id="btn-download-agent-docs" href="#" download class="btn-portal-primary" style="font-size:0.75rem; padding:0.3rem 0.6rem; text-decoration:none; display:none;">تحميل ↓</a>
-          <span id="no-agent-docs-label" style="font-size:0.75rem; color:#94a3b8;">غير مرفوع</span>
-        </div>
-      </div>
+       <!-- Card 2: Company Papers & Commercial Registration -->
+       <div style="background:#ffffff; border:1px solid #e2e8f0; border-radius:10px; padding:0.95rem 1.15rem; display:flex; justify-content:space-between; align-items:center; gap:1rem; flex-wrap:wrap;">
+         <div style="display:flex; align-items:center; gap:10px; flex:1; min-width:220px;">
+           <div style="background:#fef3c7; color:#b45309; padding:8px; border-radius:8px; flex-shrink:0;">
+             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+           </div>
+           <div>
+             <div style="font-weight:700; font-size:0.85rem; color:var(--portal-navy);">أوراق وترخيص الشركة / السجل التجاري</div>
+             <div id="det-agent-docs-name" style="font-size:0.78rem; color:#64748b; word-break:break-all;">---</div>
+           </div>
+         </div>
+         <div style="display:flex; gap:0.5rem; align-items:center; flex-shrink:0;">
+           <button id="btn-view-agent-docs" type="button" class="btn-portal-secondary" style="font-size:0.78rem; padding:0.4rem 0.85rem; display:none; cursor:pointer;">معاينة ↗</button>
+           <a id="btn-download-agent-docs" href="#" download class="btn-portal-primary" style="font-size:0.78rem; padding:0.4rem 0.85rem; text-decoration:none; display:none;">تحميل ↓</a>
+           <span id="no-agent-docs-label" style="font-size:0.78rem; color:#94a3b8; background:#f1f5f9; padding:0.25rem 0.65rem; border-radius:6px;">غير مرفوع</span>
+         </div>
+       </div>
+     </div>
     </div>
-   </div>
 
-   <!-- Section: Issue & Assign Username & Password upon Approval -->
+    <!-- Section: Issue & Assign Username & Password upon Approval -->
    <div style="background:#fffbeb; border:1.5px solid var(--portal-gold); border-radius:12px; padding:1.1rem; margin-bottom:1.25rem;">
      <div style="font-weight:800; font-size:0.92rem; color:var(--portal-navy); margin-bottom:0.4rem; display:flex; align-items:center; gap:6px;">
        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>

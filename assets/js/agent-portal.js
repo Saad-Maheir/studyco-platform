@@ -653,7 +653,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     }
 
     // Open Modal Dialog
-    if (elDetailsModal) elDetailsModal.classList.add('open');
+    if (elDetailsModal) {
+      elDetailsModal.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
   }
 
   function renderAttachedDocuments(documents, student) {
@@ -693,10 +696,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           </div>
           
           <div style="display:flex; align-items:center; gap:0.4rem; flex-shrink:0;">
-            <a href="${prevUrl}" target="_blank" class="btn-portal-secondary" style="padding:0.35rem 0.65rem; font-size:0.78rem; text-decoration:none; display:inline-flex; align-items:center; gap:4px;">
+            <button type="button" class="btn-portal-secondary btn-agent-preview-doc" data-url="${escapeHtml(prevUrl)}" style="padding:0.35rem 0.65rem; font-size:0.78rem; text-decoration:none; display:inline-flex; align-items:center; gap:4px; cursor:pointer;">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
               ${previewLabel}
-            </a>
+            </button>
             <a href="${downUrl}" download="${escapeHtml(doc.original_name)}" class="btn-portal-secondary" style="padding:0.35rem 0.65rem; font-size:0.78rem; text-decoration:none; display:inline-flex; align-items:center; gap:4px;">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
               ${downloadLabel}
@@ -710,6 +713,15 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </div>
       `;
     }).join('');
+
+    // Attach Preview Action Listeners
+    elModalDocsList.querySelectorAll(".btn-agent-preview-doc").forEach(btn => {
+      btn.addEventListener("click", function(e) {
+        e.preventDefault();
+        const url = this.getAttribute("data-url");
+        openPreviewSafe(url);
+      });
+    });
 
     // Attach Delete Action Listeners
     elModalDocsList.querySelectorAll('.btn-delete-single-doc').forEach(btn => {
@@ -1231,7 +1243,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
   // Modal Open & Close Triggers
   if (elBtnOpenAddModal) {
     elBtnOpenAddModal.addEventListener('click', () => {
-      if (elAddModal) elAddModal.classList.add('open');
+      if (elAddModal) {
+      elAddModal.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
     });
   }
 
@@ -1239,10 +1254,18 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     btn.addEventListener('click', closeModals);
   });
 
+  // Close modal when clicking backdrop
+  document.querySelectorAll('.portal-modal-backdrop').forEach(modal => {
+    modal.addEventListener('click', function(e) {
+      if (e.target === this) closeModals();
+    });
+  });
+
   function closeModals() {
     document.querySelectorAll('.portal-modal-backdrop').forEach(modal => {
       modal.classList.remove('open');
     });
+    document.body.style.overflow = '';
   }
 
   // Auth Tab Switching
@@ -1280,6 +1303,31 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       elAuthAlert.style.background = '#fef3c7';
       elAuthAlert.style.color = '#b45309';
       elAuthAlert.style.border = '1px solid #fde68a';
+    }
+  }
+
+  // Safe Preview Helper to prevent Chrome blocking data URLs in target="_blank"
+  function openPreviewSafe(urlOrDataUrl, mimeType = 'application/pdf') {
+    if (!urlOrDataUrl) return;
+    if (urlOrDataUrl.startsWith('data:')) {
+      try {
+        const parts = urlOrDataUrl.split(',');
+        const byteString = atob(parts[1]);
+        const mime = parts[0].split(':')[1].split(';')[0] || mimeType;
+        const ab = new ArrayBuffer(byteString.length);
+        const ia = new Uint8Array(ab);
+        for (let i = 0; i < byteString.length; i++) {
+          ia[i] = byteString.charCodeAt(i);
+        }
+        const blob = new Blob([ab], { type: mime });
+        const blobUrl = URL.createObjectURL(blob);
+        window.open(blobUrl, '_blank');
+      } catch (err) {
+        console.error('Failed to convert data URL to Blob preview:', err);
+        window.open(urlOrDataUrl, '_blank');
+      }
+    } else {
+      window.open(urlOrDataUrl, '_blank');
     }
   }
 
