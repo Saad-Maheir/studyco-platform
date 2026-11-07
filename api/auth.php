@@ -39,7 +39,21 @@ try {
             $stmt->execute([$loginId, $loginId]);
             $agent = $stmt->fetch();
 
-            if (!$agent || empty($agent['password_hash']) || !password_verify($password, $agent['password_hash'])) {
+            $isPasswordValid = false;
+            if ($agent && !empty($agent['password_hash'])) {
+                if (password_verify($password, $agent['password_hash'])) {
+                    $isPasswordValid = true;
+                } elseif ($agent['password_hash'] === $password || $agent['password_hash'] === hash('sha256', $password)) {
+                    // Manual phpMyAdmin input detected - accept and auto-upgrade to strong BCRYPT
+                    $isPasswordValid = true;
+                    try {
+                        $upd = $pdo->prepare("UPDATE `agents` SET `password_hash` = ?, `updated_at` = NOW() WHERE `id` = ?");
+                        $upd->execute([password_hash($password, PASSWORD_BCRYPT), $agent['id']]);
+                    } catch (Exception $e) {}
+                }
+            }
+
+            if (!$agent || !$isPasswordValid) {
                 recordFailedAttempt('agent_login', 15);
                 sendResponse(false, null, 'بيانات الدخول أو كلمة المرور غير صحيحة', 401);
             }

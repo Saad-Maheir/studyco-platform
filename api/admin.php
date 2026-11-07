@@ -38,7 +38,21 @@ try {
             $stmt->execute([$email]);
             $admin = $stmt->fetch();
 
-            if (!$admin || !password_verify($password, $admin['password_hash'])) {
+            $isPasswordValid = false;
+            if ($admin && !empty($admin['password_hash'])) {
+                if (password_verify($password, $admin['password_hash'])) {
+                    $isPasswordValid = true;
+                } elseif ($admin['password_hash'] === $password || $admin['password_hash'] === hash('sha256', $password)) {
+                    // Manual phpMyAdmin input detected - accept and auto-upgrade to strong BCRYPT
+                    $isPasswordValid = true;
+                    try {
+                        $upd = $pdo->prepare("UPDATE `admins` SET `password_hash` = ?, `updated_at` = NOW() WHERE `id` = ?");
+                        $upd->execute([password_hash($password, PASSWORD_BCRYPT), $admin['id']]);
+                    } catch (Exception $e) {}
+                }
+            }
+
+            if (!$admin || !$isPasswordValid) {
                 recordFailedAttempt('admin_login', 15);
                 sendResponse(false, null, 'بيانات الدخول غير صحيحة', 401);
             }
