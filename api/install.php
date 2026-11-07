@@ -20,8 +20,17 @@ try {
     $action = isset($_GET['action']) ? trim($_GET['action']) : 'install';
     
     // ==========================================
-    // ACTION: CLEAN / PURGE DEMO DATA
+    // ACTION: GET CURRENT ACCOUNTS (ADMINS & AGENTS)
     // ==========================================
+    if ($action === 'get_accounts') {
+        $admins = $pdo->query("SELECT `id`, `full_name`, `email`, `password_hash`, `role` FROM `admins`")->fetchAll(PDO::FETCH_ASSOC);
+        $agents = $pdo->query("SELECT `id`, `agency_name`, `contact_name`, `username`, `email`, `password_hash`, `status` FROM `agents`")->fetchAll(PDO::FETCH_ASSOC);
+        
+        sendResponse(true, [
+            'admins' => $admins,
+            'agents' => $agents
+        ], 'تم استرجاع الحسابات المسجلة حالياً في قاعدة البيانات بنجاح.');
+    }
     if ($action === 'clean' || $action === 'purge') {
         $pdo->exec("SET FOREIGN_KEY_CHECKS = 0;");
         $pdo->exec("TRUNCATE TABLE `student_documents`;");
