@@ -195,7 +195,7 @@ export class OnlineDegreesDirectory {
     try {
       let progData = null;
       try {
-        const progRes = await fetch('./data/online-programs.json?v=' + Date.now());
+        const progRes = await fetch('./data/online-programs.json?v=' + Date.now(), { cache: 'no-cache' });
         if (progRes.ok) {
           progData = await progRes.json();
         }
@@ -204,12 +204,12 @@ export class OnlineDegreesDirectory {
       }
 
       if (!progData) {
-        const progRes = await fetch('./data/programs.json?v=' + Date.now());
+        const progRes = await fetch('./data/programs.json?v=20261107', { cache: 'default' });
         progData = await progRes.json();
       }
 
       const [uniRes, exchangeData] = await Promise.all([
-        fetch('./data/universities.json?v=' + Date.now()),
+        fetch('./data/universities.json?v=' + Date.now(), { cache: 'no-cache' }),
         getExchangeRates()
       ]);
       const allPrograms = progData.programs || progData || [];
@@ -223,6 +223,45 @@ export class OnlineDegreesDirectory {
       this.programs = allPrograms.filter((p) => {
         return p.studyMode === 'online' || p.mode === 'online' || p.isOnline === true;
       });
+
+      // Live CMS overrides overlay (Server data/cms-overrides.json + Client localStorage)
+      const applyOnlineOverrides = (ov) => {
+        if (!ov) return;
+        const modified = ov.online_degrees?.modified || ov.online_degrees || {};
+        Object.values(modified).forEach(p => {
+          if (p && p.id) {
+            const idx = this.programs.findIndex(x => x.id === p.id);
+            if (idx >= 0) this.programs[idx] = Object.assign({}, this.programs[idx], p);
+            else this.programs.unshift(p);
+          }
+        });
+        const deleted = ov.deleted_online_degrees || ov.online_degrees?.deleted || [];
+        if (Array.isArray(deleted) && deleted.length > 0) {
+          const delSet = new Set(deleted);
+          this.programs = this.programs.filter(p => !delSet.has(p.id));
+        }
+      };
+
+      try {
+        const ovRes = await fetch('./data/cms-overrides.json?v=' + Date.now(), { cache: 'no-cache' });
+        if (ovRes.ok) applyOnlineOverrides(await ovRes.json());
+      } catch (e) {}
+
+      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      try {
+        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        if (localOv) applyOnlineOverrides(localOv);
+        const localDegrees = JSON.parse(localStorage.getItem('studyco_online_degrees') || 'null');
+        if (Array.isArray(localDegrees) && localDegrees.length > 0) {
+          localDegrees.forEach(p => {
+            if (p && p.id) {
+              const idx = this.programs.findIndex(x => x.id === p.id);
+              if (idx >= 0) this.programs[idx] = Object.assign({}, this.programs[idx], p);
+              else this.programs.unshift(p);
+            }
+          });
+        }
+      } catch (e) {}
 
       this.programs.forEach((p) => {
         p._university = uniById[p.universityId] || null;

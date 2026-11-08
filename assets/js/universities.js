@@ -16,8 +16,47 @@ export class UniversityDirectory {
   async init() {
     try {
       const v = `?v=${Date.now()}`;
-      const uniRes = await fetch(`/data/universities.json${v}`);
-      this.universities = (await uniRes.json()).universities;
+      const uniRes = await fetch(`./data/universities.json${v}`, { cache: 'no-cache' });
+      this.universities = (await uniRes.json()).universities || [];
+
+      // Live CMS overrides overlay (Server data/cms-overrides.json + Client localStorage)
+      const applyUniOverrides = (ov) => {
+        if (!ov) return;
+        const modified = ov.universities?.modified || ov.universities || {};
+        Object.values(modified).forEach(u => {
+          if (u && u.id) {
+            const idx = this.universities.findIndex(x => x.id === u.id);
+            if (idx >= 0) this.universities[idx] = Object.assign({}, this.universities[idx], u);
+            else this.universities.unshift(u);
+          }
+        });
+        const deleted = ov.deleted_universities || ov.universities?.deleted || [];
+        if (Array.isArray(deleted) && deleted.length > 0) {
+          const delSet = new Set(deleted);
+          this.universities = this.universities.filter(u => !delSet.has(u.id));
+        }
+      };
+
+      try {
+        const ovRes = await fetch(`./data/cms-overrides.json${v}`, { cache: 'no-cache' });
+        if (ovRes.ok) applyUniOverrides(await ovRes.json());
+      } catch (e) {}
+
+      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      try {
+        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        if (localOv) applyUniOverrides(localOv);
+        const localUnis = JSON.parse(localStorage.getItem('studyco_cms_universities') || 'null');
+        if (Array.isArray(localUnis) && localUnis.length > 0) {
+          localUnis.forEach(u => {
+            if (u && u.id) {
+              const idx = this.universities.findIndex(x => x.id === u.id);
+              if (idx >= 0) this.universities[idx] = Object.assign({}, this.universities[idx], u);
+              else this.universities.unshift(u);
+            }
+          });
+        }
+      } catch (e) {}
     } catch (err) {
       console.warn('[Universities] Could not load data:', err);
       return;

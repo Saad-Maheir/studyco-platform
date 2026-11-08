@@ -145,4 +145,136 @@ CREATE TABLE IF NOT EXISTS `status_logs` (
   CONSTRAINT `fk_logs_student` FOREIGN KEY (`student_id`) REFERENCES `students` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+-- ==============================================================================
+-- 6. CMS Tables for Dynamic Educational Content Management
+-- ==============================================================================
+
+-- ------------------------------------------------------------------------------
+-- 6.1 Table: cms_universities (إدارة بيانات الجامعات والشراكات)
+-- ------------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `cms_universities` (
+  `id` VARCHAR(100) NOT NULL COMMENT 'معرف الجامعة الفريد مثل taylors أو adelaide',
+  `name` VARCHAR(255) NOT NULL COMMENT 'اسم الجامعة بالإنجليزية',
+  `arabic_name` VARCHAR(255) DEFAULT NULL COMMENT 'اسم الجامعة بالعربية',
+  `country` VARCHAR(100) NOT NULL COMMENT 'دولة الجامعة: ماليزيا، أستراليا...',
+  `city` VARCHAR(100) DEFAULT NULL COMMENT 'المدينة والموقع',
+  `ranking` VARCHAR(255) DEFAULT NULL COMMENT 'تصنيف QS أو الترتيب العالمي',
+  `established` VARCHAR(50) DEFAULT NULL COMMENT 'سنة التأسيس',
+  `campus_name` VARCHAR(255) DEFAULT NULL COMMENT 'اسم الحرم الجامعي',
+  `student_count` VARCHAR(100) DEFAULT NULL COMMENT 'عدد الطلاب وتنوع الجنسيات',
+  `intakes` VARCHAR(255) DEFAULT NULL COMMENT 'مواعيد فصول الالتحاق السنوية',
+  `fee_range_min` DECIMAL(12,2) DEFAULT 0 COMMENT 'الحد الأدنى للرسوم السنوية',
+  `fee_range_max` DECIMAL(12,2) DEFAULT 0 COMMENT 'الحد الأقصى للرسوم السنوية',
+  `currency` VARCHAR(20) DEFAULT 'MYR' COMMENT 'عملة المصاريف الأصلية',
+  `logo` VARCHAR(500) DEFAULT NULL COMMENT 'مسار شعار الجامعة النسبي',
+  `image` VARCHAR(500) DEFAULT NULL COMMENT 'مسار صورة الحرم الجامعي الرئيسية',
+  `website` VARCHAR(500) DEFAULT NULL COMMENT 'الموقع الرسمي للجامعة',
+  `video_url` VARCHAR(500) DEFAULT NULL COMMENT 'رابط جولة الفيديو / يوتيوب',
+  `description` TEXT DEFAULT NULL COMMENT 'نبذة عن الجامعة بالإنجليزية',
+  `description_ar` TEXT DEFAULT NULL COMMENT 'نبذة عن الجامعة بالعربية',
+  `full_json` LONGTEXT DEFAULT NULL COMMENT 'النسخة الكاملة للبيانات بصيغة JSON لكافة التفاصيل',
+  `created_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  INDEX `idx_cms_uni_country` (`country`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- ------------------------------------------------------------------------------
+-- 6.2 Table: cms_programs (إدارة البرامج والتخصصات الدراسية)
+-- ------------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `cms_programs` (
+  `id` VARCHAR(191) NOT NULL COMMENT 'معرف البرنامج الفريد',
+  `university_id` VARCHAR(100) NOT NULL COMMENT 'معرف الجامعة التابع لها البرنامج',
+  `name` VARCHAR(255) NOT NULL COMMENT 'اسم التخصص أو البرنامج بالإنجليزية',
+  `name_ar` VARCHAR(255) DEFAULT NULL COMMENT 'اسم التخصص أو البرنامج بالعربية',
+  `field` VARCHAR(100) DEFAULT NULL COMMENT 'المجال الأكاديمي: cs, business, engineering...',
+  `level` VARCHAR(50) DEFAULT NULL COMMENT 'المرحلة: bachelor, master, phd, diploma, foundation',
+  `duration` VARCHAR(50) DEFAULT NULL COMMENT 'مدة الدراسة بالسنوات',
+  `annual_fee` DECIMAL(12,2) DEFAULT 0 COMMENT 'الرسوم السنوية التقديرية',
+  `currency` VARCHAR(20) DEFAULT 'MYR' COMMENT 'العملة',
+  `ielts` VARCHAR(50) DEFAULT NULL COMMENT 'متطلب اللغة الإنجليزية',
+  `intakes` VARCHAR(255) DEFAULT NULL COMMENT 'فصول بدء الدراسة',
+  `study_mode` VARCHAR(50) DEFAULT 'on-campus' COMMENT 'نمط الدراسة: on-campus أو online',
+  `full_json` LONGTEXT DEFAULT NULL COMMENT 'البيانات التفصيلية بما فيها المساقات والرسوم السنوية',
+  `created_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  INDEX `idx_cms_prog_uni` (`university_id`),
+  INDEX `idx_cms_prog_field` (`field`),
+  INDEX `idx_cms_prog_level` (`level`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- ------------------------------------------------------------------------------
+-- 6.3 Table: cms_online_programs (إدارة برامج الدرجات الجامعية عن بعد)
+-- ------------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `cms_online_programs` (
+  `id` VARCHAR(191) NOT NULL COMMENT 'معرف برنامج الأونلاين',
+  `university_id` VARCHAR(100) NOT NULL COMMENT 'معرف الجامعة المانحة',
+  `name` VARCHAR(255) NOT NULL COMMENT 'اسم البرنامج أونلاين بالإنجليزية',
+  `name_ar` VARCHAR(255) DEFAULT NULL COMMENT 'اسم البرنامج بالعربية',
+  `field` VARCHAR(100) DEFAULT NULL COMMENT 'المجال: cs, business...',
+  `level` VARCHAR(50) DEFAULT NULL COMMENT 'المرحلة: master, bachelor...',
+  `duration` VARCHAR(50) DEFAULT NULL COMMENT 'المدة بالسنوات',
+  `annual_fee` DECIMAL(12,2) DEFAULT 0 COMMENT 'الرسوم السنوية',
+  `currency` VARCHAR(20) DEFAULT 'MYR' COMMENT 'العملة',
+  `ielts` VARCHAR(50) DEFAULT NULL COMMENT 'شرط الآيلتس',
+  `intakes` VARCHAR(255) DEFAULT NULL COMMENT 'فصول الالتحاق',
+  `image` VARCHAR(500) DEFAULT NULL COMMENT 'صورة معبرة عن التخصص',
+  `full_json` LONGTEXT DEFAULT NULL COMMENT 'البيانات التفصيلية للبرنامج بصيغة JSON',
+  `created_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  INDEX `idx_cms_online_uni` (`university_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- ------------------------------------------------------------------------------
+-- 6.4 Table: cms_language_centers (إدارة معاهد ومراكز اللغة الإنجليزية)
+-- ------------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `cms_language_centers` (
+  `id` VARCHAR(100) NOT NULL COMMENT 'معرف معهد اللغة مثل bright-language-center',
+  `name` VARCHAR(255) NOT NULL COMMENT 'اسم المعهد بالإنجليزية',
+  `name_ar` VARCHAR(255) DEFAULT NULL COMMENT 'اسم المعهد بالعربية',
+  `country` VARCHAR(100) NOT NULL DEFAULT 'malaysia' COMMENT 'الدولة',
+  `city` VARCHAR(100) DEFAULT NULL COMMENT 'المدينة بالإنجليزية',
+  `city_ar` VARCHAR(100) DEFAULT NULL COMMENT 'المدينة بالعربية',
+  `image` VARCHAR(500) DEFAULT NULL COMMENT 'مسار صورة المعهد',
+  `min_fee_myr` DECIMAL(12,2) DEFAULT 0 COMMENT 'أقل باقة شهرية',
+  `max_fee_myr` DECIMAL(12,2) DEFAULT 0 COMMENT 'أعلى باقة',
+  `packages_count` INT UNSIGNED DEFAULT 0 COMMENT 'عدد الباقات المتاحة',
+  `packages_json` LONGTEXT DEFAULT NULL COMMENT 'قائمة الباقات الشهرية والتأشيرات والأسعار JSON',
+  `features_json` LONGTEXT DEFAULT NULL COMMENT 'مميزات المعهد JSON',
+  `about` TEXT DEFAULT NULL COMMENT 'نبذة عن المعهد بالإنجليزية',
+  `about_ar` TEXT DEFAULT NULL COMMENT 'نبذة عن المعهد بالعربية',
+  `full_json` LONGTEXT DEFAULT NULL COMMENT 'كافة بيانات المعهد وترجمات اللغات التسع',
+  `created_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  INDEX `idx_cms_lc_country` (`country`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- ------------------------------------------------------------------------------
+-- 6.5 Table: cms_scholarships (إدارة المنح الدراسية والخصومات الأكاديمية)
+-- ------------------------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS `cms_scholarships` (
+  `id` VARCHAR(100) NOT NULL COMMENT 'معرف المنحة الفريد',
+  `university_id` VARCHAR(100) NOT NULL COMMENT 'معرف الجامعة المقدمة للمنحة',
+  `name` VARCHAR(255) NOT NULL COMMENT 'اسم المنحة بالإنجليزية',
+  `name_ar` VARCHAR(255) DEFAULT NULL COMMENT 'اسم المنحة بالعربية',
+  `country` VARCHAR(100) NOT NULL COMMENT 'الدولة',
+  `level` VARCHAR(50) DEFAULT NULL COMMENT 'المرحلة المؤهلة: bachelor, master...',
+  `type` VARCHAR(50) DEFAULT 'full' COMMENT 'نوع المنحة: full أو partial',
+  `coverage` VARCHAR(255) DEFAULT NULL COMMENT 'نسبة التغطية بالإنجليزية',
+  `coverage_ar` VARCHAR(255) DEFAULT NULL COMMENT 'نسبة التغطية بالعربية',
+  `deadline` VARCHAR(255) DEFAULT NULL COMMENT 'الموعد النهائي للتقديم',
+  `deadline_ar` VARCHAR(255) DEFAULT NULL COMMENT 'الموعد النهائي بالعربية',
+  `criteria` TEXT DEFAULT NULL COMMENT 'شروط ومعايير القبول بالإنجليزية',
+  `criteria_ar` TEXT DEFAULT NULL COMMENT 'شروط ومعايير القبول بالعربية',
+  `applicable_fields_json` TEXT DEFAULT NULL COMMENT 'التخصصات المشمولة بالمنحة JSON',
+  `created_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `updated_at` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`),
+  INDEX `idx_cms_sch_uni` (`university_id`),
+  INDEX `idx_cms_sch_country` (`country`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
 SET FOREIGN_KEY_CHECKS = 1;

@@ -19,12 +19,31 @@ export function getCountryCurrency(country) {
 export async function getExchangeRates() {
   if (exchangeRatesCache) return exchangeRatesCache;
   try {
-    const res = await fetch('./data/exchange-rates.json');
-    if (!res.ok) throw new Error('Failed to load exchange-rates.json');
-    exchangeRatesCache = await res.json();
-    return exchangeRatesCache;
+    const res = await fetch('./data/exchange-rates.json?v=' + Date.now(), { cache: 'no-cache' });
+    if (res.ok) {
+      exchangeRatesCache = await res.json();
+    }
   } catch (err) {
     console.warn('[Currency] Using default fallback rates:', err);
+  }
+
+  // Live overrides from localStorage (if edited via admin portal)
+  try {
+    const localRates = JSON.parse(localStorage.getItem('studyco_exchange_rates') || 'null');
+    if (localRates && localRates.rates) {
+      if (!exchangeRatesCache) exchangeRatesCache = { baseCurrency: 'USD', rates: [] };
+      if (!Array.isArray(localRates.rates) && Array.isArray(exchangeRatesCache.rates)) {
+        exchangeRatesCache.rates.forEach(r => {
+          if (localRates.rates[r.code] !== undefined) {
+            r.rateFromUSD = localRates.rates[r.code];
+            r.toUSD = r.rateFromUSD > 0 ? 1 / r.rateFromUSD : 1;
+          }
+        });
+      }
+    }
+  } catch (e) {}
+
+  if (exchangeRatesCache) return exchangeRatesCache;
     exchangeRatesCache = {
       baseCurrency: 'USD',
       rates: [
@@ -41,7 +60,6 @@ export async function getExchangeRates() {
     };
     return exchangeRatesCache;
   }
-}
 
 export function formatCurrencyValue(amount, currencyCode) {
   const num = Math.round(Number(amount) || 0);

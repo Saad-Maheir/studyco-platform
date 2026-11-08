@@ -222,21 +222,76 @@ class FacetedSearchEngine {
   async init() {
     try {
       const v = `?v=${Date.now()}`;
-      const [uniRes, progRes, exchangeData] = await Promise.all([
-        fetch(`./data/universities.json${v}`),
-        fetch(`./data/programs.json${v}`),
-        getExchangeRates()
+      const [uniRes, progRes, exchangeData, overridesRes] = await Promise.all([
+        fetch(`./data/universities.json${v}`, { cache: 'no-cache' }),
+        fetch(`./data/programs.json?v=20261107`, { cache: 'default' }),
+        getExchangeRates(),
+        fetch(`./data/cms-overrides.json${v}`, { cache: 'no-cache' }).catch(() => null)
       ]);
 
       const uniData = await uniRes.json();
       const progData = await progRes.json();
+      let rawPrograms = progData.programs || [];
+
+      // Apply programs & universities overrides (Server data/cms-overrides.json + Client localStorage)
+      const applySearchOverrides = (ov) => {
+        if (!ov) return;
+        const delList = ov.deleted_programs || ov.programs?.deleted || [];
+        if (Array.isArray(delList) && delList.length > 0) {
+          const delSet = new Set(delList);
+          rawPrograms = rawPrograms.filter(p => !delSet.has(p.id));
+        }
+        const modMap = ov.programs?.modified || ov.programs || {};
+        const modKeys = Object.keys(modMap);
+        if (modKeys.length > 0) {
+          const progMap = new Map(rawPrograms.map(p => [p.id, p]));
+          modKeys.forEach(id => {
+            if (id && modMap[id]) {
+              progMap.set(id, { ...(progMap.get(id) || {}), ...modMap[id] });
+            }
+          });
+          rawPrograms = Array.from(progMap.values());
+        }
+        const uniMod = ov.universities?.modified || ov.universities || {};
+        Object.values(uniMod).forEach(u => {
+          if (u && u.id) {
+            const idx = this.universities.findIndex(x => x.id === u.id);
+            if (idx >= 0) this.universities[idx] = Object.assign({}, this.universities[idx], u);
+            else this.universities.unshift(u);
+          }
+        });
+      };
 
       this.universities = uniData.universities || [];
+
+      if (overridesRes && overridesRes.ok) {
+        try {
+          applySearchOverrides(await overridesRes.json());
+        } catch (e) {
+          console.warn('[Search] Overrides apply error:', e);
+        }
+      }
+
+      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      try {
+        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        if (localOv) applySearchOverrides(localOv);
+        const localUnis = JSON.parse(localStorage.getItem('studyco_cms_universities') || 'null');
+        if (Array.isArray(localUnis) && localUnis.length > 0) {
+          localUnis.forEach(u => {
+            if (u && u.id) {
+              const idx = this.universities.findIndex(x => x.id === u.id);
+              if (idx >= 0) this.universities[idx] = Object.assign({}, this.universities[idx], u);
+              else this.universities.unshift(u);
+            }
+          });
+        }
+      } catch (e) {}
       this.exchangeData = exchangeData;
 
       // Join programs with university data
       const uniMap = Object.fromEntries(this.universities.map(u => [u.id, u]));
-      this.programs = (progData.programs || []).map(p => {
+      this.programs = rawPrograms.map(p => {
         const uni = uniMap[p.universityId] || {
           id: p.universityId || 'unknown',
           name: 'Partner University',

@@ -211,7 +211,36 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     filterStudentAgent: 'all',
     searchStudentsQuery: '',
     filterAgentStatus: 'all',
-    searchAgentsQuery: ''
+    searchAgentsQuery: '',
+
+    // CMS Module State
+    universities: [],
+    universitiesLoaded: false,
+    searchUniQuery: '',
+    filterUniCountry: 'all',
+
+    programsMode: 'oncampus',
+    selectedUniIdForPrograms: '',
+    uniPrograms: [],
+    searchProgQuery: '',
+    filterProgCountry: 'all',
+    filterProgLevel: 'all',
+
+    onlinePrograms: [],
+    onlineProgramsLoaded: false,
+    searchOnlineQuery: '',
+    filterOnlineLevel: 'all',
+
+    languageCenters: [],
+    languageCentersLoaded: false,
+    searchLcQuery: '',
+
+    scholarships: [],
+    scholarshipsLoaded: false,
+    searchSchQuery: '',
+
+    exchangeRates: null,
+    exchangeRatesLoaded: false
   };
 
   // DOM Elements
@@ -234,8 +263,80 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
   // Tab Elements
   const elTabBtnStudents = document.getElementById('tab-btn-students');
   const elTabBtnAgents = document.getElementById('tab-btn-agents');
+  const elTabBtnUniversities = document.getElementById('tab-btn-universities');
+  const elTabBtnPrograms = document.getElementById('tab-btn-programs');
+  const elTabBtnLanguageCenters = document.getElementById('tab-btn-language-centers');
+  const elTabBtnScholarships = document.getElementById('tab-btn-scholarships');
+
   const elPanelStudents = document.getElementById('panel-students');
   const elPanelAgents = document.getElementById('panel-agents');
+  const elPanelUniversities = document.getElementById('panel-universities');
+  const elPanelPrograms = document.getElementById('panel-programs');
+  const elPanelLanguageCenters = document.getElementById('panel-language-centers');
+  const elPanelScholarships = document.getElementById('panel-scholarships');
+
+  // CMS Universities Elements
+  const elSearchUniversities = document.getElementById('cms-search-universities');
+  const elFilterUniCountry = document.getElementById('cms-filter-uni-country');
+  const elBtnAddUniversity = document.getElementById('btn-cms-add-university');
+  const elUniversitiesTbody = document.getElementById('cms-universities-tbody');
+  const elUniversitiesEmpty = document.getElementById('cms-universities-empty');
+  const elUniCountLabel = document.getElementById('cms-uni-count-label');
+  const elUniFilteredStats = document.getElementById('cms-uni-filtered-stats');
+  const elModalUniversity = document.getElementById('modal-cms-university');
+  const elFormUniversity = document.getElementById('form-cms-university');
+
+  // CMS Programs Elements
+  const elSubtabBtnOncampus = document.getElementById('cms-subtab-btn-oncampus');
+  const elSubtabBtnOnline = document.getElementById('cms-subtab-btn-online');
+  const elSubpanelOncampus = document.getElementById('cms-subpanel-oncampus');
+  const elSubpanelOnline = document.getElementById('cms-subpanel-online');
+  const elProgFilterCountry = document.getElementById('cms-prog-filter-country');
+  const elProgSelectUni = document.getElementById('cms-prog-select-uni');
+  const elProgFilterLevel = document.getElementById('cms-prog-filter-level');
+  const elProgSearch = document.getElementById('cms-prog-search');
+  const elBtnAddProgram = document.getElementById('btn-cms-add-program');
+  const elProgramsTbody = document.getElementById('cms-programs-tbody');
+  const elProgramsEmpty = document.getElementById('cms-programs-empty');
+  const elProgStats = document.getElementById('cms-prog-stats');
+  const elModalProgram = document.getElementById('modal-cms-program');
+  const elFormProgram = document.getElementById('form-cms-program');
+
+  // CMS Online Degrees Elements
+  const elOnlineSearch = document.getElementById('cms-online-search');
+  const elOnlineFilterLevel = document.getElementById('cms-online-filter-level');
+  const elBtnAddOnlineProgram = document.getElementById('btn-cms-add-online-program');
+  const elOnlineProgramsTbody = document.getElementById('cms-online-programs-tbody');
+  const elOnlineEmpty = document.getElementById('cms-online-empty');
+  const elModalOnlineProgram = document.getElementById('modal-cms-online-program');
+  const elFormOnlineProgram = document.getElementById('form-cms-online-program');
+  const elOnlineUniSelect = document.getElementById('cms-online-uni-select');
+
+  // CMS Language Centers Elements
+  const elSearchLc = document.getElementById('cms-search-lc');
+  const elBtnAddLc = document.getElementById('btn-cms-add-lc');
+  const elLcStats = document.getElementById('cms-lc-stats');
+  const elLcTbody = document.getElementById('cms-lc-tbody');
+  const elLcEmpty = document.getElementById('cms-lc-empty');
+  const elModalLc = document.getElementById('modal-cms-lc');
+  const elFormLc = document.getElementById('form-cms-lc');
+  const elLcPackagesTbody = document.getElementById('cms-lc-packages-tbody');
+  const elBtnAddPackageRow = document.getElementById('btn-cms-add-package-row');
+
+  // CMS Scholarships Elements
+  const elSearchScholarships = document.getElementById('cms-search-scholarships');
+  const elBtnAddScholarship = document.getElementById('btn-cms-add-scholarship');
+  const elSchStats = document.getElementById('cms-sch-stats');
+  const elScholarshipsTbody = document.getElementById('cms-scholarships-tbody');
+  const elScholarshipsEmpty = document.getElementById('cms-scholarships-empty');
+  const elModalScholarship = document.getElementById('modal-cms-scholarship');
+  const elFormScholarship = document.getElementById('form-cms-scholarship');
+  const elSchUniSelect = document.getElementById('cms-sch-uni-select');
+
+  // CMS Currency Rates Elements
+  const elCurrencyRatesGrid = document.getElementById('cms-currency-rates-grid');
+  const elRatesLastUpdated = document.getElementById('cms-rates-last-updated');
+  const elBtnSaveRates = document.getElementById('btn-cms-save-rates');
 
   // Student Controls
   const elSearchStudents = document.getElementById('admin-search-students');
@@ -1351,24 +1452,46 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     });
   }
 
-  // Tab Switching
-  if (elTabBtnStudents && elTabBtnAgents) {
-    elTabBtnStudents.addEventListener('click', () => {
-      state.activeTab = 'students';
-      elTabBtnStudents.classList.add('active');
-      elTabBtnAgents.classList.remove('active');
-      if (elPanelStudents) elPanelStudents.style.display = 'block';
-      if (elPanelAgents) elPanelAgents.style.display = 'none';
+  // Comprehensive 6-Tab Switching System
+  function switchTab(tabKey) {
+    state.activeTab = tabKey;
+    const allTabBtns = [
+      { key: 'students', btn: elTabBtnStudents, panel: elPanelStudents },
+      { key: 'agents', btn: elTabBtnAgents, panel: elPanelAgents },
+      { key: 'universities', btn: elTabBtnUniversities, panel: elPanelUniversities },
+      { key: 'programs', btn: elTabBtnPrograms, panel: elPanelPrograms },
+      { key: 'language-centers', btn: elTabBtnLanguageCenters, panel: elPanelLanguageCenters },
+      { key: 'scholarships', btn: elTabBtnScholarships, panel: elPanelScholarships }
+    ];
+
+    allTabBtns.forEach(item => {
+      if (item.btn) {
+        if (item.key === tabKey) item.btn.classList.add('active');
+        else item.btn.classList.remove('active');
+      }
+      if (item.panel) {
+        item.panel.style.display = item.key === tabKey ? 'block' : 'none';
+      }
     });
 
-    elTabBtnAgents.addEventListener('click', () => {
-      state.activeTab = 'agents';
-      elTabBtnAgents.classList.add('active');
-      elTabBtnStudents.classList.remove('active');
-      if (elPanelAgents) elPanelAgents.style.display = 'block';
-      if (elPanelStudents) elPanelStudents.style.display = 'none';
-    });
+    if (tabKey === 'universities') {
+      loadCmsUniversities();
+    } else if (tabKey === 'programs') {
+      initCmsProgramsTab();
+    } else if (tabKey === 'language-centers') {
+      loadCmsLanguageCenters();
+    } else if (tabKey === 'scholarships') {
+      loadCmsScholarships();
+      loadCmsExchangeRates();
+    }
   }
+
+  if (elTabBtnStudents) elTabBtnStudents.addEventListener('click', () => switchTab('students'));
+  if (elTabBtnAgents) elTabBtnAgents.addEventListener('click', () => switchTab('agents'));
+  if (elTabBtnUniversities) elTabBtnUniversities.addEventListener('click', () => switchTab('universities'));
+  if (elTabBtnPrograms) elTabBtnPrograms.addEventListener('click', () => switchTab('programs'));
+  if (elTabBtnLanguageCenters) elTabBtnLanguageCenters.addEventListener('click', () => switchTab('language-centers'));
+  if (elTabBtnScholarships) elTabBtnScholarships.addEventListener('click', () => switchTab('scholarships'));
 
   // Search & Filter Events
   if (elSearchStudents) {
@@ -1452,6 +1575,2116 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       elAuthAlert.style.color = '#b45309';
       elAuthAlert.style.border = '1px solid #fde68a';
     }
+  }
+
+
+  // =========================================================================
+  // SECTION: CENTRAL CMS CORE ENGINE (Universities, Programs, Online, LC, Scholarships, Rates)
+  // =========================================================================
+
+  // Live LocalStorage CMS Overrides Synchronizer (for Vercel preview & immediate cross-tab updates)
+  function recordLocalCmsOverride(type, item, isDelete = false) {
+    try {
+      let cur = JSON.parse(localStorage.getItem('studyco_cms_overrides') || '{}');
+      if (!cur[type]) cur[type] = {};
+      const delKey = 'deleted_' + type;
+      if (!cur[delKey]) cur[delKey] = [];
+
+      const id = typeof item === 'object' ? item.id : item;
+      if (isDelete) {
+        delete cur[type][id];
+        if (!cur[delKey].includes(id)) cur[delKey].push(id);
+      } else {
+        cur[type][id] = item;
+        cur[delKey] = cur[delKey].filter(x => x !== id);
+      }
+      cur.last_sync = new Date().toISOString();
+      localStorage.setItem('studyco_cms_overrides', JSON.stringify(cur));
+      localStorage.setItem('studyco_cms_sync_trigger', Date.now());
+    } catch (e) {}
+  }
+
+  // Common Badges & Formatting Helpers
+  function getCountryBadge(countryKey) {
+    const map = {
+      malaysia: { flag: '🇲🇾', label: 'ماليزيا' },
+      australia: { flag: '🇦🇺', label: 'أستراليا' },
+      uk: { flag: '🇬🇧', label: 'المملكة المتحدة' },
+      canada: { flag: '🇨🇦', label: 'كندا' },
+      newzealand: { flag: '🇳🇿', label: 'نيوزيلندا' },
+      singapore: { flag: '🇸🇬', label: 'سنغافورة' }
+    };
+    const c = (countryKey || '').toLowerCase();
+    const item = map[c] || { flag: '🌐', label: countryKey || 'دولي' };
+    return '<span class="cms-badge cms-badge-country">' + item.flag + ' ' + escapeHtml(item.label) + '</span>';
+  }
+
+  function getLevelBadge(level) {
+    const map = {
+      foundation: { label: 'تمهيدي (Foundation)', bg: '#fef3c7', col: '#92400e' },
+      diploma: { label: 'دبلوم (Diploma)', bg: '#f3e8ff', col: '#6b21a8' },
+      bachelor: { label: 'بكالوريوس (Bachelor)', bg: '#dbeafe', col: '#1e40af' },
+      master: { label: 'ماجستير (Master)', bg: '#dcfce7', col: '#166534' },
+      phd: { label: 'دكتوراه (PhD)', bg: '#ffedd5', col: '#9a3412' }
+    };
+    const key = (level || '').toLowerCase();
+    const item = map[key] || { label: level || 'جامعي', bg: '#f1f5f9', col: '#475569' };
+    return '<span class="cms-badge" style="background:' + item.bg + '; color:' + item.col + '; font-weight:700;">' + escapeHtml(item.label) + '</span>';
+  }
+
+  function getFieldBadge(field) {
+    const map = {
+      cs: 'حاسب وتقنية',
+      business: 'إدارة وأعمال',
+      engineering: 'هندسة وعمارة',
+      health: 'طب وعلوم صحية',
+      arts: 'آداب وتصميم',
+      architecture: 'عمارة وبيئة',
+      law: 'قانون وحقوق',
+      education: 'تربية وتعليم',
+      hospitality: 'سياحة وفنادق'
+    };
+    const key = (field || '').toLowerCase();
+    const label = map[key] || field || 'عام';
+    return '<span class="cms-badge" style="background:#f8fafc; border:1px solid #cbd5e1; color:#334155;">' + escapeHtml(label) + '</span>';
+  }
+
+  function formatFeeDisplay(num, curr = 'MYR') {
+    if (!num || num === 0) return '---';
+    return curr + ' ' + Number(num).toLocaleString('en-US');
+  }
+
+  function getYouTubeEmbedUrl(url) {
+    if (!url) return '';
+    const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+    const match = url.match(regExp);
+    if (match && match[2].length === 11) {
+      return 'https://www.youtube.com/embed/' + match[2];
+    }
+    return url;
+  }
+
+  // Media Upload Helper with Live API / Offline Fallback
+  async function uploadCmsMedia(file, type = 'general') {
+    if (!file) return null;
+    if (state.isLiveApi) {
+      try {
+        const formData = new FormData();
+        formData.append('file', file);
+        formData.append('type', type);
+        const res = await fetch(API_BASE + '/cms.php?action=upload_media', {
+          method: 'POST',
+          body: formData,
+          credentials: 'include'
+        });
+        const json = await res.json();
+        if (json.success && json.data && json.data.file_url) {
+          showToast('تم رفع الملف بنجاح: ' + json.data.filename, 'success');
+          return json.data.file_url;
+        } else {
+          showToast(json.message || 'فشل في رفع الملف', 'danger');
+          return null;
+        }
+      } catch (err) {
+        showToast('تعذر الاتصال بالخادم لرفع الملف', 'danger');
+        return null;
+      }
+    } else {
+      // Offline preview: convert to base64 data URL
+      return new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          showToast('تم تجهيز الصورة محلياً للمعاينة', 'info');
+          resolve(reader.result);
+        };
+        reader.onerror = () => {
+          showToast('فشل في قراءة الملف محلياً', 'danger');
+          resolve(null);
+        };
+        reader.readAsDataURL(file);
+      });
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // 1. UNIVERSITIES CMS
+  // -------------------------------------------------------------------------
+  async function loadCmsUniversities(force = false) {
+    if (state.universitiesLoaded && !force) {
+      renderCmsUniversitiesTable();
+      return;
+    }
+
+    let loadedList = [];
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=list_universities', { credentials: 'include' });
+        const json = await res.json();
+        if (json.success && Array.isArray(json.data.universities) && json.data.universities.length > 0) {
+          loadedList = json.data.universities;
+        }
+      } catch (e) {
+        console.warn('[CMS] Failed to fetch universities from Live API, falling back to JSON:', e);
+      }
+    }
+
+    if (loadedList.length === 0) {
+      try {
+        const localCached = localStorage.getItem('studyco_cms_universities');
+        if (localCached && !force) {
+          const rawLocal = JSON.parse(localCached);
+          loadedList = Array.isArray(rawLocal) ? rawLocal : (rawLocal.universities || []);
+        } else {
+          const resJson = await fetch('data/universities.json');
+          const raw = await resJson.json();
+          loadedList = Array.isArray(raw) ? raw : (raw.universities || []);
+        }
+      } catch (err) {
+        console.error('[CMS] Failed to load data/universities.json', err);
+      }
+    }
+
+    state.universities = loadedList || [];
+    state.universitiesLoaded = true;
+    populateUniversityDropdowns();
+    renderCmsUniversitiesTable();
+  }
+
+  function populateUniversityDropdowns() {
+    const unis = state.universities || [];
+    const sorted = [...unis].sort((a, b) => (a.name || '').localeCompare(b.name || ''));
+
+    // Populate Program Tab Uni Select
+    if (elProgSelectUni) {
+      const curVal = elProgSelectUni.value;
+      elProgSelectUni.innerHTML = '<option value="">-- اختر الجامعة لعرض وتعديل تخصصاتها --</option>';
+      sorted.forEach(u => {
+        const opt = document.createElement('option');
+        opt.value = u.id;
+        opt.textContent = (u.arabicName || u.arabic_name || u.name) + ' (' + u.name + ') - ' + (u.country || '');
+        elProgSelectUni.appendChild(opt);
+      });
+      if (curVal && sorted.some(u => u.id === curVal)) {
+        elProgSelectUni.value = curVal;
+      } else if (!state.selectedUniIdForPrograms && sorted.length > 0) {
+        elProgSelectUni.value = sorted[0].id;
+        state.selectedUniIdForPrograms = sorted[0].id;
+      }
+    }
+
+    // Populate Online Uni Select
+    if (elOnlineUniSelect) {
+      const cur = elOnlineUniSelect.value;
+      elOnlineUniSelect.innerHTML = '<option value="">-- اختر الجامعة المانحة للدرجة --</option>';
+      sorted.forEach(u => {
+        const opt = document.createElement('option');
+        opt.value = u.id;
+        opt.textContent = (u.arabicName || u.name) + ' (' + u.name + ')';
+        elOnlineUniSelect.appendChild(opt);
+      });
+      if (cur) elOnlineUniSelect.value = cur;
+    }
+
+    // Populate Scholarships Uni Select
+    if (elSchUniSelect) {
+      const cur = elSchUniSelect.value;
+      elSchUniSelect.innerHTML = '<option value="">-- اختر الجامعة المقدمة للمنحة --</option>';
+      sorted.forEach(u => {
+        const opt = document.createElement('option');
+        opt.value = u.id;
+        opt.textContent = (u.arabicName || u.name) + ' (' + u.name + ')';
+        elSchUniSelect.appendChild(opt);
+      });
+      if (cur) elSchUniSelect.value = cur;
+    }
+  }
+
+  function renderCmsUniversitiesTable() {
+    if (!elUniversitiesTbody) return;
+    elUniversitiesTbody.innerHTML = '';
+
+    let list = state.universities || [];
+
+    // Filter by Country
+    if (state.filterUniCountry && state.filterUniCountry !== 'all') {
+      const fCountry = state.filterUniCountry.toLowerCase();
+      list = list.filter(u => (u.country || '').toLowerCase() === fCountry);
+    }
+
+    // Search Filter
+    if (state.searchUniQuery) {
+      const q = state.searchUniQuery.toLowerCase();
+      list = list.filter(u => {
+        return (u.id || '').toLowerCase().includes(q) ||
+               (u.name || '').toLowerCase().includes(q) ||
+               (u.arabicName || u.arabic_name || '').toLowerCase().includes(q) ||
+               (u.city || '').toLowerCase().includes(q) ||
+               String(u.ranking || '').toLowerCase().includes(q);
+      });
+    }
+
+    // Stats Counter
+    if (elUniCountLabel) {
+      elUniCountLabel.textContent = 'عرض الجامعات والشراكات الأكاديمية (' + (state.universities ? state.universities.length : 0) + ' جامعة)';
+    }
+    if (elUniFilteredStats) {
+      elUniFilteredStats.textContent = 'النتائج المطابقة: ' + list.length;
+    }
+
+    if (list.length === 0) {
+      if (elUniversitiesEmpty) elUniversitiesEmpty.style.display = 'block';
+      return;
+    } else {
+      if (elUniversitiesEmpty) elUniversitiesEmpty.style.display = 'none';
+    }
+
+    // Limit initial display to 60 items for performance, with lazy search
+    const displayList = list.slice(0, 80);
+
+    displayList.forEach(u => {
+      const tr = document.createElement('tr');
+      const logoSrc = u.logo || 'assets/photo/placeholder.svg';
+      const uniNameAr = u.arabicName || u.arabic_name || '';
+      const minFee = u.feeRangeMin || u.fee_range_min || (u.fee_range && u.fee_range.min) || 0;
+      const maxFee = u.feeRangeMax || u.fee_range_max || (u.fee_range && u.fee_range.max) || 0;
+      const curr = u.currency || 'MYR';
+
+      tr.innerHTML = `
+        <td style="width:60px; text-align:center;">
+          <img class="cms-thumb" src="${escapeHtml(logoSrc)}" onerror="this.src='assets/photo/placeholder.svg'" alt="Logo" />
+        </td>
+        <td>
+          <div style="font-weight:700; color:var(--portal-navy); font-size:0.92rem;">${escapeHtml(u.name || '')}</div>
+          ${uniNameAr ? `<div style="font-size:0.82rem; color:#64748b; margin-top:2px;">${escapeHtml(uniNameAr)}</div>` : ''}
+          <div style="display:flex; align-items:center; gap:6px; margin-top:4px;">
+            <span class="cms-badge cms-badge-id">${escapeHtml(u.id)}</span>
+            ${u.website ? `<a href="${escapeHtml(u.website)}" target="_blank" style="font-size:0.75rem; color:#0284c7; text-decoration:none;">🌐 الموقع</a>` : ''}
+          </div>
+        </td>
+        <td>
+          <div>${getCountryBadge(u.country)}</div>
+          <div style="font-size:0.8rem; color:#475569; margin-top:4px;">📍 ${escapeHtml(u.city || '---')}</div>
+        </td>
+        <td>
+          <span class="cms-badge cms-badge-ranking">#${escapeHtml(String(u.ranking || 'غير مصنف'))}</span>
+        </td>
+        <td style="font-size:0.85rem; font-weight:600; color:#0f172a;">
+          ${minFee || maxFee ? `${curr} ${Number(minFee).toLocaleString()} - ${Number(maxFee).toLocaleString()}` : '<span style="color:#94a3b8;">غير محدد</span>'}
+        </td>
+        <td>
+          <button class="btn-portal-secondary btn-cms-jump-programs" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.75rem; font-size:0.8rem; white-space:nowrap; border-color:var(--portal-gold); color:var(--portal-navy); font-weight:700;">
+            🎓 برامج الجامعة
+          </button>
+        </td>
+        <td>
+          <div style="display:flex; gap:6px; flex-wrap:wrap;">
+            <button class="btn-action-approve btn-cms-edit-uni" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.7rem; font-size:0.78rem;">
+              ✏️ تعديل
+            </button>
+            <button class="btn-action-reject btn-cms-del-uni" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              🗑️ حذف
+            </button>
+          </div>
+        </td>
+      `;
+
+      elUniversitiesTbody.appendChild(tr);
+    });
+
+    // Attach Event Listeners to rendered action buttons
+    elUniversitiesTbody.querySelectorAll('.btn-cms-jump-programs').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const uniId = btn.getAttribute('data-id');
+        jumpToUniversityPrograms(uniId);
+      });
+    });
+
+    elUniversitiesTbody.querySelectorAll('.btn-cms-edit-uni').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const uniId = btn.getAttribute('data-id');
+        openCmsUniversityModal(uniId);
+      });
+    });
+
+    elUniversitiesTbody.querySelectorAll('.btn-cms-del-uni').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const uniId = btn.getAttribute('data-id');
+        deleteCmsUniversity(uniId);
+      });
+    });
+  }
+
+  function jumpToUniversityPrograms(uniId) {
+    switchTab('programs');
+    switchProgramsSubtab('oncampus');
+    state.selectedUniIdForPrograms = uniId;
+    if (elProgSelectUni) elProgSelectUni.value = uniId;
+    loadCmsUniversityPrograms(uniId);
+  }
+
+  // Open University Modal (Add or Edit)
+  async function openCmsUniversityModal(uniId = null) {
+    if (!elModalUniversity) return;
+    const form = elFormUniversity;
+    if (form) form.reset();
+
+    const elId = document.getElementById('cms-uni-id');
+    const elTitle = document.getElementById('modal-cms-uni-title');
+    const videoWrap = document.getElementById('cms-uni-video-preview-wrap');
+    const videoIframe = document.getElementById('cms-uni-video-iframe');
+    const boxLogo = document.getElementById('box-preview-uni-logo');
+    const imgLogo = document.getElementById('img-preview-uni-logo');
+    const boxImage = document.getElementById('box-preview-uni-image');
+    const imgImage = document.getElementById('img-preview-uni-image');
+
+    if (videoWrap) videoWrap.style.display = 'none';
+    if (videoIframe) videoIframe.src = '';
+    if (boxLogo) boxLogo.style.display = 'none';
+    if (boxImage) boxImage.style.display = 'none';
+
+    if (uniId) {
+      // Edit Mode
+      if (elTitle) elTitle.textContent = 'تعديل بيانات الجامعة والشراكة';
+      if (elId) {
+        elId.value = uniId;
+        elId.readOnly = true;
+      }
+
+      let uniData = (state.universities || []).find(u => u.id === uniId) || {};
+
+      // If live API or details file available, fetch deep details
+      if (state.isLiveApi) {
+        try {
+          const res = await fetch(API_BASE + '/cms.php?action=get_university&id=' + encodeURIComponent(uniId), { credentials: 'include' });
+          const json = await res.json();
+          if (json.success && json.data && json.data.university) {
+            uniData = Object.assign({}, uniData, json.data.university);
+          }
+        } catch (e) {}
+      } else {
+        try {
+          const resDet = await fetch('data/university-details/' + uniId + '.json');
+          if (resDet.ok) {
+            const det = await resDet.json();
+            uniData = Object.assign({}, uniData, det);
+          }
+        } catch (e) {}
+      }
+
+      // Populate Form Fields
+      const setVal = (id, val) => {
+        const el = document.getElementById(id);
+        if (el) el.value = val !== undefined && val !== null ? val : '';
+      };
+
+      setVal('cms-uni-name', uniData.name || '');
+      setVal('cms-uni-arabicName', uniData.arabicName || uniData.arabic_name || '');
+      setVal('cms-uni-country', (uniData.country || 'malaysia').toLowerCase());
+      setVal('cms-uni-city', uniData.city || '');
+      setVal('cms-uni-ranking', uniData.ranking || '');
+      setVal('cms-uni-established', uniData.established || '');
+      setVal('cms-uni-campusName', uniData.campusName || uniData.campus_name || '');
+      setVal('cms-uni-studentCount', uniData.studentCount || uniData.student_count || '');
+      setVal('cms-uni-intakes', Array.isArray(uniData.intakes) ? uniData.intakes.join(', ') : (uniData.intakes || ''));
+      setVal('cms-uni-feeRangeMin', uniData.feeRangeMin || uniData.fee_range_min || (uniData.fee_range && uniData.fee_range.min) || '');
+      setVal('cms-uni-feeRangeMax', uniData.feeRangeMax || uniData.fee_range_max || (uniData.fee_range && uniData.fee_range.max) || '');
+      setVal('cms-uni-currency', uniData.currency || 'MYR');
+      setVal('cms-uni-website', uniData.website || '');
+      setVal('cms-uni-videoUrl', uniData.videoUrl || uniData.video_url || '');
+      setVal('cms-uni-logo', uniData.logo || '');
+      setVal('cms-uni-image', uniData.image || '');
+      setVal('cms-uni-descriptionAr', uniData.descriptionAr || uniData.description_ar || (uniData.summary && uniData.summary.arabic) || '');
+      setVal('cms-uni-description', uniData.description || (uniData.summary && uniData.summary.english) || '');
+
+      // Update Media Previews
+      if (uniData.logo && boxLogo && imgLogo) {
+        imgLogo.src = uniData.logo;
+        boxLogo.style.display = 'flex';
+      }
+      if (uniData.image && boxImage && imgImage) {
+        imgImage.src = uniData.image;
+        boxImage.style.display = 'flex';
+      }
+      if ((uniData.videoUrl || uniData.video_url) && videoWrap && videoIframe) {
+        videoIframe.src = getYouTubeEmbedUrl(uniData.videoUrl || uniData.video_url);
+        videoWrap.style.display = 'block';
+      }
+    } else {
+      // Add Mode
+      if (elTitle) elTitle.textContent = 'إضافة صرح جامعي جديد';
+      if (elId) {
+        elId.value = '';
+        elId.readOnly = false;
+      }
+    }
+
+    elModalUniversity.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  // Handle University Form Submit (Save)
+  if (elFormUniversity) {
+    elFormUniversity.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const getVal = id => {
+        const el = document.getElementById(id);
+        return el ? el.value.trim() : '';
+      };
+
+      const id = getVal('cms-uni-id');
+      const name = getVal('cms-uni-name');
+      const country = getVal('cms-uni-country') || 'malaysia';
+
+      if (!id || !name) {
+        showToast('يرجى ملء معرف واسم الجامعة', 'warning');
+        return;
+      }
+
+      const payload = {
+        id: id,
+        name: name,
+        arabicName: getVal('cms-uni-arabicName'),
+        country: country,
+        city: getVal('cms-uni-city'),
+        ranking: getVal('cms-uni-ranking'),
+        established: getVal('cms-uni-established'),
+        campusName: getVal('cms-uni-campusName'),
+        studentCount: getVal('cms-uni-studentCount'),
+        intakes: getVal('cms-uni-intakes'),
+        feeRangeMin: parseFloat(getVal('cms-uni-feeRangeMin')) || 0,
+        feeRangeMax: parseFloat(getVal('cms-uni-feeRangeMax')) || 0,
+        currency: getVal('cms-uni-currency') || 'MYR',
+        website: getVal('cms-uni-website'),
+        videoUrl: getVal('cms-uni-videoUrl'),
+        logo: getVal('cms-uni-logo'),
+        image: getVal('cms-uni-image'),
+        descriptionAr: getVal('cms-uni-descriptionAr'),
+        description: getVal('cms-uni-description')
+      };
+
+      const btnSave = document.getElementById('btn-save-cms-university');
+      if (btnSave) { btnSave.disabled = true; btnSave.textContent = 'جاري الحفظ والتسميع...'; }
+
+      if (state.isLiveApi) {
+        try {
+          const res = await fetch(API_BASE + '/cms.php?action=save_university', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+            credentials: 'include'
+          });
+          const json = await res.json();
+          if (json.success) {
+            showToast('تم حفظ الجامعة وبياناتها بنجاح!', 'success');
+            recordLocalCmsOverride('universities', payload, false);
+            closeModals();
+            await loadCmsUniversities(true);
+          } else {
+            showToast(json.message || 'فشل في حفظ الجامعة', 'danger');
+          }
+        } catch (err) {
+          showToast('تعذر الاتصال بالخادم لحفظ الجامعة', 'danger');
+        } finally {
+          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ الجامعة وتحديث الموقع فوراً'; }
+        }
+      } else {
+        // Offline preview update
+        const list = state.universities || [];
+        const idx = list.findIndex(u => u.id === payload.id);
+        if (idx >= 0) list[idx] = Object.assign({}, list[idx], payload);
+        else list.unshift(payload);
+        state.universities = list;
+        try { localStorage.setItem('studyco_cms_universities', JSON.stringify(list)); } catch(e){}
+        recordLocalCmsOverride('universities', payload, false);
+        showToast('تم حفظ الجامعة محلياً في وضع المعاينة', 'success');
+        closeModals();
+        populateUniversityDropdowns();
+        renderCmsUniversitiesTable();
+        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ الجامعة وتحديث الموقع فوراً'; }
+      }
+    });
+  }
+
+  // Delete University
+  async function deleteCmsUniversity(uniId) {
+    if (!confirm('هل أنت متأكد تماماً من حذف هذه الجامعة (' + uniId + ') من المنصة وقاعدة البيانات؟')) return;
+
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=delete_university&id=' + encodeURIComponent(uniId), {
+          method: 'POST',
+          credentials: 'include'
+        });
+        const json = await res.json();
+        if (json.success) {
+          showToast('تم حذف الجامعة بنجاح', 'success');
+          recordLocalCmsOverride('universities', uniId, true);
+          await loadCmsUniversities(true);
+        } else {
+          showToast(json.message || 'فشل في حذف الجامعة', 'danger');
+        }
+      } catch (e) {
+        showToast('تعذر الاتصال بالخادم لحذف الجامعة', 'danger');
+      }
+    } else {
+      state.universities = (state.universities || []).filter(u => u.id !== uniId);
+      try { localStorage.setItem('studyco_cms_universities', JSON.stringify(state.universities)); } catch(e){}
+      recordLocalCmsOverride('universities', uniId, true);
+      showToast('تم حذف الجامعة محلياً', 'success');
+      populateUniversityDropdowns();
+      renderCmsUniversitiesTable();
+    }
+  }
+
+  // University Modal Media Upload Triggers & Live Previews
+  const btnTriggerUniLogo = document.getElementById('btn-trigger-upload-uni-logo');
+  const fileUniLogo = document.getElementById('file-uni-logo');
+  if (btnTriggerUniLogo && fileUniLogo) {
+    btnTriggerUniLogo.addEventListener('click', () => fileUniLogo.click());
+    fileUniLogo.addEventListener('change', async function() {
+      if (this.files && this.files[0]) {
+        const uploadedUrl = await uploadCmsMedia(this.files[0], 'uni');
+        if (uploadedUrl) {
+          const inp = document.getElementById('cms-uni-logo');
+          if (inp) inp.value = uploadedUrl;
+          const box = document.getElementById('box-preview-uni-logo');
+          const img = document.getElementById('img-preview-uni-logo');
+          if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
+        }
+      }
+    });
+  }
+
+  const btnTriggerUniImg = document.getElementById('btn-trigger-upload-uni-image');
+  const fileUniImg = document.getElementById('file-uni-image');
+  if (btnTriggerUniImg && fileUniImg) {
+    btnTriggerUniImg.addEventListener('click', () => fileUniImg.click());
+    fileUniImg.addEventListener('change', async function() {
+      if (this.files && this.files[0]) {
+        const uploadedUrl = await uploadCmsMedia(this.files[0], 'uni');
+        if (uploadedUrl) {
+          const inp = document.getElementById('cms-uni-image');
+          if (inp) inp.value = uploadedUrl;
+          const box = document.getElementById('box-preview-uni-image');
+          const img = document.getElementById('img-preview-uni-image');
+          if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
+        }
+      }
+    });
+  }
+
+  // Video URL Real-Time Preview
+  const inpUniVideo = document.getElementById('cms-uni-videoUrl');
+  if (inpUniVideo) {
+    inpUniVideo.addEventListener('input', function() {
+      const url = this.value.trim();
+      const wrap = document.getElementById('cms-uni-video-preview-wrap');
+      const iframe = document.getElementById('cms-uni-video-iframe');
+      if (url && wrap && iframe) {
+        iframe.src = getYouTubeEmbedUrl(url);
+        wrap.style.display = 'block';
+      } else if (wrap) {
+        wrap.style.display = 'none';
+      }
+    });
+  }
+
+  // Add University Button
+  if (elBtnAddUniversity) {
+    elBtnAddUniversity.addEventListener('click', () => openCmsUniversityModal(null));
+  }
+
+  // University Search & Country Filters
+  if (elSearchUniversities) {
+    elSearchUniversities.addEventListener('input', function() {
+      state.searchUniQuery = this.value.trim();
+      renderCmsUniversitiesTable();
+    });
+  }
+  if (elFilterUniCountry) {
+    elFilterUniCountry.addEventListener('change', function() {
+      state.filterUniCountry = this.value;
+      renderCmsUniversitiesTable();
+    });
+  }
+
+  // -------------------------------------------------------------------------
+  // 2. PROGRAMS & ONLINE DEGREES CMS
+  // -------------------------------------------------------------------------
+  function switchProgramsSubtab(mode) {
+    state.programsMode = mode;
+    if (mode === 'oncampus') {
+      if (elSubtabBtnOncampus) elSubtabBtnOncampus.classList.add('active');
+      if (elSubtabBtnOnline) elSubtabBtnOnline.classList.remove('active');
+      if (elSubpanelOncampus) elSubpanelOncampus.style.display = 'block';
+      if (elSubpanelOnline) elSubpanelOnline.style.display = 'none';
+    } else {
+      if (elSubtabBtnOnline) elSubtabBtnOnline.classList.add('active');
+      if (elSubtabBtnOncampus) elSubtabBtnOncampus.classList.remove('active');
+      if (elSubpanelOnline) elSubpanelOnline.style.display = 'block';
+      if (elSubpanelOncampus) elSubpanelOncampus.style.display = 'none';
+      loadCmsOnlinePrograms();
+    }
+  }
+
+  if (elSubtabBtnOncampus) elSubtabBtnOncampus.addEventListener('click', () => switchProgramsSubtab('oncampus'));
+  if (elSubtabBtnOnline) elSubtabBtnOnline.addEventListener('click', () => switchProgramsSubtab('online'));
+
+  async function initCmsProgramsTab() {
+    if (!state.universitiesLoaded) {
+      await loadCmsUniversities();
+    }
+    if (!state.selectedUniIdForPrograms && elProgSelectUni && elProgSelectUni.options.length > 1) {
+      state.selectedUniIdForPrograms = elProgSelectUni.options[1].value;
+      elProgSelectUni.value = state.selectedUniIdForPrograms;
+    }
+    if (state.selectedUniIdForPrograms) {
+      loadCmsUniversityPrograms(state.selectedUniIdForPrograms);
+    }
+  }
+
+  async function loadCmsUniversityPrograms(uniId) {
+    if (!uniId) {
+      state.uniPrograms = [];
+      renderCmsProgramsTable();
+      return;
+    }
+
+    let progs = [];
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=list_university_programs&university_id=' + encodeURIComponent(uniId), { credentials: 'include' });
+        const json = await res.json();
+        const progsList = json.data?.programs || json.data?.university?.programs;
+        if (json.success && Array.isArray(progsList)) {
+          progs = progsList;
+        } else {
+          const resUni = await fetch(API_BASE + '/cms.php?action=get_university&id=' + encodeURIComponent(uniId), { credentials: 'include' });
+          const jsonUni = await resUni.json();
+          const pList = jsonUni.data?.programs || jsonUni.data?.university?.programs;
+          if (jsonUni.success && Array.isArray(pList)) {
+            progs = pList;
+          }
+        }
+      } catch (e) {
+        console.warn('[CMS] Failed to fetch uni programs via API:', e);
+      }
+    }
+
+    if (progs.length === 0) {
+      try {
+        const localCached = localStorage.getItem('studyco_uni_prog_' + uniId);
+        if (localCached) {
+          const rawLocal = JSON.parse(localCached);
+          progs = Array.isArray(rawLocal) ? rawLocal : (rawLocal.programs || []);
+        } else {
+          const resDet = await fetch('data/university-details/' + uniId + '.json');
+          if (resDet.ok) {
+            const det = await resDet.json();
+            progs = det.programs || [];
+          }
+        }
+      } catch (e) {
+        console.error('[CMS] Failed to load university programs from local JSON:', e);
+      }
+    }
+
+    state.uniPrograms = progs;
+    renderCmsProgramsTable();
+  }
+
+  function renderCmsProgramsTable() {
+    if (!elProgramsTbody) return;
+    elProgramsTbody.innerHTML = '';
+
+    let list = state.uniPrograms || [];
+
+    // Filter by Level
+    if (state.filterProgLevel && state.filterProgLevel !== 'all') {
+      const fLevel = state.filterProgLevel.toLowerCase();
+      list = list.filter(p => (p.level || '').toLowerCase() === fLevel);
+    }
+
+    // Filter by Search Query
+    if (state.searchProgQuery) {
+      const q = state.searchProgQuery.toLowerCase();
+      list = list.filter(p => {
+        return (p.name || '').toLowerCase().includes(q) ||
+               (p.nameAr || p.name_ar || '').toLowerCase().includes(q) ||
+               (p.field || '').toLowerCase().includes(q) ||
+               (p.id || '').toLowerCase().includes(q);
+      });
+    }
+
+    if (elProgStats) {
+      elProgStats.textContent = 'إجمالي البرامج: ' + list.length + ' برنامج';
+    }
+
+    if (list.length === 0) {
+      if (elProgramsEmpty) elProgramsEmpty.style.display = 'block';
+      return;
+    } else {
+      if (elProgramsEmpty) elProgramsEmpty.style.display = 'none';
+    }
+
+    list.forEach(p => {
+      const tr = document.createElement('tr');
+      const pNameAr = p.nameAr || p.name_ar || '';
+      const fee = p.annualFee || p.annual_fee || (p.fee && p.fee.annual) || p.fee || 0;
+      const curr = p.currency || 'MYR';
+
+      tr.innerHTML = `
+        <td>
+          <div style="font-weight:700; color:var(--portal-navy); font-size:0.9rem;">${escapeHtml(p.name || '')}</div>
+          ${pNameAr ? `<div style="font-size:0.8rem; color:#64748b; margin-top:2px;">${escapeHtml(pNameAr)}</div>` : ''}
+          <div style="font-size:0.75rem; color:#94a3b8; font-family:monospace; margin-top:3px;">ID: ${escapeHtml(p.id || '---')}</div>
+        </td>
+        <td>${getLevelBadge(p.level)}</td>
+        <td>${getFieldBadge(p.field)}</td>
+        <td style="font-size:0.85rem; font-weight:600;">${escapeHtml(String(p.duration || '3'))} سنوات</td>
+        <td style="font-weight:800; color:#0f172a; font-size:0.88rem;">${formatFeeDisplay(fee, curr)}</td>
+        <td style="font-size:0.85rem; font-weight:600; color:#0284c7;">${escapeHtml(p.ielts || '5.5')}</td>
+        <td style="font-size:0.8rem; color:#475569;">${escapeHtml(Array.isArray(p.intakes) ? p.intakes.join(', ') : (p.intakes || '---'))}</td>
+        <td>
+          <div style="display:flex; gap:6px;">
+            <button class="btn-action-approve btn-cms-edit-prog" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              ✏️ تعديل
+            </button>
+            <button class="btn-action-reject btn-cms-del-prog" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              🗑️
+            </button>
+          </div>
+        </td>
+      `;
+
+      elProgramsTbody.appendChild(tr);
+    });
+
+    elProgramsTbody.querySelectorAll('.btn-cms-edit-prog').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const pId = btn.getAttribute('data-id');
+        openCmsProgramModal(pId);
+      });
+    });
+
+    elProgramsTbody.querySelectorAll('.btn-cms-del-prog').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const pId = btn.getAttribute('data-id');
+        deleteCmsProgram(pId);
+      });
+    });
+  }
+
+  // Program Select & Filter Events
+  if (elProgSelectUni) {
+    elProgSelectUni.addEventListener('change', function() {
+      state.selectedUniIdForPrograms = this.value;
+      loadCmsUniversityPrograms(this.value);
+    });
+  }
+  if (elProgFilterCountry) {
+    elProgFilterCountry.addEventListener('change', function() {
+      const c = this.value.toLowerCase();
+      if (elProgSelectUni) {
+        const opts = elProgSelectUni.querySelectorAll('option');
+        opts.forEach(opt => {
+          if (!opt.value) return;
+          const u = (state.universities || []).find(x => x.id === opt.value);
+          if (c === 'all' || (u && (u.country || '').toLowerCase() === c)) {
+            opt.style.display = '';
+          } else {
+            opt.style.display = 'none';
+          }
+        });
+      }
+    });
+  }
+  if (elProgFilterLevel) {
+    elProgFilterLevel.addEventListener('change', function() {
+      state.filterProgLevel = this.value;
+      renderCmsProgramsTable();
+    });
+  }
+  if (elProgSearch) {
+    elProgSearch.addEventListener('input', function() {
+      state.searchProgQuery = this.value.trim();
+      renderCmsProgramsTable();
+    });
+  }
+
+  // Open Program Modal
+  function openCmsProgramModal(progId = null) {
+    if (!elModalProgram) return;
+    if (elFormProgram) elFormProgram.reset();
+
+    const uniId = state.selectedUniIdForPrograms;
+    if (!uniId) {
+      showToast('يرجى اختيار الجامعة أولاً لإضافة أو تعديل برامجها', 'warning');
+      return;
+    }
+
+    const uniObj = (state.universities || []).find(u => u.id === uniId) || {};
+    const elUniId = document.getElementById('cms-prog-uniId');
+    const elId = document.getElementById('cms-prog-id');
+    const elTitle = document.getElementById('modal-cms-prog-title');
+    const elSub = document.getElementById('modal-cms-prog-sub');
+
+    if (elUniId) elUniId.value = uniId;
+    if (elSub) elSub.textContent = 'الجامعة: ' + (uniObj.name || uniId);
+
+    const setVal = (id, val) => {
+      const el = document.getElementById(id);
+      if (el) el.value = val !== undefined && val !== null ? val : '';
+    };
+
+    if (progId) {
+      if (elTitle) elTitle.textContent = 'تعديل البرنامج الأكاديمي والرسوم';
+      if (elId) elId.value = progId;
+
+      const p = (state.uniPrograms || []).find(x => x.id === progId) || {};
+      setVal('cms-prog-name', p.name || '');
+      setVal('cms-prog-nameAr', p.nameAr || p.name_ar || '');
+      setVal('cms-prog-level', (p.level || 'bachelor').toLowerCase());
+      setVal('cms-prog-field', (p.field || 'cs').toLowerCase());
+      setVal('cms-prog-duration', p.duration || 3);
+      setVal('cms-prog-annualFee', p.annualFee || p.annual_fee || (p.fee && p.fee.annual) || p.fee || '');
+      setVal('cms-prog-currency', p.currency || uniObj.currency || 'MYR');
+      setVal('cms-prog-ielts', p.ielts || '');
+      setVal('cms-prog-intakes', Array.isArray(p.intakes) ? p.intakes.join(', ') : (p.intakes || ''));
+      setVal('cms-prog-overviewAr', p.overviewAr || p.overview_ar || '');
+      setVal('cms-prog-overview', p.overview || '');
+    } else {
+      if (elTitle) elTitle.textContent = 'إضافة تخصص جديد للجامعة';
+      if (elId) elId.value = '';
+      setVal('cms-prog-currency', uniObj.currency || 'MYR');
+    }
+
+    elModalProgram.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  if (elBtnAddProgram) {
+    elBtnAddProgram.addEventListener('click', () => openCmsProgramModal(null));
+  }
+
+  // Handle Program Save
+  if (elFormProgram) {
+    elFormProgram.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const getVal = id => {
+        const el = document.getElementById(id);
+        return el ? el.value.trim() : '';
+      };
+
+      const uniId = getVal('cms-prog-uniId') || state.selectedUniIdForPrograms;
+      let pId = getVal('cms-prog-id');
+      const name = getVal('cms-prog-name');
+
+      if (!uniId || !name) {
+        showToast('يرجى التأكد من اسم البرنامج والجامعة', 'warning');
+        return;
+      }
+
+      if (!pId) {
+        pId = uniId + '_' + Date.now().toString(36) + Math.random().toString(36).substring(2, 5);
+      }
+
+      const payload = {
+        id: pId,
+        university_id: uniId,
+        name: name,
+        nameAr: getVal('cms-prog-nameAr') || name,
+        level: getVal('cms-prog-level') || 'bachelor',
+        field: getVal('cms-prog-field') || 'cs',
+        duration: parseFloat(getVal('cms-prog-duration')) || 3,
+        annualFee: parseFloat(getVal('cms-prog-annualFee')) || 0,
+        currency: getVal('cms-prog-currency') || 'MYR',
+        ielts: getVal('cms-prog-ielts') || '5.5',
+        intakes: getVal('cms-prog-intakes'),
+        studyMode: 'Full-time On Campus',
+        overviewAr: getVal('cms-prog-overviewAr'),
+        overview: getVal('cms-prog-overview')
+      };
+
+      const btnSave = document.getElementById('btn-save-cms-program');
+      if (btnSave) { btnSave.disabled = true; btnSave.textContent = 'جاري الحفظ...'; }
+
+      if (state.isLiveApi) {
+        try {
+          const res = await fetch(API_BASE + '/cms.php?action=save_program', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+            credentials: 'include'
+          });
+          const json = await res.json();
+          if (json.success) {
+            showToast('تم حفظ البرنامج الأكاديمي وتحديث الموقع فوراً!', 'success');
+            recordLocalCmsOverride('programs', payload, false);
+            closeModals();
+            await loadCmsUniversityPrograms(uniId);
+          } else {
+            showToast(json.message || 'فشل في حفظ البرنامج', 'danger');
+          }
+        } catch (err) {
+          showToast('تعذر الاتصال بالخادم لحفظ البرنامج', 'danger');
+        } finally {
+          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ البرنامج والرسوم'; }
+        }
+      } else {
+        // Offline preview update
+        const list = state.uniPrograms || [];
+        const idx = list.findIndex(x => x.id === payload.id);
+        if (idx >= 0) list[idx] = Object.assign({}, list[idx], payload);
+        else list.unshift(payload);
+        state.uniPrograms = list;
+        try { localStorage.setItem('studyco_uni_prog_' + uniId, JSON.stringify(list)); } catch(e){}
+        recordLocalCmsOverride('programs', payload, false);
+        showToast('تم حفظ البرنامج محلياً', 'success');
+        closeModals();
+        renderCmsProgramsTable();
+        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ البرنامج والرسوم'; }
+      }
+    });
+  }
+
+  // Delete Program
+  async function deleteCmsProgram(progId) {
+    if (!confirm('هل أنت متأكد من حذف هذا البرنامج الأكاديمي؟')) return;
+    const uniId = state.selectedUniIdForPrograms;
+
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=delete_program&id=' + encodeURIComponent(progId) + '&university_id=' + encodeURIComponent(uniId), {
+          method: 'POST',
+          credentials: 'include'
+        });
+        const json = await res.json();
+        if (json.success) {
+          showToast('تم حذف البرنامج الأكاديمي بنجاح', 'success');
+          recordLocalCmsOverride('programs', progId, true);
+          await loadCmsUniversityPrograms(uniId);
+        } else {
+          showToast(json.message || 'فشل في حذف البرنامج', 'danger');
+        }
+      } catch (e) {
+        showToast('تعذر الاتصال بالخادم لحذف البرنامج', 'danger');
+      }
+    } else {
+      state.uniPrograms = (state.uniPrograms || []).filter(x => x.id !== progId);
+      try { localStorage.setItem('studyco_uni_prog_' + uniId, JSON.stringify(state.uniPrograms)); } catch(e){}
+      recordLocalCmsOverride('programs', progId, true);
+      showToast('تم حذف البرنامج محلياً', 'success');
+      renderCmsProgramsTable();
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // Online Degrees CMS Logic
+  // -------------------------------------------------------------------------
+  async function loadCmsOnlinePrograms(force = false) {
+    if (state.onlineProgramsLoaded && !force) {
+      renderCmsOnlineProgramsTable();
+      return;
+    }
+
+    let loaded = [];
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=list_online_programs', { credentials: 'include' });
+        const json = await res.json();
+        if (json.success && Array.isArray(json.data.programs) && json.data.programs.length > 0) {
+          loaded = json.data.programs;
+        }
+      } catch (e) {}
+    }
+
+    if (loaded.length === 0) {
+      try {
+        const localCached = localStorage.getItem('studyco_online_degrees');
+        if (localCached && !force) {
+          const rawLocal = JSON.parse(localCached);
+          loaded = Array.isArray(rawLocal) ? rawLocal : (rawLocal.programs || rawLocal.onlinePrograms || []);
+        } else {
+          let res = await fetch('data/online-programs.json');
+          if (!res.ok) res = await fetch('data/online-degrees.json');
+          const raw = await res.json();
+          loaded = Array.isArray(raw) ? raw : (raw.programs || raw.onlinePrograms || []);
+        }
+      } catch (e) {}
+    }
+
+    state.onlinePrograms = loaded || [];
+    state.onlineProgramsLoaded = true;
+    renderCmsOnlineProgramsTable();
+  }
+
+  function renderCmsOnlineProgramsTable() {
+    if (!elOnlineProgramsTbody) return;
+    elOnlineProgramsTbody.innerHTML = '';
+
+    let list = state.onlinePrograms || [];
+
+    if (state.filterOnlineLevel && state.filterOnlineLevel !== 'all') {
+      const f = state.filterOnlineLevel.toLowerCase();
+      list = list.filter(p => (p.level || '').toLowerCase().includes(f));
+    }
+
+    if (state.searchOnlineQuery) {
+      const q = state.searchOnlineQuery.toLowerCase();
+      list = list.filter(p => {
+        return (p.name || '').toLowerCase().includes(q) ||
+               (p.nameAr || p.name_ar || '').toLowerCase().includes(q) ||
+               (p.university_name || p.universityName || p.university_id || '').toLowerCase().includes(q);
+      });
+    }
+
+    if (list.length === 0) {
+      if (elOnlineEmpty) elOnlineEmpty.style.display = 'block';
+      return;
+    } else {
+      if (elOnlineEmpty) elOnlineEmpty.style.display = 'none';
+    }
+
+    const displayList = list.slice(0, 80);
+
+    displayList.forEach(p => {
+      const tr = document.createElement('tr');
+      const imgSrc = p.image || 'assets/photo/programs/cs_general.webp';
+      const pNameAr = p.nameAr || p.name_ar || '';
+      const uniName = p.university_name || p.universityName || p.university_id || 'جامعة دولية';
+      const fee = p.annualFee || p.annual_fee || 0;
+      const curr = p.currency || 'MYR';
+
+      tr.innerHTML = `
+        <td style="width:60px; text-align:center;">
+          <img class="cms-thumb" src="${escapeHtml(imgSrc)}" onerror="this.src='assets/photo/placeholder.svg'" alt="Degree" />
+        </td>
+        <td>
+          <div style="font-weight:700; color:var(--portal-navy); font-size:0.9rem;">${escapeHtml(p.name || '')}</div>
+          ${pNameAr ? `<div style="font-size:0.8rem; color:#64748b; margin-top:2px;">${escapeHtml(pNameAr)}</div>` : ''}
+          <div style="font-size:0.75rem; color:#94a3b8; font-family:monospace; margin-top:3px;">ID: ${escapeHtml(p.id || '---')}</div>
+        </td>
+        <td style="font-weight:600; color:var(--portal-navy); font-size:0.85rem;">
+          🏛️ ${escapeHtml(uniName)}
+        </td>
+        <td>
+          <div>${getLevelBadge(p.level)}</div>
+          <div style="margin-top:4px;">${getFieldBadge(p.field)}</div>
+        </td>
+        <td>
+          <div style="font-weight:800; color:#0f172a; font-size:0.88rem;">${formatFeeDisplay(fee, curr)}</div>
+          <div style="font-size:0.78rem; color:#64748b; margin-top:2px;">${escapeHtml(String(p.duration || '2'))} سنوات أونلاين</div>
+        </td>
+        <td style="font-size:0.8rem; color:#475569;">
+          ${escapeHtml(Array.isArray(p.intakes) ? p.intakes.join(', ') : (p.intakes || 'مرن طوال العام'))}
+        </td>
+        <td>
+          <div style="display:flex; gap:6px;">
+            <button class="btn-action-approve btn-cms-edit-online" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              ✏️ تعديل
+            </button>
+            <button class="btn-action-reject btn-cms-del-online" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              🗑️
+            </button>
+          </div>
+        </td>
+      `;
+
+      elOnlineProgramsTbody.appendChild(tr);
+    });
+
+    elOnlineProgramsTbody.querySelectorAll('.btn-cms-edit-online').forEach(btn => {
+      btn.addEventListener('click', () => openCmsOnlineProgramModal(btn.getAttribute('data-id')));
+    });
+
+    elOnlineProgramsTbody.querySelectorAll('.btn-cms-del-online').forEach(btn => {
+      btn.addEventListener('click', () => deleteCmsOnlineProgram(btn.getAttribute('data-id')));
+    });
+  }
+
+  if (elOnlineSearch) {
+    elOnlineSearch.addEventListener('input', function() {
+      state.searchOnlineQuery = this.value.trim();
+      renderCmsOnlineProgramsTable();
+    });
+  }
+  if (elOnlineFilterLevel) {
+    elOnlineFilterLevel.addEventListener('change', function() {
+      state.filterOnlineLevel = this.value;
+      renderCmsOnlineProgramsTable();
+    });
+  }
+
+  function openCmsOnlineProgramModal(progId = null) {
+    if (!elModalOnlineProgram) return;
+    if (elFormOnlineProgram) elFormOnlineProgram.reset();
+
+    const elId = document.getElementById('cms-online-id');
+    const elTitle = document.getElementById('modal-cms-online-title');
+
+    const setVal = (id, val) => {
+      const el = document.getElementById(id);
+      if (el) el.value = val !== undefined && val !== null ? val : '';
+    };
+
+    if (progId) {
+      if (elTitle) elTitle.textContent = 'تعديل برنامج درجة جامعية أونلاين';
+      if (elId) elId.value = progId;
+
+      const p = (state.onlinePrograms || []).find(x => x.id === progId) || {};
+      setVal('cms-online-uni-select', p.university_id || p.universityId || '');
+      setVal('cms-online-name', p.name || '');
+      setVal('cms-online-nameAr', p.nameAr || p.name_ar || '');
+      setVal('cms-online-level', (p.level || 'bachelor').toLowerCase());
+      setVal('cms-online-field', (p.field || 'cs').toLowerCase());
+      setVal('cms-online-duration', p.duration || 2);
+      setVal('cms-online-annualFee', p.annualFee || p.annual_fee || '');
+      setVal('cms-online-currency', p.currency || 'MYR');
+      setVal('cms-online-ielts', p.ielts || '');
+      setVal('cms-online-intakes', Array.isArray(p.intakes) ? p.intakes.join(', ') : (p.intakes || ''));
+      setVal('cms-online-image', p.image || '');
+    } else {
+      if (elTitle) elTitle.textContent = 'إضافة برنامج درجة جامعية أونلاين جديد';
+      if (elId) elId.value = '';
+    }
+
+    elModalOnlineProgram.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  if (elBtnAddOnlineProgram) {
+    elBtnAddOnlineProgram.addEventListener('click', () => openCmsOnlineProgramModal(null));
+  }
+
+  // Upload Online Image
+  const btnTriggerOnlineImg = document.getElementById('btn-trigger-upload-online-img');
+  const fileOnlineImg = document.getElementById('file-online-image');
+  if (btnTriggerOnlineImg && fileOnlineImg) {
+    btnTriggerOnlineImg.addEventListener('click', () => fileOnlineImg.click());
+    fileOnlineImg.addEventListener('change', async function() {
+      if (this.files && this.files[0]) {
+        const uploadedUrl = await uploadCmsMedia(this.files[0], 'online');
+        if (uploadedUrl) {
+          const inp = document.getElementById('cms-online-image');
+          if (inp) inp.value = uploadedUrl;
+        }
+      }
+    });
+  }
+
+  // Save Online Program
+  if (elFormOnlineProgram) {
+    elFormOnlineProgram.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const getVal = id => {
+        const el = document.getElementById(id);
+        return el ? el.value.trim() : '';
+      };
+
+      let pId = getVal('cms-online-id');
+      const name = getVal('cms-online-name');
+      const uniId = getVal('cms-online-uni-select');
+
+      if (!name || !uniId) {
+        showToast('يرجى اختيار الجامعة واسم البرنامج أونلاين', 'warning');
+        return;
+      }
+
+      if (!pId) {
+        pId = 'online_' + Date.now().toString(36) + Math.random().toString(36).substring(2, 5);
+      }
+
+      const uniObj = (state.universities || []).find(u => u.id === uniId) || {};
+
+      const payload = {
+        id: pId,
+        university_id: uniId,
+        university_name: uniObj.name || uniId,
+        name: name,
+        nameAr: getVal('cms-online-nameAr') || name,
+        level: getVal('cms-online-level') || 'bachelor',
+        field: getVal('cms-online-field') || 'cs',
+        duration: parseFloat(getVal('cms-online-duration')) || 2,
+        annualFee: parseFloat(getVal('cms-online-annualFee')) || 0,
+        currency: getVal('cms-online-currency') || 'MYR',
+        ielts: getVal('cms-online-ielts') || '6.0',
+        intakes: getVal('cms-online-intakes'),
+        image: getVal('cms-online-image') || 'assets/photo/programs/health_general.webp'
+      };
+
+      const btnSave = document.getElementById('btn-save-cms-online-program');
+      if (btnSave) { btnSave.disabled = true; btnSave.textContent = 'جاري الحفظ...'; }
+
+      if (state.isLiveApi) {
+        try {
+          const res = await fetch(API_BASE + '/cms.php?action=save_online_program', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+            credentials: 'include'
+          });
+          const json = await res.json();
+          if (json.success) {
+            showToast('تم حفظ برنامج الدرجة الجامعية أونلاين بنجاح!', 'success');
+            recordLocalCmsOverride('online_degrees', payload, false);
+            closeModals();
+            await loadCmsOnlinePrograms(true);
+          } else {
+            showToast(json.message || 'فشل في حفظ البرنامج أونلاين', 'danger');
+          }
+        } catch (err) {
+          showToast('تعذر الاتصال بالخادم لحفظ البرنامج أونلاين', 'danger');
+        } finally {
+          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ برنامج الأونلاين'; }
+        }
+      } else {
+        const list = state.onlinePrograms || [];
+        const idx = list.findIndex(x => x.id === payload.id);
+        if (idx >= 0) list[idx] = Object.assign({}, list[idx], payload);
+        else list.unshift(payload);
+        state.onlinePrograms = list;
+        try { localStorage.setItem('studyco_online_degrees', JSON.stringify(list)); } catch(e){}
+        recordLocalCmsOverride('online_degrees', payload, false);
+        showToast('تم حفظ البرنامج أونلاين محلياً', 'success');
+        closeModals();
+        renderCmsOnlineProgramsTable();
+        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ برنامج الأونلاين'; }
+      }
+    });
+  }
+
+  // Delete Online Program
+  async function deleteCmsOnlineProgram(pId) {
+    if (!confirm('هل أنت متأكد من حذف هذا البرنامج أونلاين نهائياً؟')) return;
+
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=delete_online_program&id=' + encodeURIComponent(pId), {
+          method: 'POST',
+          credentials: 'include'
+        });
+        const json = await res.json();
+        if (json.success) {
+          showToast('تم حذف البرنامج أونلاين بنجاح', 'success');
+          recordLocalCmsOverride('online_degrees', pId, true);
+          await loadCmsOnlinePrograms(true);
+        } else {
+          showToast(json.message || 'فشل في حذف البرنامج أونلاين', 'danger');
+        }
+      } catch (e) {
+        showToast('تعذر الاتصال بالخادم لحذف البرنامج أونلاين', 'danger');
+      }
+    } else {
+      state.onlinePrograms = (state.onlinePrograms || []).filter(x => x.id !== pId);
+      try { localStorage.setItem('studyco_online_degrees', JSON.stringify(state.onlinePrograms)); } catch(e){}
+      recordLocalCmsOverride('online_degrees', pId, true);
+      showToast('تم حذف البرنامج أونلاين محلياً', 'success');
+      renderCmsOnlineProgramsTable();
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // 3. LANGUAGE CENTRES CMS
+  // -------------------------------------------------------------------------
+  async function loadCmsLanguageCenters(force = false) {
+    if (state.languageCentersLoaded && !force) {
+      renderCmsLanguageCentersTable();
+      return;
+    }
+
+    let loaded = [];
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=list_language_centers', { credentials: 'include' });
+        const json = await res.json();
+        if (json.success && Array.isArray(json.data.centers) && json.data.centers.length > 0) {
+          loaded = json.data.centers;
+        }
+      } catch (e) {}
+    }
+
+    if (loaded.length === 0) {
+      try {
+        const localCached = localStorage.getItem('studyco_language_centers');
+        if (localCached && !force) {
+          const rawLocal = JSON.parse(localCached);
+          loaded = Array.isArray(rawLocal) ? rawLocal : (rawLocal.centers || rawLocal.languageCenters || []);
+        } else {
+          const res = await fetch('data/language-centers.json');
+          const raw = await res.json();
+          loaded = Array.isArray(raw) ? raw : (raw.centers || raw.languageCenters || []);
+        }
+      } catch (e) {}
+    }
+
+    state.languageCenters = loaded || [];
+    state.languageCentersLoaded = true;
+    renderCmsLanguageCentersTable();
+  }
+
+  function renderCmsLanguageCentersTable() {
+    if (!elLcTbody) return;
+    elLcTbody.innerHTML = '';
+
+    let list = state.languageCenters || [];
+
+    if (state.searchLcQuery) {
+      const q = state.searchLcQuery.toLowerCase();
+      list = list.filter(lc => {
+        return (lc.name || '').toLowerCase().includes(q) ||
+               (lc.nameAr || lc.name_ar || '').toLowerCase().includes(q) ||
+               (lc.city || lc.cityAr || lc.city_ar || '').toLowerCase().includes(q) ||
+               (lc.country || '').toLowerCase().includes(q) ||
+               (lc.id || '').toLowerCase().includes(q);
+      });
+    }
+
+    if (elLcStats) {
+      elLcStats.textContent = 'إجمالي المعاهد: ' + list.length;
+    }
+
+    if (list.length === 0) {
+      if (elLcEmpty) elLcEmpty.style.display = 'block';
+      return;
+    } else {
+      if (elLcEmpty) elLcEmpty.style.display = 'none';
+    }
+
+    list.forEach(lc => {
+      const tr = document.createElement('tr');
+      const imgSrc = lc.image || 'assets/photo/lc/lc_bright-language-center.webp';
+      const nameAr = lc.nameAr || lc.name_ar || '';
+      const cityAr = lc.cityAr || lc.city_ar || '';
+      const minFee = lc.min_fee_myr || lc.minFeeMYR || 0;
+      const maxFee = lc.max_fee_myr || lc.maxFeeMYR || 0;
+      const pkgCount = Array.isArray(lc.packages) ? lc.packages.length : (lc.packages_count || 0);
+
+      tr.innerHTML = `
+        <td style="width:60px; text-align:center;">
+          <img class="cms-thumb" src="${escapeHtml(imgSrc)}" onerror="this.src='assets/photo/placeholder.svg'" alt="LC" />
+        </td>
+        <td>
+          <div style="font-weight:700; color:var(--portal-navy); font-size:0.92rem;">${escapeHtml(lc.name || '')}</div>
+          ${nameAr ? `<div style="font-size:0.82rem; color:#64748b; margin-top:2px;">${escapeHtml(nameAr)}</div>` : ''}
+          <div style="font-size:0.75rem; color:#94a3b8; font-family:monospace; margin-top:3px;">ID: ${escapeHtml(lc.id || '---')}</div>
+        </td>
+        <td>
+          <div>${getCountryBadge(lc.country || 'malaysia')}</div>
+          <div style="font-size:0.8rem; color:#475569; margin-top:4px;">📍 ${escapeHtml(cityAr || lc.city || 'كوالالمبور')}</div>
+        </td>
+        <td style="font-weight:700; color:#0f172a; font-size:0.88rem;">
+          ${minFee ? `MYR ${Number(minFee).toLocaleString()} - ${Number(maxFee).toLocaleString()}` : '---'}
+        </td>
+        <td>
+          <span class="cms-badge" style="background:#e0f2fe; color:#0369a1; font-weight:700;">
+            ${pkgCount} باقات دراسية
+          </span>
+        </td>
+        <td>
+          <div style="display:flex; gap:6px;">
+            <button class="btn-action-approve btn-cms-edit-lc" data-id="${escapeHtml(lc.id)}" type="button" style="padding:0.35rem 0.7rem; font-size:0.78rem;">
+              ✏️ تعديل والباقات
+            </button>
+            <button class="btn-action-reject btn-cms-del-lc" data-id="${escapeHtml(lc.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              🗑️
+            </button>
+          </div>
+        </td>
+      `;
+
+      elLcTbody.appendChild(tr);
+    });
+
+    elLcTbody.querySelectorAll('.btn-cms-edit-lc').forEach(btn => {
+      btn.addEventListener('click', () => openCmsLanguageCenterModal(btn.getAttribute('data-id')));
+    });
+
+    elLcTbody.querySelectorAll('.btn-cms-del-lc').forEach(btn => {
+      btn.addEventListener('click', () => deleteCmsLanguageCenter(btn.getAttribute('data-id')));
+    });
+  }
+
+  if (elSearchLc) {
+    elSearchLc.addEventListener('input', function() {
+      state.searchLcQuery = this.value.trim();
+      renderCmsLanguageCentersTable();
+    });
+  }
+
+  // Interactive Monthly Packages Table Editor Helpers
+  function renderLcPackagesRows(packagesList = []) {
+    if (!elLcPackagesTbody) return;
+    elLcPackagesTbody.innerHTML = '';
+
+    const list = Array.isArray(packagesList) && packagesList.length > 0 ? packagesList : [
+      { months: 1, duration: '1 Month', feeMYR: 2850, fee_myr: 2850, visa: 'Tourist' },
+      { months: 3, duration: '3 Months', feeMYR: 7200, fee_myr: 7200, visa: 'Tourist' },
+      { months: 6, duration: '6 Months', feeMYR: 13500, fee_myr: 13500, visa: 'Student Visa' }
+    ];
+
+    list.forEach(p => {
+      appendLcPackageRow(p.months, p.duration, p.feeMYR ?? p.fee_myr ?? p.price ?? 0, p.visa || 'Tourist');
+    });
+  }
+
+  function appendLcPackageRow(months = 1, duration = '1 Month', fee = 2800, visa = 'Tourist') {
+    if (!elLcPackagesTbody) return;
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>
+        <input type="number" class="portal-form-input lc-pkg-months" value="${months}" min="1" max="24" style="width:70px;" />
+      </td>
+      <td>
+        <input type="text" class="portal-form-input lc-pkg-dur" value="${escapeHtml(duration)}" placeholder="3 Months" />
+      </td>
+      <td>
+        <input type="number" class="portal-form-input lc-pkg-fee" value="${fee}" step="50" style="width:110px;" />
+      </td>
+      <td>
+        <input type="text" class="portal-form-input lc-pkg-visa" value="${escapeHtml(visa)}" placeholder="Student Visa" style="width:120px;" />
+      </td>
+      <td style="text-align:center;">
+        <button type="button" class="btn-action-reject btn-remove-pkg-row" style="padding:4px 8px; font-size:0.75rem;">✕</button>
+      </td>
+    `;
+
+    tr.querySelector('.btn-remove-pkg-row').addEventListener('click', () => tr.remove());
+    elLcPackagesTbody.appendChild(tr);
+  }
+
+  if (elBtnAddPackageRow) {
+    elBtnAddPackageRow.addEventListener('click', () => {
+      appendLcPackageRow(3, '3 Months', 6500, 'Tourist / Student');
+    });
+  }
+
+  // Open Language Center Modal
+  function openCmsLanguageCenterModal(lcId = null) {
+    if (!elModalLc) return;
+    if (elFormLc) elFormLc.reset();
+
+    const elId = document.getElementById('cms-lc-id');
+    const elTitle = document.getElementById('modal-cms-lc-title');
+    const boxImg = document.getElementById('box-preview-lc-image');
+    const imgPreview = document.getElementById('img-preview-lc-image');
+
+    if (boxImg) boxImg.style.display = 'none';
+
+    const setVal = (id, val) => {
+      const el = document.getElementById(id);
+      if (el) el.value = val !== undefined && val !== null ? val : '';
+    };
+
+    if (lcId) {
+      if (elTitle) elTitle.textContent = 'تعديل معهد اللغة وباقات الرسوم';
+      if (elId) elId.value = lcId;
+
+      const lc = (state.languageCenters || []).find(x => x.id === lcId) || {};
+      setVal('cms-lc-name', lc.name || '');
+      setVal('cms-lc-nameAr', lc.nameAr || lc.name_ar || '');
+      setVal('cms-lc-country', (lc.country || 'malaysia').toLowerCase());
+      setVal('cms-lc-city', lc.city || '');
+      setVal('cms-lc-cityAr', lc.cityAr || lc.city_ar || '');
+      setVal('cms-lc-minFeeMYR', lc.min_fee_myr || lc.minFeeMYR || '');
+      setVal('cms-lc-maxFeeMYR', lc.max_fee_myr || lc.maxFeeMYR || '');
+      setVal('cms-lc-image', lc.image || '');
+      setVal('cms-lc-aboutAr', lc.aboutAr || lc.about_ar || '');
+      setVal('cms-lc-about', lc.about || '');
+
+      if (lc.image && boxImg && imgPreview) {
+        imgPreview.src = lc.image;
+        boxImg.style.display = 'flex';
+      }
+
+      renderLcPackagesRows(lc.packages || []);
+    } else {
+      if (elTitle) elTitle.textContent = 'إضافة معهد لغة جديد وباقاته';
+      if (elId) elId.value = '';
+      renderLcPackagesRows([]);
+    }
+
+    elModalLc.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  if (elBtnAddLc) {
+    elBtnAddLc.addEventListener('click', () => openCmsLanguageCenterModal(null));
+  }
+
+  // Upload LC Image
+  const btnTriggerLcImg = document.getElementById('btn-trigger-upload-lc-img');
+  const fileLcImg = document.getElementById('file-lc-image');
+  if (btnTriggerLcImg && fileLcImg) {
+    btnTriggerLcImg.addEventListener('click', () => fileLcImg.click());
+    fileLcImg.addEventListener('change', async function() {
+      if (this.files && this.files[0]) {
+        const uploadedUrl = await uploadCmsMedia(this.files[0], 'lc');
+        if (uploadedUrl) {
+          const inp = document.getElementById('cms-lc-image');
+          if (inp) inp.value = uploadedUrl;
+          const box = document.getElementById('box-preview-lc-image');
+          const img = document.getElementById('img-preview-lc-image');
+          if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
+        }
+      }
+    });
+  }
+
+  // Save Language Center
+  if (elFormLc) {
+    elFormLc.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const getVal = id => {
+        const el = document.getElementById(id);
+        return el ? el.value.trim() : '';
+      };
+
+      let lcId = getVal('cms-lc-id');
+      const name = getVal('cms-lc-name');
+
+      if (!name) {
+        showToast('يرجى إدخال اسم معهد اللغة', 'warning');
+        return;
+      }
+
+      if (!lcId) {
+        lcId = 'lc_' + Date.now().toString(36);
+      }
+
+      // Gather Dynamic Packages
+      const packages = [];
+      if (elLcPackagesTbody) {
+        elLcPackagesTbody.querySelectorAll('tr').forEach(tr => {
+          const m = parseInt(tr.querySelector('.lc-pkg-months')?.value) || 1;
+          const d = tr.querySelector('.lc-pkg-dur')?.value.trim() || (m + ' Months');
+          const f = parseFloat(tr.querySelector('.lc-pkg-fee')?.value) || 0;
+          const v = tr.querySelector('.lc-pkg-visa')?.value.trim() || 'Tourist';
+          packages.push({ months: m, duration: d, feeMYR: f, fee_myr: f, visa: v });
+        });
+      }
+
+      // Auto compute min/max fee if not explicitly typed
+      let minFee = parseFloat(getVal('cms-lc-minFeeMYR')) || 0;
+      let maxFee = parseFloat(getVal('cms-lc-maxFeeMYR')) || 0;
+      if (packages.length > 0) {
+        const fees = packages.map(p => (p.feeMYR ?? p.fee_myr)).filter(f => f > 0);
+        if (fees.length > 0) {
+          if (!minFee) minFee = Math.min(...fees);
+          if (!maxFee) maxFee = Math.max(...fees);
+        }
+      }
+
+      const payload = {
+        id: lcId,
+        name: name,
+        nameAr: getVal('cms-lc-nameAr') || name,
+        country: getVal('cms-lc-country') || 'malaysia',
+        city: getVal('cms-lc-city') || 'Kuala Lumpur',
+        cityAr: getVal('cms-lc-cityAr') || 'كوالالمبور',
+        minFeeMYR: minFee,
+        maxFeeMYR: maxFee,
+        image: getVal('cms-lc-image') || 'assets/photo/lc/lc_bright-language-center.webp',
+        packages: packages,
+        aboutAr: getVal('cms-lc-aboutAr'),
+        about: getVal('cms-lc-about')
+      };
+
+      const btnSave = document.getElementById('btn-save-cms-lc');
+      if (btnSave) { btnSave.disabled = true; btnSave.textContent = 'جاري الحفظ...'; }
+
+      if (state.isLiveApi) {
+        try {
+          const res = await fetch(API_BASE + '/cms.php?action=save_language_center', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+            credentials: 'include'
+          });
+          const json = await res.json();
+          if (json.success) {
+            showToast('تم حفظ معهد اللغة وباقاته بنجاح!', 'success');
+            recordLocalCmsOverride('language_centers', payload, false);
+            closeModals();
+            await loadCmsLanguageCenters(true);
+          } else {
+            showToast(json.message || 'فشل في حفظ المعهد', 'danger');
+          }
+        } catch (err) {
+          showToast('تعذر الاتصال بالخادم لحفظ المعهد', 'danger');
+        } finally {
+          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ معهد اللغة والباقات'; }
+        }
+      } else {
+        const list = state.languageCenters || [];
+        const idx = list.findIndex(x => x.id === payload.id);
+        if (idx >= 0) list[idx] = Object.assign({}, list[idx], payload);
+        else list.unshift(payload);
+        state.languageCenters = list;
+        try { localStorage.setItem('studyco_language_centers', JSON.stringify(list)); } catch(e){}
+        recordLocalCmsOverride('language_centers', payload, false);
+        showToast('تم حفظ معهد اللغة محلياً', 'success');
+        closeModals();
+        renderCmsLanguageCentersTable();
+        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ معهد اللغة والباقات'; }
+      }
+    });
+  }
+
+  // Delete Language Center
+  async function deleteCmsLanguageCenter(lcId) {
+    if (!confirm('هل أنت متأكد من حذف معهد اللغة هذا نهائياً من المنصة؟')) return;
+
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=delete_language_center&id=' + encodeURIComponent(lcId), {
+          method: 'POST',
+          credentials: 'include'
+        });
+        const json = await res.json();
+        if (json.success) {
+          showToast('تم حذف معهد اللغة بنجاح', 'success');
+          recordLocalCmsOverride('language_centers', lcId, true);
+          await loadCmsLanguageCenters(true);
+        } else {
+          showToast(json.message || 'فشل في حذف معهد اللغة', 'danger');
+        }
+      } catch (e) {
+        showToast('تعذر الاتصال بالخادم لحذف المعهد', 'danger');
+      }
+    } else {
+      state.languageCenters = (state.languageCenters || []).filter(x => x.id !== lcId);
+      try { localStorage.setItem('studyco_language_centers', JSON.stringify(state.languageCenters)); } catch(e){}
+      recordLocalCmsOverride('language_centers', lcId, true);
+      showToast('تم حذف معهد اللغة محلياً', 'success');
+      renderCmsLanguageCentersTable();
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // 4. SCHOLARSHIPS & CURRENCY EXCHANGE RATES CMS
+  // -------------------------------------------------------------------------
+  async function loadCmsScholarships(force = false) {
+    if (state.scholarshipsLoaded && !force) {
+      renderCmsScholarshipsTable();
+      return;
+    }
+
+    let loaded = [];
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=list_scholarships', { credentials: 'include' });
+        const json = await res.json();
+        if (json.success && Array.isArray(json.data.scholarships) && json.data.scholarships.length > 0) {
+          loaded = json.data.scholarships;
+        }
+      } catch (e) {}
+    }
+
+    if (loaded.length === 0) {
+      try {
+        const localCached = localStorage.getItem('studyco_scholarships');
+        if (localCached && !force) {
+          const rawLocal = JSON.parse(localCached);
+          loaded = Array.isArray(rawLocal) ? rawLocal : (rawLocal.scholarships || []);
+        } else {
+          const res = await fetch('data/scholarships.json');
+          const raw = await res.json();
+          loaded = Array.isArray(raw) ? raw : (raw.scholarships || []);
+        }
+      } catch (e) {}
+    }
+
+    state.scholarships = loaded || [];
+    state.scholarshipsLoaded = true;
+    renderCmsScholarshipsTable();
+  }
+
+  function renderCmsScholarshipsTable() {
+    if (!elScholarshipsTbody) return;
+    elScholarshipsTbody.innerHTML = '';
+
+    let list = state.scholarships || [];
+
+    if (state.searchSchQuery) {
+      const q = state.searchSchQuery.toLowerCase();
+      list = list.filter(s => {
+        return (s.name || '').toLowerCase().includes(q) ||
+               (s.nameAr || s.name_ar || '').toLowerCase().includes(q) ||
+               (s.university_id || s.universityId || s.university_name || '').toLowerCase().includes(q) ||
+               (s.coverage || s.coverageAr || s.coverage_ar || '').toLowerCase().includes(q);
+      });
+    }
+
+    if (elSchStats) {
+      elSchStats.textContent = 'إجمالي المنح: ' + list.length;
+    }
+
+    if (list.length === 0) {
+      if (elScholarshipsEmpty) elScholarshipsEmpty.style.display = 'block';
+      return;
+    } else {
+      if (elScholarshipsEmpty) elScholarshipsEmpty.style.display = 'none';
+    }
+
+    list.forEach(s => {
+      const tr = document.createElement('tr');
+      const nameAr = s.nameAr || s.name_ar || '';
+      const uniName = s.university_name || s.universityName || s.university_id || 'جامعة دولية';
+      const covAr = s.coverageAr || s.coverage_ar || s.coverage || 'خصم دراسي';
+      const isFull = (s.type || '').toLowerCase() === 'full' || covAr.includes('100%');
+
+      tr.innerHTML = `
+        <td>
+          <div style="font-weight:700; color:var(--portal-navy); font-size:0.9rem;">${escapeHtml(s.name || '')}</div>
+          ${nameAr ? `<div style="font-size:0.8rem; color:#64748b; margin-top:2px;">${escapeHtml(nameAr)}</div>` : ''}
+          <div style="font-size:0.75rem; color:#94a3b8; font-family:monospace; margin-top:3px;">ID: ${escapeHtml(s.id || '---')}</div>
+        </td>
+        <td style="font-weight:600; color:var(--portal-navy); font-size:0.85rem;">
+          🏛️ ${escapeHtml(uniName)}
+        </td>
+        <td>
+          <div>${getCountryBadge(s.country || 'malaysia')}</div>
+          <div style="margin-top:4px;">${getLevelBadge(s.level || 'bachelor')}</div>
+        </td>
+        <td>
+          <span class="cms-badge" style="background:${isFull ? '#dcfce7' : '#fef3c7'}; color:${isFull ? '#166534' : '#92400e'}; font-weight:700;">
+            ${isFull ? '🏆 إعفاء كامل' : '✨ خصم جزئي'} (${escapeHtml(covAr)})
+          </span>
+        </td>
+        <td style="font-size:0.8rem; color:#475569;">
+          ${escapeHtml(s.deadlineAr || s.deadline_ar || s.deadline || 'سنوياً')}
+        </td>
+        <td>
+          <div style="display:flex; gap:6px;">
+            <button class="btn-action-approve btn-cms-edit-sch" data-id="${escapeHtml(s.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              ✏️ تعديل
+            </button>
+            <button class="btn-action-reject btn-cms-del-sch" data-id="${escapeHtml(s.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
+              🗑️
+            </button>
+          </div>
+        </td>
+      `;
+
+      elScholarshipsTbody.appendChild(tr);
+    });
+
+    elScholarshipsTbody.querySelectorAll('.btn-cms-edit-sch').forEach(btn => {
+      btn.addEventListener('click', () => openCmsScholarshipModal(btn.getAttribute('data-id')));
+    });
+
+    elScholarshipsTbody.querySelectorAll('.btn-cms-del-sch').forEach(btn => {
+      btn.addEventListener('click', () => deleteCmsScholarship(btn.getAttribute('data-id')));
+    });
+  }
+
+  if (elSearchScholarships) {
+    elSearchScholarships.addEventListener('input', function() {
+      state.searchSchQuery = this.value.trim();
+      renderCmsScholarshipsTable();
+    });
+  }
+
+  function openCmsScholarshipModal(schId = null) {
+    if (!elModalScholarship) return;
+    if (elFormScholarship) elFormScholarship.reset();
+
+    const elId = document.getElementById('cms-sch-id');
+    const elTitle = document.getElementById('modal-cms-sch-title');
+
+    const setVal = (id, val) => {
+      const el = document.getElementById(id);
+      if (el) el.value = val !== undefined && val !== null ? val : '';
+    };
+
+    if (schId) {
+      if (elTitle) elTitle.textContent = 'تعديل المنحة الدراسية وشروطها';
+      if (elId) elId.value = schId;
+
+      const s = (state.scholarships || []).find(x => x.id === schId) || {};
+      setVal('cms-sch-uni-select', s.university_id || s.universityId || '');
+      setVal('cms-sch-name', s.name || '');
+      setVal('cms-sch-nameAr', s.nameAr || s.name_ar || '');
+      setVal('cms-sch-country', (s.country || 'malaysia').toLowerCase());
+      setVal('cms-sch-level', (s.level || 'bachelor').toLowerCase());
+      setVal('cms-sch-type', (s.type || 'full').toLowerCase());
+      setVal('cms-sch-coverage', s.coverage || '');
+      setVal('cms-sch-coverageAr', s.coverageAr || s.coverage_ar || '');
+      setVal('cms-sch-deadline', s.deadline || '');
+      setVal('cms-sch-deadlineAr', s.deadlineAr || s.deadline_ar || '');
+      setVal('cms-sch-criteriaAr', s.criteriaAr || s.criteria_ar || '');
+      setVal('cms-sch-criteria', s.criteria || '');
+    } else {
+      if (elTitle) elTitle.textContent = 'إضافة منحة دراسية جديدة';
+      if (elId) elId.value = '';
+    }
+
+    elModalScholarship.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  if (elBtnAddScholarship) {
+    elBtnAddScholarship.addEventListener('click', () => openCmsScholarshipModal(null));
+  }
+
+  // Save Scholarship
+  if (elFormScholarship) {
+    elFormScholarship.addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const getVal = id => {
+        const el = document.getElementById(id);
+        return el ? el.value.trim() : '';
+      };
+
+      let schId = getVal('cms-sch-id');
+      const name = getVal('cms-sch-name');
+      const uniId = getVal('cms-sch-uni-select');
+
+      if (!name || !uniId) {
+        showToast('يرجى اختيار الجامعة واسم المنحة', 'warning');
+        return;
+      }
+
+      if (!schId) {
+        schId = 'sch_' + Date.now().toString(36);
+      }
+
+      const uniObj = (state.universities || []).find(u => u.id === uniId) || {};
+
+      const payload = {
+        id: schId,
+        university_id: uniId,
+        university_name: uniObj.name || uniId,
+        name: name,
+        nameAr: getVal('cms-sch-nameAr') || name,
+        country: getVal('cms-sch-country') || 'malaysia',
+        level: getVal('cms-sch-level') || 'bachelor',
+        type: getVal('cms-sch-type') || 'full',
+        coverage: getVal('cms-sch-coverage'),
+        coverageAr: getVal('cms-sch-coverageAr') || getVal('cms-sch-coverage'),
+        deadline: getVal('cms-sch-deadline'),
+        deadlineAr: getVal('cms-sch-deadlineAr') || getVal('cms-sch-deadline'),
+        criteriaAr: getVal('cms-sch-criteriaAr'),
+        criteria: getVal('cms-sch-criteria')
+      };
+
+      const btnSave = document.getElementById('btn-save-cms-scholarship');
+      if (btnSave) { btnSave.disabled = true; btnSave.textContent = 'جاري الحفظ...'; }
+
+      if (state.isLiveApi) {
+        try {
+          const res = await fetch(API_BASE + '/cms.php?action=save_scholarship', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+            credentials: 'include'
+          });
+          const json = await res.json();
+          if (json.success) {
+            showToast('تم حفظ المنحة الدراسية بنجاح!', 'success');
+            recordLocalCmsOverride('scholarships', payload, false);
+            closeModals();
+            await loadCmsScholarships(true);
+          } else {
+            showToast(json.message || 'فشل في حفظ المنحة', 'danger');
+          }
+        } catch (err) {
+          showToast('تعذر الاتصال بالخادم لحفظ المنحة', 'danger');
+        } finally {
+          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ المنحة الدراسية'; }
+        }
+      } else {
+        const list = state.scholarships || [];
+        const idx = list.findIndex(x => x.id === payload.id);
+        if (idx >= 0) list[idx] = Object.assign({}, list[idx], payload);
+        else list.unshift(payload);
+        state.scholarships = list;
+        try { localStorage.setItem('studyco_scholarships', JSON.stringify(list)); } catch(e){}
+        recordLocalCmsOverride('scholarships', payload, false);
+        showToast('تم حفظ المنحة محلياً', 'success');
+        closeModals();
+        renderCmsScholarshipsTable();
+        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ المنحة الدراسية'; }
+      }
+    });
+  }
+
+  // Delete Scholarship
+  async function deleteCmsScholarship(schId) {
+    if (!confirm('هل أنت متأكد من حذف هذه المنحة الدراسية نهائياً؟')) return;
+
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=delete_scholarship&id=' + encodeURIComponent(schId), {
+          method: 'POST',
+          credentials: 'include'
+        });
+        const json = await res.json();
+        if (json.success) {
+          showToast('تم حذف المنحة الدراسية بنجاح', 'success');
+          recordLocalCmsOverride('scholarships', schId, true);
+          await loadCmsScholarships(true);
+        } else {
+          showToast(json.message || 'فشل في حذف المنحة', 'danger');
+        }
+      } catch (e) {
+        showToast('تعذر الاتصال بالخادم لحذف المنحة', 'danger');
+      }
+    } else {
+      state.scholarships = (state.scholarships || []).filter(x => x.id !== schId);
+      try { localStorage.setItem('studyco_scholarships', JSON.stringify(state.scholarships)); } catch(e){}
+      recordLocalCmsOverride('scholarships', schId, true);
+      showToast('تم حذف المنحة محلياً', 'success');
+      renderCmsScholarshipsTable();
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // Live Currency Exchange Rates Card & Real-Time Sync
+  // -------------------------------------------------------------------------
+  async function loadCmsExchangeRates(force = false) {
+    if (state.exchangeRatesLoaded && !force) {
+      renderCmsExchangeRatesGrid();
+      return;
+    }
+
+    let ratesObj = null;
+    if (state.isLiveApi) {
+      try {
+        const res = await fetch(API_BASE + '/cms.php?action=get_exchange_rates', { credentials: 'include' });
+        const json = await res.json();
+        if (json.success && json.data) {
+          ratesObj = json.data;
+        }
+      } catch (e) {}
+    }
+
+    if (!ratesObj) {
+      try {
+        const localCached = localStorage.getItem('studyco_exchange_rates');
+        if (localCached && !force) {
+          ratesObj = JSON.parse(localCached);
+        } else {
+          const res = await fetch('data/exchange-rates.json');
+          ratesObj = await res.json();
+        }
+      } catch (e) {}
+    }
+
+    state.exchangeRates = ratesObj;
+    state.exchangeRatesLoaded = true;
+    renderCmsExchangeRatesGrid();
+  }
+
+  function renderCmsExchangeRatesGrid() {
+    if (!elCurrencyRatesGrid || !state.exchangeRates) return;
+    elCurrencyRatesGrid.innerHTML = '';
+
+    const rawRates = state.exchangeRates.rates;
+    const rates = {};
+
+    if (Array.isArray(rawRates)) {
+      rawRates.forEach(r => {
+        if (r && r.code) {
+          rates[r.code] = r.rateFromUSD !== undefined ? r.rateFromUSD : (r.rate !== undefined ? r.rate : 1.0);
+        }
+      });
+    } else if (rawRates && typeof rawRates === 'object') {
+      Object.assign(rates, rawRates);
+    }
+
+    // Default Fallback Standard Currencies
+    const standardCurrs = ['USD', 'MYR', 'SAR', 'AED', 'KWD', 'QAR', 'BHD', 'OMR', 'EGP', 'GBP', 'EUR', 'AUD', 'CAD', 'NZD', 'SGD', 'IDR'];
+    standardCurrs.forEach(c => {
+      if (rates[c] === undefined) {
+        rates[c] = (c === 'USD' ? 1.0 : (c === 'MYR' ? 4.44 : (c === 'SAR' ? 3.75 : 1.0)));
+      }
+    });
+
+    const lastUp = state.exchangeRates.lastUpdated || state.exchangeRates.last_updated || '---';
+
+    if (elRatesLastUpdated) {
+      elRatesLastUpdated.textContent = lastUp;
+    }
+
+    const flags = {
+      USD: '🇺🇸', MYR: '🇲🇾', SAR: '🇸🇦', AED: '🇦🇪', KWD: '🇰🇼',
+      QAR: '🇶🇦', BHD: '🇧🇭', OMR: '🇴🇲', EGP: '🇪🇬', GBP: '🇬🇧',
+      EUR: '🇪🇺', AUD: '🇦🇺', CAD: '🇨🇦', NZD: '🇳🇿', SGD: '🇸🇬',
+      IDR: '🇮🇩', CNY: '🇨🇳', JPY: '🇯🇵', TRY: '🇹🇷'
+    };
+
+    Object.keys(rates).forEach(curr => {
+      const rateVal = rates[curr];
+      const flag = flags[curr] || '🌐';
+      const card = document.createElement('div');
+      card.style.cssText = 'background:#f8fafc; border:1px solid #cbd5e1; border-radius:8px; padding:0.6rem 0.75rem; text-align:center; box-shadow:0 1px 3px rgba(0,0,0,0.03);';
+      card.innerHTML = `
+        <div style="font-weight:800; font-size:0.85rem; color:var(--portal-navy); margin-bottom:4px; display:flex; align-items:center; justify-content:center; gap:4px;">
+          <span>${flag}</span> <span>${curr}</span>
+        </div>
+        <input type="number" step="0.0001" min="0" class="portal-form-input cms-rate-input" data-curr="${curr}" value="${rateVal}" style="text-align:center; font-weight:700; font-size:0.88rem; padding:4px 6px; width:100%; box-sizing:border-box;" />
+      `;
+      elCurrencyRatesGrid.appendChild(card);
+    });
+  }
+
+  // Save Exchange Rates
+  if (elBtnSaveRates) {
+    elBtnSaveRates.addEventListener('click', async function() {
+      if (!elCurrencyRatesGrid) return;
+      const inputs = elCurrencyRatesGrid.querySelectorAll('.cms-rate-input');
+      const newRates = {};
+      inputs.forEach(inp => {
+        const c = inp.getAttribute('data-curr');
+        const v = parseFloat(inp.value) || 0;
+        if (c) newRates[c] = v;
+      });
+
+      const nowTime = new Date().toISOString().replace('T', ' ').substring(0, 19);
+      const payload = {
+        baseCurrency: 'USD',
+        rates: newRates,
+        lastUpdated: nowTime,
+        last_updated: nowTime
+      };
+
+      elBtnSaveRates.disabled = true;
+      elBtnSaveRates.textContent = 'جاري التحديث الفوري...';
+
+      if (state.isLiveApi) {
+        try {
+          const res = await fetch(API_BASE + '/cms.php?action=save_exchange_rates', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+            credentials: 'include'
+          });
+          const json = await res.json();
+          if (json.success) {
+            showToast('تم تحديث أسعار الصرف بالمنصة والتسميع الفوري في الموقع!', 'success');
+            state.exchangeRates = json.data || payload;
+            try { localStorage.setItem('studyco_exchange_rates', JSON.stringify(state.exchangeRates)); } catch(e){}
+            if (elRatesLastUpdated) elRatesLastUpdated.textContent = nowTime;
+          } else {
+            showToast(json.message || 'فشل في تحديث أسعار الصرف', 'danger');
+          }
+        } catch (e) {
+          showToast('تعذر الاتصال بالخادم لتحديث أسعار الصرف', 'danger');
+        } finally {
+          elBtnSaveRates.disabled = false;
+          elBtnSaveRates.textContent = '💾 حفظ وتحديث أسعار الصرف في الموقع فوراً';
+        }
+      } else {
+        state.exchangeRates = payload;
+        try { localStorage.setItem('studyco_exchange_rates', JSON.stringify(payload)); } catch(e){}
+        if (elRatesLastUpdated) elRatesLastUpdated.textContent = nowTime;
+        showToast('تم تحديث أسعار الصرف محلياً في وضع المعاينة', 'success');
+        elBtnSaveRates.disabled = false;
+        elBtnSaveRates.textContent = '💾 حفظ وتحديث أسعار الصرف في الموقع فوراً';
+      }
+    });
   }
 
   // Language Change Listener

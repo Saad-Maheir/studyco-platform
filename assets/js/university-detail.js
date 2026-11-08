@@ -588,8 +588,8 @@ class UniversityDetailManager {
     try {
       const v = `?v=${Date.now()}`;
       const [uniRes, detailsRes, exchangeData] = await Promise.all([
-        fetch(`./data/universities.json${v}`),
-        fetch(`./data/university-details/${uniId}.json${v}`),
+        fetch(`./data/universities.json${v}`, { cache: 'no-cache' }),
+        fetch(`./data/university-details/${uniId}.json${v}`, { cache: 'no-cache' }),
         getExchangeRates()
       ]);
 
@@ -605,6 +605,44 @@ class UniversityDetailManager {
         this.details = {};
         this.programs = [];
       }
+
+      // Live CMS overrides overlay (Server data/cms-overrides.json + Client localStorage)
+      const applyDetailOverrides = (ov) => {
+        if (!ov) return;
+        const uniMod = ov.universities?.modified?.[uniId] || ov.universities?.[uniId];
+        if (uniMod) {
+          this.uni = Object.assign({}, this.uni, uniMod);
+          this.details = Object.assign({}, this.details, uniMod);
+        }
+        const progMod = ov.programs?.modified || ov.programs || {};
+        Object.values(progMod).forEach(p => {
+          if (p && (p.university_id === uniId || p.universityId === uniId)) {
+            const idx = this.programs.findIndex(x => x.id === p.id);
+            if (idx >= 0) this.programs[idx] = Object.assign({}, this.programs[idx], p);
+            else this.programs.unshift(p);
+          }
+        });
+        const delProgs = ov.deleted_programs || ov.programs?.deleted || [];
+        if (Array.isArray(delProgs) && delProgs.length > 0) {
+          const delSet = new Set(delProgs);
+          this.programs = this.programs.filter(p => !delSet.has(p.id));
+        }
+      };
+
+      try {
+        const ovRes = await fetch(`./data/cms-overrides.json${v}`, { cache: 'no-cache' });
+        if (ovRes.ok) applyDetailOverrides(await ovRes.json());
+      } catch (e) {}
+
+      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      try {
+        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        if (localOv) applyDetailOverrides(localOv);
+        const localUniProgs = JSON.parse(localStorage.getItem('studyco_uni_prog_' + uniId) || 'null');
+        if (Array.isArray(localUniProgs) && localUniProgs.length > 0) {
+          this.programs = localUniProgs;
+        }
+      } catch (e) {}
     } catch (err) {
       console.warn('[UniversityDetail] Error loading data:', err);
     }

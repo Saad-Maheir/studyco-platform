@@ -42,9 +42,10 @@ class ScholarshipsPortal {
 
   async init() {
     try {
+      const v = `?v=${Date.now()}`;
       const [schRes, uniRes] = await Promise.all([
-        fetch('./data/scholarships.json'),
-        fetch('./data/universities.json')
+        fetch(`./data/scholarships.json${v}`, { cache: 'no-cache' }),
+        fetch(`./data/universities.json${v}`, { cache: 'no-cache' })
       ]);
 
       const schData = await schRes.json();
@@ -53,7 +54,48 @@ class ScholarshipsPortal {
       this.universities = uniData.universities || [];
       const uniMap = Object.fromEntries(this.universities.map(u => [u.id, u]));
 
-      this.scholarships = (schData.scholarships || []).map(s => ({
+      let rawSch = schData.scholarships || [];
+
+      // Live CMS overrides overlay (Server data/cms-overrides.json + Client localStorage)
+      const applySchOverrides = (ov) => {
+        if (!ov) return;
+        const modified = ov.scholarships?.modified || ov.scholarships || {};
+        Object.values(modified).forEach(s => {
+          if (s && s.id) {
+            const idx = rawSch.findIndex(x => x.id === s.id);
+            if (idx >= 0) rawSch[idx] = Object.assign({}, rawSch[idx], s);
+            else rawSch.unshift(s);
+          }
+        });
+        const deleted = ov.deleted_scholarships || ov.scholarships?.deleted || [];
+        if (Array.isArray(deleted) && deleted.length > 0) {
+          const delSet = new Set(deleted);
+          rawSch = rawSch.filter(s => !delSet.has(s.id));
+        }
+      };
+
+      try {
+        const ovRes = await fetch(`./data/cms-overrides.json${v}`, { cache: 'no-cache' });
+        if (ovRes.ok) applySchOverrides(await ovRes.json());
+      } catch (e) {}
+
+      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      try {
+        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        if (localOv) applySchOverrides(localOv);
+        const localScholarships = JSON.parse(localStorage.getItem('studyco_scholarships') || 'null');
+        if (Array.isArray(localScholarships) && localScholarships.length > 0) {
+          localScholarships.forEach(s => {
+            if (s && s.id) {
+              const idx = rawSch.findIndex(x => x.id === s.id);
+              if (idx >= 0) rawSch[idx] = Object.assign({}, rawSch[idx], s);
+              else rawSch.unshift(s);
+            }
+          });
+        }
+      } catch (e) {}
+
+      this.scholarships = rawSch.map(s => ({
         ...s,
         _uni: uniMap[s.universityId] || {
           name: 'Partner University',

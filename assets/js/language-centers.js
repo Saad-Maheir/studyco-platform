@@ -92,8 +92,8 @@ export class LanguageCenterDirectory {
   async init() {
     try {
       const [lcRes, uniRes, exchangeData] = await Promise.all([
-        fetch('./data/language-centers.json?v=' + Date.now()),
-        fetch('./data/universities.json?v=' + Date.now()),
+        fetch('./data/language-centers.json?v=' + Date.now(), { cache: 'no-cache' }),
+        fetch('./data/universities.json?v=' + Date.now(), { cache: 'no-cache' }),
         getExchangeRates()
       ]);
       const lcData = await lcRes.json();
@@ -101,6 +101,45 @@ export class LanguageCenterDirectory {
       const uniData = await uniRes.json();
       this.universities = uniData.universities || uniData || [];
       this.exchangeData = exchangeData;
+
+      // Live CMS overrides overlay (Server data/cms-overrides.json + Client localStorage)
+      const applyLcOverrides = (ov) => {
+        if (!ov) return;
+        const modified = ov.language_centers?.modified || ov.language_centers || {};
+        Object.values(modified).forEach(c => {
+          if (c && c.id) {
+            const idx = this.centers.findIndex(x => x.id === c.id);
+            if (idx >= 0) this.centers[idx] = Object.assign({}, this.centers[idx], c);
+            else this.centers.unshift(c);
+          }
+        });
+        const deleted = ov.deleted_language_centers || ov.language_centers?.deleted || [];
+        if (Array.isArray(deleted) && deleted.length > 0) {
+          const delSet = new Set(deleted);
+          this.centers = this.centers.filter(c => !delSet.has(c.id));
+        }
+      };
+
+      try {
+        const ovRes = await fetch('./data/cms-overrides.json?v=' + Date.now(), { cache: 'no-cache' });
+        if (ovRes.ok) applyLcOverrides(await ovRes.json());
+      } catch (e) {}
+
+      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      try {
+        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        if (localOv) applyLcOverrides(localOv);
+        const localCenters = JSON.parse(localStorage.getItem('studyco_language_centers') || 'null');
+        if (Array.isArray(localCenters) && localCenters.length > 0) {
+          localCenters.forEach(c => {
+            if (c && c.id) {
+              const idx = this.centers.findIndex(x => x.id === c.id);
+              if (idx >= 0) this.centers[idx] = Object.assign({}, this.centers[idx], c);
+              else this.centers.unshift(c);
+            }
+          });
+        }
+      } catch (e) {}
     } catch (err) {
       console.warn('[LanguageCenters] Could not load data:', err);
       return;

@@ -72,15 +72,53 @@ export class ProgramDirectory {
   async init() {
     try {
       const v = `?v=${Date.now()}`;
-      const [uniRes, progRes, costsRes, exchangeData] = await Promise.all([
-        fetch(`./data/universities.json${v}`),
-        fetch(`./data/programs.json${v}`),
-        fetch(`./data/costs.json${v}`),
-        getExchangeRates()
+      const [uniRes, progRes, costsRes, exchangeData, overridesRes] = await Promise.all([
+        fetch(`./data/universities.json${v}`, { cache: 'no-cache' }),
+        fetch(`./data/programs.json?v=20261107`, { cache: 'default' }),
+        fetch(`./data/costs.json${v}`, { cache: 'no-cache' }),
+        getExchangeRates(),
+        fetch(`./data/cms-overrides.json${v}`, { cache: 'no-cache' }).catch(() => null)
       ]);
 
       this.universities = (await uniRes.json()).universities;
-      this.programs = (await progRes.json()).programs;
+      let allPrograms = (await progRes.json()).programs || [];
+
+      // Apply programs overrides from an override object (Server data/cms-overrides.json + Client localStorage)
+      const applyProgOverrides = (ov) => {
+        if (!ov) return;
+        const delList = ov.deleted_programs || ov.programs?.deleted || [];
+        if (Array.isArray(delList) && delList.length > 0) {
+          const delSet = new Set(delList);
+          allPrograms = allPrograms.filter(p => !delSet.has(p.id));
+        }
+        const modMap = ov.programs?.modified || ov.programs || {};
+        const modKeys = Object.keys(modMap);
+        if (modKeys.length > 0) {
+          const progMap = new Map(allPrograms.map(p => [p.id, p]));
+          modKeys.forEach(id => {
+            if (id && modMap[id]) {
+              progMap.set(id, { ...(progMap.get(id) || {}), ...modMap[id] });
+            }
+          });
+          allPrograms = Array.from(progMap.values());
+        }
+      };
+
+      if (overridesRes && overridesRes.ok) {
+        try {
+          applyProgOverrides(await overridesRes.json());
+        } catch (e) {
+          console.warn('[Programs] Server overrides apply error:', e);
+        }
+      }
+
+      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      try {
+        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        if (localOv) applyProgOverrides(localOv);
+      } catch (e) {}
+
+      this.programs = allPrograms;
       this.costs = (await costsRes.json()).destinations || {};
       this.exchangeData = exchangeData;
     } catch (err) {
