@@ -1474,6 +1474,13 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       }
     });
 
+    const activeBtn = document.getElementById('tab-btn-' + tabKey);
+    if (activeBtn && typeof activeBtn.scrollIntoView === 'function') {
+      try {
+        activeBtn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      } catch (e) {}
+    }
+
     if (tabKey === 'universities') {
       loadCmsUniversities();
     } else if (tabKey === 'programs') {
@@ -1486,12 +1493,43 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     }
   }
 
+  // Expose Globally on Window for Guaranteed Inline Calling
+  window.StudyCoAdminSwitchTab = switchTab;
+  window.switchAdminTab = switchTab;
+  window.loadCmsUniversities = loadCmsUniversities;
+  window.initCmsProgramsTab = initCmsProgramsTab;
+  window.loadCmsOnlinePrograms = loadCmsOnlinePrograms;
+  window.loadCmsLanguageCenters = loadCmsLanguageCenters;
+  window.loadCmsScholarships = loadCmsScholarships;
+  window.loadCmsExchangeRates = loadCmsExchangeRates;
+
   if (elTabBtnStudents) elTabBtnStudents.addEventListener('click', () => switchTab('students'));
   if (elTabBtnAgents) elTabBtnAgents.addEventListener('click', () => switchTab('agents'));
   if (elTabBtnUniversities) elTabBtnUniversities.addEventListener('click', () => switchTab('universities'));
   if (elTabBtnPrograms) elTabBtnPrograms.addEventListener('click', () => switchTab('programs'));
   if (elTabBtnLanguageCenters) elTabBtnLanguageCenters.addEventListener('click', () => switchTab('language-centers'));
   if (elTabBtnScholarships) elTabBtnScholarships.addEventListener('click', () => switchTab('scholarships'));
+
+  // Global Event Delegation for Clicks (Fail-Safe)
+  document.addEventListener('click', function (e) {
+    const tabBtn = e.target.closest('.admin-tab-btn');
+    if (tabBtn) {
+      const id = tabBtn.id || '';
+      if (id === 'tab-btn-students') switchTab('students');
+      else if (id === 'tab-btn-agents') switchTab('agents');
+      else if (id === 'tab-btn-universities') switchTab('universities');
+      else if (id === 'tab-btn-programs') switchTab('programs');
+      else if (id === 'tab-btn-language-centers') switchTab('language-centers');
+      else if (id === 'tab-btn-scholarships') switchTab('scholarships');
+    }
+
+    const subtabBtn = e.target.closest('.cms-subtab-btn');
+    if (subtabBtn) {
+      const id = subtabBtn.id || '';
+      if (id === 'cms-subtab-btn-oncampus') switchProgramsSubtab('oncampus');
+      else if (id === 'cms-subtab-btn-online') switchProgramsSubtab('online');
+    }
+  });
 
   // Search & Filter Events
   if (elSearchStudents) {
@@ -2226,6 +2264,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       loadCmsOnlinePrograms();
     }
   }
+
+  window.StudyCoAdminSwitchProgramsSubtab = switchProgramsSubtab;
+  window.switchProgramsSubtab = switchProgramsSubtab;
 
   if (elSubtabBtnOncampus) elSubtabBtnOncampus.addEventListener('click', () => switchProgramsSubtab('oncampus'));
   if (elSubtabBtnOnline) elSubtabBtnOnline.addEventListener('click', () => switchProgramsSubtab('online'));

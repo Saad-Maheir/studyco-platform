@@ -3,18 +3,21 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<script src="assets/js/lang-init.js?v=20261107_v1"></script>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+<script src="assets/js/lang-init.js?v=20261108_v6_fix"></script>
 <title data-i18n="admin_portal_title">لوحة تحكم إدارة StudyCo المركزية — Super Admin</title>
 <meta content="لوحة الإدارة المركزية الرسمية لمنصة StudyCo Education Services: إدارة واعتماد الوكلاء، معالجة ملفات الطلاب، وإصدار القرارات الأكاديمية والتأشيرات." name="description"/>
 <meta content="website" property="og:type"/>
 <link href="assets/photo/favicon.png" rel="icon" type="image/png"/>
 <meta name="robots" content="noindex, nofollow"/>
 <!-- Local Web Fonts -->
-<link href="assets/css/fonts.css?v=20261107_v1" rel="stylesheet"/>
+<link href="assets/css/fonts.css?v=20261108_v6_fix" rel="stylesheet"/>
 <!-- Main Stylesheet -->
-<link href="assets/css/main.css?v=20261107_v1" rel="stylesheet"/>
+<link href="assets/css/main.css?v=20261108_v6_fix" rel="stylesheet"/>
 <!-- Admin Portal Stylesheet -->
-<link href="assets/css/admin-portal.css?v=20261107_v1" rel="stylesheet"/>
+<link href="assets/css/admin-portal.css?v=20261108_v6_fix" rel="stylesheet"/>
 <style id="standalone-portal-critical-css">
 /* ==============================================================================
    Unified Light Brand Portal Theme (100% Matching index.html Identity)
@@ -571,33 +574,85 @@ input[type="text"]::-ms-clear {
   </div>
 
   <!-- Main Navigation Tabs -->
-  <div class="admin-main-tabs">
-   <button class="admin-tab-btn active" id="tab-btn-students" type="button">
+  <div class="admin-main-tabs" id="admin-main-tabs-bar">
+   <button class="admin-tab-btn active" id="tab-btn-students" onclick="switchAdminTab('students')" type="button">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
     <span data-i18n="admin_tab_students">إدارة طلبات الطلاب والمراحل</span>
    </button>
-   <button class="admin-tab-btn" id="tab-btn-agents" type="button">
+   <button class="admin-tab-btn" id="tab-btn-agents" onclick="switchAdminTab('agents')" type="button">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
     <span data-i18n="admin_tab_agents">إدارة الوكلاء وطلبات الشراكة</span>
     <span class="pending-pulse-badge" id="badge-pending-agents-count" style="display:none;">0</span>
    </button>
-   <button class="admin-tab-btn" id="tab-btn-universities" type="button">
+   <button class="admin-tab-btn" id="tab-btn-universities" onclick="switchAdminTab('universities')" type="button">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M3 10h18M5 10v11M19 10v11M9 10v11M15 10v11M12 2l10 8H2l10-8z"/></svg>
     <span>🏛️ إدارة الجامعات (Universities)</span>
    </button>
-   <button class="admin-tab-btn" id="tab-btn-programs" type="button">
+   <button class="admin-tab-btn" id="tab-btn-programs" onclick="switchAdminTab('programs')" type="button">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
     <span>🎓 البرامج والأونلاين (Programs)</span>
    </button>
-   <button class="admin-tab-btn" id="tab-btn-language-centers" type="button">
+   <button class="admin-tab-btn" id="tab-btn-language-centers" onclick="switchAdminTab('language-centers')" type="button">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
     <span>🗣️ معاهد اللغة (Language Centres)</span>
    </button>
-   <button class="admin-tab-btn" id="tab-btn-scholarships" type="button">
+   <button class="admin-tab-btn" id="tab-btn-scholarships" onclick="switchAdminTab('scholarships')" type="button">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
     <span>🏆 المنح والعملات (Scholarships & Rates)</span>
    </button>
   </div>
+
+  <!-- Immediate Native Tab Switcher (Guarantees Instant Switching Even Before External JS or if Cached) -->
+  <script>
+    function switchAdminTab(tabKey) {
+      if (window.StudyCoAdminSwitchTab && typeof window.StudyCoAdminSwitchTab === 'function') {
+        window.StudyCoAdminSwitchTab(tabKey);
+        return;
+      }
+      var tabs = ['students', 'agents', 'universities', 'programs', 'language-centers', 'scholarships'];
+      tabs.forEach(function(k) {
+        var btn = document.getElementById('tab-btn-' + k);
+        var panel = document.getElementById('panel-' + k);
+        if (btn) {
+          if (k === tabKey) btn.classList.add('active');
+          else btn.classList.remove('active');
+        }
+        if (panel) {
+          panel.style.display = (k === tabKey ? 'block' : 'none');
+        }
+      });
+      if (tabKey === 'universities' && window.loadCmsUniversities) window.loadCmsUniversities();
+      if (tabKey === 'programs' && window.initCmsProgramsTab) window.initCmsProgramsTab();
+      if (tabKey === 'language-centers' && window.loadCmsLanguageCenters) window.loadCmsLanguageCenters();
+      if (tabKey === 'scholarships' && window.loadCmsScholarships) {
+        window.loadCmsScholarships();
+        if (window.loadCmsExchangeRates) window.loadCmsExchangeRates();
+      }
+    }
+
+    function switchProgramsSubtab(mode) {
+      if (window.StudyCoAdminSwitchProgramsSubtab && typeof window.StudyCoAdminSwitchProgramsSubtab === 'function') {
+        window.StudyCoAdminSwitchProgramsSubtab(mode);
+        return;
+      }
+      var bOn = document.getElementById('cms-subtab-btn-oncampus');
+      var bOff = document.getElementById('cms-subtab-btn-online');
+      var pOn = document.getElementById('cms-subpanel-oncampus');
+      var pOff = document.getElementById('cms-subpanel-online');
+      if (mode === 'oncampus') {
+        if (bOn) bOn.classList.add('active');
+        if (bOff) bOff.classList.remove('active');
+        if (pOn) pOn.style.display = 'block';
+        if (pOff) pOff.style.display = 'none';
+      } else {
+        if (bOff) bOff.classList.add('active');
+        if (bOn) bOn.classList.remove('active');
+        if (pOff) pOff.style.display = 'block';
+        if (pOn) pOn.style.display = 'none';
+        if (window.loadCmsOnlinePrograms) window.loadCmsOnlinePrograms();
+      }
+    }
+  </script>
 
   <!-- ===================================================================== -->
   <!-- Tab Panel 1: Students Management                                      -->
@@ -765,8 +820,8 @@ input[type="text"]::-ms-clear {
   <!-- ===================================================================== -->
   <div id="panel-programs" style="display:none;">
    <div class="cms-subtabs">
-     <button class="cms-subtab-btn active" id="cms-subtab-btn-oncampus" type="button">🏫 البرامج الحضورية للجامعات</button>
-     <button class="cms-subtab-btn" id="cms-subtab-btn-online" type="button">🌐 الدرجات الجامعية أونلاين (327 برنامجاً)</button>
+     <button class="cms-subtab-btn active" id="cms-subtab-btn-oncampus" onclick="switchProgramsSubtab('oncampus')" type="button">🏫 البرامج الحضورية للجامعات</button>
+     <button class="cms-subtab-btn" id="cms-subtab-btn-online" onclick="switchProgramsSubtab('online')" type="button">🌐 الدرجات الجامعية أونلاين (327 برنامجاً)</button>
    </div>
 
    <!-- Subpanel A: On-Campus Programs -->
@@ -1991,12 +2046,12 @@ input[type="text"]::-ms-clear {
 
 <!-- Standalone Admin Scripts -->
 <script type="module">
-  import { i18n } from './assets/js/i18n.js?v=20261107_v1';
+  import { i18n } from './assets/js/i18n.js?v=20261108_v6_fix';
   const lang = i18n.detectLanguage();
   await i18n.loadLanguage(lang);
   window.StudyCo_i18n = i18n;
   window.dispatchEvent(new CustomEvent('studyco:i18n-ready', { detail: { lang } }));
 </script>
-<script src="assets/js/admin-portal.js?v=20261107_v1"></script>
+<script src="assets/js/admin-portal.js?v=20261108_v6_fix"></script>
 </body>
 </html>
