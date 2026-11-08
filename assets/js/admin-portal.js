@@ -722,8 +722,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
               </button>
             ` : ''}
             ${agent.status !== 'suspended' ? `
-              <button class="btn-action-suspend btn-agent-quick-status" data-id="${agent.id}" data-action="suspended" title="${t('admin_btn_suspend_short', 'إيقاف')}">
-                ⏸ ${t('admin_btn_suspend_short', 'إيقاف')}
+              <button class="btn-action-suspend btn-agent-quick-status" data-id="${agent.id}" data-action="suspended" title="${t('admin_btn_suspend_short', 'إيقاف')}" style="display:inline-flex; align-items:center; gap:4px;">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><rect x="6" y="4" width="4" height="16"></rect><rect x="14" y="4" width="4" height="16"></rect></svg>
+                <span>${t('admin_btn_suspend_short', 'إيقاف')}</span>
               </button>
             ` : ''}
             ${agent.status !== 'rejected' ? `
@@ -1645,16 +1646,16 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
   // Common Badges & Formatting Helpers
   function getCountryBadge(countryKey) {
     const map = {
-      malaysia: { flag: '🇲🇾', label: 'ماليزيا' },
-      australia: { flag: '🇦🇺', label: 'أستراليا' },
-      uk: { flag: '🇬🇧', label: 'المملكة المتحدة' },
-      canada: { flag: '🇨🇦', label: 'كندا' },
-      newzealand: { flag: '🇳🇿', label: 'نيوزيلندا' },
-      singapore: { flag: '🇸🇬', label: 'سنغافورة' }
+      malaysia: { label: 'ماليزيا' },
+      australia: { label: 'أستراليا' },
+      uk: { label: 'المملكة المتحدة' },
+      canada: { label: 'كندا' },
+      newzealand: { label: 'نيوزيلندا' },
+      singapore: { label: 'سنغافورة' }
     };
     const c = (countryKey || '').toLowerCase();
-    const item = map[c] || { flag: '🌐', label: countryKey || 'دولي' };
-    return '<span class="cms-badge cms-badge-country">' + item.flag + ' ' + escapeHtml(item.label) + '</span>';
+    const item = map[c] || { label: countryKey || 'دولي' };
+    return '<span class="cms-badge cms-badge-country" style="display:inline-flex; align-items:center; gap:4px;"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#0284c7" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z"></path></svg>' + escapeHtml(item.label) + '</span>';
   }
 
   function getLevelBadge(level) {
@@ -1896,12 +1897,12 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           ${uniNameAr ? `<div style="font-size:0.82rem; color:#64748b; margin-top:2px;">${escapeHtml(uniNameAr)}</div>` : ''}
           <div style="display:flex; align-items:center; gap:6px; margin-top:4px;">
             <span class="cms-badge cms-badge-id">${escapeHtml(u.id)}</span>
-            ${u.website ? `<a href="${escapeHtml(u.website)}" target="_blank" style="font-size:0.75rem; color:#0284c7; text-decoration:none;">🌐 الموقع</a>` : ''}
+            ${u.website ? `<a href="${escapeHtml(u.website)}" target="_blank" style="font-size:0.75rem; color:#0284c7; text-decoration:none; display:inline-flex; align-items:center; gap:3px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1 4-10z"></path></svg><span>الموقع</span></a>` : ''}
           </div>
         </td>
         <td>
           <div>${getCountryBadge(u.country)}</div>
-          <div style="font-size:0.8rem; color:#475569; margin-top:4px;">📍 ${escapeHtml(u.city || '---')}</div>
+          <div style="font-size:0.8rem; color:#475569; margin-top:4px; display:inline-flex; align-items:center; gap:4px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg><span>${escapeHtml(u.city || '---')}</span></div>
         </td>
         <td>
           <span class="cms-badge cms-badge-ranking">#${escapeHtml(String(u.ranking || 'غير مصنف'))}</span>
@@ -1910,17 +1911,20 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           ${minFee || maxFee ? `${curr} ${Number(minFee).toLocaleString()} - ${Number(maxFee).toLocaleString()}` : '<span style="color:#94a3b8;">غير محدد</span>'}
         </td>
         <td>
-          <button class="btn-portal-secondary btn-cms-jump-programs" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.75rem; font-size:0.8rem; white-space:nowrap; border-color:var(--portal-gold); color:var(--portal-navy); font-weight:700;">
-            🎓 برامج الجامعة
+          <button class="btn-portal-secondary btn-cms-jump-programs" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.75rem; font-size:0.8rem; white-space:nowrap; border-color:var(--portal-gold); color:var(--portal-navy); font-weight:700; display:inline-flex; align-items:center; gap:5px;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 9 3 12 0v-5"></path></svg>
+            <span>برامج الجامعة</span>
           </button>
         </td>
         <td>
           <div style="display:flex; gap:6px; flex-wrap:wrap;">
-            <button class="btn-action-approve btn-cms-edit-uni" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.7rem; font-size:0.78rem;">
-              ✏️ تعديل
+            <button class="btn-action-approve btn-cms-edit-uni" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.7rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+              <span>تعديل</span>
             </button>
-            <button class="btn-action-reject btn-cms-del-uni" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              🗑️ حذف
+            <button class="btn-action-reject btn-cms-del-uni" data-id="${escapeHtml(u.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+              <span>حذف</span>
             </button>
           </div>
         </td>
@@ -2123,7 +2127,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         } catch (err) {
           showToast('تعذر الاتصال بالخادم لحفظ الجامعة', 'danger');
         } finally {
-          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ الجامعة وتحديث الموقع فوراً'; }
+          if (btnSave) {
+            btnSave.disabled = false;
+            btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ الجامعة وتحديث الموقع فوراً</span>';
+          }
         }
       } else {
         // Offline preview update
@@ -2138,7 +2145,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         closeModals();
         populateUniversityDropdowns();
         renderCmsUniversitiesTable();
-        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ الجامعة وتحديث الموقع فوراً'; }
+        if (btnSave) {
+          btnSave.disabled = false;
+          btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ الجامعة وتحديث الموقع فوراً</span>';
+        }
       }
     });
   }
@@ -2388,11 +2398,13 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         <td style="font-size:0.8rem; color:#475569;">${escapeHtml(Array.isArray(p.intakes) ? p.intakes.join(', ') : (p.intakes || '---'))}</td>
         <td>
           <div style="display:flex; gap:6px;">
-            <button class="btn-action-approve btn-cms-edit-prog" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              ✏️ تعديل
+            <button class="btn-action-approve btn-cms-edit-prog" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+              <span>تعديل</span>
             </button>
-            <button class="btn-action-reject btn-cms-del-prog" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              🗑️
+            <button class="btn-action-reject btn-cms-del-prog" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+              <span>حذف</span>
             </button>
           </div>
         </td>
@@ -2570,7 +2582,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         } catch (err) {
           showToast('تعذر الاتصال بالخادم لحفظ البرنامج', 'danger');
         } finally {
-          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ البرنامج والرسوم'; }
+          if (btnSave) {
+            btnSave.disabled = false;
+            btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ البرنامج والرسوم</span>';
+          }
         }
       } else {
         // Offline preview update
@@ -2584,7 +2599,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         showToast('تم حفظ البرنامج محلياً', 'success');
         closeModals();
         renderCmsProgramsTable();
-        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ البرنامج والرسوم'; }
+        if (btnSave) {
+          btnSave.disabled = false;
+          btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ البرنامج والرسوم</span>';
+        }
       }
     });
   }
@@ -2707,7 +2725,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           <div style="font-size:0.75rem; color:#94a3b8; font-family:monospace; margin-top:3px;">ID: ${escapeHtml(p.id || '---')}</div>
         </td>
         <td style="font-weight:600; color:var(--portal-navy); font-size:0.85rem;">
-          🏛️ ${escapeHtml(uniName)}
+          <span style="display:inline-flex; align-items:center; gap:4px;"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M3 21h18M3 10h18M5 10v11M19 10v11M9 10v11M15 10v11M12 2l10 8H2l10-8z"/></svg><span>${escapeHtml(uniName)}</span></span>
         </td>
         <td>
           <div>${getLevelBadge(p.level)}</div>
@@ -2722,11 +2740,13 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </td>
         <td>
           <div style="display:flex; gap:6px;">
-            <button class="btn-action-approve btn-cms-edit-online" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              ✏️ تعديل
+            <button class="btn-action-approve btn-cms-edit-online" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+              <span>تعديل</span>
             </button>
-            <button class="btn-action-reject btn-cms-del-online" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              🗑️
+            <button class="btn-action-reject btn-cms-del-online" data-id="${escapeHtml(p.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+              <span>حذف</span>
             </button>
           </div>
         </td>
@@ -2877,7 +2897,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         } catch (err) {
           showToast('تعذر الاتصال بالخادم لحفظ البرنامج أونلاين', 'danger');
         } finally {
-          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ برنامج الأونلاين'; }
+          if (btnSave) {
+            btnSave.disabled = false;
+            btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ برنامج الأونلاين</span>';
+          }
         }
       } else {
         const list = state.onlinePrograms || [];
@@ -2890,7 +2913,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         showToast('تم حفظ البرنامج أونلاين محلياً', 'success');
         closeModals();
         renderCmsOnlineProgramsTable();
-        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ برنامج الأونلاين'; }
+        if (btnSave) {
+          btnSave.disabled = false;
+          btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ برنامج الأونلاين</span>';
+        }
       }
     });
   }
@@ -3012,7 +3038,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </td>
         <td>
           <div>${getCountryBadge(lc.country || 'malaysia')}</div>
-          <div style="font-size:0.8rem; color:#475569; margin-top:4px;">📍 ${escapeHtml(cityAr || lc.city || 'كوالالمبور')}</div>
+          <div style="font-size:0.8rem; color:#475569; margin-top:4px; display:inline-flex; align-items:center; gap:4px;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg><span>${escapeHtml(cityAr || lc.city || 'كوالالمبور')}</span></div>
         </td>
         <td style="font-weight:700; color:#0f172a; font-size:0.88rem;">
           ${minFee ? `MYR ${Number(minFee).toLocaleString()} - ${Number(maxFee).toLocaleString()}` : '---'}
@@ -3024,11 +3050,13 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </td>
         <td>
           <div style="display:flex; gap:6px;">
-            <button class="btn-action-approve btn-cms-edit-lc" data-id="${escapeHtml(lc.id)}" type="button" style="padding:0.35rem 0.7rem; font-size:0.78rem;">
-              ✏️ تعديل والباقات
+            <button class="btn-action-approve btn-cms-edit-lc" data-id="${escapeHtml(lc.id)}" type="button" style="padding:0.35rem 0.7rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+              <span>تعديل والباقات</span>
             </button>
-            <button class="btn-action-reject btn-cms-del-lc" data-id="${escapeHtml(lc.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              🗑️
+            <button class="btn-action-reject btn-cms-del-lc" data-id="${escapeHtml(lc.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+              <span>حذف</span>
             </button>
           </div>
         </td>
@@ -3254,7 +3282,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         } catch (err) {
           showToast('تعذر الاتصال بالخادم لحفظ المعهد', 'danger');
         } finally {
-          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ معهد اللغة والباقات'; }
+          if (btnSave) {
+            btnSave.disabled = false;
+            btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ معهد اللغة والباقات</span>';
+          }
         }
       } else {
         const list = state.languageCenters || [];
@@ -3267,7 +3298,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         showToast('تم حفظ معهد اللغة محلياً', 'success');
         closeModals();
         renderCmsLanguageCentersTable();
-        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ معهد اللغة والباقات'; }
+        if (btnSave) {
+          btnSave.disabled = false;
+          btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ معهد اللغة والباقات</span>';
+        }
       }
     });
   }
@@ -3382,15 +3416,16 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           <div style="font-size:0.75rem; color:#94a3b8; font-family:monospace; margin-top:3px;">ID: ${escapeHtml(s.id || '---')}</div>
         </td>
         <td style="font-weight:600; color:var(--portal-navy); font-size:0.85rem;">
-          🏛️ ${escapeHtml(uniName)}
+          <span style="display:inline-flex; align-items:center; gap:4px;"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><path d="M3 21h18M3 10h18M5 10v11M19 10v11M9 10v11M15 10v11M12 2l10 8H2l10-8z"/></svg><span>${escapeHtml(uniName)}</span></span>
         </td>
         <td>
           <div>${getCountryBadge(s.country || 'malaysia')}</div>
           <div style="margin-top:4px;">${getLevelBadge(s.level || 'bachelor')}</div>
         </td>
         <td>
-          <span class="cms-badge" style="background:${isFull ? '#dcfce7' : '#fef3c7'}; color:${isFull ? '#166534' : '#92400e'}; font-weight:700;">
-            ${isFull ? '🏆 إعفاء كامل' : '✨ خصم جزئي'} (${escapeHtml(covAr)})
+          <span class="cms-badge" style="background:${isFull ? '#dcfce7' : '#fef3c7'}; color:${isFull ? '#166534' : '#92400e'}; font-weight:700; display:inline-flex; align-items:center; gap:4px;">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="7"/><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"/></svg>
+            <span>${isFull ? 'إعفاء كامل' : 'خصم جزئي'} (${escapeHtml(covAr)})</span>
           </span>
         </td>
         <td style="font-size:0.8rem; color:#475569;">
@@ -3398,11 +3433,13 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         </td>
         <td>
           <div style="display:flex; gap:6px;">
-            <button class="btn-action-approve btn-cms-edit-sch" data-id="${escapeHtml(s.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              ✏️ تعديل
+            <button class="btn-action-approve btn-cms-edit-sch" data-id="${escapeHtml(s.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+              <span>تعديل</span>
             </button>
-            <button class="btn-action-reject btn-cms-del-sch" data-id="${escapeHtml(s.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem;">
-              🗑️
+            <button class="btn-action-reject btn-cms-del-sch" data-id="${escapeHtml(s.id)}" type="button" style="padding:0.35rem 0.65rem; font-size:0.78rem; display:inline-flex; align-items:center; gap:4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+              <span>حذف</span>
             </button>
           </div>
         </td>
@@ -3533,7 +3570,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         } catch (err) {
           showToast('تعذر الاتصال بالخادم لحفظ المنحة', 'danger');
         } finally {
-          if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ المنحة الدراسية'; }
+          if (btnSave) {
+            btnSave.disabled = false;
+            btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ المنحة الدراسية</span>';
+          }
         }
       } else {
         const list = state.scholarships || [];
@@ -3546,7 +3586,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         showToast('تم حفظ المنحة محلياً', 'success');
         closeModals();
         renderCmsScholarshipsTable();
-        if (btnSave) { btnSave.disabled = false; btnSave.textContent = '💾 حفظ المنحة الدراسية'; }
+        if (btnSave) {
+          btnSave.disabled = false;
+          btnSave.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:5px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ المنحة الدراسية</span>';
+        }
       }
     });
   }
@@ -3649,21 +3692,14 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       elRatesLastUpdated.textContent = lastUp;
     }
 
-    const flags = {
-      USD: '🇺🇸', MYR: '🇲🇾', SAR: '🇸🇦', AED: '🇦🇪', KWD: '🇰🇼',
-      QAR: '🇶🇦', BHD: '🇧🇭', OMR: '🇴🇲', EGP: '🇪🇬', GBP: '🇬🇧',
-      EUR: '🇪🇺', AUD: '🇦🇺', CAD: '🇨🇦', NZD: '🇳🇿', SGD: '🇸🇬',
-      IDR: '🇮🇩', CNY: '🇨🇳', JPY: '🇯🇵', TRY: '🇹🇷'
-    };
-
     Object.keys(rates).forEach(curr => {
       const rateVal = rates[curr];
-      const flag = flags[curr] || '🌐';
       const card = document.createElement('div');
       card.style.cssText = 'background:#f8fafc; border:1px solid #cbd5e1; border-radius:8px; padding:0.6rem 0.75rem; text-align:center; box-shadow:0 1px 3px rgba(0,0,0,0.03);';
       card.innerHTML = `
-        <div style="font-weight:800; font-size:0.85rem; color:var(--portal-navy); margin-bottom:4px; display:flex; align-items:center; justify-content:center; gap:4px;">
-          <span>${flag}</span> <span>${curr}</span>
+        <div style="font-weight:800; font-size:0.85rem; color:var(--portal-navy); margin-bottom:4px; display:flex; align-items:center; justify-content:center; gap:5px;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#d97706" stroke-width="2.2"><circle cx="12" cy="12" r="10"></circle><path d="M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8"></path><line x1="12" y1="6" x2="12" y2="18"></line></svg>
+          <span>${curr}</span>
         </div>
         <input type="number" step="0.0001" min="0" class="portal-form-input cms-rate-input" data-curr="${curr}" value="${rateVal}" style="text-align:center; font-weight:700; font-size:0.88rem; padding:4px 6px; width:100%; box-sizing:border-box;" />
       `;
@@ -3715,7 +3751,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           showToast('تعذر الاتصال بالخادم لتحديث أسعار الصرف', 'danger');
         } finally {
           elBtnSaveRates.disabled = false;
-          elBtnSaveRates.textContent = '💾 حفظ وتحديث أسعار الصرف في الموقع فوراً';
+          elBtnSaveRates.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:6px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ وتحديث أسعار الصرف في الموقع فوراً</span>';
         }
       } else {
         state.exchangeRates = payload;
@@ -3723,7 +3759,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         if (elRatesLastUpdated) elRatesLastUpdated.textContent = nowTime;
         showToast('تم تحديث أسعار الصرف محلياً في وضع المعاينة', 'success');
         elBtnSaveRates.disabled = false;
-        elBtnSaveRates.textContent = '💾 حفظ وتحديث أسعار الصرف في الموقع فوراً';
+        elBtnSaveRates.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="vertical-align:middle; margin-left:6px;"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg><span>حفظ وتحديث أسعار الصرف في الموقع فوراً</span>';
       }
     });
   }
