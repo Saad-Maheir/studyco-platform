@@ -7168,13 +7168,13 @@ body.menu-open {
 
 
 /* Bidirectional & RTL Phone Protection */
-#footer-wa-link, .footer-phone-number, a[href^="tel:"], a[data-wa-general] {
+#footer-wa-link, .footer-phone-number, a[href^="tel:"] {
   direction: ltr !important;
   unicode-bidi: isolate !important;
   display: inline-block !important;
   text-align: left !important;
 }
-[dir="rtl"] #footer-wa-link, [dir="rtl"] .footer-phone-number, [dir="rtl"] a[data-wa-general] {
+[dir="rtl"] #footer-wa-link, [dir="rtl"] .footer-phone-number {
   direction: ltr !important;
   unicode-bidi: isolate !important;
   display: inline-block !important;
