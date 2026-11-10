@@ -678,7 +678,7 @@ try {
                 @mkdir($targetDir, 0755, true);
             }
 
-            $prefix = ($type === 'lc') ? 'lc_' : ($type === 'logo' ? 'uni_logo_' : 'campus_');
+            $prefix = ($type === 'lc') ? 'lc_' : (($type === 'logo') ? 'uni_logo_' : (($type === 'online') ? 'prog_online_' : 'campus_'));
             $cleanName = $prefix . preg_replace('/[^a-zA-Z0-9_-]/', '', pathinfo($fileOrig, PATHINFO_FILENAME)) . '_' . time() . '.' . $ext;
             $targetPath = $targetDir . $cleanName;
 
@@ -692,7 +692,10 @@ try {
 
             sendResponse(true, [
                 'path'      => $relativePath,
+                'url'       => $relativePath,
+                'file_url'  => $relativePath,
                 'file_name' => $cleanName,
+                'filename'  => $cleanName,
                 'size'      => $fileSize
             ], 'تم رفع الصورة بنجاح');
             break;

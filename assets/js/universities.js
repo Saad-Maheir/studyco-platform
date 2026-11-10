@@ -189,7 +189,7 @@ export class UniversityDirectory {
         uniTitle = uniTitle.replace(/\(([^)]+)\)/, '<span dir="ltr" style="display:inline-block; unicode-bidi:embed;">($1)</span>');
       }
       const waMsg = i18n.t('wa_university_msg', { university: rawTitle });
-      const logoSrc = uni.logo ? (uni.logo.startsWith('/') || uni.logo.startsWith('http') ? uni.logo : '/' + uni.logo) : '/assets/photo/logo.webp';
+      const logoSrc = uni.logo ? (uni.logo.startsWith('data:') || uni.logo.startsWith('/') || uni.logo.startsWith('http') ? uni.logo : '/' + uni.logo) : '/assets/photo/logo.webp';
       card.innerHTML = `
         <a href="university.html?id=${uni.id}"><div class="entity-card-logo"><img alt="${rawTitle}" loading="lazy" decoding="async" src="${logoSrc}" width="80" height="80" onerror="this.onerror=null; this.src='/assets/photo/logo.webp';"/></div></a>
         <h3 class="entity-card-title"><a href="university.html?id=${uni.id}" style="color:inherit;"><bdi>${uniTitle}</bdi></a></h3>

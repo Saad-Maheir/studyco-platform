@@ -23,27 +23,42 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     if (!container) {
       container = document.createElement('div');
       container.id = 'portal-toast-container';
-      container.style.cssText = 'position:fixed; top:24px; left:50%; transform:translateX(-50%); z-index:99999; display:flex; flex-direction:column; gap:10px; max-width:92vw; width:440px; pointer-events:none;';
       document.body.appendChild(container);
     }
 
     const toast = document.createElement('div');
     toast.className = `portal-toast portal-toast-${type}`;
 
+    let iconSvg = '';
     let bg = '#1e293b';
-    let icon = 'ℹ️';
-    if (type === 'success') { bg = '#065f46'; icon = '✓'; }
-    else if (type === 'danger' || type === 'error') { bg = '#991b1b'; icon = '✕'; }
-    else if (type === 'warning') { bg = '#854d0e'; icon = '!'; }
+    let border = '1px solid #334155';
 
-    toast.style.cssText = `background:${bg}; color:#ffffff; padding:12px 18px; border-radius:10px; box-shadow:0 10px 25px rgba(0,0,0,0.22); font-size:0.88rem; font-weight:600; display:flex; align-items:center; gap:12px; pointer-events:auto; transition:all 0.3s ease; direction:${document.documentElement.dir || 'rtl'}; text-align:${document.documentElement.dir === 'ltr' ? 'left' : 'right'};`;
-    toast.innerHTML = `<span style="font-size:1.15rem; line-height:1; flex-shrink:0;">${icon}</span><span style="flex:1; line-height:1.4;">${escapeHtml(message)}</span>`;
+    if (type === 'success') {
+      bg = '#059669';
+      border = '1px solid #10b981';
+      iconSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+    } else if (type === 'danger' || type === 'error') {
+      bg = '#dc2626';
+      border = '1px solid #ef4444';
+      iconSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>';
+    } else if (type === 'warning') {
+      bg = '#d97706';
+      border = '1px solid #f59e0b';
+      iconSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>';
+    } else {
+      bg = '#2563eb';
+      border = '1px solid #3b82f6';
+      iconSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>';
+    }
+
+    toast.style.cssText = `background:${bg}; border:${border}; color:#ffffff; padding:13px 18px; border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.22); font-size:0.9rem; font-weight:600; display:flex; align-items:center; gap:12px; pointer-events:auto; transition:all 0.3s cubic-bezier(0.16, 1, 0.3, 1); direction:${document.documentElement.dir || 'rtl'}; text-align:${document.documentElement.dir === 'ltr' ? 'left' : 'right'};`;
+    toast.innerHTML = `${iconSvg}<span style="flex:1; line-height:1.45;">${escapeHtml(message)}</span>`;
 
     container.appendChild(toast);
 
     setTimeout(() => {
       toast.style.opacity = '0';
-      toast.style.transform = 'translateY(-10px)';
+      toast.style.transform = 'translateY(-12px) scale(0.96)';
       setTimeout(() => toast.remove(), 320);
     }, duration);
   }
@@ -1703,9 +1718,58 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     return url;
   }
 
+  // Compress Image to lightweight Data URL (WebP/JPEG max 900px, quality 0.82; SVG as text DataURL)
+  function compressImageToDataUrl(file, maxWidth = 900, quality = 0.82) {
+    return new Promise((resolve) => {
+      if (!file) return resolve(null);
+      // SVG handling: read directly as DataURL without rasterization
+      if (file.type === 'image/svg+xml' || (file.name && file.name.toLowerCase().endsWith('.svg'))) {
+        const reader = new FileReader();
+        reader.onload = () => resolve(reader.result);
+        reader.onerror = () => resolve(null);
+        reader.readAsDataURL(file);
+        return;
+      }
+
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        const img = new Image();
+        img.onload = () => {
+          try {
+            let width = img.width;
+            let height = img.height;
+            if (width > maxWidth) {
+              height = Math.round((height * maxWidth) / width);
+              width = maxWidth;
+            }
+            const canvas = document.createElement('canvas');
+            canvas.width = width;
+            canvas.height = height;
+            const ctx = canvas.getContext('2d');
+            ctx.drawImage(img, 0, 0, width, height);
+
+            let dataUrl = canvas.toDataURL('image/webp', quality);
+            if (!dataUrl || !dataUrl.startsWith('data:image/webp')) {
+              dataUrl = canvas.toDataURL('image/jpeg', quality);
+            }
+            resolve(dataUrl);
+          } catch (err) {
+            resolve(e.target.result);
+          }
+        };
+        img.onerror = () => resolve(e.target.result);
+        img.src = e.target.result;
+      };
+      reader.onerror = () => resolve(null);
+      reader.readAsDataURL(file);
+    });
+  }
+
   // Media Upload Helper with Live API / Offline Fallback
   async function uploadCmsMedia(file, type = 'general') {
     if (!file) return null;
+
+    // 1. Try Live Server API if active
     if (state.isLiveApi) {
       try {
         const formData = new FormData();
@@ -1716,33 +1780,32 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           body: formData,
           credentials: 'include'
         });
-        const json = await res.json();
-        if (json.success && json.data && json.data.file_url) {
-          showToast('تم رفع الملف بنجاح: ' + json.data.filename, 'success');
-          return json.data.file_url;
-        } else {
-          showToast(json.message || 'فشل في رفع الملف', 'danger');
-          return null;
+        if (res.ok) {
+          const json = await res.json();
+          const path = json.data?.path || json.data?.url || json.data?.file_url || json.data?.file_path || json.path;
+          if (json.success && path) {
+            showToast('تم رفع الصورة بنجاح على الخادم', 'success');
+            return path;
+          }
         }
       } catch (err) {
-        showToast('تعذر الاتصال بالخادم لرفع الملف', 'danger');
-        return null;
+        console.warn('[CMS Upload] Live API upload failed, falling back to client compressed image:', err);
       }
-    } else {
-      // Offline preview: convert to base64 data URL
-      return new Promise((resolve) => {
-        const reader = new FileReader();
-        reader.onload = () => {
-          showToast('تم تجهيز الصورة محلياً للمعاينة', 'info');
-          resolve(reader.result);
-        };
-        reader.onerror = () => {
-          showToast('فشل في قراءة الملف محلياً', 'danger');
-          resolve(null);
-        };
-        reader.readAsDataURL(file);
-      });
     }
+
+    // 2. Offline / Preview Mode / Network Fallback
+    try {
+      const dataUrl = await compressImageToDataUrl(file, 900, 0.82);
+      if (dataUrl) {
+        showToast('تم حفظ الصورة بنجاح محلياً للمعاينة والتسميع', 'success');
+        return dataUrl;
+      }
+    } catch (e) {
+      console.error('[CMS Upload] Fallback compression failed:', e);
+    }
+
+    showToast('فشل في معالجة ملف الصورة', 'danger');
+    return null;
   }
 
   // -------------------------------------------------------------------------
@@ -1964,6 +2027,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     loadCmsUniversityPrograms(uniId);
   }
 
+  // Automatic University ID (Slug) Generation tracking
+  let uniIdManuallyEdited = false;
+
   // Open University Modal (Add or Edit)
   async function openCmsUniversityModal(uniId = null) {
     if (!elModalUniversity) return;
@@ -1986,6 +2052,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
 
     if (uniId) {
       // Edit Mode
+      uniIdManuallyEdited = true;
       if (elTitle) elTitle.textContent = 'تعديل بيانات الجامعة والشراكة';
       if (elId) {
         elId.value = uniId;
@@ -2053,6 +2120,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       }
     } else {
       // Add Mode
+      uniIdManuallyEdited = false;
       if (elTitle) elTitle.textContent = 'إضافة صرح جامعي جديد';
       if (elId) {
         elId.value = '';
@@ -2073,12 +2141,19 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         return el ? el.value.trim() : '';
       };
 
-      const id = getVal('cms-uni-id');
+      let id = getVal('cms-uni-id');
       const name = getVal('cms-uni-name');
       const country = getVal('cms-uni-country') || 'malaysia';
 
+      // Auto-generate slug ID if empty
+      if (!id && name) {
+        id = slugifyText(name);
+        const elId = document.getElementById('cms-uni-id');
+        if (elId) elId.value = id;
+      }
+
       if (!id || !name) {
-        showToast('يرجى ملء معرف واسم الجامعة', 'warning');
+        showToast('يرجى ملء اسم الجامعة بالإنجليزية لتوليد المعرف تلقائياً', 'warning');
         return;
       }
 
@@ -2119,6 +2194,13 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           if (json.success) {
             showToast('تم حفظ الجامعة وبياناتها بنجاح!', 'success');
             recordLocalCmsOverride('universities', payload, false);
+            // Sync locally so other tabs/pages immediately see the new university
+            const list = state.universities || [];
+            const idx = list.findIndex(u => u.id === payload.id);
+            if (idx >= 0) list[idx] = Object.assign({}, list[idx], payload);
+            else list.unshift(payload);
+            state.universities = list;
+            try { localStorage.setItem('studyco_cms_universities', JSON.stringify(list)); } catch(e){}
             closeModals();
             await loadCmsUniversities(true);
           } else {
@@ -2191,7 +2273,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     btnTriggerUniLogo.addEventListener('click', () => fileUniLogo.click());
     fileUniLogo.addEventListener('change', async function() {
       if (this.files && this.files[0]) {
-        const uploadedUrl = await uploadCmsMedia(this.files[0], 'uni');
+        const file = this.files[0];
+        btnTriggerUniLogo.disabled = true;
+        const uploadedUrl = await uploadCmsMedia(file, 'logo');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-uni-logo');
           if (inp) inp.value = uploadedUrl;
@@ -2199,6 +2283,8 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           const img = document.getElementById('img-preview-uni-logo');
           if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
         }
+        btnTriggerUniLogo.disabled = false;
+        this.value = '';
       }
     });
   }
@@ -2209,7 +2295,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     btnTriggerUniImg.addEventListener('click', () => fileUniImg.click());
     fileUniImg.addEventListener('change', async function() {
       if (this.files && this.files[0]) {
-        const uploadedUrl = await uploadCmsMedia(this.files[0], 'uni');
+        const file = this.files[0];
+        btnTriggerUniImg.disabled = true;
+        const uploadedUrl = await uploadCmsMedia(file, 'campus');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-uni-image');
           if (inp) inp.value = uploadedUrl;
@@ -2217,7 +2305,23 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           const img = document.getElementById('img-preview-uni-image');
           if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
         }
+        btnTriggerUniImg.disabled = false;
+        this.value = '';
       }
+    });
+  }
+
+  // Automatic University Slug Generator on English Name Input
+  const inpUniName = document.getElementById('cms-uni-name');
+  const inpUniId = document.getElementById('cms-uni-id');
+  if (inpUniName && inpUniId) {
+    inpUniName.addEventListener('input', function() {
+      if (!inpUniId.readOnly && !uniIdManuallyEdited) {
+        inpUniId.value = slugifyText(this.value);
+      }
+    });
+    inpUniId.addEventListener('input', function() {
+      uniIdManuallyEdited = this.value.trim().length > 0;
     });
   }
 
@@ -2783,6 +2887,10 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
 
     const elId = document.getElementById('cms-online-id');
     const elTitle = document.getElementById('modal-cms-online-title');
+    const boxImg = document.getElementById('box-preview-online-image');
+    const imgPreview = document.getElementById('img-preview-online-image');
+
+    if (boxImg) boxImg.style.display = 'none';
 
     const setVal = (id, val) => {
       const el = document.getElementById(id);
@@ -2805,6 +2913,11 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       setVal('cms-online-ielts', p.ielts || '');
       setVal('cms-online-intakes', Array.isArray(p.intakes) ? p.intakes.join(', ') : (p.intakes || ''));
       setVal('cms-online-image', p.image || '');
+
+      if (p.image && boxImg && imgPreview) {
+        imgPreview.src = p.image;
+        boxImg.style.display = 'flex';
+      }
     } else {
       if (elTitle) elTitle.textContent = 'إضافة برنامج درجة جامعية أونلاين جديد';
       if (elId) elId.value = '';
@@ -2825,11 +2938,21 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     btnTriggerOnlineImg.addEventListener('click', () => fileOnlineImg.click());
     fileOnlineImg.addEventListener('change', async function() {
       if (this.files && this.files[0]) {
-        const uploadedUrl = await uploadCmsMedia(this.files[0], 'online');
+        const file = this.files[0];
+        btnTriggerOnlineImg.disabled = true;
+        const uploadedUrl = await uploadCmsMedia(file, 'online');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-online-image');
           if (inp) inp.value = uploadedUrl;
+          const box = document.getElementById('box-preview-online-image');
+          const img = document.getElementById('img-preview-online-image');
+          if (box && img) {
+            img.src = uploadedUrl;
+            box.style.display = 'flex';
+          }
         }
+        btnTriggerOnlineImg.disabled = false;
+        this.value = '';
       }
     });
   }
@@ -3188,7 +3311,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     btnTriggerLcImg.addEventListener('click', () => fileLcImg.click());
     fileLcImg.addEventListener('change', async function() {
       if (this.files && this.files[0]) {
-        const uploadedUrl = await uploadCmsMedia(this.files[0], 'lc');
+        const file = this.files[0];
+        btnTriggerLcImg.disabled = true;
+        const uploadedUrl = await uploadCmsMedia(file, 'lc');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-lc-image');
           if (inp) inp.value = uploadedUrl;
@@ -3196,6 +3321,8 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
           const img = document.getElementById('img-preview-lc-image');
           if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
         }
+        btnTriggerLcImg.disabled = false;
+        this.value = '';
       }
     });
   }

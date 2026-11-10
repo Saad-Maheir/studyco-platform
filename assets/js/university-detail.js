@@ -600,17 +600,106 @@ class UniversityDetailManager {
       const uniData = await uniRes.json();
       this.exchangeData = exchangeData;
       this.allUniversities = uniData.universities || [];
-      this.uni = this.allUniversities.find((u) => u.id === uniId) || this.allUniversities[0];
 
+      // 1. Overlay & Load Live CMS overrides (Server data/cms-overrides.json + Client localStorage)
+      let serverOverrides = null;
+      try {
+        const ovRes = await fetch(`./data/cms-overrides.json${v}`, { cache: 'no-cache' });
+        if (ovRes.ok) serverOverrides = await ovRes.json();
+      } catch (e) {}
+
+      let clientOverrides = null;
+      let localCmsUnis = null;
+      try {
+        clientOverrides = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
+        localCmsUnis = JSON.parse(localStorage.getItem('studyco_cms_universities') || 'null');
+      } catch (e) {}
+
+      // If localStorage has CMS universities, merge them
+      if (Array.isArray(localCmsUnis) && localCmsUnis.length > 0) {
+        localCmsUnis.forEach(u => {
+          if (u && u.id) {
+            const idx = this.allUniversities.findIndex(x => x.id === u.id);
+            if (idx >= 0) this.allUniversities[idx] = Object.assign({}, this.allUniversities[idx], u);
+            else this.allUniversities.unshift(u);
+          }
+        });
+      }
+
+      // Check server & client overrides for universities
+      const applyUniListOverrides = (ov) => {
+        if (!ov) return;
+        const modified = ov.universities?.modified || ov.universities || {};
+        Object.values(modified).forEach(u => {
+          if (u && u.id) {
+            const idx = this.allUniversities.findIndex(x => x.id === u.id);
+            if (idx >= 0) this.allUniversities[idx] = Object.assign({}, this.allUniversities[idx], u);
+            else this.allUniversities.unshift(u);
+          }
+        });
+        const delUnis = ov.deleted_universities || ov.universities?.deleted || [];
+        if (Array.isArray(delUnis) && delUnis.length > 0) {
+          const delSet = new Set(delUnis);
+          this.allUniversities = this.allUniversities.filter(u => !delSet.has(u.id));
+        }
+      };
+      if (serverOverrides) applyUniListOverrides(serverOverrides);
+      if (clientOverrides) applyUniListOverrides(clientOverrides);
+
+      // Locate current university
+      let matchedUni = this.allUniversities.find((u) => u.id === uniId);
+
+      // If still not found, check live server API directly if available
+      if (!matchedUni) {
+        try {
+          const liveRes = await fetch(`./api/cms.php?action=get_university&id=${encodeURIComponent(uniId)}`, { cache: 'no-cache' });
+          if (liveRes.ok) {
+            const liveJson = await liveRes.json();
+            if (liveJson.success && liveJson.data && liveJson.data.university) {
+              matchedUni = liveJson.data.university;
+              this.allUniversities.unshift(matchedUni);
+            }
+          }
+        } catch (e) {}
+      }
+
+      // Set current university (fallback to first if nonexistent)
+      this.uni = matchedUni || this.allUniversities[0];
+
+      // Load details or synthesize fallback
       if (detailsRes.ok) {
         this.details = await detailsRes.json();
         this.programs = this.details.programs || [];
       } else {
-        this.details = {};
+        // Synthesize full details from this.uni for newly created universities
+        this.details = {
+          id: this.uni ? this.uni.id : uniId,
+          name: this.uni ? this.uni.name : '',
+          arabicName: this.uni ? (this.uni.arabicName || this.uni.arabic_name) : '',
+          country: this.uni ? this.uni.country : 'malaysia',
+          city: this.uni ? this.uni.city : '',
+          ranking: this.uni ? this.uni.ranking : '',
+          established: this.uni ? this.uni.established : '',
+          campusName: this.uni ? (this.uni.campusName || this.uni.campus_name) : '',
+          campusNameAr: this.uni ? (this.uni.campusNameAr || this.uni.campus_name_ar) : '',
+          studentCount: this.uni ? (this.uni.studentCount || this.uni.student_count) : '',
+          feeRangeMin: this.uni ? (this.uni.feeRangeMin || this.uni.fee_range_min || 0) : 0,
+          feeRangeMax: this.uni ? (this.uni.feeRangeMax || this.uni.fee_range_max || 0) : 0,
+          currency: this.uni ? (this.uni.currency || 'MYR') : 'MYR',
+          website: this.uni ? this.uni.website : '',
+          videoUrl: this.uni ? (this.uni.videoUrl || this.uni.video_url) : '',
+          logo: this.uni ? this.uni.logo : '',
+          image: this.uni ? this.uni.image : '',
+          summary: {
+            arabic: this.uni ? (this.uni.descriptionAr || this.uni.description_ar || '') : '',
+            english: this.uni ? (this.uni.description || '') : ''
+          },
+          programs: []
+        };
         this.programs = [];
       }
 
-      // Live CMS overrides overlay (Server data/cms-overrides.json + Client localStorage)
+      // Live CMS overrides overlay for the specific university details and programs
       const applyDetailOverrides = (ov) => {
         if (!ov) return;
         const uniMod = ov.universities?.modified?.[uniId] || ov.universities?.[uniId];
@@ -633,20 +722,31 @@ class UniversityDetailManager {
         }
       };
 
-      try {
-        const ovRes = await fetch(`./data/cms-overrides.json${v}`, { cache: 'no-cache' });
-        if (ovRes.ok) applyDetailOverrides(await ovRes.json());
-      } catch (e) {}
+      if (serverOverrides) applyDetailOverrides(serverOverrides);
+      if (clientOverrides) applyDetailOverrides(clientOverrides);
 
-      // Client-side preview overrides from localStorage (Vercel / Offline mode)
+      // LocalStorage programs for this university
       try {
-        const localOv = JSON.parse(localStorage.getItem('studyco_cms_overrides') || 'null');
-        if (localOv) applyDetailOverrides(localOv);
         const localUniProgs = JSON.parse(localStorage.getItem('studyco_uni_prog_' + uniId) || 'null');
         if (Array.isArray(localUniProgs) && localUniProgs.length > 0) {
           this.programs = localUniProgs;
         }
       } catch (e) {}
+
+      // Fallback: If programs list is still empty, query data/programs.json
+      if (!this.programs || this.programs.length === 0) {
+        try {
+          const allProgRes = await fetch(`./data/programs.json${v}`, { cache: 'no-cache' });
+          if (allProgRes.ok) {
+            const allProgData = await allProgRes.json();
+            const progsList = allProgData.programs || [];
+            const uniProgs = progsList.filter(p => p && (p.university_id === uniId || p.universityId === uniId));
+            if (uniProgs.length > 0) {
+              this.programs = uniProgs;
+            }
+          }
+        } catch (e) {}
+      }
     } catch (err) {
       console.warn('[UniversityDetail] Error loading data:', err);
     }
@@ -1405,7 +1505,7 @@ class UniversityDetailManager {
       <!-- 1. Hero Banner Card -->
       <div class="profile-banner">
         <div class="profile-banner-logo">
-          <img alt="${uni.name} Logo" src="${uni.logo}?v=43.0" onerror="this.onerror=null; this.src='assets/photo/logo-dark.webp';"/>
+          <img alt="${uni.name} Logo" src="${(uni.logo && uni.logo.startsWith('data:')) ? uni.logo : (uni.logo ? `${uni.logo}?v=43.0` : 'assets/photo/logo-dark.webp')}" onerror="this.onerror=null; this.src='assets/photo/logo-dark.webp';"/>
         </div>
         <div class="profile-banner-info">
           <div class="profile-badges-row">
