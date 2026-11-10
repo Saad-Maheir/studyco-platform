@@ -1,0 +1,7 @@
+/* ==========================================================================
+   University Detail Stylesheet
+   ========================================================================== */
+.profile-main-tab[data-tab="articles"],
+#tab-articles {
+  display: none !important;
+}

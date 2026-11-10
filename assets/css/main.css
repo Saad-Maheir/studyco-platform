@@ -7393,3 +7393,10 @@ a[data-wa-general].btn-whatsapp-header,
   box-shadow: 0 10px 25px rgba(245, 176, 0, 0.35) !important;
 }
 
+/* Hide Articles and Guides tab and pane */
+.profile-main-tab[data-tab="articles"],
+#tab-articles {
+  display: none !important;
+}
+
+

@@ -585,8 +585,12 @@ class UniversityDetailManager {
     const tabParam = params.get('tab') || window.location.hash.replace('#', '');
     const validTabs = ['overview', 'courses', 'accommodation'];
     if (SHOW_ARTICLES_TAB) validTabs.push('articles');
-    if (validTabs.includes(tabParam)) {
+    if (tabParam === 'articles' && !SHOW_ARTICLES_TAB) {
+      this.activeTab = 'overview';
+    } else if (validTabs.includes(tabParam)) {
       this.activeTab = tabParam;
+    } else {
+      this.activeTab = 'overview';
     }
 
     try {
@@ -1544,10 +1548,7 @@ class UniversityDetailManager {
           <span>${i18n.t('tab_courses')}</span>
           <span class="tab-count-badge">${this.programs.length}</span>
         </button>
-        <button class="profile-main-tab ${this.activeTab === 'articles' ? 'active' : ''}" data-tab="articles" style="${SHOW_ARTICLES_TAB ? '' : 'display:none !important;'}">
-          <span class="tab-icon">${ICONS.fileText}</span>
-          <span>${i18n.t('tab_articles')}</span>
-        </button>
+        ${SHOW_ARTICLES_TAB ? `<button class="profile-main-tab ${this.activeTab === 'articles' ? 'active' : ''}" data-tab="articles"><span class="tab-icon">${ICONS.fileText}</span><span>${i18n.t('tab_articles')}</span></button>` : ''}
         <button class="profile-main-tab ${this.activeTab === 'accommodation' ? 'active' : ''}" data-tab="accommodation">
           <span class="tab-icon">${ICONS.home}</span>
           <span>${i18n.t('tab_accommodation')}</span>
@@ -1816,7 +1817,8 @@ class UniversityDetailManager {
       </div>
 
       <!-- TAB 3: ARTICLES & GUIDES PANE -->
-      <div class="profile-tab-pane ${this.activeTab === 'articles' ? 'active' : ''}" id="tab-articles" style="${SHOW_ARTICLES_TAB ? '' : 'display:none !important;'}">
+      ${SHOW_ARTICLES_TAB ? `
+      <div class="profile-tab-pane ${this.activeTab === 'articles' ? 'active' : ''}" id="tab-articles">
         <section class="profile-section">
           <h2 class="profile-section-title">${i18n.t('tab_articles')}</h2>
           <p class="profile-section-subtitle" style="margin-block-end: 2rem;">${i18n.t('articles_subtitle')}</p>
@@ -1843,7 +1845,7 @@ class UniversityDetailManager {
             }).join('')}
           </div>
         </section>
-      </div>
+      </div>` : ''}
 
       <!-- TAB 4: ACCOMMODATION & LIVING EXPENSES PANE -->
       <div class="profile-tab-pane ${this.activeTab === 'accommodation' ? 'active' : ''}" id="tab-accommodation">
