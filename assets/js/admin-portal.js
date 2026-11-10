@@ -2209,14 +2209,20 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       const country = getVal('cms-uni-country') || 'malaysia';
 
       // Auto-generate slug ID if empty
-      if (!id && name) {
-        id = slugifyText(name);
+      if (!id) {
+        if (name) {
+          id = slugifyText(name);
+        } else {
+          const arName = getVal('cms-uni-arabicName');
+          if (arName) id = slugifyText(arName);
+        }
+        if (!id) id = 'uni_' + Date.now();
         const elId = document.getElementById('cms-uni-id');
         if (elId) elId.value = id;
       }
 
-      if (!id || !name) {
-        showToast('يرجى ملء اسم الجامعة بالإنجليزية لتوليد المعرف تلقائياً', 'warning');
+      if (!name) {
+        showToast('يرجى ملء اسم الجامعة الرسمي قبل الحفظ', 'warning');
         return;
       }
 

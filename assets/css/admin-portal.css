@@ -572,9 +572,10 @@ input[type="text"]::-ms-clear {
   animation: toastSlideDown 0.28s cubic-bezier(0.16, 1, 0.3, 1);
   color: #ffffff;
 }
-.portal-toast.portal-toast-success {
+.portal-toast.portal-toast-success,
+.portal-toast-success {
   background: #059669 !important;
-  border: 1px solid #10b981 !important;
+  border: 1px solid #047857 !important;
   color: #ffffff !important;
 }
 .portal-toast.portal-toast-danger,
