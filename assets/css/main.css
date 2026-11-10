@@ -323,6 +323,26 @@ h1, h2, h3, h4 {
 }
 
 /* Smart 2-Column Mega Dropdown for Study Abroad */
+.mega-menu {
+  position: absolute;
+  top: 100%;
+  inset-inline-start: 0;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transform: translateY(10px);
+  transition: var(--transition);
+  z-index: 1000;
+}
+
+.nav-item:hover .mega-menu,
+.nav-item:focus-within .mega-menu {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
 .dropdown-menu.mega-menu {
   min-width: 580px;
   padding: 1.25rem 1.4rem;
