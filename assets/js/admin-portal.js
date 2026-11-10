@@ -1777,32 +1777,30 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     });
   }
 
-  // Media Upload Helper with Live API / Offline Fallback
+  // Media Upload Helper with Live Server API & Client Fallback
   async function uploadCmsMedia(file, type = 'general') {
     if (!file) return null;
 
-    // 1. Try Live Server API if active
-    if (state.isLiveApi) {
-      try {
-        const formData = new FormData();
-        formData.append('file', file);
-        formData.append('type', type);
-        const res = await fetch(API_BASE + '/cms.php?action=upload_media', {
-          method: 'POST',
-          body: formData,
-          credentials: 'include'
-        });
-        if (res.ok) {
-          const json = await res.json();
-          const path = json.data?.path || json.data?.url || json.data?.file_url || json.data?.file_path || json.path;
-          if (json.success && path) {
-            showToast('تم رفع الصورة بنجاح على الخادم', 'success');
-            return path;
-          }
+    // 1. Try Live Server API Upload
+    try {
+      const formData = new FormData();
+      formData.append('file', file);
+      formData.append('type', type);
+      const res = await fetch(API_BASE + '/cms.php?action=upload_media', {
+        method: 'POST',
+        body: formData,
+        credentials: 'include'
+      });
+      if (res.ok) {
+        const json = await res.json();
+        const path = json.data?.path || json.data?.url || json.data?.file_url || json.data?.file_path || json.path;
+        if ((json.status === 'success' || json.success) && path) {
+          showToast('تم رفع الصورة بنجاح على الخادم ✓', 'success');
+          return path;
         }
-      } catch (err) {
-        console.warn('[CMS Upload] Live API upload failed, falling back to client compressed image:', err);
       }
+    } catch (err) {
+      console.warn('[CMS Upload] Live API upload failed, falling back to client compression:', err);
     }
 
     // 2. Offline / Preview Mode / Network Fallback
@@ -2042,6 +2040,62 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
   // Automatic University ID (Slug) Generation tracking
   let uniIdManuallyEdited = false;
 
+  // University Media Preview & Removal Helper (Logo & Campus Image)
+  function updateUniMediaPreview(kind, path) {
+    const cleanPath = (path || '').trim();
+    if (kind === 'logo') {
+      const inp = document.getElementById('cms-uni-logo');
+      const box = document.getElementById('cms-uni-logo-preview') || document.getElementById('box-preview-uni-logo');
+      const img = document.getElementById('cms-uni-logo-img') || document.getElementById('img-preview-uni-logo');
+      const fileInp = document.getElementById('file-uni-logo');
+
+      if (cleanPath) {
+        if (inp && inp.value !== cleanPath) inp.value = cleanPath;
+        if (img) img.src = cleanPath;
+        if (box) {
+          box.style.display = 'flex';
+          box.style.alignItems = 'center';
+          box.style.gap = '10px';
+          box.style.marginTop = '8px';
+          box.style.padding = '8px 12px';
+          box.style.background = '#f0fdf4';
+          box.style.border = '1px solid #bbf7d0';
+          box.style.borderRadius = '8px';
+        }
+      } else {
+        if (inp) inp.value = '';
+        if (img) img.src = '';
+        if (box) box.style.display = 'none';
+        if (fileInp) fileInp.value = '';
+      }
+    } else if (kind === 'campus') {
+      const inp = document.getElementById('cms-uni-image');
+      const box = document.getElementById('cms-uni-image-preview') || document.getElementById('box-preview-uni-image');
+      const img = document.getElementById('cms-uni-image-img') || document.getElementById('img-preview-uni-image');
+      const fileInp = document.getElementById('file-uni-image');
+
+      if (cleanPath) {
+        if (inp && inp.value !== cleanPath) inp.value = cleanPath;
+        if (img) img.src = cleanPath;
+        if (box) {
+          box.style.display = 'flex';
+          box.style.alignItems = 'center';
+          box.style.gap = '10px';
+          box.style.marginTop = '8px';
+          box.style.padding = '8px 12px';
+          box.style.background = '#f0fdf4';
+          box.style.border = '1px solid #bbf7d0';
+          box.style.borderRadius = '8px';
+        }
+      } else {
+        if (inp) inp.value = '';
+        if (img) img.src = '';
+        if (box) box.style.display = 'none';
+        if (fileInp) fileInp.value = '';
+      }
+    }
+  }
+
   // Open University Modal (Add or Edit)
   async function openCmsUniversityModal(uniId = null) {
     if (!elModalUniversity) return;
@@ -2052,15 +2106,11 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     const elTitle = document.getElementById('modal-cms-uni-title');
     const videoWrap = document.getElementById('cms-uni-video-preview-wrap');
     const videoIframe = document.getElementById('cms-uni-video-iframe');
-    const boxLogo = document.getElementById('box-preview-uni-logo');
-    const imgLogo = document.getElementById('img-preview-uni-logo');
-    const boxImage = document.getElementById('box-preview-uni-image');
-    const imgImage = document.getElementById('img-preview-uni-image');
 
     if (videoWrap) videoWrap.style.display = 'none';
     if (videoIframe) videoIframe.src = '';
-    if (boxLogo) boxLogo.style.display = 'none';
-    if (boxImage) boxImage.style.display = 'none';
+    updateUniMediaPreview('logo', '');
+    updateUniMediaPreview('campus', '');
 
     if (uniId) {
       // Edit Mode
@@ -2118,14 +2168,9 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       setVal('cms-uni-description', uniData.description || (uniData.summary && uniData.summary.english) || '');
 
       // Update Media Previews
-      if (uniData.logo && boxLogo && imgLogo) {
-        imgLogo.src = uniData.logo;
-        boxLogo.style.display = 'flex';
-      }
-      if (uniData.image && boxImage && imgImage) {
-        imgImage.src = uniData.image;
-        boxImage.style.display = 'flex';
-      }
+      updateUniMediaPreview('logo', uniData.logo || '');
+      updateUniMediaPreview('campus', uniData.image || '');
+
       if ((uniData.videoUrl || uniData.video_url) && videoWrap && videoIframe) {
         videoIframe.src = getYouTubeEmbedUrl(uniData.videoUrl || uniData.video_url);
         videoWrap.style.display = 'block';
@@ -2138,11 +2183,17 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         elId.value = '';
         elId.readOnly = false;
       }
+      updateUniMediaPreview('logo', '');
+      updateUniMediaPreview('campus', '');
     }
 
     elModalUniversity.classList.add('open');
     document.body.style.overflow = 'hidden';
   }
+
+  // Alias for compatibility
+  const openUniModal = openCmsUniversityModal;
+  window.openUniModal = openCmsUniversityModal;
 
   // Handle University Form Submit (Save)
   if (elFormUniversity) {
@@ -2278,7 +2329,7 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
     }
   }
 
-  // University Modal Media Upload Triggers & Live Previews
+  // University Modal Media Upload Triggers, Live Previews & Deletions
   const btnTriggerUniLogo = document.getElementById('btn-trigger-upload-uni-logo');
   const fileUniLogo = document.getElementById('file-uni-logo');
   if (btnTriggerUniLogo && fileUniLogo) {
@@ -2287,20 +2338,18 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       if (this.files && this.files[0]) {
         const file = this.files[0];
         btnTriggerUniLogo.disabled = true;
-        const uploadedUrl = await uploadCmsMedia(file, 'logo');
-        if (uploadedUrl) {
-          const inp = document.getElementById('cms-uni-logo');
-          if (inp) {
-            inp.value = uploadedUrl;
-            inp.dispatchEvent(new Event('input', { bubbles: true }));
-            inp.dispatchEvent(new Event('change', { bubbles: true }));
+        const originalHtml = btnTriggerUniLogo.innerHTML;
+        btnTriggerUniLogo.innerHTML = '<span>جاري الرفع... ⏳</span>';
+        try {
+          const uploadedUrl = await uploadCmsMedia(file, 'logo');
+          if (uploadedUrl) {
+            updateUniMediaPreview('logo', uploadedUrl);
           }
-          const box = document.getElementById('box-preview-uni-logo');
-          const img = document.getElementById('img-preview-uni-logo');
-          if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
+        } finally {
+          btnTriggerUniLogo.disabled = false;
+          btnTriggerUniLogo.innerHTML = originalHtml;
+          this.value = '';
         }
-        btnTriggerUniLogo.disabled = false;
-        this.value = '';
       }
     });
   }
@@ -2313,21 +2362,57 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       if (this.files && this.files[0]) {
         const file = this.files[0];
         btnTriggerUniImg.disabled = true;
-        const uploadedUrl = await uploadCmsMedia(file, 'campus');
-        if (uploadedUrl) {
-          const inp = document.getElementById('cms-uni-image');
-          if (inp) {
-            inp.value = uploadedUrl;
-            inp.dispatchEvent(new Event('input', { bubbles: true }));
-            inp.dispatchEvent(new Event('change', { bubbles: true }));
+        const originalHtml = btnTriggerUniImg.innerHTML;
+        btnTriggerUniImg.innerHTML = '<span>جاري الرفع... ⏳</span>';
+        try {
+          const uploadedUrl = await uploadCmsMedia(file, 'campus');
+          if (uploadedUrl) {
+            updateUniMediaPreview('campus', uploadedUrl);
           }
-          const box = document.getElementById('box-preview-uni-image');
-          const img = document.getElementById('img-preview-uni-image');
-          if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
+        } finally {
+          btnTriggerUniImg.disabled = false;
+          btnTriggerUniImg.innerHTML = originalHtml;
+          this.value = '';
         }
-        btnTriggerUniImg.disabled = false;
-        this.value = '';
       }
+    });
+  }
+
+  // Delete Buttons for Logo & Campus Image
+  const btnDeleteUniLogo = document.getElementById('btn-delete-uni-logo');
+  if (btnDeleteUniLogo) {
+    btnDeleteUniLogo.addEventListener('click', function() {
+      updateUniMediaPreview('logo', '');
+      showToast('تم حذف شعار الجامعة', 'success');
+    });
+  }
+
+  const btnDeleteUniImg = document.getElementById('btn-delete-uni-image');
+  if (btnDeleteUniImg) {
+    btnDeleteUniImg.addEventListener('click', function() {
+      updateUniMediaPreview('campus', '');
+      showToast('تم حذف صورة الغلاف', 'success');
+    });
+  }
+
+  // Live URL Typing & Paste Listeners
+  const inpCmsUniLogo = document.getElementById('cms-uni-logo');
+  if (inpCmsUniLogo) {
+    inpCmsUniLogo.addEventListener('input', function() {
+      updateUniMediaPreview('logo', this.value.trim());
+    });
+    inpCmsUniLogo.addEventListener('change', function() {
+      updateUniMediaPreview('logo', this.value.trim());
+    });
+  }
+
+  const inpCmsUniImage = document.getElementById('cms-uni-image');
+  if (inpCmsUniImage) {
+    inpCmsUniImage.addEventListener('input', function() {
+      updateUniMediaPreview('campus', this.value.trim());
+    });
+    inpCmsUniImage.addEventListener('change', function() {
+      updateUniMediaPreview('campus', this.value.trim());
     });
   }
 

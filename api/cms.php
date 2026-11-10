@@ -20,6 +20,7 @@ $input  = json_decode(file_get_contents('php://input'), true) ?: $_POST;
 define('CMS_DATA_DIR', dirname(__DIR__) . DIRECTORY_SEPARATOR . 'data' . DIRECTORY_SEPARATOR);
 define('CMS_UNI_DETAILS_DIR', CMS_DATA_DIR . 'university-details' . DIRECTORY_SEPARATOR);
 define('CMS_PHOTO_DIR', dirname(__DIR__) . DIRECTORY_SEPARATOR . 'assets' . DIRECTORY_SEPARATOR . 'photo' . DIRECTORY_SEPARATOR);
+define('CMS_CMS_PHOTO_DIR', CMS_PHOTO_DIR . 'cms' . DIRECTORY_SEPARATOR);
 define('CMS_LC_PHOTO_DIR', CMS_PHOTO_DIR . 'lc' . DIRECTORY_SEPARATOR);
 
 /**
@@ -646,8 +647,8 @@ try {
             $fileOrig = $file['name'];
             $type     = isset($_POST['type']) ? trim($_POST['type']) : 'general';
 
-            if ($fileSize > 10 * 1024 * 1024) {
-                sendResponse(false, null, 'حجم الملف يتجاوز الحد المسموح به (10 ميجابايت)', 400);
+            if ($fileSize > 8 * 1024 * 1024) {
+                sendResponse(false, null, 'حجم الملف يتجاوز الحد المسموح به (8 ميجابايت)', 400);
             }
 
             // Prevent Double Extension Attacks (e.g. test.php.png)
@@ -656,9 +657,9 @@ try {
             }
 
             $ext = strtolower(pathinfo($fileOrig, PATHINFO_EXTENSION));
-            $allowedExts = ['webp', 'png', 'jpg', 'jpeg', 'svg'];
+            $allowedExts = ['webp', 'png', 'jpg', 'jpeg', 'svg', 'gif'];
             if (!in_array($ext, $allowedExts)) {
-                sendResponse(false, null, 'نوع الملف غير مدعوم. الصيغ المدعومة: webp, png, jpg, jpeg, svg', 400);
+                sendResponse(false, null, 'نوع الملف غير مدعوم. الصيغ المدعومة: webp, png, jpg, jpeg, svg, gif', 400);
             }
 
             // Real MIME Inspection
@@ -666,14 +667,14 @@ try {
                 $finfo = finfo_open(FILEINFO_MIME_TYPE);
                 $realMime = finfo_file($finfo, $fileTmp);
                 finfo_close($finfo);
-                $allowedMimes = ['image/webp', 'image/png', 'image/jpeg', 'image/svg+xml'];
+                $allowedMimes = ['image/webp', 'image/png', 'image/jpeg', 'image/svg+xml', 'image/gif'];
                 if (!in_array($realMime, $allowedMimes) && $ext !== 'svg') {
                     sendResponse(false, null, 'محتوى الملف لا يتطابق مع امتداد الصورة المرفوعة', 400);
                 }
             }
 
             // Destination directory
-            $targetDir = ($type === 'lc') ? CMS_LC_PHOTO_DIR : CMS_PHOTO_DIR;
+            $targetDir = ($type === 'lc') ? CMS_LC_PHOTO_DIR : CMS_CMS_PHOTO_DIR;
             if (!is_dir($targetDir)) {
                 @mkdir($targetDir, 0755, true);
             }
@@ -688,7 +689,7 @@ try {
 
             @chmod($targetPath, 0644);
 
-            $relativePath = ($type === 'lc') ? 'assets/photo/lc/' . $cleanName : 'assets/photo/' . $cleanName;
+            $relativePath = ($type === 'lc') ? 'assets/photo/lc/' . $cleanName : 'assets/photo/cms/' . $cleanName;
 
             sendResponse(true, [
                 'path'      => $relativePath,
