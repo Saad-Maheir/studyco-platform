@@ -51,8 +51,8 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       iconSvg = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>';
     }
 
-    toast.style.cssText = `background:${bg}; border:${border}; color:#ffffff; padding:13px 18px; border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.22); font-size:0.9rem; font-weight:600; display:flex; align-items:center; gap:12px; pointer-events:auto; transition:all 0.3s cubic-bezier(0.16, 1, 0.3, 1); direction:${document.documentElement.dir || 'rtl'}; text-align:${document.documentElement.dir === 'ltr' ? 'left' : 'right'};`;
-    toast.innerHTML = `${iconSvg}<span style="flex:1; line-height:1.45;">${escapeHtml(message)}</span>`;
+    toast.style.cssText = `background:${bg} !important; border:${border} !important; color:#ffffff !important; padding:13px 18px; border-radius:12px; box-shadow:0 12px 30px rgba(0,0,0,0.22); font-size:0.9rem; font-weight:600; display:flex; align-items:center; gap:12px; pointer-events:auto; transition:all 0.3s cubic-bezier(0.16, 1, 0.3, 1); direction:${document.documentElement.dir || 'rtl'}; text-align:${document.documentElement.dir === 'ltr' ? 'left' : 'right'};`;
+    toast.innerHTML = `${iconSvg}<span style="flex:1; line-height:1.45; color:#ffffff !important;">${escapeHtml(message)}</span>`;
 
     container.appendChild(toast);
 
@@ -61,6 +61,18 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
       toast.style.transform = 'translateY(-12px) scale(0.96)';
       setTimeout(() => toast.remove(), 320);
     }, duration);
+  }
+
+  // Slugify Helper for Clean URL Identifiers
+  function slugifyText(text) {
+    if (!text) return '';
+    return text
+      .toString()
+      .toLowerCase()
+      .trim()
+      .replace(/['’]/g, '')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
   }
 
   // Format Bytes Helper
@@ -2278,7 +2290,11 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         const uploadedUrl = await uploadCmsMedia(file, 'logo');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-uni-logo');
-          if (inp) inp.value = uploadedUrl;
+          if (inp) {
+            inp.value = uploadedUrl;
+            inp.dispatchEvent(new Event('input', { bubbles: true }));
+            inp.dispatchEvent(new Event('change', { bubbles: true }));
+          }
           const box = document.getElementById('box-preview-uni-logo');
           const img = document.getElementById('img-preview-uni-logo');
           if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
@@ -2300,7 +2316,11 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         const uploadedUrl = await uploadCmsMedia(file, 'campus');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-uni-image');
-          if (inp) inp.value = uploadedUrl;
+          if (inp) {
+            inp.value = uploadedUrl;
+            inp.dispatchEvent(new Event('input', { bubbles: true }));
+            inp.dispatchEvent(new Event('change', { bubbles: true }));
+          }
           const box = document.getElementById('box-preview-uni-image');
           const img = document.getElementById('img-preview-uni-image');
           if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
@@ -2943,7 +2963,11 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         const uploadedUrl = await uploadCmsMedia(file, 'online');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-online-image');
-          if (inp) inp.value = uploadedUrl;
+          if (inp) {
+            inp.value = uploadedUrl;
+            inp.dispatchEvent(new Event('input', { bubbles: true }));
+            inp.dispatchEvent(new Event('change', { bubbles: true }));
+          }
           const box = document.getElementById('box-preview-online-image');
           const img = document.getElementById('img-preview-online-image');
           if (box && img) {
@@ -3316,7 +3340,11 @@ const API_BASE = window.STUDYCO_API_BASE || 'api';
         const uploadedUrl = await uploadCmsMedia(file, 'lc');
         if (uploadedUrl) {
           const inp = document.getElementById('cms-lc-image');
-          if (inp) inp.value = uploadedUrl;
+          if (inp) {
+            inp.value = uploadedUrl;
+            inp.dispatchEvent(new Event('input', { bubbles: true }));
+            inp.dispatchEvent(new Event('change', { bubbles: true }));
+          }
           const box = document.getElementById('box-preview-lc-image');
           const img = document.getElementById('img-preview-lc-image');
           if (box && img) { img.src = uploadedUrl; box.style.display = 'flex'; }
