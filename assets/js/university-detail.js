@@ -3,6 +3,8 @@ import { CONFIG } from './config.js?v=88.0';
 import { getExchangeRates, convertFromMYR, convertCurrency, formatCurrencyValue, formatProgramPrice, getCountryCurrency } from './currency.js?v=88.0';
 import { ICONS, FIELD_SVG_ICONS, resolveIcon, formatRanking } from './icons.js';
 
+const SHOW_ARTICLES_TAB = false; // Toggle to true when Articles & Guides content is ready
+
 const COUNTRY_KEY = {
   malaysia: 'dest_malaysia',
   australia: 'dest_australia',
@@ -581,7 +583,9 @@ class UniversityDetailManager {
     const uniId = params.get('id') || 'taylors';
 
     const tabParam = params.get('tab') || window.location.hash.replace('#', '');
-    if (['overview', 'courses', 'articles', 'accommodation'].includes(tabParam)) {
+    const validTabs = ['overview', 'courses', 'accommodation'];
+    if (SHOW_ARTICLES_TAB) validTabs.push('articles');
+    if (validTabs.includes(tabParam)) {
       this.activeTab = tabParam;
     }
 
@@ -1440,7 +1444,7 @@ class UniversityDetailManager {
           <span>${i18n.t('tab_courses')}</span>
           <span class="tab-count-badge">${this.programs.length}</span>
         </button>
-        <button class="profile-main-tab ${this.activeTab === 'articles' ? 'active' : ''}" data-tab="articles">
+        <button class="profile-main-tab ${this.activeTab === 'articles' ? 'active' : ''}" data-tab="articles" style="${SHOW_ARTICLES_TAB ? '' : 'display:none !important;'}">
           <span class="tab-icon">${ICONS.fileText}</span>
           <span>${i18n.t('tab_articles')}</span>
         </button>
@@ -1712,7 +1716,7 @@ class UniversityDetailManager {
       </div>
 
       <!-- TAB 3: ARTICLES & GUIDES PANE -->
-      <div class="profile-tab-pane ${this.activeTab === 'articles' ? 'active' : ''}" id="tab-articles">
+      <div class="profile-tab-pane ${this.activeTab === 'articles' ? 'active' : ''}" id="tab-articles" style="${SHOW_ARTICLES_TAB ? '' : 'display:none !important;'}">
         <section class="profile-section">
           <h2 class="profile-section-title">${i18n.t('tab_articles')}</h2>
           <p class="profile-section-subtitle" style="margin-block-end: 2rem;">${i18n.t('articles_subtitle')}</p>

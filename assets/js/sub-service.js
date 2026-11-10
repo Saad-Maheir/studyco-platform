@@ -309,7 +309,7 @@ export class SubServicePageManager {
     const bcEl = document.querySelector('.ss-breadcrumb');
     if (bcEl) {
       bcEl.innerHTML = `
-        <a href="index.html">${this.t('home')}</a>
+        <a href="/">${this.t('home')}</a>
         <span>/</span>
         <a href="student-services.html">${this.t('studentServices')}</a>
         <span>/</span>
